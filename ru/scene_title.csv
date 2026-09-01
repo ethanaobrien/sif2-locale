@@ -1,0 +1,88 @@
+﻿_key,_text
+mst.scene_title.DeckTop._mainTitle,Состав отряда
+mst.scene_title.DeckEdit._mainTitle,Состав отряда
+mst.scene_title.DeckCharaSelect._mainTitle,Выбор Айдл
+mst.scene_title.Classmate._mainTitle,Список айдолов
+mst.scene_title.CostumeCharaList._mainTitle,Смена костюма
+mst.scene_title.Practice._mainTitle,Урок
+mst.scene_title.SkillPractice._mainTitle,Навыки
+mst.scene_title.Training._mainTitle,Пробуждение
+mst.scene_title.MemberList._mainTitle,Список айдолов
+mst.scene_title.WaitingMemberList._mainTitle,Запасные члены
+mst.scene_title.CardDetail._mainTitle,Детали об Айдле
+mst.scene_title.MemberIllustrateList._mainTitle,Альбом
+mst.scene_title.MemberCharaTop._mainTitle,Детали участницы
+mst.scene_title.AreaTalkList._mainTitle,Заглушка
+mst.scene_title.Album._mainTitle,Заглушка
+mst.scene_title.MovieCollection._mainTitle,Коллекция
+mst.scene_title.CardAlbum._mainTitle,Карточный альбом
+mst.scene_title.DeckConfirm._mainTitle,Подготовка к Live
+mst.scene_title.Profile._mainTitle,Профиль
+mst.scene_title.RecommendList._mainTitle,Избранное
+mst.scene_title.Friend._mainTitle,Список друзей
+mst.scene_title.LiveSelect._mainTitle,Выбор Live
+mst.scene_title.MusicSelect._mainTitle,Выбор песни
+mst.scene_title.CooperationLive._mainTitle,Сессия выбора
+mst.scene_title.CooperationLiveMatching._mainTitle,Поиск игроков
+mst.scene_title.MultiMusicSelect._mainTitle,Выбор песни
+mst.scene_title.MusicDecision._mainTitle,Перемешать песни
+mst.scene_title.MusicDifficulty._mainTitle,Сложность
+mst.scene_title.MultiConfirm._mainTitle,Финальная проверка
+mst.scene_title.StampSetting._mainTitle,Избранное
+mst.scene_title.Warehouse._mainTitle,Декор комнаты
+mst.scene_title.TitleListSelect._mainTitle,Выбор титула
+mst.scene_title.TitleListView._mainTitle,Список титулов
+mst.scene_title.SealExchange._mainTitle,Обмен
+mst.scene_title.BadgeExchange._mainTitle,Обмен
+mst.scene_title.EventTop._mainTitle,Событие
+mst.scene_title.EventStoryTop._mainTitle,Сюжет события
+mst.scene_title.EventStory._mainTitle,Выбор события
+mst.scene_title.EventScoreRanking._mainTitle,Рейтинг событий
+mst.scene_title.EventReward._mainTitle,Награда за событие
+mst.scene_title.ItemList._mainTitle,Список предметов
+mst.scene_title.ExchangeTop._mainTitle,Обмен
+mst.scene_title.EventMusicSelect._mainTitle,Выбор песни
+mst.scene_title.EventChallengeLiveMusicSelect._mainTitle,Выбор песни
+mst.scene_title.EventLiveTryMusicSelect._mainTitle,Выбор песни
+mst.scene_title.EventDeckConfirm._mainTitle,Деки подготовка
+mst.scene_title.EventChallengeLiveDeckConfirm._mainTitle,Деки подготовка
+mst.scene_title.EventLiveTryDeckConfirm._mainTitle,Деки подготовка
+mst.scene_title.ExchangeItemList._mainTitle,Обмен
+mst.scene_title.BirthdayTop._mainTitle,День рождения
+mst.scene_title.MapScene._mainTitle,Область выбора
+mst.scene_title.MultiLiveEventCooperationLive._mainTitle,Выбор комнаты
+mst.scene_title.MultiLiveEventCooperationLiveMatching._mainTitle,Поиск игроков
+mst.scene_title.MultiLiveEventMultiMusicSelect._mainTitle,Выбор песни
+mst.scene_title.MultiLiveEventMusicDecision._mainTitle,Перемешать песни
+mst.scene_title.MultiLiveEventMusicDifficulty._mainTitle,Сложность
+mst.scene_title.MultiLiveEventMultiConfirm._mainTitle,Финальная проверка
+mst.scene_title.LimitedLiveTop._mainTitle,Специальный Live
+mst.scene_title.LimitedLiveLottery._mainTitle,Перемешать песни
+mst.scene_title.TeacherLiveMusicSelect._mainTitle,Выбор песни
+mst.scene_title.TeacherLiveDeckConfirm._mainTitle,Деки подготовка
+mst.scene_title.TeacherLiveTop._mainTitle,Выбор Live
+mst.scene_title.CharacterEpisodeLevel._mainTitle,Эпизод
+mst.scene_title.BoxGardenTop._mainTitle,Кастомизация комнаты
+mst.scene_title.GachaTop._mainTitle,Набор
+mst.scene_title.GachaResult._mainTitle,Результат набора
+mst.scene_title.BandEnrichTop._mainTitle,Улучшение группы
+mst.scene_title.BandEnrich._mainTitle,Улучшение группы
+mst.scene_title.StoryTop._mainTitle,СЮЖЕТ
+mst.scene_title.StoryMainTop._mainTitle,Сюжет
+mst.scene_title.StoryCardMemberTop._mainTitle,Выбор участницы
+mst.scene_title.StoryCardEpisodeTop._mainTitle,Выбор эпизода
+mst.scene_title.Shop._mainTitle,Магазин
+mst.scene_title.BeginnerMission._mainTitle,Новичкам
+mst.scene_title.GuestSelect._mainTitle,Гость: выбор
+mst.scene_title.MusicRanking._mainTitle,Рейтинг по песням
+mst.scene_title.MusicRecommend._mainTitle,Рекомендации
+mst.scene_title.ComicList._mainTitle,Короткий комикс
+mst.scene_title.PresentBox._mainTitle,Подарки
+mst.scene_title.Mission._mainTitle,Задание
+mst.scene_title.ProfileMemberSelect._mainTitle,Редактировать профиль
+mst.scene_title.FriendGestDetail._mainTitle,Детали гостя
+mst.scene_title.FriendGestMemberSelect._mainTitle,Гости — Редактировать
+mst.scene_title.LocationInformation._mainTitle,Подарок для прогулки
+mst.scene_title.MusicLibrary._mainTitle,Музыкальная библиотека
+mst.scene_title.SerialCodeDisplay._mainTitle,Проверка кода
+mst.scene_title.StarEventRanking._mainTitle,Рейтинг звёздных уровней

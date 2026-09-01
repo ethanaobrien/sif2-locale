@@ -1,0 +1,88 @@
+﻿_key,_text
+mst.scene_title.DeckTop._mainTitle,Formación de unidad
+mst.scene_title.DeckEdit._mainTitle,Formación de unidad
+mst.scene_title.DeckCharaSelect._mainTitle,Selección de Idol
+mst.scene_title.Classmate._mainTitle,Lista de Idols
+mst.scene_title.CostumeCharaList._mainTitle,Cambio de vestuario
+mst.scene_title.Practice._mainTitle,Lección
+mst.scene_title.SkillPractice._mainTitle,Lección de habilidades
+mst.scene_title.Training._mainTitle,Despertar
+mst.scene_title.MemberList._mainTitle,Lista de Idols
+mst.scene_title.WaitingMemberList._mainTitle,Sala de espera
+mst.scene_title.CardDetail._mainTitle,Detalle de la Idol
+mst.scene_title.MemberIllustrateList._mainTitle,Álbum
+mst.scene_title.MemberCharaTop._mainTitle,Detalle del miembro
+mst.scene_title.AreaTalkList._mainTitle,Álbum
+mst.scene_title.Album._mainTitle,Álbum
+mst.scene_title.MovieCollection._mainTitle,Colección
+mst.scene_title.CardAlbum._mainTitle,Álbum de cartas
+mst.scene_title.DeckConfirm._mainTitle,Preparación Live
+mst.scene_title.Profile._mainTitle,Perfil
+mst.scene_title.RecommendList._mainTitle,Favoritos
+mst.scene_title.Friend._mainTitle,Lista de amigos
+mst.scene_title.LiveSelect._mainTitle,Selección Live
+mst.scene_title.MusicSelect._mainTitle,Selección de canciones
+mst.scene_title.CooperationLive._mainTitle,Sesión
+mst.scene_title.CooperationLiveMatching._mainTitle,Búsqueda
+mst.scene_title.MultiMusicSelect._mainTitle,Selección de canciones
+mst.scene_title.MusicDecision._mainTitle,Mezclar canciones
+mst.scene_title.MusicDifficulty._mainTitle,Dificultad
+mst.scene_title.MultiConfirm._mainTitle,Confirmación final
+mst.scene_title.StampSetting._mainTitle,Configuración de favoritos
+mst.scene_title.Warehouse._mainTitle,Partes de la habitación
+mst.scene_title.TitleListSelect._mainTitle,Seleccionar título
+mst.scene_title.TitleListView._mainTitle,Lista de títulos
+mst.scene_title.SealExchange._mainTitle,Intercambio
+mst.scene_title.BadgeExchange._mainTitle,Intercambio
+mst.scene_title.EventTop._mainTitle,Evento
+mst.scene_title.EventStoryTop._mainTitle,HISTORIAS DEL EVENTO
+mst.scene_title.EventStory._mainTitle,Seleccionar evento
+mst.scene_title.EventScoreRanking._mainTitle,Ranking del evento
+mst.scene_title.EventReward._mainTitle,Recompensa del evento
+mst.scene_title.ItemList._mainTitle,Lista de objetos
+mst.scene_title.ExchangeTop._mainTitle,Intercambio
+mst.scene_title.EventMusicSelect._mainTitle,Selección de canciones
+mst.scene_title.EventChallengeLiveMusicSelect._mainTitle,Selección de canciones
+mst.scene_title.EventLiveTryMusicSelect._mainTitle,Selección de canciones
+mst.scene_title.EventDeckConfirm._mainTitle,Preparar mazo
+mst.scene_title.EventChallengeLiveDeckConfirm._mainTitle,Preparar mazo
+mst.scene_title.EventLiveTryDeckConfirm._mainTitle,Preparar mazo
+mst.scene_title.ExchangeItemList._mainTitle,Intercambio
+mst.scene_title.BirthdayTop._mainTitle,Cumpleaños
+mst.scene_title.MapScene._mainTitle,Seleccionar área
+mst.scene_title.MultiLiveEventCooperationLive._mainTitle,Seleccionar sala
+mst.scene_title.MultiLiveEventCooperationLiveMatching._mainTitle,Búsqueda
+mst.scene_title.MultiLiveEventMultiMusicSelect._mainTitle,Selección de canciones
+mst.scene_title.MultiLiveEventMusicDecision._mainTitle,Mezclar canciones
+mst.scene_title.MultiLiveEventMusicDifficulty._mainTitle,Dificultad
+mst.scene_title.MultiLiveEventMultiConfirm._mainTitle,Confirmación final
+mst.scene_title.LimitedLiveTop._mainTitle,Live Event
+mst.scene_title.LimitedLiveLottery._mainTitle,Mezclar canciones
+mst.scene_title.TeacherLiveMusicSelect._mainTitle,Selección de canciones
+mst.scene_title.TeacherLiveDeckConfirm._mainTitle,Preparar mazo
+mst.scene_title.TeacherLiveTop._mainTitle,Selección Live
+mst.scene_title.CharacterEpisodeLevel._mainTitle,Episodio
+mst.scene_title.BoxGardenTop._mainTitle,Sala de personalización
+mst.scene_title.GachaTop._mainTitle,Reclutamiento
+mst.scene_title.GachaResult._mainTitle,Resultado del Reclutamiento
+mst.scene_title.BandEnrichTop._mainTitle,MEJORA DE BANDA
+mst.scene_title.BandEnrich._mainTitle,Mejora de banda
+mst.scene_title.StoryTop._mainTitle,HISTORIAS
+mst.scene_title.StoryMainTop._mainTitle,HISTORIA
+mst.scene_title.StoryCardMemberTop._mainTitle,Seleccionar Miembro
+mst.scene_title.StoryCardEpisodeTop._mainTitle,Episodios
+mst.scene_title.Shop._mainTitle,Tienda
+mst.scene_title.BeginnerMission._mainTitle,Misión para principiantes
+mst.scene_title.GuestSelect._mainTitle,Invitados
+mst.scene_title.MusicRanking._mainTitle,Ranking por canción
+mst.scene_title.MusicRecommend._mainTitle,Lista recomendada
+mst.scene_title.ComicList._mainTitle,Cómic
+mst.scene_title.PresentBox._mainTitle,Caja de regalos
+mst.scene_title.Mission._mainTitle,Misión
+mst.scene_title.ProfileMemberSelect._mainTitle,Editar perfil
+mst.scene_title.FriendGestDetail._mainTitle,Detalles del invitado
+mst.scene_title.FriendGestMemberSelect._mainTitle,Editar invitada
+mst.scene_title.LocationInformation._mainTitle,Regalo para salir
+mst.scene_title.MusicLibrary._mainTitle,Biblioteca musical
+mst.scene_title.SerialCodeDisplay._mainTitle,Código serial
+mst.scene_title.StarEventRanking._mainTitle,Ranking de Nivel Estrella

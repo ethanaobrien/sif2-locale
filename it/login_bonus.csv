@@ -1,0 +1,311 @@
+﻿_key,_text
+mst.login_bonus.1._name,Bonus giornaliero
+mst.login_bonus.2._name,Bonus accesso rapido
+mst.login_bonus.3._name,Bonus accesso rapido [permanente]
+mst.login_bonus.10001._name,Festival 10 giorni
+mst.login_bonus.10002._name,"Festa del ringraziamento, giorno 1"
+mst.login_bonus.10003._name,"Festa del ringraziamento, giorno 2"
+mst.login_bonus.10004._name,Yohane 1
+mst.login_bonus.10005._name,Yohane 2
+mst.login_bonus.10006._name,Yohane 3
+mst.login_bonus.10007._name,ヨハネ4
+mst.login_bonus.10008._name,ヨハネ5
+mst.login_bonus.10009._name,ヨハネ6
+mst.login_bonus.10010._name,ヨハネ7
+mst.login_bonus.10011._name,ヨハネ8
+mst.login_bonus.10012._name,ヨハネ9
+mst.login_bonus.10013._name,ヨハネ10
+mst.login_bonus.10014._name,ヨハネ11
+mst.login_bonus.10015._name,ヨハネ12
+mst.login_bonus.10016._name,ヨハネ13
+mst.login_bonus.10017._name,Bonus OVA di Nijigasaki
+mst.login_bonus.10018._name,Obon
+mst.login_bonus.10019._name,Anisama Logbo_1
+mst.login_bonus.10020._name,Anisama Logbo 2
+mst.login_bonus.10021._name,Comiket Logbo
+mst.login_bonus.10022._name,Liella! Chiba
+mst.login_bonus.10023._name,Liella! Aichi
+mst.login_bonus.10024._name,Liella! Tokyo
+mst.login_bonus.10025._name,Liella! Osaka
+mst.login_bonus.10028._name,Halloween
+mst.login_bonus.10029._name,蓮ノ空＜福岡公演＞
+mst.login_bonus.10030._name,Lotus Paradise
+mst.login_bonus.10031._name,蓮ノ空＜名古屋公演＞
+mst.login_bonus.10034._name,Festival interdimensionale Idolmaster ★ ♥ Love Live! Bonus login per celebrare il festival musicale
+mst.login_bonus.10037._name,Festival d’autunno
+mst.login_bonus.10035._name,Bonus accesso: evento speciale di 幻日のヨハネ
+mst.login_bonus.10036._name,Love Live! Nijigasaki Gakuen School Idol Club 6° Live! I love You ⇆ You love Me – Bonus accesso per celebrare la tappa di Aichi
+mst.login_bonus.10038._name,Campagna di Natale bianca - Parte 1
+mst.login_bonus.10039._name,Bonus login per il Capodanno! Campagna Miracolo
+mst.login_bonus.10040._name,Campagna di Natale Bianco - Parte 2
+mst.login_bonus.10041._name,Bonus accesso: Love Live! Nijigasaki Gakuen School Idol Club 6° Live! I love You ⇆ You love Me – Evento speciale a Kanagawa
+mst.login_bonus.10042._name,"Bonus accesso per il School Idol Musical <2024>, in occasione degli spettacoli."
+mst.login_bonus.10043._name,Bonus per 3 Live consecutivi! Campagna “Facciamo tanti applausi”!
+mst.login_bonus.10044._name,Bonus accesso per il lancio di “Love Live! Superstar!! Liella! 5th LoveLive! ~Twinkle Triangle~ ”
+mst.login_bonus.10045._name,Bonus accesso per il lancio di “Love Live! Superstar!! Liella! 5th LoveLive! ~Twinkle Triangle~ ”
+mst.login_bonus.10046._name,Bonus accesso: Campagna San Valentino
+mst.login_bonus.10047._name,Bonus accesso per la campagna “Festeggiamo le vacanze invernali e facciamo tanti “Shanshan”!”
+mst.login_bonus.10050._name,Bonus login per la campagna Colorful Spring
+mst.login_bonus.10051._name,Grazie per il supporto! Campagna login bonus speciale
+mst.login_bonus.10054._name,Bonus accesso per il decimo anniversario della trasmissione dell'anime Love Live! e per la celebrazione del Love Live! Special Talk Session.
+mst.login_bonus.10055._name,Bonus accesso per il LoveLive! Series Presents Unit Koshien 2024
+mst.login_bonus.10056._name,"Bonus accesso: LoveLive! Concerto orchestrale, per celebrare il 10° anniversario della serie TV."
+mst.login_bonus.10057._name,Bonus di ringraziamento per School Festa 2
+mst.login_bonus.10058._name,Bonus di ringraziamento per School Festa 2
+mst.login_bonus.10059._name,Bonus login per il lancio del Reclutamento speciale – Sakura Saka Shizuku
+mst.login_bonus.10060._name,Bonus login speciale – Reclutamento commemorativo – Sakura Kojiko
+mst.login_bonus.10061._name,Bonus login speciale per il reclutamento –
+mst.login_bonus.10062._name,Bonus login per il Reclutamento speciale – Nishikino Maki
+mst.login_bonus.20000._name,Bonus accesso per abbonamento
+mst.login_bonus.20001._name,Bonus accesso: Supera il momento difficile!
+mst.login_bonus.20002._name,"Bonus accesso evento μ's, aprile 2023"
+mst.login_bonus.20003._name,Maggio 2023: evento semplificato
+mst.login_bonus.20004._name,23/05: Evento Aqours - Bonus Login
+mst.login_bonus.20005._name,Maggio 2023: evento semplificato
+mst.login_bonus.20006._name,23/06: Evento A - Bonus Login
+mst.login_bonus.20007._name,23/06: Evento Semplice
+mst.login_bonus.20008._name,23/06: Evento B - Bonus Login
+mst.login_bonus.20009._name,23 luglio: Evento A - Bonus di accesso
+mst.login_bonus.20010._name,23/07: Evento semplificato
+mst.login_bonus.20011._name,23/07: Evento B - Bonus Login
+mst.login_bonus.20012._name,23/07: Evento semplificato
+mst.login_bonus.20013._name,23/08: Evento A - Bonus Login
+mst.login_bonus.20014._name,23/08: Evento semplificato
+mst.login_bonus.20015._name,23/08: Evento B - Bonus Login
+mst.login_bonus.20016._name,23/08: Evento semplificato
+mst.login_bonus.20017._name,23/09: Evento A - Bonus Login
+mst.login_bonus.20018._name,23/09: Evento semplificato
+mst.login_bonus.20019._name,23/09: Evento B - Bonus Login
+mst.login_bonus.20020._name,23/09: Evento semplificato
+mst.login_bonus.20021._name,23/10: Evento A - Bonus Login
+mst.login_bonus.20022._name,23/10: Evento semplificato (inizio mese)
+mst.login_bonus.20023._name,23/10: Evento B - Bonus Login
+mst.login_bonus.20024._name,23/10: Evento (fine mese)
+mst.login_bonus.20025._name,23/11: Evento A - Bonus Login
+mst.login_bonus.20026._name,23/11: Evento (inizio mese) - Bonus Login
+mst.login_bonus.20027._name,23/11: Evento B - Bonus Login
+mst.login_bonus.20028._name,23/11: Evento (fine mese) - Bonus Login
+mst.login_bonus.20029._name,23 Dicembre: Evento A - Bonus Login
+mst.login_bonus.20030._name,23/12: Evento (inizio mese) - Bonus Login
+mst.login_bonus.20031._name,23/12: Evento B - Bonus Login
+mst.login_bonus.20032._name,23/12: Evento (fine mese) - Bonus Login
+mst.login_bonus.20033._name,24 Gennaio: Evento A - Bonus Login
+mst.login_bonus.20034._name,24/01: Evento (inizio mese) - Bonus Login
+mst.login_bonus.20035._name,24/01: Evento B - Bonus Login
+mst.login_bonus.20036._name,24/01: Evento (fine mese) - Bonus Login
+mst.login_bonus.20037._name,24 febbraio: evento A - bonus di accesso
+mst.login_bonus.20038._name,24/02: Evento (inizio mese) - Bonus Login
+mst.login_bonus.20039._name,Bonus accesso evento B - Febbraio 2024
+mst.login_bonus.20040._name,24/02: Evento (fine mese) - Bonus Login
+mst.login_bonus.20041._name,"Bonus accesso evento B, marzo 2024"
+mst.login_bonus.30001._name,Bonus login per il compleanno di Honoka
+mst.login_bonus.30002._name,Bonus login per il compleanno di Eri-chan
+mst.login_bonus.30003._name,"Kotori-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30004._name,"Hanamaru-chan, bonus di accesso per il suo compleanno"
+mst.login_bonus.30005._name,"Rin-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30007._name,Bonus di accesso per il compleanno di Nozomi
+mst.login_bonus.30008._name,Bonus login per il compleanno di Hanamaru
+mst.login_bonus.30009._name,"Nico-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30010._name,Bonus login per il compleanno di Chika
+mst.login_bonus.30011._name,Bonus di accesso per il compleanno di Riko
+mst.login_bonus.30012._name,Bonus di accesso per il compleanno di Kanon
+mst.login_bonus.30013._name,"Dia-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30015._name,Bonus di accesso per il compleanno di Yoshiko
+mst.login_bonus.30016._name,Bonus login per il compleanno di Hanaru
+mst.login_bonus.30017._name,"Mari-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30018._name,"Rubi-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30019._name,Bonus login per il compleanno di Ayumu
+mst.login_bonus.30020._name,"Kasumi-chan, bonus di accesso per il tuo compleanno"
+mst.login_bonus.30022._name,Bonus login per il compleanno di Karin
+mst.login_bonus.30023._name,Bonus di accesso per il compleanno di Ai
+mst.login_bonus.30024._name,Bonus login per il compleanno di
+mst.login_bonus.30025._name,"Setsuna-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30026._name,Bonus login per il compleanno di Emma
+mst.login_bonus.30027._name,Bonus di accesso per il compleanno di Rina
+mst.login_bonus.30028._name,Bonus login per il compleanno di Shizuko
+mst.login_bonus.30029._name,Bonus login per il compleanno di Mia
+mst.login_bonus.30030._name,Bonus login per il compleanno di Arashi Tama
+mst.login_bonus.30031._name,"Kanon-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30032._name,"Koko-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30033._name,"Chisato-chan, bonus di accesso per il suo compleanno"
+mst.login_bonus.30034._name,"Sumire-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30035._name,Bonus di accesso per il compleanno di Ren-chan
+mst.login_bonus.30037._name,Bonus login per il compleanno di Mei
+mst.login_bonus.30038._name,"Shiki-chan, bonus di accesso per il compleanno"
+mst.login_bonus.30039._name,Bonus login per il compleanno di Natsumi
+mst.login_bonus.30040._name,Bonus di accesso per il compleanno di Riko
+mst.login_bonus.30041._name,"Margarete, bonus di accesso per il compleanno"
+mst.login_bonus.30042._name,"Fuyu Mari, bonus di accesso per il compleanno"
+mst.login_bonus.40001._name,Bonus giornaliero 1
+mst.login_bonus.40002._name,Bonus giornaliero 2
+mst.login_bonus.40003._name,Bonus giornaliero 3
+mst.login_bonus.40004._name,Bonus giornaliero 4
+mst.login_bonus.40005._name,Bonus giornaliero 5
+mst.login_bonus.40006._name,Bonus giornaliero 6
+mst.login_bonus.40007._name,Bonus giornaliero 7
+mst.login_bonus.40008._name,Bonus giornaliero_8
+mst.login_bonus.40009._name,Bonus giornaliero 9
+mst.login_bonus.40010._name,Bonus giornaliero 10
+mst.login_bonus.40011._name,Bonus giornaliero 11
+mst.login_bonus.40012._name,Bonus giornaliero 12
+mst.login_bonus.40013._name,Bonus giornaliero_13
+mst.login_bonus.40014._name,Bonus giornaliero_14
+mst.login_bonus.40015._name,Bonus giornaliero 15
+mst.login_bonus.40016._name,Bonus giornaliero 16
+mst.login_bonus.40017._name,Bonus giornaliero 17
+mst.login_bonus.40018._name,Bonus giornaliero 18
+mst.login_bonus.40019._name,Bonus giornaliero 19
+mst.login_bonus.40020._name,Bonus giornaliero 20
+mst.login_bonus.40021._name,Bonus giornaliero 21
+mst.login_bonus.40022._name,Bonus giornaliero 22
+mst.login_bonus.40023._name,Bonus giornaliero 23
+mst.login_bonus.40024._name,Bonus giornaliero 24
+mst.login_bonus.40025._name,Bonus giornaliero 25
+mst.login_bonus.40026._name,Bonus giornaliero 26
+mst.login_bonus.40027._name,Bonus giornaliero_27
+mst.login_bonus.40028._name,Bonus giornaliero 28
+mst.login_bonus.40029._name,Bonus giornaliero 29
+mst.login_bonus.40030._name,Bonus giornaliero_30
+mst.login_bonus.40031._name,Bonus giornaliero 31
+mst.login_bonus.40032._name,Bonus giornaliero 32
+mst.login_bonus.40033._name,Bonus giornaliero 33
+mst.login_bonus.40034._name,Bonus giornaliero_34
+mst.login_bonus.40035._name,Bonus giornaliero_35
+mst.login_bonus.40036._name,Bonus giornaliero 36
+mst.login_bonus.40037._name,Bonus giornaliero_37
+mst.login_bonus.40038._name,Bonus giornaliero_38
+mst.login_bonus.40039._name,Bonus giornaliero_39
+mst.login_bonus.40040._name,Bonus giornaliero_40
+mst.login_bonus.40041._name,Bonus giornaliero 41
+mst.login_bonus.40042._name,Bonus giornaliero_42
+mst.login_bonus.40043._name,Bonus giornaliero 43
+mst.login_bonus.40044._name,Bonus giornaliero_44
+mst.login_bonus.40045._name,Bonus giornaliero_45
+mst.login_bonus.40046._name,Bonus giornaliero_46
+mst.login_bonus.40047._name,Bonus giornaliero_47
+mst.login_bonus.40048._name,Bonus giornaliero_48
+mst.login_bonus.40049._name,Bonus giornaliero 49
+mst.login_bonus.40050._name,Bonus giornaliero_50
+mst.login_bonus.40051._name,Bonus giornaliero 51
+mst.login_bonus.40052._name,Bonus giornaliero 52
+mst.login_bonus.40053._name,Bonus giornaliero 53
+mst.login_bonus.40054._name,Bonus giornaliero_54
+mst.login_bonus.40055._name,Bonus giornaliero_55
+mst.login_bonus.40056._name,Bonus giornaliero_56
+mst.login_bonus.40057._name,Bonus giornaliero_57
+mst.login_bonus.40058._name,Bonus giornaliero 58
+mst.login_bonus.40059._name,Bonus giornaliero_59
+mst.login_bonus.40060._name,Bonus giornaliero_60
+mst.login_bonus.40061._name,Bonus giornaliero 61
+mst.login_bonus.40062._name,Bonus giornaliero 62
+mst.login_bonus.40063._name,Bonus giornaliero 63
+mst.login_bonus.40064._name,Bonus giornaliero_64
+mst.login_bonus.40065._name,Bonus giornaliero_65
+mst.login_bonus.40066._name,Bonus giornaliero_66
+mst.login_bonus.40067._name,Bonus giornaliero_67
+mst.login_bonus.40068._name,Bonus giornaliero 68
+mst.login_bonus.40069._name,Bonus giornaliero 69
+mst.login_bonus.40070._name,Bonus giornaliero 70
+mst.login_bonus.40071._name,Bonus giornaliero 71
+mst.login_bonus.40072._name,Bonus giornaliero 72
+mst.login_bonus.40073._name,Bonus giornaliero 73
+mst.login_bonus.40074._name,Bonus giornaliero 74
+mst.login_bonus.40075._name,Bonus giornaliero 75
+mst.login_bonus.40076._name,Bonus giornaliero 76
+mst.login_bonus.40077._name,Bonus giornaliero_77
+mst.login_bonus.40078._name,Bonus giornaliero 78
+mst.login_bonus.40079._name,Bonus giornaliero 79
+mst.login_bonus.40080._name,Bonus giornaliero 80
+mst.login_bonus.40081._name,Bonus giornaliero 81
+mst.login_bonus.40082._name,Bonus giornaliero_82
+mst.login_bonus.40083._name,Bonus giornaliero 83
+mst.login_bonus.40084._name,Bonus giornaliero_84
+mst.login_bonus.40085._name,Bonus giornaliero_85
+mst.login_bonus.40086._name,Bonus giornaliero_86
+mst.login_bonus.40087._name,Bonus giornaliero_87
+mst.login_bonus.40088._name,Bonus giornaliero_88
+mst.login_bonus.40089._name,Bonus giornaliero_89
+mst.login_bonus.40090._name,Bonus giornaliero_90
+mst.login_bonus.40091._name,Bonus giornaliero 91
+mst.login_bonus.40092._name,Bonus giornaliero 92
+mst.login_bonus.40093._name,Bonus giornaliero 93
+mst.login_bonus.40094._name,Bonus giornaliero_94
+mst.login_bonus.40095._name,Bonus giornaliero_95
+mst.login_bonus.40096._name,Bonus giornaliero_96
+mst.login_bonus.40097._name,Bonus giornaliero 97
+mst.login_bonus.40098._name,Bonus giornaliero 98
+mst.login_bonus.40099._name,Bonus giornaliero_99
+mst.login_bonus.40100._name,Bonus giornaliero_00
+mst.login_bonus.40101._name,Bonus giornaliero_01
+mst.login_bonus.40102._name,Bonus giornaliero 02
+mst.login_bonus.40103._name,Bonus giornaliero_03
+mst.login_bonus.40104._name,Bonus giornaliero 04
+mst.login_bonus.40105._name,Bonus giornaliero_05
+mst.login_bonus.40106._name,Bonus giornaliero_06
+mst.login_bonus.40107._name,Bonus giornaliero_07
+mst.login_bonus.40108._name,Bonus giornaliero_08
+mst.login_bonus.40109._name,Bonus giornaliero_09
+mst.login_bonus.40110._name,Bonus giornaliero 10
+mst.login_bonus.40111._name,Bonus giornaliero 11
+mst.login_bonus.40112._name,Bonus giornaliero 12
+mst.login_bonus.40113._name,Bonus giornaliero_13
+mst.login_bonus.40114._name,Bonus giornaliero_14
+mst.login_bonus.40115._name,Bonus giornaliero 15
+mst.login_bonus.40116._name,Bonus giornaliero 16
+mst.login_bonus.40117._name,Bonus giornaliero 17
+mst.login_bonus.40118._name,Bonus giornaliero 18
+mst.login_bonus.40119._name,Bonus giornaliero 19
+mst.login_bonus.40120._name,Bonus giornaliero 20
+mst.login_bonus.40121._name,Bonus giornaliero 21
+mst.login_bonus.40122._name,Bonus giornaliero 22
+mst.login_bonus.40123._name,Bonus giornaliero 23
+mst.login_bonus.40124._name,Bonus giornaliero 24
+mst.login_bonus.40125._name,Bonus giornaliero 25
+mst.login_bonus.40126._name,Bonus giornaliero 26
+mst.login_bonus.40127._name,Bonus giornaliero_27
+mst.login_bonus.40128._name,Bonus giornaliero 28
+mst.login_bonus.40129._name,Bonus giornaliero 29
+mst.login_bonus.40130._name,Bonus giornaliero_30
+mst.login_bonus.40131._name,Bonus giornaliero 31
+mst.login_bonus.40132._name,Bonus giornaliero 32
+mst.login_bonus.40133._name,Bonus giornaliero 33
+mst.login_bonus.40134._name,Bonus giornaliero_34
+mst.login_bonus.40135._name,Bonus giornaliero_35
+mst.login_bonus.40136._name,Bonus giornaliero 36
+mst.login_bonus.40137._name,Bonus giornaliero_37
+mst.login_bonus.40138._name,Bonus giornaliero_38
+mst.login_bonus.40139._name,Bonus giornaliero_39
+mst.login_bonus.40140._name,Bonus giornaliero_40
+mst.login_bonus.40141._name,Bonus giornaliero 41
+mst.login_bonus.40142._name,Bonus giornaliero_42
+mst.login_bonus.40143._name,Bonus giornaliero 43
+mst.login_bonus.40144._name,Bonus giornaliero_44
+mst.login_bonus.40145._name,Bonus giornaliero_45
+mst.login_bonus.40146._name,Bonus giornaliero_46
+mst.login_bonus.40147._name,Bonus giornaliero_47
+mst.login_bonus.40148._name,Bonus giornaliero_48
+mst.login_bonus.40149._name,Bonus giornaliero 49
+mst.login_bonus.40150._name,Bonus giornaliero_50
+mst.login_bonus.40151._name,Bonus giornaliero 51
+mst.login_bonus.40152._name,Bonus giornaliero 52
+mst.login_bonus.40153._name,Bonus giornaliero 53
+mst.login_bonus.40154._name,Bonus giornaliero_54
+mst.login_bonus.40155._name,Bonus giornaliero_55
+mst.login_bonus.40156._name,Bonus giornaliero_56
+mst.login_bonus.40157._name,Bonus giornaliero_57
+mst.login_bonus.40158._name,Bonus giornaliero 58
+mst.login_bonus.40159._name,Bonus giornaliero_59
+mst.login_bonus.40160._name,Bonus giornaliero_60
+mst.login_bonus.40161._name,Bonus giornaliero 61
+mst.login_bonus.40162._name,Bonus giornaliero 62
+mst.login_bonus.40163._name,Bonus giornaliero 63
+mst.login_bonus.40164._name,Bonus giornaliero_64
+mst.login_bonus.40165._name,Bonus giornaliero_65
+mst.login_bonus.40166._name,Bonus giornaliero_66
+mst.login_bonus.40167._name,Bonus giornaliero_67
+mst.login_bonus.40168._name,Bonus giornaliero 68
+mst.login_bonus.40169._name,Bonus giornaliero 69
+mst.login_bonus.40170._name,Bonus giornaliero 70
+mst.login_bonus.40171._name,Bonus giornaliero 71
+mst.login_bonus.40172._name,Bonus giornaliero 72
+mst.login_bonus.40173._name,Bonus giornaliero 73

@@ -1,0 +1,311 @@
+﻿_key,_text
+mst.login_bonus.1._name,Bonificación diaria por inicio de sesión
+mst.login_bonus.2._name,Bono de inicio rápido
+mst.login_bonus.3._name,Bono de inicio
+mst.login_bonus.10001._name,Festival de 10 días
+mst.login_bonus.10002._name,Día 1 del Festival de Agradecimiento
+mst.login_bonus.10003._name,Día de agradecimiento 2
+mst.login_bonus.10004._name,Yohane 1
+mst.login_bonus.10005._name,Yohane 2
+mst.login_bonus.10006._name,ヨハネ3
+mst.login_bonus.10007._name,ヨハネ4
+mst.login_bonus.10008._name,ヨハネ5
+mst.login_bonus.10009._name,ヨハネ6
+mst.login_bonus.10010._name,ヨハネ7
+mst.login_bonus.10011._name,ヨハネ8
+mst.login_bonus.10012._name,ヨハネ9
+mst.login_bonus.10013._name,ヨハネ10
+mst.login_bonus.10014._name,ヨハネ11
+mst.login_bonus.10015._name,ヨハネ12
+mst.login_bonus.10016._name,ヨハネ13
+mst.login_bonus.10017._name,Bonus por el lanzamiento del OVA de Nijigasaki
+mst.login_bonus.10018._name,O-bon
+mst.login_bonus.10019._name,Anisama Logbo_1
+mst.login_bonus.10020._name,Anisama Logbo 2
+mst.login_bonus.10021._name,Comiket Logbo
+mst.login_bonus.10022._name,Liella! Chiba
+mst.login_bonus.10023._name,Liella! Aichi
+mst.login_bonus.10024._name,Liella! Tokio
+mst.login_bonus.10025._name,Liella! Hokkaido
+mst.login_bonus.10028._name,Halloween
+mst.login_bonus.10029._name,蓮ノ空＜福岡公演＞
+mst.login_bonus.10030._name,蓮ノ空＜Tokio＞
+mst.login_bonus.10031._name,蓮ノ空＜Aichi＞
+mst.login_bonus.10034._name,Festival Interdimensional - ¡Bono de inicio de sesión por la celebración del festival de canto Idolmaster ★ ♥ Love Live!
+mst.login_bonus.10037._name,Festival de otoño
+mst.login_bonus.10035._name,Bonus de inicio de sesión por el evento de Logbo_Yohane -La historia del sonido del corazón-.
+mst.login_bonus.10036._name,Love Live! Nijigasaki Gakuen School Idol Club 6th Live! I love You ⇆ You love Me - Bono de inicio por la celebración del concierto en Aichi.
+mst.login_bonus.10038._name,Campaña de Navidad Blanca (Parte 1)
+mst.login_bonus.10039._name,¡Feliz Año Nuevo! Bono de inicio de sesión para la campaña Milagrosa
+mst.login_bonus.10040._name,Campaña de Navidad Blanca (segunda parte)
+mst.login_bonus.10041._name,Love Live! Nijigasaki Gakuen School Idol Club 6th Live! I love You ⇆ You love Me - Bono de inicio por la celebración en Kanagawa.
+mst.login_bonus.10042._name,Bono de inicio de sesión por el estreno de School Idol Musical
+mst.login_bonus.10043._name,Bonificación de inicio de sesión para la campaña “¡Apoyemos los Live durante 3 semanas seguidas! ¡Hagamos muchos ‘Shanshan’!”.
+mst.login_bonus.10044._name,"Bono de inicio de sesión por la celebración de ""Love Live! Superstar!! Liella! 5th LoveLive! ~Twinkle Triangle~ """
+mst.login_bonus.10045._name,"Bono de inicio de sesión por el ""LoveLive! Superstar!! Liella! 5th LoveLive! ~Twinkle Triangle~ """
+mst.login_bonus.10046._name,Bonificación de inicio de sesión para la campaña del Día de San Valentín
+mst.login_bonus.10047._name,Bonus de inicio de sesión para la campaña ¡Disfrutemos mucho durante las vacaciones de invierno!
+mst.login_bonus.10050._name,Bonificación de inicio de sesión para la campaña Colorful Spring.
+mst.login_bonus.10051._name,"¡Muchas gracias! Bonificación por inicio de sesión para la campaña ""¡Sigamos animando hasta el final!"""
+mst.login_bonus.10054._name,Bono de inicio de sesión por el décimo aniversario del anime Love Live! y la presentación de Love Live! Special Talk Session.
+mst.login_bonus.10055._name,Bonus de inicio de sesión por la celebración de LoveLive! Series Presents Unidad Koshien 2024.
+mst.login_bonus.10056._name,Bonus de inicio de sesión por el décimo aniversario del anime Love Live! y la celebración del concierto Love Live! Orchestra.
+mst.login_bonus.10057._name,Gran evento de agradecimiento de School Festa 2
+mst.login_bonus.10058._name,Gran evento de agradecimiento de School Festa 2
+mst.login_bonus.10059._name,Bonificación de inicio de sesión por el evento especial de Reclutamiento ～Sakurazaka Shizuku～
+mst.login_bonus.10060._name,Bonificación de inicio de sesión por reclutamiento especial – Sakura Kojiki
+mst.login_bonus.10061._name,Bono de inicio de sesión conmemorativo del Reclutamiento Especial – Watanabe Yō
+mst.login_bonus.10062._name,Bono de inicio de sesión por reclutamiento especial ～Nishikino Maki～
+mst.login_bonus.20000._name,Bonificación de inicio de sesión para suscripciones
+mst.login_bonus.20001._name,¡Supera tu bache! Bono de inicio de sesión
+mst.login_bonus.20002._name,"23 de abril: evento μ's, bonus por inicio de sesión"
+mst.login_bonus.20003._name,Mayo 2023: Evento simplificado
+mst.login_bonus.20004._name,23 de mayo: Evento Aqours - Bono por inicio de sesión
+mst.login_bonus.20005._name,Mayo 2023: Evento simplificado
+mst.login_bonus.20006._name,23 de junio: evento A - bonificación por inicio de sesión
+mst.login_bonus.20007._name,23 de junio: evento sencillo
+mst.login_bonus.20008._name,23/06: Evento B - Bono de inicio de sesión
+mst.login_bonus.20009._name,23 de julio: Evento A - Bono de inicio de sesión
+mst.login_bonus.20010._name,23/07: Evento Simple
+mst.login_bonus.20011._name,23/07: Evento B - Bono de inicio de sesión
+mst.login_bonus.20012._name,23/07: Evento Simple
+mst.login_bonus.20013._name,23/08: Evento A - Bono de inicio de sesión
+mst.login_bonus.20014._name,23/08: Evento Simple
+mst.login_bonus.20015._name,23/08: Evento B - Bono de inicio de sesión
+mst.login_bonus.20016._name,23/08: Evento Simple
+mst.login_bonus.20017._name,23/09: Evento A - Bono diario
+mst.login_bonus.20018._name,23/09: Evento Simple
+mst.login_bonus.20019._name,23/09: Evento B - Bono de inicio de sesión
+mst.login_bonus.20020._name,23/09: Evento Simple
+mst.login_bonus.20021._name,23/10: Evento A - Bono de inicio de sesión
+mst.login_bonus.20022._name,23/10: Evento simple (primera quincena)
+mst.login_bonus.20023._name,23/10: Evento B - Bono de inicio de sesión
+mst.login_bonus.20024._name,23/10: Evento (final de mes)
+mst.login_bonus.20025._name,23/11: Evento A - Bono de inicio de sesión
+mst.login_bonus.20026._name,23/11: Evento (principios de mes) - Bono diario
+mst.login_bonus.20027._name,23/11: Evento B - Bono de inicio de sesión
+mst.login_bonus.20028._name,23/11: Evento (finales) - Bono de inicio de sesión
+mst.login_bonus.20029._name,23/12: Evento A - Bono de inicio de sesión
+mst.login_bonus.20030._name,23/12: Evento Simple (Principios) - Bono de inicio de sesión
+mst.login_bonus.20031._name,23/12: Evento B - Bono de inicio de sesión
+mst.login_bonus.20032._name,23/12: Evento (finales) - Bono de inicio de sesión
+mst.login_bonus.20033._name,24/01: Evento A - Bono de inicio de sesión
+mst.login_bonus.20034._name,24/01: Evento (principios de mes) - Bono de inicio de sesión
+mst.login_bonus.20035._name,Enero 2024: Evento B - Bono de inicio de sesión
+mst.login_bonus.20036._name,24/01: Evento (final) - Bono de inicio de sesión
+mst.login_bonus.20037._name,24/02: Evento A - Bono de inicio de sesión
+mst.login_bonus.20038._name,24/02: Evento Simple (Principios) - Bono de inicio de sesión
+mst.login_bonus.20039._name,24/02: Evento B - Bono de inicio de sesión
+mst.login_bonus.20040._name,24/02: Evento (final) - Bono de inicio de sesión
+mst.login_bonus.20041._name,24/03: Evento B - Bono de inicio de sesión
+mst.login_bonus.30001._name,Bonus de inicio de sesión por el cumpleaños de Honoka.
+mst.login_bonus.30002._name,"Eri-chan, ¡bonificación de inicio de sesión por su cumpleaños!"
+mst.login_bonus.30003._name,"Kotori-chan, ¡bonificación de inicio de sesión por su cumpleaños!"
+mst.login_bonus.30004._name,Bonus de inicio de sesión por el cumpleaños de Umi-chan
+mst.login_bonus.30005._name,"Rin-chan, bono de inicio por su cumpleaños"
+mst.login_bonus.30007._name,Bonus de inicio de sesión por el cumpleaños de Nozomi.
+mst.login_bonus.30008._name,Bonus de inicio de sesión por el cumpleaños de Hanamaru.
+mst.login_bonus.30009._name,Bono de inicio de sesión por el cumpleaños de Nico-chan
+mst.login_bonus.30010._name,Bonus de inicio de sesión por el cumpleaños de Chika.
+mst.login_bonus.30011._name,Bonus de inicio de sesión por el cumpleaños de Riko-chan
+mst.login_bonus.30012._name,Bonus de inicio de sesión por el cumpleaños de Kanon.
+mst.login_bonus.30013._name,Bonus de inicio de sesión por el cumpleaños de Dia.
+mst.login_bonus.30015._name,Bonus de inicio de sesión por el cumpleaños de Yoshiko.
+mst.login_bonus.30016._name,Bonus de inicio de sesión por el cumpleaños de Hanaru.
+mst.login_bonus.30017._name,"Mari-chan, ¡bonificación de inicio de sesión por su cumpleaños!"
+mst.login_bonus.30018._name,"Rubi, ¡bonificación de inicio de sesión por su cumpleaños!"
+mst.login_bonus.30019._name,Bonus de inicio de sesión por el cumpleaños de Ayumu.
+mst.login_bonus.30020._name,"Kasumi, ¡bonificación por inicio de sesión del cumpleaños!"
+mst.login_bonus.30022._name,Bonus de inicio de sesión por el cumpleaños de Karin
+mst.login_bonus.30023._name,Bonus de inicio de sesión por el cumpleaños de Ai.
+mst.login_bonus.30024._name,Bonus de inicio de sesión por el cumpleaños de
+mst.login_bonus.30025._name,"Setsuna, ¡bonificación por inicio de sesión por su cumpleaños!"
+mst.login_bonus.30026._name,Bonus de inicio de sesión por el cumpleaños de Emma
+mst.login_bonus.30027._name,Bono de inicio de sesión por el cumpleaños de Rina
+mst.login_bonus.30028._name,Bonus de inicio de sesión por el cumpleaños de Shizuko.
+mst.login_bonus.30029._name,Bonus de inicio de sesión por el cumpleaños de Mia
+mst.login_bonus.30030._name,Bonus de inicio de sesión por el cumpleaños de Arashi Tama.
+mst.login_bonus.30031._name,Bonus de inicio de sesión por el cumpleaños de Kanon-chan
+mst.login_bonus.30032._name,Bono de inicio de sesión por el cumpleaños de Koko-chan
+mst.login_bonus.30033._name,Bonus de inicio de sesión por el cumpleaños de Chisato.
+mst.login_bonus.30034._name,"Sumire-chan, ¡bonificación de inicio de sesión por su cumpleaños!"
+mst.login_bonus.30035._name,Bonus de inicio de sesión por el cumpleaños de Ren-chan
+mst.login_bonus.30037._name,Bonus de inicio de sesión por el cumpleaños de Mei-chan
+mst.login_bonus.30038._name,Bonus de inicio de sesión por el cumpleaños de Shiki-chan
+mst.login_bonus.30039._name,Bonus de inicio de sesión por el cumpleaños de Natsumi
+mst.login_bonus.30040._name,Bonus de inicio de sesión por el cumpleaños de Riko-chan
+mst.login_bonus.30041._name,"Margarete, ¡bonificación por inicio de sesión por su cumpleaños!"
+mst.login_bonus.30042._name,"Fuyu Mari, ¡bonificación por inicio de sesión por su cumpleaños!"
+mst.login_bonus.40001._name,Bonus diario 1
+mst.login_bonus.40002._name,Diario 2
+mst.login_bonus.40003._name,Diario: 3
+mst.login_bonus.40004._name,Diario 4
+mst.login_bonus.40005._name,Diario de inicio_5
+mst.login_bonus.40006._name,Diario 6
+mst.login_bonus.40007._name,Diario Logbo_7
+mst.login_bonus.40008._name,Diario Logbo_8
+mst.login_bonus.40009._name,Diario de inicio_9
+mst.login_bonus.40010._name,Diario 10
+mst.login_bonus.40011._name,Diario Logbo_11
+mst.login_bonus.40012._name,Diario de inicio_12
+mst.login_bonus.40013._name,Diario Logbo_13
+mst.login_bonus.40014._name,Diario de inicio_14
+mst.login_bonus.40015._name,Diario de inicio_15
+mst.login_bonus.40016._name,Diario de inicio sesión_16
+mst.login_bonus.40017._name,Diario de inicio 17
+mst.login_bonus.40018._name,Diario de inicio_18
+mst.login_bonus.40019._name,Diario de inicio_19
+mst.login_bonus.40020._name,Bonus diario 20
+mst.login_bonus.40021._name,Diario de inicio_21
+mst.login_bonus.40022._name,Diario de inicio_22
+mst.login_bonus.40023._name,Diario Logbo_23
+mst.login_bonus.40024._name,Diario de inicio_24
+mst.login_bonus.40025._name,Diario de inicio_25
+mst.login_bonus.40026._name,Diario de inicio_26
+mst.login_bonus.40027._name,Diario de inicio_27
+mst.login_bonus.40028._name,Diario de inicio_28
+mst.login_bonus.40029._name,Diario de inicio_29
+mst.login_bonus.40030._name,Diario de inicio_30
+mst.login_bonus.40031._name,Diario de inicio_31
+mst.login_bonus.40032._name,Diario de inicio_32
+mst.login_bonus.40033._name,Diario de inicio_33
+mst.login_bonus.40034._name,Diario de inicio_34
+mst.login_bonus.40035._name,Diario de inicio_35
+mst.login_bonus.40036._name,Diario de inicio_36
+mst.login_bonus.40037._name,Diario de inicio_37
+mst.login_bonus.40038._name,Diario de inicio_38
+mst.login_bonus.40039._name,Diario Logbo_39
+mst.login_bonus.40040._name,Bonus diario_40
+mst.login_bonus.40041._name,Diario de inicio_41
+mst.login_bonus.40042._name,Diario de inicio_42
+mst.login_bonus.40043._name,Diario Logbo_43
+mst.login_bonus.40044._name,Diario Logbo_44
+mst.login_bonus.40045._name,Diario de inicio_45
+mst.login_bonus.40046._name,Diario de inicio_46
+mst.login_bonus.40047._name,Diario Logbo_47
+mst.login_bonus.40048._name,Diario Logbo_48
+mst.login_bonus.40049._name,Diario de inicio_49
+mst.login_bonus.40050._name,Diario de inicio_50
+mst.login_bonus.40051._name,Diario Logbo_51
+mst.login_bonus.40052._name,Diario de inicio_52
+mst.login_bonus.40053._name,Diario Logbo_53
+mst.login_bonus.40054._name,Diario de inicio_54
+mst.login_bonus.40055._name,Diario de inicio_55
+mst.login_bonus.40056._name,Diario de inicio_56
+mst.login_bonus.40057._name,Diario de inicio_57
+mst.login_bonus.40058._name,Diario de inicio_58
+mst.login_bonus.40059._name,Diario de inicio_59
+mst.login_bonus.40060._name,Diario de inicio_60
+mst.login_bonus.40061._name,Diario Logbo_61
+mst.login_bonus.40062._name,Diario de inicio_62
+mst.login_bonus.40063._name,Diario Logbo_63
+mst.login_bonus.40064._name,Diario de inicio_64
+mst.login_bonus.40065._name,Diario de inicio_65
+mst.login_bonus.40066._name,Diario de inicio_66
+mst.login_bonus.40067._name,Diario de inicio_67
+mst.login_bonus.40068._name,Diario de inicio_68
+mst.login_bonus.40069._name,Diario de inicio_69
+mst.login_bonus.40070._name,Bonus diario 70
+mst.login_bonus.40071._name,Diario 71
+mst.login_bonus.40072._name,Diario de inicio_72
+mst.login_bonus.40073._name,Diario Logbo_73
+mst.login_bonus.40074._name,Diario de inicio_74
+mst.login_bonus.40075._name,Diario de inicio_75
+mst.login_bonus.40076._name,Diario de inicio_76
+mst.login_bonus.40077._name,Diario de inicio_77
+mst.login_bonus.40078._name,Diario de inicio_78
+mst.login_bonus.40079._name,Diario de inicio_79
+mst.login_bonus.40080._name,Diario de inicio_80
+mst.login_bonus.40081._name,Diario Logbo_81
+mst.login_bonus.40082._name,Diario de inicio_82
+mst.login_bonus.40083._name,Diario Logbo_83
+mst.login_bonus.40084._name,Diario de inicio_84
+mst.login_bonus.40085._name,Diario de inicio_85
+mst.login_bonus.40086._name,Diario de inicio_86
+mst.login_bonus.40087._name,Diario de inicio_87
+mst.login_bonus.40088._name,Diario de inicio_88
+mst.login_bonus.40089._name,Diario de inicio_89
+mst.login_bonus.40090._name,Diario de inicio_90
+mst.login_bonus.40091._name,Diario de inicio_91
+mst.login_bonus.40092._name,Diario de inicio_92
+mst.login_bonus.40093._name,Diario de inicio_93
+mst.login_bonus.40094._name,Diario de inicio_94
+mst.login_bonus.40095._name,Diario de inicio_95
+mst.login_bonus.40096._name,Diario de inicio_96
+mst.login_bonus.40097._name,Diario: 97
+mst.login_bonus.40098._name,Diario de inicio_98
+mst.login_bonus.40099._name,Diario de inicio_99
+mst.login_bonus.40100._name,Diario de inicio sesión_00
+mst.login_bonus.40101._name,Bonus diario_01
+mst.login_bonus.40102._name,Diario: 02
+mst.login_bonus.40103._name,Diario Logbo_03
+mst.login_bonus.40104._name,Diario de inicio sesión_04
+mst.login_bonus.40105._name,Diario de inicio sesión_05
+mst.login_bonus.40106._name,Diario de inicio sesión_06
+mst.login_bonus.40107._name,Diario Logbo_07
+mst.login_bonus.40108._name,Diario de inicio sesión_08
+mst.login_bonus.40109._name,Diario de inicio sesión_09
+mst.login_bonus.40110._name,Diario 10
+mst.login_bonus.40111._name,Diario Logbo_11
+mst.login_bonus.40112._name,Diario de inicio_12
+mst.login_bonus.40113._name,Diario Logbo_13
+mst.login_bonus.40114._name,Diario de inicio_14
+mst.login_bonus.40115._name,Diario de inicio_15
+mst.login_bonus.40116._name,Diario de inicio sesión_16
+mst.login_bonus.40117._name,Diario de inicio 17
+mst.login_bonus.40118._name,Diario de inicio_18
+mst.login_bonus.40119._name,Diario de inicio_19
+mst.login_bonus.40120._name,Bonus diario 20
+mst.login_bonus.40121._name,Diario de inicio_21
+mst.login_bonus.40122._name,Diario de inicio_22
+mst.login_bonus.40123._name,Diario Logbo_23
+mst.login_bonus.40124._name,Diario de inicio_24
+mst.login_bonus.40125._name,Diario de inicio_25
+mst.login_bonus.40126._name,Diario de inicio_26
+mst.login_bonus.40127._name,Diario de inicio_27
+mst.login_bonus.40128._name,Diario de inicio_28
+mst.login_bonus.40129._name,Diario de inicio_29
+mst.login_bonus.40130._name,Diario de inicio_30
+mst.login_bonus.40131._name,Diario de inicio_31
+mst.login_bonus.40132._name,Diario de inicio_32
+mst.login_bonus.40133._name,Diario de inicio_33
+mst.login_bonus.40134._name,Diario de inicio_34
+mst.login_bonus.40135._name,Diario de inicio_35
+mst.login_bonus.40136._name,Diario de inicio_36
+mst.login_bonus.40137._name,Diario de inicio_37
+mst.login_bonus.40138._name,Diario de inicio_38
+mst.login_bonus.40139._name,Diario Logbo_39
+mst.login_bonus.40140._name,Bonus diario_40
+mst.login_bonus.40141._name,Diario de inicio_41
+mst.login_bonus.40142._name,Diario de inicio_42
+mst.login_bonus.40143._name,Diario Logbo_43
+mst.login_bonus.40144._name,Diario Logbo_44
+mst.login_bonus.40145._name,Diario de inicio_45
+mst.login_bonus.40146._name,Diario de inicio_46
+mst.login_bonus.40147._name,Diario Logbo_47
+mst.login_bonus.40148._name,Diario Logbo_48
+mst.login_bonus.40149._name,Diario de inicio_49
+mst.login_bonus.40150._name,Diario de inicio_50
+mst.login_bonus.40151._name,Diario Logbo_51
+mst.login_bonus.40152._name,Diario de inicio_52
+mst.login_bonus.40153._name,Diario Logbo_53
+mst.login_bonus.40154._name,Diario de inicio_54
+mst.login_bonus.40155._name,Diario de inicio_55
+mst.login_bonus.40156._name,Diario de inicio_56
+mst.login_bonus.40157._name,Diario de inicio_57
+mst.login_bonus.40158._name,Diario de inicio_58
+mst.login_bonus.40159._name,Diario de inicio_59
+mst.login_bonus.40160._name,Diario de inicio_60
+mst.login_bonus.40161._name,Diario Logbo_61
+mst.login_bonus.40162._name,Diario de inicio_62
+mst.login_bonus.40163._name,Diario Logbo_63
+mst.login_bonus.40164._name,Diario de inicio_64
+mst.login_bonus.40165._name,Diario de inicio_65
+mst.login_bonus.40166._name,Diario de inicio_66
+mst.login_bonus.40167._name,Diario de inicio_67
+mst.login_bonus.40168._name,Diario de inicio_68
+mst.login_bonus.40169._name,Diario de inicio_69
+mst.login_bonus.40170._name,Bonus diario 70
+mst.login_bonus.40171._name,Diario 71
+mst.login_bonus.40172._name,Diario de inicio_72
+mst.login_bonus.40173._name,Diario Logbo_73

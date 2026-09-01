@@ -1,0 +1,674 @@
+﻿_key,_text
+mst.dialog.ErrorStay._title,오류
+mst.dialog.ErrorStay._message,오류가 발생했습니다 <br> <br> {0}
+mst.dialog.ErrorTitle._title,오류
+mst.dialog.ErrorTitle._message,오류가 발생했습니다 <br> 제목으로 돌아갑니다 <br> <br> {0}
+mst.dialog.NetworkError_Retry._title,통신 오류
+mst.dialog.NetworkError_Retry._message,통신할 수 없습니다.<br>전파 상태가 좋은 곳에서 다시 시도해 주세요.
+mst.dialog.NetworkError_Title._title,통신 오류
+mst.dialog.NetworkError_Title._message,통신 중 오류가 발생했습니다 <br> 타이틀로 돌아갑니다 <br> <br> {0}
+mst.dialog.NetworkError_ResourceUpdated._title,통신 오류
+mst.dialog.NetworkError_ResourceUpdated._message,데이터 업데이트가 필요합니다<br>타이틀 화면으로 돌아갑니다
+mst.dialog.NetworkError_NotReachable_Retry._title,통신 오류
+mst.dialog.NetworkError_NotReachable_Retry._message,통신할 수 없습니다<br>네트워크 상태를 확인하고 다시 시도해 주세요.
+mst.dialog.ApplicationQuitConfirm._title,확인
+mst.dialog.ApplicationQuitConfirm._message,게임을 종료합니다.<br>정말로 하시겠습니까?
+mst.dialog.AreaUnlock._title,지역 해제
+mst.dialog.AreaUnlock._message,새로운 지역이 개방되었습니다! {0}<br>
+mst.dialog.AreaUnlockDetail_StoryRead._title,해방 조건
+mst.dialog.AreaUnlockDetail_StoryRead._message,스토리 <br>를 읽으면 {0}가(이) 해금됩니다. <br>
+mst.dialog.AreaUnlockDetail_UserRank._title,해방 조건
+mst.dialog.AreaUnlockDetail_UserRank._message,플레이어 랭크 {0} 이상이면 <br>에서 해방됩니다.
+mst.dialog.ChatTalkSkip._title,스킵
+mst.dialog.ChatTalkSkip._message,이 대화를 건너뛰고 종료하시겠습니까?
+mst.dialog.Chat_EncountStoryPlayback._title,만남 스토리 재생
+mst.dialog.Chat_EncountStoryPlayback._message,{0}의 만남 스토리를 재생합니다.
+mst.dialog.OrnamentLevelRelease._title,장비 레벨 제한 해제
+mst.dialog.OrnamentLevelRelease._message,{0}의 <br> 레벨을 {1}까지 올릴 수 있게 되었습니다!
+mst.dialog.DeckNameChangeSuccess._title,유닛명 변경 완료
+mst.dialog.DeckNameChangeSuccess._message,유닛 이름 변경이 완료되었습니다.
+mst.dialog.DeckNameChangeEmpty._title,입력 오류
+mst.dialog.DeckNameChangeEmpty._message,한 글자 이상 입력하세요
+mst.dialog.DeckNameChangeNg._title,오류
+mst.dialog.DeckNameChangeNg._message,부적절한 표현이 포함되어 있습니다.<br>다시 입력해주세요.
+mst.dialog.MainDeckChangeSuccess._title,메인 유닛 변경
+mst.dialog.MainDeckChangeSuccess._message,메인 유닛을 변경했습니다.
+mst.dialog.PracticeConfirm._title,확인
+mst.dialog.PracticeConfirm._message,선택한 레슨 노트와 <br> {0} G를 사용하여 강화합니다. <br> 괜찮으신가요?
+mst.dialog.SkillPracticeConfirmByItem._title,확인
+mst.dialog.SkillPracticeConfirmByItem._message,"선택한 스킬북과 <br> {0} G를 사용하여 강화합니다 <br>, 괜찮으신가요?"
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._title,확인
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._message,이 부원은 각성에도 사용할 수 있습니다. <br> 소재로 선택하는 것을 중단하고 <br> 각성으로 진행하시겠습니까?
+mst.dialog.SkillPracticeConfirmByPhoto._title,확인
+mst.dialog.SkillPracticeConfirmByPhoto._message,선택한 부원이 대기실에서 <br> 사라집니다 <br> 스킬 강화를 진행하시겠습니까? <br> ※부원 목록에서는 사라지지 않습니다
+mst.dialog.TrainingConfirm._title,확인
+mst.dialog.TrainingConfirm._message,선택한 응원봉으로 각성을 진행합니다.<br>확인하시겠습니까?
+mst.dialog.StaminaChargeConfirm._title,LP 회복
+mst.dialog.StaminaChargeConfirm._message,LP를 회복합니다 <br> <br> 진행하시겠습니까?
+mst.dialog.StaminaChargeSuccess._title,LP 회복
+mst.dialog.StaminaChargeSuccess._message,LP를 {0} 회복했습니다!
+mst.dialog.StaminaChargeOver._title,LP 회복 완료
+mst.dialog.StaminaChargeOver._message,LP가 최대 LP를 초과하여 <br><br> 복구할 수 없습니다.
+mst.dialog.ShopBuySuccess._title,아이템 구매
+mst.dialog.ShopBuySuccess._message,{0}을(를) 구매했습니다!
+mst.dialog.GachaExec._title,확인
+mst.dialog.GachaExec._message,"{0}을 {1} 소비하여, 【{2}】를 뽑으시겠습니까? <br>"
+mst.dialog.GachaLackMedal._title,{0} 부족
+mst.dialog.GachaLackMedal._message,{0}이 부족합니다. Loveca를 구매하시겠습니까?
+mst.dialog.GachaLackItem._title,{0} 부족
+mst.dialog.GachaLackItem._message,{0}이 부족합니다.
+mst.dialog.GachaResultGetBonus._title,보너스 획득
+mst.dialog.GachaResultGetBonus._message,스카우트 보너스를 획득했습니다!
+mst.dialog.GachaResultGetMovie._title,부원 획득
+mst.dialog.GachaErrorExpired._title,오류
+mst.dialog.GachaErrorExpired._message,유효 기간이 지났습니다.
+mst.dialog.GachaTicketExpired._title,오류
+mst.dialog.GachaTicketExpired._message,사용하려던 티켓의 유효 기간이 지났습니다.
+mst.dialog.GachaSelectedExpired._title,종료됨
+mst.dialog.GachaSelectedExpired._message,이 이벤트는 종료되었습니다
+mst.dialog.DeckResetConfirm._title,리셋
+mst.dialog.DeckResetConfirm._message,현재 선택된 유닛을 리셋합니다.<br>정말로 하시겠습니까?
+mst.dialog.RecommendSuccess._title,추천 유닛
+mst.dialog.RecommendSuccess._message,추천 유닛을 편성했습니다
+mst.dialog.NoticePlayerRankUp._title,랭크 상승
+mst.dialog.NoticePlayerRankUp._message,LP가 {0}만큼 회복되었습니다
+mst.dialog.NoticePlayerRankAndFriendMaxUp._title,랭크 상승
+mst.dialog.NoticePlayerRankAndFriendMaxUp._message,LP가 {0} 회복되었습니다. <br> 친구 최대 수가 증가했습니다. {1} → {2}
+mst.dialog.NoticeGroupRankUp._title,그룹 랭크 업
+mst.dialog.NoticeGroupRankMax._title,그룹 랭크 업
+mst.dialog.NoticeGroupRankMax._message,<color=#D73C55><b>그룹 랭크가 최대 레벨에 도달했습니다.</b></color>
+mst.dialog.DeckMemberChangeConfirm._title,교체 확인
+mst.dialog.DeckMemberChangeConfirm._message,"이미 같은 멤버가 편성되어 있습니다 <br> 편성된 「{0}」과 교체하지만, <br> 괜찮으신가요?"
+mst.dialog.StoryRelease._title,스토리 해방
+mst.dialog.StoryRelease._message,{0} {1}가 해금되었습니다
+mst.dialog.FriendSearchError._title,검색 오류
+mst.dialog.FriendSearchError._message,"플레이어를 찾을 수 없습니다 <br> 입력한 ID가 잘못되었거나, <br> 상대방의 친구 신청 설정이 거부되어 있습니다 <br>"
+mst.dialog.FriendDeleteConfirm._title,확인
+mst.dialog.FriendDeleteConfirm._message,이 친구를 삭제하시겠습니까?
+mst.dialog.FriendDeleteSuccess._title,친구 삭제 완료
+mst.dialog.FriendDeleteSuccess._message,친구를 삭제했습니다.
+mst.dialog.FriendDeleteError._title,친구 삭제 실패
+mst.dialog.FriendDeleteError._message,친구 삭제에 실패했습니다.
+mst.dialog.FriendRequestCancelConfirm._title,확인
+mst.dialog.FriendRequestCancelConfirm._message,이 친구 신청을 취소하시겠습니까?
+mst.dialog.FriendRequestCancelSuccess._title,친구 요청 취소 완료
+mst.dialog.FriendRequestCancelSuccess._message,친구 요청을 취소했습니다.
+mst.dialog.FriendRequestCancelError._title,친구 요청 취소 실패
+mst.dialog.FriendRequestCancelError._message,친구 신청을 취소할 수 없습니다.
+mst.dialog.FriendPendingConfirm._title,확인
+mst.dialog.FriendPendingConfirm._message,친구 신청을 승인합니다<br>확인하시겠습니까?
+mst.dialog.FriendPendingSuccess._title,친구 신청 승인 완료
+mst.dialog.FriendPendingSuccess._message,친구 신청을 승인했습니다
+mst.dialog.FriendPendingError._title,친구 신청 승인 실패
+mst.dialog.FriendPendingError._message,친구 신청을 승인할 수 없습니다.
+mst.dialog.FriendRejectConfirm._title,확인
+mst.dialog.FriendRejectConfirm._message,이 친구 요청을 거부하시겠습니까?
+mst.dialog.FriendRejectSuccess._title,친구 신청 거절 완료
+mst.dialog.FriendRejectSuccess._message,친구 신청을 거절했습니다.
+mst.dialog.FriendRejectError._title,친구 신청 거부 실패
+mst.dialog.FriendRejectError._message,친구 신청을 거절할 수 없습니다.
+mst.dialog.FriendRequestSuccess._title,친구 신청 완료
+mst.dialog.FriendRequestSuccess._message,친구 신청했습니다.
+mst.dialog.FriendRequestError._title,친구 신청 실패
+mst.dialog.FriendRequestError._message,친구 신청에 실패했습니다.
+mst.dialog.FriendCanNotRequest._title,신청 불가
+mst.dialog.FriendCanNotRequest._message,상대방이 친구 신청 설정을 <br>거부하고 있습니다.
+mst.dialog.OptionSettingChangeCancelConfirm._title,확인
+mst.dialog.OptionSettingChangeCancelConfirm._message,"옵션 변경을 취소하고,<br>변경 전 상태로 되돌릴까요?"
+mst.dialog.OptionTestLivePauseDialog._title,일시 정지 중
+mst.dialog.OptionTestLivePauseDialog._message,테스트 라이브를 중단하고<br>옵션 설정으로 돌아가시겠습니까?
+mst.dialog.LiveContinue._title,라이브 재개
+mst.dialog.LiveContinue._message,"Loveca를 {0} 소비하고, <br> HP를 완전히 회복하여 Live를 재개하시겠습니까? <br> ※ Loveca는 무료 분부터 소비됩니다. <br> <br> Loveca {1} → {2}"
+mst.dialog.LiveContinueGemShortage._title,Loveca 부족
+mst.dialog.LiveContinueGemShortage._message,Loveca가 부족하여 <br>Live를 재개할 수 없습니다.
+mst.dialog.LiveFailure._title,라이브 실패
+mst.dialog.LiveFailure._message,"HP가 모두 소진되었습니다 <br> Loveca를 {0} 소비하면, <br> HP를 완전히 회복하여 다시 시작할 수 있습니다."
+mst.dialog.LivePause._title,일시 정지
+mst.dialog.LivePause._message,"라이브를 중단하고 곡 선택 화면으로 돌아가시겠습니까? <br> ※중단하는 경우, LP는 소모되지 않습니다."
+mst.dialog.LiveRetireConfirm._title,라이브 중단
+mst.dialog.LiveRetireConfirm._message,"Live를 중단하면 <br>Live 보상을 획득할 수 없습니다<br> 그래도 괜찮으신가요?<br> ※중단하는 경우, LP는 소비되지 않습니다."
+mst.dialog.LiveRestartConfirm._title,다시 시작
+mst.dialog.LiveRestartConfirm._message,다시 시작할까요? <br> 네 <br> ※LP와 스킵 티켓은 소비되지 않습니다.
+mst.dialog.TeacherPointDetail._title,하이스코어 랭크란?
+mst.dialog.TeacherPointDetail._message,하이스코어 랭크는 Live에서 <br> 높은 점수를 얻을 때마다 계산되는 값입니다. <br> <br> 높은 점수를 얻으려면 <br> 부원을 강화해 보세요!
+mst.dialog.GemPackBuyComplete._title,구매 완료
+mst.dialog.GemPackBuyComplete._message,{0}을(를) 구매했습니다
+mst.dialog.GemBuyCancel._title,취소
+mst.dialog.GemBuyCancel._message,구매를 취소했습니다
+mst.dialog.GemBuyComplete._title,구매 완료
+mst.dialog.GemBuyComplete._message,{0}을(를) 구매했습니다
+mst.dialog.GemBuyStamina._title,확인
+mst.dialog.GemBuyStamina._message,{0}을 {1} 소비하여 <br> LP를 {3} 회복합니다. <br> 괜찮으신가요?
+mst.dialog.GemBuyItem._title,확인
+mst.dialog.GemBuyItem._message,{0}을 {1} 소비하여 <br> LP를 {3} 회복합니다. <br> 괜찮으신가요?
+mst.dialog.GemBuyItemPack._title,확인
+mst.dialog.GemBuyItemPack._message,{0}을 {1} 소비하여 구매하시겠습니까? <br>
+mst.dialog.GemInsufficientMedal._title,Loveca 부족
+mst.dialog.GemInsufficientMedal._message,Loveca 보유량이 부족합니다
+mst.dialog.GemAgeError._title,오류
+mst.dialog.GemAgeError._message,생년월일이 올바르지 않습니다
+mst.dialog.GemAgeComplete._title,입력 완료
+mst.dialog.GemAgeComplete._message,나이를 확인했습니다 <br> {0}
+mst.dialog.GemAgeConfirm._title,확인
+mst.dialog.GemAgeConfirm._message,한 번 설정하면 앱을 삭제할 때까지 변경할 수 없지만 정말 괜찮으신가요?
+mst.dialog.GemAskToBuy._title,확인
+mst.dialog.GemAskToBuy._message,앱 전용 화폐를 구매하려면 <br>보호자의 동의가 필요합니다<br> 보호자의 동의를 받으셨습니까?
+mst.dialog.GemBuyLimitError._title,이용 한도
+mst.dialog.GemBuyLimitError._message,이번 달 이용 한도를 초과하므로 구매할 수 없습니다 <br> {0}
+mst.dialog.GemBuyLimitAlert._title,확인
+mst.dialog.GemBuyLimitAlert._message,{0} <br> 구매하시겠습니까?
+mst.dialog.GemBuyLimitAlertConfirm._title,구매 한도 초과 확인
+mst.dialog.GemBuyLimitAlertConfirm._message,"이번 달 구매 금액이 100,000원을 초과합니다<br>구매를 계속하시겠습니까?<br><br>알림을 끄려면 다음 설정에서 변경할 수 있습니다<br><color=#D73C55>설정 > 시스템 설정 > 알림 설정 > 이용 금액 알림</color>"
+mst.dialog.GemBuyError._title,오류
+mst.dialog.GemBuyError._message,구매에 실패했습니다.
+mst.dialog.GemShopError._title,오류
+mst.dialog.GemShopError._message,상점 정보 로딩에 실패했습니다.
+mst.dialog.GemShopTicketInfo._message,"▼주의사항<color=#D73C55>※필독※</color><br>※구매한 유료 Loveca는 즉시 보유 Loveca에 추가됩니다<br>※Loveca 외의 아이템은 선물로 발송됩니다<br>※로그인하지 않은 날에는 Loveca를 받을 수 없습니다<br>※로그인 보너스는 로그인 시 배포되며, 보유 Loveca에 추가됩니다<br>※로그인 보너스는 구매일 다음날 0:00부터 받을 수 있습니다<br>※로그인 보너스는 무상 Loveca입니다<br>※구매 다음날부터{1}일 동안, 로그인 보너스로 Loveca를{2}받을 수 있습니다<br><br>▼세트 내용<br>{3}<br>Loveca{4}x{5}일 합계{6}<br><br>가격{7}"
+mst.dialog.GemBuyErrorExpired._title,판매 기간 종료
+mst.dialog.GemBuyErrorExpired._message,판매 기간이 종료되어 구매할 수 없습니다.
+mst.dialog.SingleReward_OrnamentGet._title,아이템 획득
+mst.dialog.SingleReward_OrnamentGetTeaSet._title,장식 해제
+mst.dialog.SingleReward_OrnamentGetTeaSet._message,획득했습니다!<br>이제 창고에서 변경할 수 있습니다.
+mst.dialog.SingleReward_OrnamentLevelUp._title,보상 획득
+mst.dialog.SingleReward_OrnamentLevelUp._message,레벨 업!
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._title,보상 획득
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._message,레벨 업!
+mst.dialog.SingleReward_OrnamentRelease._title,아이템 (가) 해방
+mst.dialog.SingleReward_OrnamentRelease._message,커스텀 숍에 입고되었습니다.
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._title,장식 해제
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._message,{0}의 상점에 <br>과(와) {1}가 입고되었습니다!
+mst.dialog.SingleReward_CommonDirectly._title,보상 획득
+mst.dialog.SingleReward_CommonDirectly._message,획득했습니다!
+mst.dialog.SingleReward_CommonPresentBox._title,보상 획득
+mst.dialog.SingleReward_CommonPresentBox._message,<color=#C12424>보상은 선물 상자에서 받을 수 있습니다.</color>
+mst.dialog.SingleReward_CommonView._title,달성 보상
+mst.dialog.SingleReward_EventDirectly._title,보상 획득
+mst.dialog.SingleReward_EventDirectly._message,누적 {0} 달성 보상을 획득했습니다!
+mst.dialog.SingleReward_EventPresentBox._title,보상 획득
+mst.dialog.SingleReward_EventPresentBox._message,<color=#C12424> 누적 {0} 달성 보상을 선물로 받으세요 </color>
+mst.dialog.SingleReward_Costume._title,의상 획득
+mst.dialog.SingleReward_Costume._message,새로운 의상을 획득했습니다!
+mst.dialog.SingleReward_Music._title,음악 해방
+mst.dialog.SingleReward_Music._message,새로운 곡이 해금되었습니다!
+mst.dialog.SingleReward_Title._title,칭호 획득
+mst.dialog.SingleReward_Title._message,칭호를 획득했습니다!
+mst.dialog.SingleReward_IntoPresentBox._title,소지 한도
+mst.dialog.SingleReward_IntoPresentBox._message,<color=#C12424>소지 한도에 도달하여 선물함으로 보내졌습니다. </color>
+mst.dialog.MultiReward_CommonDirectly._title,보상 획득
+mst.dialog.MultiReward_CommonDirectly._message,획득했습니다!
+mst.dialog.MultiReward_CommonPresentBox._title,보상 획득
+mst.dialog.MultiReward_CommonPresentBox._message,<color=#C12424>보상은 선물 상자에서 받을 수 있습니다.</color>
+mst.dialog.MultiReward_EventDirectly._title,보상 획득
+mst.dialog.MultiReward_EventDirectly._message,누적 {0} 달성 보상을 획득했습니다!
+mst.dialog.MultiReward_EventPresentBox._title,보상 획득
+mst.dialog.MultiReward_EventPresentBox._message,<color=#C12424> 누적 {0} 달성 보상을 선물로 받으세요 </color>
+mst.dialog.MultiReward_CommonView._title,달성 보상
+mst.dialog.MultiReward_IntoPresentBox._title,소지 한도
+mst.dialog.MultiReward_IntoPresentBox._message,<color=#C12424>소지 한도에 도달하여 선물함으로 보내졌습니다. </color>
+mst.dialog.Multi_Private_MasterRoomLeave._title,라이브 종료
+mst.dialog.Multi_Private_MasterRoomLeave._message,{0}님이 라이브를 해산했습니다. <br> 라이브 선택 화면으로 돌아갑니다.
+mst.dialog.LiveResult_ContinueMultiRoom._title,계속 확인
+mst.dialog.LiveResult_ContinueMultiRoom._message,동일한 라이브를 다시 진행하시겠습니까?
+mst.dialog.LoginBonus_Check._title,날짜 업데이트
+mst.dialog.LoginBonus_Check._message,날짜가 업데이트되었으므로<br>재로그인합니다
+mst.dialog.LoginBonus_Common._title,로그인 보너스
+mst.dialog.LoginBonus_Common._message,{0}×{1} <br> <color=#D73C55> 보상은 선물에서 받을 수 있습니다 </color>
+mst.dialog.LoginBonus_Multi._title,로그인 보너스
+mst.dialog.LoginBonus_Multi._message,{0}×{1} <br> <color=#D73C55> 보상은 선물에서 받을 수 있습니다 </color>
+mst.dialog.MultiRoomType._title,라이브 보상
+mst.dialog.MultiRoomType._message,요일별 Live에서는 요일마다 정해진 보상을 더 쉽게 획득할 수 있습니다<br>※「보통」Live에서는 일반적인 보상이 지급됩니다<br><br>월: 보상 A<br>화: 보상 B<br>수: 보상 C<br>목: 보상 D<br>금: 보상 E<br>토: 보상 F<br>일: 보상 G<br><br>※보상 증가 대상 아이템 외에는 획득량을 조정합니다
+mst.dialog.VoiceDownloadConfirm._title,보이스 다운로드
+mst.dialog.VoiceDownloadConfirm._message,스토리 보이스를 제외한 음성을 <br> 미리 다운로드하시겠습니까? <br> <br> <color=#D73C55> 다운로드 크기: <br> {0:0.00} MB <br> <br> ※Wi-Fi 환경에서 <br> 다운로드를 권장합니다. </color>
+mst.dialog.LiveProductionDownloadConfirm._title,라이브 중 멤버 연출 다운로드
+mst.dialog.LiveProductionDownloadConfirm._message,라이브 중 필요한 데이터를 <br> 미리 다운로드하시겠습니까? <br> 라이브 시작 전 로딩 시간이 <br> 단축될 수 있습니다. <br> <br> <color=#D73C55> 다운로드 크기: <br> {0:0.00} MB <br> <br> ※Wi-Fi 환경에서 <br> 다운로드를 권장합니다. </color>
+mst.dialog.GameLibErrorCode_1._title,오류
+mst.dialog.GameLibErrorCode_1._message,입력한 인수가 올바르지 않습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_14._title,오류
+mst.dialog.GameLibErrorCode_14._message,사용자가 비활성화되었습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_20._title,오류
+mst.dialog.GameLibErrorCode_20._message,인계된 기기이므로 사용할 수 없습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_1000._title,오류
+mst.dialog.GameLibErrorCode_1000._message,통신 오류가 발생했습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_17219._title,오류
+mst.dialog.GameLibErrorCode_17219._message,이미 처리 중입니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_10001._title,오류
+mst.dialog.GameLibErrorCode_10001._message,입력한 인수가 올바르지 않습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_10006._title,오류
+mst.dialog.GameLibErrorCode_10006._message,결제 시스템이 점검 중입니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_10007._title,오류
+mst.dialog.GameLibErrorCode_10007._message,사용자가 비활성화되었습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_7002._title,오류
+mst.dialog.GameLibErrorCode_7002._message,계정 연동 코드가 등록되지 않았습니다<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_7003._title,오류
+mst.dialog.GameLibErrorCode_7003._message,인계 비밀번호가 등록되지 않았습니다<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_7004._title,오류
+mst.dialog.GameLibErrorCode_7004._message,계정 연동 코드와 비밀번호 확인에 실패했습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_7005._title,오류
+mst.dialog.GameLibErrorCode_7005._message,인계 코드와 비밀번호 검증 실패가 지정 횟수에 도달했습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_7012._title,오류
+mst.dialog.GameLibErrorCode_7012._message,계정 또는 비밀번호가 일치하지 않습니다<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_7013._title,오류
+mst.dialog.GameLibErrorCode_7013._message,계정 및 비밀번호 확인에 실패했습니다. 지정된 횟수를 초과했습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_8004._title,오류
+mst.dialog.GameLibErrorCode_8004._message,계정 연동이 잠겨 있습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_8022._title,오류
+mst.dialog.GameLibErrorCode_8022._message,계정 형식이 올바르지 않습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_16002._title,오류
+mst.dialog.GameLibErrorCode_16002._message,구매 한도를 초과하여 구매할 수 없습니다<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_16005._title,오류
+mst.dialog.GameLibErrorCode_16005._message,Loveca 잔액을 초과하여 구매할 수 없습니다<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_16007._title,오류
+mst.dialog.GameLibErrorCode_16007._message,지원되지 않는 국가 또는 통화입니다<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_16008._title,오류
+mst.dialog.GameLibErrorCode_16008._message,동일한 특전 티켓이 아직 유효하므로 구매할 수 없습니다<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_16009._title,오류
+mst.dialog.GameLibErrorCode_16009._message,총 사용 가능한 티켓 유효 기간이 180일을 초과하므로 구매할 수 없습니다<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_17002._title,오류
+mst.dialog.GameLibErrorCode_17002._message,해당 Loveca는 이미 지급되었습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_17007._title,오류
+mst.dialog.GameLibErrorCode_17007._message,해당 결제는 보호자 계정의 승인을 기다리고 있습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_17100._title,오류
+mst.dialog.GameLibErrorCode_17100._message,결제가 취소되었습니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_17214._title,오류
+mst.dialog.GameLibErrorCode_17214._message,기기의 결제 기능이 사용 불가능합니다 <br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_20001._title,오류
+mst.dialog.GameLibErrorCode_20001._message,지정한 연령대와 생년월일이 일치하지 않습니다<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_21001._title,오류
+mst.dialog.GameLibErrorCode_21001._message,지정한 연령대와 생년월일이 일치하지 않습니다<br> 오류 코드: {0}
+mst.dialog.CanNotAutoPlayWithoutStamina._title,LP 부족
+mst.dialog.CanNotAutoPlayWithoutStamina._message,"LP가 0이므로,<br>자동 플레이를 할 수 없습니다."
+mst.dialog.Migration_CheckDeviceChanged._title,기기 연동
+mst.dialog.Migration_CheckDeviceChanged._message,기기가 변경되었습니다. 게임 데이터를 복원하시겠습니까? <br> <br> <br> ※이 기기로 게임 데이터를 복원하면 <br> 기존 기기에서는 플레이할 수 없습니다.
+mst.dialog.Migration_ErrorRegisterNewDevice._title,오류
+mst.dialog.Migration_ErrorRegisterNewDevice._message,게임 데이터 복원에 실패했습니다 <br>인계 ID와 비밀번호를 사용하여 <br>데이터 인계를 다시 시도해 보세요.
+mst.dialog.Migration_IdCopy._title,복사 완료
+mst.dialog.Migration_IdCopy._message,인계 ID를 복사했습니다.
+mst.dialog.Migration_Complet._title,데이터 인계 완료
+mst.dialog.Migration_Complet._message,게임 데이터가 이전되었습니다.<br>계속해서 “스쿨 아이돌 페스티벌 2”를 즐겨 주세요.
+mst.dialog.Migration_Completed._title,데이터 인계 완료
+mst.dialog.Migration_Completed._message,"현재 기기의 게임 데이터는 다른 기기로 이미 이전되었습니다 <br> 처음부터 게임을 시작하시겠습니까? <br> <br> 데이터 이전에 대한 기억이 없다면 [취소]를 선택하고, <br> 타이틀 화면의 [메뉴] > [도움말]에서 <br> 문의해 주세요."
+mst.dialog.Migration_RetryPassword._title,입력 오류
+mst.dialog.Migration_RetryPassword._message,인계 ID 또는<br>비밀번호가 올바르지 않습니다.
+mst.dialog.Migration_InputPasswordError._title,입력 오류
+mst.dialog.Migration_InputPasswordError._message,설정 가능한 비밀번호는<br>8자에서 32자의 반각 영숫자입니다.
+mst.dialog.Error_Maintenance._title,점검 중
+mst.dialog.Error_Maintenance._message,{0} <br> <br> 유지 보수 기간은 예고 없이 변경될 수 있습니다. 양해 부탁드립니다. <br> <br> 최신 정보는 공식 웹사이트에서 확인하십시오. <br> <br> <u> <link={1}> <color=blue> 공식 웹사이트 </color> </link> </u>
+mst.dialog.Error_ResultCodeMaintenance._title,점검 중
+mst.dialog.Error_Game_Version_Updated._title,업데이트 필요
+mst.dialog.Error_Game_Version_Updated._message,앱 업데이트가 필요합니다.<br>스토어에서 최신 버전을 설치하세요.
+mst.dialog.Tutorial_CardSelectConfirm._title,확인
+mst.dialog.Tutorial_CardSelectConfirm._message,{0}을(를) 선택하시겠습니까? {1}로 하시겠습니까? <br> <br> ※ 나중에 변경할 수 없습니다.
+mst.dialog.Tutorial_DeleteGameDataConfirm._title,데이터 삭제 확인
+mst.dialog.Tutorial_DeleteGameDataConfirm._message,"게임 데이터를 삭제하여 초기화하고, 처음 상태부터 게임을 다시 시작할 수 있습니다. <br> <br> 삭제된 게임 데이터는 복구할 수 없으니 주의하십시오. <br> <br> 게임 데이터 삭제를 실행하시겠습니까?"
+mst.dialog.Tutorial_DeleteGameDataReconfirm._title,데이터 삭제 최종 확인
+mst.dialog.Tutorial_DeleteGameDataReconfirm._message,삭제된 게임 데이터는 복구할 수 없습니다 <br> <br> 정말로 게임 데이터를 삭제하시겠습니까?
+mst.dialog.Tutorial_DeleteGameDataComplete._title,데이터 삭제 완료
+mst.dialog.Tutorial_DeleteGameDataComplete._message,게임 데이터 삭제가 완료되었습니다.
+mst.dialog.Tutorial_SkipFirstHalf._title,확인
+mst.dialog.Tutorial_SkipFirstHalf._message,게임 기본 설명(튜토리얼)의 앞부분을 건너뛰시겠습니까? <br> <br> 건너뛰면 체험 Live는 자동으로 클리어됩니다.
+mst.dialog.Tutorial_SkipLatterHalf._title,확인
+mst.dialog.Tutorial_SkipLatterHalf._message,게임 설명(튜토리얼) 후반 부분도 건너뛰시겠습니까?
+mst.dialog.DownloadConfirm._title,다운로드 확인
+mst.dialog.DownloadConfirm._message,<color=#D73C55> {0} MB의 데이터를 다운로드합니다. </color> 진행하시겠습니까? <br> <br> ※ 통신 환경에 따라 시간이 걸릴 수 있습니다. <br> <br> <br> Wi-Fi 환경에서 다운로드를 권장합니다. <color=#D73C55> </color>
+mst.dialog.DownloadNotEnoughFreeSpace._title,여유 공간 부족
+mst.dialog.DownloadNotEnoughFreeSpace._message,기기의 저장 공간이 부족합니다 <br> <br> 기기의 저장 공간을 확보한 후 다시 다운로드하세요.
+mst.dialog.GooglePlayLogined._title,확인
+mst.dialog.GooglePlayLogined._message,Google Play에 로그인되었습니다.
+mst.dialog.AdditionalDownloadConfirm._title,추가 다운로드 확인
+mst.dialog.AdditionalDownloadConfirm._message,추가 데이터를 다운로드합니다 <br> <br> <color=#D73C55> 다운로드 크기: {0:0.00} MB <br> <br> ※Wi-Fi 환경에서 <br> 다운로드를 권장합니다 </color>
+mst.dialog.SongCacheClearConfirm._title,캐시 삭제 확인
+mst.dialog.SongCacheClearConfirm._message,다운로드한 곡을 삭제합니다.<br>확인하시겠습니까?
+mst.dialog.StoryDownloadConfirm._title,음성 재생
+mst.dialog.StoryDownloadConfirm._message,음성 데이터를 다운로드하여 <br> 스토리를 재생하시겠습니까? <br> <br> <color=#D73C55> 다운로드 크기: {0:0.00} MB <br> <br> ※Wi-Fi 환경에서 <br> 다운로드를 권장합니다 </color>
+mst.dialog.AdditionalMovieDownloadConfirm._title,데이터 다운로드
+mst.dialog.AdditionalMovieDownloadConfirm._message,영상을 다운로드합니다 <br> <br> <color=#D73C55> 다운로드 크기: {0:0.00} MB <br> <br> Wi-Fi 환경에서 <br> 다운로드를 권장합니다 </color>
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._title,데이터 다운로드
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._message,영상을 일괄 다운로드합니다 <br> <br> <color=#D73C55> 다운로드 크기: {0:0.00} MB </color> <br> <br> 취소해도 개별적으로 다운로드할 수 있습니다 <br> 나중에 스토리 내의 “일괄 다운로드”로 다운로드할 수 있습니다 <br> 데이터 양이 많으므로 통신 환경이 좋은 곳에서 실행하십시오 <br> <color=#D73C55> Wi-Fi 환경에서 다운로드하는 것을 권장합니다 </color>
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._title,데이터 다운로드
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._message,영상을 일괄 다운로드합니다 <br> <br> <color=#D73C55> 다운로드 크기: {0:0.00} MB </color> <br> <br> ※ 취소를 선택해도 하나씩 다운로드할 수 있습니다 <br> ※ 나중에 컬렉션 내의 “일괄 다운로드”로 다운로드할 수 있습니다 <br> ※ 데이터 양이 많으므로 통신 환경이 좋은 곳에서 실행하십시오 <br> <color=#D73C55> ※ Wi-Fi 환경에서 다운로드하는 것을 추천합니다 </color>
+mst.dialog.NoNeedAdditionalMovieDownload._title,데이터 다운로드
+mst.dialog.NoNeedAdditionalMovieDownload._message,현재 다운로드할 데이터가 없습니다
+mst.dialog.DownloadComplete_Restart._title,확인
+mst.dialog.DownloadComplete_Restart._message,데이터 다운로드가 완료되었습니다.<br>앱을 재시작합니다.
+mst.dialog.AlbumDownloadNoticeOnce._title,확인
+mst.dialog.AlbumDownloadNoticeOnce._message,추억 앨범을 볼 때 이미지 데이터가 다운로드됩니다.<br>충분한 저장 공간이 있는지 확인하고 이용해주세요.
+mst.dialog.PresentBox_ReceiveSingleSuccess._title,받기 완료
+mst.dialog.PresentBox_ReceiveSingleSuccess._message,선물을 받았습니다!
+mst.dialog.PresentBox_ReceiveMultiSuccess._title,받기 완료
+mst.dialog.PresentBox_ReceiveMultiSuccess._message,선물을 받았습니다!
+mst.dialog.PresentBox_ReceiveSingleFailure._title,소지 한도
+mst.dialog.PresentBox_ReceiveSingleFailure._message,소지 한도에 도달하여 받을 수 없습니다.
+mst.dialog.PresentBox_ReceiveMultiFailure._title,소지 한도
+mst.dialog.PresentBox_ReceiveMultiFailure._message,소지 한도에 도달하여 받을 수 없습니다.
+mst.dialog.PresentBox_ReceiveOutOfTerm._title,받기 기간 종료
+mst.dialog.PresentBox_ReceiveOutOfTerm._message,받을 수 있는 기간이 종료되어 받을 수 없습니다.
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._title,받기 기간 종료
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._message,받을 수 있는 기간이 종료되어 받을 수 없습니다.
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._title,받기 기간 종료
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._message,받을 수 있는 기간이 종료되어 받을 수 없습니다.
+mst.dialog.PresentBox_ReceiveSingleExpireReward._title,유효 기간 만료
+mst.dialog.PresentBox_ReceiveSingleExpireReward._message,유효 기간이 지났으므로 받을 수 없습니다.
+mst.dialog.PresentBox_ReceiveMultiExpireReward._title,유효 기간 만료
+mst.dialog.PresentBox_ReceiveMultiExpireReward._message,유효 기간이 지났으므로 받을 수 없습니다.
+mst.dialog.Multi_StampReset._title,스탬프 초기화
+mst.dialog.Multi_StampReset._message,현재 설정된 스탬프를 모두 제거하시겠습니까?
+mst.dialog.Multi_PrivateRoom_Done._title,라이브 생성 실패
+mst.dialog.Multi_PrivateRoom_Done._message,동일 ID의 라이브가 이미 존재하므로 다시 라이브를 생성해주세요.
+mst.dialog.Multi_Room_Failed._title,라이브 생성 실패
+mst.dialog.Multi_Room_Failed._message,Live를 생성할 수 없습니다.
+mst.dialog.Multi_Disconnect_Scene_2._title,확인
+mst.dialog.Multi_Disconnect_Scene_2._message,통신이 끊어졌습니다.<br>협동 라이브를 종료하고 홈 화면으로 돌아갑니다.
+mst.dialog.Multi_Disconnect_Warning._title,확인
+mst.dialog.Multi_Disconnect_Warning._message,통신이 끊어졌습니다.<br>협동 라이브를 종료하고 홈 화면으로 돌아갑니다.
+mst.dialog.Multi_Result_Playing_Caution._title,확인
+mst.dialog.Multi_Result_Playing_Caution._message,완벽과 그레이트 횟수가 적으면 획득하는 이벤트 포인트를 줄입니다.<br>자신의 실력에 맞는 난이도를 선택하세요.
+mst.dialog.Function_Lock_Multi._title,확인
+mst.dialog.Function_Lock_Multi._message,협동 라이브에서 다른 유저에게 불편을 주는 행위가 확인되었습니다 <br> 기능이 일시적으로 제한됩니다 <br> 해제될 때까지 기다려 주세요.
+mst.dialog.NgWord._title,오류
+mst.dialog.NgWord._message,부적절한 표현이 포함되어 있습니다.<br>다시 입력해주세요.
+mst.dialog.AndroidPermission._title,권한 확인
+mst.dialog.AndroidPermission._message,플레이하려면 저장소 사용을 허용하세요.
+mst.dialog.AndroidPermissionDetail._title,권한 확인
+mst.dialog.AndroidPermissionDetail._message,게임을 플레이하려면 저장 공간 사용을 허용해주세요<br>앱 상세 화면을 엽니다
+mst.dialog.Adventure_Skip._title,스킵
+mst.dialog.Adventure_Skip._message,이 스토리를 건너뛰고 종료하시겠습니까?
+mst.dialog.DeviceCompromised._title,오류
+mst.dialog.DeviceCompromised._message,기기가 루팅되어 있어 플레이할 수 없습니다.
+mst.dialog.CanNotMainDeckReset._title,리셋 불가
+mst.dialog.CanNotMainDeckReset._message,메인 유닛은<br>리셋할 수 없습니다
+mst.dialog.CanNotAutoPlayNotClear._title,자동 재생 불가
+mst.dialog.CanNotAutoPlayNotClear._message,Live를 클리어하지 않았으므로<br>스킵할 수 없습니다
+mst.dialog.Error_Friend_Max_Self._title,친구 최대치
+mst.dialog.Error_Friend_Max_Self._message,친구 수가 최대치에 도달했습니다 <br> <br> 다른 친구를 해제해주세요
+mst.dialog.Error_Friend_Max_Other._title,친구 최대치
+mst.dialog.Error_Friend_Max_Other._message,상대방의 친구 수가 최대치에 도달했습니다.
+mst.dialog.Error_Friend_Request_Max_Self._title,친구 신청 불가
+mst.dialog.Error_Friend_Request_Max_Self._message,본인의 친구 신청 수가 최대치에 도달하여 <br><br>신청할 수 없습니다.
+mst.dialog.Error_Friend_Request_Max_Other._title,친구 신청 불가
+mst.dialog.Error_Friend_Request_Max_Other._message,상대방의 친구 신청 가능 수가 부족합니다.
+mst.dialog.Error_Friend_Pending_Max_Self._title,친구 신청 불가
+mst.dialog.Error_Friend_Pending_Max_Self._message,자신의 친구 승인 대기 수가 최대치에 도달했습니다.
+mst.dialog.Error_Friend_Pending_Max_Other._title,친구 신청 불가
+mst.dialog.Error_Friend_Pending_Max_Other._message,상대방의 친구 승인 대기 수가 가득 찼습니다.
+mst.dialog.Error_Friend_Already_Request._title,친구 신청 불가
+mst.dialog.Error_Friend_Already_Request._message,이미 신청 중이라 신청할 수 없습니다.
+mst.dialog.Error_Friend_Already_Pending._title,친구 신청 불가
+mst.dialog.Error_Friend_Already_Pending._message,상대방의 친구 신청이 이미 승인 대기 중입니다.
+mst.dialog.Error_Friend_Already_Friend._title,친구 신청 불가
+mst.dialog.Error_Friend_Already_Friend._message,이미 친구입니다.
+mst.dialog.Error_Friend_Request_Reject._title,친구 신청 불가
+mst.dialog.Error_Friend_Request_Reject._message,"상대방이 친구 신청 설정을 <br><br>거부했으므로, <br><br>신청할 수 없습니다."
+mst.dialog.PrivateEnter_NotJoin._title,라이브 참가 실패
+mst.dialog.PrivateEnter_NotJoin._message,Live에 참여할 수 없습니다.
+mst.dialog.PrivateEnter_HostPreparation._title,라이브 참가 실패
+mst.dialog.PrivateEnter_HostPreparation._message,호스트 플레이어가 준비 중이라 라이브에 참여할 수 없습니다.
+mst.dialog.PrivateEnter_NotCondition._title,라이브 참가 실패
+mst.dialog.PrivateEnter_NotCondition._message,이 Live의 참가 조건을 충족하지 못했습니다 <br> <br> Live 참가 조건 <br> {0}
+mst.dialog.PrivateEnter_NotRoom._title,라이브 ID 확인
+mst.dialog.PrivateEnter_NotRoom._message,입력한 Live ID와 일치하는 Live를 찾을 수 없습니다.<br>입력한 Live ID를 확인해 주세요.
+mst.dialog.PrivateEnter_NotTotalPower._title,라이브 참가 실패
+mst.dialog.PrivateEnter_NotTotalPower._message,메인 유닛의 종합력이 부족하여 라이브에 참여할 수 없습니다.
+mst.dialog.Photo_Box_Change_Result._title,교환 완료
+mst.dialog.Photo_Box_Change_Result._message,교환이 완료되었습니다.
+mst.dialog.ChipsterErrorCode_0._title,읽기 오류
+mst.dialog.ChipsterErrorCode_0._message,읽기 오류가 발생했습니다<br>타이틀 화면으로 돌아갑니다
+mst.dialog.ChipsterErrorCode_100000._title,통신 오류
+mst.dialog.ChipsterErrorCode_100000._message,파일 로딩에 실패했습니다<br>타이틀 화면으로 돌아갑니다
+mst.dialog.ChipsterErrorCode_100404._title,통신 오류
+mst.dialog.ChipsterErrorCode_100404._message,연결할 곳을 찾을 수 없습니다<br>타이틀 화면으로 돌아갑니다
+mst.dialog.ChipsterErrorCode_100408._title,읽기 오류
+mst.dialog.ChipsterErrorCode_100408._message,연결에 실패했습니다<br>타이틀 화면으로 돌아갑니다
+mst.dialog.ChipsterErrorCode_100500._title,읽기 오류
+mst.dialog.ChipsterErrorCode_100500._message,연결 중에 문제가 발생했습니다.<br>타이틀 화면으로 돌아갑니다.
+mst.dialog.ChipsterErrorCode_200000._title,읽기 오류
+mst.dialog.ChipsterErrorCode_200000._message,데이터 로딩에 실패했습니다<br>타이틀 화면으로 돌아갑니다
+mst.dialog.ChipsterErrorCode_200100._title,읽기 오류
+mst.dialog.ChipsterErrorCode_200100._message,일정 시간 동안 응답이 없어 연결이 끊어졌습니다.<br>타이틀 화면으로 돌아갑니다.
+mst.dialog.ChipsterErrorCode_200200._title,읽기 오류
+mst.dialog.ChipsterErrorCode_200200._message,데이터 로딩에 실패했습니다<br>타이틀 화면으로 돌아갑니다
+mst.dialog.ChipsterErrorCode_999999._title,읽기 오류
+mst.dialog.ChipsterErrorCode_999999._message,데이터 로드 중 문제가 발생했습니다<br>타이틀 화면으로 돌아갑니다
+mst.dialog.Error_Forbidden._title,오류
+mst.dialog.Error_Forbidden._message,계정이 정지되었습니다.<br>해당 사항이 없으시면 제목 > 메뉴 > 도움말 > 기타 문의를 통해 문의해주세요.
+mst.dialog.Event_ErrorNotSession._title,이벤트 기간 아님
+mst.dialog.Event_ErrorNotSession._message,현재 이벤트가 진행 중이 아닙니다
+mst.dialog.Event_ErrorEnded._title,종료됨
+mst.dialog.Event_ErrorEnded._message,이벤트가 종료되었습니다.<br>홈으로 돌아갑니다.
+mst.dialog.Event_ErrorEndedNotPolicy._title,종료됨
+mst.dialog.Event_ErrorEndedNotPolicy._message,이벤트 이용 약관에 동의하지 않아 <br>이벤트 페이지를 표시할 수 없습니다
+mst.dialog.Event_ResultAnnouncement._title,이벤트 결과 발표 안내
+mst.dialog.Event_ResultAnnouncement._message,"「{0}」에 참여해 주셔서 감사합니다! <br> 선물로 랭킹 보상을 발송했으니, 꼭 수령해 주세요. <br> 랭킹 결과는 이벤트 페이지에서 확인할 수 있습니다."
+mst.dialog.ShopLackMedal._title,{0} 부족
+mst.dialog.ShopLackMedal._message,{0}이 부족합니다. Loveca를 구매하시겠습니까?
+mst.dialog.Mission_ErrorEnded._title,이벤트 기간 아님
+mst.dialog.Mission_ErrorEnded._message,미션 기간이 종료되었습니다.
+mst.dialog.BoxGacha_NextBoxConfirm._title,확인
+mst.dialog.BoxGacha_NextBoxConfirm._message,현재 상자를 폐기하고 <br>다음 상자로 이동하시겠습니까?<br>
+mst.dialog.Error_Gift_Expired._title,받기 기간 종료
+mst.dialog.Error_Gift_Expired._message,선물 수령 기간이 종료되었습니다.
+mst.dialog.Error_Mission_Expired._title,받기 기간 종료
+mst.dialog.Error_Mission_Expired._message,미션 보상 수령 기간이 종료되었습니다.<br>받지 못한 보상은 선물 상자에 보내집니다.
+mst.dialog.Error_Item_Expired._title,기간 만료
+mst.dialog.Error_Item_Expired._message,아이템 사용 기간이 만료되었습니다
+mst.dialog.Function_Lock_Gacha._title,기능 제한
+mst.dialog.Function_Lock_Gacha._message,현재 스카우트 기능은 <br> 제한이 걸려 있어 <br> 사용할 수 없습니다 <br> <br> 시작 예정 시간: {0} <br> 종료 예정 시간: {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.Function_Lock_Shop._title,기능 제한
+mst.dialog.Function_Lock_Shop._message,현재 상점 기능은 <br> 제한이 걸려 있어 <br> 사용할 수 없습니다 <br> <br> 시작 예정 시간: {0} <br> 종료 예정 시간: {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.Function_Lock_Exchange._title,기능 제한
+mst.dialog.Function_Lock_Exchange._message,현재 교환소 기능은 <br> 제한이 걸려 있어 <br> 사용할 수 없습니다 <br> <br> 시작 예정 시간: {0} <br> 종료 예정 시간: {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.RecommendConfirm._title,(임시) 알림
+mst.dialog.RecommendConfirm._message,새로운 알림이 있습니다.
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._title,라이브 참가 실패
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._message,라이브 참여 조건을 만족하지 않아 시작할 수 없습니다 <br> <br> 라이브 참여 조건 <br> {0}
+mst.dialog.Live_BluetoothAudioMode._title,블루투스 모드
+mst.dialog.Live_BluetoothAudioMode._message,Bluetooth 이어폰 연결로 인해 Bluetooth 모드로 변경되었습니다 <br> Bluetooth 모드에서는 라이브 중 탭 효과음이 지연될 수 있습니다 <br> ※ Bluetooth용 판정 조정이 적용됩니다
+mst.dialog.Live_BatteryQuantityCheck._title,배터리 잔량 경고
+mst.dialog.Live_BatteryQuantityCheck._message,"배터리 잔량이 부족합니다<br>현재 배터리 잔량은 <color=#D73C55>, 남은 양은 {0} %이며, </color>입니다<br>배터리 잔량이 부족하면 <br>라이브가 중단될 수 있습니다<br>충전을 권장합니다."
+mst.dialog.MusicVideo_ReleaseCondition._title,MV 해방 조건
+mst.dialog.MusicVideo_ReleaseCondition._message,어느 난이도로든 라이브를 한 번 클리어하면 MV 감상이 해제됩니다.
+mst.dialog.MusicVideo_Pause._title,일시 정지 중
+mst.dialog.MusicVideo_Pause._message,뮤직 비디오 감상을 중단하고<br>곡 선택 화면으로 돌아갈까요?
+mst.dialog.Adventure_Movie_Skip._title,일시 정지 중
+mst.dialog.Adventure_Movie_Skip._message,영상을 건너뛰시겠습니까?
+mst.dialog.StaminaConfirm._title,LP 확인
+mst.dialog.StaminaConfirm._message,현재 남은 LP가 설정량을 밑돌고 있습니다 <br> 현재 사용할 수 있는 만큼만 소비하여 Live를 진행하시겠습니까? <br> ※남은 LP가 0인 경우 LP는 소비되지 않습니다.
+mst.dialog.AutoBoostConfirm._title,스킵 티켓 확인
+mst.dialog.AutoBoostConfirm._message,"현재, 보유한 스킵 티켓이 설정량보다 적습니다.<br>현재 사용할 수 있는 만큼만 소비하여 Live를 진행하시겠습니까?"
+mst.dialog.NoAutoBoostConfirm._title,스킵 티켓 확인
+mst.dialog.NoAutoBoostConfirm._message,"현재 스킵 티켓을 보유하고 있지 않거나, 곡 클리어 전이라 스킵 티켓을 사용할 수 없습니다 <br>LP를 1개 소비하여 라이브를 진행하시겠습니까? <br>※ 남은 LP가 0개인 경우 LP는 소비되지 않습니다."
+mst.dialog.NoAutoBoostForSpiritConfirm._title,스킵 티켓 확인
+mst.dialog.NoAutoBoostForSpiritConfirm._message,"현재 스킵 티켓을 보유하고 있지 않거나, 곡 클리어 전이라 스킵 티켓을 사용할 수 없습니다.<br>미라클 스타를 소비하여 라이브를 진행하시겠습니까?"
+mst.dialog.LiveResultRestartConfirm._title,재시작 확인
+mst.dialog.LiveResultRestartConfirm._message,LP {0}을 소비하여 다시 라이브를 플레이하시겠습니까?
+mst.dialog.LiveResultRestartAutoConfirm._title,재시작 확인
+mst.dialog.LiveResultRestartAutoConfirm._message,스킵 티켓을 {0} 소비하고 라이브를 플레이하시겠습니까?
+mst.dialog.CardMovie_Pause._title,일시 정지 중
+mst.dialog.CardMovie_Pause._message,영상 재생을 중단하고<br>영상 상세 화면으로 돌아갈까요?
+mst.dialog.OrnamentShop_LackGem._title,Loveca 확인
+mst.dialog.OrnamentShop_LackGem._message,Loveca가 부족하여 구매할 수 없습니다
+mst.dialog.OrnamentShop_Lack._title,{0} 확인
+mst.dialog.OrnamentShop_Lack._message,{0}가 부족하여 구매할 수 없습니다
+mst.dialog.StoryReleaseDetail._title,해방 조건
+mst.dialog.StoryPlay._title,스토리 재생
+mst.dialog.StoryPlay._message,"「{0}」를 재생합니다. <br>, 진행하시겠습니까? <br>"
+mst.dialog.StoryPlayAfterDownload._title,스토리 재생
+mst.dialog.StoryPlayAfterDownload._message,「{1}」을 다운로드하여 재생합니다. <br> <br> <br> <color=#D73C55> 다운로드 크기: {0:0.00} MB </color> <br> 괜찮으신가요? <br> <br> <color=#D73C55> ※Wi-Fi 환경에서 <br> 다운로드를 권장합니다. </color>
+mst.dialog.EpisodePlay._title,스토리 재생
+mst.dialog.EpisodePlay._message,「{0}」를 재생합니다. <br> 진행하시겠습니까?
+mst.dialog.Tutorial_GroupSelect._title,좋아하는 그룹 확인
+mst.dialog.Tutorial_GroupSelect._message,"선택한 그룹에서 선택한 멤버의 최고 레어리티 ""UR""을 <br>다음 스카우트에서 반드시 얻을 수 있습니다<br>이 그룹으로 안내해 드릴까요?"
+mst.dialog.Tutorial_MemberSelect._title,좋아하는 멤버 확인
+mst.dialog.Tutorial_MemberSelect._message,"선택한 멤버의 최고 레어리티 ""UR""을 <br>다음 스카우트에서 반드시 얻을 수 있습니다<br>이 멤버로 결정하시겠습니까?"
+mst.dialog.Tutorial_Movie_Skip._title,무비 스킵
+mst.dialog.Tutorial_Movie_Skip._message,영상을 건너뛰시겠습니까?
+mst.dialog.Tutorial_Live_Skip._title,라이브 스킵 확인
+mst.dialog.Tutorial_Live_Skip._message,라이브를 스킵하시겠습니까?
+mst.dialog.Tutorial_GetMember._title,좋아하는 멤버 획득
+mst.dialog.Tutorial_GetMember._message,{0}을(를) 획득했습니다 <br> ※획득한 멤버는 부원으로 즉시 추가됩니다
+mst.dialog.Tutorial_HomeGacha._title,튜토리얼 완료
+mst.dialog.Tutorial_HomeGacha._message,튜토리얼 완료를 기념하여 스카우트를 10회 무료로 진행할 수 있습니다.
+mst.dialog.Tutorial_Complete._title,확인
+mst.dialog.Tutorial_Complete._message,튜토리얼 완료!
+mst.dialog.BandEnrich._title,확인
+mst.dialog.BandEnrich._message,선택한 밴드 강화 아이템과 <br>{0} G를 사용하여 강화하시겠습니까? <br>
+mst.dialog.SubTutorial_EndConfirm._title,확인
+mst.dialog.SubTutorial_EndConfirm._message,Live를 플레이하시겠습니까?
+mst.dialog.SubTutorial_SkipConfirm._title,확인
+mst.dialog.SubTutorial_SkipConfirm._message,스킵하시겠습니까?
+mst.dialog.EmotionalMemberSelect._title,선택 중 [{0}]
+mst.dialog.EmotionalMemberSelect._message,이 멤버로 결정하시겠습니까? <br><br>※한 번 선택한 최애 멤버는 변경할 수 없습니다
+mst.dialog.EmotionalBandSelect._title,선택 중 [{0}]
+mst.dialog.EmotionalBandSelect._message,이 밴드로 결정하시겠습니까? <br> <br> 선택 기간 중에는 언제든지 밴드를 변경할 수 있습니다. <br> 밴드를 변경하면 이벤트 포인트(임시)가 초기화되므로 주의하십시오. <br> 이벤트 포인트(임시)는 밴드 결정 후부터 계산됩니다.
+mst.dialog.ShopAttentionWording._title,이용 관련 주의사항
+mst.dialog.ShopAttentionWording._message,"반품은 불가능합니다.<br>이용자가 만 18세 미만인 경우, 상품 구매에는 법정대리인의 동의가 필요합니다."
+mst.dialog.Notice_Movie_Skip._title,무비 스킵
+mst.dialog.Notice_Movie_Skip._message,영상을 건너뛰시겠습니까?
+mst.dialog.GameLibErrorCode_17101._title,구매 미완료
+mst.dialog.GameLibErrorCode_17101._message,미완료된 편의점 결제가 있습니다<br> 보류 중인 구매의 편의점 결제를 완료해주세요<br> 또는 Google Play 스토어의 구매 내역에서 보류 중인 구매를 취소해주세요<br><br> 결제 완료 후에는 상점에서 다시 접속하여 상품을 확인해주세요<br> 오류 코드: {0}
+mst.dialog.GameLibErrorCode_16010._title,구매 미완료
+mst.dialog.GameLibErrorCode_16010._message,미완료된 편의점 결제가 있습니다<br> 보류 중인 구매의 편의점 결제를 완료해주세요<br> 또는 Google Play 스토어의 구매 내역에서 보류 중인 구매를 취소해주세요<br><br> 결제 완료 후에는 상점에서 다시 접속하여 상품을 확인해주세요<br> 오류 코드: {0}
+mst.dialog.GachaConfirmFree._title,확인
+mst.dialog.GachaConfirmFree._message,{0}에서 {1}회 스카우트하시겠습니까?
+mst.dialog.GachaConfirmFreeDaily._title,확인
+mst.dialog.GachaConfirmFreeDaily._message,{0}로 {1}회 스카우트하시겠습니까? <br>시에 리셋됩니다
+mst.dialog.GachaConfirmTutorial._title,확인
+mst.dialog.GachaConfirmTutorial._message,{0}에서 {1}회 스카우트하시겠습니까?
+mst.dialog.GameLibErrorCode_1100._title,계정 연동 실패
+mst.dialog.GameLibErrorCode_1100._message,계정 연동에 실패했습니다.
+mst.dialog.DataTakeOver_SNSSignOutConfirm._title,연결 해제
+mst.dialog.DataTakeOver_SNSSignOutConfirm._message,연결된 계정을 해제하시겠습니까?
+mst.dialog.ChatOpen._title,채팅 확인!
+mst.dialog.ChatOpen._message,새로운 채팅이 도착했습니다!<br>확인하시겠습니까?
+mst.dialog.ReturnToTitleConfirm._title,확인
+mst.dialog.ReturnToTitleConfirm._message,타이틀 화면으로 돌아가시겠습니까?
+mst.dialog.GoToRehearsalConfirm._title,리허설 확인
+mst.dialog.GoToRehearsalConfirm._message,"리허설에서는 LP를 소비하지 않습니다 <br> 하지만, 클리어 시 스코어 등의 데이터는 반영되지 않고 <br> 보상을 획득할 수 없지만 괜찮으신가요?"
+mst.dialog.GoToEventRehearsalConfirm._title,리허설 확인
+mst.dialog.GoToEventRehearsalConfirm._message,"리허설에서는 미라클 스타를 소비하지 않습니다 <br> 하지만, 클리어 시 스코어 등의 데이터는 반영되지 않고 <br> 보상을 획득할 수 없지만 괜찮으신가요?"
+mst.dialog.MigrateError_WrongParam._title,확인
+mst.dialog.MigrateError_WrongParam._message,계정 데이터를 찾을 수 없습니다.<br>사용자 ID와 비밀번호가 정확하게 입력되었는지 확인하십시오.
+mst.dialog.MigrateError_AlreadyCompleted._title,확인
+mst.dialog.MigrateError_AlreadyCompleted._message,이 사용자 ID는 이미 계정 이전이 완료되었습니다.
+mst.dialog.TermsOfService_UpDate._title,이용 약관 업데이트
+mst.dialog.TermsOfService_UpDate._message,이용 약관이 업데이트되었습니다.<br>계속 플레이하려면 이용 약관에 다시 동의해야 합니다.
+mst.dialog.Subscription_Restore_Ok._title,구독 복원
+mst.dialog.Subscription_Restore_Ok._message,복원되었습니다
+mst.dialog.Subscription_Restore_0_Have._title,구독 복원
+mst.dialog.Subscription_Restore_0_Have._message,구매 내역을 확인할 수 없습니다.
+mst.dialog.Subscription_Restore_Error._title,구독 복원
+mst.dialog.Subscription_Restore_Error._message,복원에 실패했습니다.
+mst.dialog.GameLibErrorCode_37003._title,오류
+mst.dialog.GameLibErrorCode_37003._message,구매 가능한 금액을 초과하여 구매할 수 없습니다.
+mst.dialog.GameLibErrorCode_37004._title,오류
+mst.dialog.GameLibErrorCode_37004._message,유지 가능한 보석 잔액을 초과하여 구매할 수 없습니다.
+mst.dialog.GameLibErrorCode_37006._title,오류
+mst.dialog.GameLibErrorCode_37006._message,정기 구독에 이미 가입되어 있어 구매할 수 없습니다.
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._title,확인
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._message,이 계정은 이미 다른 사용자 데이터와 <br> 계정 연동되어 있습니다. <br> 다른 사용자 데이터와의 계정 연동을 해제하고 <br> 현재 사용자 데이터와 계정 연동하시겠습니까? <br>
+mst.dialog.GameLibOrder_IsPending._title,구매 미완료
+mst.dialog.GameLibOrder_IsPending._message,미결제된 편의점 결제가 있습니다 <br> 보류 중인 구매에 대한 편의점 결제를 완료하거나 <br> Google Play 스토어의 구매 내역에서 보류 중인 구매를 취소하세요 <br> <br> 결제가 완료되면 상점에서 다시 상품을 확인할 수 있습니다.
+mst.dialog.MusicRecommendErrorExpired._title,오류
+mst.dialog.MusicRecommendErrorExpired._message,이 추천 목록은 게시 기간이 종료되었습니다.
+mst.dialog.MultiDeckErrorUnorganized._title,편성 오류
+mst.dialog.MultiDeckErrorUnorganized._message,협동 Live를 위한 유닛을 편성하세요.
+mst.dialog.MultiCanNotMatching._title,매칭 실패
+mst.dialog.MultiCanNotMatching._message,매칭에 실패했습니다. 이벤트 페이지로 돌아갑니다.
+mst.dialog.LocationInformationConfirmingDialog._title,위치 정보 확인 중
+mst.dialog.LocationInformationConfirmingDialog._message,위치 정보를 가져오는 중입니다 <br> 위치 정보 검색에는 시간이 걸릴 수 있습니다 <br> 취소를 누르면 중단됩니다.
+mst.dialog.LocationFailedDialogOutofArea._title,보상 획득 가능 지역 외
+mst.dialog.LocationFailedDialogOutofArea._message,보상 획득 가능 지역을 벗어났습니다<br>보상을 획득할 수 없습니다
+mst.dialog.LocationFailedDialogNotAllow._title,확인
+mst.dialog.LocationFailedDialogNotAllow._message,위치 정보 모드가 ‘끔’ 또는 ‘GPS만’으로 설정된 경우 <br> 위치 정보 연동 기능을 사용할 수 없습니다 <br> 설정 변경 방법은 기기의 설정을 확인해 주세요.
+mst.dialog.LocationFailedDialogTimeout._title,확인
+mst.dialog.LocationFailedDialogTimeout._message,시간 초과되었습니다
+mst.dialog.LocationFailedDialogNone._title,확인
+mst.dialog.LocationFailedDialogNone._message,보상 획득에 실패했습니다
+mst.dialog.LocationFailedDialogReceived._title,확인
+mst.dialog.LocationFailedDialogReceived._message,이미 완료된 캠페인입니다.
+mst.dialog.LocationFailedDialogOutOfTerm._title,확인
+mst.dialog.LocationFailedDialogOutOfTerm._message,캠페인 기간이 종료되었습니다.
+mst.dialog.MultiConfirmStartLive._title,확인
+mst.dialog.MultiConfirmStartLive._message,참가 인원이 부족합니다. <br> <br> 4명으로 플레이할 경우 획득 이벤트 포인트가 <br> 적어질 수 있습니다. <br> <br> 현재 인원으로 라이브를 시작하시겠습니까?
+mst.dialog.MultiConfirmStartLivePermanent._title,확인
+mst.dialog.MultiConfirmStartLivePermanent._message,참가 인원이 부족합니다.<br><br>현재 인원으로 라이브를 시작하시겠습니까?
+mst.dialog.MultiLeaveRoomOnSongPick._title,라이브 퇴장
+mst.dialog.MultiLeaveRoomOnSongPick._message,퇴장하면 이 라이브에 참가할 수 없게 됩니다.<br><br>퇴장하시겠습니까?
+mst.dialog.MultiPenalty._title,확인
+mst.dialog.MultiPenalty._message,협동 라이브에서 여러 차례의 통신 끊김 등이 확인되어 <br> 기능이 일시적으로 제한되었습니다. <br> 해제될 때까지 기다려 주세요. <br> <br> <color=#D73C55> 제한 해제까지 <br> {0} </color>
+mst.dialog.MultiPenaltyWarning._title,확인
+mst.dialog.MultiPenaltyWarning._message,협동 라이브 중 통신 끊김 등의 이유로<br>라이브 결과가 무효 처리되었습니다
+mst.dialog.MultiLiveInterruption._title,확인
+mst.dialog.MultiLiveInterruption._message,협동 라이브 중 통신 끊김 등의 이유로<br>라이브 결과가 무효 처리되었습니다
+mst.dialog.MultiRematchAllUsersLeft._title,확인
+mst.dialog.MultiRematchAllUsersLeft._message,다른 유저가 모두 퇴장했습니다
+mst.dialog.MultiDisconnectedError._title,확인
+mst.dialog.MultiDisconnectedError._message,통신이 끊어졌습니다.
+mst.dialog.MultiHelperCountEmpty._title,확인
+mst.dialog.MultiHelperCountEmpty._message,오늘의 도움 횟수가 0이 되었습니다.<br>이벤트 상단으로 돌아갑니다.
+mst.dialog.SS_AlignmentError_WrongParam._title,오류
+mst.dialog.SS_AlignmentError_WrongParam._message,연결할 데이터를 찾을 수 없습니다. <br>스크스타 플레이어 ID와 연결 비밀번호가 정확하게 입력되었는지 <br> 확인해 주세요.
+mst.dialog.SS_AlignmentError_AlreadyCompleted._title,오류
+mst.dialog.SS_AlignmentError_AlreadyCompleted._message,이미 스쿠페스 2 계정과의 연동이 완료되었습니다.
+mst.dialog.SS_AlignmentError_UsedCode._title,오류
+mst.dialog.SS_AlignmentError_UsedCode._message,이미 이 스쿠스타 플레이어 ID로 연동이 완료되었습니다.
+mst.dialog.SS_AlignmentError_Expired._title,오류
+mst.dialog.SS_AlignmentError_Expired._message,유효 기간이 만료되어 사용할 수 없습니다.
+mst.dialog.EventEndConfirmDialog._title,확인
+mst.dialog.EventEndConfirmDialog._message,이벤트가 종료되었습니다.
+mst.dialog.LiveLoadError._title,곡 업데이트
+mst.dialog.LiveLoadError._message,음악 데이터가 업데이트되었습니다.
+mst.dialog.StartEventLive._title,확인
+mst.dialog.StartEventLive._message,이벤트가 시작되었습니다
+mst.dialog.SerialCcode_ExcludedItem._title,확인
+mst.dialog.SerialCcode_ExcludedItem._message,이 채팅은 이미 해제되었습니다.
+mst.dialog.UseExpiredItem._title,오류
+mst.dialog.UseExpiredItem._message,사용하려는 {0}의 유효 기간이 지났습니다.
+mst.dialog.LiveSkipConfirm._title,확인
+mst.dialog.LiveSkipConfirm._message,"한 번 클리어한 곡은 모든 난이도에서 스킵할 수 있습니다.<br>단, 클리어하지 않은 난이도는 클리어로 처리되지 않습니다."
+mst.dialog.GameClose_AnnouncePaybackNotice._title,서비스 종료 안내
+mst.dialog.GameClose_AnnouncePaybackNotice._message,《러브라이브! 스쿨 아이돌 페스티벌 2 MIRACLE LIVE!》는 <br>2024년 3월 31일(일)을 기해 서비스를 종료했습니다. <br><br>■ 환불 접수 기간: 2024년 4월 1일(월) 00:00 ~ 2024년 6월 17일(월) 14:59 <br><br>지금까지 이용해 주셔서 진심으로 감사합니다.
+mst.dialog.GameClose_AnnouncePayback._title,유료 Loveca 환불 안내
+mst.dialog.GameClose_AnnouncePayback._message,"『러브라이브! 스쿨 아이돌 페스티벌 2 MIRACLE LIVE!』는 <br>2024년 3월 31일(일)을 기해 서비스를 종료했습니다. <br>앱 전용 통화인 '유료 Loveca'의 미사용 잔액 환불을 원하시는 경우, <br>'환불' 양식에서 문의해 주시기 바랍니다. <br><br>■ 환불을 진행하는 선불 결제 수단 발행자: Bushiroad Co., Ltd. <br>■ 환불 접수 기간: 2024년 4월 1일(월) 00:00 ~ 2024년 6월 17일(월) 15:00 <br>※ 해당 기간에 환불을 신청하지 않으면, 이 환불 절차에서 제외됩니다."
+mst.dialog.GameClose_AnnounceNoPayback._title,서비스 종료 안내
+mst.dialog.GameClose_AnnounceNoPayback._message,『러브라이브! 스쿨 아이돌 페스티벌 2 MIRACLE LIVE!』는 <br>2024년 3월 31일(일)을 기해 서비스를 종료했습니다. <br><br>환불 대상이 되는 유료 Loveca는 없습니다. <br>문의 사항이 있으시면 아래에서 문의해 주십시오. <br><br>지금까지 이용해 주셔서 진심으로 감사합니다.
+mst.dialog.GameClose_Announce._title,서비스 종료 안내
+mst.dialog.GameClose_Announce._message,《러브라이브! 스쿨 아이돌 페스티벌 2 MIRACLE LIVE!》는 <br>2024년 3월 31일(일)을 기해 서비스를 종료했습니다. <br><br>지금까지 이용해주셔서 진심으로 감사합니다.
+mst.dialog.GameClose_Information_Terms._title,이용 약관
+mst.dialog.GameClose_Information_PrivacyPolicy._title,개인정보 보호정책
+mst.dialog.GameClose_Information_Rights._title,권리 표시
+mst.dialog.DataTakeOver_SnsNotSupported._title,SNS 연동
+mst.dialog.DataTakeOver_SnsNotSupported._message,이 버전에서는 SNS 연동을 이용할 수 없습니다.<br>
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._title,확인
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._message,«{0}»을 삭제하시겠습니까? <br> 저장된 MV 편성은 기본 설정으로 돌아갑니다.
+mst.dialog.Arcade_Enter_Confirm._title,Arcade Mode
+mst.dialog.Arcade_Enter_Confirm._message,Register this device as an arcade cabinet.<br>From then on every launch goes straight to the attract loop and the normal game is no longer reachable (Test Mode can undo this).<br>All content is downloaded right after registration.<br><br>Continue?
+mst.dialog.Arcade_Enter_Failed._title,Registration Failed
+mst.dialog.Arcade_Enter_Failed._message,{0}
+mst.dialog.Arcade_TestMode_ExitConfirm._title,Exit Arcade Mode
+mst.dialog.Arcade_TestMode_ExitConfirm._message,"Leave arcade mode.<br>All save data on this device (machine registration, credits, bookkeeping) is deleted and it returns to a first-launch install.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_ExitReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ExitReconfirm._message,Deleted data cannot be recovered.<br>Really exit arcade mode?
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,Reset Bookkeeping
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,Set the counted coins and plays back to zero.<br>Credits and the machine registration are not changed.<br><br>Continue?
+mst.dialog.Arcade_Session_Failed._title,Cannot Start Session
+mst.dialog.Arcade_Session_Failed._message,{0}<br><br>Your credit has been returned.
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,Download All Content
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,Downloads every asset category.<br>This takes time and bandwidth. The cabinet returns to the attract screen when it is done.<br><br>Continue?
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,The counted data cannot be recovered.<br>Really reset it?
+mst.dialog.Arcade_Card_NewCard._title,A New Card
+mst.dialog.Arcade_Card_NewCard._message,This card has not been used here before.<br>Choose NEW PLAYER to start a new account on it.<br>Choose TRANSFER DATA to move the account you already play on your phone onto this card.
+mst.dialog.Arcade_Card_BindFailed._title,Transfer Failed
+mst.dialog.Arcade_Card_BindFailed._message,No account matches that transfer code and password.<br>Check them and try again.
+mst.dialog.Arcade_TestMode_UnlockConfirm._title,Unlock Account
+mst.dialog.Arcade_TestMode_UnlockConfirm._message,"Remove this device's account lock.<br>From the next credit on, Decision plays as the guest. The card binding on the server is kept.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_UnlockReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_UnlockReconfirm._message,A removed lock cannot be restored; the next lock draws a new device card ID.<br>Really unlock?
+mst.dialog.Arcade_TestMode_LockFailed._title,Lock Failed
+mst.dialog.Arcade_TestMode_LockFailed._message,No account matches that transfer code and password.<br>The lock stays pending until the first credit.
+mst.dialog.Arcade_Enter_WipeConfirm._title,데이터 삭제 확인
+mst.dialog.Arcade_Enter_WipeConfirm._message,"이 기기에는 이미 게임 데이터가 있습니다.<br>아케이드 모드로 전환하면 이 기기의 모든 데이터(계정, 카드, 악곡, 진행 상황)가 삭제되며 복구할 수 없습니다.<br><br>계속하시겠습니까?"
+mst.dialog.Arcade_Enter_WipeFinal._title,데이터 삭제 최종 확인
+mst.dialog.Arcade_Enter_WipeFinal._message,삭제된 게임 데이터는 복구할 수 없습니다.<br><br>정말로 모든 데이터를 삭제하고 아케이드 모드로 전환하시겠습니까?
+mst.dialog.Arcade_Enter_KeyboardWarning._title,키보드가 필요합니다
+mst.dialog.Arcade_Enter_KeyboardWarning._message,"이 기기가 아케이드 모드로 전환되면 화면 조작만으로는 설정을 변경할 수도, 일반 게임으로 돌아갈 수도 없습니다.<br>테스트 모드(기기의 모든 설정)와 아케이드 모드 종료는 기기의 TEST 버튼으로만 열 수 있습니다. 키보드에서는 기본 설정으로 F1 키입니다(게임패드에는 할당되어 있지 않습니다).<br>종료는 TEST → 시스템 → 아케이드 모드 종료로 실행하며, 이 기기의 세이브 데이터는 모두 삭제되고 첫 실행 상태로 돌아갑니다.<br><br>키보드는 준비되어 있습니까?"

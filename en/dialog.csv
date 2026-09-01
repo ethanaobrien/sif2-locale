@@ -1,0 +1,683 @@
+﻿_key,_text
+mst.dialog.ErrorStay._title,Error
+mst.dialog.ErrorStay._message,An error occurred.<br><br>{0}
+mst.dialog.ErrorTitle._title,Error
+mst.dialog.ErrorTitle._message,An error occurred.<br>Returning to the title screen.<br><br>{0}
+mst.dialog.Free._title,{0}
+mst.dialog.Free._message,{0}
+mst.dialog.NetworkError_Retry._title,Connection Error
+mst.dialog.NetworkError_Retry._message,Could not connect.<br>Please try again in an area with a stronger signal.
+mst.dialog.NetworkError_Title._title,Connection Error
+mst.dialog.NetworkError_Title._message,A communication error occurred.<br>Returning to the title screen.<br><br>{0}
+mst.dialog.NetworkError_ResourceUpdated._title,Connection Error
+mst.dialog.NetworkError_ResourceUpdated._message,An update is required.<br>Returning to the title screen.
+mst.dialog.NetworkError_NotReachable_Retry._title,Connection Error
+mst.dialog.NetworkError_NotReachable_Retry._message,Could not connect.<br>Please check your connection and try again.
+mst.dialog.ApplicationQuitConfirm._title,Confirm
+mst.dialog.ApplicationQuitConfirm._message,This will end the game.<br>Are you sure?
+mst.dialog.AreaUnlock._title,Area Unlocked
+mst.dialog.AreaUnlock._message,{0}<br>A new area has been unlocked!
+mst.dialog.AreaUnlockDetail_StoryRead._title,Unlock Conditions
+mst.dialog.AreaUnlockDetail_StoryRead._message,Unlocked by viewing<br>{0}<br>in the story.
+mst.dialog.AreaUnlockDetail_UserRank._title,Unlock Conditions
+mst.dialog.AreaUnlockDetail_UserRank._message,Unlocked at<br>Player Rank {0} or higher.
+mst.dialog.ChatTalkSkip._title,Skip
+mst.dialog.ChatTalkSkip._message,Skip this conversation and exit?
+mst.dialog.Chat_EncountStoryPlayback._title,Replay Encounter Story
+mst.dialog.Chat_EncountStoryPlayback._message,Play {0}'s Encounter Story.
+mst.dialog.OrnamentLevelRelease._title,Equipment Level Cap Raised
+mst.dialog.OrnamentLevelRelease._message,You can now level up {0}<br>up to Level {1}!
+mst.dialog.DeckNameChangeSuccess._title,Unit Name Changed
+mst.dialog.DeckNameChangeSuccess._message,Unit name has been changed.
+mst.dialog.DeckNameChangeEmpty._title,Input Error
+mst.dialog.DeckNameChangeEmpty._message,Please enter at least one character.
+mst.dialog.DeckNameChangeNg._title,Error
+mst.dialog.DeckNameChangeNg._message,This contains inappropriate language.<br>Please enter something else.
+mst.dialog.MainDeckChangeSuccess._title,Main Unit Changed
+mst.dialog.MainDeckChangeSuccess._message,Main Unit has been changed.
+mst.dialog.PracticeConfirm._title,Confirm
+mst.dialog.PracticeConfirm._message,The selected Lesson Notes and {0} Gold<br>will be used for enhancement.<br>Are you sure?
+mst.dialog.SkillPracticeConfirmByItem._title,Confirm
+mst.dialog.SkillPracticeConfirmByItem._message,The selected Skill Books and {0} Gold<br>will be used for enhancement.<br>Are you sure?
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._title,Confirm
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._message,This member can also be used for Awakening.<br>Stop selecting them as material<br>and go to Awakening?
+mst.dialog.SkillPracticeConfirmByPhoto._title,Confirm
+mst.dialog.SkillPracticeConfirmByPhoto._message,The selected member will be removed<br>from the waiting room.<br>Enhance their Skill anyway?<br>*They will remain on the Member List.
+mst.dialog.TrainingConfirm._title,Confirm
+mst.dialog.TrainingConfirm._message,The selected Penlights will be used for Awakening.<br>Are you sure?
+mst.dialog.StaminaChargeConfirm._title,Restore LP
+mst.dialog.StaminaChargeConfirm._message,Your LP will be restored.<br><br>Are you sure?
+mst.dialog.StaminaChargeSuccess._title,Restore LP
+mst.dialog.StaminaChargeSuccess._message,Restored {0} LP!
+mst.dialog.StaminaChargeOver._title,LP Recovery Cap
+mst.dialog.StaminaChargeOver._message,Your LP exceeds the maximum.<br><br>Cannot restore LP.
+mst.dialog.ShopBuySuccess._title,Item Purchased
+mst.dialog.ShopBuySuccess._message,Purchased {0}!
+mst.dialog.GachaExec._title,Confirm
+mst.dialog.GachaExec._message,{1} {0} will be used to Scout [{2}].<br>Are you sure?
+mst.dialog.GachaLackMedal._title,Not enough {0}.
+mst.dialog.GachaLackMedal._message,You don't have enough {0}. Purchase Loveca?
+mst.dialog.GachaLackItem._title,Not enough {0}.
+mst.dialog.GachaLackItem._message,You don't have enough {0}.
+mst.dialog.GachaResultGetBonus._title,Bonus Acquired
+mst.dialog.GachaResultGetBonus._message,You obtained a Scouting Bonus!
+mst.dialog.GachaResultGetMovie._title,Member Acquired
+mst.dialog.GachaResultGetMovie._message,{0}<br>{1}
+mst.dialog.GachaErrorExpired._title,Error
+mst.dialog.GachaErrorExpired._message,This is outside the valid period.
+mst.dialog.GachaTicketExpired._title,Error
+mst.dialog.GachaTicketExpired._message,The Ticket you tried to use has expired.
+mst.dialog.GachaSelectedExpired._title,Event Ended
+mst.dialog.GachaSelectedExpired._message,This Scout has ended.
+mst.dialog.DeckResetConfirm._title,Reset
+mst.dialog.DeckResetConfirm._message,This will reset your current Unit.<br>Are you sure?
+mst.dialog.RecommendSuccess._title,Recommended Unit
+mst.dialog.RecommendSuccess._message,Recommended Unit has been formed.
+mst.dialog.NoticePlayerRankUp._title,Rank Up!
+mst.dialog.NoticePlayerRankUp._message,Restored {0} LP.
+mst.dialog.NoticePlayerRankAndFriendMaxUp._title,Rank Up!
+mst.dialog.NoticePlayerRankAndFriendMaxUp._message,Restored {0} LP.<br>Your friend limit increased from {1} to {2}.
+mst.dialog.NoticeGroupRankUp._title,Group Rank Up
+mst.dialog.NoticeGroupRankMax._title,Group Rank Up
+mst.dialog.NoticeGroupRankMax._message,<color=#D73C55><b>Group Rank has reached MAX!</b></color>
+mst.dialog.DeckMemberChangeConfirm._title,Confirm Swap
+mst.dialog.DeckMemberChangeConfirm._message,"This member is already in your Formation.<br>Swap them with the assigned ""{0}""?<br>Are you sure?"
+mst.dialog.StoryRelease._title,Story Unlocked
+mst.dialog.StoryRelease._message,{0}{1} has been unlocked.
+mst.dialog.FriendSearchError._title,Search Error
+mst.dialog.FriendSearchError._message,"Cannot find this player.<br><br>The Player ID you entered may be incorrect,<br>or this player has set their friend requests to declined."
+mst.dialog.FriendDeleteConfirm._title,Confirm
+mst.dialog.FriendDeleteConfirm._message,Remove this friend?
+mst.dialog.FriendDeleteSuccess._title,Friend removed.
+mst.dialog.FriendDeleteSuccess._message,Friend removed.
+mst.dialog.FriendDeleteError._title,Friend Removal Failed
+mst.dialog.FriendDeleteError._message,Could not remove friend.
+mst.dialog.FriendRequestCancelConfirm._title,Confirm
+mst.dialog.FriendRequestCancelConfirm._message,Cancel this friend request?
+mst.dialog.FriendRequestCancelSuccess._title,Friend request cancelled.
+mst.dialog.FriendRequestCancelSuccess._message,Friend request cancelled.
+mst.dialog.FriendRequestCancelError._title,Friend Request Cancellation Failed
+mst.dialog.FriendRequestCancelError._message,Could not cancel friend request.
+mst.dialog.FriendPendingConfirm._title,Confirm
+mst.dialog.FriendPendingConfirm._message,This friend request will be approved.<br>Are you sure?
+mst.dialog.FriendPendingSuccess._title,Friend Request Accepted
+mst.dialog.FriendPendingSuccess._message,Friend request accepted.
+mst.dialog.FriendPendingError._title,Friend Request Approval Failed
+mst.dialog.FriendPendingError._message,Could not approve friend request.
+mst.dialog.FriendRejectConfirm._title,Confirm
+mst.dialog.FriendRejectConfirm._message,Decline this friend request?
+mst.dialog.FriendRejectSuccess._title,Friend Request Declined
+mst.dialog.FriendRejectSuccess._message,Friend request declined.
+mst.dialog.FriendRejectError._title,Friend Request Rejection Failed
+mst.dialog.FriendRejectError._message,Could not decline friend request.
+mst.dialog.FriendRequestSuccess._title,Friend Request Sent
+mst.dialog.FriendRequestSuccess._message,Friend request sent.
+mst.dialog.FriendRequestError._title,Friend request failed.
+mst.dialog.FriendRequestError._message,Could not send friend request.
+mst.dialog.FriendCanNotRequest._title,Cannot Add Friend
+mst.dialog.FriendCanNotRequest._message,This player has set their<br>friend requests to declined.
+mst.dialog.OptionSettingChangeCancelConfirm._title,Confirm
+mst.dialog.OptionSettingChangeCancelConfirm._message,Cancel these changes<br>and return to the previous settings?
+mst.dialog.OptionTestLivePauseDialog._title,Paused
+mst.dialog.OptionTestLivePauseDialog._message,End the Test Live<br>and return to the Options menu?
+mst.dialog.LiveContinue._title,Resume Live
+mst.dialog.LiveContinue._message,Spend {0} Loveca to<br>fully restore HP and resume the Live?<br>*Free Loveca will be consumed first.<br><br>Loveca {1} → {2}
+mst.dialog.LiveContinueGemShortage._title,Not Enough Loveca
+mst.dialog.LiveContinueGemShortage._message,"You don't have enough Loveca,<br>so the Live cannot be resumed."
+mst.dialog.LiveFailure._title,Live Failed
+mst.dialog.LiveFailure._message,You're out of HP.<br>Spend {0} Loveca to<br>fully restore HP and resume.
+mst.dialog.LivePause._title,Pause
+mst.dialog.LivePause._message,End the Live and return to song select?<br>*Your LP won't be consumed.
+mst.dialog.LiveRetireConfirm._title,Quit Live
+mst.dialog.LiveRetireConfirm._message,"If you end the Live,<br>you won't receive the Live rewards.<br>Are you sure?<br>*LP will not be consumed."
+mst.dialog.LiveRestartConfirm._title,Restart
+mst.dialog.LiveRestartConfirm._message,You will restart the song.<br>Are you sure?<br>*LP and Skip Tickets will not be consumed.
+mst.dialog.TeacherPointDetail._title,What Is High Score Rank?
+mst.dialog.TeacherPointDetail._message,Your High Score Rank is calculated<br>from your Live high scores.<br><br>Strengthen your Members<br>to achieve higher scores!
+mst.dialog.GemPackBuyComplete._title,Purchase Complete
+mst.dialog.GemPackBuyComplete._message,Purchased {0}.
+mst.dialog.GemBuyCancel._title,Cancel
+mst.dialog.GemBuyCancel._message,Purchase canceled.
+mst.dialog.GemBuyComplete._title,Purchase Complete
+mst.dialog.GemBuyComplete._message,Purchased {0}.
+mst.dialog.GemBuyStamina._title,Confirm
+mst.dialog.GemBuyStamina._message,Spend {1} {0}<br>to restore {3} LP?<br>Are you sure?
+mst.dialog.GemBuyItem._title,Confirm
+mst.dialog.GemBuyItem._message,Spend {1} {0}<br>to restore {3} LP?<br>Are you sure?
+mst.dialog.GemBuyItemPack._title,Confirm
+mst.dialog.GemBuyItemPack._message,{1} {0} will be used for this purchase.<br>Are you sure?
+mst.dialog.GemInsufficientMedal._title,Not Enough Loveca
+mst.dialog.GemInsufficientMedal._message,You don't have enough Loveca.
+mst.dialog.GemAgeError._title,Error
+mst.dialog.GemAgeError._message,Date of birth is invalid.
+mst.dialog.GemAgeComplete._title,Input Complete
+mst.dialog.GemAgeComplete._message,Age verification complete.<br>{0}
+mst.dialog.GemAgeConfirm._title,Confirm
+mst.dialog.GemAgeConfirm._message,"Once set, this cannot be changed until the app is deleted. Are you sure you want to proceed?"
+mst.dialog.GemAskToBuy._title,Confirm
+mst.dialog.GemAskToBuy._message,You need a guardian's consent<br>to purchase in-game currency.<br>Do you have a guardian's consent?
+mst.dialog.GemBuyLimitError._title,Spending Limit Reached
+mst.dialog.GemBuyLimitError._message,"This would exceed your monthly spending limit, so the purchase cannot be made.<br>{0}"
+mst.dialog.GemBuyLimitAlert._title,Confirm
+mst.dialog.GemBuyLimitAlert._message,{0}<br>Do you want to purchase?
+mst.dialog.GemBuyLimitAlertConfirm._title,Spending Limit Reached
+mst.dialog.GemBuyLimitAlertConfirm._message,"You have spent over ¥100,000 this month.<br>Do you want to continue your purchase?<br><br>You can turn off this alert in the following settings:<br><color=#D73C55>Settings > System Settings > Alert Settings > Spending Alert</color>"
+mst.dialog.GemBuyError._title,Error
+mst.dialog.GemBuyError._message,Purchase failed.
+mst.dialog.GemShopError._title,Error
+mst.dialog.GemShopError._message,Failed to retrieve shop information.
+mst.dialog.GemShopTicketInfo._title,{0}
+mst.dialog.GemShopTicketInfo._message,"Notes <color=#D73C55>* Must Read</color><br>*Purchased Paid Loveca are added directly to your owned Loveca.<br>*Items other than Loveca will be sent to your Present Box.<br>*You won't receive Loveca on days you don't log in.<br>*Login bonuses are distributed upon login and added to your owned Loveca.<br>*Login bonuses become available at 0:00 the day after your purchase.<br>*Login bonuses are Free Loveca.<br>*For {1} days starting the day after your purchase, you'll receive {2} Loveca as a login bonus.<br><br>Set Contents:<br>{3}<br>Loveca {4} x{5} days, totaling {6}<br><br>Price: {7}"
+mst.dialog.GemBuyErrorExpired._title,Unavailable for Purchase
+mst.dialog.GemBuyErrorExpired._message,"The sales period has ended, so this could not be purchased."
+mst.dialog.SingleReward_OrnamentGet._title,Item (Provisional) Acquired
+mst.dialog.SingleReward_OrnamentGetTeaSet._title,Equipment Unlocked
+mst.dialog.SingleReward_OrnamentGetTeaSet._message,Acquired!<br>*You can now change it from Storage.
+mst.dialog.SingleReward_OrnamentLevelUp._title,Reward Acquired
+mst.dialog.SingleReward_OrnamentLevelUp._message,Leveled up!
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._title,Reward Acquired
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._message,Leveled up!
+mst.dialog.SingleReward_OrnamentRelease._title,Item (Provisional) Unlocked
+mst.dialog.SingleReward_OrnamentRelease._message,Now in stock at the Custom Shop!
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._title,Equipment Unlocked
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._message,{1} is now in stock<br>at the {0} Shop!
+mst.dialog.SingleReward_CommonDirectly._title,Reward Acquired
+mst.dialog.SingleReward_CommonDirectly._message,Reward obtained!
+mst.dialog.SingleReward_CommonPresentBox._title,Reward Acquired
+mst.dialog.SingleReward_CommonPresentBox._message,<color=#C12424>Rewards can be received from the Present Box.</color>
+mst.dialog.SingleReward_CommonView._title,Clear Rewards
+mst.dialog.SingleReward_EventDirectly._title,Reward Acquired
+mst.dialog.SingleReward_EventDirectly._message,Obtained the cumulative {0} reward!
+mst.dialog.SingleReward_EventPresentBox._title,Reward Acquired
+mst.dialog.SingleReward_EventPresentBox._message,<color=#C12424>You can receive the cumulative {0} reward from the Present Box.</color>
+mst.dialog.SingleReward_Costume._title,Costume Acquired
+mst.dialog.SingleReward_Costume._message,Obtained a new costume!
+mst.dialog.SingleReward_Music._title,Song Unlocked
+mst.dialog.SingleReward_Music._message,New song unlocked!
+mst.dialog.SingleReward_Title._title,Title Acquired
+mst.dialog.SingleReward_Title._message,Title obtained!
+mst.dialog.SingleReward_IntoPresentBox._title,Item Limit
+mst.dialog.SingleReward_IntoPresentBox._message,"<color=#C12424>You've reached the item limit, so it was sent to your Present Box.</color>"
+mst.dialog.MultiReward_CommonDirectly._title,Reward Acquired
+mst.dialog.MultiReward_CommonDirectly._message,Reward obtained!
+mst.dialog.MultiReward_CommonPresentBox._title,Reward Acquired
+mst.dialog.MultiReward_CommonPresentBox._message,<color=#C12424>Rewards can be received from the Present Box.</color>
+mst.dialog.MultiReward_EventDirectly._title,Reward Acquired
+mst.dialog.MultiReward_EventDirectly._message,Obtained the cumulative {0} reward!
+mst.dialog.MultiReward_EventPresentBox._title,Reward Acquired
+mst.dialog.MultiReward_EventPresentBox._message,<color=#C12424>You can receive the cumulative {0} reward from the Present Box.</color>
+mst.dialog.MultiReward_CommonView._title,Clear Rewards
+mst.dialog.MultiReward_IntoPresentBox._title,Item Limit
+mst.dialog.MultiReward_IntoPresentBox._message,"<color=#C12424>You've reached the item limit, so it was sent to your Present Box.</color>"
+mst.dialog.Multi_Private_MasterRoomLeave._title,Disband Live
+mst.dialog.Multi_Private_MasterRoomLeave._message,{0} has disbanded the Live.<br>Returning to the Live selection screen.
+mst.dialog.LiveResult_ContinueMultiRoom._title,Continue?
+mst.dialog.LiveResult_ContinueMultiRoom._message,Play this same Live again?
+mst.dialog.LoginBonus_Check._title,Date Updated
+mst.dialog.LoginBonus_Check._message,"The date has changed,<br>so you will be logged in again."
+mst.dialog.LoginBonus_Common._title,Login Bonus
+mst.dialog.LoginBonus_Common._message,{0} x {1}<br><color=#D73C55>Rewards can be received from the Present Box.</color>
+mst.dialog.LoginBonus_Multi._title,Login Bonus
+mst.dialog.LoginBonus_Multi._message,{0} x {1}<br><color=#D73C55>Rewards can be received from the Present Box.</color>
+mst.dialog.MultiRoomType._title,Live Rewards
+mst.dialog.MultiRoomType._message,"In Day-of-Week Lives, it's easier to obtain set rewards for each day of the week.<br>*Normal Lives give standard rewards.<br><br>Mon: Reward A<br>Tue: Reward B<br>Wed: Reward C<br>Thu: Reward D<br>Fri: Reward E<br>Sat: Reward F<br>Sun: Reward G<br><br>*Amounts of items other than the boosted rewards are adjusted."
+mst.dialog.VoiceDownloadConfirm._title,Download Voice
+mst.dialog.VoiceDownloadConfirm._message,"Pre-download voices,<br>excluding story voices?<br><br><color=#D73C55>Download size:<br>{0:0.00} MB<br><br>*Downloading over Wi-Fi<br>is recommended.</color>"
+mst.dialog.LiveProductionDownloadConfirm._title,Download Live Member Visuals
+mst.dialog.LiveProductionDownloadConfirm._message,Pre-download the data needed<br>for Live performance effects?<br>This may shorten the load time<br>before a Live begins.<br><br><color=#D73C55>Download size:<br>{0:0.00} MB<br><br>*Downloading over Wi-Fi<br>is recommended.</color>
+mst.dialog.GameLibErrorCode_1._title,Error
+mst.dialog.GameLibErrorCode_1._message,The input value is invalid.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_14._title,Error
+mst.dialog.GameLibErrorCode_14._message,This user account is disabled.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_20._title,Error
+mst.dialog.GameLibErrorCode_20._message,This device has already been linked to an account and cannot be used.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_1000._title,Error
+mst.dialog.GameLibErrorCode_1000._message,A connection error occurred.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_17219._title,Error
+mst.dialog.GameLibErrorCode_17219._message,Already processing.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_10001._title,Error
+mst.dialog.GameLibErrorCode_10001._message,The input value is invalid.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_10006._title,Error
+mst.dialog.GameLibErrorCode_10006._message,The billing system is currently down for maintenance.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_10007._title,Error
+mst.dialog.GameLibErrorCode_10007._message,This user account is disabled.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_7002._title,Error
+mst.dialog.GameLibErrorCode_7002._message,The transfer code hasn't been registered.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_7003._title,Error
+mst.dialog.GameLibErrorCode_7003._message,The transfer password hasn't been set up yet.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_7004._title,Error
+mst.dialog.GameLibErrorCode_7004._message,The transfer code and password could not be verified.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_7005._title,Error
+mst.dialog.GameLibErrorCode_7005._message,You've reached the maximum number of failed attempts to verify your transfer code and password.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_7012._title,Error
+mst.dialog.GameLibErrorCode_7012._message,Your account name or password doesn't match.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_7013._title,Error
+mst.dialog.GameLibErrorCode_7013._message,You've reached the maximum number of failed account and password verification attempts.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_8004._title,Error
+mst.dialog.GameLibErrorCode_8004._message,Data transfer is locked.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_8022._title,Error
+mst.dialog.GameLibErrorCode_8022._message,Your account format is invalid.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_16002._title,Error
+mst.dialog.GameLibErrorCode_16002._message,"This would exceed your purchase limit, so it cannot be purchased.<br>Error code: {0}"
+mst.dialog.GameLibErrorCode_16005._title,Error
+mst.dialog.GameLibErrorCode_16005._message,"This would exceed your Loveca balance, so it cannot be purchased.<br>Error code: {0}"
+mst.dialog.GameLibErrorCode_16007._title,Error
+mst.dialog.GameLibErrorCode_16007._message,Your country or currency isn't supported.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_16008._title,Error
+mst.dialog.GameLibErrorCode_16008._message,"You already have a valid ticket for the same benefit, so this cannot be purchased.<br>Error code: {0}"
+mst.dialog.GameLibErrorCode_16009._title,Error
+mst.dialog.GameLibErrorCode_16009._message,"This would push your total ticket validity past 180 days, so it cannot be purchased.<br>Error code: {0}"
+mst.dialog.GameLibErrorCode_17002._title,Error
+mst.dialog.GameLibErrorCode_17002._message,Those Loveca have already been granted.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_17007._title,Error
+mst.dialog.GameLibErrorCode_17007._message,This purchase is awaiting approval from a guardian account.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_17100._title,Error
+mst.dialog.GameLibErrorCode_17100._message,This payment was cancelled.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_17214._title,Error
+mst.dialog.GameLibErrorCode_17214._message,Your device cannot make purchases.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_20001._title,Error
+mst.dialog.GameLibErrorCode_20001._message,Your selected age group and birthday don't match.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_21001._title,Error
+mst.dialog.GameLibErrorCode_21001._message,Your selected age group and birthday don't match.<br>Error code: {0}
+mst.dialog.CanNotAutoPlayWithoutStamina._title,Not Enough LP
+mst.dialog.CanNotAutoPlayWithoutStamina._message,"Your LP is 0,<br>so Auto is unavailable."
+mst.dialog.Migration_CheckDeviceChanged._title,Account Transfer
+mst.dialog.Migration_CheckDeviceChanged._message,"You have changed devices.<br>Do you want to restore your game data?<br><br>*If you restore game data on this device,<br>you will no longer be able to play on your old device."
+mst.dialog.Migration_ErrorRegisterNewDevice._title,Error
+mst.dialog.Migration_ErrorRegisterNewDevice._message,Game data restoration failed.<br>Please try transferring the data<br>using your Transfer ID and password.
+mst.dialog.Migration_IdCopy._title,Copied!
+mst.dialog.Migration_IdCopy._message,Transfer ID copied.
+mst.dialog.Migration_Complet._title,Data Transfer Complete
+mst.dialog.Migration_Complet._message,Your game data has been transferred.<br>Continue enjoying School Idol Festival 2!
+mst.dialog.Migration_Completed._title,Data Already Transferred
+mst.dialog.Migration_Completed._message,"This device's game data has already been transferred to another device.<br>Do you want to start the game from the beginning?<br><br>*If you don't recall transferring your data, select [Cancel],<br>then go to the title screen [MENU] > [Help]<br>and contact us."
+mst.dialog.Migration_RetryPassword._title,Input Error
+mst.dialog.Migration_RetryPassword._message,Either your Transfer ID<br>or password is incorrect.
+mst.dialog.Migration_InputPasswordError._title,Input Error
+mst.dialog.Migration_InputPasswordError._message,Passwords must be 8 to 32<br>half-width alphanumeric characters.
+mst.dialog.Error_Maintenance._title,Under Maintenance
+mst.dialog.Error_Maintenance._message,{0}<br><br>*Maintenance times are subject to change without notice.<br><br>*Please check the official site for the latest information.<br><br><u><link={1}><color=blue>Official Site</color></link></u>
+mst.dialog.Error_ResultCodeMaintenance._title,Under Maintenance
+mst.dialog.Error_ResultCodeMaintenance._message,{0}
+mst.dialog.Error_Game_Version_Updated._title,Update
+mst.dialog.Error_Game_Version_Updated._message,An app update is required.<br>Please install the latest version from the store.
+mst.dialog.Tutorial_CardSelectConfirm._title,Confirm
+mst.dialog.Tutorial_CardSelectConfirm._message,Go with {0}★{1}?<br><br>*You won't be able to change this later.
+mst.dialog.Tutorial_DeleteGameDataConfirm._title,Delete Data?
+mst.dialog.Tutorial_DeleteGameDataConfirm._message,Deleting your game data resets the game to its initial state so you can start over.<br><br>Please note that deleted game data cannot be restored.<br><br>Delete game data?
+mst.dialog.Tutorial_DeleteGameDataReconfirm._title,Final Confirmation
+mst.dialog.Tutorial_DeleteGameDataReconfirm._message,Deleted game data cannot be restored.<br><br>Are you sure you want to delete your game data?
+mst.dialog.Tutorial_DeleteGameDataComplete._title,Data Deleted
+mst.dialog.Tutorial_DeleteGameDataComplete._message,Game data deletion complete.
+mst.dialog.Tutorial_SkipFirstHalf._title,Confirm
+mst.dialog.Tutorial_SkipFirstHalf._message,Skip the first half of the tutorial?<br><br>Skipping will automatically clear the Trial Live.
+mst.dialog.Tutorial_SkipLatterHalf._title,Confirm
+mst.dialog.Tutorial_SkipLatterHalf._message,Skip the second half of the tutorial as well?
+mst.dialog.DownloadConfirm._title,Confirm Download
+mst.dialog.DownloadConfirm._message,"This will download <color=#D73C55>{0} MB</color> of data.<br>Are you sure?<br><br>*Depending on your connection, this may<br>take some time.<br><color=#D73C55>Downloading over Wi-Fi is recommended.</color>"
+mst.dialog.DownloadNotEnoughFreeSpace._title,Not Enough Space
+mst.dialog.DownloadNotEnoughFreeSpace._message,Your device doesn't have enough free space.<br><br>Please free up space and try the download again.
+mst.dialog.GooglePlayLogined._title,Confirm
+mst.dialog.GooglePlayLogined._message,Already logged in to Google Play.
+mst.dialog.AdditionalDownloadConfirm._title,Confirm Additional Download
+mst.dialog.AdditionalDownloadConfirm._message,This will download additional data.<br><br><color=#D73C55>Download size: {0:0.00} MB<br><br>*Downloading over Wi-Fi<br>is recommended.</color>
+mst.dialog.SongCacheClearConfirm._title,Clear Cache?
+mst.dialog.SongCacheClearConfirm._message,This will delete the downloaded song.<br>Are you sure?
+mst.dialog.StoryDownloadConfirm._title,Voice Playback
+mst.dialog.StoryDownloadConfirm._message,Download voice data<br>and play the story?<br><br><color=#D73C55>Download size: {0:0.00} MB<br><br>*Downloading over Wi-Fi<br>is recommended.</color>
+mst.dialog.AdditionalMovieDownloadConfirm._title,Data Download
+mst.dialog.AdditionalMovieDownloadConfirm._message,This will download a movie.<br><br><color=#D73C55>Download size: {0:0.00} MB<br><br>*Downloading over Wi-Fi<br>is recommended.</color>
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._title,Data Download
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._message,"This will download all movies at once.<br><br><color=#D73C55>Download size: {0:0.00} MB</color><br><br>*Even if you select Cancel, you can still download each episode one at a time.<br>*You can also use Download All within the story later.<br>*Due to the large data size, please download where you have a good connection.<br><color=#D73C55>*Downloading over Wi-Fi is recommended.</color>"
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._title,Data Download
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._message,"This will download all movies at once.<br><br><color=#D73C55>Download size: {0:0.00} MB</color><br><br>*Even if you select Cancel, you can still download each movie one at a time.<br>*You can also use Download All within the collection later.<br>*Due to the large data size, please download where you have a good connection.<br><color=#D73C55>*Downloading over Wi-Fi is recommended.</color>"
+mst.dialog.NoNeedAdditionalMovieDownload._title,Data Download
+mst.dialog.NoNeedAdditionalMovieDownload._message,There is no data to download right now.
+mst.dialog.DownloadComplete_Restart._title,Confirm
+mst.dialog.DownloadComplete_Restart._message,Data download complete.<br>Restarting the app.
+mst.dialog.AlbumDownloadNoticeOnce._title,Confirm
+mst.dialog.AlbumDownloadNoticeOnce._message,Image data is downloaded when viewing the Memory Album.<br>Please ensure your device has enough free space before viewing.
+mst.dialog.PresentBox_ReceiveSingleSuccess._title,Received
+mst.dialog.PresentBox_ReceiveSingleSuccess._message,Received a present!
+mst.dialog.PresentBox_ReceiveMultiSuccess._title,Received
+mst.dialog.PresentBox_ReceiveMultiSuccess._message,Received a present!
+mst.dialog.PresentBox_ReceiveSingleFailure._title,Item Limit Reached
+mst.dialog.PresentBox_ReceiveSingleFailure._message,"You've reached the item limit, so this could not be received."
+mst.dialog.PresentBox_ReceiveMultiFailure._title,Item Limit Reached
+mst.dialog.PresentBox_ReceiveMultiFailure._message,"You've reached the item limit, so this could not be received."
+mst.dialog.PresentBox_ReceiveOutOfTerm._title,Outside Claim Period
+mst.dialog.PresentBox_ReceiveOutOfTerm._message,"The claim period has ended, so this could not be received."
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._title,Outside Claim Period
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._message,"The claim period has ended, so this could not be received."
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._title,Outside Claim Period
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._message,"The claim period has ended, so this could not be received."
+mst.dialog.PresentBox_ReceiveSingleExpireReward._title,Expired
+mst.dialog.PresentBox_ReceiveSingleExpireReward._message,"This has expired, so it could not be received."
+mst.dialog.PresentBox_ReceiveMultiExpireReward._title,Expired
+mst.dialog.PresentBox_ReceiveMultiExpireReward._message,"This has expired, so it could not be received."
+mst.dialog.Multi_StampReset._title,Reset Stamps
+mst.dialog.Multi_StampReset._message,Remove all currently set stamps?
+mst.dialog.Multi_PrivateRoom_Done._title,Live Creation Failed
+mst.dialog.Multi_PrivateRoom_Done._message,A Live with the same ID already exists. Please create the Live again.
+mst.dialog.Multi_Room_Failed._title,Live Creation Failed
+mst.dialog.Multi_Room_Failed._message,Could not create the Live.
+mst.dialog.Multi_Disconnect_Scene_2._title,Confirm
+mst.dialog.Multi_Disconnect_Scene_2._message,"Disconnected.<br>The Co-op Live has ended, and you'll be returned to the Home Screen."
+mst.dialog.Multi_Disconnect_Warning._title,Confirm
+mst.dialog.Multi_Disconnect_Warning._message,"Disconnected.<br>The Co-op Live has ended, and you'll be returned to the Home Screen."
+mst.dialog.Multi_Result_Playing_Caution._title,Confirm
+mst.dialog.Multi_Result_Playing_Caution._message,You'll earn fewer Event Pts if you get fewer PERFECTs and GREATs.<br>Choose a difficulty that matches your skill level.
+mst.dialog.Function_Lock_Multi._title,Confirm
+mst.dialog.Function_Lock_Multi._message,Behavior that disturbed other players was detected during a Co-op Live.<br>Your features are temporarily restricted.<br>Please wait until the restriction is lifted.
+mst.dialog.NgWord._title,Error
+mst.dialog.NgWord._message,This contains inappropriate language.<br>Please enter something else.
+mst.dialog.AndroidPermission._title,Confirm Permissions
+mst.dialog.AndroidPermission._message,"To play, please allow access to your device's storage."
+mst.dialog.AndroidPermissionDetail._title,Confirm Permissions
+mst.dialog.AndroidPermissionDetail._message,"To play, please allow access to your device's storage.<br>This will open the app details screen."
+mst.dialog.Adventure_Skip._title,Skip
+mst.dialog.Adventure_Skip._message,Skip this story and exit?
+mst.dialog.DeviceCompromised._title,Error
+mst.dialog.DeviceCompromised._message,"This device has been rooted, so you cannot play."
+mst.dialog.CanNotMainDeckReset._title,Unable to Reset
+mst.dialog.CanNotMainDeckReset._message,You can't reset your<br>Main Unit.
+mst.dialog.CanNotAutoPlayNotClear._title,Auto Unavailable
+mst.dialog.CanNotAutoPlayNotClear._message,"You haven't cleared this Live yet,<br>so skipping is unavailable."
+mst.dialog.Error_Friend_Max_Self._title,Friend Limit Reached
+mst.dialog.Error_Friend_Max_Self._message,You've reached the friend limit.<br><br>Please remove a friend to add more.
+mst.dialog.Error_Friend_Max_Other._title,Friend Limit Reached
+mst.dialog.Error_Friend_Max_Other._message,This user has reached their friend limit.
+mst.dialog.Error_Friend_Request_Max_Self._title,Cannot Send Friend Request
+mst.dialog.Error_Friend_Request_Max_Self._message,"You've reached your friend request limit,<br><br>so the request could not be sent."
+mst.dialog.Error_Friend_Request_Max_Other._title,Cannot Send Friend Request
+mst.dialog.Error_Friend_Request_Max_Other._message,This user has no room for more friend requests.
+mst.dialog.Error_Friend_Pending_Max_Self._title,Cannot Send Friend Request
+mst.dialog.Error_Friend_Pending_Max_Self._message,You've reached your limit of pending friend requests.
+mst.dialog.Error_Friend_Pending_Max_Other._title,Cannot Send Friend Request
+mst.dialog.Error_Friend_Pending_Max_Other._message,This user has no room for more pending friend requests.
+mst.dialog.Error_Friend_Already_Request._title,Cannot Send Friend Request
+mst.dialog.Error_Friend_Already_Request._message,"You already have a pending friend request, so we were unable to send another."
+mst.dialog.Error_Friend_Already_Pending._title,Cannot Send Friend Request
+mst.dialog.Error_Friend_Already_Pending._message,You’ve already approved a friend request from this player.
+mst.dialog.Error_Friend_Already_Friend._title,Cannot Send Friend Request
+mst.dialog.Error_Friend_Already_Friend._message,This user is already a Friend.
+mst.dialog.Error_Friend_Request_Reject._title,Cannot Send Friend Request
+mst.dialog.Error_Friend_Request_Reject._message,"This user has set their friend requests to<br><br>declined,<br><br>so your request could not be sent."
+mst.dialog.PrivateEnter_NotJoin._title,Failed to Join Live
+mst.dialog.PrivateEnter_NotJoin._message,Unable to join the Live.
+mst.dialog.PrivateEnter_HostPreparation._title,Failed to Join Live
+mst.dialog.PrivateEnter_HostPreparation._message,"Because the host player is preparing, you were unable to join this Live."
+mst.dialog.PrivateEnter_NotCondition._title,Failed to Join Live
+mst.dialog.PrivateEnter_NotCondition._message,You haven’t met the conditions to participate in this Live.<br><br>Live Participation Requirements:<br>{0}
+mst.dialog.PrivateEnter_NotRoom._title,Check Live ID
+mst.dialog.PrivateEnter_NotRoom._message,Unable to find a Live with that ID.<br>Please double-check the Live ID you entered.
+mst.dialog.PrivateEnter_NotTotalPower._title,Failed to Join Live
+mst.dialog.PrivateEnter_NotTotalPower._message,"Because your Main Unit’s Combined Power is insufficient, you were unable to participate in the Live."
+mst.dialog.Photo_Box_Change_Result._title,Exchanged!
+mst.dialog.Photo_Box_Change_Result._message,Exchange completed.
+mst.dialog.ChipsterErrorCode_0._title,Loading Error
+mst.dialog.ChipsterErrorCode_0._message,A loading error occurred.<br>Returning to the title screen.
+mst.dialog.ChipsterErrorCode_100000._title,Connection Error
+mst.dialog.ChipsterErrorCode_100000._message,Failed to load file.<br>Returning to the title screen.
+mst.dialog.ChipsterErrorCode_100404._title,Connection Error
+mst.dialog.ChipsterErrorCode_100404._message,Connection failed.<br>Returning to the title screen.
+mst.dialog.ChipsterErrorCode_100408._title,Loading Error
+mst.dialog.ChipsterErrorCode_100408._message,Connection failed.<br>Returning to the title screen.
+mst.dialog.ChipsterErrorCode_100500._title,Loading Error
+mst.dialog.ChipsterErrorCode_100500._message,A connection error has occurred.<br>Returning to the title screen.
+mst.dialog.ChipsterErrorCode_200000._title,Loading Error
+mst.dialog.ChipsterErrorCode_200000._message,Loading failed.<br>Returning to the title screen.
+mst.dialog.ChipsterErrorCode_200100._title,Loading Error
+mst.dialog.ChipsterErrorCode_200100._message,Connection to the server timed out.<br>Returning to the title screen.
+mst.dialog.ChipsterErrorCode_200200._title,Loading Error
+mst.dialog.ChipsterErrorCode_200200._message,Loading failed.<br>Returning to the title screen.
+mst.dialog.ChipsterErrorCode_999999._title,Loading Error
+mst.dialog.ChipsterErrorCode_999999._message,An error occurred while loading data.<br>Returning to the title screen.
+mst.dialog.Error_Forbidden._title,Error
+mst.dialog.Error_Forbidden._message,"This account is currently suspended.<br>If this was unexpected, please contact support through the Title Screen > Menu > Help > Other Inquiries."
+mst.dialog.Event_ErrorNotSession._title,Outside Event Period
+mst.dialog.Event_ErrorNotSession._message,This event is not currently running.
+mst.dialog.Event_ErrorEnded._title,Event Ended
+mst.dialog.Event_ErrorEnded._message,This event is over.<br>Returning you to the Home Screen.
+mst.dialog.Event_ErrorEndedNotPolicy._title,Event Ended
+mst.dialog.Event_ErrorEndedNotPolicy._message,"Because you haven’t agreed to the Event Terms of Service,<br>the Event Top screen cannot be displayed."
+mst.dialog.Event_ResultAnnouncement._title,Event Results Announcement
+mst.dialog.Event_ResultAnnouncement._message,Thank you for participating in {0}!<br>We’ve sent ranking rewards as a gift – be sure to collect them!<br>You can view the full rankings on the event page.
+mst.dialog.ShopLackMedal._title,Not Enough {0}
+mst.dialog.ShopLackMedal._message,You don't have enough {0}. Would you like to purchase with Love Gems?
+mst.dialog.Mission_ErrorEnded._title,Outside Event Period
+mst.dialog.Mission_ErrorEnded._message,This goal is no longer available.
+mst.dialog.BoxGacha_NextBoxConfirm._title,Confirm
+mst.dialog.BoxGacha_NextBoxConfirm._message,"Your current Box will be discarded,<br>and you’ll move on to the next one.<br>Is that okay?"
+mst.dialog.Error_Gift_Expired._title,Outside Claim Period
+mst.dialog.Error_Gift_Expired._message,This gift’s claim period has ended.
+mst.dialog.Error_Mission_Expired._title,Outside Claim Period
+mst.dialog.Error_Mission_Expired._message,This challenge reward period has ended.<br>Any unclaimed rewards will be sent to your Present Box.
+mst.dialog.Error_Item_Expired._title,Expired
+mst.dialog.Error_Item_Expired._message,This item has expired.
+mst.dialog.Function_Lock_Gacha._title,Access Restricted
+mst.dialog.Function_Lock_Gacha._message,Scouting<br>is currently unavailable.<br>This feature cannot be used.<br><br>Planned start time: {0}<br>Planned ending time: {1}<br><br><color=#D73C55></color>
+mst.dialog.Function_Lock_Shop._title,Access Restricted
+mst.dialog.Function_Lock_Shop._message,The shop<br>is currently unavailable.<br>This feature cannot be used.<br><br>Planned start time: {0}<br>Planned ending time: {1}<br><br><color=#D73C55></color>
+mst.dialog.Function_Lock_Exchange._title,Access Restricted
+mst.dialog.Function_Lock_Exchange._message,Item exchange is<br>currently unavailable.<br>It will be inaccessible until:<br><br>Start Time: {0}<br>End Time: {1}<br><br><color=#D73C55></color>
+mst.dialog.RecommendConfirm._title,(Temp) Notice
+mst.dialog.RecommendConfirm._message,(Temp) A new announcement is available.
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._title,Failed to Join Live
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._message,You haven’t met the conditions to start the Live.<br><br>Live Participation Requirements:<br>{0}
+mst.dialog.Live_BluetoothAudioMode._title,Bluetooth Mode
+mst.dialog.Live_BluetoothAudioMode._message,Your device has switched to Bluetooth mode due to a connection via Bluetooth headphones.<br>Input lag may occur during Live performances while using Bluetooth.<br>*Bluetooth-specific judgment adjustments will be applied.
+mst.dialog.Live_BatteryQuantityCheck._title,Low Battery Warning
+mst.dialog.Live_BatteryQuantityCheck._message,Your battery is low.<br>You have <color=#D73C55>{0}%</color> left.<br>You may experience interruption during live shows<br>by low battery device notifications.<br>It is recommended to plug in your device now.
+mst.dialog.MusicVideo_ReleaseCondition._title,MV Unlock Requirements
+mst.dialog.MusicVideo_ReleaseCondition._message,Clearing a Live performance on any difficulty will unlock the Music Video.
+mst.dialog.MusicVideo_Pause._title,Paused
+mst.dialog.MusicVideo_Pause._message,Stop viewing the music video<br>and return to the song select screen?
+mst.dialog.Adventure_Movie_Skip._title,Paused
+mst.dialog.Adventure_Movie_Skip._message,Skip the cutscene?
+mst.dialog.StaminaConfirm._title,Confirm LP
+mst.dialog.StaminaConfirm._message,You don't have enough LP.<br>Would you like to use what remains and start the Live?<br>*LP will not be consumed if you have 0.
+mst.dialog.AutoBoostConfirm._title,Skip Ticket
+mst.dialog.AutoBoostConfirm._message,You don't have enough Skip Tickets left.<br>Would you like to consume only the available amount and start the Live?
+mst.dialog.NoAutoBoostConfirm._title,Skip Ticket
+mst.dialog.NoAutoBoostConfirm._message,"You don't have enough Skip Tickets, either because you haven’t got any or haven’t cleared this song.<br>Consume 1 LP to start the Live?<br>*LP won’t be consumed if you have 0 remaining."
+mst.dialog.NoAutoBoostForSpiritConfirm._title,Skip Ticket
+mst.dialog.NoAutoBoostForSpiritConfirm._message,"You don't have enough Skip Tickets, either because you haven’t acquired any yet or haven’t cleared this song.<br>Would you like to spend Miracle Stars to perform a Live?"
+mst.dialog.LiveResultRestartConfirm._title,Restart?
+mst.dialog.LiveResultRestartConfirm._message,Use {0} LP to replay this Live?
+mst.dialog.LiveResultRestartAutoConfirm._title,Restart?
+mst.dialog.LiveResultRestartAutoConfirm._message,Use {0} Skip Ticket(s) to play the Live Show?
+mst.dialog.CardMovie_Pause._title,Paused
+mst.dialog.CardMovie_Pause._message,Stop playback<br>and return to the video details screen?
+mst.dialog.OrnamentShop_LackGem._title,Loveca Check
+mst.dialog.OrnamentShop_LackGem._message,You do not have enough Love Gems to purchase this.
+mst.dialog.OrnamentShop_Lack._title,{0} Check
+mst.dialog.OrnamentShop_Lack._message,You don't have enough {0} to make this purchase.
+mst.dialog.StoryReleaseDetail._title,Unlock Conditions
+mst.dialog.StoryReleaseDetail._message,{0}
+mst.dialog.StoryPlay._title,Play Story
+mst.dialog.StoryPlay._message,Playing {0}<br>Are you sure?<br>
+mst.dialog.StoryPlayAfterDownload._title,Play Story
+mst.dialog.StoryPlayAfterDownload._message,"This will download<br>""{1}""<br><br><color=#D73C55>Download Size: {0:0.00} MB </color><br>Proceed?<br><br><color=#D73C55>*It is recommended to download this<br>over a WiFi connection.</color>"
+mst.dialog.EpisodePlay._title,Play Story
+mst.dialog.EpisodePlay._message,Playing {0}<br>Is that okay?
+mst.dialog.Tutorial_GroupSelect._title,Confirm Favorite Group
+mst.dialog.Tutorial_GroupSelect._message,"You're guaranteed to get a UR, the highest rarity of the Member you chose from this group,<br>in your upcoming Scout.<br>Shall we guide you to this group?"
+mst.dialog.Tutorial_MemberSelect._title,Confirm Favorite Member
+mst.dialog.Tutorial_MemberSelect._message,"You're guaranteed to get a UR, the highest rarity of the Member you selected,<br>in your upcoming Scout.<br>Confirm this Member?"
+mst.dialog.Tutorial_Movie_Skip._title,Skip Movie
+mst.dialog.Tutorial_Movie_Skip._message,Skip the cutscene?
+mst.dialog.Tutorial_Live_Skip._title,Skip Live?
+mst.dialog.Tutorial_Live_Skip._message,Skip this Live?
+mst.dialog.Tutorial_GetMember._title,Favorite Member Acquired
+mst.dialog.Tutorial_GetMember._message,Obtained {0}.<br>*Members you acquire will join your team immediately.
+mst.dialog.Tutorial_HomeGacha._title,Tutorial Complete
+mst.dialog.Tutorial_HomeGacha._message,"Congratulations on completing the tutorial! As a celebration, you can perform 10 free Scouts."
+mst.dialog.Tutorial_Complete._title,Confirm
+mst.dialog.Tutorial_Complete._message,Congratulations on completing the tutorial!
+mst.dialog.BandEnrich._title,Confirm
+mst.dialog.BandEnrich._message,This will enhance the selected Band<br>using Boost Items and {0}G.<br>Are you sure?
+mst.dialog.SubTutorial_EndConfirm._title,Confirm
+mst.dialog.SubTutorial_EndConfirm._message,Play this Live Show?
+mst.dialog.SubTutorial_SkipConfirm._title,Confirm
+mst.dialog.SubTutorial_SkipConfirm._message,Skip?
+mst.dialog.EmotionalMemberSelect._title,{0} Selected
+mst.dialog.EmotionalMemberSelect._message,Choose this member?<br><br>*Your chosen Favorite Member cannot be changed.
+mst.dialog.EmotionalBandSelect._title,{0} Selected
+mst.dialog.EmotionalBandSelect._message,"Choose this band?<br><br>*You can change your band as many times as you'd like during the selection period.<br>*Note: changing bands will reset your event points (temp), so please be careful.<br>*Event points (temp) accumulate after you confirm your band."
+mst.dialog.ShopAttentionWording._title,Terms of Use
+mst.dialog.ShopAttentionWording._message,"This item is non-refundable.<br>If you are under 18, parental consent is required for purchases."
+mst.dialog.Notice_Movie_Skip._title,Skip Movie
+mst.dialog.Notice_Movie_Skip._message,Skip the cutscene?
+mst.dialog.GameLibErrorCode_17101._title,Purchase Incomplete
+mst.dialog.GameLibErrorCode_17101._message,You have an incomplete convenience store payment.<br>Please complete the payment for your reserved purchase at a convenience store<br>or cancel the pending purchase in your Google Play Store history.<br><br>The item will be reflected once payment is confirmed and you reopen the shop screen.<br>Error code: {0}
+mst.dialog.GameLibErrorCode_16010._title,Purchase Incomplete
+mst.dialog.GameLibErrorCode_16010._message,"You have an incomplete convenience store payment.<br>Please complete the payment for your reserved purchase at a convenience store,<br>or cancel the pending purchase in your Google Play Store history.<br><br>The item will be reflected once payment is confirmed and you reopen the shop screen.<br>Error code: {0}"
+mst.dialog.GachaConfirmFree._title,Confirm
+mst.dialog.GachaConfirmFree._message,Scout {1} time(s) using {0}?
+mst.dialog.GachaConfirmFreeDaily._title,Confirm
+mst.dialog.GachaConfirmFreeDaily._message,Scout {1} time(s) with {0}?<br>It resets at midnight.
+mst.dialog.GachaConfirmTutorial._title,Confirm
+mst.dialog.GachaConfirmTutorial._message,Scout {1} time(s) using {0}?
+mst.dialog.GameLibErrorCode_1100._title,Account Linking Failed
+mst.dialog.GameLibErrorCode_1100._message,Failed to link your account.
+mst.dialog.DataTakeOver_SNSSignOutConfirm._title,Unlink Account
+mst.dialog.DataTakeOver_SNSSignOutConfirm._message,Unlink this linked account?
+mst.dialog.ChatOpen._title,Chat Unlocked!
+mst.dialog.ChatOpen._message,You've received a new chat message!<br>Want to take a look?
+mst.dialog.ReturnToTitleConfirm._title,Confirm
+mst.dialog.ReturnToTitleConfirm._message,Return to the Title Screen?
+mst.dialog.GoToRehearsalConfirm._title,Confirm Rehearsal
+mst.dialog.GoToRehearsalConfirm._message,"LP is not used during rehearsal.<br>However, your score will not be saved and you will not receive rewards.<br>Would you like to continue?"
+mst.dialog.GoToEventRehearsalConfirm._title,Confirm Rehearsal
+mst.dialog.GoToEventRehearsalConfirm._message,"Miracle Stars are not used during rehearsal.<br>However, your score will not be saved and you will not receive rewards.<br>Would you like to continue?"
+mst.dialog.MigrateError_WrongParam._title,Confirm
+mst.dialog.MigrateError_WrongParam._message,Transfer data could not be found.<br>Please verify your User ID and Password are correct.
+mst.dialog.MigrateError_AlreadyCompleted._title,Confirm
+mst.dialog.MigrateError_AlreadyCompleted._message,This user ID has already completed the transfer process.
+mst.dialog.TermsOfService_UpDate._title,Terms of Service Update
+mst.dialog.TermsOfService_UpDate._message,"The Terms of Service have been updated.<br>To continue playing, you must agree to the new Terms of Service again."
+mst.dialog.Subscription_Restore_Ok._title,Restore Subscription
+mst.dialog.Subscription_Restore_Ok._message,Subscription restored.
+mst.dialog.Subscription_Restore_0_Have._title,Restore Subscription
+mst.dialog.Subscription_Restore_0_Have._message,Could not verify your purchase.
+mst.dialog.Subscription_Restore_Error._title,Restore Subscription
+mst.dialog.Subscription_Restore_Error._message,Subscription restoration failed.
+mst.dialog.GameLibErrorCode_37003._title,Error
+mst.dialog.GameLibErrorCode_37003._message,This purchase is not possible. You have exceeded your spending limit.
+mst.dialog.GameLibErrorCode_37004._title,Error
+mst.dialog.GameLibErrorCode_37004._message,This purchase isn't possible because it would exceed your current gem balance.
+mst.dialog.GameLibErrorCode_37006._title,Error
+mst.dialog.GameLibErrorCode_37006._message,This cannot be purchased. You already have an active subscription.
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._title,Confirm
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._message,This account is already linked<br>to another user’s data.<br><br>Do you want to unlink it from the other user’s data<br>and link it to your current data?
+mst.dialog.GameLibOrder_IsPending._title,Purchase Incomplete
+mst.dialog.GameLibOrder_IsPending._message,"You have an incomplete convenience store payment.<br>Please complete the payment for your reserved purchase at a convenience store,<br>or cancel the pending purchase in your Google Play Store order history.<br><br>The item will be reflected in the Shop once payment is confirmed and you reopen the screen."
+mst.dialog.MusicRecommendErrorExpired._title,Error
+mst.dialog.MusicRecommendErrorExpired._message,This recommended list has expired.
+mst.dialog.MultiDeckErrorUnorganized._title,Formation Not Set
+mst.dialog.MultiDeckErrorUnorganized._message,Please assemble a Co-op Live unit.
+mst.dialog.MultiCanNotMatching._title,Matching Failed
+mst.dialog.MultiCanNotMatching._message,Matching failed. Returning to the Event Top.
+mst.dialog.LocationInformationConfirmingDialog._title,Checking Location…
+mst.dialog.LocationInformationConfirmingDialog._message,Confirming your location.<br>Acquiring location information may take a moment.<br>Pressing Cancel will interrupt the process.
+mst.dialog.LocationFailedDialogOutofArea._title,Outside Reward Area
+mst.dialog.LocationFailedDialogOutofArea._message,You are outside the reward zone.<br>Unable to claim your reward.
+mst.dialog.LocationFailedDialogNotAllow._title,Confirm
+mst.dialog.LocationFailedDialogNotAllow._message,The location linking feature cannot be used<br>if your location service is OFF or set to GPS only.<br>Please check your device settings to change acquisition settings.
+mst.dialog.LocationFailedDialogTimeout._title,Confirm
+mst.dialog.LocationFailedDialogTimeout._message,Timed out.
+mst.dialog.LocationFailedDialogNone._title,Confirm
+mst.dialog.LocationFailedDialogNone._message,Failed to claim your reward.
+mst.dialog.LocationFailedDialogReceived._title,Confirm
+mst.dialog.LocationFailedDialogReceived._message,You've already claimed the rewards for this campaign.
+mst.dialog.LocationFailedDialogOutOfTerm._title,Confirm
+mst.dialog.LocationFailedDialogOutOfTerm._message,This campaign has ended.
+mst.dialog.MultiConfirmStartLive._title,Confirm
+mst.dialog.MultiConfirmStartLive._message,Participant list not full.<br><br>You can obtain even more Event pts<br>with four players.<br><br>Do you want to start the Live Show anyway?
+mst.dialog.MultiConfirmStartLivePermanent._title,Confirm
+mst.dialog.MultiConfirmStartLivePermanent._message,Participant list not full.<br><br>Do you want to start the Live Show anyway?
+mst.dialog.MultiLeaveRoomOnSongPick._title,Leave Live
+mst.dialog.MultiLeaveRoomOnSongPick._message,Leaving now takes you out of this Live Show.<br><br>Leave anyway?
+mst.dialog.MultiPenalty._title,Confirm
+mst.dialog.MultiPenalty._message,"Due to repeated disconnections during Co-op Lives,<br>this feature is temporarily unavailable.<br>Please wait for restrictions to be lifted.<br><br><color=#D73C55>Restrictions will be lifted in:<br>{0}</color>"
+mst.dialog.MultiPenaltyWarning._title,Confirm
+mst.dialog.MultiPenaltyWarning._message,"Due to a connection issue or error during Co-op Live,<br>the Live results have been invalidated."
+mst.dialog.MultiLiveInterruption._title,Confirm
+mst.dialog.MultiLiveInterruption._message,"Due to a connection issue or error during Co-op Live,<br>the Live results have been invalidated."
+mst.dialog.MultiRematchAllUsersLeft._title,Confirm
+mst.dialog.MultiRematchAllUsersLeft._message,All other users left the room.
+mst.dialog.MultiDisconnectedError._title,Confirm
+mst.dialog.MultiDisconnectedError._message,Disconnected.
+mst.dialog.MultiHelperCountEmpty._title,Confirm
+mst.dialog.MultiHelperCountEmpty._message,Today’s Assists have been used up.<br>Returning to the Event Top.
+mst.dialog.SS_AlignmentError_WrongParam._title,Error
+mst.dialog.SS_AlignmentError_WrongParam._message,No linked data found.<br>Please check that you have entered your<br>player ID and data link password from All Stars correctly.
+mst.dialog.SS_AlignmentError_AlreadyCompleted._title,Error
+mst.dialog.SS_AlignmentError_AlreadyCompleted._message,Already linked to your School Idol Festival 2 account.
+mst.dialog.SS_AlignmentError_UsedCode._title,Error
+mst.dialog.SS_AlignmentError_UsedCode._message,This All Stars Player ID is already linked to another account.
+mst.dialog.SS_AlignmentError_Expired._title,Error
+mst.dialog.SS_AlignmentError_Expired._message,This item is no longer available.
+mst.dialog.EventEndConfirmDialog._title,Confirm
+mst.dialog.EventEndConfirmDialog._message,This event has ended.
+mst.dialog.LiveLoadError._title,Songs Updated
+mst.dialog.LiveLoadError._message,Your song data has been updated.
+mst.dialog.StartEventLive._title,Confirm
+mst.dialog.StartEventLive._message,An event is now live!
+mst.dialog.SerialCcode_ExcludedItem._title,Confirm
+mst.dialog.SerialCcode_ExcludedItem._message,This chat has already been unlocked.
+mst.dialog.UseExpiredItem._title,Error
+mst.dialog.UseExpiredItem._message,This {0}’s validity period has expired and it can no longer be used.
+mst.dialog.LiveSkipConfirm._title,Confirm
+mst.dialog.LiveSkipConfirm._message,"You can skip songs on any difficulty once they've been cleared.<br>However, clearing a difficulty that hasn’t been fully completed won’t count."
+mst.dialog.GameClose_AnnouncePaybackNotice._title,Notice of Service Closure
+mst.dialog.GameClose_AnnouncePaybackNotice._message,"Love Live! School Idol Festival 2 MIRACLE LIVE!<br>ended its service on Sunday, March 31, 2024.<br><br>Refund period: Monday, April 1, 2024, 00:00 - Monday, June 17, 2024, 14:59<br><br>Thank you very much for your continued support."
+mst.dialog.GameClose_AnnouncePayback._title,Notice Regarding Paid Loveca Refunds
+mst.dialog.GameClose_AnnouncePayback._message,"Love Live! School Idol Festival 2 MIRACLE LIVE!<br>ended its service on Sunday, March 31, 2024.<br>If you wish to receive a refund for the unused balance of the in-app currency ""Paid Loveca,""<br>please contact us through the ""Refund"" form.<br><br>Issuer of the prepaid payment instrument to be refunded: Bushiroad Inc.<br>Refund period: Monday, April 1, 2024, 00:00 - Monday, June 17, 2024, 15:00<br>*If no refund request is made during this period, you will be excluded from this refund process."
+mst.dialog.GameClose_AnnounceNoPayback._title,Notice of Service Closure
+mst.dialog.GameClose_AnnounceNoPayback._message,"Love Live! School Idol Festival 2 MIRACLE LIVE!<br>ended its service on Sunday, March 31, 2024.<br><br>There is no Paid Loveca eligible for a refund.<br>If you have any questions, please contact us via the link below.<br><br>Thank you very much for your continued support."
+mst.dialog.GameClose_Announce._title,Notice of Service Closure
+mst.dialog.GameClose_Announce._message,"Love Live! School Idol Festival 2 MIRACLE LIVE!<br>ended its service on Sunday, March 31, 2024.<br><br>Thank you very much for your continued support."
+mst.dialog.GameClose_Information_Terms._title,Terms of Use
+mst.dialog.GameClose_Information_Terms._message,"Terms of Use<br> These terms of use (hereinafter referred to as the ""Terms of Use"") are governed by and construed in accordance with the laws of Japan as set forth by Bushiroad, Inc. (hereinafter referred to as the ""Company"").<br>The Company provides the application ""LOVE LIVE! School Idol Festival 2 MIRACLE LIVE!""(hereinafter referred to as the ""Application""). <br>This document sets forth the terms and conditions for the use of the service (hereinafter referred to as the ""Service"", including the relevant app. itself) provided through the Application.<br> The Terms of Service shall apply to all customers who use the Service (hereinafter referred to as the ""User""). <br><br>  Article 1 Definitions<br> Content means text, letters, voice, music, other sounds, images, video, symbols, software, programs, codes, and other information.<br> The Content means Content that can be accessed through the Service. <br> ""User Content"" means the Content posted, transmitted, or uploaded to the Service by the User.<br> ""In-app Currency"" means electronic virtual currency that can be exchanged for services or content provided for a fee on the Service.<br> The ""Site"" means the official website of the Service.<br> Individual Terms of Use means the document that sets forth the terms and conditions of use of the Service, which is posted and distributed by the Company on the Application, the Site, etc. under the names of ""Terms,"" ""Guidelines,"" ""Policy,"" etc. (regardless of the name) separately from the Terms of Use. The Terms and Conditions and individual terms of use are collectively referred to as the ""Terms and Conditions, etc.""<br><br> Article 2. Agreement to the Terms of Use<br> The User must use the Service in accordance with the provisions of this Agreement, etc., and may not use the Service unless the User agrees to this Agreement, etc. When a user starts using the Service, a contract of use in accordance with the provisions of the Terms of Use, etc. (hereinafter referred to as the ""Agreement"") is formed between the user and the Company at the time when the user goes through the procedures for agreeing to the Terms of Use, etc. If there are individual terms of use for the Service, the user must use the Service in accordance with the provisions of the individual terms of use in addition to these Terms of Use. In the event of any discrepancy between the provisions of the Terms of Service and the Individual Terms of Service, the provisions of the Individual Terms of Service shall take precedence. By actually using the Service, the User is deemed to have validly and irrevocably agreed to these Terms of Use.<br><br> Article 3 Modification of the Terms of Use, etc.<br> When deemed necessary by the Company, the Company may modify the Terms of Use, etc. at any time by agreeing to such modification with the User individually.<br> Pursuant to Article 548-4 of the Civil Code, the Company may change the Terms of Use, etc., if any of the following items applies The modification of the Terms of Use conforms to the general interests of the User.<br> The modification of the Terms of Use is not contrary to the purpose for which the agreement was made, and is reasonable in light of the necessity of the modification, the reasonableness of the modified content, the content of the modified content, and other circumstances pertaining to the modification.<br> In the event that the Company changes the Terms of Use, etc. in accordance with the preceding paragraph, the Company shall notify the User of the change, the contents of the change, and the effective date of the change on the Company's website at least one month prior to the change. If the Company notifies the User of the contents of the revised Terms of Use, etc. and the User uses the Service after the revised Terms of Use, etc. become effective, the User will be deemed to have agreed to the revised Terms of Use, etc. If the User does not agree to the modified version of the Terms of Use, etc., the User may not use the Service any further.<br><br> Article 4 Use by Minors<br> If the User is a minor, the User must obtain the prior consent of a person with parental authority, etc. to use the Service (including consent to the Terms of Use, etc.). If the User is a minor, the User must obtain the prior consent of a legal representative such as a person with parental authority with respect to the use of the Service (including consent to the Terms, etc.).<br> If a User who was a minor at the time of consenting to these Terms of Use, etc. uses the Service after reaching the age of majority, the User shall be deemed to have ratified the use of the Service while a minor.<br><br> Article 5 Account<br> When registering information about the User, the User must provide true and accurate information, and must always correct the information to keep it up-to-date. We shall not be liable for any damage incurred by the User due to falsehoods, errors, or omissions in such information.<br> In the event that user IDs, passwords, or other account authentication information (""Authentication Information"") are issued or set for use of the Service, the User shall provide such information to the Company in a timely and accurate manner. When user IDs, passwords, or other account authentication information (""Authentication Information"") are issued or set up upon use of the Service, the User must manage them strictly at his/her own risk to prevent unauthorized use. We may deem any and all acts performed using such Authentication Information to be the acts of the User himself/herself. We shall not be liable for any damage incurred by the user or any third party as a result of such acts.<br> In the event that a User violates or is deemed to be at risk of violating these Terms of Use, etc., the Company may suspend or delete the User's account without prior notice to the User.<br> In the event that a User has not used the Service for a period of one (1) year, the Company may delete the account without prior notice to the User. The Company will determine whether or not a User has used the Service based on server access records and other information. The User's right to use the Service will cease at the time the account is deleted, regardless of the reason. Please note that even if a user deletes his/her account by mistake, the account cannot be restored.<br> The account for the Service belongs to the User on a personal and exclusive basis. The User's right to use any and all of the Services may not be transferred, loaned, or inherited by any third party.<br> If the User becomes aware that his/her authentication information has been stolen, leaked to a third party, or used by a third party, the User shall immediately notify the Company to that effect, and shall comply with the Company's request if requested to do so.<br> If the User causes damage to the Company or a third party due to unauthorized use of authentication information, the User must compensate the Company and the third party for such damage.<br><br> Article 6 Handling of User Information<br> The Company shall properly handle user information, device information, and other information collected from users in connection with the use of the Service in accordance with the ""Privacy Policy"" and ""Application Privacy Policy"" separately stipulated by the Company.<br><br> Article 7 Provision of the Service<br> The User shall use the Service in accordance with the method prescribed by the Company.<br> The User shall, at his/her own responsibility and expense, acquire and use the smart device, communication equipment, operation system, software, Internet connection environment, and all other equipment necessary to use the Service (hereinafter referred to as the ""Equipment, etc.""). The User shall prepare, at the User's own responsibility and expense, all necessary equipment (including, but not limited to, smart devices, telecommunications equipment, operating systems, software, Internet connection environment, and all other equipment required in connection therewith (""Equipment, etc."") for use of the Service, and shall bear all communication charges, etc. related to use of the Service.<br> The Company may provide the Service, in whole or in part, only to those users who meet the conditions that the Company deems necessary, such as age, user identification, registration information, and other conditions, and the User agrees to these conditions in advance.<br> The Company may change the contents of all or part of the Service (including specifications, rules, designs, audiovisual expressions, effects, parameters, scenarios, and all other matters), or discontinue providing the Service at any time without prior notice to the User, if the Company deems it necessary.<br> The Service may be used only for the User's personal use, and the User shall not use the Service for any purpose other than personal use, such as selling, distributing, or developing the Service. Any commercial use of the Service is prohibited.<br><br> Article 8 Paid Content<br> The User shall not use the Services or Content (including cases where such Content is exchanged for in-app currency) provided by the Company for a fee. (In the event that a user uses services or content provided by the Company for a fee (including those exchanged for in-app currency, hereinafter collectively called ""Paid Content"") (hereinafter collectively referred to as ""Paid Content""), the User shall pay the usage fee in accordance with the payment terms and conditions separately determined by the Company.<br> The amount of the Paid Content, payment method, and other matters will be determined separately by the Company and displayed in the Application or on the Site.<br> The Company may, at its own discretion, change the price of any paid or free Content in the Service.<br> The Company will not refund, return, or otherwise reimburse for paid Content for any reason, except as stipulated by law.<br> The User agrees that the store operator from which this application can be downloaded (hereinafter referred to as the ""Store Operator"") may collect said fees on behalf of the Company. However, if any question or dispute arises regarding the usage fee, it shall be resolved between the user and the Company, and the user may not file any claim or complaint against the Store Operator.<br><br> Article 9 Advertisements, etc.<br> The Company may place advertisements of the Company or third parties on the Service.<br> The Service may include services or content provided by other companies. Responsibility for such services or content rests with the entity providing them. Such services or content may be subject to the terms of use and other conditions stipulated by the entity providing such services or content.<br>Article 10. Contents Provided by the Company<br> All rights, including copyrights, patent rights, and other intellectual property rights, related to the Content provided by the Company in the Service shall belong to the Company or third parties licensed by the Company.<br> The Company grants the User a non-exclusive, non-transferable, and non-licensable right to use the Content provided by the Company in the Service.<br> When a User uses the Contents for which terms of use, such as usage fees, usage periods, etc., are separately stipulated, the user shall comply with such terms of use. Even if ""purchase"" or ""sale"" is indicated on the screen of the Service, intellectual property rights and other rights related to the Content provided by the Company to the User shall not be transferred to the User, and only the right of use set forth in the preceding paragraph shall be granted.<br> In principle, the User may use the Content applied by the Company only on the terminal from which the User downloaded the Content. In addition, the User shall not use (regardless of the form of reproduction, modification, broadcasting, distribution, publication, automatic public transmission, etc.) these contents without obtaining permission from the Company, beyond the usage mode planned by the Service, and shall not infringe the rights of the Company. You may not use (regardless of the form of reproduction, modification, broadcasting, distribution, publication, automatic public transmission, etc.) any of these contents without our permission.<br> In the unlikely event that any problem arises between a user and a rights holder due to a violation of the provisions of this Article, the user shall resolve the problem at the user's own responsibility and expense, and the Company shall assume no responsibility whatsoever.<br><br> Article 11 User Content<br> The User agrees that he/she has the legal right to post or otherwise transmit User Content, and that User Content does not contain any intellectual property rights of any third party (copyrights, patents, utility model rights, trademarks, design rights [including the right to acquire such rights or to register such rights], or any other intellectual property rights of any third party). The User represents and warrants to us that the User Content does not infringe the intellectual property rights (including copyrights, patents, utility model rights, trademarks, design rights (including the right to obtain or register such rights), ideas, know-how, etc.; the same shall apply hereinafter), ownership rights, or other rights of any third party and is lawful.<br> The User retains all rights he/she has in and to the Content, and the Company will not acquire any such rights. However, the User has granted to the Company the right to use this service and promotion (including the right to make changes such as omissions to the extent deemed necessary and appropriate by us and also the right to sublicense such rights of use to third parties affiliated with the Company) without compensation, indefinitely, and without limitation as to region.<br> The user shall not exercise any moral rights of authorship or performer against the Company or any person who has succeeded to or been granted rights by the Company.<br> If the Service includes a function that allows multiple users to post, modify, delete, or otherwise edit their own User Content, the User grants permission to other users to edit their own User Content.<br> When it is necessary to confirm compliance with laws and regulations or these Terms of Use, etc., the Company may check the contents of User Content. However, the Company is under no obligation to perform such checks.<br> In the event that the Company determines that User Content violates or may violate laws, regulations, or this Agreement, or that there is a business need to do so, the Company may restrict the use of User Content on the Service by deleting User Content or by other means without prior notice to the User. <br> The User shall back up User Content at his/her own responsibility, and the Company shall not be obligated to back up User Content.<br> Article 12 In-app Currency<br> In-application currency will be granted to the User through purchases on the Service, campaigns, and other methods designated by the Company. The purchase unit, payment method, and other conditions for granting in-app currency shall be determined by the Company and displayed on the Service.<br> In-app currency cannot be exchanged for cash, goods, or other economic benefits other than the services or content designated by the Company. The number of in-app currency required to exchange for services or content and other conditions will be set by the Company and displayed on the Service. In-app currency can only be used with the account from which it was acquired. In-app Currency provided on different terminal devices with different operating systems cannot be transferred or combined, as they are of different types even if they have the same name.<br> The User may not share, transfer, assign to a third party, pledge, or grant a security interest in the In-App Currency they hold with any account other than the account to which the In-App Currency is granted.<br> If the Company deletes the User's account in accordance with the provisions of these Terms of Use, etc., or if the User deletes such account, the In-App Purchase Currency will no longer be available for use due to such deletion.<br> In-app currency is non-refundable for any reason. However, this does not apply when required by the Funds Settlement Act or other laws and regulations. In such cases, the refund method for in-app currency will be determined by the Company in accordance with laws and regulations and displayed on the Service.<br> In-application currency issued for a fee and in-application currency issued for free, in the event that both exist, in-application currency issued for free will take priority over in-application currency issued for a fee.<br> Article 13 Prohibitions<br> When using the Service, the User shall not engage in any of the following acts or acts that may fall under any of the following, either by himself/herself or by a third party.<br> ･Violating laws, court judgments, decisions or orders, or legally binding administrative measures<br> ･Acts that offend public order and morals<br> ･Criminal acts, or acts that threaten, involve, or encourage criminal acts<br> ･Profit sharing or other acts of cooperation with antisocial forces<br> ･Acts that infringe on the copyrights, trademarks, patents, or other intellectual property rights, honor rights, privacy rights, or other legal or contractual rights of the Company or third parties<br> ･Making a third party use or dispose of an account for the Service, the Contents, or the right to use them by lending, exchanging, transferring, changing the name of, buying and selling, pledging, collateralizing, or otherwise, whether within or outside the Service, in a manner other than that specified by the Company (including so-called real money trade acts). <br> ･Any other act that involves the use or disposal of these rights by a third party (including so-called real money trading).<br> ･Sales, promotion, advertisement, solicitation, or any other for-profit activities (except those approved by the Company), religious activities or solicitation activities for religious organizations, sexual or obscene acts, acts for the purpose of meeting or dating an unacquainted person of the opposite sex, displaying or displaying information equivalent to child pornography or child abuse, harassing or causing to be displayed to a third party, or any other acts that may cause harassment or damage to a third party. <br> ･Actions to display or cause to be displayed information equivalent to child pornography or child abuse, actions to harass or slander a third party, or other actions to use the Service for a purpose different from the intended purpose of use of the Service.<br> ･Acts of posting or transmitting excessively violent expressions, explicit sexual expressions, expressions that lead to discrimination based on human rights, nationality, creed, gender, social status, family origin, etc., expressions that induce or encourage suicide, self-harm, or drug abuse, or other expressions that include antisocial content and that cause discomfort to others.<br> ･Acts that may induce or encourage bullying of third parties or harassment of third parties"
+mst.dialog.GameClose_Information_PrivacyPolicy._title,Privacy Policy
+mst.dialog.GameClose_Information_PrivacyPolicy._message,"Application Privacy Policy<br> This Application Privacy Policy (hereinafter referred to as the ""Privacy Policy"") sets forth the handling of user information for the smartphone application ""Love Live: School Idol Festival 2 MIRACLE LIVE! School Idol Festival 2 MIRACLE LIVE!"" (hereinafter referred to as the ""Application"") and services related to the Application (hereinafter referred to as the ""Services"").<br><br> Article 1 (Consent) By using the Application and the Services, the User agrees to be bound by the terms of this Privacy Policy and the Company's ""Personal Information Protection Policy"" (https://bushiroad.com/company/privacy.html, hereinafter referred to as the ""Company's Personal Information Protection Policy""). (hereinafter referred to as the ""Company's Personal Information Protection Policy"") and agree to the terms of this Privacy Policy. If the User does not agree to these terms and conditions, the User may not use the Application and the Service.<br><br> Article 2 (Items of Information to be Obtained, Purpose of Use, Method of Obtaining Information)<br> In providing this Application and the Services, the Company will automatically acquire the following user information via this Application for the following purposes of use.<br> Purposes of use: Items of information to be acquired<br> (1) Device information such as a device identification number that identifies the user's device.<br> (2) IP address<br> (3) OS type and version<br> (4) Location information of the user terminal (limited to terminals that are set to transmit location information via GPS, Bluetooth, etc.)<br> ■To send push notifications to user terminals (limited to terminals set to receive push notifications)(5) ID (device token) issued for this application downloaded by the terminal<br> ■To distribute or display advertisements from the Company or third parties<br> ■To help improve or correct problems with the Application and the Service<br> ■To use for marketing and new product development, etc.<br> ■To create data and statistical information processed into a format that does not identify individuals, and to disclose or provide such information to third parties All information from (1) to (5)<br> ■To respond to inquiries from users and provide other user support.<br> (3) OS type and version<br> ■To deliver advertisements suitable for users and to measure the effectiveness of advertisements (i) Information regarding the user's device, such as the device identification number that identifies the user's device<br> ■In providing this Application and the Service, etc., we will acquire the following user information by having the user enter the following information for the following purposes of use.<br> Purposes of use: Items of information to be acquired<br> ■To distribute e-mail newsletters related to this service (1) E-mail address<br> ■To respond to inquiries from users and provide other user support (1) E-mail address<br> ■To send prizes for events and campaigns to users (1) E-mail address<br> (2) Name<br> (3) Address<br> (4) Telephone number<br> In cases where a user has given us permission to link with external services such as Twitter and other social networking services when using the Service, we will collect and acquire the following user information from such external information services for the following purposes, based on the details agreed to when the user gave us permission to do so The following user information will be collected from the external information service for the following purposes of use. Purpose of use Items of information to be collected To share performance information among users IDs used by users in the external service, and other information that users have permitted to be disclosed to the linked party according to the privacy settings of the external service.<br><br> Article 3 (External Transmission)<br> Information acquired in accordance with Article 2 will be transferred to a server managed by the Company [except in cases where user information is automatically acquired by an ad-serving provider through an information collection module in accordance with Article 5] and used within the scope of the purpose.<br><br> Article 4 (Provision to Third Parties, Outsourcing, etc.)<br> Except for cases in which the provision of user information to a third party is permitted under the Personal Information Protection Law or other laws and regulations, the Company shall not provide user information to a third party without obtaining the prior consent of the user. However, this shall not apply in the following cases:<br> ･When we outsource all or part of the handling of personal information within the scope necessary to achieve the purpose of use<br> ･When personal information is provided as a result of the succession of business due to merger or other reasons<br> ･When personal information is provided to the Information Collection Module Provider in accordance with the provisions of Article 5.<br> ･When it is necessary to cooperate with a national agency, a local government, or an individual or entity entrusted by either a national agency or local government to execute affairs prescribed by laws and regulations.<br> To the extent necessary to achieve the purpose of use, we may outsource all or part of the work related to the handling of personal information to a subcontractor with whom we have concluded a confidentiality agreement, and may disclose personal information to said subcontractor. In such cases, we will select a subcontractor that is deemed to handle personal information properly, and will stipulate safety control measures, confidentiality, conditions for re-consignment, and other matters necessary for the proper handling of personal information in the contract with the subcontractor, and supervise the subcontractor appropriately.<br> Please be advised that we may provide or disclose to third parties user information that has been processed into data or statistical information in a format that does not allow identification of specific individuals in relation to the Service.<br> For the purpose of providing comprehensive services by our group companies, we will jointly use user information obtained through this application among our group companies.<br><br> Article 5 (Information Collection Module)<br> Information collection modules may be incorporated into the Service for the purpose of delivering targeted advertisements using user information. These entities will automatically acquire user information via such information collection modules. For details on the information obtained, purpose of use, provision to third parties, etc., please refer to the links to the application policy of the service providers listed below.<br> Name of SDK: Firebase<br> Provider: Google LLC<br> Purpose of use: To send push notifications of this application, to collect logs of this application, and to analyze the promotion of this application<br> Privacy Policy: https://firebase.google.com/terms/data-processing-terms<br> Name of SDK: Adjust<br> Provider: Adjust, Inc.<br> Purpose of use: To analyze the promotion of the App<br> Privacy Policy: https://www.adjust.com/ja/terms/privacy-policy/<br><br> Article 6 (Methods of User Involvement)<br> Automatic acquisition of user information as stipulated in Article 2.1 can be stopped by any of the following methods:<br> Turning off the user terminal.<br> Turning off the communication function of the user terminal.<br> Uninstalling the Application on the User's terminal.<br> Automatic acquisition of user information as stipulated in Article 2, Paragraph 3 can be stopped by any of the following methods Turn off the power to the user terminal.<br> Turn off the communication function of the user terminal.<br> Uninstall this application from the user terminal.<br> The user changes the settings of the external service to a setting that does not allow the application to work with the external service. Even after the suspension of use as described in the preceding two paragraphs, we will continue to use the user information that we have acquired in accordance with Article 2 within the scope of the purpose of use and provide it to third parties in accordance with Article 4, unless the user makes a request to cease use or cease provision to third parties as described in the next paragraph. We will continue to use the User Information within the scope of the Purpose of Use and provide it to third parties in accordance with Article 4.<br> Requests for notification of the purpose of use, disclosure, modification, deletion, cessation of use, or cessation of provision to third parties of user information will be handled appropriately after confirming the identity of the user, in accordance with our ""Personal Information Protection Policy"" and in accordance with methods and procedures specified by us.<br><br> Article 7 (Link to our ""Personal Information Protection Policy"", etc.)<br> For the latest version of our ""Personal Information Protection Policy"" and this Privacy Policy, please click on the link below. In the event of any discrepancy between our ""Privacy Policy"" and this Privacy Policy, this Privacy Policy shall take precedence.<br> The Company's ""Privacy Policy""<br> Link: https://bushiroad.co.jp/privacy<br> This ""Privacy Policy""<br> Link: https://bushiroad.co.jp/privacy<br><br> Article 8 (Disclosure and Sharing of Obtained Information)<br> When a user uses the function to communicate or share information with friends or acquaintances through the Service, the user's location information obtained by the Application (if the location information function is enabled), text, photos, videos, audio, and URL links contained in messages may be notified or shared with friends or acquaintances with whom the user is communicating or sharing information. The user may be notified or shared with friends or acquaintances with whom the user is in contact or sharing information. In addition, if all of these features are set to be public, they can be viewed by all users of the Service. The scope of disclosure can be changed through the settings function of the Service or the Application. Article 9 (Contact for Inquiries)<br> Inquiries and consultations regarding the handling of user information in the Application and the Service will be handled by the following contact point:<br> Name of contact: Bushiroad Inc.<br> How to contact: https://lovelive-sif2.bushimo.jp/contact/<br><br> Article 10 (Modification)<br> This Privacy Policy is subject to revision.<br> If there are any changes or additions to the items for which user information is collected, changes to the purpose of use, or changes to the provision of information to third parties as a result of upgrades to this application, the user will be notified before downloading, and consent will be obtained again before or at the time of installation for important items.<br> Any other changes or additions to the items of user information collected, changes in the purpose of use, or provision to third parties, will be notified via the message function and registered e-mail, and consent will be obtained again for important items."
+mst.dialog.GameClose_Information_Rights._title,Copyright Notices
+mst.dialog.GameClose_Information_Rights._message,"=====================================<br>CRI WARE<br>=====================================<br>Powered by ""CRIWARE"".CRIWARE is a trademark of CRI Middleware Co., Ltd.<br><br>=====================================<br>firebase-unity-sdk<br>=====================================<br>Apache License<br>Version 2.0, January 2004<br>http://www.apache.org/licenses/<br><br>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION<br><br>1. Definitions.<br><br>""License"" shall mean the terms and conditions for use, reproduction,<br>and distribution as defined by Sections 1 through 9 of this document.<br><br>""Licensor"" shall mean the copyright owner or entity authorized by<br>the copyright owner that is granting the License.<br><br>""Legal Entity"" shall mean the union of the acting entity and all<br>other entities that control, are controlled by, or are under common<br>control with that entity. For the purposes of this definition,<br>""control"" means (i) the power, direct or indirect, to cause the<br>direction or management of such entity, whether by contract or<br>otherwise, or (ii) ownership of fifty percent (50%) or more of the<br>outstanding shares, or (iii) beneficial ownership of such entity.<br><br>""You"" (or ""Your"") shall mean an individual or Legal Entity<br>exercising permissions granted by this License.<br><br>""Source"" form shall mean the preferred form for making modifications,<br>including but not limited to software source code, documentation<br>source, and configuration files.<br><br>""Object"" form shall mean any form resulting from mechanical<br>transformation or translation of a Source form, including but<br>not limited to compiled object code, generated documentation,<br>and conversions to other media types.<br><br>""Work"" shall mean the work of authorship, whether in Source or<br>Object form, made available under the License, as indicated by a<br>copyright notice that is included in or attached to the work<br>(an example is provided in the Appendix below).<br><br>""Derivative Works"" shall mean any work, whether in Source or Object<br>form, that is based on (or derived from) the Work and for which the<br>editorial revisions, annotations, elaborations, or other modifications<br>represent, as a whole, an original work of authorship. For the purposes<br>of this License, Derivative Works shall not include works that remain<br>separable from, or merely link (or bind by name) to the interfaces of,<br>the Work and Derivative Works thereof.<br><br>""Contribution"" shall mean any work of authorship, including<br>the original version of the Work and any modifications or additions<br>to that Work or Derivative Works thereof, that is intentionally<br>submitted to Licensor for inclusion in the Work by the copyright owner<br>or by an individual or Legal Entity authorized to submit on behalf of<br>the copyright owner. For the purposes of this definition, ""submitted""<br>means any form of electronic, verbal, or written communication sent<br>to the Licensor or its representatives, including but not limited to<br>communication on electronic mailing lists, source code control systems,<br>and issue tracking systems that are managed by, or on behalf of, the<br>Licensor for the purpose of discussing and improving the Work, but<br>excluding communication that is conspicuously marked or otherwise<br>designated in writing by the copyright owner as ""Not a Contribution.""<br><br>""Contributor"" shall mean Licensor and any individual or Legal Entity<br>on behalf of whom a Contribution has been received by Licensor and<br>subsequently incorporated within the Work.<br><br>2. Grant of Copyright License. Subject to the terms and conditions of<br>this License, each Contributor hereby grants to You a perpetual,<br>worldwide, non-exclusive, no-charge, royalty-free, irrevocable<br>copyright license to reproduce, prepare Derivative Works of,<br>publicly display, publicly perform, sublicense, and distribute the<br>Work and such Derivative Works in Source or Object form.<br><br>3. Grant of Patent License. Subject to the terms and conditions of<br>this License, each Contributor hereby grants to You a perpetual,<br>worldwide, non-exclusive, no-charge, royalty-free, irrevocable<br>(except as stated in this section) patent license to make, have made,<br>use, offer to sell, sell, import, and otherwise transfer the Work,<br>where such license applies only to those patent claims licensable<br>by such Contributor that are necessarily infringed by their<br>Contribution(s) alone or by combination of their Contribution(s)<br>with the Work to which such Contribution(s) was submitted. If You<br>institute patent litigation against any entity (including a<br>cross-claim or counterclaim in a lawsuit) alleging that the Work<br>or a Contribution incorporated within the Work constitutes direct<br>or contributory patent infringement, then any patent licenses<br>granted to You under this License for that Work shall terminate<br>as of the date such litigation is filed.<br><br>4. Redistribution. You may reproduce and distribute copies of the<br>Work or Derivative Works thereof in any medium, with or without<br>modifications, and in Source or Object form, provided that You<br>meet the following conditions:<br><br>(a) You must give any other recipients of the Work or<br>Derivative Works a copy of this License; and<br><br>(b) You must cause any modified files to carry prominent notices<br>stating that You changed the files; and<br><br>(c) You must retain, in the Source form of any Derivative Works<br>that You distribute, all copyright, patent, trademark, and<br>attribution notices from the Source form of the Work,<br>excluding those notices that do not pertain to any part of<br>the Derivative Works; and<br><br>(d) If the Work includes a ""NOTICE"" text file as part of its<br>distribution, then any Derivative Works that You distribute must<br>include a readable copy of the attribution notices contained<br>within such NOTICE file, excluding those notices that do not<br>pertain to any part of the Derivative Works, in at least one<br>of the following places: within a NOTICE text file distributed<br>as part of the Derivative Works; within the Source form or<br>documentation, if provided along with the Derivative Works; or,<br>within a display generated by the Derivative Works, if and<br>wherever such third-party notices normally appear. The contents<br>of the NOTICE file are for informational purposes only and<br>do not modify the License. You may add Your own attribution<br>notices within Derivative Works that You distribute, alongside<br>or as an addendum to the NOTICE text from the Work, provided<br>that such additional attribution notices cannot be construed<br>as modifying the License.<br><br>You may add Your own copyright statement to Your modifications and<br>may provide additional or different license terms and conditions<br>for use, reproduction, or distribution of Your modifications, or<br>for any such Derivative Works as a whole, provided Your use,<br>reproduction, and distribution of the Work otherwise complies with<br>the conditions stated in this License.<br><br>5. Submission of Contributions. Unless You explicitly state otherwise,<br>any Contribution intentionally submitted for inclusion in the Work<br>by You to the Licensor shall be under the terms and conditions of<br>this License, without any additional terms or conditions.<br>Notwithstanding the above, nothing herein shall supersede or modify<br>the terms of any separate license agreement you may have executed<br>with Licensor regarding such Contributions.<br><br>6. Trademarks. This License does not grant permission to use the trade<br>names, trademarks, service marks, or product names of the Licensor,<br>except as required for reasonable and customary use in describing the<br>origin of the Work and reproducing the content of the NOTICE file.<br><br>7. Disclaimer of Warranty. Unless required by applicable law or<br>agreed to in writing, Licensor provides the Work (and each<br>Contributor provides its Contributions) on an ""AS IS"" BASIS,<br>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or<br>implied, including, without limitation, any warranties or conditions<br>of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A<br>PARTICULAR PURPOSE. You are solely responsible for determining the<br>appropriateness of using or redistributing the Work and assume any<br>risks associated with Your exercise of permissions under this License.<br><br>8. Limitation of Liability. In no event and under no legal theory,<br>whether in tort (including negligence), contract, or otherwise,<br>unless required by applicable law (such as deliberate and grossly<br>negligent acts) or agreed to in writing, shall any Contributor be<br>liable to You for damages, including any direct, indirect, special,<br>incidental, or consequential damages of any character arising as a<br>result of this License or out of the use or inability to use the<br>Work (including but not limited to damages for loss of goodwill,<br>work stoppage, computer failure or malfunction, or any and all<br>other commercial damages or losses), even if such Contributor<br>has been advised of the possibility of such damages.<br><br>9. Accepting Warranty or Additional Liability. While redistributing<br>the Work or Derivative Works thereof, You may choose to offer,<br>and charge a fee for, acceptance of support, warranty, indemnity,<br>or other liability obligations and/or rights consistent with this<br>License. However, in accepting such obligations, You may act only<br>on Your own behalf and on Your sole responsibility, not on behalf<br>of any other Contributor, and only if You agree to indemnify,<br>defend, and hold each Contributor harmless for any liability<br>incurred by, or claims asserted against, such Contributor by reason<br>of your accepting any such warranty or additional liability.<br><br>END OF TERMS AND CONDITIONS<br><br>APPENDIX: How to apply the Apache License to your work.<br><br>To apply the Apache License to your work, attach the following<br>boilerplate notice, with the fields enclosed by brackets ""[]""<br>replaced with your own identifying information. (Don't include<br>the brackets!) The text should be enclosed in the appropriate<br>comment syntax for the file format. We also recommend that a<br>file or class name and description of purpose be included on the<br>same ""printed page"" as the copyright notice for easier<br>identification within third-party archives.<br><br>Copyright [yyyy] [name of copyright owner]<br><br>Licensed under the Apache License, Version 2.0 (the ""License"");<br>you may not use this file except in compliance with the License.<br>You may obtain a copy of the License at<br><br>http://www.apache.org/licenses/LICENSE-2.0<br><br>Unless required by applicable law or agreed to in writing, software<br>distributed under the License is distributed on an ""AS IS"" BASIS,<br>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br>See the License for the specific language governing permissions and<br>limitations under the License.<br><br><br>=====================================<br>Adjust<br>=====================================<br>The MIT License (MIT)<br><br>Copyright (c) 2012-2017 adjust GmbH<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of<br>this software and associated documentation files (the ""Software""), to deal in<br>the Software without restriction, including without limitation the rights to<br>use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of<br>the Software, and to permit persons to whom the Software is furnished to do so,<br>subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all<br>copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS<br>FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR<br>COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER<br>IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN<br>CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br><br>=====================================<br>UniRx<br>=====================================<br>The MIT License (MIT)<br><br>Copyright (c) 2018 Yoshifumi Kawai<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy<br>of this software and associated documentation files (the ""Software""), to deal<br>in the Software without restriction, including without limitation the rights<br>to use, copy, modify, merge, publish, distribute, sublicense, and/or sell<br>copies of the Software, and to permit persons to whom the Software is<br>furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all<br>copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br>SOFTWARE.<br><br>=====================================<br>DOTween<br>=====================================<br>Copyright (c) 2014 Daniele Giardini - Demigiant<br><br>Non-legalese summary<br>--------------------------------------------------<br>You can freely use DOTween in both commercial and non-commercial projects.<br>You can modify the code only for your own use and you cannot redistribute modified versions.<br>DOTween was/is hard work: please respect the copyright.<br><br>Definitions<br>--------------------------------------------------<br>Copyright Holder<br>Daniele Giardini - Demigiant.<br><br>You/Your<br>Means any person who would like to copy, distribute, or modify the Package.<br><br>Package<br>Means the collection of files distributed by the Copyright Holder, and derivatives of that collection and/or of those files. A given Package may consist of either the Standard Version, or a Modified Version.<br><br>Distribute<br>Means providing a copy of the Package or making it accessible to anyone else, or in the case of a company or organization, to others outside of your company or organization.<br><br>Standard Version<br>Refers to the Package if it has not been modified, or has been modified only in ways explicitly requested by the Copyright Holder.<br><br>Modified Version<br>Means the Package, if it has been changed, and such changes were not explicitly requested by the Copyright Holder.<br><br>License<br>--------------------------------------------------<br>You are permitted to use the Standard Version and create and use Modified Versions for any purpose without restriction, provided that you do not Distribute the Modified Version.<br><br>You may Distribute verbatim copies of the Source form of the Standard Version of this Package in any medium without restriction, either gratis or for a Distributor Fee, provided that you duplicate all of the original copyright notices and associated disclaimers and also include the original readme.txt file. At your discretion, such verbatim copies may or may not include a Compiled form of the Package.<br><br>Any use, modification, and distribution of the Standard or Modified Versions is governed by this Artistic License. By using, modifying or distributing the Package, you accept this license. Do not use, modify, or distribute the Package, if you do not accept this license.<br><br>This license does not grant you the right to use any trademark, service mark, tradename, or logo of the Copyright Holder.<br><br>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br><br>=====================================<br>UnityWebView<br>=====================================<br>The zlib License<br>-------------------------------------<br>Copyright (C) 2011 Keijiro Takahashi<br>Copyright (C) 2012 GREE, Inc.<br><br>This software is provided 'as-is', without any express or implied<br>warranty. In no event will the authors be held liable for any damages<br>arising from the use of this software.<br><br>Permission is granted to anyone to use this software for any purpose,<br>including commercial applications, and to alter it and redistribute it<br>freely, subject to the following restrictions:<br><br>1. The origin of this software must not be misrepresented; you must not<br>claim that you wrote the original software. If you use this software<br>in a product, an acknowledgment in the product documentation would be<br>appreciated but is not required.<br>2. Altered source versions must be plainly marked as such, and must not be<br>misrepresented as being the original software.<br>3. This notice may not be removed or altered from any source distribution.<br><br>=====================================<br>NewtonsoftJson<br>=====================================<br>The MIT License (MIT)<br><br>Copyright (c) 2007 James Newton-King<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br><br>=====================================<br>FancyScrollView<br>=====================================<br>The MIT License (MIT)<br><br>Copyright (c) 2020 setchi<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy<br>of this software and associated documentation files (the ""Software""), to deal<br>in the Software without restriction, including without limitation the rights<br>to use, copy, modify, merge, publish, distribute, sublicense, and/or sell<br>copies of the Software, and to permit persons to whom the Software is<br>furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all<br>copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br>SOFTWARE.<br><br>In addition, the following OSS is used:<br>Rotorz ReordableList<br>We use the ReorderableListResources class from an old version of Rotorz ReordableList which had a<br>BSD-style license. Newer versions of Rotorz ReoardableList use the MIT license.<br><br>=====================================<br>FullEmojiSupportApi<br>=====================================<br>Copyright 2019 KYUB INTERACTIVE<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br><br>=====================================<br>StaticBluredScreen<br>=====================================<br>Copyright 2017 mob-sakai<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br><br>=====================================<br>Google Play Games plugin for Unity<br>=====================================<br>Copyright (C) 2014 Google Inc.<br><br>Licensed under the Apache License, Version 2.0 (the ""License"");<br>you may not use this file except in compliance with the License.<br>You may obtain a copy of the License at<br><br>http://www.apache.org/licenses/LICENSE-2.0<br><br>Unless required by applicable law or agreed to in writing, software<br>distributed under the License is distributed on an ""AS IS"" BASIS,<br>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br>See the License for the specific language governing permissions and<br>limitations under the License.<br><br>Apache License<br>Version 2.0, January 2004<br>http://www.apache.org/licenses/<br><br>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION<br><br>1. Definitions.<br><br>""License"" shall mean the terms and conditions for use, reproduction,<br>and distribution as defined by Sections 1 through 9 of this document.<br><br>""Licensor"" shall mean the copyright owner or entity authorized by<br>the copyright owner that is granting the License.<br><br>""Legal Entity"" shall mean the union of the acting entity and all<br>other entities that control, are controlled by, or are under common<br>control with that entity. For the purposes of this definition,<br>""control"" means (i) the power, direct or indirect, to cause the<br>direction or management of such entity, whether by contract or<br>otherwise, or (ii) ownership of fifty percent (50%) or more of the<br>outstanding shares, or (iii) beneficial ownership of such entity.<br><br>""You"" (or ""Your"") shall mean an individual or Legal Entity<br>exercising permissions granted by this License.<br><br>""Source"" form shall mean the preferred form for making modifications,<br>including but not limited to software source code, documentation<br>source, and configuration files.<br><br>""Object"" form shall mean any form resulting from mechanical<br>transformation or translation of a Source form, including but<br>not limited to compiled object code, generated documentation,<br>and conversions to other media types.<br><br>""Work"" shall mean the work of authorship, whether in Source or<br>Object form, made available under the License, as indicated by a<br>copyright notice that is included in or attached to the work<br>(an example is provided in the Appendix below).<br><br>""Derivative Works"" shall mean any work, whether in Source or Object<br>form, that is based on (or derived from) the Work and for which the<br>editorial revisions, annotations, elaborations, or other modifications<br>represent, as a whole, an original work of authorship. For the purposes<br>of this License, Derivative Works shall not include works that remain<br>separable from, or merely link (or bind by name) to the interfaces of,<br>the Work and Derivative Works thereof.<br><br>""Contribution"" shall mean any work of authorship, including<br>the original version of the Work and any modifications or additions<br>to that Work or Derivative Works thereof, that is intentionally<br>submitted to Licensor for inclusion in the Work by the copyright owner<br>or by an individual or Legal Entity authorized to submit on behalf of<br>the copyright owner. For the purposes of this definition, ""submitted""<br>means any form of electronic, verbal, or written communication sent<br>to the Licensor or its representatives, including but not limited to<br>communication on electronic mailing lists, source code control systems,<br>and issue tracking systems that are managed by, or on behalf of, the<br>Licensor for the purpose of discussing and improving the Work, but<br>excluding communication that is conspicuously marked or otherwise<br>designated in writing by the copyright owner as ""Not a Contribution.""<br><br>""Contributor"" shall mean Licensor and any individual or Legal Entity<br>on behalf of whom a Contribution has been received by Licensor and<br>subsequently incorporated within the Work.<br><br>2. Grant of Copyright License. Subject to the terms and conditions of<br>this License, each Contributor hereby grants to You a perpetual,<br>worldwide, non-exclusive, no-charge, royalty-free, irrevocable<br>copyright license to reproduce, prepare Derivative Works of,<br>publicly display, publicly perform, sublicense, and distribute the<br>Work and such Derivative Works in Source or Object form.<br><br>3. Grant of Patent License. Subject to the terms and conditions of<br>this License, each Contributor hereby grants to You a perpetual,<br>worldwide, non-exclusive, no-charge, royalty-free, irrevocable<br>(except as stated in this section) patent license to make, have made,<br>use, offer to sell, sell, import, and otherwise transfer the Work,<br>where such license applies only to those patent claims licensable<br>by such Contributor that are necessarily infringed by their<br>Contribution(s) alone or by combination of their Contribution(s)<br>with the Work to which such Contribution(s) was submitted. If You<br>institute patent litigation against any entity (including a<br>cross-claim or counterclaim in a lawsuit) alleging that the Work<br>or a Contribution incorporated within the Work constitutes direct<br>or contributory patent infringement, then any patent licenses<br>granted to You under this License for that Work shall terminate<br>as of the date such litigation is filed.<br><br>4. Redistribution. You may reproduce and distribute copies of the<br>Work or Derivative Works thereof in any medium, with or without<br>modifications, and in Source or Object form, provided that You<br>meet the following conditions:<br><br>(a) You must give any other recipients of the Work or<br>Derivative Works a copy of this License; and<br><br>(b) You must cause any modified files to carry prominent notices<br>stating that You changed the files; and<br><br>(c) You must retain, in the Source form of any Derivative Works<br>that You distribute, all copyright, patent, trademark, and<br>attribution notices from the Source form of the Work,<br>excluding those notices that do not pertain to any part of<br>the Derivative Works; and<br><br>(d) If the Work includes a ""NOTICE"" text file as part of its<br>distribution, then any Derivative Works that You distribute must<br>include a readable copy of the attribution notices contained<br>within such NOTICE file, excluding those notices that do not<br>pertain to any part of the Derivative Works, in at least one<br>of the following places: within a NOTICE text file distributed<br>as part of the Derivative Works; within the Source form or<br>documentation, if provided along with the Derivative Works; or,<br>within a display generated by the Derivative Works, if and<br>wherever such third-party notices normally appear. The contents<br>of the NOTICE file are for informational purposes only and<br>do not modify the License. You may add Your own attribution<br>notices within Derivative Works that You distribute, alongside<br>or as an addendum to the NOTICE text from the Work, provided<br>that such additional attribution notices cannot be construed<br>as modifying the License.<br><br>You may add Your own copyright statement to Your modifications and<br>may provide additional or different license terms and conditions<br>for use, reproduction, or distribution of Your modifications, or<br>for any such Derivative Works as a whole, provided Your use,<br>reproduction, and distribution of the Work otherwise complies with<br>the conditions stated in this License.<br><br>5. Submission of Contributions. Unless You explicitly state otherwise,<br>any Contribution intentionally submitted for inclusion in the Work<br>by You to the Licensor shall be under the terms and conditions of<br>this License, without any additional terms or conditions.<br>Notwithstanding the above, nothing herein shall supersede or modify<br>the terms of any separate license agreement you may have executed<br>with Licensor regarding such Contributions.<br><br>6. Trademarks. This License does not grant permission to use the trade<br>names, trademarks, service marks, or product names of the Licensor,<br>except as required for reasonable and customary use in describing the<br>origin of the Work and reproducing the content of the NOTICE file.<br><br>7. Disclaimer of Warranty. Unless required by applicable law or<br>agreed to in writing, Licensor provides the Work (and each<br>Contributor provides its Contributions) on an ""AS IS"" BASIS,<br>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or<br>implied, including, without limitation, any warranties or conditions<br>of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A<br>PARTICULAR PURPOSE. You are solely responsible for determining the<br>appropriateness of using or redistributing the Work and assume any<br>risks associated with Your exercise of permissions under this License.<br><br>8. Limitation of Liability. In no event and under no legal theory,<br>whether in tort (including negligence), contract, or otherwise,<br>unless required by applicable law (such as deliberate and grossly<br>negligent acts) or agreed to in writing, shall any Contributor be<br>liable to You for damages, including any direct, indirect, special,<br>incidental, or consequential damages of any character arising as a<br>result of this License or out of the use or inability to use the<br>Work (including but not limited to damages for loss of goodwill,<br>work stoppage, computer failure or malfunction, or any and all<br>other commercial damages or losses), even if such Contributor<br>has been advised of the possibility of such damages.<br><br>9. Accepting Warranty or Additional Liability. While redistributing<br>the Work or Derivative Works thereof, You may choose to offer,<br>and charge a fee for, acceptance of support, warranty, indemnity,<br>or other liability obligations and/or rights consistent with this<br>License. However, in accepting such obligations, You may act only<br>on Your own behalf and on Your sole responsibility, not on behalf<br>of any other Contributor, and only if You agree to indemnify,<br>defend, and hold each Contributor harmless for any liability<br>incurred by, or claims asserted against, such Contributor by reason<br>of your accepting any such warranty or additional liability.<br><br>END OF TERMS AND CONDITIONS<br><br>APPENDIX: How to apply the Apache License to your work.<br><br>To apply the Apache License to your work, attach the following<br>boilerplate notice, with the fields enclosed by brackets ""[]""<br>replaced with your own identifying information. (Don't include<br>the brackets!) The text should be enclosed in the appropriate<br>comment syntax for the file format. We also recommend that a<br>file or class name and description of purpose be included on the<br>same ""printed page"" as the copyright notice for easier<br>identification within third-party archives.<br><br>Copyright [yyyy] [name of copyright owner]<br><br>Licensed under the Apache License, Version 2.0 (the ""License"");<br>you may not use this file except in compliance with the License.<br>You may obtain a copy of the License at<br><br>http://www.apache.org/licenses/LICENSE-2.0<br><br>Unless required by applicable law or agreed to in writing, software<br>distributed under the License is distributed on an ""AS IS"" BASIS,<br>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br>See the License for the specific language governing permissions and<br>limitations under the License.<br><br>=====================================<br>SharpCompress<br>=====================================<br>The MIT License (MIT)<br><br>Copyright (c) 2014 Adam Hathcock<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy<br>of this software and associated documentation files (the ""Software""), to deal<br>in the Software without restriction, including without limitation the rights<br>to use, copy, modify, merge, publish, distribute, sublicense, and/or sell<br>copies of the Software, and to permit persons to whom the Software is<br>furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in<br>all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN<br>THE SOFTWARE.<br><br>=====================================<br>UniTask<br>=====================================<br>The MIT License (MIT)<br><br>Copyright (c) 2019 Yoshifumi Kawai / Cysharp, Inc.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy<br>of this software and associated documentation files (the ""Software""), to deal<br>in the Software without restriction, including without limitation the rights<br>to use, copy, modify, merge, publish, distribute, sublicense, and/or sell<br>copies of the Software, and to permit persons to whom the Software is<br>furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in<br>all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN<br>THE SOFTWARE.<br><br>=================================<br>[神田を往く納涼船]東條 希<br>=================================<br>©日本橋クルーズ"
+mst.dialog.DataTakeOver_SnsNotSupported._title,Connect to SNS
+mst.dialog.DataTakeOver_SnsNotSupported._message,SNS linking is unavailable in this version.<br>
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._title,Confirm
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._message,Delete {0}?<br>Saved MV formations will revert to the default.
+mst.dialog.Arcade_Enter_Confirm._title,Arcade Mode
+mst.dialog.Arcade_Enter_Confirm._message,Register this device as an arcade cabinet.<br>From then on every launch goes straight to the attract loop and the normal game is no longer reachable (Test Mode can undo this).<br>All content is downloaded right after registration.<br><br>Continue?
+mst.dialog.Arcade_Enter_Failed._title,Registration Failed
+mst.dialog.Arcade_Enter_Failed._message,{0}
+mst.dialog.Arcade_TestMode_ExitConfirm._title,Exit Arcade Mode
+mst.dialog.Arcade_TestMode_ExitConfirm._message,"Leave arcade mode.<br>All save data on this device (machine registration, credits, bookkeeping) is deleted and it returns to a first-launch install.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_ExitReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ExitReconfirm._message,Deleted data cannot be recovered.<br>Really exit arcade mode?
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,Reset Bookkeeping
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,Set the counted coins and plays back to zero.<br>Credits and the machine registration are not changed.<br><br>Continue?
+mst.dialog.Arcade_Session_Failed._title,Cannot Start Session
+mst.dialog.Arcade_Session_Failed._message,{0}<br><br>Your credit has been returned.
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,Download All Content
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,Downloads every asset category.<br>This takes time and bandwidth. The cabinet returns to the attract screen when it is done.<br><br>Continue?
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,The counted data cannot be recovered.<br>Really reset it?
+mst.dialog.Arcade_Card_NewCard._title,A New Card
+mst.dialog.Arcade_Card_NewCard._message,This card has not been used here before.<br>Choose NEW PLAYER to start a new account on it.<br>Choose TRANSFER DATA to move the account you already play on your phone onto this card.
+mst.dialog.Arcade_Card_BindFailed._title,Transfer Failed
+mst.dialog.Arcade_Card_BindFailed._message,No account matches that transfer code and password.<br>Check them and try again.
+mst.dialog.Arcade_TestMode_UnlockConfirm._title,Unlock Account
+mst.dialog.Arcade_TestMode_UnlockConfirm._message,"Remove this device's account lock.<br>From the next credit on, Decision plays as the guest. The card binding on the server is kept.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_UnlockReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_UnlockReconfirm._message,A removed lock cannot be restored; the next lock draws a new device card ID.<br>Really unlock?
+mst.dialog.Arcade_TestMode_LockFailed._title,Lock Failed
+mst.dialog.Arcade_TestMode_LockFailed._message,No account matches that transfer code and password.<br>The lock stays pending until the first credit.
+mst.dialog.Arcade_Enter_WipeConfirm._title,Delete Data?
+mst.dialog.Arcade_Enter_WipeConfirm._message,"This device already has game data.<br>Entering arcade mode deletes ALL data on this device (your account, cards, songs and progress) and it cannot be restored.<br><br>Continue?"
+mst.dialog.Arcade_Enter_WipeFinal._title,Final Confirmation
+mst.dialog.Arcade_Enter_WipeFinal._message,Deleted game data cannot be restored.<br><br>Delete everything on this device and enter arcade mode?
+mst.dialog.Arcade_Enter_KeyboardWarning._title,A Keyboard Is Required
+mst.dialog.Arcade_Enter_KeyboardWarning._message,"Once this device is in arcade mode, nothing on the screen can change a setting or take it back to the normal game.<br>Test Mode (where every cabinet setting lives) and leaving arcade mode open only from the cabinet TEST button: on a keyboard that is F1 by default (it has no gamepad binding).<br>To leave, use TEST → System → Exit arcade mode, which deletes all save data on this device and returns it to a first-launch install.<br><br>Do you have a keyboard ready?"

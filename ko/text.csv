@@ -1,0 +1,3348 @@
+﻿_key,_text
+Common_Amount,{0}×{1}
+Common_IconAmount,x{0}
+Common_IconAmountOverLimit,×{0}+
+Common_ItemHasAmount,소지 수: {0}
+Common_PossessionNumber,소지수
+Common_Possession,소지
+Common_Lack,부족
+Common_Gem,Loveca
+Common_KizunaPoint,친밀도
+Common_ChargeGem,Loveca(유료)
+Common_Point_Coin,골드
+Common_Point_Seal,스카우트 포인트
+Common_Point_LiveStamp,(더미) 라이브 스탬프
+Common_OwnedAndCostAmount,{0} / {1}
+Common_Rank,랭크
+Common_PlayerRank,플레이어 랭크
+Common_GroupRank,그룹 랭크
+Common_GroupRankWithGroupName,{0}랭크
+Common_ExpToNextRankLabel,다음
+Common_ExpMax,최대
+Common_Exp,경험치
+Common_Level,레벨
+Common_MusicLevel,음악 레벨
+Common_OrderBy,승순
+Common_OrderByDescending,내림차순
+Common_Day,{0}일
+Common_Month,{0}월
+Common_Year,{0}년
+Common_Hour,{0}시간
+Common_Minute,{0}분
+Common_Second,{0}초
+Common_Until,까지
+Common_ExpireDateFew,얼마 남지 않았음!
+Common_ExpireDateRemaining,남은 시간
+Common_ExpireDateInfinity,무제한
+Common_ExpireDateExpired,기간 만료
+Common_Period,{0} ~ {1}
+Common_Remaining,남은 시간
+Common_Exchange,교환
+Common_Filter,필터
+Common_Sort,정렬
+Common_AllSelect,전체 선택
+Common_AllRelease,전체 해제
+Common_Sunday,일요일
+Common_Monday,월요일
+Common_Tuesday,화요일
+Common_Wednesday,수요일
+Common_Thursday,목요일
+Common_Friday,금요일
+Common_Saturday,토요일
+Common_Daily,데일리
+Common_Weekly,주간
+Common_MusicArtistLabel,노래
+Common_MusicLyricistLabel,작사
+Common_MusicComposerLabel,작곡
+Common_MusicArrangerLabel,편곡
+Common_MusicArtistFormat,노래: {0}
+Common_MusicLyricistFormat,작사: {0}
+Common_MusicComposerFormat,작곡: {0}
+Common_MusicArrangerFormat,편곡: {0}
+Common_MusicDetail,작사: {0} <br> 작곡: {1}
+Common_CardFullName,[{0}]{{1}}
+Common_CardFullName2Line,[{0}]<br>{1}
+Common_Rare2,SR
+Common_Rare3,UR
+Common_Rare4,UR
+Common_Present,선물
+Common_Reward,보상
+Common_Receive,{0}을(를) 받았습니다
+Common_Nothing,없음
+Common_RoleVocal,보컬
+Common_RoleGuitar,보컬
+Common_RoleBass,베이스
+Common_RoleDrum,드럼
+Common_RoleKeyboard,키보드
+Common_RoleSupport,지원
+Common_TypeHeart,Smile
+Common_TypeDiamond,Pure
+Common_TypeSpade,쿨
+Common_MainStory,메인 스토리
+Common_SubStory,사이드 스토리
+Common_EventStory,이벤트 스토리
+Common_EventPoint,{0} 포인트
+Common_EventCurrency_ChallengeLive,{0}개
+Common_EventCurrency_LiveTry,{0}개
+Common_EventCurrency_VsLive,{0}명
+Common_EventCurrency_MultiLive,{0}명
+Common_RankingRank,{0}위
+Common_RankingRankOut,순위 외
+Common_CountBadgeOverLimit,{0}+
+Common_SkipUntilNextDay_Zero,다음 날 0시까지 이 창을 표시하지 않음
+Common_SkipUntilNextDay_Login,다음 날 4시까지 이 창을 표시하지 않음
+Common_DoNotDisplayAfter,앞으로 이 창을 표시하지 않음
+Common_Percent,{0}%
+Common_Piece,{0}개
+Common_All,전체
+Common_Other,리엘라!
+Common_XJAPAN,μ’s
+Common_LUNASEA,Aqours
+Common_GLAY,니지마스
+Common_GroupOther,기타
+Common_Grade,{0}학년
+Common_DifficultyNormal,노멀
+Common_DifficultyHard,하드
+Common_DifficultyExpert,EXPERT
+Common_DifficultyMaster,마스터
+Common_StatusOfAchievement,달성 현황
+Common_Achieved,달성 완료
+Common_NotAchieved,미달성
+Common_ExpirationDate,유효 기간
+Button_Close,닫기
+Button_Ok,확인
+Button_Next,다음
+Button_Cancel,취소
+Button_Decide,결정
+Button_Update,업데이트
+Button_Retry,다시 시도
+Button_Return,돌아가기
+Button_VoiceOn,음성 켜기
+Button_VoiceOff,음성 없음
+Button_Resume,Live 재개
+Button_Suspend,Live 종료
+Button_Skip,스킵
+Button_Restart,라이브 다시 시작
+Button_Shop,상점
+Button_Home,홈으로
+Button_BuyGem,Loveca 구매
+Button_PresentBox,선물 받기
+Button_Chat,채팅으로
+Button_Release,해방
+Button_Apply,적용
+Button_Edit,편집
+DueDate_DialogTitle_PresentBox,수령 마감일
+DueDate_DialogCaution_PresentBox,받지 못하면 아이템이 사라집니다.
+DueDate_Dialog_ItemNum,개수: {0}
+DueDate_DialogTitle_Item,사용 기한이 임박한 아이템
+GachaTop_PeriodTime,{0}까지 {1}
+GachaTop_PriceTitle,{0}회 스카우트하기
+GachaTop_PriceTitleChargeGem,{0}회 스카우트 (유료)
+GachaTop_PriceTitleFree,무료로 {0}회 스카우트
+GachaTop_Price_Free,무료
+GachaTop_BuyButton_Balloon_Daily,<color=#f93981>매일 {0}회 </color><br> 매일 0시에 갱신
+GachaTop_BuyButton_Balloon_ReritySR,<color=#f93981>SR 이상 </color> <br> 1명 확정!
+GachaTop_BuyButton_Balloon_RerityUR,<color=#f93981>UR 1명 확정!</color>
+GachaTop_BuyButton_Balloon_BonusItem,아이템<br>증정!
+GachaTop_BuyButton_Balloon_Free,{0}회 무료!
+GachaTop_BuyButton_Balloon_Limit,기간 중 {0}회만!
+GachaTop_LimitDailyOnce,하루에 1회 한정
+GachaTop_LimitDailyAny,<color=#FD8E18>하루 {0}회 </color><br>매일 0시에 갱신
+GachaTop_LimitCountOnce,1회 제한
+GachaTop_LimitCountAny,남은 횟수: {0}회
+GachaTop_LimitDailyOnceCountAny,{0}회 남음 <br> <color=#FD8E18>(하루에 1회 제한)</color>
+GachaTop_LimitDailyAnyCountAny,남은 횟수 {0}회 <br> <color=#FD8E18>(오늘 남은 횟수 {1}회) </color>
+GachaTop_EnsureRareOnly,{0} {1}명 확정!
+GachaTop_EnsureRareOverContains,{0} 이상 {1} 명 확정!
+GachaTop_LimitOver,최대 횟수에 도달했습니다
+GachaTop_LimitOverDailyRepeat,자정에 갱신<br>됩니다
+GachaTop_LimitEnd,뽑기가 끝났습니다
+GachaTop_LimitStepup,단계별 최대 횟수에 도달했습니다
+GachaTop_MemberDetailCaution,각 능력치는 최대 각성 및 최고 레벨 상태의 값을 표시합니다.<br>특기는 특기 레벨이 최대일 때의 효과를 표시합니다.
+GachaTop_MemberDetailPhotoButtonEvolveBefore,각성 전 변경
+GachaTop_MemberDetailPhotoButtonEvolveAfter,각성 후에 변경
+GachaTop_BannerRemainTimeFormat,<size=85%>남은 시간 <size=100%>{0}
+GachaTop_RateFormat,{0}%
+GachaTop_MemberRateFormat,f4
+GachaTop_RarityRateFormat,f2
+GachaTop_Step,단계 {0}
+GachaTop_StepCount,<size=59> <color=#f93981> {0} / </color> <size=32> {1}
+GachaTop_HasAmount,(소지 {0})
+GachaTop_LimitDailyOnceChargeGem,유료 Loveca 한정! 매일 0시에 갱신
+GachaTop_BonusReward,{0} 추가 보상!
+GachaTop_RunButtonText,<size=50>{0}회 스카우트 <size=32>
+GachaTop_RunButtonDialog_Title,스카우트 티켓
+GachaTop_RunButtonDialog_TopButton,티켓
+GachaTop_RunButtonDialog_Caution,"※티켓의 유효 기간이 지난 경우, 스카우트를 진행할 수 없습니다<br>※현재 선택한 스카우트를 진행할 수 있습니다<br>※Loveca를 사용하여 스카우트하는 것과 동일한 내용으로 스카우트를 진행할 수 있습니다(10회 스카우트 티켓의 경우, 10회 스카우트와 동일한 내용이 적용됩니다)."
+GachaPlay_DialogOk,확인
+GachaPlay_DialogInfomation,※소지 한도를 초과하여 획득한 아이템은 선물로 보내집니다
+GachaConfirm_DialogTitle,확인
+GachaConfirm_Period,이벤트 기간:
+GachaConfirm_Count,{0}회
+GachaConfirm_TicketText,「{0}」{1}개를 소비하여 <br>에서 {2}로 {3}회 스카우트하시겠습니까?
+GachaConfirm_GemText,"{0}Loveca를 사용하여 <br>, {1}에서 {2}회 스카우트하시겠습니까?"
+GachaConfirm_InfoText,{1}{0}을 사용하여 <br>{2}회 스카우트하시겠습니까?
+GachaConfirm_ConsumeLackText,{0}이 부족합니다.
+GachaConfirm_Buy,구매하시겠습니까?
+GachaConfirm_Gem,Loveca
+GachaConfirm_ChargeGem,유료 Loveca
+GachaConfirm_BuyButton,구매하기
+GachaConfirm_GachaButton,스카우트
+GachaResult_RemainingAny,남은 횟수
+GachaResult_RemainingDailyAny,오늘 남은 횟수
+GachaResult_TutorialSelectPhoto,좋아하는 부원을 터치하세요
+GachaResult_GetPoint,"{0} 포인트 <font=""FOT-TsukuGoPr5-M SDF""> 획득 </font>"
+GachaResult_ResultPoint,{0} → {1}
+GachaResult_Exchange,교환소
+GachaResult_GetOverMemberMessage,"이미 가입한 부원의 경우,<br>부원 대신 펜라이트를 획득할 수 있습니다"
+GachaResult_LimitBreakNoteText,새로운 부원이 합류했습니다!
+GachaDetail_TabTitle,스카우트 상세 정보
+GachaDetail_DialogTitle,스카우트 상세 정보
+GachaDetail_Help,주의사항
+GachaDetail_GachaInfo,스카우트 개요
+GachaDetail_Terms,이벤트 기간
+GachaDetail_NewMember,새 부원 소개
+GachaDetail_Step,단계 {0}
+GachaRateDetail_TabTitle,등장 확률
+GachaRateDetail_DialogTitle,스카우트 상세 정보
+GachaRateDetail_Help,주의사항
+GachaRateDetail_RarityRate,레어리티별 등장 확률
+GachaRateDetail_RarityRateUnensure,등장 확률{0}
+GachaRateDetail_RarityRateEnsure,확정 등장 확률 {0}
+GachaRateDetail_Main,Live 포지션
+GachaRateDetail_Support,지원 포지션
+GachaRateDetail_RarityRateMember,등장 부원 목록
+GachaRateDetail_RarityRateUnensureMember,등장 부원 목록{0}
+GachaRateDetail_RarityRateEnsureMember,등장 부원 목록{0}
+GachaFixedRateDetail_TabTitle,10회 스카우트 시 10번째 뽑기 등장 확률
+GachaFixedRateDetail_TabTitleStepup,10회 스카우트 시 10번째 뽑기 등장 확률
+GachaPickUpMemberDetail_TabTitle,부원 상세
+GachaPickUpMemberDetail_DialogTitle,픽업 부원 상세
+Consume_HasConsumeName,소지수
+Consume_UseConsumeName,필요 수량
+Consume_PriceTitleChargeGem,{0}회 뽑기 <br>(유료만)
+Consume_InfoOnConsumeMedal ,무료 Loveca부터 우선 소비됩니다
+WaitingMemberList_SealNumWordText,스카우트 포인트 보유
+WaitingMemberList_SealReplacementShopButton,교환소
+WaitingMemberList_AllSelectButton,전체 선택
+WaitingMemberList_SelectCharaNumWord,선택 중
+WaitingMemberList_SealChangeButton,전부
+WaitingMemberList_EmptyChara,전부할 부원이 없습니다.
+WaitingMemberList_ItemGetNum,획득 개수
+WaitingMemberList_CanGetItem,획득 가능한 아이템
+WaitingMemberList_ChangeResultShortMessage,펜라이트를 {0}개 획득했습니다
+WaitingMemberList_ChangeDialogTitle,확인
+WaitingMemberList_ChangeDialogConfirm,"대기실 부원을 {0}명 이동시키고, 응원봉 {1}개를 획득합니다"
+WaitingMemberList_ChangeDialogCharaNumWord,개
+WaitingMemberList_ChangeDialogSealNumWord,개
+WaitingMemberList_ChangeDialogTotalSealWord,씰
+CardIcon_LvWord,레벨
+CardIcon_SkillLvWord,스킬 레벨
+CardIcon_HpWord,HP:
+CardIcon_EventBonusWord,보너스:
+CardIcon_EventBonusParam,+{0}%
+CardIcon_BonusParam,<size=20>+</size>{0}%
+CardIcon_UnlockNotJoin,미가입
+Practice_EmptyItem,레슨 노트를<br>소유하고 있지 않습니다
+Practice_ExpWord,다음
+Practice_ResetButton,초기화
+Practice_RecommendButton,자동 추천
+Practice_Max,최대
+Practice_ItemSelect,아이템 선택
+Practice_NeedItem,필요 아이템
+Practice_ItemShortageAlert,필요한 아이템이 부족합니다
+Practice_LevelMaxAlert,레벨이 최고입니다.
+SkillPractice_EmptyChara,대기실의 부원 {0}과 <br> 팬라이트 {1}개를 교환하시겠습니까? <br>
+SkillPractice_EmptyItem,스킬북을<br>가지고 있지 않습니다
+SkillPractice_SamePhotoBonus,동부원 보너스
+SkillPractice_SameItemBonus,동일 보너스
+SkillPractice_PhotoTab,대기실
+SkillPractice_ItemTab,티켓
+SkillPractice_HavingTextLavel,소지: {0}
+Training_ConfirmDialogTitle,확인
+Training_ItemConfirmDialogMessage,선택한 응원봉을 사용하여 각성을 진행합니다.<br>확인하시겠습니까?
+Training_CardConfirmDialogMessage,선택한 응원봉을 사용하여 각성을 진행합니다.<br>확인하시겠습니까?
+Training_LackCoinConfirmDialogMessage,{0} {1}의 각성을 위해서는 <br>개의 <color=#D73C55> 골드가 부족합니다 </color>
+Training_ItemSettingDialogTitle,소비 아이템 설정
+Training_ItemSettingDialogMessage,소비할 아이템의 개수를 설정하세요.
+Training_NeedCount,필요 수량
+Training_NeedItem,필요 아이템
+Training_NoSetting,미설정
+Training_MaxLevelAndStatus,최대 레벨 및 능력치
+Training_EmptyChara,각성 가능한 부원이 없습니다
+Training_ItemConfirmDialogLimitNumNote,각성 횟수는 최대 {0}회입니다
+Training_ItemAmountOverLimit,{0}+
+Training_SelectThisWay,이 방법 선택
+Training_GoldLack,골드가 부족합니다
+Training_LevelLack,레벨이 최대가 아닙니다
+Training_AwakeningBefore,각성 전
+Training_AwakeningAfter,각성 후
+Training_MaxLv,최대 레벨 달성
+Training_AwakenedMaxShortMessage,최대 각성 상태입니다
+Training_CardEvolveItem,응원봉
+Training_CardEvolveItemSub1,각성 아이템
+Training_CardEvolveItemSub2,각성 아이템
+Training_CardEvolveItemSub3,각성 아이템
+TrainingResult_TrainingTitle,각성 완료
+TrainingResult_TrainingMessage,각성이 완료되었습니다
+TrainingResult_EpisodeTitle,스토리 달성 보너스
+TrainingResult_EpisodeMessage,[{0}] {1}의 <br> 스토리를 해방하는 데 성공했습니다
+StatusUpResult_EpisodeTitle,스토리 달성 보너스
+StatusUpResult_Message,{0}의 <br> 능력치가 올랐습니다
+CardDetail_EpisodeUnlockConfirm,"다음 아이템을 소비하여 스토리 ""{0}""를 해금하시겠습니까?"
+CardDetail_EpisodeUnlockLevel,해방 조건: 부원 레벨 {0} 이상
+CardDetail_EpisodeUnlockNeedNum,필요 수량: {0}
+CardDetail_EpisodeUnlockHaveNum,소지 수: {0}
+CardDetail_EpisodeUnlockLackMaterial,<color=#D73C55>필요한 재료가 부족합니다</color>
+CardDetail_EpisodeUnlockLackLevel,<color=#D73C55>부원 레벨이 부족합니다<br>현재 레벨 {0} / 필요 레벨 {1}</color>
+CardDetail_EpisodeUnlockLackGold,필요한 골드 <color=#D73C55>가 부족합니다 </color>
+CardDetail_UnlockEpisodePlayConfirmDialogTitle,스토리 해방 완료
+CardDetail_UnlockEpisodePlayConfirmDialogMessage,스토리 「{0}」를 <br> 해금했습니다. <br> 바로 읽으시겠습니까?
+CardDetail_EpisodePlayConfirmDialogTitle,스토리
+CardDetail_EpisodePlayConfirmDialogMessage,스토리 「{0}」를 <br> 읽으시겠습니까?
+CardDetail_ChangeIllustButton,일러스트 변경
+CardDetail_ExpansionButton,확대
+CardDetail_LevelWord,레벨
+CardDetail_ExpWord,다음
+CardDetail_Max,최대
+CardDetail_MemberDetailButton,부원 상세
+CardDetail_PracticeButton,레슨
+CardDetail_TrainingButton,각성
+CardDetail_SkillPracticeButton,스킬 연습
+CardDetail_CardNormal,일반
+CardDetail_Favorite,좋아하는 항목
+CardDetail_Animation,애니메이션
+CardDetail_Effect,연출
+CardDetail_Status,능력치
+CardDetail_Profile,프로필
+CardDetail_LevelStatus,레벨 능력치 값
+CardDetail_CenterSkill,센터 스킬
+CardDetail_Skill,특기
+CardDetail_SkillLv,특기 레벨
+CardDetail_GachaButton,스카우트
+CardDetail_SchoolYear,학년
+CardDetail_Birthday,생일
+CardDetail_BloodType,혈액형
+CardDetail_Height,키
+CardDetail_CharaVoice,성우
+CardDetail_SchoolYearInput,{0}학년
+CardDetail_EpisodeUnlockConfirmDialogTitle,스토리 해방 확인
+CardDetail_EpisodeRewardDialogTitle,스토리 보상
+CardDetail_SpecialEpisodeRewardDialogTitle,스페셜 스토리 보상
+CardDetail_EpisodeRewardDialogMessage,보상을 획득했습니다! <br> <color=#D73C55> 보상은 선물함에서 받을 수 있습니다. </color>
+CardDetail_EpisodePlayDialogUseVoiceButton,음성 켜기
+CardDetail_EpisodePlayDialogNoVoiceButton,음성 없음
+CardDetail_CharacterEpisodeLevel,스토리 레벨 {0}
+CardDetail_CardGetCategoryGacha,스카우트
+CardDetail_CardGetCategoryEvent,이벤트
+CardDetail_CardGetCategoryExchange,교환소
+CardDetail_CardGetCategoryStory,스토리
+CardDetail_CardGetCategoryMission,미션
+CardDetail_CardGetDetailGacha,스카우트 『{0}』에서 입수 가능!
+CardDetail_CardGetDetailEvent,이벤트 『{0}』에서 입수 가능!
+CardDetail_CardGetDetailExchange,교환소 『{0}』에서 입수 가능!
+CardDetail_CardGetDetailStory,스토리 『{0}』에서 입수 가능!
+CardDetail_CardGetDetailMission,미션에서 입수 가능!
+CardDetail_NoticeLevelMaxDisplay,각성 단계 및 레벨이 최대일 때의 능력치가 표시됩니다
+Album_NotCanGet,현재 합류할 수 없습니다
+Album_GachaCanGet,<color=#DF4444>스카우트</color>로 영입 가능한 부원입니다.
+Album_EventCanGet,<color=#DF4444>이벤트</color>에서 영입 가능한 부원입니다
+Album_ExchangeCanGet,<color=#DF4444>교환소</color>에서 영입 가능한 부원입니다
+Album_LoginbonusCanGet,<color=#DF4444>로그인 보너스</color>에서 영입 가능한 부원입니다
+Album_StoryCanGet,<color=#DF4444>스토리</color>에서 영입 가능한 부원입니다
+Album_MissionCanGet,<color=#DF4444>미션</color>에서 영입 가능한 부원입니다
+Album_BeginnerMissionCanGet,<color=#DF4444>초보자 미션</color>에서 영입 가능한 부원입니다
+Album_GachaCanNotGet,「{0}」의 신규 부원입니다<br>현재 진행 중인 스카우트에서는 추가할 수 없습니다
+Album_EventCanNotGet,이벤트 «{0}»의 신규 부원입니다 <br> 현재 진행 중인 이벤트 및 교환소에서는 영입할 수 없습니다
+Album_CampaignCanNotGet,«{0}» 캠페인 부원입니다. <br> 현재 영입할 수 없습니다.
+Album_GachaOkButton,스카우트
+Album_EventOkButton,이벤트로 이동
+Album_ExchangeOkButton,교환소로
+Album_StoryOkButton,스토리로
+Album_TrainingOkButton,부원 상세 보기
+Album_MissionOkButton,미션으로
+Album_DefaultOkButton,확인
+Album_Empty,앨범이 없습니다.
+Album_DialogTitle,앨범 정렬
+Album_DialogGetTypeWord,가입 상태
+Album_DialogTrainingTypeWord,각성 상태
+Album_DialogGetTypeAll,전체 선택
+Album_DialogGetTypeTitle,소지
+Album_DialogGetTypeUnlock,소지
+Album_DialogGetTypeLock,미소유
+Album_DialogMovieTypeTitle,영상
+Album_DialogMovieTypeHas,영상 있음
+Album_DialogMovieTypeNot,영상 없음
+Album_DialogEpisodeTypeTitle,스토리
+Album_DialogEpisodeTypeHas,스토리 있음
+Album_DialogEpisodeTypeNot,스토리 없음
+Album_DialogSpPhotoTypeTitle,SP 사진
+Album_DialogSpPhotoTypeHas,SP 사진 있음
+Album_DialogSpPhotoTypeNot,SP 사진 없음
+Album_DialogEvolveTypeAll,전체 선택
+Album_DialogEvolveTypeNotEvolved,각성 전
+Album_DialogEvolveTypeEvolved,각성 후
+Album_DialogSortTypeId,기본값
+Album_DialogSortTypeUnlock,획득 순서
+Album_DialogSortTypeRarity,희귀도
+Album_SIF1_CardSeries,시리즈
+Album_SIF1_CardOther,기타
+Album_SIF1_CardTypeNormal,일반
+Album_SIF1_CardTypeAwakening,각성
+Album_SIF1_HeightExt,{0}cm
+Album_SIF2_AcquiredStatus,가입 현황
+Album_SIF2_AcquiredPercent,{0}% ({1}/{2})
+Album_SIF2_MemberSummary,부원 목록
+Album_SIF2_Profile,프로필
+Album_SIF2_NonJoining,미가입
+Album_SIF2_NonJoiningToCard,가입한 부원이 없습니다
+Album_SIF2_NothingToCard,대상 부원이 없습니다
+AreaTalkList_AreaOnly,발생 장소
+AreaTalkList_AreaAndItem,발생 조건
+AreaTalkList_Empty,미니 스토리가 없습니다
+AreaTalkList_HaveAlbum,이미 본 미니 스토리를 다시 보자!
+AreaTalkList_PlayButton,보기
+CostumeSelect_DeckTitle,★편성 사진 의상★
+CostumeSelect_DeckInfo,설정하면 기본 의상 <br>이(가) {0}로 변경됩니다.
+CostumeSelect_SetButton,설정
+CostumeSelect_SelectedButton,설정 중
+CostumeSelect_UnLockInfoButton,해방 조건
+CostumeSelect_UnLockInfoByFot,{1}을(를) 획득 {0}
+CostumeSelect_UnLockInfoByCampaign,{0}를 받기
+CostumeSelect_NotSelected,미설정
+OrnamentShop_EmptyData,구매 가능한 아이템이 없습니다
+OrnamentShop_ScrollItemBuyText,구매
+OrnamentShop_ScrollItemLevelUpText,레벨 업
+OrnamentShop_ScrollItemUnlockText,해방 조건
+OrnamentShop_BuyConfirmDialog_ConditionLabel,필요 조건
+OrnamentShop_BuyResultDialogTitle_Buy,아이템 구매
+OrnamentShop_BuyResultDialogTitle_LevelUp,아이템 레벨 업
+OrnamentShop_BuyResultDialogMessage_DoesNotPlace,구매한 아이템을 창고로 보냈습니다
+Chat_NoticeReceive,메시지가 도착했습니다
+Chat_TabChatSummary,요약
+Chat_TabChatSolo,채팅
+Chat_TabChatGroup,그룹 채팅
+Chat_TabCollectionStamp,스탬프
+Chat_TabCollectionAttachment,사진
+Chat_AvailableStamp,선택한 스탬프를 사용할 수 있는 채팅
+Chat_AcquiredStamp,곡 클리어 시 무작위로 획득할 수 있습니다
+Chat_TalkTagVoice,음성
+Chat_TalkInputWait,{0} 입력 중...
+Chat_TalkItemReceive,받기
+Chat_TalkItemReceived,받음
+Chat_TalkItemGet,{0}을 입수했습니다
+Chat_TalkLookback,대화 내용 보기
+Chat_OrderOfArrival,수신 순서
+Chat_OrderOfPrecedence,정렬 방식
+Chat_NotYetOpen,채팅에 참여하지 않았습니다<br>연락처를 교환하면 채팅에 참여할 수 있습니다.
+Chat_NotYetAvailable,사용 가능한 스탬프가 있는 채팅이 아직 없습니다
+MusicShop_EmptyData,구매 가능한 곡이 없습니다
+MusicShop_AlreadyBought,이미 구매했습니다.
+MusicShop_DetailDialogTitle,곡 상세 정보
+MusicShop_BuyConfirmDialogTitle,구매 확인
+MusicShop_BuyConfirmDialogMessage,이 곡을 구매하시겠습니까?
+MusicShop_BuyConfirmDialogCostItem,★필요 아이템★
+MusicShop_BuyResultDialogTitle,구매 완료
+Warehouse_BatchReplaceDialogDecideButton,결정
+Warehouse_BatchReplaceDialogTitle,추천 편성
+Warehouse_BatchReplaceDialogCardTypePriority,우선하는 속성
+Warehouse_BatchReplaceDialogDeckRolePriority,우선하는 악기
+Help_DialogTitle,도움말
+Help_Faq,자주 묻는 질문
+Help_GameProgress,게임 진행 및 전반적인 작동 방식
+Help_BuyGem,Loveca 구매
+Help_TakeOver,계정 연동하기
+Help_Opinions,의견 및 요청
+Help_ButtonFaq,자주 묻는 질문
+Help_ButtonBuyGem,Loveca 구매 오류
+Help_ButtonRegardProblems,불량 관련<br>문의
+Help_ButtonDataRecovery,데이터 복구 관련<br>문의하기
+Help_ButtonOther,기타 문의
+Help_Notes,주의사항
+Help_JumpButton,사이트로 이동
+Help_ContactFormCaution,"• 문의/요청에 대해서는 원칙적으로 답변을 드리지 않습니다. <br> • 문의 내용에 따라 조사, 답변, 대응에 시간이 걸릴 수 있습니다. <br> • 문의하기 전에 도움말, 운영 공지, 자주 묻는 질문을 확인해 주세요. <br> • 데이터 복구 관련 문의는 문의 양식을 통해 연락 주시기 바랍니다. <br> • 고객 간의 분쟁 등에는 일절 관여하지 않습니다. <br> • 본 지원은 일본어만 제공합니다. <br> • 게임 공략 정보에 대해서는 답변해 드릴 수 없습니다. <br> • 24시간이 지나도 문의 접수 메일이 도착하지 않으면 이메일 수신 설정을 확인해 주세요. <br> • [@bushimo.jp]에서 메일을 받을 수 있도록 설정 변경을 부탁드립니다."
+TermsOfService_DialogTitle,이용 약관
+TermsOfService_Terms,이용 약관
+TermsOfService_Rights,권리 표시
+TermsOfService_PrivacyPolicy,개인 정보<br>보호 정책
+TermsOfServiceAgree_Agree,동의하기
+TermsOfServiceAgree_NoAgree,동의하지 않음
+TermsOfServiceAgree_Terms,이용 약관 / 개인 정보 보호 정책 / 저작권 표시
+TermsOfServiceAgree_PrivacyPolicy,개인 정보 보호 정책
+TermsOfServiceAgree_Title,이용 약관 동의 확인
+TermsOfServiceAgree_Message,"이 게임을 플레이하려면 <br>이용 약관 및 개인 정보 보호 정책에 <br>동의해야 합니다. <br><br>확인 후 ""동의""를 탭하세요."
+TermsOfServiceAgree_DataCaution,의도적이거나 부주의한 이유로 기기에서 앱을 삭제하거나 앱 데이터가 손실될 경우 <br>데이터 복구가 어려울 수 있으니 주의하십시오.
+CacheClear_ConfirmTitle,캐시 삭제 확인
+CacheClear_ClearingTitle,캐시 삭제 중
+CacheClear_ResultTitle,캐시 삭제 완료
+CacheClear_ConfirmMassage,캐시를 삭제합니다<br>진행하시겠습니까?
+CacheClear_ClearingMassage,캐시를 정리 중입니다.<br>잠시만 기다려 주세요.
+CacheClear_ResultMassage,캐시 삭제가 완료되었습니다.
+Tw_SelectLanguage_Button,언어 선택
+Mission_Title,과제
+Mission_MainTitle,미션 목록
+Mission_SubTitle,과제
+Mission_Progress,{0} <size=-10> / {1} </size>
+Mission_TabMain,총합
+Mission_TabDaily,데일리
+Mission_TabLimited,기간 한정
+Mission_MissionNotFound,현재 도전 가능한 미션이 없습니다
+Mission_MissionNotFoundDaily,현재 도전 가능한<br>데일리 미션이 없습니다
+Mission_MissionNotFoundLimited,현재 도전 가능한<br>기간 한정 미션이 없습니다
+Mission_ChallengeButton_AcceptReward,받기
+Mission_ChallengeButton_Challenge,도전
+Mission_ChallengeButton_Ornament,창고로
+Mission_ChallengeButton_CardDetail,부원 상세 보기
+Mission_ChallengeButton_CardDetail_NotHave,해당 부원 미소유
+Mission_ChallengeButton_CardReinforce,레슨으로
+Mission_ChallengeButton_CardReinforceSkill,스킬 레슨으로
+Mission_ChallengeButton_CardEvolve,각성하기
+Mission_ChallengeButton_Costume,의상 변경
+Mission_ChallengeButton_DeckEdit,유닛 편성으로
+Mission_ChallengeButton_DeckTop,그룹으로 돌아가기
+Mission_ChallengeButton_EventTop,이벤트로 이동
+Mission_ChallengeButton_Friend,친구 목록으로
+Mission_ChallengeButton_GachaTop,스카우트
+Mission_ChallengeButton_MainStory,메인 스토리로
+Mission_ChallengeButton_Migration,데이터 인계
+Mission_ChallengeButton_MusicSelect,음악 선택으로
+Mission_ChallengeButton_Line,친구 추가
+Mission_ChallengeButton_LiveSelect,Live 선택으로
+Mission_ChallengeButton_Photo,부원 목록으로
+Mission_ChallengeButton_Profile,프로필 보기
+Mission_ChallengeButton_Shop,상점으로
+Mission_ChallengeButton_SubStory,사이드 스토리로
+Mission_ChallengeButton_TargetMission,대상 미션으로
+Mission_ChallengeButton_Twitter,팔로우하기
+Mission_DetailDialog_NoTimeLimit,시간 제한 없음
+Mission_CompleteMisssionGuide,내용을 자세히 확인하세요
+Friend_MyFriendTab,친구 목록으로
+Friend_RequestTab,신청 중
+Friend_PendingTab,승인 대기
+Friend_FriendSearchTab,친구 검색
+Friend_LastLogin,최근 로그인
+Friend_RefineFavoriteFriendButton,좋아하는 친구만 보기
+Friend_DeleteButton,친구 해제
+Friend_RequestCancelButton,요청 취소
+Friend_PendingButton,승인
+Friend_RejectButton,거절
+Friend_MyFriendEmpty,친구가 없습니다
+Friend_RequestEmpty,승인 대기 중인 플레이어가 없습니다.
+Friend_PendingEmpty,승인 대기 중인 플레이어가 없습니다
+Friend_FriendSearchEmpty,플레이어를 찾을 수 없습니다
+Friend_SearchButton,ID 검색
+Friend_SortLastLoginButton,최근 로그인
+Friend_SortRankButton,랭크
+Friend_IconLeaderTypeButton,리더
+Friend_IconRecommendTypeButton,좋아하는 항목
+Friend_SearchDialogTitle,ID 검색
+Friend_SearchDialogMassage,ID를 입력하세요
+Friend_SearchDialogSearchButton,검색
+Friend_Secret,비공개
+Friend_LastLoginMinutes,{0}분 전
+Friend_LastLoginHour,{0}시간 전
+Friend_LastLoginDay,{0}일 전
+Friend_LastLoginOverMonth,31일 이상 전
+Friend_DialogTitle,ID 검색
+Friend_DialogMessage,플레이어 ID를 입력하세요.
+Friend_DialogLimitNum,12자 이내
+Title_AppliVersion,버전 {0}
+Title_JasracApple,JASRAC 허가<br>제9014302035Y45112호
+Title_JasracGoogle,JASRAC 허가<br>제9014302036Y45112호
+Title_NexTone,넥스톤
+Title_Company,©2013 프로젝트 러브라이브! <br> ©2017 프로젝트 러브라이브! 선샤인!! <br> ©2022 프로젝트 러브라이브! 무지개색 학원 스쿨 아이돌 동아리 <br> ©2022 프로젝트 러브라이브! 슈퍼스타!! ©bushiroad
+Title_UserId,ID: {0}
+Title_MenuTitle,메뉴
+Title_MenuExternalSite,외부 사이트
+Title_MenuCacheClear,캐시 삭제
+Title_MenuGameDataDelete,게임 데이터 삭제
+NameInput_Name,성함
+NameInput_Ok,확인
+NameInput_Title,취재 허가 신청서
+NameInput_Permit1,미라클 라이브 실행위원회 귀중
+NameInput_Petmit2,"저는 미라클 라이브의 취재 요강에 명시된 사항을 준수할 것을 서약하며, <br>여기에서 취재 허가를 신청합니다."
+NameInput_Note1,※플레이어 이름은 최대 10자까지입니다.
+NameInput_Note2,※게임 내 다른 플레이어에게도 공개되는 이름입니다.
+NameInput_Note3,※플레이어 이름은 나중에 변경할 수 있습니다
+NameInput_ProfileNameInputTitle,플레이어 이름 입력
+NameInput_ProfileNameInputMessage,플레이어 이름을 입력하세요
+NameInput_ProfileNameInputNote,플레이어 이름은 최대 10자입니다<br>게임 내에서 다른 플레이어에게 공개되는 이름입니다<br>플레이어 이름은 나중에 변경할 수 있습니다.
+Profile_Secret,비공개
+Profile_SecretLong,비공개로 설정됩니다
+Profile_DefaultComment,잘 부탁드립니다!
+Profile_RankTitle,<size=24>R</size>랭크
+Profile_ExpTitle,<size=24>경험치 </size>
+Profile_CommentTitle,댓글
+Profile_RecommenderSelectButton,좋아하는 항목 선택
+Profile_TitleSelectButton,칭호 선택
+Profile_PublicSelectButton,공개 설정
+Profile_CopyButton,복사
+Profile_CopyMessage,ID를 복사했습니다.
+Profile_PhotoButton,부원 표시
+Profile_FriendRequestButton,친구 신청
+Profile_FriendCanNotRequestButton,신청 불가
+Profile_FriendTitleListButton,칭호 목록
+Profile_LastLoginTime,최종 로그인 시간:
+Profile_OpenDialogTitle,프로필 공개 설정
+Profile_OpenDialogMainDeckParam,유닛 종합력
+Profile_OpenDialogGroupRank,그룹 랭크
+Profile_OpenDialogClearLiveNumber,클리어 곡 수
+Profile_OpenDialogFullComboLiveNumber,풀콤보 곡 수
+Profile_OpenDialogAllPerfectLiveNumber,완벽 플레이 곡 수
+Profile_OpenDialogHighScoreRate,최고 점수 달성률
+Profile_OpenDialogLastLoginDate,최종 로그인 시간
+Profile_OpenDialogUserId,플레이어 ID
+Profile_OpenDialogGuestMember,게스트 부원
+Profile_OpenDialogCaution,체크를 해제하면 비공개됩니다.
+Profile_OpenDialogOpenButton,공개
+Profile_OpenDialogSecretButton,비공개
+Profile_OpenDialogPendingButton,수락 중
+Profile_OpenDialogRejectButton,거절
+Profile_RankDialogTitle,랭크 상세 정보
+Profile_RankMax,랭크가 최고 레벨에 도달했습니다.
+Profile_CommentSettingDialogTitle,댓글 설정
+Profile_CommentSettingDialogMassage,댓글을 입력하세요
+Profile_CommentSettingDialogLimitNum,{0}자 이내
+Profile_HighScoreRateDialogTitle,상세 하이스코어 레이트
+Profile_HighScoreRateDialogTotalHighScore,총 하이스코어 레이트
+Profile_HighScoreRateDialogValue,최고 점수 달성률
+Profile_HighScoreRateDialogEmpty,플레이 데이터가 없습니다.
+Profile_RankListScrollItemGem,보상: Loveca {0}
+Profile_RankListScrollItemNone,보상: 미지원 {0}
+Profile_ScoreTitle,클리어 곡 수
+Profile_ClearMusicTitle,클리어
+Profile_FullComboTitle,풀콤보 달성
+Profile_ClimaxPerfectTitle,클라이맥스<br>퍼펙트
+Profile_AllPerfectTitle,올 퍼펙트
+Profile_TeacherPointTitle,최고 점수 달성률
+Profile_ScoreConfirm,클리어 곡
+Profile_GuestMember,게스트 부원
+Profile_GuestDetail,게스트 상세 정보
+Profile_SettingMember,설정 부원
+Profile_Share,공유하기
+Profile_ShareMessage,저희와 함께 스쿨 아이돌을 시작해 보지 않으세요?
+Profile_CardEmpty,부원이 없습니다
+Profile_Birthday,생일
+Profile_NoBirthday,미설정
+Profile_BirthdaySettingDialogTitle,생일 설정
+Profile_BirthdaySettingDialogMessage,생일을 입력하세요.
+Profile_BirthdaySettingDialogNote,생일은 나중에 변경할 수 없습니다<br>생일에는 특별 채팅이 전송됩니다<br>구매 제한 확인 시와 생년월일이 달라도 괜찮습니다.
+TitleList_TitleChangeDialogTitle,확인
+TitleList_TitleChangeDialogText,이 칭호를 설정합니다
+TitleList_TitleNoDetailText,설명 없음
+TitleList_TitleListTabNormal,일반
+TitleList_TitleListTabEvent,이벤트
+TitleList_TitleListTabMember,멤버
+TitleList_TitleListTabMigration,데이터 연동
+TitleList_NoMigrationMessage,데이터 연동 칭호를 보유하고 있지 않습니다
+TitleList_TitleListEmpty,칭호가 없습니다
+Exchange_Tab_Main,메인
+Exchange_Tab_Tea,홍차
+Exchange_ExpireDateLabel,교환 기간
+Exchange_ExchangeSelectMessageText,교환소를 선택하세요.
+Exchange_SealExchangeHeaderMainTitle,스카우트 포인트 교환소
+Exchange_PickExchangeHeaderMainTitle,교환소
+Exchange_TicketExchangeHeaderMainTitle,티켓 교환소
+Exchange_SoldOutMessage,교환 한도에 도달했습니다
+Exchange_ExchangeLimitMessage,보유 한도에 도달하여 교환할 수 없습니다.
+Exchange_GetSeal,스카우트 포인트를 획득
+Exchange_ShopResetMessage_Daily,매일 0시에 업데이트
+Exchange_ShopResetMessage_Weekly,매주 {0}에 업데이트됨
+Exchange_ShopResetMessage_Monthly,매월 일에 업데이트
+Exchange_ResetDayDaily,오늘
+Exchange_ResetDayWeekly,이번 주
+Exchange_ResetDayMonthly,이번 달
+Exchange_RemainCount,남은 횟수: {0}회
+Exchange_ResultMesseage,{0} {1}개를 교환했습니다!
+Exchange_ResultCardMesseage,{1} {0}을(를) {2}명 스카우트했습니다!
+Exchange_FilterDialogTitle,교환소 필터
+Exchange_FilterDialogCategoryLabel,카테고리 필터
+Exchange_FilterDialogSoldOutLabel,획득 항목만 보기
+Exchange_FilterDialogCategoryAll,전체 선택
+Exchange_FilterDialogCategoryStamp,스탬프
+Exchange_FilterDialogCategoryPrimaryItem,주요 아이템
+Exchange_FilterDialogCategoryPhotoSeal,부원
+Exchange_FilterDialogCategoryTicket,티켓
+_FilterDialogDefaultButtonText,기본으로<br>돌리기
+Exchange_Name_Exchange,교환
+Exchange_Name_Purchase,구매
+Exchange_Name_LevelUp,레벨 업
+Exchange_EmptyData,{0}할 수 있는 상품이 없습니다
+Exchange_AmountLabel,{0}개
+Exchange_AmountDialogTitle,{0} 몇 개 하시겠습니까?
+Exchange_AmountDialogMessage,처음 가입하는 부원 외에는 응원봉으로 변경됩니다.
+Exchange_ConfirmDialogTitle_Countable,{0}개 확인
+Exchange_ConfirmDialogTitle_Uncountable,{0} 하시겠습니까?
+Exchange_ResultDialogTitle,{0} 완료됨
+DeckEdit_RecommendDialogTitle,추천 편성
+DeckEdit_RecommendPriorityType,속성
+DeckEdit_RecommendPriorityGroup,그룹
+DeckEdit_RecommendPrioritySkill,특기
+DeckEdit_RecommendTypeAll,지정 없음
+DeckEdit_RecommendGroupAll,지정 없음
+DeckEdit_RecommendGroupOther,기타
+DeckEdit_RecommendTypeBonus,속성 보너스
+DeckEdit_RecommendCharacterBonus,멤버 보너스
+DeckEdit_RecommendEventBonus,이벤트 보너스
+DeckEdit_RecommendSkillAll,지정 없음
+DeckEdit_RecommendSkillScore,스코어 업
+DeckEdit_RecommendSkillScoreCondition,조건부 점수 증가
+DeckEdit_RecommendSkillRecovery,체력 회복
+DeckEdit_RecommendSkillEnhanced,판정 강화
+DeckEdit_RecommendSkillOther,기타
+DeckEdit_RecommendCheckCenterFixed,센터 고정
+DeckEdit_RecommendCheckBonusApply,선발 멤버 우선 적용
+DeckEdit_RecommendGroupSelectDialogTitle,그룹 선택
+DeckEdit_DefaultBandName,유닛 {0}
+DeckEdit_TabName,유닛 {0}
+DeckEdit_StatusPower,LP
+DeckEdit_StatusTotal,유닛 종합력
+DeckEdit_StatusSoul,Smile
+DeckEdit_StatusTechnic,Pure
+DeckEdit_StatusAppeal,쿨
+DeckEdit_StatusOrnamentBouns,아이템
+DeckEdit_StatusEventBouns,이벤트
+DeckEdit_StatusTypetBouns,속성 보너스
+DeckEdit_MainUnitSetButton,메인 유닛 설정
+DeckEdit_RecommendEditButton,추천 편성
+DeckEdit_ResetButton,초기화
+DeckEdit_OrnamentButton,아이템
+DeckEdit_TotalParamDetailButton,종합력 상세
+DeckEdit_EventNothing,이벤트 기간이 아니므로<br>보너스가 없습니다
+DeckEdit_UnitNameDialogTitle,유닛 이름
+DeckEdit_UnitNameDialogMessage,유닛 이름을 입력하세요
+DeckEdit_UnitNameDialogLimitNum,8자 이내
+DeckEdit_ClassmateButton,(더미)
+DeckEdit_ClassmateTotalParam,(더미)
+DeckEdit_PassiveSkillTotalParam,(더미)
+DeckEdit_EventBonusMessage,이벤트 포인트 보너스는 편성 중인 멤버 전체의 합계가 적용됩니다.
+DeckEdit_EventBonusEventPointUp_ChallengeLive,미라클 컬렉션으로 이벤트 포인트 {0}% 증가
+DeckEdit_EventBonusTotalPointUp_ChallengeLive,미라클 컬렉션으로<br>대상 부원의 종합력 상승
+DeckEdit_EventBonusEventPointUp_LiveTry,미라클 컬렉션으로 이벤트 포인트 {0}% 증가
+DeckEdit_EventBonusTotalPointUp_LiveTry,미라클 컬렉션으로<br>대상 부원의 종합력 상승
+DeckEdit_EventBonusTotalPointUp,멤버 보너스 (부원 종합력)
+DeckEdit_EventBonusEventPointUp,이벤트 포인트
+DeckEdit_EventBonusNoRate,---
+DeckEdit_EventBonusRate,{0}%x {1}명
+DeckEdit_EventBonusRateUp,증가!
+DeckEdit_EventBonusInvalidMessage1,이벤트 보너스
+DeckEdit_EventBonusInvalidMessage2,대상 멤버가 없습니다
+DeckEdit_Passive,패시브 스킬
+DeckEdit_LiveRole,(더미)
+DeckEdit_SupportRole,(더미)
+DeckEdit_SelectEventDialogTitle,이벤트 선택
+DeckEdit_SelectEventDialogText,선택한 이벤트의<br>이벤트 보너스 정보를 표시합니다
+DeckEdit_SelectEventDialogCaution,이벤트 보너스가 없는 이벤트는 표시되지 않습니다
+DeckEdit_ClassmateDisp,전체 부원 표시
+DeckEdit_TotalParamDetailDialogTitle,유닛 상세 정보
+DeckEdit_CenterSkillRiseValue,센터 스킬 상승치
+DeckEdit_EventBonusRiseValue,이벤트 보너스 상승치
+DeckEdit_UpperArrowValue,상승 {0}
+DeckEdit_SkillLvValue,레벨 {0}
+DeckEdit_EventPt,이벤트 포인트
+DeckEdit_IconBonus,미라클 스타
+DeckEdit_StatusTotalAttention,유닛 종합 능력치는 센터 스킬 상승치를 합산하여 표시합니다.
+DeckEdit_PositionEditMessage,부원을 드래그하여 위치를 변경하세요
+DeckEditCharaSelect_PhotoTotalParam,부원 종합력
+LiveMission_DialogTitle,{0} 달성 보상 목록
+LiveMission_DialogScoreRank,점수 랭크
+LiveMission_DialogComboCount,콤보 수
+LiveMission_DialogFullCombo,풀콤보
+LiveMission_DialogClearCount,클리어 횟수
+ShopCommon_FreeGem,무료 Loveca
+ShopCommon_ChargeGem,유료 Loveca
+ShopCommon_Price,가격
+GemShop_FundSettlement,자금결제법에 따라<br>표시
+GemShop_ServiceGuidelines,게임 내 화폐 안내
+GemShop_MedalGuidelines,Loveca 이용 약관
+GemShop_SpecifiedCommercialTransactions,특정상거래법<br>에 따른 표시
+GemShop_SpecifiedCommercialTransactions_DialogTitle,특정상거래법에 따른 표시
+GemShop_FundSettlement_DialogTitle,자금결제법에 따른 표시
+GemShop_SpecifiedCommercialTransactions_FundSettlement,특정상거래법/자금결제법에 따른 표시
+GemShop_BuyComplete,구매 완료
+GemShop_BuyCompleteMessage,{0}을 {1} 구매했습니다
+GemShop_Confirm,확인
+GemShop_BuyStaminaMessage,Loveca를 {0} 소비하여 LP를 {1} 회복합니다. <br> 진행하시겠습니까?
+GemShop_BuyStaminaCompleteTitle,LP 회복 창
+GemShop_BuyStaminaCompleteMessage,LP를 {0} 회복했습니다!
+GemShop_AgeConfirm,나이 확인
+GemShop_AgeMessage,생년월일을 입력하여 연령을 확인하세요.
+GemShop_AgeNote,생년월일은 나중에 변경할 수 없습니다.
+GemShop_AgeMaxMessage,"※16세 미만: 월 5,000엔(세금 포함)까지 <br> ※16세 이상 18세 미만: 월 10,000엔(세금 포함)까지 <br> ※18세 이상: 제한 없음"
+GemShop_AgeNote1617,16~17세:
+GemShop_AgeNote16,16세 미만:
+GemShop_LimitOverMessage,이번 달 구매 가능한 금액 한도에 도달하여 구매할 수 없습니다.
+GemShop_LimitAlertOver,이미 한 달 동안의 Loveca 구매 금액이 <br>{0}원을 초과했습니다.
+GemShop_LimitAlert,이 구매를 진행하면 한 달 동안의 <br> Loveca 구매 금액이 {0}원을 초과합니다.
+GemShop_PurchaseConfirm,{0}을(를) 구매하시겠습니까?
+GemShop_AgeSelectedTitle,나이 등록 확인
+GemShop_AgeSelectedContents,생년월일이 맞습니까?
+GemShop_AgeSelectedConfirm,생년월일은 나중에 변경할 수 없습니다.
+GemShop_AgeDecisionContents,나이를 확인했습니다
+GemShop_AgeDecisionContentsFormat,나이를 확인했습니다
+GemShop_AgeDecisionLimitLabel,{0}: 월간 결제 한도 {1}원까지
+GemShop_AgeDecision,설정이 완료되었습니다.
+GemShop_Monthly,월간
+GemShop_AlertMessage,"이번 달 이용 금액이 {0}원을 초과하지만, 계속 구매하시겠습니까?"
+GemShopItem_LimitBuyAmount,남은 {0}개
+GemShopItem_LimitDate,{0}까지
+GemShopItem_Amount,{0}개
+GemShopItem_LimitAmount,남은 {0}개
+GemShopItem_GemAmount,Loveca {0}개
+GemShopItem_Omake,<br> <size=22> <color=#F93981> + 무상 Loveca {0}개
+GemShopItem_Charge,유료 Loveca ×{0}
+GemShopItem_Free,무료 Loveca ×{0}
+GemShopItem_Money,{0} 엔
+GemShopItem_Increase,추가 {0}
+GemShopItem_Period,판매 기간
+GemShopItem_Season,{0} ~ {1}
+GemShopItem_TicketInfo,로그인하지 않은 날에는 Loveca를 받을 수 없습니다<br>Loveca가 아닌 아이템은 선물로 보내집니다<br>로그인 시 직접 지급되어 소지 수량에 반영됩니다<br>로그인 보너스는 구매일 다음날 0:00부터 받을 수 있습니다
+GemShopItem_TicketBuyInfo,<color=#D73C55>구매 완료 </color> <br> 유효 기간: {0}
+GemShopItem_TicketRemainPresent,1일 1회 선물 <br> <color=#D73C55> 남은 횟수 {0}회 </color>
+GemShopItem_ChargeGemComfirm,Loveca를 {0} 소비하여 {1}을(를) 구매합니다. <br> 이 상품은 유료 Loveca로만 구매할 수 있습니다.
+GemShopItem_FreeGemComfirm,Loveca {0}를 소비하여 {1}을(를) 구매합니다. <br> Loveca는 무료 분부터 소비됩니다.
+GemShopItem_SubscriptionButton_MembersCard,회원증 보기
+GemShopItem_SubscriptionButton_Buy,구매
+GemShopItem_SubscriptionButton_Info,내역 상세
+GemShopItem_Membership_CardNo,회원 번호
+GemShopItem_Membership_CardStart,가입일
+GemShopItem_Membership_CardChangeButton,디자인<br>변경
+GemShopItem_Membership_WallpaperTitle,회원증 디자인 변경
+GemShopItem_Membership_WallpaperAlert,결정 버튼을 누르지 않으면 적용되지 않습니다.
+GemShopItem_Membership_WallpaperSelected,선택 중
+GemShopItem_Membership_WallpaperUsing,사용 중
+GemShopItem_Membership_WallpaperDecide,결정
+GemShopItem_Membership_WallpaperNotice,회원증 디자인을 변경했습니다.
+GemShopItem_Membership_InfoTitle,내역 상세
+GemShopItem_Membership_InfoTabSummary,개요
+GemShopItem_Membership_InfoTabLoginBonus,로그인 보너스
+GemShopItem_Membership_InfoTabMission,과제
+GemShopItem_Membership_InfoSummaryTitle,MIRACLE 패스 회원 정보
+GemShopItem_Membership_InfoSummaryUnsubscribe,해지
+GemShopItem_Membership_InfoLoginBonusTitle,MIRACLE 패스 회원 특별 로그인 보너스!
+GemShopItem_Membership_InfoLoginBonusDescription,MIRACLE 패스 가입으로 획득! 20일 동안 로그인하면 최대 1000 Loveca를 무료로 받을 수 있습니다!<br>※가입 다음 날부터 받을 수 있습니다.
+GemShopItem_Membership_InfoLoginBonusDayCount,일차
+GemShopItem_Membership_InfoLoginBonusDayCountFormat,{0}일째
+GemShopItem_Membership_InfoLoginBonusGotItem,획득 아이템
+GemShopItem_Membership_InfoLoginBonusStatus,획득 상황
+GemShopItem_Membership_InfoLoginBonusClear,획득 완료
+GemShopItem_Membership_InfoLoginBonusNotClear,미달성
+GemShopItem_Membership_InfoMissionTitle,미라클 패스 회원 특별 미션!
+GemShopItem_Membership_InfoMissionDescription,모든 과제를 클리어하여 최대 1500 Loveca를 획득하세요!<br>※기간 종료 48시간 전에 완료해 주시기 바랍니다.
+GemShopItem_Membership_InfoMissionClearCount,곡 클리어 횟수
+GemShopItem_Membership_InfoMissionClearCountFormat,{0}회 클리어
+GemShopItem_Membership_InfoMissionGotItem,획득 아이템
+GemShopItem_Membership_InfoMissionStatusProgress,진행 중
+GemShopItem_Membership_InfoMissionStatusClear,클리어됨
+GemShopItem_Membership_InfoMissionStatusReceived,보상 받음
+GemShopItem_Membership_InfoMissionButton,미션 시작
+ConfirmMedal_Gem,소지 Loveca 확인
+ConfirmMedal_Log,Loveca 정보
+ConfirmMedal_ChargeGemReason,{0}을(를) 구매했습니다
+DeckConfirm_LiveStartWarning,라이브를 시작하려면 유닛에 부원을 9명 설정해야 합니다.<br>부원을 편성하세요.
+DeckConfirm_StaminaUse,{0} 소비
+DeckConfirm_AutoBurstDialogTitle,소비 자동 티켓 설정
+DeckConfirm_LiveBurstDialogTitle,소비 LP 설정
+DeckConfirm_UseBurstDialogTitle,사용 버스트 설정
+DeckConfirm_UseBurstDialogBurstSetting,기본 사용 버스트 설정
+DeckConfirm_UseBurstDialogThisTimeBurst,이번에 사용되는 버스트
+DeckConfirm_UseBurstDialogAutoDescription,스킵 티켓을 사용하면 스킵 플레이가 됩니다
+DeckConfirm_UseBurstDialogBurstWarning,※스킵 티켓은 사용 기한이 빠른 것부터 사용됩니다.<br>※스킵 티켓은 클리어한 곡 및 난이도에만 사용할 수 있습니다.
+DeckConfirm_UseBurstDialogAutoWarning,※스킵 티켓은 사용 기한이 빠른 것부터 사용됩니다.<br>※스킵 티켓은 클리어한 곡 및 난이도에만 사용할 수 있습니다.
+DeckConfirm_NoBurst,미소유
+DeckConfirm_CanNotUsedNoBurst,미소유 상태이므로 사용할 수 없습니다.
+DeckConfirm_CanNotUsedNoClear,미클리어 시 사용 불가
+DeckConfirm_CanNotUsedNoClearShort,미클리어 시 사용 불가
+DeckConfirm_LiveParam,Live용 수치
+DeckConfirm_AutoParam,자동 설정 값
+DeckConfirm_EventPointGet,이벤트 포인트
+DeckConfirm_EventGachaPointGet,스카우트(박스) P 획득
+DeckConfirm_ItemAndExpGet,보상 및 경험치
+DeckConfirm_Magni,배수
+DeckConfirm_StaminaBoostNotSelect,설정
+DeckConfirm_StaminaBoostSelect,설정 중
+DeckConfirm_StaminaBoostWarning,"※소비량이 설정된 소비량에 미치지 못하면, 보유한 아이템을 모두 소비합니다."
+DeckConfirm_StaminaBoostAutoWarning,※자동으로 설정하면 최고 점수와 달성 보상은 기록되지 않습니다.
+DeckConfirm_Note,LP가 0이므로 <br>스킵할 수 없습니다.<br>LP를 회복하려면 <br>회복 방법을 선택하세요.
+DeckConfirm_OptionButton,옵션
+DeckConfirm_HealthyBoostButton,LP
+DeckConfirm_StartButton,Live 시작
+DeckConfirm_AutoOn,자동: ON
+DeckConfirm_AutoOff,자동: OFF
+DeckConfirm_Passive,패시브 스킬
+DeckConfirm_LiveRole,Live 포지션
+DeckConfirm_SupportRole,지원 포지션
+DeckConfirm_EventBonusTotalPointUp,멤버 보너스 (부원 종합력)
+DeckConfirm_EventBonusEventPointUp,이벤트 포인트
+DeckConfirm_EventBonusNoRate,---
+DeckConfirm_EventBonusRate,{0}%
+DeckConfirm_EventBonusRateUp,증가!
+DeckConfirm_EventBonusInvalidMessage1,이벤트 보너스
+DeckConfirm_EventBonusInvalidMessage2,대상 멤버가 없습니다
+DeckConfirm_LiveBonusTypePointUp,속성 보너스 (부원 종합력)
+DeckConfirm_LiveBonusRate,{0}% {1}개
+DeckConfirm_LiveBonusRateUp,증가!
+DeckConfirm_EventCandyAmount,{0} / {1}
+DeckConfirm_LiveConditionButton,라이브 조건 있음
+DeckConfirm_LiveConditionDialogTitle,라이브 조건
+DeckConfirm_LiveConditionDialogCondition,라이브 참가 조건
+DeckConfirm_LiveConditionDialogRule,라이브 규칙
+DeckConfirm_LiveConditionDialogErrorMessage,<color=#ff0000>라이브 참가 조건</color>을(를) 만족하지 못하여 <br>참가할 수 없습니다.
+Story_MainStoryFirstSeason,첫 번째 시즌
+Story_MainStorySecondSeason,세컨드 시즌
+Story_SeasonChapterNumberFormat,#{0} - {1}
+Story_ChapterNumberFormat,{0}화
+Story_TitleWithChapterNumberFormat,{0} {1}화 「{2}」
+Story_ReleaseTitleWithChapterNumberFormat,{0} <br> {1}화 「{2}」
+Story_StoryTopHeaderMainTitle,스토리 TOP
+Story_StoryTopHeaderSubTitle,스토리
+Story_MainStoryListHeaderMainTitle,스토리 선택
+Story_MainStoryListHeaderSubTitle,메인 스토리
+Story_SubStoryTopHeaderMainTitle,그룹 선택
+Story_SubStoryTopHeaderSubTitle,사이드 스토리
+Story_SubStoryListHeaderMainTitle,스토리 선택
+Story_SubStoryListHeaderSubTitle,사이드 스토리
+Story_EventStoryTopHeaderMainTitle,이벤트 선택
+Story_EventStoryTopHeaderSubTitle,이벤트 스토리
+Story_EventStoryListHeaderMainTitle,스토리 선택
+Story_EventStoryListHeaderSubTitle,이벤트 스토리
+Story_CardStoryTopHeaderMainTitle,멤버 선택
+Story_CardStoryTopHeaderSubTitle,스토리
+Story_CardStoryListHeaderMainTitle,스토리 선택
+Story_CardStoryListHeaderSubTitle,스토리
+StoryPart_NumberFormat,{0}화
+StoryPart_TitleWithNumberFormat,{0}화 「{1}」
+StoryPart_TitleWithNumberTranslucentFormat,<color=#804B413C> {0}화 「{1}」 </color>
+StoryPart_TitleListWithNumberFormat,{0}화~{1}화
+StoryPart_SeasonChapterNumberFormat,#{0}-{1}-{2}
+StoryPart_ChapterNumberFormat,#{0} - {1}
+StoryPart_TitleWithChapterNumberFormat,{0}화 「{1}」
+StoryPart_RankReleaseDetailFormat,랭크를 {0}로 설정
+StoryPart_GroupRankReleaseDetailFormat,종합 그룹 랭크를 {0}로 설정
+StoryPart_LiveReleaseDetailFormat,{0}을 <br> 점수 {1} 이상으로 클리어한다
+StoryPart_MissionReleaseDetailFormat,미션 「{0}」 클리어하기
+StoryPart_ReleaseInfo,게임을 플레이하여 랭크를 올리세요!
+StoryPart_NotRelease,미해방 또는 이전 스토리를 읽지 않았습니다
+SubStory_GroupRankRewardDialogTitle,그룹 랭크 보상 목록
+SubStory_GroupRankRewardDialogUntilRankUp,랭크업까지
+SubStory_GroupRankRewardDialogTotalExp,총 경험치
+SubStory_GroupRankRewardDialogRank,랭크
+SubStory_GroupRankRewardDialogMax,최대
+ConfirmMedal_DialogTitle,소지 Loveca 확인
+ConfirmMedal_ChargeMedal,유료
+ConfirmMedal_FreeMedal,무료
+ConfirmMedal_TotalMedal,총 Loveca
+ConfirmMedal_Warning,무료 Loveca부터 먼저 소비됩니다
+ConfirmMedal_UpdateHistory,갱신
+ConfirmMedal_HistoryTitle,Loveca 정보
+ConfirmMedal_UsedHistoryTitle,이용 내역
+ConfirmMedal_AcquiredHistoryTitle,획득 기록
+ConfirmMedal_HistoryDate,사용 일시
+ConfirmMedal_HistoryReason,용도
+ConfirmMedal_HistoryNote,Loveca의 획득 및 소비 내역은 최대 3개월까지만 표시됩니다.
+ConfirmMedal_HistoryFreeMedal,무료
+ConfirmMedal_HistoryChargeMedal,유료
+Ornament_EffectValueFormat,<color=#D73C55> {0:0.##}% </color>
+Ornament_UnlockDetail_GroupLevelReward,{0}그룹 랭크 {1}에서 해금됩니다.
+Ornament_UnlockDetail_StoryPartReward,스토리 <br> {0} <br>를 감상하면 해금됩니다.
+Ornament_UnlockDetail_MissionReward,미션 <br> {0} <br>를 달성하면 해금됩니다.
+Ornament_PlaceButton,설치
+Ornament_CannnotPlace,설치 불가
+Ornament_TalkUnlockLevel,레벨 <color=#D73C55>에서 {0}을(를) 달성하면 해제됨 </color>
+Ornament_TeaSetLevelUpConditionLabel,▼레벨 업 조건
+Ornament_ReplaceDialog_OrnamentType,★{0}★
+Ornament_EventEffectDetail,「{2}」의 「{3}」플레이 시 {0}<br>(대상 Live 외에는 {1})
+StaminaCharge_NoChargeItem,※LP 회복 아이템을 보유하고 있지 않습니다.
+StaminaCharge_RecoveryConfirmDialogTitle,LP 회복 확인
+StaminaCharge_RecoveryConfirmDialogMessage,선택한 아이템을 사용하여 LP를 {0} 회복하시겠습니까?
+StaminaCharge_RecoveryConfirmDialogWarningNoItem,※LP 회복 아이템을 보유하고 있지 않습니다
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit1,"※현재 LP가 최대 LP를 초과하는 경우, LP 회복이 불가능합니다."
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit2,※LP가 999를 초과하면 999+로 표시됩니다
+StaminaCharge_Special_Commercial_Code,특정상거래법/자금결제법에 따른 표시
+StaminaCharge_RecoveryFrequency,{0} 회복
+StaminaCharge_StaminaLabel,LP
+StampTab_DefaultStamp,기본 스탬프
+StampTab_RareStamp,제한 스탬프
+StampTab_HistoryStamp,히스토리
+StampTab_FavoriteStamp,좋아하는 항목
+NotExistsStamp_DefaultStamp,일반 스탬프가 없습니다!
+NotExistsStamp_RareStamp,희귀 스탬프가 없습니다
+NotExistsStamp_HistoryStamp,스탬프 기록이 없습니다
+NotExistsStamp_FavoriteStamp,좋아하는 스탬프가 없습니다
+NotExistsStamp_RareStampSub,이벤트 등에서 한정 스탬프를 획득할 수 있습니다.
+NotExistsStamp_HistoryStampSub,스탬프를 사용하면 기록이 저장됩니다
+NotExistsStamp_FavoriteStampSub,Live 선택 화면에서 좋아하는 스탬프를 설정할 수 있습니다
+MemberIllustrateList_SelectCharaMessage,멤버를 선택하세요
+MemberCharaTop_CostumeChange,의상 변경
+MemberCharaTop_Profile,프로필
+MemberCharaTop_AriaTalk,미니 스토리
+MemberCharaTop_Album,앨범
+LiveSelect_UseStaminaBoost,{0}로 라이브
+LiveSelect_NoneStaminaBoost,로 라이브
+LiveSelect_Note,"LP를 회복하려면,<br>회복 방법을 선택하세요."
+LiveSelect_Title,LP 확인
+LiveSelect_SettingStaminaNum,소비 LP
+LiveSelect_HasStaminaNum,소지수
+LiveSelect_NoItem,가지고 있지 않습니다
+LiveSelect_PenaltyTitle,기능 제한
+LiveSelect_PenaltyMessage,협동 라이브에서 다른 유저에게 불편을 주는 행위가 확인되어 <br> 일시적으로 기능을 제한합니다 <br> 해제될 때까지 기다려 주세요.
+LiveSelect_PenaltyUnlockTime,해제까지
+LiveSelect_Belonging,소지품
+LiveSelect_Medal,Loveca
+LiveSelect_ConsumEventStamina,미라클 스타 소비 {0}개
+LiveSelect_EventTerm,이벤트 기간:
+LiveSelect_EventRankingAll,전체
+LiveSelect_EventRankingGroup,그룹별
+LiveSelect_EventRank,순위
+LiveSelect_HasEventCandy,소지 중
+LiveSelect_HasEventPick,소지
+LiveSelect_HasEventTicket,소지
+LiveSelect_EventCurrencyCandy,개
+LiveSelect_EventCurrencyPick,개
+LiveSelect_EventCurrencyTicket,개
+LiveSelect_EventAcquisitionCandy,（더미）획득 가능!
+LiveSelect_EventAcquisitionPick,（더미）획득 가능!
+LiveSelect_EventAcquisitionTicket,（더미）획득 가능!
+LiveSelect_EventCandyInfo,를 모아서 이벤트 Live를 플레이하자!
+LiveSelect_EventPickInfo,（다미）를 모아서 교환소로!
+LiveSelect_EventTopPickInfo,빙고 시트를 확인하세요!
+LiveSelect_EventTicketInfo,을 모아 뽑기를 해보자!
+LiveSelect_EventTopTicketInfo,협력 미션을 확인해 보자!
+LiveSelect_TeacherLive,(더미) Live
+LiveSelect_EventTermTitle,이벤트 기간:
+LiveSelect_EventResultTermTitle,결과 발표 기간:
+LiveSelect_EventOpenLabel,이벤트 진행 중
+LiveSelect_EventCloseLabel,이벤트 종료
+LiveSelect_EventRemainDay,이벤트 종료까지 남은 날짜: {0}일
+LiveSelect_EventRemainTime,이벤트 종료까지 남은 시간: {0}:{1:D2}
+LiveSelect_EventRankingAggregate,랭킹 집계 중...
+LiveSelect_Aggregate,집계 중
+LiveSelect_NowRankingAgreegating,현재 랭킹 집계 중입니다
+LiveSelect_EventRewardGetTime,보상 수령 기간: {0}
+LiveSelect_EventClose,이벤트가 종료되었습니다.
+LiveModeSelect_SoloLiveButton,자유 라이브
+LiveModeSelect_MultiLiveButton,협동 라이브
+LiveModeSelect_MultiUnitSettings,협동 전용<br>편성
+Migration_TakeOver,데이터 인계
+Migration_IssueInfo,다음 데이터 인계 준비를 통해 기종 변경 시 데이터를 인계할 수 있습니다.<br>앱 삭제로 인한 데이터 손실에 대한 대비책으로도 사용할 수 있습니다.
+Migration_IssueInfoNote,*데이터를 인계하기 전에 절차를 반드시 확인하세요.
+Migration_Details,데이터 이전 상세 정보
+Migration_IssueNote,"다른 OS 간에 데이터 인계를 진행하는 경우, 유료 Loveca는 무료 Loveca로 전환됩니다. <br> 동일한 OS 간의 데이터 인계인 경우에는 그대로 인계됩니다. <br> 다른 OS 또는 다른 스토어 계정으로 인계할 때에는 미리 MIRACLE 패스를 해지해 주시기 바랍니다. <br> MIRACLE 패스에 중복 가입된 경우, 혜택을 중복해서 받을 수 없습니다."
+Migration_IssueNote2,"데이터 인계를 진행하면, 현재 기기의 게임 데이터가 삭제되고, 인계 원본의 게임 데이터로 덮어씌워집니다. <br>다른 OS 간에 인계를 진행하는 경우, 유료 Loveca는 무료 Loveca로 변환됩니다. <br>동일한 OS 간의 인계인 경우, 그대로 인계됩니다. <br>다른 OS 또는 다른 스토어 계정으로 인계할 때, 미리 MIRACLE 패스를 해지해 주십시오. <br>MIRACLE 패스에 중복/반복 가입된 경우, 혜택을 중복해서 받을 수 없습니다."
+Migration_Process,데이터 이전 상세 정보
+Migration_Setting,데이터 이전 설정
+Migration_SettingsInfo,데이터 이전용 비밀번호를 설정하세요.
+Migration_ID,계정 ID
+Migration_Password,비밀번호
+Migration_PasswordNote,*8자 이상 32자 이하의 영숫자만 사용하세요.
+Migration_DispPassword,입력 중인 비밀번호 표시
+Migration_SettingsButton,설정하기
+Migration_Complete,데이터 인계 설정 완료
+Migration_CompleteInfo,"데이터 인계 준비가 완료되었습니다 <br> 인계할 기기에 앱을 다운로드한 후, 타이틀 화면 오른쪽 상단의 메뉴에서 <br> 「데이터 인계」를 선택하여 인계 ID와 비밀번호를 입력하세요."
+Migration_IDCopy,복사됨
+Migration_CompleteNote,중요한 정보이므로 다른 사람에게 알려주지 마세요<br>메모나 스크린샷을 저장해 두세요<br>비밀번호는 나중에 변경할 수 있습니다.
+Migration_Migration,데이터 이전 실행
+Migration_MigrationInfo,설정한 데이터 이전 방법을 선택하세요.
+Migration_MigrationInfo2,계정 ID와 비밀번호를 입력하세요
+Migration_MigrationInfo3,다음의 데이터 이전 설정을 통해 기기 변경 시 데이터를 이전할 수 있습니다.<br>앱 삭제로 인한 데이터 손실에 대비하여 사용할 수도 있습니다.
+Migration_MigrationNote,"<color=#C12424>다른 OS 간에 데이터 인계를 진행하는 경우, 유료 Loveca는 무료 Loveca로 전환됩니다. <br>동일한 OS 내에서 데이터 인계를 진행하는 경우, 그대로 인계됩니다. <br>다른 OS 또는 다른 스토어 계정으로 인계할 때, 미리 MIRACLE 패스를 해지해 주시기 바랍니다. <br>MIRACLE 패스에 중복/반복 가입된 경우, 혜택을 중복해서 받을 수 없습니다. </color>"
+Migration_MigrationNote2,"데이터 인계를 진행하면, 본 기기의 게임 데이터가 삭제되고, 인계 원본의 게임 데이터로 덮어씌워집니다. <br> <color=#C12424> 다른 OS 간에 인계를 진행하는 경우, 유료 Loveca는 무료 Loveca로 변환됩니다. <br> 동일한 OS에서 인계를 진행하는 경우에는 그대로 인계됩니다. <br> 다른 OS 또는 다른 스토어 계정으로 인계할 때에는 미리 MIRACLE 패스를 해지해 주십시오. <br> MIRACLE 패스에 중복/반복 가입된 경우, 혜택을 중복해서 받을 수 없습니다. </color>"
+Migration_MigrationNoteConfirm,"데이터 인계를 진행하면, 본 기기의 게임 데이터가 삭제되고, 인계 원본의 게임 데이터로 덮어씌워집니다. <br> <color=#C12424> 다른 OS 간에 인계를 진행하는 경우, 유료 Loveca는 무료 Loveca로 변환됩니다. <br> 동일한 OS에서 인계를 진행하는 경우에는 그대로 인계됩니다. <br> 다른 OS 또는 다른 스토어 계정으로 인계할 때에는 미리 MIRACLE 패스를 해지해 주십시오. <br> MIRACLE 패스에 중복/반복 가입된 경우, 혜택을 중복해서 받을 수 없습니다. </color>"
+Migration_MigrationConfirm,데이터 이전 확인
+Migration_MigrationData,계정 데이터
+Migration_MigrationDeleteData,현재 기기 데이터
+Migration_UserID,사용자 ID
+Migration_UserName,사용자 이름
+Migration_Rank,사용자 랭크
+Migration_ChargeMedal,유료 Loveca
+Migration_FreeMedal,무료 Loveca
+Migration_MigrationButton,데이터를 인계합니다
+Migration_MigrationFinalConfirm,최종 확인
+Migration_MigrationFinalConfirmInfo,"데이터 인계를 실행하면, 현재 기기의 게임 데이터가 삭제되고 <br>인계 원본의 게임 데이터로 덮어씌워집니다<size=29><br><br><color=#C12424>다른 OS 간에 인계를 할 경우, 유료 Loveca는 무상 Loveca로 변환됩니다<br>동일 OS 내에서 인계를 할 경우에는 그대로 인계됩니다<br>다른 OS 또는 다른 스토어 계정으로 인계할 때에는 미리 MIRACLE 패스를 해지해 주십시오<br>MIRACLE 패스에 중복/반복 가입한 경우, 혜택을 중복해서 받을 수 없습니다</size></color>"
+Migration_MigrationFinalConfirmNote,<color=#C12424>정말로 계정을 이전하시겠습니까? </color>
+MemberList_DialogTitle,최애 멤버 변경
+MemberList_DialogConfirm,가장 좋아하는 멤버를 변경하시겠습니까?
+MemberList_ChangeButton,네
+MemberList_PhotoBoxButton,대기실
+MemberList_TypeBonus,속성 보너스
+MemberList_MemberBonus,멤버 보너스
+MemberList_TypeAndMemberBonus,속성/멤버 보너스
+MemberList_FilteringButton,필터
+MemberList_SortButton,정렬
+MemberList_ThumbnailSize,썸네일 크기
+MemberList_Change,변경
+MemberList_Small,작게
+MemberList_Big,큼
+MemberList_SizeChangeDialogTitle,썸네일 크기 변경
+MemberList_SizeChangeDialogMessage,원하는 썸네일 크기를 선택하세요.
+Option_ResetToDefaultButton,기본 설정
+Option_LiveScreenPreview,라이브 화면 미리보기
+Option_Live_Title,라이브 설정
+Option_Live_ConfirmBeforeLive,라이브 전 옵션 확인 표시
+Option_Live_RhythmIconSpeed_Title,리듬 아이콘 속도
+Option_Live_RhythmIconSize_Title,리듬 아이콘 크기
+Option_Live_LaneLength,리듬 아이콘 위치
+Option_Live_ComboPosition,콤보 표시 위치
+Option_Live_InputResultPosition,판정 표시 위치
+Option_Live_SkillEffectTextView,스킬 효과 표시
+Option_Live_CenterIcon,중앙 아이콘 크기 조정
+Option_Live_PositonCenter,중앙
+Option_Live_PosiionUpper,상단
+Option_Live_BluetoothConnectionState_Title,블루투스
+Option_Live_BluetoothConnectionState_On,연결 중
+Option_Live_BluetoothConnectionState_Off,연결 안 함
+Option_Live_TapTiming_Title,판정 조정
+Option_Live_TapTiming_Left_Title,화면 왼쪽
+Option_Live_TapTiming_Right_Title,화면 오른쪽
+Option_Live_TapTiming_Center_Title,중앙 아이콘
+Option_Live_TapTiming_Left_Button,왼쪽으로 맞춤
+Option_Live_TapTiming_Right_Button,오른쪽에 맞춤
+Option_Live_TapTiming_Normal_Title,일반 시점
+Option_Live_TapTiming_Bluetooth_Title,블루투스 연결 시
+Option_Live_TapTiming_Button,탭 조정
+Option_Live_TapTiming_TestLive,테스트 Live
+Option_Live_LongPressLineDepth_Title,길게 누르는 라인의 두께
+Option_Live_SameTimePressLine_Title,동시 치기 라인 표시
+Option_Live_SliderSameTimePressLine_Title,스윙 아이콘의 동시 입력 라인 표시
+Option_Live_Skill_Effect_Title,특기 컷인
+Option_Live_TapTiming_Effect_Title,타이밍 표시
+Option_Live_RhythmIconMovePos_Title,리듬 아이콘 감속
+Option_Live_RhythmIconMovePos_Type1,나중에 감속
+Option_Live_RhythmIconMovePos_Type2,처음에 감속
+Option_Live_ComboUITransparent_Type3,일정 속도
+Option_Live_ComboTransparent,콤보 표시 투명도
+Option_Live_ComboSize,콤보 표시 크기
+Option_Live_InputResultTransparent,판정 표시 농도
+Option_Live_InputResultSize,판정 표시 크기
+Option_Live_RhythmIconPos,리듬 아이콘 높이
+Option_Live_RhythmIconStartPos,중앙 아이콘 높이
+Option_Live_FpsSetting,라이브 중 FPS
+Option_Live_Mirror_Title,노트 배치 반전
+Option_Live_LaneEffect_Title,레인 이펙트
+Option_Live_FillsUpLivePosition_Title,멤버 추가
+Option_Live_Bluetooth_Caution,Bluetooth™ 장치 연결은<br>각 기기 설정에 따라 진행하세요
+Option_Live_Movie_Disp,라이브 영상
+Option_Live_Movie_Brightness,라이브 영상 밝기
+Option_Live_Movie_Caution,기본값은 [켜짐]입니다.
+Option_LiveSkin_Title,라이브 아이콘 설정
+Option_LiveSkin_Lane_Title,레인 및 터치 라인
+Option_LiveSkin_LaneBrightness_Title,레인 밝기
+Option_LiveSkin_TapEffect_Title,탭 효과
+Option_LiveSkin_RhythmIcon_Title,노트 디자인
+Option_LiveSkin_SE_Title,탭 음향
+Option_LiveSkin_SE_TapButton,탭음 테스트
+Option_LiveSkin_SE_FlickButton,플릭 음 테스트
+Option_LiveProduction_Title,볼륨 설정
+Option_LiveProduction_Production_Title,라이브 연출
+Option_LiveProduction_ActionMode_Title,동작 모드
+Option_LiveProduction_ActionMode_Regular,표준
+Option_LiveProduction_LiveEffect,라이브 효과
+Option_LiveProduction_ActionMode_Light,경량
+Option_LiveProduction_ActionMode_Full,고품질
+Option_LiveProduction_LiveMonitor,라이브 모니터
+Option_LiveProduction_TapEffectSize,탭 효과 크기
+Option_LiveProduction_MemberCutIn_Title,(더미)
+Option_LiveProduction_ShowSkillEffect_Title,특기 효과 표시
+Option_LiveProduction_PlayClimaxMovie_Title,연출
+Option_LiveProduction_Volume_Title,Live 음량
+Option_LiveProduction_Volume_Music,음악
+Option_LiveProduction_Volume_SE,효과음
+Option_LiveProduction_Volume_Tap,효과음
+Option_LiveProduction_Volume_Voice,음성
+Option_Volume_Title,볼륨 설정
+Option_Volume_LiveSettings,Live 음량 설정
+Option_Volume_MusicVolume,음악 음량
+Option_Volume_SEVolume,효과음량
+Option_Volume_OtherSettings,기타 음량 설정
+Option_Volume_BGMVolume,BGM 음량
+Option_System_Title,시스템 설정
+Option_System_Volume_Title,시스템 음량
+Option_System_Volume_BGM,음악 음량
+Option_System_Volume_SE,효과음량
+Option_System_Volume_Voice,음성
+Option_System_Download_Title,다운로드
+Option_System_Download_Button,미리<br>다운로드
+Option_System_Download_LiveMember,Live 중 멤버 연출
+Option_System_Notification_Title,알림 설정
+Option_System_Notification_Stamina_Full,완전 회복됨
+Option_System_Notification_Midnight,심야 시간 알림
+Option_System_Notification_Detail,기기 설정에 따라 알림이 꺼져 있으면 앱에서 알림을 보내지 않으니 주의하세요.<br>심야 시간대는 (0:00~5:59)입니다.
+Option_System_Alert_Title,알림 설정
+Option_System_Alert_UseTooMuch,이용 금액 알림
+Option_System_Alert_Detail,한 달 이용 금액이 10만 원을 초과할 때 확인 화면이 표시됩니다.
+Option_System_Others_Title,기타 설정
+Option_System_FixScreenDirection,화면 회전 고정
+Option_System_StaminaConfirm,LP 부족 확인
+Option_System_AutoBurstConfirm,스킵 티켓 부족 확인
+Option_System_BatteryConfirm,배터리 경고
+Option_System_BluetoothConfirm,블루투스 연결 확인
+Option_System_HomeSceneMoviePlay,홈 화면 동영상 재생
+Option_System_IgnoreGachaUrEffect,UR 연출만 건너뛰지 않기
+Option_System_Live2D_Character_Title,표시 멤버
+Option_System_Live2D_Character_UseRecommend,가장 좋아하는 멤버
+Option_System_Live2D_Character_UseDeck,그룹 멤버
+Option_System_Live2D_Character_Detail,※표시 멤버는 화면 전환 시 업데이트됩니다
+Option_System_FpsToggle,FPS
+PresentBox_Scroll_AcquiredDateTimeLabel,획득 일시
+PresentBox_Scroll_ReceivedDateTimeLabel,수령일시
+PresentBox_Scroll_ExpireDateTimeLabel,수령 기한
+PresentBox_Tab_Receivable,미수령
+PresentBox_Tab_Received,수령 기록
+PresentBox_Title,선물
+PresentBox_MainTitle,선물 목록
+PresentBox_SubTitle,선물
+PresentBox_Receive,받기
+PresentBox_AllReceive,일괄 수령
+PresentBox_EmptyReceivable,표시할 선물이 없습니다
+PresentBox_EmptyReceived,표시할 선물이 없습니다
+PrivateEnter_Title,라이브 검색
+PrivateEnter_ConfirmTitle,Live 참여 확인
+PrivateEnter_Message,6자리 Live ID를 입력하세요.
+PrivateEnter_RoomID,라이브 ID
+PrivateEnter_EnterButton,참가
+PrivateEnter_SearchButton,검색
+PrivateEnter_ConfirmRoom,협동 라이브 {0}
+PrivateEnter_ConfirmEventRoom,이벤트 (더미) Live
+PrivateEnter_ConfirmRoomID,룸 ID {0}
+PrivateEnter_ConfirmJoinMessage,Live ID가 일치하는 Live를 찾았습니다.<br>Live에 참가하시겠습니까?
+PrivateEnter_ConfirmJoinNotConditionMessage,이 Live의 참가 조건을 충족하지 못했습니다 <br> <br> Live 참가 조건 <br> {0}
+PrivateEnter_ConfirmJoinNotTotalPowerMessage,총합력이 부족하여 참가할 수 없습니다.
+PrivateEnter_ConfirmUserName,사용자 이름
+PrivateCreate_Title,라이브 생성
+PrivateCreate_RoomCompleteTitle,라이브 생성 완료
+PrivateCreate_Message,최대 {0}자까지 입력하세요!
+PrivateCreate_RoomTypeTitle,라이브 보상
+PrivateCreate_RoomTypeNormal,일반
+PrivateCreate_RoomTypeSpecial,요일
+PrivateCreate_RoomConditionTitle,라이브 이름
+PrivateCreate_RoomConditionFree,자유 입장
+PrivateCreate_RoomConditionBasic,기본 패스
+PrivateCreate_RoomConditionElite,엘리트 패스
+PrivateCreate_RoomConditionMaster,마스터 패스
+PrivateCreate_RoomIDTitle,라이브 ID
+PrivateCreate_CommentTitle,간단한 코멘트
+PrivateCreate_CommentInput,10자 이내로 입력하세요
+PrivateCreate_IDCopyButton,ID 복사
+PrivateCreate_CreateButton,만들기
+PrivateCreate_EnterButton,참가
+PrivateCreate_RoomIdCopy,Live ID를 복사했습니다
+PrivateCreate_ConfirmMessage,Live를 만들었습니다.<br>Live에 참여하시겠습니까?
+FriendInviteReceive_Title,친구 초대
+FriendInviteReceive_Check,친구 초대 확인 중...
+FriendInviteReceive_NotMessage,현재 협동 라이브 친구 초대가 없습니다.<br>프라이빗 라이브를 생성하여 친구를 초대할 수 있습니다.
+FriendInviteSend_Title,친구 초대
+FriendInviteReceive_SubTitle,친구로부터 협동 Live 초대 메시지를 받았습니다.<br>참가하고 싶은 Live를 선택하세요.
+FriendInviteSend_Message,모든 친구에게 초대 메시지를 보내시겠습니까?
+FriendInviteSend_CheckMessage,좋아하는 친구에게만 보내기
+DeckTop_DeckEditTag,유닛<br>편성
+DeckTop_CostumeTag,의상 변경
+DeckTop_PracticeTag,레슨
+DeckTop_SkillPracticeTag,스킬<br>연습
+DeckTop_TrainingTag,각성
+DeckTop_MemberListTag,부원<br>목록
+DeckTop_ExchangeTag,교환소
+DeckTop_CharacterIllustrateTag,멤버 도감
+DeckCharaSelect_LeaderChangeButton,리더 설정
+DeckCharaSelect_ParamNothing,---
+DeckCharaSelect_SubDeckNoSkill,서브 유닛 부원은 스킬이 발동되지 않습니다
+SortDialog_Title,부원 정렬
+SortDialog_FilteringTitle,필터
+SortDialog_SortTitle,정렬
+SortDialog_DefaultButton,전체 해제
+SortDialog_AllSelectButton,전체 선택
+SortDialog_AllReleaseButton,전체 해제
+SortDialog_LiveSkillWord,특기
+SortDialog_LiveSkillScoreUp,스코어 업
+SortDialog_LiveSkillConditionalScoreUp,조건부<br>스코어 증가
+SortDialog_LiveSkillScoreUpAndLifeHeal,스코어 업 및<br>체력 회복
+SortDialog_LiveSkillScoreUpAndResultUp,스코어 업과 함께<br>판정 강화
+SortDialog_LiveSkillPowerHeal,체력 회복
+SortDialog_LiveSkillEnhance,판정 강화
+SortDialog_LiveSkillOther,기타
+SortDialog_LiveSkillConditionalOnlyScoreUp,특정 조건만<br>스코어 증가
+SortDialog_LiveSkillEnergyConditionalLifeHealScoreUp,체력 조건<br>스코어 증가 또는 회복
+SortDialog_FilterGroup,그룹
+SortDialog_FilterType,속성
+SortDialog_FilterAwakening,각성
+SortDialog_AwakeningAll,전체
+SortDialog_Awakened,각성 완료
+SortDialog_Unawakened,각성 전
+SortDialog_PassiveSkillWord,패시브 스킬
+SortDialog_PassiveSkillEffectWord,효과 대상
+SortDialog_PassiveSkillEffectPart,악기 포지션
+SortDialog_PassiveSkillEffectPartRole,포지션 담당
+SortDialog_PassiveSkillEffectPartAndPartRole,둘 다
+SortDialog_PassiveSkillPartWord,◆효과 대상 악기 파트◆
+SortDialog_PassiveSkillSuitWord,◆효과 대상 부원 속성◆
+SortDialog_PassiveSkillMatchBothWord,◆복합 조건◆
+SortDialog_PassiveSkillSubPartWord,◆기타◆
+SortDialog_PassiveSkillSubPartWordPowerUp,초기 체력 증가
+SortDialog_EpisodeReadAll,전체
+SortDialog_EpisodeReadNotEpisode,스토리 미읽음
+SortDialog_EpisodeReadNotSpecialEpisode,스페셜<br>미읽음
+SortDialog_SortAllStatus,종합력
+SortDialog_SortSoul,Smile
+SortDialog_SortTechnic,Pure
+SortDialog_SortAppeal,쿨
+SortDialog_SortUnlock,획득 순서
+SortDialog_SortRarity,희귀도
+SortDialog_SortLevel,레벨
+SortDialog_SortSkillLevel,특기 레벨
+SortDialog_SortSkill,특기 순
+SortDialog_SortMember,멤버
+SortDialog_SortFavorite,좋아하는 항목
+SortDialog_SortHp,HP
+SortDialog_Kizuna,친밀도
+SortDialog_EventPtBonus,이벤트 Pt 보너스
+SortDialog_TypeAll,전체 대상
+SortDialog_PassiveSkillMatchBothAnd,악기 파트와 속성이 모두 일치할 때 효과 발생
+SortDialog_PassiveSkillMatchBothOr,악기 파트 또는 속성 중 하나가 일치할 때 효과 발생
+CostumeSelectPortrait_Top,화면을 탭하면<br>전체 화면 모드가 해제됩니다
+CostumeSelectPortrait_Selected,선택 중
+LocalNotification_Title,스크페스2
+LocalNotification_Ticker,LP가 완전히 회복되었습니다
+LocalNotification_Message,LP가 완전히 회복되었습니다
+LocalNotification_Description,알림
+LiveDownload_State_Downloading,다운로드 중...
+LiveDownload_State_Complete,준비 완료!
+LiveScene_Dialog_ContinueTitle,Live 재개
+LiveScene_Dialog_ContinueMessage,<color=#C12424> {0}개를 소비하여 HP를 완전히 회복하고 라이브를 재개하시겠습니까? </color>
+LiveScene_Dialog_ContinueGemShortageTitle,Loveca 부족
+LiveScene_Dialog_ContinueGemShortageMessage,Loveca가 부족하여 <br>Live를 재개할 수 없습니다.
+LiveScene_Dialog_FailureTitle,라이브 실패
+LiveScene_Dialog_FailureMessage,"HP가 모두 소진되었습니다 <br> <br> Loveca를 <color=#C12424> {0}개 </color> 소비하면, <br> HP를 완전히 회복하여 다시 시작할 수 있습니다."
+LiveScene_Dialog_FailureMessage_EventSpirit,"HP가 모두 소진되었습니다 <br> <br> Loveca를 <color=#C12424> {0}개 </color> 소비하면, <br> HP를 완전히 회복하여 다시 시작할 수 있습니다."
+LiveScene_Dialog_PauseTitle,일시 정지
+LiveScene_Dialog_PauseMessage,"라이브를 종료하고 곡 선택으로 돌아갈까요? <br> <br> <color=#C12424> ※종료할 경우, LP는 소비되지 않습니다. </color>"
+LiveScene_Dialog_PauseMessage_EventChallenge,"Live를 종료하고 곡 선택으로 돌아갈까요? <br> <br> <color=#C12424> ※종료할 경우, 미라클 스타는 소비되지 않습니다 </color>"
+LiveScene_Dialog_RetireConfirmTitle,Live 종료
+LiveScene_Dialog_RetireConfirmMessage,"Live를 종료하면 보상을 획득할 수 없습니다. <br> Live로 돌아가서 플레이를 계속하시겠습니까? <br> <br> <color=#C12424> ※ 종료하는 경우, LP는 소비되지 않습니다. </color>"
+LiveScene_Dialog_RetireConfirmMessage_EventChallenge,"Live를 종료하면 보상을 획득할 수 없습니다. <br> Live로 돌아가서 플레이를 계속하시겠습니까? <br> <br> <color=#C12424> ※ 종료하는 경우, 미라클 스타는 소비되지 않습니다. </color>"
+LiveScene_Dialog_SuspendButton,Live 종료
+LiveScene_Dialog_CancelButton,일시 중지
+LiveScene_Dialog_ReheasalRetryConfirmMessage,라이브를 종료하고 처음부터 다시 시작하시겠습니까?
+LiveScene_Dialog_ReheasalRetireConfirmMessage,라이브를 종료하고 곡 선택으로 돌아갈까요?
+LiveScene_MultiWaitOtherPlayerLoading,멤버 준비 중…
+LiveScene_MultiWaitOtherPlayerPlaying,멤버 Live 중…
+LiveScene_MultiUserIntroduction_Vs,이 플레이어와 Live
+LiveScene_MultiUserIntroduction_EventHomework,이 플레이어와 Live
+LiveScene_SkillBoard_Trigger,특기 발동
+LiveScene_VoltageGaugeLv1,(더미) 레벨 1
+LiveScene_VoltageGaugeLv2,(더미) 레벨 2
+LiveScene_VoltageGaugeLv3,(더미) 레벨 3
+LiveScene_VoltageGaugeLv4,(더미) 레벨 4
+LiveScene_VoltageGaugeLvMax_ClimaxReady,클라이맥스 준비 중
+LiveScene_VoltageGaugeLvMax_ClimaxPlaying,클라이맥스 발동 중!!
+LiveScene_VoltageGaugeLvMax_ClimaxEnd,클라이맥스 종료
+LiveScene_VoltageGaugeLvMax_ClimaxPerfect,클라이맥스 퍼펙트！！
+LiveScene_AutoPlayComment,자동 플레이이므로 하이스코어가 적용됩니다.
+LiveScene_Dialog_RestartConfirmTitle,처음부터 다시 시작
+LiveScene_Dialog_RestartConfirmMessage,"Live를 종료하고 처음부터 다시 시작하시겠습니까? <br> <br> <color=#C12424> ※종료할 경우, LP는 소비되지 않습니다. </color>"
+LiveScene_Dialog_RestartConfirmMessage_EventSpirit,"라이브를 종료하고 처음부터 다시 시작하시겠습니까? <br> <br> <color=#C12424> ※종료할 경우, 미라클 스타는 소비되지 않습니다. </color> <br> <br>"
+LiveScene_Dialog_ContinueSpiritShortageTitle,미라클 스타 부족
+LiveScene_Dialog_ContinueSpiritShortageMessage,미라클 스타가 부족합니다 <br> <br> 미라클 스타는 일반 곡을 플레이하여 <br> 획득할 수 있습니다 <br> <br>
+CooperationLive_RoomRestriction,라이브 제한
+CooperationLive_NormalRoom,일반
+CooperationLive_SpecialRoom,요일
+CooperationLive_EventRoom,이벤트
+Notice_DialogTitle,곡 추가!
+Notice_DialogSchool,(더미)
+Notice_DialogWordsDefault,작사:
+Notice_DialogCompositionDefault,작곡:
+Notice_DialogArrangerDefault,편곡：
+MusicDetail_DialogTitle,곡 상세 정보
+MusicDetail_RecievedLabel,획득 완료
+MusicDetail_RemainLabel,남은 횟수: {0}회
+MusicDetail_FirstLabel,첫 보상
+MusicDetail_ClearReward,확정 클리어 보상
+MusicDetail_RandomReward,랜덤 클리어 보상
+MusicDetail_DetailTab,곡 정보
+MusicDetail_RewardTab,달성 보상
+MusicDetail_Reference,출처: {0}
+MusicSelect_HighScore,최고 점수
+MusicSelect_MyRankingHighScore,당신의<br>
+MusicSelect_ClearRamp,클리어 현황
+MusicSelect_TeacherPoint,최고 점수 달성률
+MusicSelect_TeacherPointSum,총 하이스코어 레이트
+MusicSelect_CategoryButton,장르
+MusicSelect_SortButton,필터
+MusicSelect_ClearBonusButton,달성 보상
+MusicSelect_RandomButton,자동 추천
+MusicSelect_SortApplyDataBar,적용 중
+MusicSelect_ObtainTypeShopMessage,음악 상점에서 구매
+MusicSelect_ObtainTypeShopButton,음악 상점
+MusicSelect_ObtainTypeMissionMessage,미션 <br> 「{0}」 <br> 달성하기
+MusicSelect_ObtainTypeMissionButton,미션으로
+MusicSelect_ObtainTypeStoryMessage,메인 스토리 <br> 「{0}」 <br> 감상 보상
+MusicSelect_ObtainTypeStoryButton,스토리로
+MusicSelect_ObtainTypePlayerRankMessage,랭크를 {0}로 설정
+MusicSelect_ObtainTypeNoneMessage,해방 조건이 설정되지 않았습니다
+MusicSelect_ObtainTypeNoneButton,미정의
+MusicSelect_UnlockTitle,해방 조건
+MusicSelect_SortDialogTitle,정렬
+MusicSelect_RefineDialogTitle,필터
+MusicSelect_FilterCategoryTitle,장르
+MusicSelect_FilterOtherTitle,기타
+MusicSelect_SortTitle,정렬 기준
+MusicSelect_FilterCategoryAll,전체 선택
+MusicSelect_FilterCategoryCharacterSong,(더미)
+MusicSelect_FilterCategoryCoupling,(더미)
+MusicSelect_FilterCategorySongWithinPlay,(더미)
+MusicSelect_FilterCategoryOther,기타
+MusicSelect_FilteRefineNone,지정 없음
+MusicSelect_FilterRefineFavorite,좋아하는 항목
+MusicSelect_FilterRefineNotClear,미클리어
+MusicSelect_FilterRefineNotScoreSS,SS 등급 아님
+MusicSelect_FilterRefineNotFullCombo,미풀콤보
+MusicSelect_FilterRefineNotAllPerfect,미올 퍼펙트
+MusicSelect_SortDefault,기본값
+MusicSelect_SortMusicName,곡 이름순
+MusicSelect_SortReleaseTime,출시일 순
+MusicSelect_SortMusicLevel,레벨순
+MusicSelect_SortHighScore,최고 점수 순
+MusicSelect_Ranking,랭킹
+MusicSelect_AllTab,전체
+MusicSelect_NoClearRate,--.--%
+MusicRanking_Score,점수
+MusicRanking_Rank,순위
+MusicRecommend_RecommendList,추천 목록
+MusicRecommend_RecommendListCancel,추천 목록 해제
+MusicRecommend_UseThisList,이 목록 사용
+MusicFilterAutoSort_DialogTitle,자동 선곡
+MusicFilterAutoSort_Random,랜덤
+MusicFilterAutoSort_NonPlay,아직 플레이하지 않은 곡
+MusicFilterAutoSort_RecentPlay,최근 재생 목록
+MusicFilterAutoSort_RecentRelease,최근에 추가된 곡
+MusicGoal_DialogTitle,음악 목표
+MusicGoal_ScoreLabel,점수 |
+MusicGoal_HighScore,최고 점수
+MusicGoal_ComboLabel,콤보 |
+MusicGoal_Combo,콤보
+MusicGoal_MaxCombo,최대 COMBO
+MusicGoal_FullComboLabel,풀콤보 |
+MusicGoal_ClearLabel,클리어 |
+MusicGoal_ClearCount,클리어 횟수
+MusicGoal_Count,회
+MusicGoal_Achievement,달성
+MusicGoal_AchievementRate,전체 플레이어 중<br>클리어율
+MusicGoal_HighOrder,상위
+MusicGoal_UnPlayed,미플레이
+CooperationLive_TotalPower,메인 유닛의 총합력:
+CooperationLive_NormaType,일반
+CooperationLive_SpecialType,요일
+CooperationLive_StampSettingButton,스탬프 설정
+CooperationLive_PrivateButton,비공개
+CooperationLive_FriendsInviteButton,친구 초대
+CooperationLive_DeckEditButton,유닛 편성
+CooperationLive_MatchingDialogTitle,매칭 중
+CooperationLive_MatchingDialogMessage,라이브를 검색 중입니다
+CooperationLive_CreateRoomDialogTitle,라이브 생성 중
+CooperationLive_CreateRoomDialogMessage,라이브를 생성 중입니다
+CooperationLive_MatchingDialogAnnotation,혼잡 시 시간이 걸릴 수 있습니다.
+CooperationLive_PrivateSelectDialogTitle,프라이빗 라이브
+CooperationLive_PrivateSelectDialogEnterMessage,라이브 ID를 입력하여<br>입실합니다
+CooperationLive_PrivateSelectDialogEnterButton,입실
+CooperationLive_PrivateSelectDialogCreateMessage,조건을 지정하여<br>라이브를 만듭니다
+CooperationLive_PrivateSelectDialogCreateButton,만들기
+CooperationLive_RoomTypeRewardInfo,{0} 올리기!
+CooperationLive_RoomTypeRewardWeekMonday,월요일 한정
+CooperationLive_RoomTypeRewardWeekTuesday,화요일 한정
+CooperationLive_RoomTypeRewardWeekWednesday,수요일 한정
+CooperationLive_RoomTypeRewardWeekThursday,목요일 한정
+CooperationLive_RoomTypeRewardWeekFriday,금요일 한정
+CooperationLive_RoomTypeRewardWeekSaturday,토요일 한정
+CooperationLive_RoomTypeRewardWeekSunday,일요일 한정
+FriendInviteItem_RoomCreater,사용자 이름
+FriendInviteItem_RoomType,라이브 속성
+FriendInviteItem_RoomCondition,라이브 제한
+FriendInviteItem_RoomComment,간단한 코멘트
+FriendInviteItem_RoomName,라이브 이름
+FriendInviteItem_RoomReward,라이브 보상
+FriendInviteItem_RoomSessionID,라이브 ID
+FriendInviteItem_JoinButton,입실
+LiveMatching_PrivateRoomTitle,ID：
+LiveMatching_RoomConditionTitle,라이브 이름:
+LiveMatching_RoomTypeInfoTitle,라이브 보상:
+LiveMatching_PlayerTitle,{0}P
+LiveMatching_Support,지원
+LiveMatching_WaitMessage,매칭 중... 멤버가 모일 때까지 기다려주세요
+LiveMatching_WaitMessageInfo,2명 이상으로 Live를 시작할 수 있습니다.
+LiveMatching_RoomTypeNormal,일반
+LiveMatching_RoomTypeEvent,요일
+LiveMatching_MatchedMessage,멤버 결정! 곡 선택으로 넘어갑니다
+LiveMatching_RoomOpenButton,라이브 시작
+LiveMatching_InviteFriendButton,친구 초대
+LiveMatching_DecideButton,멤버 확정
+MatchingPlayer_Wait,모집 중...
+LoginBonus_HoldingPeriod,이벤트 기간:
+LoginBouns_Season,{0} ~ {1} {2} {3}
+LoginBouns_Days,{0}일째
+LoginBouns_EventBonusValue,+{0}
+MultiConfirm_LevelLabel,음악 레벨
+MultiConfirm_OptionButton,다양한 설정
+MultiConfirm_HealthyBoostButton,LP 설정
+MultiConfirm_StartButton,준비 완료
+MultiConfirm_Waiting,대기 중
+CooperationLiveInfo_Title,라이브 보상
+CooperationLiveInfo_Message1,"요일별 라이브에서는 요일마다 정해진 보상을 <br>획득하기 쉬워집니다<br> ※ ""보통"" 라이브에서는 일반적인 보상이 지급됩니다."
+CooperationLiveInfo_Message2,월 {0} <br> 화 {1} <br> 수 {2} <br> 목 {3} <br> 금 {4} <br> 토 {5} <br> 일 {6}
+CooperationLiveInfo_Message3,보상 증가 대상 아이템을 제외하고는<br>획득량을 조정했습니다
+CooperationLiveInfo_dailyEffect,{0} 확률 증가!
+Stamp_FavoriteTitle,좋아하는 항목
+Stamp_RemoveButton,제거
+Stamp_ResetButton,초기화
+Profile_RankFriend,친구 최대 수 {0} → {1}
+Profile_RankReward,{0} {1}개
+GachaTop_PickUpPhotoDetailTitle,부원 상세
+GachaTop_PhotoDetailTitle,부원 상세
+Ornament_OrnamentListTitle,아이템 목록
+OrnamentShop_OrnamentReplaceTitle,장착 중인 아이템을 교체하시겠습니까?
+GachaTop_PickUpPhotoDetailButton,부원 상세
+GachaTop_InfoDetailButton,스카우트 상세 정보
+GachaTop_ExchangeButton,교환소
+Notice_GroupExpNoticeWindowTitle,그룹 랭크
+Button_Download,다운로드
+Mission_AcceptAllButtonText,일괄 수령
+MusicDecision_MusicLevelArea,{0} ~ {1}
+MusicDecision_RandomMusicTitle,자동 추천
+MusicDecision_RandomMusicLevel,？？
+MusicDecision_LiveLevelReselectButton,재선택
+MusicDecision_ShuffleMessage,곡을 추첨합니다
+MusicDecision_DifficultySelectMessage,플레이할 난이도를 선택하세요
+EventTop_ScoreRanking,전체 스코어 랭킹
+EventTop_GroupScoreRanking,조별 점수 랭킹
+EventTop_Season,{0}까지
+EventTop_UntilRewardPoint,{0}pt 남음
+EventTop_NextEventPoint,남은
+EventTop_NextEventHomeworkPoint,다음
+EventTop_TotalEventPoint,누적 이벤트 포인트
+EventTop_HasHomeworkPoint,협력 미션 달성 횟수:
+EventTop_HasStamina,소지 중
+EventTop_HasBadge,소지 중 픽업
+EventTop_HasMedal,소지 Loveca：
+EventTop_HasTicket,소지 가라가라 티켓：
+EventTop_NextStory,★다음 스토리
+EventTop_NextReward,★다음 보상
+EventTop_NowHomework,★현재 과제
+EventTop_AllGetReward,모두 획득 완료
+EventTop_AllGetStory,모두 해금 완료
+EventTop_ExchangeButton,교환소
+EventTop_BingoButton,빙고
+EventTop_BoxGachaButton,스카우트(박스)
+EventTop_ChangeHomeworkButton,과제 변경
+EventTop_HomeworkMusicLevel,곡 난이도
+EventTop_HomeworkMusicLevelValue,이하
+EventTop_CloseExchangeShopTerm,교환소는 {0}까지
+EventTop_CloseBoxGachaTerm,(예시)는 {0}까지
+EventTop_StoryButtonNextPoint,남은 P
+EventTop_StoryButtonNextPointHomework,다음
+EventTop_TermTitle,이벤트 기간:
+EventTop_ResultTermTitle,결과 발표 기간:
+EventTop_EmotionalMemberSelectTermTitle,【멤버 선택 기간】
+EventTop_EmotionalBandSelectTermTitle,그룹 선택 기간
+EventTop_Multi_HelpterBonus,도움 보상
+EventTop_Multi_TodayHelpterCount,오늘 도움 횟수
+EventTop_Multi_AlreadyPlayedHelper,오늘 도움 횟수 완료
+EventTop_Multi_UnitSettings,이벤트 전용<br>편성
+EventTop_Multi_Live,모두와 함께 Live!
+EventTop_Multi_LiveEx,모두와 함께 Live!
+EventTop_Multi_FreeMatching,자유 매칭
+EventTop_Multi_FreeMatching_Info,다른 플레이어와 함께 즐겁게 플레이!
+EventTop_Multi_PrivateMatching,비공개 매칭
+EventTop_Multi_PrivateMatching_Info,친구를 초대하여 함께 플레이하세요!
+EventTop_Multi_Join,참가
+EventTop_Multi_HelperJoin,도움 요청 참여
+EventTop_Multi_HelperCondition,"난이도 {0} 이상을 클리어하고, {1} 포인트를 얻어 {2} 포인트가 넘으면 도움으로 참여할 수 있습니다."
+EventTop_Multi_Room,룸에
+EventTop_Multi_Room2,룸에
+EventTop_Multi_RoomCreate,만들기
+EventTop_Multi_RoomJoin,참가
+EventTop_Multi_HelperToday,오늘
+EventTop_Multi_HelperCount,{0} / {1}
+EventTop_Multi_MatchingTitle,난이도 선택
+EventTop_Multi_MatchingTitleHelper,도움 멤버 참여
+EventTop_Multi_RoomCreateDialog_Info,난이도를 선택하세요
+EventTop_Multi_RoomCreateDialog_Info2,"여러 난이도를 선택할 수 있습니다.<br> 여러 난이도를 선택한 경우, 선택한 난이도 중에서 무작위로 매칭됩니다."
+EventTop_Multi_RoomCreateDialog_Info3,난이도를 하나 선택하세요
+EventTop_Multi_RoomCreateDialog_Info4,선택한 난이도로 Live를 플레이할 수 있습니다
+EventTop_Multi_RoomCreateDialog_Error,난이도를 선택하지 않았습니다.
+EventTop_Multi_RoomCreateDialog_Start,매칭 시작
+EventTop_Multi_RoomSearchDialog_Info,룸 ID를 입력하세요
+EventTop_Multi_RoomSearch_NotFindRoom,"입력한 ID가 잘못되었거나, 방이 가득 찼습니다."
+EventTop_Multi_PenaltyInfo,연결 끊김 또는 부정 행위가 연속으로 감지되었으므로 본 이벤트에서 Live 플레이를 일시적으로 제한합니다.<br>
+EventTop_Multi_RemainPenalty,제한 해제까지
+EventTop_Multi_Confirmation,확인
+EventTop_Multi_NotEnoughPower,능력치가 도움에 필요한 값을 초과하지 않았습니다
+EventLive__Multi_PointPenalty,획득 이벤트 포인트 반감
+EventLive__Multi_NotSelectedLevel,난이도를 선택하지 않았습니다.
+EventLive__Multi_Matching,매칭 중({0}/{1})
+EventLive__Multi_JoiningRoom,룸 참가 중
+EventLive__Multi_FailedToJoinRoom,룸 참가에 실패했습니다.
+EventLive__Multi_NotFoundRoom,"입력한 ID가 잘못되었거나, 방이 가득 찼습니다."
+EventLive__Multi_CreatingRoom,룸 생성 중
+EventLive__Multi_FailedToCreateRoom,룸 생성에 실패했습니다. 잠시 후 다시 시도해 주세요.
+EventLive__Multi_NotFoundHelperRoom,도움을 요청하여 참여할 수 있는 방이 없습니다.
+EventLive__Multi_ConnectingToMatchingServer,매칭 서버 연결 중
+EventResult_Multi_Helper,도움 요청
+EventResult_Multi_Disconnected,연결이 끊어졌습니다.
+EventResult_Multi_ConfirmingResult,Live 결과 확인 중
+EventResult_Multi_LeaveRoom,나가기...
+EventResult_Multi_Retry,다시 플레이
+EventMusicSelect_HighScore,이벤트<br>최고 점수
+EventMusicSelect_ScoreRanking,스코어 랭킹
+EventMusicSelect_StaminaUseDialogTitle,미라클 스타 사용 확인
+EventMusicSelect_StaminaUseDialogMessage,미라클 스타 {0}개를 사용하여 라이브를 시작하시겠습니까? <br> ※LP는 소비되지 않습니다.
+EventMusicSelect_StaminaUseDialogHasStamina,미라클 스타 {0}개
+EventMusicSelect_StaminaConfirmCheck,이벤트 종료 시까지 미라클 스타 사용 확인을 비활성화합니다.
+EventStory_NextEventPoint,이벤트 포인트
+EventStory_NextEventHomework,누적 과제 달성 수
+EventStory_ReleaseInfoEventPoint,Live에서 이벤트 포인트를 모으세요!
+EventStory_ReleaseInfoEventHomework,이벤트를 플레이하여 과제를 클리어하자!
+EventStory_EndReleaseStory,이벤트는 종료되었습니다 <br> 이 시나리오는 {0}에 해제될 예정입니다.
+EventRanking_TabScoreRanking,곡 점수 랭킹
+EventRanking_TabGroupScoreRanking,조별 점수 랭킹
+EventRanking_TabPointRanking,이벤트 포인트 랭킹
+EventRanking_TabEmotionalRanking,랭킹 TOP 100
+EventRanking_TotalScore,합계 점수
+EventRanking_ScoreRanking,총점수 랭킹
+EventRanking_ChangeButton,변경
+EventRanking_InfoMessage,{0}까지 플레이한 결과가 반영됩니다
+EventRanking_TopRanking,상위권
+EventRanking_YourRanking,당신
+EventRanking_ScoreRankingTitle,곡 점수
+EventRanking_PointRankingTitle,누적 이벤트 포인트
+EventRanking_EmotionalRankingBandSelectTitle,그룹 선택
+EventRanking_EmotionalRankingMemberSelectTitle,멤버 선택
+EventRanking_LookEmotionalRankingOtherBands,다른 그룹 보기
+EventRanking_LookEmotionalRankingOtherMembers,다른 멤버 보기
+EventReward_TotalEventPointReward,누적 이벤트 포인트 보상
+EventReward_ScoreRankingReward,전체 스코어 랭킹
+EventReward_GroupScoreRankingReward,조별 점수 랭킹
+EventReward_MusicScoreRankingReward,이벤트 곡 점수<br>랭킹
+EventReward_EventPointRankingReward,이벤트 pt<br>랭킹
+EventReward_EmotionalRankingReward,최애<br>랭킹
+EventReward_TotalEventPoint,누적 이벤트 포인트
+EventReward_YourRank,당신의 순위
+EventReward_RankingButton,랭킹 보기
+EventReward_EmotionalRankingJoinText,{0} 참여 중
+EventReward_RankingFromTo,{0}위부터 {1}위까지
+EventReward_RankingFromToEnd,{0}위~
+EventReward_RankingInfoMessage,랭킹 보상은 이벤트 종료 후 지급됩니다.
+EventReward_BingoReward,빙고
+EventReward_BingoSheetLineReward,[시트 {0}] {1} 라인 달성 보상
+EventReward_BingoSheetCompleteReward,[시트{0}] 완료 보상
+EventReward_BingoAllSheetCompleteReward,전 시트 완료 보상
+EventReward_RankingRewardDialogTitle,보상 목록
+EventReward_EventPointInfo,*누적 이벤트 포인트에는 상한이 있습니다.<br>*상한은 보상과 함께 추가될 수 있습니다.
+EventResult_BaseEventPoint,기본 이벤트 포인트
+EventResult_ScoreBonus,점수 보너스
+EventResult_EventBonus,이벤트 보너스
+EventResult_ClearBonus,클리어 보너스
+EventResult_GetEventPoint,이벤트 포인트 획득
+EventResult_GetStamina,획득 이벤트 아이템
+EventResult_GetBadge,획득(더미)
+EventResult_GetMedal,획득 Loveca
+EventResult_TotalEventPoint,누적 이벤트 포인트
+EventResult_TotalStamina,누적 이벤트 아이템
+EventResult_TotalBadge,누적 (더미)
+EventResult_TotalMedal,累計 Loveca
+EventResult_NextStory,다음 스토리
+EventResult_NextReward,다음 보상
+EventResult_CompleteReward,모든 보상을 획득했습니다
+EventResult_EventStaminaBoostValue,{0}배
+EventResult_MemberBonus,이벤트 대상 부원
+EventResult_MemberBonusInfoMessage,멤버 보너스
+EventResult_StaminaInfoMessage,주의 문구 캔디
+EventResult_NextPoint,다음
+EventResult_RewardDialogTitleClearCell,빙고 클리어 보상
+EventResult_RewardDialogTitleBingo,빙고 보상
+EventResult_RewardDialogSheetClear,시트 클리어 보상
+EventResult_RewardDialogAllSheetComplete,완료 보상
+EventResult_RewardDialogInfoClearCell,BINGO 칸 클리어 보상입니다
+EventResult_RewardDialogInfoBingo,빙고 보상입니다
+EventResult_RewardDialogInfoSheetClear,시트 클리어 보상입니다
+EventResult_RewardDialogInfoAllSheetComplete,완료 보상입니다
+EventResult_BaseTicket,스카우트 티켓 수량
+EventResult_GetTicket,획득 스카우트 티켓
+EventResult_TotalTicket,누적 스카우트 티켓
+EventResult_ClearHomweork,이번 과제 달성 수
+EventResult_TotalHomework,누적 과제 달성 수
+EventResult_NextHomeworkPoint,과제 달성
+EventResult_ReStartConfirmTitle,다시 플레이
+EventResult_ReStartConfirmSpiritMessage,미라클 스타 {0}을 소비하고 <br> 다시 한 번 라이브를 플레이하시겠습니까?
+EventResult_ReStartConfirmSpiritAutoMessage,미라클 스타 {0}와 오토 티켓 {1}을 소비하여 <br> 다시 라이브를 플레이하시겠습니까?
+EventResult_ReStartConfirmAutoMessage,오토 티켓 {0}을 소비하고 <br> 다시 라이브를 플레이하시겠습니까?
+EventBingoSheet_Title,빙고 시트({0}/{1})
+EventBingoSheet_TotalOpend,달성 개수
+EventBingoSheet_TotalOpendValue,<color=#d73c55> {0}/{1} </color>
+EventBingoSheet_TotalSheet,시트
+EventBingoSheet_TotalSheetValue,<color=#d73c55> {0}/{1} </color>
+EventBingoSheet_TotalSheetValueCurrent,<color=#d73c55> {0}/{1} </color>
+EventBingoSheet_BingoClearScore,점수 <color=#d73c55> {0} </color> 이상으로 {1} 회 클리어
+EventBingoSheet_BingoClearLife,POWER <color=#d73c55> {0} </color> 이상으로 {1} 회 클리어
+EventBingoSheet_BingoClearJudge,GREAT 이하를 <color=#d73c55> {0} </color> 이내로 {1} 회 클리어
+EventBingoSheet_BingoClearCombo,최대 콤보 <color=#d73c55> {0} </color> 이상으로 {1} 회 클리어
+EventBingoSheet_BingoClearFullCombo,MAX COMBO를 {0}회 달성하여 클리어
+EventBingoSheet_BingoClearMultiScoreRank,모두 함께 <color=#d73c55> {0} </color> 랭크 이상으로 {1} 회 클리어
+EventBingoSheet_BingoClearDeckCharacter,<color=#d73c55>{0}</color>를 편성하여 {1}회 클리어
+EventBingoSheet_BingoClearDeckType,<color=#d73c55> {0} </color> 속성을 {1}명 이상 편성하여 {2}회 클리어
+EventBingoSheet_BingoClearMusicName,곡명: {0}
+EventBingoSheet_BingoClearEventMusicName,곡명: 랭킹 Live {0}
+EventBingoSheet_BingoClearMusicLevel,레벨: {0}
+EventBingoSheet_BingoClearMusicLevelValue,{0} 이상
+EventBingoSheet_BingoRewardButton,보상
+EventBingoSheet_BingoRewardDialogTitle,보상 목록
+EventBingoSheet_BingoSheetCompleteRewardNumber,{0}번째
+EventMemberBonus_TipsTitle,이벤트 보너스 안내
+BirthdayScene_PlayButtonNameText,축하 영상 보기
+BirthdayScene_AreaButtonNameText,생일 장소
+EventHomework_HomeworkConfirmButton,과제 확인
+EventHomework_MissionNormalText,일반 미션
+EventHomework_MissionRareText,레어 미션
+EventHomework_MissionSuperRareText,초레어 미션
+EventHomework_LotteryDialogTitle,협력 미션 추첨
+EventHomework_LotteryDialogRareMissionText,레어 미션 예시
+EventHomework_LotteryDialogRareMissionInfoText,"협력 미션에는 노멀, 레어, 초레어의 세 가지 등급이 있으며, 등급이 높을수록 더 좋은 보상을 받을 수 있습니다.<br>"
+EventHomework_LotteryDialogLotteryButtonText,추첨하기
+EventHomework_MissionChangeDialogTitle,협력 미션 변경
+EventHomework_MissionChangeDialogChangeMessage,"현재 협력 미션을 변경하시겠습니까? <br> ※ 변경하면, 한 번 라이브를 플레이할 때까지 현재 협력 미션은 변경할 수 없습니다."
+EventHomework_MissionChangeDialogUnChangeMessage,"현재 협력 미션에 도전해 보세요!<br>※라이브 플레이 후, 현재 협력 미션을 변경할 수 있습니다."
+EventHomework_GetMissionDialogTitle,협력 미션 획득
+EventHomework_GetMissionDialogMessage,현재 협력 미션으로 설정되었습니다.
+EventHomework_MissionDetailDialogTitle,협력 미션
+EventHomeworkBoxGacha_Title,(더미)
+EventHomeworkBoxGacha_NowBox,(더미) {0}번째 상자
+EventHomeworkBoxGacha_Remaining,남은 {0}/{1}
+EventHomeworkBoxGacha_NextBoxButton,다음 뽑기
+EventHomeworkBoxGacha_PlayBoxGacha,{0}회 뽑기
+EventHomeworkBoxGacha_UsedTicket,x{0}
+EventHomeworkBoxGacha_HasTicket,보유 티켓
+EventHomeworkBoxGacha_BoxInfoButton,( 상자) 내용물
+EventHomeworkBoxGachaInfo_Title,({0}번째) 내용 확인
+EventHomeworkBoxGachaInfo_Page,{0} / {1}
+EventHomeworkBoxGachaResult_Title,아이템 획득!
+EventHomeworkBoxGachaResult_Message,선물에서 받을 수 있습니다.
+EventHomeworkRoomSelect_RoomTitleEvent,{0} Live
+EventHomeworkRoomSelect_RoomTitleEveryone,이벤트 (더미)
+EventHomeworkRoomSelect_RankingTarget,하이스코어 랭킹 대상
+EventHomeworkRoomSelect_RankingExcluded,하이스코어 랭킹 제외
+EventHomeworkRoomSelect_RankingExcludedInfo,랭킹 제외 안내
+EventHomeworkRoomSelect_EventHighScore,이벤트 최고 점수
+EventHomeworkRoomSelect_EventGroupRanking,조별 최고 점수 랭킹
+EventHomeworkMatching_HomeworkMusicLevel,곡 난이도
+EventHomeworkMatching_MusicLevel,{0} 이상
+EventHomeworkMatching_HomeworkInfo,과제 내용
+EventHomeworkMatching_Reward,보상
+EventHomeworkLiveResult_HomeworkResult,과제 결과
+EventHomeworkLiveResult_HomeworkResultReward,획득 보상
+EventHomeworkLiveResult_RewardBonus,보상 {0}배!
+EventHomeworkLiveResult_RewardBonusValue,x{0}
+EventHomeworkLiveResult_MyClear,직접 달성
+EventHomeworkLiveResult_OtherClear,다른 사람이 달성
+EventHomeworkLiveResult_NoClear,미달성
+EventHomeworkLiveResultNewHomework_Title,새로운 숙제 발생!
+EventHomeworkLiveResult_MusicLevel,음악 난이도: {0}
+EventHomeworkLiveResult_Homework,과제: {0}
+EventHomeworkLiveResult_Reward,보상 아이템
+EventBonus_PointUpBonus,포인트 업 보너스
+EventBonus_TotalPowerBonus,종합력 업 보너스
+EventBonus_PickUpMemberBonus,추천 부원 보너스
+EventBonus_PointUpTotal,포인트 업 총합
+EventBonus_PowerUpTotal,총 능력치 상승 합계
+EventBonus_PowerUpAddValue,(종합력 +{0})
+EventBonus_BonusPercentUp,{0}% 증가
+EventBonus_PowerUpTotalValue,+{0} 증가
+EventBonus_BonusCaution,"라이브에서는 종합력 업 보너스가 발동되지 않습니다. <br> 여러 개의 보너스 대상인 부원은, 효과 값이 가장 높은 하나의 보너스만 발동됩니다. <br> ""부원+"" 보너스를 소지한 부원이 유닛 내에 여러 장 존재하는 경우, 종합력과 이벤트 포인트에서 각각 가장 효과가 높은 부원 1장이 보너스를 발동할 수 있습니다. <br> <color=#C12424>※ </color> 종합력의 ""부원+"" 보너스는, 부원의 종합력과 ""부원+"" 보너스의 효과 값을 곱했을 때 값이 가장 높아지는 부원 1장의 효과만 발동합니다. <br> <color=#C12424>※ </color> 이벤트 포인트의 ""부원+"" 보너스는, 가장 이벤트 포인트 업 효과가 높은 부원 1장의 효과만 발동합니다. <br> <color=#C12424>※ </color> 종합력과 이벤트 포인트의 ""부원 보너스+""는 각각 다른 부원이 발동할 수 있습니다. <br> <color=#C12424>※ </color> ""부원+"" 보너스를 소지하고 있지만, 발동하지 못한 부원은 다른 보너스를 발동할 수 있습니다. <br> ""부원 보너스""와 ""부원 보너스+""는 동시에 효과를 발동할 수 있습니다."
+EventIncentive_CheckTicketTitle,추첨 티켓 확인
+EventIncentive_CheckTicketMessage,이벤트에 참여해주셔서 감사합니다. <br> 티켓을 확인하시겠습니까? <br> <br> {0} {1}장
+EventIncentive_CheckTicketWarning,<color=#C12424>※추첨 티켓은 분할하여 사용할 수 없습니다<br>※기간 내에 사용하지 않으면 추첨 티켓이 삭제되므로 주의하십시오</color>
+EventIncentive_LostTitle,추첨 결과
+EventIncentive_LostMessage,참가해주셔서 감사합니다.<br>다음 이벤트에서 또 만나요.
+EventIncentive_LostGoToPresentBoxScene,선물 받기
+EventIncentive_ApplicationTitle,응모에 필요한 정보
+EventIncentive_ApplicationId,ID：
+EventIncentive_ApplicationPassword,비밀번호:
+EventIncentive_ApplicationUrlTitle,응모 URL：
+EventIncentive_ApplicationNote,※응모 시 유의사항(추후 추가 예정)
+EventIncentive_IdCopy,복사됨
+EventIncentive_PasswordCopy,복사됨
+EventIncentive_TermTitle,이벤트 이용 약관
+EventEmotionalSetting_SelectBand,랭킹에 참여할 그룹을 선택하세요
+EventEmotionalSetting_ChangeBand,변경할 그룹을 선택하세요
+EventEmotionalSetting_SelectMember,랭킹에 참여할 멤버를 선택하세요
+EventEmotionalSetting_ChangeMember,변경할 멤버를 선택하세요
+LimitedLive_Name_1101001,제한 라이브 이름 1
+LimitedLive_Name_1101002,제한 라이브 이름 2
+LimitedLive_Name_1301001,제한 라이브 이름 3
+LimitedLive_Name_1401001,제한 라이브 이름 4
+LimitedLive_Name_1501001,제한 라이브 이름 5
+LimitedLive_Name_1502001,제한 라이브 이름 6
+LimitedLive_Name_1601001,제한 라이브 이름 7
+LimitedLive_Name_1801001,제한 라이브 이름 8
+LimitedLive_Name_1802001,제한 라이브 이름 9
+LimitedLive_Name_1803001,제한 라이브 이름 10
+LimitedLive_Name_1804001,제한 라이브 명칭 11
+LimitedLive_Name_1805001,제한 라이브 이름 12
+LimitedLive_Name_1806001,限定라이브명 13
+LimitedLive_Name_1807001,제한 라이브 명칭 14
+LimitedLive_Name_1808001,제한 라이브 명칭 15
+LimitedLive_Name_1892001,제한 라이브 명칭 16
+LimitedLive_Name_1893001,限定라이브명 17
+LimitedLive_Name_1894001,限定라이브명 18
+LimitedLive_Name_1895001,限定ライブ名19
+LimitedLive_Name_1896001,제한 라이브 명칭 20
+LimitedLive_Name_1701001,제한 라이브 명칭 21
+LimitedLive_BonusEffect_1101001,클리어 보상 증가!
+LimitedLive_Period,개최 기간 {0} ~ {1}까지
+LimitedLive_FreePlayLabel,무료 플레이
+LimitedLive_TicketLabel,보유 티켓
+LimitedLive_FreePlayCountLabel,다음
+LimitedLive_FreePlayCountValue,{0}회
+LimitedLive_TicketAmountValue,{0}장
+LimitedLive_LiveIsChosen,곡 결정됨
+LimitedLive_DetailDialog_RuleSection,◆규칙
+LimitedLive_DetailDialog_RuleSection_ResetDaily,일 {0}회
+LimitedLive_DetailDialog_RuleSection_ResetWeekly,주 {0}회
+LimitedLive_DetailDialog_RuleSection_Rule_1,일정 확률로 {0}을 획득할 수 있는 Live입니다 <br> {1} 플레이 가능합니다 <br> ※ 식권 소모 후에도 플레이 가능합니다 <br> 히트곡인 경우 보상이 증가합니다
+LimitedLive_DetailDialog_RuleSection_Rule_2,{1}플레이 가능하며 <br>※식권 소비 후 플레이 가능합니다 <br>당첨곡일 경우 보상이 증가합니다
+LimitedLive_DetailDialog_RewardSection,◆보상
+LimitedLive_DetailDialog_BonusLiveSection,◆당첨곡 <br> {0}
+LimitedLive_DetailDialog_PeriodSection,◆개최 기간 <br> {0} ~ {1}
+LimitedLive_UnlockDialog_NotEnouchTicketDaily,<color=#D73C55>식권이 부족합니다</color><br>※다음 날 4시 이후부터 자유 플레이가 가능해집니다
+LimitedLive_UnlockDialog_NotEnouchTicketWeekly,<color=#D73C55>식권이 부족합니다</color><br>※월요일 4시 이후부터 무료 플레이가 가능합니다.
+LiveCondition_Label,라이브 참가 조건
+LiveCondition_CompareType_EQ,와
+LiveCondition_CompareType_GE,이하
+LiveCondition_CompareType_LE,이하
+LiveCondition_Detail_Character,{0}을 {1}명 {2} 편성
+LiveCondition_Detail_Group,{0}을 {1}명 {2} 편성
+LiveCondition_Detail_CardType,{0}을 {1}명 {2} 편성
+LiveCondition_Detail_DeckRole,{0}을 {1}명 {2} 편성
+LiveCondition_Detail_Card,(임시){0} 편성
+LiveCondition_Detail_UserRank,(임시) 사용자 랭크 {0} {1}
+LiveCondition_Detail_Title,"칭호 ""{0}""을 설정합니다."
+LiveCondition_Detail_Item,아이템 「{0}」 사용
+LiveCondition_CannotCreateMultiPlayRoomSinceNotSatisfy,참가 조건을 충족하지 않아 생성할 수 없습니다.
+LiveRule_Label,라이브 규칙
+LiveRule_Notes_Judgement_EQ,(임시){0} 외 MISS
+LiveRule_Notes_Judgement_GE,(임시){0} 이하 MISS
+BeginnerMission_BingoTitle,초보자 미션({0}/{1})
+BeginnerMission_BingoSheetClear,빙고 {0} 클리어 보상
+BeginnerMission_BingoLineClear,라인 클리어 보상
+BeginnerMission_BingoNotStarted,미완료된 칸이 있습니다
+BeginnerMission_BingoMissionDetailTitle,과제 상세 정보
+BeginnerMission_BingoMissionReward,클리어 보상
+BeginnerMission_BingoMissionChallenge,도전하기
+BeginnerMission_BingoMissionAcheved,달성률
+BeginnerMission_BingoMissionOverview,미션 개요
+BeginnerMission_BingoMissionItemOverview,개요
+BeginnerMission_BingoMissionRewardItemNum,x{0}
+TeacherLiveTop_NowMission,이번 미션
+TeacherLiveTop_EndEvent,이 이벤트는 종료되었습니다.
+TeacherLiveTop_ExchangeButton,교환소
+TeacherLiveTop_LiveButton,라이브 시작
+TeacherLiveTop_InfoButton,설명
+TeacherLiveTop_LiveCondition,라이브 조건 있음
+TeacherLiveTop_LiveRule,라이브 규칙
+TeacherLiveTop_RemainingMission,남은 미션 수 <color=#D73C55>{0}</color>/{1}
+TeacherLiveTop_RemainingMissionValue,{0} / {1}
+TeacherLiveTop_GoGoTime,(더미)
+TeacherLiveTop_GoGoTimeRemainingCount,{0}회
+TeacherLiveTop_ExchangeTerm,교환소는 {0}까지
+TeacherLiveTop_LiveConditionDialogTitle,라이브 조건
+TeacherLiveTop_LiveConditionDialogCondition,라이브 참가 조건
+TeacherLiveTop_LiveConditionDialogRule,라이브 규칙
+TeacherLiveLiveResult_GoGoTime,결과 화면
+TeacherLiveLiveResult_MissionClearTitle,미션 달성!
+TeacherLiveLiveResult_CurrentMission,(더미) 이번 미션
+TeacherLiveLiveResult_NextMission,다음 미션
+TeacherLiveLiveResult_RemainingMission,남은 미션 수 {0}/{1}
+CharacterEpisodeLevel_TotalTabName,총합
+CharacterEpisodeLevel_TotalEpisodeStar,총 스토리 스타 ★x{0}
+CharacterEpisodeLevel_RemainingExp,★{0}
+ItemList_Tab_Enhancement,육성 아이템
+ItemList_Tab_Boost,LP 회복
+ItemList_Tab_Ticket,티켓
+ItemList_Tab_Stamp,스탬프
+ItemList_Tab_Other,기타
+ItemList_Empty,현재 해당 아이템을 보유하고 있지 않습니다.
+ItemList_LimitDate,{0}까지
+MusicVideo_Conform_title,MV 재생 확인
+MusicVideo_Conform_Message,{0}의 뮤직 비디오를 재생하시겠습니까? <br> <br> MV 모드에서는 라이브 보상을 획득할 수 없습니다.
+MusicVideo_Conform_Supplement,이 창을 다시 표시하지 않음
+MusicShop_Title,음악 상점
+MusicShop_Exchange,교환
+MusicShop_Replaced,교환 완료
+MusicShop_Lack,재료 부족
+MusicShop_ExchangeListEmpty,교환 가능한 곡이 없습니다
+MusicShop_DetailTitle,곡 상세 정보
+MusicShop_ExchangeTitle,곡 교환
+MusicShop_RequiredValue,필요 수량
+MusicShop_ExchangeMessage,{0}을 교환하시겠습니까?
+MusicShop_ExchangeResultTitle,음악 교환 완료
+Announcement_DialogTitle,알림
+RankUp_UserRankUpDialogTitle,랭크 업!
+RankUp_BandRankUpDialogTitle,그룹 랭크 상승
+RankUp_BandRank,그룹 랭크
+RankUp_TotalBandRank,총 그룹 랭크
+RankUp_DeckPower,덱 파워 증가
+RankUp_LpRecoverText,LP가 {0}만큼 회복되었습니다
+RankUp_LpMaxUpText,LP 최대치가 증가했습니다
+Shop_ResetDaily,(매일 0시 업데이트)
+Shop_ResetWeekly,(매주 월요일 0시 업데이트)
+Shop_Monthly,(매일 0시 업데이트)
+Shop_BuyRemain,남은 개수: {0}개
+Shop_BuyLimit,{0}까지
+Shop_AllBuy,구매 완료
+Shop_ItemDetaiTitle,상품 상세 정보
+Shop_AllItemDetaiTitle,완매 보상
+Shop_AllItemCompleteTitle,완매 보상 획득
+MovieCollection_TabMovieTypeShort,숏 무비
+MovieCollection_TabMovieTypeLong,롱 무비
+MovieCollection_TabMovieTypeSpPhoto,SP 사진
+MovieCollection_HomeSettings,홈 설정 중
+MovieCollection_EmptyMovie,영상이 없습니다
+MovieCollection_EmptySpPhoto,SP 사진이 없습니다
+MovieCollection_DetailTitle,영상 상세 정보
+MovieCollection_DetailHomeSettings,홈 배경으로 설정
+MovieCollection_DetailHomeSettingsMessage,옵션 화면에서 홈 배경 비디오를 활성화해야 합니다.
+MovieCollection_RefineBandTitle,그룹
+MovieCollection_RefineBandOther,기타
+MovieCollection_RefineMemberTitle,멤버
+MovieCollection_RefineGetCategoryTitle,획득 카테고리
+MovieCollection_RefineGetCategoryEvent,이벤트
+MovieCollection_RefineGetCategoryCard,부원
+MovieCollection_RefineGetCategoryStory,스토리
+MovieCollection_RefineGetCategoryEtc,기타
+LiveResult_FriendApplyButton,친구 신청
+LiveResult_FriendStatusRequest,친구 신청 완료
+LiveResult_FriendStatusFriend,친구 등록 완료
+LiveResult_ScoreDetailButton,점수 상세 보기
+LiveResult_ScoreDetailTitle,점수 상세 보기
+LiveResult_SessionSelectButton,Live 선택으로
+LiveResult_HomeButton,홈으로
+LiveResult_MusicSelectButton,음악 선택으로
+LiveResult_RestartButton,다시 같은 곡으로<br>라이브 시작
+LiveResult_GuestSelectButton,이 곡으로<br>라이브 시작
+LiveResult_RecommendLiveTitle,추천 라이브
+LiveResult_BackMusicSelectTitle,다른 곡으로 플레이
+LiveResult_BackMusicSelectButton,다른 곡으로 재생
+LiveResult_RestartDialogTitle,재시작 확인
+LiveResult_RestartDialog_EventPtRewardGotAll,모든 이벤트 pt 달성 보상을 <br> 획득했습니다.
+LiveResult_RestartDialog_EventPtRewardTitle,이벤트 달성 보상
+LiveResult_RestartDialog_EventScoreRank,이벤트 점수 순위
+LiveResult_RestartDialog_EventTotalPtRank,누적 이벤트 포인트 순위
+LiveResult_LiveClear,라이브 클리어!!
+LiveResult_LiveClear2,라이브 클리어!!
+LiveResult_TapScreen,화면을 터치하세요
+LiveResult_Score,점수
+LiveResult_Combo,콤보
+LiveResult_HighScore,최고 점수
+LiveResult_NewReacord,새로운 최고 기록!!
+LiveResult_PerfectCount,퍼펙트 횟수
+LiveResult_Perfect,PERFECT
+LiveResult_Great,훌륭해!
+LiveResult_Good,굿
+LiveResult_Bad,나쁨
+LiveResult_Miss,미스
+LiveResult_Normal,일반
+LiveResult_SyncTap,동시 터치
+LiveResult_LongTap,길게 누르기
+LiveResult_Swing,스윙
+LiveResult_GetExp,획득 경험치
+LiveResult_NextRank,다음 랭크까지
+LiveResult_GetGold,획득 G
+LiveResult_GetFriendPoint,획득 친밀도
+LiveResult_GetFriendPointWindow,친밀도 상세 정보
+LiveResult_TotalScore,총 점수
+GuestSelect_Title,게스트 선택
+BandEnrich_ItemEmpty,그룹 강화 아이템이 없습니다
+BandEnrich_All,총합
+BandEnrich_X,μ’s
+BandEnrich_L,Aqours
+BandEnrich_G,니지마스
+GemShort_NeedChargeGemLabel,필요 유료 Loveca
+GemShort_HaveChargeGemLabel,소지 유상 Loveca
+GemShort_NeedGemLabel,필요 Loveca
+GemShort_HaveGemLabel,소지 Loveca
+CollectionChara_Profile,프로필
+CollectionChara_CardList,카드 목록
+StorySort_TitleBand,그룹
+StorySort_TitleStory,스토리
+StorySort_StoryRead,읽음
+StorySort_StoryUnread,미읽음
+StoryList_EmptyText,볼 수 있는 스토리가 없습니다
+MemberList_EmptyText,해당 부원이 없습니다
+CollectionReleaseConfirm_DialogTitle,컬렉션 해방 확인
+CollectionReleaseConfirm_Conditions,해방 조건: 필요 각성 수 {0}/{1}
+CollectionReleaseConfirm_Reward,해방 보상
+CollectionReleaseReward_DialogTitle,컬렉션 해방
+CollectionReleaseReward_SpPhotoReleaseMessage,SP 사진이 해제되었습니다<br>SP 사진은 부원 상세 또는 SP 사진 컬렉션에서 확인할 수 있습니다
+CollectionReleaseReward_MovieReleaseMessage,영상 «{0}»가 해금되었습니다 <br> 영상은 부원 상세 또는 무비 컬렉션에서 확인할 수 있습니다.
+CollectionReleaseReward_GetReward,해방 보상으로 {0}을(를) 받았습니다.
+CollectionReleaseReward_CardInfoButton,부원 상세 보기
+CollectionReleaseReward_CollectionButton,컬렉션 상세 보기
+GachaLotteryExchangeItemConfirm_Title,스카우트 포인트 변환
+GachaLotteryExchangeItemConfirm_Info,유효 기간이 지난 “스카우트 포인트”가 “스킬북(중)”으로 변환되었습니다.
+Migration_TopTitle,데이터 이전 및 계정 연동
+Migration_SnsLink,계정 연동
+Migration_EnableSnsLink,※연동 가능한 계정
+Migration_SelectSnsLink,연결할 계정을 선택하세요
+Migration_Twitter,Twitter로 연동
+Migration_Apple,Apple로 로그인
+Migration_Google,Google로 로그인
+Migration_SignIn,미설정
+Migration_SignOut,연결됨
+Migration_CompleteSnsLink,계정 연동 완료
+Migration_CompleteSnsSignOut,계정 연동 해제
+Migration_SnsLinkMessage,"데이터 연동이 완료되었습니다 <br> 데이터 인계 대상 기기에 앱을 다운로드한 후, <br> 타이틀 화면의 [메뉴] > [데이터 인계]에서 계정 연동을 진행하세요."
+Migration_SignOutMessage,데이터 연동을 해제했습니다
+Migration_TakeOverButton,계정 연동
+RewardDetailDialog_CanBeAcquired,획득 가능 수
+RewardDetailDialog_Acquired,획득 개수
+RewardDetailDialog_Possession,소지수
+MusicSelect_NoData,해당하는 곡이 없습니다.
+MusicSelect_NoDataAndResetFilter,해당하는 곡이 없어 필터를 해제했습니다
+MusicSelect_ResetFilterToSelectData,선택한 곡을 위해 필터를 해제했습니다
+MusicSelect_FilterAttribute,속성
+MusicSelect_FilterAttributeSmile,Smile
+MusicSelect_FilterAttributePure,Pure
+MusicSelect_FilterAttributeCool,쿨
+MusicSelect_FilterSelect,조건
+MusicSelect_FilterGroup,그룹 · 곡
+MusicSelect_FilterNotClear,미클리어
+MusicSelect_FilterScoreS,스코어 S 미달성
+MusicSelect_FilterComboS,콤보 S 미달성
+MusicSelect_FilterClearS,클리어 S 미달성
+MusicSelect_FilterCampaign1,캠페인
+MusicSelect_FilterCampaign2,대상
+MusicSelect_FilterUndo,전체 해제
+MusicSelect_ButtonApply,적용
+MusicSelect_RehearsalButton,리허설
+MusicSelect_LiveButton,라이브
+MusicSelect_NoDifficulty,선택한 곡에 MASTER 난이도가 없으므로 다른 곡을 선택하세요.
+MusicSelect_NoAnyDifficulty,선택한 곡에 {0} 난이도가 없으므로 다른 곡을 선택하세요.
+HomePreset_ClearPresetButton,홈 화면 사용자 설정{0}을 초기화하시겠습니까?
+PresentBox_Attention,"최대 10만 건까지 보관할 수 있습니다. 한도를 초과하면 오래된 선물부터 삭제됩니다. 또한, 수령 기간이 지난 선물은 자동으로 삭제됩니다. 한 번에 최대 100건까지 받을 수 있습니다."
+PresentBox_Filter,필터
+PresentBox_Filter_Title,필터
+PresentBox_Filter_Button_AllSelect,전체 선택
+PresentBox_Filter_Button_AllRelease,전체 해제
+PresentBox_Filter_Type_Title,선물 종류
+PresentBox_Filter_Type_Member,부원
+PresentBox_Filter_Type_Gem,Loveca
+PresentBox_Filter_Type_Gold,골드
+PresentBox_Filter_Type_Ticket,스카우트 티켓
+PresentBox_Filter_Type_Recovery,LP 회복 아이템
+PresentBox_Filter_Type_Other,기타
+PresentBox_Filter_ExpireTime_Title,기간 제한
+PresentBox_Filter_ExpireTime_Limit,기간 있음
+PresentBox_Filter_ExpireTime_NoLimit,무제한
+HomePreset_Set_Label,세트 {0}
+HomePreset_Multiple_Set_Label,여러 세트
+PresentBox_History_Attention,"최대 30개까지 보관할 수 있습니다. 한도를 초과하면 오래된 기록부터 삭제됩니다. 또한, 선물 내역은 표시 후 30일이 지나면 자동으로 삭제됩니다."
+BeginnerMission_BingoLine,{0} 라인
+Mission_Filter,필터
+Mission_Filter_Title,필터
+Mission_Filter_Button_AllSelect,전체 선택
+Mission_Filter_Button_AllRelease,전체 해제
+Mission_Filter_Content_Title_Reward,보상
+Mission_Filter_Reward_Member,부원
+Mission_Filter_Reward_Gem,Loveca
+Mission_Filter_Reward_Gold,골드
+Mission_Filter_Reward_Ticket,스카우트 티켓
+Mission_Filter_Reward_Recovery,LP 회복 아이템
+Mission_Filter_Reward_Exp,레슨 아이템
+Mission_Filter_Reward_SkillExp,스킬 레슨 아이템
+Mission_Filter_Reward_Evolve,각성 아이템
+Mission_Filter_Reward_Title,칭호
+Mission_Filter_Reward_Other,기타
+Mission_Achievement,달성률
+HomePreset_Edit_Dialog_Text,변경된 홈 화면 설정을 저장하시겠습니까?
+GachaTop_Invitation_Bonus_Detail,스카우트 포인트 상세 정보
+GachaTop_Invitation_Bonus,<size=29>스카우트<br><size=23>포인트
+Adv_Log_NameSuffix_Telop,[텔롭]
+EventTop_Button_Tips_Rule,이벤트 안내
+EventTop_Button_Tips_Bonus,보너스 상세 정보
+EventTop_Button_Reward,보상 상세 정보
+EventTop_Button_Story,이벤트<br>스토리
+EventTop_Button_Ranking,랭킹 상세 보기
+EventTop_Button_Exchange,교환소
+EventTop_Button_Favorite,좋아하는 멤버
+EventTop_Button_ToEvent,이벤트 곡
+EventTop_Button_ToGeneral,일반 곡
+EventTop_Favorite_Ranking,가장 좋아하는 멤버
+EventTop_Point_Total,누적 이벤트 포인트
+EventTop_Point_Next_Story,다음 스토리까지
+EventTop_Term_Title,<size=20>기간</size> {0}~<size=20>까지</size>
+EventTop_Point,{0} 포인트
+EventTop_Rank,{0}위
+Tutorial_Group_Muse,・도쿄의 아키하바라를 중심으로 활동하는 국립 오토노키자카 학원의 스쿨 아이돌 그룹입니다. <br>・그룹명의 유래는 ‘9명의 노래의 여신 “뮤즈”’에서 따왔습니다. <br>・러브라이브! 우승을 목표로 활동 중입니다.
+Tutorial_Group_Aqours,・시즈오카현의 누마즈를 중심으로 활동하는 사립 우라노호시 여학원의 스쿨 아이돌 그룹입니다. <br>・학교를 활기차게 만들기 위해 결성되었습니다. <br>・러브라이브!에서 우승을 목표로 활동 중입니다.
+Tutorial_Group_Nijigaku,"도쿄 오다이바를 중심으로 활동하는 사립 니지가사키 학원의 스쿨 아이돌 <br> 각자의 개성을 소중히 여기며, 각자 솔로 스쿨 아이돌로서 활동 중 <br> 러브라이브!가 아닌, 각자가 최고의 스쿨 아이돌을 목표로 하고 있다."
+Tutorial_Group_Liella,"도쿄의 하라주쿠를 중심으로 활동하는 사립 유이가오카 여자 고등학교 스쿨 아이돌 그룹입니다. <br> 유이가오카는 신설 학교이며, 개교와 함께 부원이 설립되었습니다. <br> 러브라이브!에서도 주목해야 할 그룹 중 하나입니다."
+Tutorial_Group_SelectButton,이 그룹으로 결정
+Tutorial_Member_SelectButton,이 멤버로 결정
+Tutorial_Recommend_Lesson,레슨으로 부원을 레벨 업!
+Tutorial_Recommend_Gacha,아이템 스카우트로 육성 아이템 획득!
+Tutorial_Recommend_Live,먼저 Live를 해 보자!
+EventRanking_Tab_MySelf,내 순위
+EventRanking_Tab_Rank,{0}위
+EventRanking_Tab_TotalPoint,이벤트 포인트 랭킹
+EventRanking_Tab_Score,이벤트 곡 점수 랭킹
+EventRanking_Tab_Favorite,최애곡 랭킹
+EventBonus_Tab_Point,이벤트 포인트 보너스
+EventBonus_Tab_Item,미라클 스타 획득 보너스
+EventBonus_MultiTab_Score,점수 보너스
+EventBonus_MultiTab_Item,로그인 아이템 획득 보너스
+EventBonus_Button_Disclaimer,면책 조항
+EventBonus_Point_Value,+{0}%
+EventBonus_Item_Value,+{0}%
+EventBonus_Empty_List,없음
+EventTop_Button_ToGeneral_Msg,미라클 스타를 획득!
+EventTop_Button_Favorite_Ranking,최애곡 랭킹
+EventTop_Button_Mission,과제
+EventTop_Point_Next_Reward,다음 보상까지
+EventTop_Point_Ranking,이벤트 포인트 랭킹
+EventBonus_Title,보너스 상세 정보
+EventRanking_Ranking_Not_Exists,랭킹이 없습니다
+GemShop_Footer_Special_Commercial_Code,특정 상거래법/<br>자금 결제법
+GemShop_Footer_Precautions_Regarding_Use,이용 관련<br>주의사항
+EventRanking_Unaggregated,랭킹 데이터가 <br>아직 집계되지 않았습니다
+EventReward_EmotionalMemberUnselected,가장 좋아하는 멤버를 선택하지 않아 표시할 수 없습니다
+EventReward_RequiredPoint,필요 포인트
+LpBoost_LP_Count,LP 보유량
+LpBoost_LP_Default_Amount,기본 LP 소비량
+LpBoost_LP_Discount,LP 할인!
+LpBoost_Min,최소
+LpBoost_EventPt,이벤트 포인트
+LpBoost_Get,획득
+LpBoost_GetReward,획득 보상
+LpBoost_UseLpMessage,소비 LP량에 따라 획득 보상량과 획득 가능한 보상량이 달라집니다
+LpBoost_UseLpSetting,소비 LP 설정
+LpBoost_Count,소지수
+LpBoost_UseCount,소비량
+LpBoost_Default,기본
+LpBoost_GetRewardMessage,획득 보상량이 변경됩니다
+LpBoost_Use,소비
+LpBoost_UseLp,소비 LP
+LpBoost_Setting,설정
+LpBoost_UseLPMessageShort,소비하는 LP 양에 따라 획득 보상량이 달라집니다
+Skip_Message,연속 스킵 횟수만큼 클리어 보상을 한 번에 획득할 수 있습니다.<br>스킵 시에는 최고 점수가 라이브 결과의 점수로 참조됩니다.
+Skip_Ticket_Count,스킵 티켓 보유 수량
+Skip_Ticket_UseCount,스킵 횟수를 설정하세요
+Skip_Confirm,스킵 확인
+Skip_Lock_Message,선택한 난이도를 클리어하면 스킵 기능이 해제됩니다
+Skip_Not_Enough_Ticket,스킵 티켓이 부족합니다
+LoginBouns_RewardAmountBonus,({0})
+EventTop_Button_ToGeneral_2,라이브 시작
+EventTop_Button_ToGeneral_2_Msg,이벤트 포인트를 획득!
+EventTipsDialog_Tips_Title,이벤트 플레이 방법
+EventTop_Aggregate,랭킹 집계 중
+EventTop_EventClose,이벤트가 종료되었습니다.
+BeginnerMission_Bingo,빙고
+TakeOver_DialogTitle,플레이 데이터 연동
+TakeOver_DialogUserId,러브라이브! 스쿨 아이돌 페스티벌 사용자 ID
+TakeOver_DialogPassword,플레이 데이터 연동 비밀번호
+TakeOver_DialogPasswordSample,입력하세요
+TakeOver_DialogAccept,플레이 데이터 연동
+TakeOver_DialogDescription,Love Live! 스쿨 아이돌 페스티벌의 사용자 ID와 플레이 데이터 연동 비밀번호를 입력하면 Love Live! 스쿨 아이돌 페스티벌의 앨범을 볼 수 있습니다<br>
+TakeOver_DialogAttension,"*러브라이브! 스쿨 아이돌 페스티벌에서 플레이 데이터 연동 설정을 하지 않은 경우, 이용할 수 없습니다.<br>*플레이 데이터 연동 및 플레이 데이터 연동 특전은 한 번만 받을 수 있으니 주의해 주세요."
+TakeOver_DialogUserError,러브라이브! 스쿨 아이돌 페스티벌의 사용자 ID를 입력하세요
+TakeOver_DialogPasswaordError,플레이 데이터 연동 비밀번호를 입력하세요
+TakeOver_DialogDone,플레이 데이터 연동이 완료되어 ‘추억 앨범’을 볼 수 있습니다.<br>선물에서 플레이 데이터 연동 특전을 받으세요.
+BeginnerMission_BingoPlayableBalloonTips,빙고 {0} 클리어 시 도전 가능
+Mission_ChallengeButton_Chat,채팅으로
+Mission_ChallengeButton_Home,홈으로
+Common_Remain,다음
+Mission_Attention_Daily,매일 0시에 데일리 미션이 업데이트됩니다
+Mission_Attention_ExpireTime,유효 기간은 {0}까지입니다
+Mission_Attention_Subscription,미라클 패스 미션 달성 상황은 가입 후부터 집계됩니다
+Mission_HeaderTabTotal,이벤트 합산
+Mission_HeaderTabDaily,데일리
+HomePreset_DropDownItem_Obtain,획득 순서
+HomePreset_DropDownItem_Rare,희귀도
+HomePreset_DropDownItem_Anime,애니메이션 표시
+HomePreset_DropDownItem_Favorite,좋아하는 항목
+Event_CategoryName_1,미라클 컬렉션
+Event_CategoryName_2,프리 투어
+Event_CategoryName_3,협동 라이브
+Event_CategoryName_4,스타 이벤트
+Event_Favorite_Button_Home,홈으로 돌아가기
+Event_Favorite_Button_Decide,결정하기
+Event_Favorite_Title,최애 멤버를 선택하세요!
+Event_Favorite_Tips,가장 좋아하는 멤버란?
+Event_Favorite_Confirm_Title,확인
+Event_Favorite_Confirm_Desc,좋아하는 멤버를 <br>{0}(으)로 결정하시겠습니까? <br><br><color=#C70F01>※ 결정 후에는 이벤트 종료 시까지 변경할 수 없습니다. </color>
+EventBonus_PointBonus_Desc,선발 멤버를 편성하면 이벤트 포인트를 획득할 수 있습니다!<br>라이브 클리어 시 획득하는 이벤트 포인트가 증가합니다!
+EventBonus_PointBonus_Attention,※이벤트 포인트 보너스는 편성 중인 선발 멤버 전체의 합계가 적용됩니다
+EventBonus_ItemBonus_Desc,"부원 목록에 선발 멤버가 있으면, 로그인 보너스로 획득할 수 있는 미라클 스타의 수가 증가합니다!"
+EventBonus_ItemBonus_Attention,※미라클 스타 획득 보너스는 부원 목록에 있는 선발 멤버 전체의 합계가 적용됩니다.<br>※미라클 스타 획득 보너스는 로그인 보너스로 미라클 스타가 설정된 날에만 적용됩니다.
+EventBonus_ScoreBonus_Desc,선발 멤버를 편성하면 스코어 보너스가 발휘됩니다!<br>라이브 클리어 시 획득하는 스코어가 증가합니다!
+EventBonus_ScoreBonus_Attention,※스코어 보너스는 편성 중인 멤버들의 총합이 적용됩니다
+EventBonus_ItemBonusMulti_Desc,"부원 목록에 선발 멤버가 있으면, 로그인 보너스로 획득할 수 있는 아이템 수가 증가합니다!"
+EventBonus_ItemBonusBonusMulti_Attention,※ 로그인 아이템 획득 보너스는 부원 목록에 있는 모든 멤버의 총합이 적용됩니다.<br>※ 로그인 아이템 획득 보너스는 골드에는 적용되지 않습니다.
+EventBonus_BeforeEvolve,각성 전
+EventBonus_AfterEvolve,각성 후
+EventBonus_HaveCard,획득 완료
+MusicSelect_CanNotFocusMusic,현재 검색 조건으로는 곡을 찾을 수 없습니다
+Common_ContinueSpiritShortageShortMessage,미라클 스타가 부족합니다
+EventReward_Category_EventPoint,누적 이벤트 포인트
+EventReward_Category_EventScore,스코어
+EventRanking_Category_EventPoint,누적 이벤트 포인트
+EventRanking_Category_EventScore,스코어
+Common_Consumption,소비
+Common_Setting,설정
+PresentBox_ReceivableItemCount,{0}/<size=-10> {1}개 </size>
+HomePreset_Edit_EmptyPresetText,홈 화면 사용자 설정이 지정되지 않았습니다
+Header_Lp_TextTag,{0}/<size=25> {1}
+Adv_Button_Skip,스킵
+Adv_Button_Auto,자동
+Adv_Button_Fast,빠르게 넘기기
+Adv_Button_Log,로그
+Adv_Button_Deactive,숨기기
+Adv_Button_MovieSkip,스킵
+Adv_Button_MoviePlay,재생
+Adv_Button_MovieStop,일시 정지
+Adv_Button_MoviePrevStep,돌아가기
+Adv_Button_MovieNextStep,다음
+Adv_Button_MovieDeactive,숨기기
+Header_Lp_Text,L<size=21>P
+StoryPart_NotLiveClearGroupMusicCount,Live에서 {0}의 곡을 {1}회 더 플레이하면 해금됩니다
+StoryPart_NotLiveClearMusicCount,{0}을(를) {1}회 더 클리어하면 해금됩니다
+Common_SeriesName_1,러브라이브!
+Common_SeriesName_2,러브라이브! 선샤인!!
+Common_SeriesName_3,러브라이브! 니지가사키 학원 스쿨 아이돌 동아리
+Common_SeriesName_4,러브라이브! 슈퍼스타!!
+Common_SeriesName_5,러브라이브! 렌노소라 여학원 스쿨 아이돌 클럽
+StoryPart_NotRelease_EventStory,필요한 이벤트 포인트가 부족합니다.
+Common_NoCapture,이 화면의 캡처는 금지되어 있습니다.
+Common_EventCloseMessage,현재 이벤트가 진행 중이 아닙니다.
+LiveResult_BonusText,보너스 {0} <size=-3>% </size>
+HomePreset_Title_HomeCustomEdit,홈 커스텀 편집
+HomePreset_Title_Preview,미리 보기
+HomePreset_Title_BackgroundSelection,배경 선택
+HomePreset_Title_ForegroundSelection,전경 선택
+HomePreset_Title_MemberChange,부원 변경
+HomePreset_HomeCustom,홈 커스텀
+HomePreset_Save_HomeCustom,홈 커스텀을 저장했습니다
+HomePreset_PhotoWarning,사진 설정에서는 배경 및 효과를 적용할 수 없습니다.
+TermsOfService_Credit,크레딧
+TermsOfService_Button_InformationNotation,정보 표시
+TermsOfService_Button_Performance,실적
+TermsOfService_Button_StoneConfirmation,소지 Loveca 확인
+SubMenu_Button_Profile,프로필
+SubMenu_Button_Friend,친구
+SubMenu_Button_ItemList,아이템 목록
+SubMenu_Button_Exchange,교환소
+SubMenu_Button_Album,앨범
+SubMenu_Button_OnePanelComic,1컷 만화
+SubMenu_Button_MemoryAlbum,추억 앨범
+SubMenu_Button_DataTransfer,데이터 인계
+SubMenu_Button_SerialCode,시리얼 코드
+SubMenu_Button_LocationCampaign,외출<br>선물
+SubMenu_Button_MusicLibrary,음악 라이브러리
+GemShopItem_SubscriptionButton_Restore,복원
+LiveResult_GetFriendPointSameMemberFormation,동일 멤버가 편성되어 있습니다.
+EventTop_RewardGotAll,모든 이벤트 pt 달성 보상을 <br> 획득했습니다.
+EventTop_StoryAllReleased,모든 스토리를 해방했습니다.
+HomePreset_Cant_Clear_Last1,프리셋이 하나뿐이면 클리어할 수 없습니다
+EventTop_NotSetFavorite,응원하는 멤버: 설정되지 않음
+StoryPart_NotRelease_ReadPrevious,이전 스토리를 읽지 않았습니다
+SerialCode_InputDialogTitle,시리얼 코드
+SerialCode_InputDialogText,시리얼 코드를 입력하세요
+SerialCode_InputEmptyText,시리얼 코드
+SerialCode_InputDialogAttentionText,획득한 아이템은 선물함으로 전송됩니다.<br>각 시리얼 코드의 보상은 계정당 1회만 받을 수 있습니다.
+SerialCode_ConfirmDialogTitle,확인
+SerialCode_ConfirmDialogText,[{0}]의 보상을 받으시겠습니까?
+SerialCode_SuccessMessage,선물에서 보너스 아이템을 받으세요.
+SerialCode_ErrorMessageAlreadyUsed,이미 사용된 시리얼 코드입니다.
+SerialCode_ErrorMessageNotUse,입력하신 시리얼 코드를 사용할 수 없습니다.
+SerialCode_ErrorMessageNotAvailable,이 캠페인의 보상은 수령 횟수 제한까지 모두 받았습니다.
+SerialCode_ErrorMessageNotEnter,현재 입력할 수 없습니다. {0} 후에 다시 시도하세요.
+SerialCode_InputButtonText,시리얼 코드<br>입력
+SerialCode_ConfirmButtonText,시리얼 코드<br>확인
+SerialCode_DisplayButtonText,시리얼 코드<br>표시
+SerialCode_CopyMessage,시리얼 코드를 복사했습니다.
+SerialCode_NoCampaign,현재 캠페인이 없습니다
+SerialCode_DisplayDialogTitle,시리얼 코드 표시
+SerialCode_DisplayDialogAttentionText,각 시리얼 코드는 계정당 1회만 발급됩니다.
+SerialCode_DisplayDialogText,{0}의 시리얼 코드입니다
+SerialCode_FailedToCreateSerialCode,시리얼 코드 발급에 실패했습니다. 잠시 후 다시 시도해 주세요.
+SerialCode_NoAllocatableCode,시리얼 코드 할당에 실패했습니다. 문의해주세요.
+Common_EventPointDetail,{0}의 {1}
+EventTop_Multi_RoomIdCopy,룸 ID를 복사했습니다
+SerialCode_ErrorMessageExpired,입력하신 시리얼 코드의 유효 기간이 만료되었습니다.
+SerialCode_ErrorMessageRankOutOfRange,입력하신 시리얼 코드의 필요 플레이어 랭크 조건을 충족하지 않아 사용할 수 없습니다.<br>
+LocationInformation_Message,지정된 장소를 방문하여 마감일까지 보상을 받으세요!
+LocationInformation_Success,위치 정보 획득 성공! 선물에서 보상을 받으세요.
+LocationInformation_ConfirmDialogTitle,캠페인 확인
+LocationInformation_ConfirmDialogMessage,위치 정보를 전송하여 보상을 받으시겠습니까? <br> ※ 안전을 위해 이동 중에는 전송하지 마세요.
+LocationInformation_ConfirmDialogGetReward,획득 보상
+LocationInformation_ConfirmDialogGetLocation,위치 정보 가져오기
+LocationInformation_NoCampaign,현재 진행 중인 이벤트가 없습니다.
+Common_OnlySecond,초
+MultiMatching_CannotMatching,매칭에 실패했습니다. 이벤트 페이지로 돌아갑니다.
+MultiMatching_Synchronization,다른 플레이어와 동기화 중입니다
+MultiMatching_MemberDecited,멤버가 결정되었습니다
+MultiMatching_LeaveByTimeLimit,시간 초과로 퇴장합니다
+DeckEdit_Score,스코어
+MultiMatching_RecruitMembers,멤버를 다시 모집합니다
+MultiMatching_WaitMembersOnResult,Live 결과 표시 중인 멤버를 기다립니다
+MultiDeck_DefaultDeckName,협동 라이브
+MultiMatching_WaitingAnotherMembers,다른 플레이어를 기다립니다
+MultiMatching_LiveWillStartSoon,곧 라이브가 시작됩니다
+MultiMatching_SongRequestLabel,선택한 곡
+MultiMatching_DecideSongRequest,이 곡으로 하기
+MultiMatching_NoSongCandidate,이 곡은 선택할 수 없습니다.
+MultiMatching_SongPickSecondsSuffix,초
+MultiMatching_SongPickChosenLabel,선택 완료
+MultiMatching_SongPickWaiting,다른 플레이어를 기다리는 중...
+MultiMatching_SongPickClosed,곡 선택이 종료되었습니다.
+MultiRestart_LeaveButton,퇴장하기
+MultiResult_HighScoreNotUpdated,협동 라이브에서는<br>하이 스코어가 갱신되지 않습니다
+SSAlignment_SubMenuButtonText,스크스타 연동
+SSAlignment_SubMenuButtonTextAlreadyCompleted,연결됨
+SSAlignment_DialogTitle,스크스타 연동
+SSAlignment_DialogTextPlayerId,스크스타 플레이어 ID
+SSAlignment_DialogTextPassword,연동 비밀번호
+SSAlignment_DialogTextInfo,스크스타에서 발급한 플레이어 ID와 연동 비밀번호를 입력하면 보상을 받을 수 있습니다.<br>
+SSAlignment_DialogTextAttension,스크스타에서 스쿠페스 2 연동 설정을 하지 않은 경우 사용할 수 없습니다.
+SSAlignment_MessageSuccess,스크스타와의 연동이 완료되었습니다.<br>보상을 선물 상자에서 받으세요.
+SSAlignment_ErrorMessageLock,현재 입력할 수 없습니다. {0} 후에 다시 시도하세요.
+SSAlignment_ErrorMessageInput,스크스타 플레이어 ID와 연동 비밀번호가 정확하게 입력되었는지 확인하세요.
+Dialog_TitleConfirm,확인
+Event_EndMessage,이벤트가 종료되었습니다.
+Common_Search,검색
+Common_SearchPlaceholder,입력하세요
+MusicLibrary_SearchPlaceholder,곡명/작곡가명/작사가명/편곡가명으로 검색할 수 있습니다
+MusicLibrary_SearchWordsEmpty,검색어를 입력하세요
+MusicLibrary_Live,이 곡으로 Live!
+MusicLibrary_SortDefault,기본값
+MusicLibrary_SortMusicName,곡 이름순
+MusicLibrary_SortReleaseTime,발매일 순
+MusicLibrary_MusicCount,{0}곡 / <size=-5>장르 / {1}앨범 / </size>아티스트
+MusicLibrary_MusicEmpty,해당하는 곡이 없습니다.
+MusicLibrary_Button_MusicDetail,곡 상세 정보
+MusicLibrary_Button_Live,라이브
+Multi_CannotSendStamp,현재 스탬프를 사용할 수 없습니다
+MusicLibrary_ReleaseDate,곡 출시일: {0}
+Common_Refresh,갱신
+SortDialog_SortRecommendedGuest,추천 게스트
+MusicSelect_ChangeDifficulty,{0}가 없으므로 {1}을 선택했습니다
+Practice_CantUseItem,자동 사용 가능한 아이템이 없습니다.
+MusicSelect_NotFullCombo,미완료
+RankUpDialog_LpMax,LP 최대치에 도달했습니다.
+StarEvent_TabGroupStarLevelRanking,스타 레벨 순위
+StarEvent_TabGroupStarLevelReward,스타 레벨 보상 상세
+StarEvent_TabGroupStarPointReward,누적 이벤트 포인트 보상 상세
+StarEvent_Get,획득
+StarEvent_Share,하루에 한 번 공유하기
+StarEvent_Assist,스타 어시스트
+StarEvent_ChangeMusic,다른 곡으로 변경
+StarEvent_ChangeMusicFirstPrice,무료 체험
+StarEvent_SkippableStarMission,스킵으로 목표 점수 클리어 가능!
+StarEvent_Skippable,스킵 가능
+StarEvent_MusicClearText,곡을 선택하여 Live에서 목표 점수를 달성하세요!
+StarEvent_PlayCount,오늘 곡 플레이 횟수: {0}/{1}
+StarEvent_SkillPercentUp,스코어 <color=#F93981> + {0}% </color>
+StarEvent_GotAllStarPointReward,모든 이벤트 포인트 보상 획득 완료
+StarEvent_NonPoint,--- 포인트
+StarEvent_NextStarPointReward,다음 누적 이벤트 포인트 보상까지
+StarEvent_GotAllStarLevelReward,모든 스타 레벨 달성 보상 획득 완료
+StarEvent_NextStarLevelReward,다음 스타 레벨 보상
+StarEvent_Total,누적
+StarEvent_StarLevel,스타 레벨
+StarEvent_BeforeLevel,이전의<br>스타 레벨
+StarEvent_ClearCount,<size=36> {0} / </size> {1}
+StarEvent_StarLevelReward,스타 레벨 보상
+StarEvent_StarPointReward,누적 이벤트 포인트 보상
+StarEvent_StarLevelRewardDialogTitle,스타 레벨 보상을 선물로 발송했습니다!
+StarEvent_ChangeMusicMessage,«{0}»을(를) 다른 곡으로 변경하시겠습니까? <br>
+StarEvent_ChangeMusicButton,다른 곡으로 변경
+StarEvent_StarAssistTitle,스타 어시스트 확인
+StarEvent_StarAssistInfo,스타 어시스트 티켓 1개를 소비하여 라이브를 진행하시겠습니까? <br> 스타 어시스트 티켓을 사용하면 라이브 중에 다음과 같은 효과가 적용됩니다.
+StarEvent_StarAssistBuffInfo,부원 육성 보너스【+{0}%】 <br>※부원 육성 보너스는 부원을 일정 수준 이상 육성하면 보너스 값이 상승합니다. <br>・Live 중 무적 상태가 되어 HP가 감소하지 않습니다. <br>・항상 판정 강화 극대가 발동됩니다(BAD까지의 판정을 PERFECT 판정으로 변경). <br>・스킬 발동 확률 20% 증가 <br>・선발 멤버의 스코어 보너스 효과 2배
+StarEvent_StarAssistAmount,스타 어시스트 티켓 보유 수량
+StarEvent_StarAssistButton,스타 어시스트로 라이브
+StarEvent_ShareMessage,#스쿠페스2에서 스타 챌린지 이벤트 진행 중!#나의 스타 레벨
+Event_PointRewardLoop,이후 {0} 포인트마다 획득
+StarEvent_LevelRewardLoop,이후 스타 레벨 1마다 획득
+EventBonus_StarTab_Score,점수 보너스
+EventBonus_StarTab_Item,로그인 아이템 획득 보너스
+EventBonus_ItemBonusStar_Desc,"부원 목록에 선발 멤버가 있으면, 로그인 보너스로 획득할 수 있는 아이템 수가 증가합니다!"
+EventBonus_ItemBonusBonusStar_Attention,※로그인 아이템 획득 보너스는 부원 목록에 있는 선발 멤버 전체의 합계가 적용됩니다.<br>※로그인 아이템 획득 보너스는 로그인 보너스로 스타 어시스트 티켓이 설정된 날에만 적용됩니다.
+StarEvent_PlayBonus_AllGot,오늘 분은 모두 획득했습니다
+StarEvent_Remain_point,남은 {0} 포인트
+EventBonus_StarScoreBonus_Attention,※스코어 보너스는 부원 목록에 있는 모든 멤버의 총합이 적용됩니다
+EventBonus_StarScoreBonus_Desc,부원 목록에 선발 멤버가 있으면<br>이벤트 곡의 Live 클리어 시 획득할 수 있는 점수가 증가합니다!
+Theater_DialogTitle,매일 극장
+GemShop_ClosedGemShopMessage,현재 Loveca를 구매할 수 없습니다.
+GameClose_Payback,환불
+GameClose_Inquiry,문의하기
+GameClose_InformationNote,정보 표시
+GameClose_UserId,ID
+GameClose_PaybackCode,환불 코드
+GameClose_PaidGem,소지 유상 Loveca
+GameClose_Button_Information,정보
+GameClose_Button_Album,앨범
+GameClose_Button_TitleList,칭호
+GameClose_Payback_CopyMessage,"ID , 환불 코드 , 보유 중인 Loveca 내용을 복사했습니다."
+GameClose_Payback_CopyText,"ID {0}, 환불 코드 {1}, 보유한 유료 Loveca {2} <br> <br>"
+Auto_01abf2e45264,실내
+Auto_02724107c812,진행 중인 이벤트 보너스를 종합력에 적용합니다.
+Auto_02b919ddcdf4,돌아가기
+Auto_03274bad099f,보상 증가!
+Auto_0328cfbe3899,소지량<br>
+Auto_033c8131ffca,친구<br>신청
+Auto_038bc41a7c6c,데모
+Auto_03dd9696f109,스타 어시스트 발동 중
+Auto_05db19bd7579,마스터<br>
+Auto_0a462ba1ee08,최근 사용한 스탬프
+Auto_0b9c90355fa7,음 이름
+Auto_0cae74dd2ee6,소울
+Auto_0ce873d68a35,5배
+Auto_0eb944667807,환불 접수 기간
+Auto_0f7fa8f9a3bd,OK<br>
+Auto_0f9511a417ab,라이브 스코어 조작
+Auto_1075010ff27d,이번 달 이용 금액
+Auto_109f7d11a0d6,이벤트 점수
+Auto_123209ff77c4,추천!
+Auto_12b2b7105fb3,메인
+Auto_12d470debc6c,자세히
+Auto_1559210b6441,기타 조건
+Auto_1592365cb790,소비<br>
+Auto_1744ba8fe835,탭하여 입력
+Auto_1798815611ff,이벤트 목록
+Auto_17c2e91f339d,스타 어시스트 사용 중
+Auto_19682bdb9185,초기화
+Auto_19d41bf40aad,교환 포인트
+Auto_1aa6e8ca6610,레벨
+Auto_1ada75706b1c,구글플레이
+Auto_1b51bb0ac522,멤버 총합
+Auto_1d0659501e10,구매 가능한 상품이 없습니다
+Auto_1d3921b31495,1일차
+Auto_1d97f9dcc3d6,다운로드 설정
+Auto_1db118371c67,합계
+Auto_1e5dd6092929,처음으로
+Auto_1ebe6a8e14e1,특기 활성
+Auto_204ca2888aa0,이벤트 가챠 이름
+Auto_20946a364888,제목으로 이동
+Auto_20b77e71a816,완벽<br>진행
+Auto_21125a762c34,켭
+Auto_2184ff8e15c8,룸이 해산되었습니다
+Auto_252e0f7141ed,미션 완료!
+Auto_25f4e117dab6,적용하기
+Auto_264ccbd4abf8,동의하지 않고 게임을 플레이할 경우 <br>실제 보상 추첨이나 응모에 참여할 수 없는 등의 제한이 있습니다<br>
+Auto_2850206c3c5a,연령별 결제 한도
+Auto_2a626ea9baf4,총 점수 보너스
+Auto_2c42bdbb8ded,2024년 4월 1일(월) 00:00 ~ 2024년 6월 17일(월) 14:59
+Auto_2cff4f6ba8c2,카드 이름 (최대 20자)
+Auto_3050c748c4fa,데이터 삭제
+Auto_3091c8446f8d,음성
+Auto_309200e20a10,영상 보기
+Auto_33906a7dfdec,열기
+Auto_35d0f5fbca4b,인증
+Auto_36680a92670b,최대 COMBO 수
+Auto_387d7a59dbaa,켜기
+Auto_38bfb0d36aee,다운로드 크기 9999.99MB
+Auto_3a3662973891,느리게
+Auto_3b45ef3e2d04,설정 없이 종료
+Auto_3cb25413e47f,이벤트 곡 선택
+Auto_3d919fa4840b,재조정
+Auto_3da474537ac3,건너뛰기
+Auto_408090253cc2,정렬
+Auto_41a07ce577b3,교환 횟수 선택
+Auto_42672f9a37d1,선발 멤버
+Auto_42f76867ad2d,에피소드 있음
+Auto_42f9f3c2d790,칭호 변경
+Auto_4315bc5cce32,1회차:
+Auto_441030094524,음량 설정
+Auto_44e681a374ac,중단
+Auto_45bec89c0f50,제거
+Auto_4693ee8bed24,교환 완료
+Auto_482939397cb5,넥스톤 계정 <br> ID012345678 <br> ID012345678
+Auto_5064a0f4ba98,데이터 다운로드
+Auto_506f8b799c18,◆강제 기대 연출 지정◆
+Auto_5291c399b506,티켓 전용
+Auto_536a08d31bbb,빠르게
+Auto_54ac68559d08,보너스
+Auto_576770016382,다음 회복까지
+Auto_587eac1112fa,뒤로 가기
+Auto_58a89456cac6,여러 개 설정
+Auto_5b4f82050b5f,종료일시
+Auto_5bfa6380e816,지속 보너스
+Auto_5c9f61d441b4,한국어<br>
+Auto_5db23947a6dc,이벤트 ID
+Auto_5e9276d98d7e,보너스
+Auto_61f9b95b94af,스킵 시 최고 점수가 리절트 화면의 <br>점수로 표시됩니다
+Auto_622b0710d2c1,아아아아아이이이이우우우우우<br>에에에에에에
+Auto_6287420f60b0,<size=/32>스카우트</size>보너스
+Auto_633a7785dc75,키보드 설정
+Auto_63651cf6d9f8,Live <i>! </i>
+Auto_649df08a448e,영어
+Auto_64f71689e86e,저장
+Auto_65f101b159a1,획득 방법
+Auto_660f91b2b864,부원 목록<br>
+Auto_66fba5a6fa14,설정 저장
+Auto_6740ed068754,라이브 버스트
+Auto_67a0c5e93888,판정 결과를 초기화합니다.
+Auto_6a72085653e4,전체
+Auto_6a9178a4932f,클라이맥스 %
+Auto_6b268944e92c,교환 확인
+Auto_6b30feafd1f3,점수 추가
+Auto_6d9a18833a5a,"<br>를 선택해도 각 에피소드를 다운로드할 수 있습니다 <br>. 나중에 스토리 내의 ""일괄"" 메뉴에서 다운로드할 수 있습니다 <br>. 데이터 양이 많으므로 통신 환경이 좋은 곳에서 실행하십시오 <br> <br>. Wi-Fi 환경에서 다운로드하는 것을 권장합니다."
+Auto_6dd5a42a94c0,설정<br>
+Auto_6e444147a521,영상을 한 번에 다운로드합니다
+Auto_6e6a6f2086bb,다른 항목
+Auto_719ea396ad92,삭제
+Auto_71afae920481,LP 할인
+Auto_74c545d169bf,필요{0}
+Auto_7548ab52c3d1,파워
+Auto_77c6a8345db8,중단 <br> 문구 <br>
+Auto_77dfd2135f4d,취소
+Auto_77f505b6262c,아아아아아이이이이우우우우 <br> 에에에에에에 <br>
+Auto_788a0043ef72,재생 프리팹 선택
+Auto_7c76cd4f10f6,캐릭터 필터
+Auto_7cb690cac947,플레이 보너스
+Auto_7d8bbc065980,총 이벤트 포인트 보너스
+Auto_7ed45871a39c,소지: 99
+Auto_7ef4a9de5c25,캐런서
+Auto_7f450bbd899c,3 소비
+Auto_80212d3591fe,인공
+Auto_8223fef77e91,밴드 필터
+Auto_8293da245b3b,희귀도 필터
+Auto_845ae4bff63e,이벤트 포인트 획득
+Auto_848e23d86457,남은 파워
+Auto_85932094d554,이벤트 포인트 달성 보상
+Auto_88b79a43a5a2,티켓<size=28>으로 스카우트
+Auto_89c6e6591da2,편성
+Auto_8ac8a8695f8c,의상 해방 조건 아아아아아아아아아<br>의상 해방 조건 아아아아아아아아아
+Auto_8b587a7dbf54,전체 밴드 랭크
+Auto_8fb2690daca7,닫기
+Auto_8fc78aae68c7,밴드 랭크
+Auto_8fe39d4e10b7,오름차순<br>
+Auto_9241dc943583,소비
+Auto_9273914e5109,기본값으로<br>되돌리기
+Auto_959f794269e3,사진
+Auto_98205d57bde6,X JAPAN
+Auto_98cb7f8b4243,연속 스킵 횟수
+Auto_9d2900c40ab7,Smile.For.You
+Auto_9ebddc6b6669,LUNA SEA
+Auto_9f783ad4a18c,라이브 설정
+Auto_a1477059aa3b,게스트 설정
+Auto_a1dea8028b01,볼륨
+Auto_a328a2d80d00,삭제
+Auto_a338c21bfd26,스타 레벨 업!
+Auto_a3c686e711e4,카테고리
+Auto_a4911f7f372a,음성 볼륨
+Auto_a8dc0179d0a8,구매 한도
+Auto_a9a279c07f10,교환 수량
+Auto_aa3fa7dd256b,"이벤트에 참여하려면 <br> 이용 약관에 동의해야 합니다 <br>. 내용을 확인한 후 ""동의""를 탭하세요 <br>."
+Auto_ac35bd4adf50,"«러브라이브! 스쿨 아이돌 페스티벌 2 MIRACLE LIVE!»는 <br><br>다음 날짜를 기점으로 서비스를 종료했습니다. <br><br>또한, 앱 전용 통화 «유료 Loveca»의 미사용 잔액 환불은 다음 일정부터 앱 내에서 접수합니다. <br>"
+Auto_ac7c161425e5,LP 소비
+Auto_acca96a91aa4,미해방
+Auto_ad4d9cc1b087,야외
+Auto_ad50489054dd,끔
+Auto_add22ce29a3d,LP 회복량
+Auto_b07900dc57ed,포인트
+Auto_b0e4ee23c952,스카우트 회
+Auto_b13d33a52865,배경
+Auto_b2f2b09e6e2d,보유 {0}
+Auto_b31d5ea85dff,3회차:
+Auto_b68eb2cb5bf1,사용 기한
+Auto_b6e09f881f83,개인 점수
+Auto_b6e3f5c3b4f2,새로운 운명...
+Auto_b72306f4e35d,일반<br>
+Auto_b8143777066d,두 번째:
+Auto_b8571eaa5763,화면 터치
+Auto_b8a4ee600c4a,년도
+Auto_b9fa67abcaf9,선택
+Auto_bc811258ae9f,포인트
+Auto_bd89f983989e,회복 확인
+Auto_bf22940fda0d,교환 횟수 확인
+Auto_bf62b8f395bb,판정 조정 결과
+Auto_c25f358874d1,자유 Live로
+Auto_c28c25bf8e62,아이템 정보
+Auto_c401efeb943c,랭크 상승
+Auto_c7eb0f35af72,센터
+Auto_c7f325f13f16,되돌리기
+Auto_c998d2ee5b08,시작
+Auto_cc5ea3852219,리듬에 맞춰 리듬 아이콘을 탭하세요.
+Auto_cd131363eae4,GLAY
+Auto_cde3eb972d17,재개
+Auto_d00d84c15d3a,라이브 버스트<br>
+Auto_d47b6f2a9df1,<size=26>현재 </size>의 <size=24> </size> 단계 <br>
+Auto_d54d12f95c41,이름
+Auto_d5ab84b435fb,학년
+Auto_d63f619942b9,자연
+Auto_d6b401a4b2ac,미션<br>완료!!
+Auto_d8cb03e33092,어필
+Auto_d8ec9e35d2f2,멤버 이름
+Auto_db66ad7b9586,4번째:
+Auto_dcae5862b56f,콤보
+Auto_dd48a1149548,순위
+Auto_df50ec2cd8cb,아이템 보유 개수
+Auto_df6861322391,카드 이름 최대 열 글자 카드 이름 최대 열 글자
+Auto_df6e6c5f5960,멀티 총점
+Auto_e0491d31d0f7,멀티 라이브로
+Auto_e11c09011cad,오랫동안 사랑해주셔서 진심으로 감사합니다.<br>
+Auto_e4d2bab524b4,"『러브라이브! 스쿨 아이돌 페스티벌 2 MIRACLE LIVE!』는 <br>2024년 3월 31일에 서비스를 종료했습니다. <br> 앱 전용 통화인 '유료 Loveca'의 미사용 잔액 환불을 원하시는 경우, <br> 표시된 아래 내용을 복사하여 '환불' 양식으로 문의해 주시기 바랍니다. <br> <br>"
+Auto_e7a1f2b591d7,무료 Loveca부터 소비됩니다.
+Auto_e7ae8d0559ec,보유 메달
+Auto_e7e170510efe,2024년 3월 31일 (일) 15:00
+Auto_eab6741c0f59,텍스트
+Auto_eb1a2d429c58,실행
+Auto_ebb93d3b53a4,효과
+Auto_ebcf18c786af,기술
+Auto_ec828e93801a,레벨<br>
+Auto_ed28cf13bde2,홈
+Auto_edcb599b9885,지정한 가챠의 영상이 재생됩니다 <br><br> 뽑기 결과는 가챠와 관계없이 설정된 것으로 나타납니다.
+Auto_edee9402d198,다음
+Auto_ee3c38fe094f,판정 결과
+Auto_ef3619115ff6,필요 스카우트 포인트
+Auto_efd565d40ade,반복 재생 전환
+Auto_f0d441f3dfff,의상 이름
+Auto_f12ab05bb974,내림차순<br>
+Auto_f22f0eb3fa2b,좋아하는 밴드
+Auto_f4cb18567198,카드를 추가합니다<br>
+Auto_f5ecb4b9a22d,텍스트<br>텍스트<br>텍스트<br>텍스트
+Auto_fe212fc5ce20,스킵
+Auto_fff655d2974f,중앙<br>
+Auto_003c9447ae9b,헤더 버튼
+Auto_00b165f88921,음성
+Auto_024500726b03,배포
+Auto_029ebd875fdb,텍스트<br>텍스트
+Auto_044adfd9ed9d,단계 4
+Auto_04b455ccba55,기간 한정 아이템 교환소
+Auto_057d38b205d3,그룹 제목
+Auto_05bf2aac7949,"데이터 인계 시, 현재 기기의 게임 데이터가 <br> 삭제되고, 인계 원본의 게임 데이터로 덮어씌워집니다. <br> 다른 OS 간에 인계를 진행할 경우, 유료 메달은 무료 메달로 변환됩니다. <br> 동일한 OS 내에서 인계를 진행할 경우, 그대로 인계됩니다. <br>"
+Auto_079bf11eeff3,Ver 0.0.1
+Auto_07a05e260d6b,센터 스킬 이름
+Auto_07ddf136db16,16~17세:
+Auto_09ec0c5b620d,텍스트 텍스트 텍스트
+Auto_0c6ca3b6cc0a,이름
+Auto_0cb8722f43db,LP가 99만큼 회복되었습니다.
+Auto_0d57f9526844,플레이 데이터가 없습니다.<br>곡을 플레이하세요!
+Auto_0e68b6445410,교환할 상품이 없습니다
+Auto_0e8f4f23a65a,"빙고 1, 2 클리어 시 도전 가능"
+Auto_0f04165846d6,선택
+Auto_0f16b706d0e6,영문자와 숫자를 조합하여 8자 이상 32자 이하로 입력하세요.
+Auto_11412d0e8910,특별 제공 비율
+Auto_121def961f9a,인계 ID<br>
+Auto_13e47abd10a7,스피릿을 ×100 소비하여 라이브를 시작하시겠습니까? <br>※라이브 버스트는 소비되지 않습니다.
+Auto_13fd30e09401,매주 X요일에 초기화
+Auto_146927317e55,이벤트 포인트<br>달성 보상
+Auto_14bf1f14b527,"골드를 소비하여, <br>「」을(를) 무작위로 다른 곡으로 변경하시겠습니까?"
+Auto_163d2f0d102b,"5,000원"
+Auto_1703cc1d1ab7,다음 중 하나를 설정하면 기기 변경 시 데이터를 계승할 수 있습니다.<br>앱 삭제로 인한 데이터 손실에 대비하여 사용할 수 있습니다.
+Auto_171264a7eb78,유키아아아아아아아
+Auto_1738ae542173,텍스트텍스트텍스트아
+Auto_17a21f8751b1,호노카
+Auto_18ce79396792,수습 매니저
+Auto_193f0038f792,Loveca 개를 소비하여 11회 스카우트하시겠습니까? <br> <color=#C70F01> <size=30> 유료 Loveca가 부족합니다. 구매하시겠습니까? </color> </size>
+Auto_1996a5682af1,서비스 종료 안내<br>
+Auto_1a355bfca80b,유료 메달 개를 소비하여 구매하시겠습니까?<br>
+Auto_1ba4c95c1b7e,"μ's의 4번째 싱글 커플링 곡입니다. TV 애니메이션에서 니시키노 마키가 음악실에서 기타를 치며 노래하는 모습이나 졸업식 합창 장면에서도 기억에 남는 곡입니다. 다양한 버전이 있지만, 오리지널 Ver.에서는 베이스 라인에도 주목해 주시기 바랍니다. <br>μ's의 4번째 싱글 커플링 곡입니다. TV 애니메이션에서 니시키노 마키가 음악실에서 기타를 치며 노래하는 모습이나 졸업식 합창 장면에서도 기억에 남는 곡입니다. 다양한 버전이 있지만, 오리지널 Ver.에서는 베이스 라인에도 주목해 주시기 바랍니다. <br>μ's의 4번째 싱글 커플링 곡입니다. TV 애니메이션에서 니시키노 마키가 음악실에서 기타를 치며 노래하는 모습이나 졸업식 합창 장면에서도 기억에 남는 곡입니다. 다양한 버전이 있지만, 오리지널 Ver.에서는 베이스 라인에도 주목해 주시기 바랍니다."
+Auto_1be7423211a5,아이템명 아아아아아아아아<br>
+Auto_1e0e1976379b,9999999분
+Auto_1e17ebb75b4d,Loveca 스톤 100개 <br> <size=22> <color=#F93981> 보너스 Loveca 스톤 100개
+Auto_1e531d5608ba,(유)100
+Auto_1fd729e61328,인계 설정 완료<br>
+Auto_21461c8ad16a,캠페인 이름 캠페인 이름의 시리얼 코드입니다
+Auto_217db72fc82b,스킬 레벨
+Auto_2187f31d0823,스킬 발동률 <color=#F93981> +</color> 증가
+Auto_21a6013d6db7,"이름1, 이름2"
+Auto_231660b3e9aa,유키아아아아아아아아아
+Auto_2359a6bc9f8e,12/31 23:59까지
+Auto_2372659b2fa8,캐릭터1: 텍스트1<br>캐릭터1: 텍스트1
+Auto_23c425468cfa,로그인 획득 보너스
+Auto_23d692f07a3f,부모
+Auto_24331d4b3c4b,EXPERT 10
+Auto_24ef5199c19f,다운로드…
+Auto_265c145b1c11,소비 오토 버스트 설정
+Auto_28578faf0062,새 텍스트
+Auto_2910ca68352e,『러브라이브! 스쿨 아이돌 페스티벌 2 MIRACLE LIVE!』는 <br>2024년 3월 31일(일)을 기해 서비스를 종료했습니다. <br><br>■환불 접수 기간: 2024년 4월 1일(월) 00:00 ~ 2024년 6월 17일(월) 14:59 <br><br>그동안 이용해 주셔서 진심으로 감사합니다.
+Auto_2991fd24eff8,쿨
+Auto_2a9e2a96f3a5,※생년월일은 나중에 변경할 수 없습니다.
+Auto_2ae6850cf007,EXPERT 레벨 11
+Auto_2db52bd8d99d,오늘 곡 플레이 횟수: 1/10
+Auto_2e84ab497270,카드 이름 (최대 30자)
+Auto_30629014ffdf,"1,000,000위"
+Auto_327896c958c6,신다 에미
+Auto_32cca4a1edcd,전문가 레벨 11
+Auto_32f04a55794f,반복: 비활성화
+Auto_349584413283,사용자 이름 (최대 10자)
+Auto_3500bbd544a3,• 부원 육성 보너스 <br> • Live 중 무적 상태가 되어 HP가 감소하지 않음 <br> • 항상 판정 강화 극대 효과 발동 (BAD까지의 판정을 PERFECT 판정으로 변경) <br> • 스킬 발동 확률 20% 증가 <br> • 선발 멤버의 점수 보너스 효과 2배 <br> ※ 부원 육성 보너스는 부원을 더 육성하면 보너스 값이 상승합니다
+Auto_354fd93c17f2,스토리 제목
+Auto_3588a5b623b0,단계 7
+Auto_360cb694c2ae,초
+Auto_36fc221e2e45,"작사: 하타 아키, 작곡: 코지마 료타, 편곡: 쿠시마 마오노"
+Auto_3770af0c5c4e,1000pt
+Auto_37900575e30d,속도:
+Auto_383617f9c339,제목
+Auto_38bf4ac9d31b,123456789pt
+Auto_38d63311e93b,순수
+Auto_393d0282bf7d,다음 아이템을 획득했습니다<br>
+Auto_399acfa696ba,유닛명 6789012345
+Auto_3ae3222a8a7c,ID
+Auto_3b18e8e33250,볼륨
+Auto_3bdd53e3c81d,미소
+Auto_3c153c60bc73,아이템/카드 이름
+Auto_3cab1d5076f2,"다른 OS 간에 계정을 이전할 경우, 유료 보석은 무료 보석으로 전환됩니다.<br>동일한 OS 내에서 계정을 이전하는 경우, 유료 보석은 그대로 이전됩니다."
+Auto_3e252f2489fa,세리프가 들어갑니다. <br> 세리프가 들어갑니다. <br> 세리프가 들어갑니다.
+Auto_3f5567240d61,O형
+Auto_3fed241ef790,누적 이벤트
+Auto_4002d1a146fa,"μ's, Aqours, 니지가쿠, Liella!의 스쿨 아이돌 일상 에피소드 3개를 시청하세요."
+Auto_40e01c24654a,니지하키 학원 스쿨 아이돌 동아리
+Auto_414ee4134bd7,"부원 목록에 선발 멤버가 있으면, <br> 로그인 보너스로 획득할 수 있는 미라클 스타의 수가 증가합니다!"
+Auto_41b187f87bd2,157cm
+Auto_432849e0e729,캐릭터 이름
+Auto_434ea13d1c5f,aaaaaaaaaaaaaa
+Auto_439bd1f70732,텍스트 상자 구현을 남겨둡니다.
+Auto_451416850ad2,블루투스 모드
+Auto_458a25f3bc2b,aaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>12345678901234567890123456<br>26자 × 3행
+Auto_45a309dcbdfa,<br>12345678901234567890123456<br>26자 × 3행<br>
+Auto_463938856430,인계 ID:
+Auto_463dc0e2645f,작사:<br>작곡/편곡:
+Auto_47b4753f220d,제목
+Auto_486a5b286b90,일일 미션을 모두 클리어하자.<br>일일 미션을 모두 클리어하자.
+Auto_4ac93a41ce71,작곡: -
+Auto_4b8ea9b1a845,"환불은 불가능합니다. <br> MIRACLE 패스는 가입 후 처음 1개월 동안 체험 기간입니다. <br> 체험 기간이 종료되면 해지할 때까지 매월 이용 중인 스토어에서 결제가 이루어지고, <br> 유효 기간이 자동으로 갱신됩니다. <br> 유효 기간을 갱신하지 않고 체험 기간만으로 이용을 종료하려면, <br> 체험 기간 종료일 2일 전까지 해지 절차를 진행해 주세요. <br> 유효 기간은 구매한 날 또는 자동 갱신된 날부터 1개월입니다. <br> 유효 기간은 매월 자동으로 갱신됩니다. <br> 자동 갱신 시 월 980엔의 요금이 부과됩니다. <br> MIRACLE 패스의 자동 갱신을 중단하지 않는 한, 자동으로 유효 기간이 갱신됩니다. <br> 갱신 당일에 갱신 처리에 지연이 발생할 수 있습니다. <br> 일시적으로 효과가 나타나지 않으면 시간을 두고 다시 로드해 보세요. <br> 해지 시에는 유효 기간 종료 48시간 전까지 자동 갱신을 중단해야 합니다. <br> 도중에 해지해도 유효 기간 동안은 혜택을 받을 수 있습니다. <br> MIRACLE 패스는 가입 시 이용 중인 앱 계정에서만 유효합니다. <br> 이전 계정의 유효 기간이 종료될 때까지는, <br> 새롭게 가입할 수 없으니 주의해 주세요. <br> 또한, 앱 삭제 등으로 새로운 앱 계정을 생성한 경우, <br> MIRACLE 패스를 이어받을 수 없습니다. <br> 동일한 MIRACLE 패스에 중복/반복 가입하는 경우, <br> 혜택을 중복으로 받을 수 없습니다. <br> 유효 기간 종료 후 실제로 혜택이 무효화될 때까지 시간이 다소 걸릴 수 있습니다. <br> 앱을 삭제해도 해지 절차를 진행하지 않으면, <br> 자동 갱신은 계속되므로 주의해 주세요. <br> 다른 OS로 기기를 변경하거나, 동일한 OS의 다른 계정으로 계정을 이전하는 경우에도, <br> 유효 기간 동안 MIRACLE 패스의 효과가 이어집니다. <br> 따라서 새롭게 MIRACLE 패스에 가입하려는 분은 이전에 사용하던 플랫폼(또는 <br> 계정)에서 해지를 완료한 후 가입해 주세요. <br> 이전에 사용하던 플랫폼(또는 계정)의 유효 기간이 종료될 때까지는, <br> 새롭게 가입할 수 없습니다. <br><br>■유효 기간 확인 방법, 해지 방법 (자동 갱신 중단) <br>MIRACLE 패스의 해지는 다음 절차로 진행할 수 있습니다. <br> 해지 후 유효 기간이 종료되면 무효화됩니다. <br>※OS 버전 및 기기에 따라 조작 방법이 다를 수 있습니다. 양해 부탁드립니다. <br><br>1. 본 화면 하단에 표시된 ""해지"" 버튼을 탭합니다. <br>2. ""왼쪽 상단의 ≡ 아이콘 > 정기 구매"" 순서로 탭합니다. <br>3. 해지를 원하는 경우, 해당 상품을 탭합니다. <br>4. ""정기 구매 해지""를 탭하여 해지 절차를 진행합니다."
+Auto_4ca3fbc3f316,포토 스티커
+Auto_4de912463d5b,* 무료 Loveca 스톤에서 사용됩니다
+Auto_4e8e36e11ba0,JASRAC 라이선스<br>제123456789ABCDEFG호
+Auto_4f3f313eb655,"우리의 라이브, 너와의 인생"
+Auto_4f62ed577823,"다른 OS 간에 계정을 이전할 경우, 유료 보석은 무료 보석으로 전환됩니다.<br>동일한 OS에서 계정을 이전할 경우, 유료 보석은 그대로 이전됩니다."
+Auto_513968cec3d1,2023/06/30까지
+Auto_522175083f0b,캐시 삭제
+Auto_526b4090303d,중요한 정보이므로 타인에게 알려주지 마세요 <br> 메모나 스크린샷을 저장해 주세요 <br> 비밀번호는 나중에 변경할 수 있습니다 <br>
+Auto_5472f4068cb1,"호리우치 마리나(츠바키 루리카 역), 아사이 나나미(코우 유즈하 역), 안 주리아(호조 유키노 역), 코야마 리나(아마쿠사 히카루 역), 사토 미와(미카사 마야 역)"
+Auto_55ee85cd4dcc,성 이름
+Auto_560dd21d26a8,인계 ID와 비밀번호를 입력하세요.<br>
+Auto_567ad1eee4be,보상 이름
+Auto_56809f756f76,◯◯◯◯◯의 특전을 받으시겠습니까?<br>
+Auto_572b0f9c1d1b,텍스트텍스트텍스트텍스트텍스트토텍스트텍스트토텍스트텍스트
+Auto_572e68ce60da,10pt 획득
+Auto_57859cb7238a,캐릭터 이름
+Auto_586b09d35825,개수: 9999999
+Auto_58c3db41d9fc,선택 가챠 동영상 지정 정보
+Auto_58f52a673e60,아이템/카드 이름 (전각 30자 이상)
+Auto_595596e10b8b,성장 가능한 카드가 없습니다.
+Auto_5a6b54f04f20,9999999pt
+Auto_5aa7dabc547e,"(최대 2줄, 한 줄에 26자)"
+Auto_5b0e14341d79,고사카 호노카
+Auto_5d7171891b9e,스토리 제목
+Auto_5e2c3623f817,"배터리 잔량이 부족합니다 <br> 현재 배터리 잔량은 <color=""red""> 7% </color> 입니다 <br> 배터리 잔량이 낮으면 <br> 라이브가 중단될 수 있습니다 <br> 충전을 권장합니다"
+Auto_5e63c03e564f,MV 감상을 중단하고<br>곡 선택 화면으로 돌아갈까요?
+Auto_5e88baf24aea,캐시 삭제 완료
+Auto_5f21648a666a,남은 일수: 999일
+Auto_6114d553d8a5,*로그보 획득 보너스는 부원 목록에 있는 선발 멤버 전체의 합계가 적용됩니다.<br>*로그보 획득 보너스는 로그인 보너스로 미라클 스타가 설정된 날에만 적용됩니다.
+Auto_62933bba4c77,출처:
+Auto_62b3c4231032,클리어 횟수<br>
+Auto_6311b5d2d37d,레벨
+Auto_64e02dbe9ba6,단계 1
+Auto_669d4fab42d5,남은 개 (매주 월요일 0시에 초기화)
+Auto_67c008e4fd30,표시 이름
+Auto_67dbec9cc4e4,"최대 10,000원"
+Auto_6842c74c4d51,어린이
+Auto_6b3f6985eb92,리틀 데몬 1호
+Auto_6bfa25be446d,스포츠 음료
+Auto_6d17169b8845,스토리 해방
+Auto_6eee3369a6c0,XXXXX XXXXX XXXXX
+Auto_6f9b9af3cd6e,메시지
+Auto_6fc69aae7ef1,20XX/99/99 99:99
+Auto_6fd05cc842c9,<color=#ff5500><size=28>하루에 1회</color></size><br>매일 0시에 초기화됩니다.
+Auto_709a23220f2c,이름
+Auto_7123fcc9c635,용도345678901234567890123456789
+Auto_7171d9cb0cf3,아이템 이름
+Auto_71cd10385774,최대까지 한계 돌파하면 영상을 해제할 수 있습니다.
+Auto_71fd4dacfad1,8월 1일
+Auto_737f138ed948,오늘<br>이용 완료
+Auto_75e1496591d4,보기
+Auto_76fb59ce183d,아이템 등의 설명 아이템 등의 설명 아이템 등의 설명 ○<br>아이템 등의 설명 아이템 등의 설명 아이템 등의 설명 ○
+Auto_773a03413bdc,아이템 이름 최대 스무 글자 이상
+Auto_78f1b4350a83,2021/12/31 12:00까지
+Auto_794145f030ff,버튼
+Auto_7a5db5a1f223,2년
+Auto_7bf2e2580045,회고 챕터
+Auto_7c1698e461f9,멤버 이름 (최대 10자)
+Auto_7c54bd6c4a3f,카드 이름의<br>파라미터가 올랐습니다.
+Auto_7dee13bf0dd8,요시키
+Auto_7f2b15f3359a,16일 남음
+Auto_7f91240a914e,교환 아이템 이름은 최대 16자입니다.
+Auto_82434dcead71,옵션 B
+Auto_827ada3af78a,"데이터 인계 시, 현재 기기의 게임 데이터가 삭제되고 <br>인계 원본의 게임 데이터로 덮어씌워집니다. <br><br><color=#c70f01>다른 OS 간에 인계를 진행할 경우, 유료 보석은 무료 보석으로 변환됩니다. <br>동일한 OS 간의 인계 시에는 유료 보석이 그대로 인계됩니다. </color>"
+Auto_8449eea355c4,센터 스킬 설명<br>센터 스킬 설명
+Auto_860981a8b394,제목 제목 제목 타이토
+Auto_87c522a79361,스킬 설명 <br> 스킬 설명 <br> 스킬 설명
+Auto_8957ed473795,편곡: -
+Auto_8b0bbe5fa2a0,생년월일은 나중에 변경할 수 없습니다.
+Auto_8bdd1e8256dd,일반 1
+Auto_8c3c5dc7add8,계속 진행하시겠습니까?<br>
+Auto_8d1308cd282c,아사카 카린
+Auto_8d54688f884e,해시태그
+Auto_8d7f5abed4eb,캐시가 성공적으로 삭제되었습니다.<br>
+Auto_8ec81c9e6bba,획득한 칭호가 없습니다.
+Auto_8ecd1842d6d5,배터리 잔량 확인
+Auto_8eee6c561bb2,"다른 OS 간에 계정 이전 시, 유료 보석은 무료 보석으로 전환됩니다. <br> 동일한 OS 간의 계정 이전 시에는 유료 보석이 그대로 이전됩니다. <br>"
+Auto_8f7124fb70a8,튜토리얼 수고하셨습니다<br>타이틀 화면으로 돌아갑니다
+Auto_91152b56f991,레이어<br>
+Auto_920d74d2ff09,1일차
+Auto_920f67831677,특별 과제
+Auto_940387049ad0,도쿄의 하라주쿠를 중심으로 활동하는 사유케오카 여자 고등학교의 스쿨 아이돌 그룹 <br> 아아아아아아아아아아아아아아아아아아아 <br> 아아아아아아아아아아아아아아아아아아아
+Auto_94e6b092259d,캐시를 정리 중입니다.<br>완료될 때까지 잠시 기다려 주세요.
+Auto_953670412850,"블루투스 이어폰 연결로 블루투스 모드로 변경되었습니다 <br> 블루투스 모드에서는 라이브 중, 탭 효과음이 지연될 수 있습니다 <br> ※ 블루투스용 판정 조정이 적용됩니다"
+Auto_957c2a10d823,유닛 이름은 최대 16자입니다.
+Auto_965fb2ddf63d,받기
+Auto_97855c87fb9b,단계 6
+Auto_9850ea73a3e8,텍스트텍스트텍스트텍스트
+Auto_98997bef6406,확인<br>
+Auto_99122787e954,메시지 메시지 메시지 메시지 ●● <br> 메시지 메시지 메시지 메시지 <br> 두 글자 <br> 네 줄
+Auto_99940a7d6018,<size=-3>배</size>
+Auto_9a5e7fc5a514,그래서 우리는 노래해!
+Auto_9bc6fb8cccfc,"최대 30건까지 보관할 수 있습니다. 한도를 초과하면 오래된 기록부터 삭제됩니다. 또한, 받은 기록은 기록 표시에서 100일이 지나면 자동으로 삭제됩니다."
+Auto_9d3cadaec013,"다른 OS 간에 계정을 이전할 경우, 유료 보석은 무료 보석으로 전환됩니다.<br>동일한 OS 간의 계정 이전에 해당되지 않습니다."
+Auto_9d81b6cadd5c,경험치 표시 영역
+Auto_9d86b9378453,99999위
+Auto_9daaa404b4c3,아이템/카드 이름 (전각 30자 이상)
+Auto_a0685b910206,검색
+Auto_a08046709963,작곡: 아부라제미 <br> 작사: 히구라시 <br> 편곡: 민민제미
+Auto_a0d95c9b62e6,텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트텍스트
+Auto_a0ec88460069,곡 출시일: 8888/88/88
+Auto_a1a8a57f247c,Live 버스트가 10회 회복되었습니다.<br>친구 수의 상한이 증가했습니다. 5 → 10
+Auto_a45ad5596a9e,성 이름
+Auto_a50b3e2b4507,아이템 이름 최대 열두 글자
+Auto_a65f3a8a2407,72시간 한정
+Auto_a69be1e057ef,1학년
+Auto_a6a31e215fdd,이벤트 P
+Auto_a7726b3f99f0,"아아아아아(한 줄에 최대 21자, 두 줄)"
+Auto_a78153e9f407,ABCD EFGH IJKL MNOP
+Auto_a808eee2241b,카드 이름 가장 긴 세 글자 카드를 받으세요<br>받은 메뉴는 잠시 후 표시됩니다.
+Auto_a94d5d0c7027,티켓 이름
+Auto_aa1168393020,생년월일을 입력하여 연령을 확인하십시오.
+Auto_ac34920d91ed,보상 • 경험치
+Auto_ac6c98656ccc,LAWSON
+Auto_acb992ab8026,설정 없음
+Auto_ad9ec245bacb,EXPERT 레벨 <size=26>Lv </size>
+Auto_adf974909200,"이번 달 이용 금액이 10만을 초과하지만, 계속 구매하시겠습니까?"
+Auto_afa7944cae4b,한 줄에 21자<br>최대 2줄
+Auto_b067846ca702,2099/12/31 00:00까지
+Auto_b1181d44cd51,아이템 등의 설명
+Auto_b2ad896a1cb2,단계 2
+Auto_b3361a468f26,2021년 11월 30일 13:59까지
+Auto_b4ae1b9654fd,대사가 들어갑니다. <br> 대사가 들어갑니다. <br> 대사가 들어갑니다.
+Auto_b528c11750d0,선물하기
+Auto_b5414c090b1d,"이벤트 포인트 보너스 효과는 중복되지 않으며, 편성된 멤버 중에서 가장 높은 효과만 적용됩니다."
+Auto_b59e287feb4c,남은 횟수 99회
+Auto_b78072c47e29,센터 스킬 설명 <br> 센터 스킬 설명 <br> 센터 스킬 설명
+Auto_b7dfc9785b79,미완성 드림! (츠바키 사카나 여자 고등학교 Ver.)
+Auto_b803c31897b9,캐시 삭제가 완료되었습니다.<br>
+Auto_b8be7f2cb5de,스카우트<br>텍스트
+Auto_b95b73ebd08b,162cm
+Auto_ba5dc2cc4de4,니지노하카 학원 스쿨 아이돌 동아리 셀렉션
+Auto_baed348504d9,(무)-1000
+Auto_bc40521e5705,스토리 제목
+Auto_bccc54ef43f6,좋아하는 멤버 획득
+Auto_be3bffb9fcbf,레벨 99
+Auto_be60bc27fbf7,<size=50>10</size>회 스카우트
+Auto_bef81964e6fa,트라이 레벨 1 달성
+Auto_bf4c732a9812,선발 멤버를 편성하면 이벤트 포인트 보너스가 발동됩니다!<br>라이브 클리어 시 획득하는 이벤트 포인트가 증가합니다!
+Auto_bf91f3a572ba,"<br> 사용 기한이 빠른 오토 버스트부터 사용됩니다 <br> 오토 버스트는 클리어한 곡에만 사용할 수 있습니다 <br> 라이브 버스트와 오토 버스트를 동시에 사용할 수 없습니다 <color=#D73C55> 사용할 수 있는 버스트가 없어도 플레이할 수 있습니다. 단, 보상, 경험치 및 이벤트 포인트는 1배로 적용됩니다 </color> <br>"
+Auto_c1fa719d598a,스피릿 사용 확인
+Auto_c3a4f560ab26,메시지 메시지 메시지 메시지<br>메시지 메시지 메시지 메시지
+Auto_c4a400246fd1,연동할 SNS 계정을 선택하세요.
+Auto_c4c9a1fdfc9e,표시할 내용을 입력<br> 표시할 내용을 입력<br>
+Auto_c6d374d72d7f,미소와 함께 라이브! (니지노하키 학원 스쿨 아이돌 동아리 버전)
+Auto_c6de9c87f72e,레벨 9/9
+Auto_c76d98f6d9fb,「스토리 타입#○○」의<br>제○○「스토리 파트..」이(가) 해금되었습니다!
+Auto_c892f3e56f53,프리미엄 팩을 구매하시겠습니까?
+Auto_c9fac4d62211,편성에서 속성 p의 합계를 29000 이상으로 만드세요.
+Auto_ca61133f09ff,오늘 곡 플레이 횟수: 1/5
+Auto_ca635e2d27c2,asdfasdfgasdgf
+Auto_ca7ddec2aa05,"현재 남은 Live Burst가 설정량을 하회합니다. <br> Live Burst를 회복하지 않고, 현재 사용할 수 있는 양만 <br> 소비하여 Live를 진행하시겠습니까? <br>"
+Auto_cad73579d948,2022/12/12 12:12까지
+Auto_caeac8b0e507,곡명
+Auto_cb3ba916e5a5,밴드 랭크 업
+Auto_cc5e60312e77,다음 중 하나를 설정하면 기기 변경 시 데이터를 계승할 수 있습니다.<br>앱 삭제로 인한 데이터 손실에 대비하여 사용할 수도 있습니다.
+Auto_cd292cafcb22,카드 이름 최대 30자 카드 이름 최대 30자 카드 이름 최대 30자를 획득했습니다<br>※획득한 멤버는 즉시 적용됩니다
+Auto_cefaf311b26d,멀티플레이에서 다른 유저에게 피해를 주는 행위가 확인되었습니다 <br> 기능이 일시적으로 제한됩니다 <br> 해제될 때까지 기다려 주세요
+Auto_cff4d31a542a,이번 달에 9999회 남음
+Auto_d109f177e1ca,"*미라클 스타 획득 보너스의 효과는 중복되지 않으며, 부원 목록에서 가장 높은 효과만 적용됩니다.<br>*로그인 보너스로 미라클 스타가 설정된 날에만 증가합니다."
+Auto_d13b8de51614,선택한 아이템을 소비하여 LP를 999 회복하시겠습니까?
+Auto_d26e16005b9b,유닛 이름 67890123456
+Auto_d3956f3f07bd,센터 스킬이란? <br>호게 <br>호게
+Auto_d49438232a89,포인트 특공 우선
+Auto_d49d030a4c41,메뉴로 이동
+Auto_d514ddda1f2b,니지노하기 학원 스쿨 아이돌 동아리<br>
+Auto_d5e65e858e9f,JASRAC 라이선스<br>번호 123456789ABCDEFG
+Auto_d68606f69a20,총 경험치:
+Auto_d7d50bd43ec5,123456 76gHH JGFDD
+Auto_d7d921bdbb52,지역 이름
+Auto_d95c4718456b,캠페인 이름을 여기에 입력하세요
+Auto_da4223df6db9,아래 아이템을 획득했습니다.<br>
+Auto_daf84f7c7d22,전반부
+Auto_dc7f77b4ccfc,반복 재생
+Auto_e0bf83c834c3,--- <size=30>위 </size>
+Auto_e11359efb14c,ROSIER
+Auto_e148ce3a95d1,소비 버스트 설정
+Auto_e1c8e6e7609b,"데이터 인계 설정이 완료되었습니다. <br>인계 대상 기기에 앱을 다운로드한 후, <br>타이틀 화면의 [메뉴] > [데이터 인계]에서 <br>인계 ID와 비밀번호를 입력하세요. <br>"
+Auto_e1dfd8068c2c,일시 정지 중
+Auto_e2c1a45b20e9,에피소드
+Auto_e2c3fd94c0d0,<size=100>남쪽<size=80> <size=100>코<size=80>토 아아아아아
+Auto_e2dd1dd4eff5,컷 제목이 여기에 표시됩니다. 글자 수 제한은 24자입니다.
+Auto_e41a824f0330,"あああああ(최대 1행 18자, 2행)"
+Auto_e4fed19cc108,1000개의 보석을 소비하여 아이템 세트를 구매합니다.<br>이 상품은 유료 보석으로만 구매할 수 있습니다.
+Auto_e681a79dd251,칭호 설명 <br> 칭호 설명 <br>
+Auto_e6a58fc3b7ed,5단계
+Auto_e734b3d49dce,작사: 야마다 다카히로 <br> 작곡: 야마다 다카히로 <br> 편곡자: 야마다 다카히로
+Auto_e760d2bb643b,캐시를 삭제합니다.<br>진행하시겠습니까?
+Auto_e8a8b7c6038e,Loveca 구매 필요
+Auto_eb2d423b05fd,스카우트 포인트
+Auto_eca4f8397ade,랭크<br>
+Auto_ed19e903d580,스킬 이름
+Auto_ee1a9acc0e95,표시할 이용 기록이 없습니다
+Auto_ee4c907f5db2,FPS
+Auto_eedc6a01343e,2020/1/1 17:00까지
+Auto_ef900ac4aaaa,아티스트 이름
+Auto_f082d04a8efb,비엔나 마르가레테
+Auto_f08c587b54a5,문구문구문구문구문구문구문구문구문구문구문구 <br> 문구문구문구문구문구문구문구문구문구문구문구 <br> 문구문구문구문구문구문구문구문구문구문구문구 <br> 문구문구문구문구문구문구문구문구문구문구문구 <br> 문구문구문구문구문구문구문구문구문구문구문구 <br> 문구문구문구문구문구문구문구문구문구문구문구 <br> 문구문구문구문구문구문구문구문구문구문구문구 <br> 문구문구문구문구문구문구문구문구문구문구문구 <br>
+Auto_f1399a500121,단계 3<br>
+Auto_f23c1a3a61ab,"야자와 니코(CV. 토쿠이 아오이), 호시조라 린(CV. 이이다 리호), 코이즈미 하나요(CV. 쿠보 유리카)"
+Auto_f265c8f36b84,<size=100>남쪽<size=80> <size=100>코<size=80>토리
+Auto_f65f17e85292,옵션 A
+Auto_f660160beb91,메시지
+Auto_f66750e6a4d9,개인 정보 보호 정책<br>
+Auto_f6f99b4fccd5,제목
+Auto_fa4421e93912,"내 마음의 날개여, 그대에게로 날아가라!"
+Auto_fc02722f2e79,파라미터 증가
+Auto_fe1465b2f630,캐시를 삭제합니다.
+Auto_ff511e92f6a2,마커 속도 = 6
+Auto_3deeeac74475,새 텍스트 새 텍스트<br>새 텍스트 새 텍스트
+Auto_316076ac0fd6,호노카 코사카
+Auto_e33d9b3310c8,취미:
+Auto_c3328c39b0e2,텍스트
+Auto_b31a6165ed15,참가 중
+Auto_e08da1d02602,선택 상태
+Auto_e59d7bc19c8f,이벤트 포인트 보너스는 편성 중인 부원 중에서 가장 높은 효과를 가진 부원에게만 적용됩니다.
+Auto_56284117f22b,유닛<br>정보
+Auto_229ac5ad1902,ID:
+Auto_8f6f274bdbc6,잘 부탁드립니다 잘 부탁드립니다 문<br>자 수는 전각 30자
+Auto_d1eb1a8c785c,최근 로그인: 1시간 전
+Auto_07ec0ce76690,좋아하는<br>친구만 보기
+Auto_e6a697ba40c2,친구 목록
+Auto_ec7ae06b0999,해제
+Auto_d7831e09e2fa,친구 요청 거절
+Auto_9aebaee878f6,현재 <size=32>단계 </size>
+Auto_ffdb97c8a723,쿨 여제
+Auto_861285cde494,"쿨 포인트가 12% 증가하고, 호노카와 하나요 멤버는 추가로 쿨 포인트가 9% 증가합니다. <br> <br>"
+Auto_43965186bda1,"쿨 P가 12% 증가하고, <br>멤버인 호노카와 하나요는 추가로 쿨 P가 9% 증가합니다. <br> <br>"
+Auto_82002e2fa49d,"쿨 P가 12% 증가하고, 호노카와 하나요 <br> 멤버는 추가로 쿨 P가 9% 더 증가합니다. <br> <br> <br>"
+Auto_8f430c44afa1,다시 한 번!
+Auto_8697160f7a00,스타 어시스트 사용 시<br>하이 스코어는 업데이트되지 않습니다
+Auto_1b92a8c61f66,스타 어시스트 사용 시에는<br>최대 연계 수는 업데이트되지 않습니다
+Auto_119dada8743d,본 이벤트에서는<br>하이 스코어가 갱신되지 않습니다
+Auto_23a202742edc,도쿄 가든 시어터
+Auto_71e7b499f129,시설 등 랜드마크 이름
+Auto_6ef2337620d1,고사카 호노카
+Auto_bca3582437f0,획득 상황
+Auto_5e09801739ed,대상 카드가 없습니다
+Auto_d0ce5c42a59a,캐릭터 이름
+Auto_5d58d93e8bf4,남은 시간: 10일
+Auto_472aa5aec506,-aaaaaaaaaaaaaa
+Auto_11fcfa6991cb,-아아아아아아아아아
+Auto_7cf81d1c765b,멤버 결정
+Auto_e9f1544100ba,이름을 입력하세요
+Auto_1af14d2a65f8,룸 ID:
+Auto_6a26632920e1,총 연타수
+Auto_3b73e212eeee,"작곡: 나카무라 아유미, 키쿠치 히로토 <br> 편곡: 나카무라 아유미, 키쿠치 히로토 <br> 노래: 코우미 치카(CV. 이바 안주), 코하라 마리(CV. 스즈키 아이나), 쿠로사와 다이아(CV. 코미야 유사) <br> 마츠우라 카난(CV. 스와 나나카), 츠시마 요시키(CV. 코바야시 아이카)"
+Auto_fe933ad251ac,이름을 입력하려면 탭하세요.
+Auto_4d395aee4ce0,남은 날짜: 99일
+Auto_29f72241b091,수량에 따라 획득 보상과 이벤트 포인트가 변경됩니다.
+Auto_2e4df52b54d0,LP 소비 선택
+Auto_5521e368d87e,경고
+Auto_7e5716db83d2,"함께 플레이하는 다른 유저에게 피해를 주는 행위가 감지되었습니다. <br> 이번 라이브 결과는 무효 처리됩니다. <br> <br> 해당 행위가 반복적으로 감지될 경우, <br> 일정 시간 동안 게임 이용이 제한될 수 있습니다."
+Auto_58b0ee43d2aa,동일한 난이도로 다시 한 번 같은 플레이어들과 함께 <br>라이브를 진행하시겠습니까?
+Auto_40d132e9c3cd,개인 방에서 나가시겠습니까?
+Auto_ef20caea634e,호스트 연결이 끊어졌습니다.<br>이벤트 상단 페이지로 이동합니다.
+Auto_425e7dea4998,참가 인원이 부족합니다. <br> <br> 4명으로 플레이할 때보다 획득하는 이벤트 포인트가 <br> 적을 수 있습니다. <br> <br> 현재 인원으로 라이브를 시작하시겠습니까?
+Auto_2dd929a3304a,오늘의 도움 요청 참여 횟수가 0이 되었습니다.<br>이벤트 상단 화면으로 돌아갑니다.
+Auto_daa15114aa23,이벤트 전용 편성이 완료되지 않았습니다.<br>전용 편성 화면으로 이동합니다.
+Auto_377325e4d88d,연결이 끊기거나 부정 행위가 반복적으로 감지되어<br>본 이벤트에서 라이브 플레이를 일시적으로 제한합니다.
+Auto_e958b7cc8644,방을 찾고 있습니다...
+Auto_77a19778ce42,새로운 소식
+Auto_d55be023c2b2,있음
+Auto_f1671898c65b,별하 린
+Auto_31eecb3ddc6d,언어
+Auto_b0a4b7078dce,다양한 설정<br>
+SelectLanguage_ConfirmTitle,언어 변경
+SelectLanguage_ConfirmMessage,언어를 변경하고 앱을 다시 시작합니다. 괜찮으신가요?
+Auto_343a26d4817b,추천
+Auto_217643d3311e,일괄 편성
+Auto_5712f746e026,배치 변경
+Auto_c47bf7602f86,메인으로<br>설정
+Auto_17d151209dcb,사용
+Auto_eb321ace03b3,플레이어 이름
+Custom_Option_Live3d_Title,3D 라이브 설정
+Custom_Option_Live3d_Info,3D Live 활성화 및 품질 설정<br>다음 Live부터 적용됩니다.
+Custom_Option_Live3d_Enable,3D Live 재생
+Custom_Option_Live3d_Quality,품질 설정
+Custom_Sifas_Live3d_Toggle,3D 라이브
+Custom_Sifas_3dMv_Cycle,전환
+Custom_Option_Keyboard_Title,키보드 설정
+Custom_Option_Keyboard_Info,레인을 선택하고 키/버튼을 누르세요(Esc로 취소)
+Custom_Option_Keyboard_Lane,레인 {0}
+Custom_Option_Keyboard_Listening,레인 {0}을 누르세요... Esc로 취소합니다.
+Custom_Option_Keyboard_Waiting,입력 대기 중
+Custom_Option_Keyboard_None,없음
+Custom_Option_Keyboard_Back,돌아가기/일시 정지
+Custom_Option_Keyboard_BackListening,「돌아가기/일시 정지」를 누르세요
+Custom_Option_Download_Title,다운로드 설정
+Custom_Option_Download_Info,곡을 미리 다운로드하여 라이브 시작 시 대기 시간을 없앱니다.
+Custom_Option_Download_Used,사용 용량: {0}({1} 삭제 가능)
+Custom_Option_Download_UsedNone,사용 용량: —
+Custom_Option_Download_Calculating,사용 용량: 계산 중...
+Custom_Option_Download_Deleting,사용 용량: 삭제 중...
+Custom_Option_Download_AllSongs,모든 곡 다운로드
+Custom_Option_Download_AllMv,전체 3D Live 다운로드
+Custom_Option_Download_ClearCache,캐시 삭제
+Custom_Option_Visual_Title,영상 설정
+Custom_Option_Visual_Info,프리셋을 선택하거나 각 항목을 개별적으로 조정할 수 있습니다.<br>변경 사항은 다음 Live부터 적용됩니다.
+Custom_Option_Visual_Preset,프리셋
+Custom_Option_Visual_Custom,사용자 설정
+Custom_Option_Visual_CustomInfo,사용 중인 사용자 설정입니다(다음 Live부터 적용)
+Custom_Option_Visual_GroupDisplay,표시
+Custom_Option_Visual_GroupLighting,라이팅
+Custom_Option_Visual_GroupStage,스테이지
+Custom_Option_Visual_GroupEffect,효과
+Custom_Option_Visual_GroupPhysics,물리 효과
+Custom_Option_Visual_Resolution,해상도
+Custom_Option_Visual_Fps,프레임 속도
+Custom_Option_Visual_Aa,앤티앨리어싱
+Custom_Option_Visual_BaseLight,기본 조명
+Custom_Option_Visual_Ambient,앰비언트 라이트
+Custom_Option_Visual_RimLight,림 라이트
+Custom_Option_Visual_SpotLight,스포트라이트
+Custom_Option_Visual_Emissive,에미시브
+Custom_Option_Visual_Display,스테이지 표시
+Custom_Option_Visual_StageFx,스테이지 연출
+Custom_Option_Visual_Audience,관객
+Custom_Option_Visual_Cubemap,반사
+Custom_Option_Visual_PostEffect,포스트 이펙트
+Custom_Option_Visual_SwingBone,흔들림 효과
+Custom_Option_Keyboard_TabTitle,키보드 설정
+Custom_Option_Download_TabTitle,다운로드 설정
+Custom_Option_Visual_TabTitle,영상 설정
+Custom_Option_Download_StoryMovies,모든 스토리 영상을 다운로드
+Custom_Option_Download_CardArt,전 카드 일러스트 다운로드
+Custom_Sifas_MvDeck_Header,MV 편성 설정
+Custom_Sifas_MvDeck_Entry,의상 설정
+Custom_Sifas_MvDeck_UseDefault,기본 편성 사용
+Custom_Sifas_MvDeck_UseDeck,편성 사용
+Custom_Sifas_MvDeck_Reset,초기화
+Custom_Sifas_MvDeck_Save,저장
+Custom_Sifas_MvDeck_PickMember,멤버 선택
+Custom_Sifas_MvDeck_PickSuit,의상 선택
+Custom_Sifas_MvDeck_DefaultSuit,기본 의상
+Custom_Sifas_MvDeck_RinaBoard,리나 보드 제거
+Custom_Sifas_MvDeck_InFormation,편성 중
+Custom_Sifas_MvDeck_PickGroup,그룹 선택
+Custom_Sifas_MvDeck_Back,돌아가기
+Custom_Sifas_MvDeck_CustomGroup,사용자 설정
+Custom_Sifas_MvDeck_Import,가져오기
+Custom_Sifas_MvDeck_DeleteMode,삭제 모드
+Custom_Sifas_MvDeck_DeleteModeExit,삭제 모드 종료
+Custom_Sifas_MvDeck_DeletePrefix,삭제:
+Custom_Sifas_MvDeck_ImportDone,임포트 완료
+Custom_Sifas_MvDeck_ImportFailed,임포트 실패
+Custom_Sifas_MvDeck_ImportDropHint,Import 폴더에 zip 파일을 넣어주세요.
+Custom_Sifas_MvDeck_ImportBatch,폴더에서 일괄 가져오기
+Custom_Sifas_MvDeck_ImportBatchResult,일괄 가져오기 결과
+Custom_Sifas_MvDeck_ImportBatchKept,(원본 파일 삭제 실패)
+Custom_Sifas_MvDeck_ImportUnsupported,파일 선택은 이 환경에서 지원되지 않습니다.
+Custom_Sifas_MvDeck_ImportStageDonor,모델 불러오는 중...
+Custom_Sifas_MvDeck_ImportStageConform,모델 변환 중...
+Custom_Sifas_MvDeck_ImportStageBake,텍스처 생성 중...
+Custom_Sifas_MvDeck_ImportStageRegister,등록 중...
+Custom_Sifas_MvDeck_ImportErrDonor,도너 모델을 다운로드하지 않았습니다(3D Live를 한 번 다운로드하세요).
+Custom_Sifas_MvDeck_ImportErrVerify,모델 생성 실패 (플레이어 로그 참조)
+Custom_Option_Live_Sif1SwipeMode,SIF1 스와이프 모드
+Custom_CardDetail_FriendshipPlaceholder,우정 레벨??? 미구현
+Custom_CardDetail_EvolveTentative,각성 (임시): {0}
+Custom_CardDetail_TitlePlaceholder,미구현
+Custom_CardDetail_SchoolYear,{0}학년
+Custom_PurchaseAlert_UnitTenThousand,만
+Custom_PurchaseAlert_UnitThousand,천
+Custom_PurchaseAlert_LimitMessage,"이번 달 이용 금액이 {0}원을 초과하지만, 계속 구매하시겠습니까?"
+Custom_SerialCode_Copied,시리얼 코드를 복사했습니다.
+Custom_SystemDialog_ErrorTitle,오류
+Custom_SystemDialog_ErrorMessage,오류가 발생했습니다
+Custom_ServerConfig_Title,서버 설정
+Custom_ServerConfig_ApiUrl,API 서버 URL
+Custom_ServerConfig_CdnUrl,에셋 CDN 서버 URL
+Custom_ServerConfig_ResetToDefault,기본 설정으로 재설정
+Custom_ServerConfig_Save,저장
+Custom_ServerConfig_UsingCustom,사용 중
+Custom_ServerConfig_Saved,저장했습니다. 타이틀 화면으로 돌아가면 적용됩니다.
+Custom_ServerConfig_ConfirmChangeTitle,서버 변경 확인
+Custom_ServerConfig_ConfirmChangeMessage,"연결할 서버를 변경하면 이 기기에 저장된 현재 서버의 계정 데이터(세이브 데이터, 인증 정보)가 모두 삭제됩니다. <br> 다운로드한 에셋은 삭제되지 않습니다. <br> <br> 괜찮으신가요?"
+Custom_ServerConfig_ConfirmResetMessage,"초기 설정으로 되돌리면 연결 대상 서버가 변경되므로, 이 기기에 저장된 현재 서버의 계정 데이터(세이브 데이터 및 인증 정보)가 모두 삭제됩니다. <br> 다운로드한 에셋은 삭제되지 않습니다. <br> <br> 괜찮으십니까?"
+Custom_ServerConfig_SaveCancelled,저장을 취소했습니다.
+Custom_ServerConfig_ClearingAccount,계정 데이터를 삭제 중입니다...
+Custom_ServerConfig_ChangedTitle,서버를 변경했습니다.
+Custom_ServerConfig_ChangedRestartMessage,설정을 저장하고 계정 데이터를 삭제했습니다.<br>앱을 재시작하세요.
+Custom_ServerConfig_ResetDone,초기 설정으로 되돌렸습니다.
+Custom_ServerConfig_ResetCancelled,변경을 취소했습니다.
+Custom_ServerConfig_Placeholder,미설정
+Custom_Gacha_BonusSuffix,보너스 포함!
+Custom_Common_ErrorCode,오류 코드: {0}
+Custom_Common_None,없음
+Custom_Exchange_TypeNone,지정 없음
+Custom_Exchange_TypePhotoSticker,포토 스티커
+Custom_Exchange_TypePick,선택
+Custom_Exchange_TypeTicket,티켓
+Custom_Notification_ChannelDescription,알림
+Custom_Login_TransferTitle,기기 계정 이전
+Custom_Login_TransferConfirmMessage,"기기가 변경되었지만, 이 기기로 계정을 계속 사용하시겠습니까?"
+Custom_Login_TransferFailedMessage,인계 코드를 사용하여 다시 시도하세요.
+Custom_Reward_StaminaName,스태미나 보상 이름
+Custom_Adventure_TabMain,메인
+Custom_Adventure_TabSub,서브
+Custom_Adventure_TabEvent,이벤트
+Custom_Adventure_TabTutorial,튜토리얼
+Custom_PassContents_FreeGems,무료 보석
+Custom_Sifas_MvDeck_ImportBatchHeader,성공 {0} / {1}
+Custom_SpineViewer_Empty,비어 있음
+Arcade_Input_Info,Select a row then press a key or button (Esc to cancel)
+Arcade_Input_ListeningKey,{0} - press a key… (Esc to cancel)
+Arcade_Input_ListeningPad,{0} - press a gamepad button… (Esc to cancel)
+Arcade_Input_ListeningNoEscape,{0} - press a key
+Arcade_Input_SlotKeyboard,Keyboard
+Arcade_Input_SlotGamepad,Gamepad
+Arcade_Input_Decision,Decision
+Arcade_Input_Cancel,Cancel / Back / Pause
+Arcade_Input_Select,Select
+Arcade_Input_Test,Test
+Arcade_Input_Service,Service
+Arcade_Input_Coin,Coin
+Arcade_Hud_Credit,CREDIT {0}
+Arcade_Hud_FreePlay,FREE PLAY
+Arcade_Monitor_TestMode,TEST MODE
+Arcade_Monitor_TestPattern,TEST PATTERN
+Arcade_Title_MenuEntry,Arcade Mode
+Arcade_Enter_NameTitle,Machine Name
+Arcade_Enter_NameMessage,Enter a name for this cabinet.
+Arcade_Enter_NameNote,It is shown in the server's machine list.
+Arcade_Enter_NamePlaceholder,Machine name
+Arcade_Enter_DefaultName,Arcade Cabinet
+Arcade_Enter_ErrorDisabled,This server does not support arcade mode.
+Arcade_Enter_ErrorRegister,Failed to register this arcade cabinet.
+Arcade_TestMode_Title,TEST MODE
+Arcade_TestMode_Back,Back
+Arcade_TestMode_TabSystem,System
+Arcade_TestMode_TabCredits,Credits
+Arcade_TestMode_TabInput,Input
+Arcade_TestMode_TabMonitor,Monitor
+Arcade_TestMode_SystemHeader,System Information
+Arcade_TestMode_ClientVersion,Client Version
+Arcade_TestMode_AssetVersion,Asset Version
+Arcade_TestMode_MachineName,Machine Name
+Arcade_TestMode_MachineId,Machine ID
+Arcade_TestMode_ServerIdentifier,Server
+Arcade_TestMode_RegisteredAt,Registered
+Arcade_TestMode_Credits,Credits
+Arcade_TestMode_ServiceCredits,Service Credits
+Arcade_TestMode_ServerSettings,Server Settings
+Arcade_TestMode_BookkeepingHeader,Bookkeeping
+Arcade_TestMode_TotalCoins,Total Coins
+Arcade_TestMode_TotalService,Service Credits Given
+Arcade_TestMode_Plays,Plays
+Arcade_TestMode_Songs,Songs Played
+Arcade_TestMode_Aborts,Aborts
+Arcade_TestMode_SinceReset,Counting Since
+Arcade_TestMode_LastReset,Last Reset
+Arcade_TestMode_ResetBookkeeping,Reset Bookkeeping
+Arcade_TestMode_ExitArcade,Exit Arcade Mode
+Arcade_TestMode_CreditsHeader,Credit Settings
+Arcade_TestMode_FreePlay,Free Play
+Arcade_TestMode_CoinsPerCredit,Coins per Credit
+Arcade_TestMode_CreditsPerPlay,Credits per Play
+Arcade_TestMode_SongsPerCredit,Songs per Credit
+Arcade_TestMode_ShowCreditHud,Show Credit Counter
+Arcade_TestMode_InputHeader,Input Settings
+Arcade_TestMode_InputConfig,Button Assignment
+Arcade_TestMode_InputTestLanes,Rhythm Buttons
+Arcade_TestMode_InputTestActions,Control Buttons
+Arcade_TestMode_ActionDecision,DEC
+Arcade_TestMode_ActionCancel,CAN
+Arcade_TestMode_ActionSelect,SEL
+Arcade_TestMode_ActionTest,TST
+Arcade_TestMode_ActionService,SVC
+Arcade_TestMode_ActionCoin,COIN
+Arcade_TestMode_MonitorHeader,Monitor Settings
+Arcade_TestMode_SubMonitorEnabled,Use Second Monitor
+Arcade_TestMode_DisplayIndex,Display Index
+Arcade_TestMode_DisplayIndexNote,Display index changes take effect after a restart.
+Arcade_TestMode_TestPattern,Show Test Pattern
+Arcade_TestMode_NoSecondDisplay,No second display detected
+Arcade_TestMode_SecondDisplayReady,Second display active
+Arcade_Session_GetReady,GET READY
+Arcade_Session_Songs,This credit plays {0} songs
+Arcade_Session_Connecting,Connecting...
+Arcade_Session_ErrorDisabled,The server could not start a session.
+Arcade_Session_NotCleared,NO CLEAR
+Arcade_Session_Thanks,THANK YOU FOR PLAYING
+Arcade_Session_SeeYouAgain,See you again
+Arcade_Confirm_TimerRemaining,Remaining
+Arcade_Confirm_TimerSuffix,sec
+Arcade_Monitor_GetReady,GET READY
+Arcade_Monitor_SongCount,SONG {0}/{1}
+Arcade_Monitor_Level,Lv.{0}
+Arcade_Monitor_Result,RESULT
+Arcade_Select_SongLabel,SONG
+Arcade_Select_Locked,This song is not unlocked yet.
+Arcade_Select_LevelCapped,This machine only goes up to {0}.
+Arcade_Attract_InsertCoin,INSERT COIN
+Arcade_Attract_PressStart,PRESS DECISION
+Arcade_TestMode_TabGame,Game
+Arcade_TestMode_TabSound,Sound
+Arcade_TestMode_TabContent,Content
+Arcade_TestMode_TabBookkeeping,Bookkeeping
+Arcade_TestMode_SessionState,Session State
+Arcade_TestMode_SessionIdle,Idle
+Arcade_TestMode_InputLocks,Input Locks
+Arcade_TestMode_EditMachineName,Change Machine Name
+Arcade_TestMode_GameHeader,Game Settings
+Arcade_TestMode_DifficultyCap,Difficulty Cap
+Arcade_TestMode_SelectTimeout,Song Select Timeout (sec)
+Arcade_TestMode_DeckTimeout,Deck Confirm Timeout (sec)
+Arcade_TestMode_ResultTimeout,Result Auto-Advance (sec)
+Arcade_TestMode_ClosingTimeout,Closing Screen Time (sec)
+Arcade_TestMode_DialogTimeout,Idle Dialog Limit (sec)
+Arcade_TestMode_AttractHeader,Attract Settings
+Arcade_TestMode_TitleCardSeconds,Title Card Time (sec)
+Arcade_TestMode_DemoSelectSeconds,Demo Song Select Time (sec)
+Arcade_TestMode_DemoClipSeconds,Demo Live Length (sec)
+Arcade_TestMode_DemoSongsHeader,Demo Songs
+Arcade_TestMode_SoundHeader,Sound Settings
+Arcade_TestMode_BgmVolume,BGM Volume
+Arcade_TestMode_SeVolume,SE Volume
+Arcade_TestMode_VoiceVolume,Voice Volume
+Arcade_TestMode_AttractVolume,Attract Volume (%)
+Arcade_TestMode_AttractVolumeNote,Scales the BGM down to this percentage while attract runs. Applies from the next attract loop.
+Arcade_TestMode_SeTest,SE Test
+Arcade_TestMode_ContentHeader,Content
+Arcade_TestMode_PrefetchState,Background Prefetch
+Arcade_TestMode_PrefetchRunning,RUNNING   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchIdle,IDLE   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchNote,New assets are fetched in the background every session.
+Arcade_TestMode_DownloadAll,Download Everything Now
+Arcade_TestMode_DownloadAllNote,Downloads every category. The cabinet returns to the attract screen when it finishes.
+Arcade_TestMode_ClearCache,Clear Cache
+Arcade_TestMode_ClearCacheNote,Deletes the downloaded files and then reboots the cabinet automatically.
+Arcade_TestMode_PlayHourHeader,By Hour
+Arcade_TestMode_HourLabel,{0}:00
+Arcade_TestMode_PlayWeekDayHeader,By Weekday
+Arcade_TestMode_WeekDay0,Sunday
+Arcade_TestMode_WeekDay1,Monday
+Arcade_TestMode_WeekDay2,Tuesday
+Arcade_TestMode_WeekDay3,Wednesday
+Arcade_TestMode_WeekDay4,Thursday
+Arcade_TestMode_WeekDay5,Friday
+Arcade_TestMode_WeekDay6,Saturday
+Arcade_Input_SlotHeaderIo,CABINET
+Arcade_Input_IoNote,Cabinet I/O board buttons. ENTER is the service-panel decide button.
+Arcade_Input_ListeningIo,{0} - press a cabinet button… (Esc to cancel)
+Arcade_Card_ButtonNewPlayer,NEW PLAYER
+Arcade_Card_ButtonTakeOver,TRANSFER DATA
+Arcade_TestMode_TabLed,LED
+Arcade_TestMode_BoardHeader,I/O Board
+Arcade_TestMode_BoardLink,Link
+Arcade_TestMode_BoardLinkIdle,not present
+Arcade_TestMode_BoardLinkOpening,opening
+Arcade_TestMode_BoardLinkRunning,running
+Arcade_TestMode_BoardLinkDeviceLost,device lost
+Arcade_TestMode_BoardLinkVersionRefused,version refused
+Arcade_TestMode_BoardReconnects,reconnects {0}
+Arcade_TestMode_BoardId,Device
+Arcade_TestMode_BoardRaw,Input Bytes
+Arcade_TestMode_BoardDoors,Door switches and the service-panel ENTER button. A lit door indicator means OPEN.
+Arcade_TestMode_BoardCoin,Coin Counter
+Arcade_TestMode_BoardCoinValues,count {0}   request {1}   ack {2}
+Arcade_TestMode_BoardCoinFault,FAULT
+Arcade_TestMode_BoardReader,Card Reader Lit
+Arcade_TestMode_BoardScan,Card Scan
+Arcade_TestMode_BoardCard,Card Status
+Arcade_TestMode_BoardCardId,Card ID
+Arcade_TestMode_BoardCardUid,Card UID
+Arcade_TestMode_CardStateNone,no card
+Arcade_TestMode_CardStateWaiting,waiting for card
+Arcade_TestMode_CardStateDetecting,detecting
+Arcade_TestMode_CardStateOk,read OK
+Arcade_TestMode_CardStateWrongType,unsupported card type
+Arcade_TestMode_CardStateAbsent,card absent or aborted
+Arcade_TestMode_CardStateReaderError,reader error
+Arcade_TestMode_CardScanTest,Card Scan Test
+Arcade_TestMode_CardReaderTest,Card Reader Lamp Test
+Arcade_TestMode_StateOn,ON
+Arcade_TestMode_StateOff,OFF
+Arcade_TestMode_EmulatorPath,Emulator DLL
+Arcade_TestMode_EmulatorPathNone,(not set)
+Arcade_TestMode_EmulatorPathEdit,Set Emulator DLL Path
+Arcade_TestMode_EmulatorPathNote,Loads a winusb.dll shim instead of a board for bench testing. Blank clears it. Applied when Test Mode is closed.
+Arcade_TestMode_LedHeader,LED Test
+Arcade_TestMode_LedAll,All Outputs On
+Arcade_TestMode_LedRed,Pillars Red
+Arcade_TestMode_LedGreen,Pillars Green
+Arcade_TestMode_LedBlue,Pillars Blue
+Arcade_TestMode_LedPillar0,Pillar 1 White
+Arcade_TestMode_LedPillar1,Pillar 2 White
+Arcade_TestMode_LedPillar2,Pillar 3 White
+Arcade_TestMode_LedLamps,All Button Lamps
+Arcade_TestMode_LedLamp,Lamp
+Arcade_TestMode_LedLampConfirm,CONFIRM
+Arcade_TestMode_LedBrightness,Lamp Brightness
+Arcade_TestMode_LedBrightnessOff,OFF
+Arcade_TestMode_LedBrightnessDim,0x20
+Arcade_TestMode_LedBrightnessFull,0xFF
+Arcade_TestMode_LedPillarColor,Pillar Colour
+Arcade_TestMode_LedCoinCoil,Coin Accept Coil
+Arcade_TestMode_LedOut,Output Bytes
+Arcade_TestMode_LedDescAll,Lights every pillar and every button lamp at full.
+Arcade_TestMode_LedDescRed,Sets all three pillars to red.
+Arcade_TestMode_LedDescGreen,Sets all three pillars to green.
+Arcade_TestMode_LedDescBlue,Sets all three pillars to blue.
+Arcade_TestMode_LedDescPillar0,Lights pillar 1 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar1,Lights pillar 2 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar2,Lights pillar 3 white. The three pillar rows combine.
+Arcade_TestMode_LedDescLamps,Lights the nine button lamps and the confirm lamp at full.
+Arcade_TestMode_LedDescLamp,Picks the lamp the brightness row forces. 10 is the confirm lamp.
+Arcade_TestMode_LedDescBrightness,Forces the selected lamp to one of the board's three brightnesses. OFF leaves it to the rows above.
+Arcade_TestMode_LedDescPillarColor,The machine's own pillar colour. Used on the entrance and through a credit.
+Arcade_TestMode_LedDescCoinCoil,Forces the coin-accept coil while this page is open.
+Arcade_TestMode_MaxCredits,Credit Limit
+Arcade_TestMode_DemoBandsNote,The attract demo draws from the groups switched on.
+Arcade_TestMode_DemoIncludeCustomSongs,Include Custom Songs
+Arcade_Attract_NesicaUnavailable,NESiCA cannot be used right now
+Arcade_Attract_NesicaTap,Tap your NESiCA card
+Arcade_TestMode_DoorLeft,DR1
+Arcade_TestMode_DoorRight,DR2
+Arcade_TestMode_Enter,ENT
+Arcade_TestMode_WinUsbModule,Loaded winusb.dll
+Arcade_TestMode_WinUsbModuleNone,(not loaded yet)
+Arcade_TestMode_WinUsbOpenerFound,UsbioEmu_OpenBoard found
+Arcade_TestMode_WinUsbOpenerMissing,no UsbioEmu_OpenBoard export
+Arcade_TestMode_ShowAttractBanner,Show NESiCA Banner
+Arcade_TestMode_DemoRequire3dLive,Demo Lands on 3D Lives Only
+Arcade_TestMode_DemoRequire3dLiveNote,Switch on to have the demo song select stop only on songs with a 3D live.
+Arcade_Input_Reset,Reset (hold 1 s)
+Arcade_Input_ResetChord,TEST+SERVICE
+Arcade_TestMode_AccountHeader,Account Lock
+Arcade_TestMode_LockedAccount,Locked Account
+Arcade_TestMode_NotLocked,Not locked
+Arcade_TestMode_LockPending,Pending first credit
+Arcade_TestMode_LockedAccountFormat,{0}  (card ...{1})
+Arcade_TestMode_LockAccount,Lock to Account...
+Arcade_TestMode_UnlockAccount,Unlock Account
+Arcade_Session_ErrorOwnerGone,The account this device was locked to no longer exists.<br>The account lock has been removed.
+Arcade_TestMode_DemoWashPercent,Demo Live Wash (%)

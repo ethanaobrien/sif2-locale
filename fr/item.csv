@@ -1,0 +1,405 @@
+﻿_key,_text
+mst.item.15010001._name,Ticket de recrutement (x1)
+mst.item.15010001._effectDetail,Ticket pour Recrutement<br>Effectue le même Recrutement qu'un ticket simple.
+mst.item.15010002._name,Ticket de recrutement x10
+mst.item.15010002._effectDetail,Ticket permettant d’effectuer un recrutement<br>Permet d’effectuer le même recrutement que 10 recrutements.
+mst.item.15010003._name,Ticket de recrutement 10 fois (limité dans le temps)
+mst.item.15010003._effectDetail,Ticket permettant d’effectuer un Recrutement (durée limitée)<br>Permet d’effectuer le même Recrutement que 10 fois.
+mst.item.15010004._name,Ticket de recrutement 10 fois (bonus de liaison des données Skufes)
+mst.item.15010004._effectDetail,Ticket permettant d’effectuer un recrutement<br>Permet d’effectuer le même type de recrutement que 10 recrutements dans certains cas.
+mst.item.15010005._name,Ticket de recrutement 10 fois (bonus lié aux données de Starlight Stage)
+mst.item.15010005._effectDetail,Ticket permettant d’effectuer un recrutement<br>Permet d’effectuer le même type de recrutement que 10 recrutements dans certains cas.
+mst.item.15010006._name,Ticket de recrutement unique (valable jusqu'au 15/07/2023 à 11h59)
+mst.item.15010006._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010007._name,"Ticket de recrutement normal (x10) (valable jusqu'au 15/07/2023, 11h59)"
+mst.item.15010007._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010008._name,Ticket de recrutement unique (jusqu'au 31/07/2023 à 11h59)
+mst.item.15010008._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010009._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 31/07/2023, 11h59)"
+mst.item.15010009._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010010._name,"Ticket de recrutement unique (jusqu'au 15/08/2023, 11h59)"
+mst.item.15010010._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010011._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 15/08/2023, 11h59)"
+mst.item.15010011._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010012._name,"Ticket de recrutement unique (jusqu'au 31/08/2023, 11h59)"
+mst.item.15010012._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010013._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 31/08/2023, 11h59)"
+mst.item.15010013._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010014._name,"Ticket de recrutement unique (jusqu'au 15/09/2023, 11h59)"
+mst.item.15010014._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010015._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 15/09/2023, 11h59)"
+mst.item.15010015._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010016._name,Ticket de recrutement unique (jusqu'au 30/09/2023 à 11h59)
+mst.item.15010016._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010017._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 30/09/2023, 11h59)"
+mst.item.15010017._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010018._name,Ticket de recrutement unique (jusqu'au 15/10/2023 à 11h59)
+mst.item.15010018._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010019._name,"Ticket de recrutement normal (x10) (valable jusqu'au 15/10/2023, 11h59)"
+mst.item.15010019._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010020._name,"Ticket de recrutement unique (valable jusqu'au 31/10/2023, 11h59)"
+mst.item.15010020._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010021._name,Ticket pour 10 recrutements (jusqu'au 31/10/2023 à 11h59)
+mst.item.15010021._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010022._name,Ticket de recrutement unique (jusqu'au 15/11/2023 à 11h59)
+mst.item.15010022._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010023._name,Ticket de recrutement unique (jusqu'au 15/11/2023 à 11h59)
+mst.item.15010023._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010024._name,"Ticket pour 10 recrutements (jusqu’au 15/11/2023, 11h59)"
+mst.item.15010024._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010025._name,"Ticket de recrutement unique (jusqu'au 30/11/2023, 11h59)"
+mst.item.15010025._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010026._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 30/11/2023, 11h59)"
+mst.item.15010026._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010027._name,Ticket de recrutement unique (jusqu'au 15/11/2023 à 11h59)
+mst.item.15010027._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010028._name,"Ticket de recrutement unique (jusqu'au 15/12/2023, 11h59)"
+mst.item.15010028._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010029._name,"Ticket pour 10 recrutements (jusqu'au 15/12/2023, 11h59)"
+mst.item.15010029._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010030._name,"Ticket de recrutement unique (jusqu'au 31/12/2023, 11h59)"
+mst.item.15010030._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010031._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 31/12/2023, 11h59)"
+mst.item.15010031._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010032._name,"Ticket de recrutement unique (jusqu'au 31/12/2023, 11h59)"
+mst.item.15010032._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010033._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 31/12/2023, 11h59)"
+mst.item.15010033._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010034._name,"Ticket de recrutement unique (jusqu'au 15/01/2024, 11h59)"
+mst.item.15010034._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010035._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 15/01/2024, 11h59)"
+mst.item.15010035._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010036._name,"Ticket de recrutement unique (jusqu'au 31/01/2024, 11h59)"
+mst.item.15010036._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010037._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 31/01/2024, 11h59)"
+mst.item.15010037._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010038._name,"Ticket de recrutement unique (jusqu'au 14/02/2024, 11h59)"
+mst.item.15010038._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010039._name,"Ticket de recrutement normal (x10) (valable jusqu'au 14/02/2024, 11h59)"
+mst.item.15010039._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15010040._name,"Ticket de recrutement unique (jusqu'au 31/03/2024, 11h59)"
+mst.item.15010040._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour un recrutement de 10 fois."
+mst.item.15010041._name,"Ticket de recrutement normal (10 fois) (valable jusqu'au 31/03/2024, 11h59)"
+mst.item.15010041._effectDetail,"Ticket permettant d’effectuer un Recrutement<br>Permet d’effectuer un Recrutement normal, comme pour 10 recrutements."
+mst.item.15020001._name,Ticket pour 10 recrutements (Super Festival 2 - Grand recrutement spécial)
+mst.item.15020001._effectDetail,Ticket permettant d’effectuer un Recrutement spécial « Super Festival 2 – Grand événement de recrutement ».<br>Permet d’effectuer 10 recrutements.
+mst.item.15500001._name,Points de Recrutement [Anniversaire]
+mst.item.15500001._effectDetail,"Points obtenus lors du « Recrutement Commémoratif de la sortie » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Une fois la période terminée, ils seront convertis en livre de compétences (M)."
+mst.item.15500002._name,Points de Recrutement [Après l’école à Harajuku Liella!♡]
+mst.item.15500002._effectDetail,"Points obtenus lors du « Recrutement spécial – Après l’école à Harajuku, Liella ! ♡ » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※ Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15510004._name,Points de Recrutement [Normal]
+mst.item.15510004._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 15 mai.
+mst.item.15510005._name,Points de Recrutement [Normal]
+mst.item.15510005._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (M) après la date limite <br> ※ La date limite pour l’échange de ces points est le 31 mai.
+mst.item.15510006._name,Points de Recrutement [Normal]
+mst.item.15510006._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 19 juin.
+mst.item.15510007._name,Points de Recrutement [Normal]
+mst.item.15510007._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 30 juin.
+mst.item.15510008._name,Points de Recrutement [Normal]
+mst.item.15510008._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (M) après la date limite <br> ※ La date limite pour l’échange de ces points est le 15 juillet.
+mst.item.15510009._name,Points de Recrutement [Normal]
+mst.item.15510009._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après expiration du délai <br> ※ La date limite d’échange pour ces points est fixée au 31 juillet.
+mst.item.15510010._name,Points de Recrutement [Normal]
+mst.item.15510010._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après expiration <br> ※ La date limite d’échange pour ces points est fixée au 15 août.
+mst.item.15510011._name,Points de Recrutement [Normal]
+mst.item.15510011._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après expiration du délai <br> ※ La date limite pour l’échange de ces points est le 31 août.
+mst.item.15510012._name,Points de Recrutement [Normal]
+mst.item.15510012._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 15 septembre.
+mst.item.15510013._name,Points de Recrutement [Normal]
+mst.item.15510013._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 30 septembre.
+mst.item.15510014._name,Points de Recrutement [Normal]
+mst.item.15510014._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (M) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 15 octobre.
+mst.item.15510015._name,Points de Recrutement [Normal]
+mst.item.15510015._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (M) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 31 octobre.
+mst.item.15510016._name,Points de Recrutement [Normal]
+mst.item.15510016._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (M) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 15 novembre.
+mst.item.15510017._name,Points de Recrutement [Normal]
+mst.item.15510017._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 30 novembre.
+mst.item.15510018._name,Points de Recrutement [Normal]
+mst.item.15510018._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (M) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 15 décembre.
+mst.item.15510019._name,Points de Recrutement [Normal]
+mst.item.15510019._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 31 décembre.
+mst.item.15510020._name,Points de Recrutement [Normal]
+mst.item.15510020._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 15 janvier.
+mst.item.15510021._name,Points de Recrutement [Normal]
+mst.item.15510021._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (M) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 31 janvier.
+mst.item.15510022._name,Points de Recrutement [Normal]
+mst.item.15510022._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (M) après la date limite <br> ※ La date limite pour l’échange de ces points est le 14 février.
+mst.item.15510023._name,Points de Recrutement [Normal]
+mst.item.15510023._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (M) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 1er mars.
+mst.item.15510024._name,Points de Recrutement [Normal]
+mst.item.15510024._effectDetail,Points obtenus via le « Recrutement normal » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Convertis en livre de compétences (niveau moyen) après la date limite <br> ※ La date limite pour l’échange de ces points est fixée au 31 mars.
+mst.item.15520001._name,Points de Recrutement [Nous et cette ville]
+mst.item.15520001._effectDetail,Points obtenus via « Recrutement spécial – Nous et cette ville » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※ Convertis en livre de compétences (niveau moyen) après la date limite.
+mst.item.15520002._name,Points de Recrutement [Faisons la promotion du quartier commercial !]
+mst.item.15520002._effectDetail,"Points obtenus lors du « Recrutement spécial – Faisons rayonner le quartier commercial ! » <br> Peuvent être échangés contre diverses Idoles et objets <br> ※ Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520003._name,Points de Recrutement [Live in Nature]
+mst.item.15520003._effectDetail,"Points obtenus lors du « Recrutement spécial – Live in Nature » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520004._name,Points de Recrutement [Danse Éblouissante]
+mst.item.15520004._effectDetail,"Points obtenus lors du « Recrutement spécial – Danseuses étincelantes » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520005._name,Points de Recrutement [Stage d'été ensoleillé]
+mst.item.15520005._effectDetail,"Points obtenus lors du « Recrutement spécial – Stage d’été ensoleillé » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (M)."
+mst.item.15520006._name,Points de Recrutement [Princesse Sirène en Pleine Été]
+mst.item.15520006._effectDetail,Points obtenus lors du « Recrutement spécial – La Petite Sirène en plein été » ; peuvent être échangés contre diverses Idoles et objets. <br> Peut également être converti en livre de compétences (niveau moyen) après la fin de la période. <br>
+mst.item.15520007._name,Points de Recrutement [Été sur la plage]
+mst.item.15520007._effectDetail,"Points obtenus lors du « Recrutement spécial – Plage estivale » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520008._name,Points de Recrutement [Fleurs épanouies dans la nuit d'été]
+mst.item.15520008._effectDetail,"Points obtenus lors du « Recrutement spécial – Fleurs épanouies dans la nuit d’été » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après expiration, ils seront convertis en livre de compétences (M)."
+mst.item.15520009._name,Points de Recrutement [Ogi scintillant au clair de lune]
+mst.item.15520009._effectDetail,"Points obtenus lors du « Recrutement spécial – Lune brillante et fleurs d’été » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520010._name,Points de Recrutement [Promenade estivale en yukata]
+mst.item.15520010._effectDetail,"Points obtenus lors du « Recrutement spécial – Promenade estivale en yukata » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520011._name,Points de Recrutement [Trick or Treat!]
+mst.item.15520011._effectDetail,"Points obtenus lors du « Recrutement spécial – Trick or Treat ! » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520012._name,Points de Recrutement [ひだまりのマーチングバンド]
+mst.item.15520012._effectDetail,"Points obtenus lors du « Recrutement spécial – Hidamari Marching Band » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520013._name,Points de Recrutement [Nyan Nyan 🐾 Maid]
+mst.item.15520013._effectDetail,"Points obtenus lors du « Recrutement spécial – Nyan-nyan 🐾 Maid » ; peuvent être échangés contre diverses Idoles et objets <br> <br> ※ Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520014._name,Points de Recrutement [Joyeux Noël à tous !]
+mst.item.15520014._effectDetail,"Points obtenus lors du « Recrutement spécial – Joyeux Noël à tous ! » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520015._name,Points de Recrutement [Festival des Neiges et Père Noël]
+mst.item.15520015._effectDetail,"Points obtenus lors du « Recrutement spécial – Festival des neiges et Père Noël » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la fin de la période, ils seront convertis en livre de compétences (M)."
+mst.item.15520016._name,Points de Recrutement [Joyeux Nouvel An à tous]
+mst.item.15520016._effectDetail,"Points obtenus lors du « Recrutement spécial – Bonne année à tous » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (M)."
+mst.item.15520017._name,Points de Recrutement [Fée des Glaces]
+mst.item.15520017._effectDetail,"Points obtenus lors du « Recrutement spécial – Fée des glaces » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (M)."
+mst.item.15520018._name,Points de Recrutement [Filles amoureuses]
+mst.item.15520018._effectDetail,"Points obtenus lors du « Recrutement spécial – Amours captives » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15520019._name,Points de Recrutement [Nuit des Cent Démons]
+mst.item.15520019._effectDetail,"Points obtenus lors du « Recrutement spécial – Nuit de la procession des cent démons » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après expiration, ils seront convertis en livre de compétences (M)."
+mst.item.15520020._name,Points de Recrutement [Y2K♡GALS]
+mst.item.15520020._effectDetail,"Points obtenus lors du « Recrutement spécial – Y2K♡GALS » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (M)."
+mst.item.15530001._name,Points de Recrutement [Anniversaire de Kanon]
+mst.item.15530001._effectDetail,"Points obtenus lors du « Recrutement spécial anniversaire de Kanon ». Peut être échangé contre diverses Idoles et objets <br> <br>. ※Une fois la période terminée, il sera converti en livre de compétences (niveau moyen)."
+mst.item.15530002._name,Points de Recrutement [Anniversaire d’Ai]
+mst.item.15530002._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire d’Ai » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530003._name,Points de Recrutement [Anniversaire de Chi-chan]
+mst.item.15530003._effectDetail,"Points obtenus via le « Recrutement spécial anniversaire de »<br>Peuvent être échangés contre diverses Idoles et objets.<br>※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530004._name,Points de Recrutement [Anniversaire de Mari]
+mst.item.15530004._effectDetail,"Points obtenus lors du « Recrutement spécial anniversaire de Maruri » ; peuvent être échangés contre diverses Idoles et objets <br> <br> ※ Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530005._name,Points de Recrutement [Anniversaire de Shiki]
+mst.item.15530005._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Shiki » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530006._name,Points de Recrutement [Anniversaire de Karin]
+mst.item.15530006._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Karin »<br>Peuvent être échangés contre diverses Idoles et objets.<br>※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530007._name,Points de Recrutement [Anniversaire de Senko-chan]
+mst.item.15530007._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Senko » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la fin de la période, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530008._name,Points de Recrutement [Anniversaire de Koko]
+mst.item.15530008._effectDetail,"Points obtenus lors du « Recrutement spécial anniversaire de Koko » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530009._name,Points de Recrutement [Anniversaire de Nico]
+mst.item.15530009._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Niko » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530010._name,Points de Recrutement [Anniversaire de Chika]
+mst.item.15530010._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Chika » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530011._name,Points de Recrutement [Anniversaire de Honoka]
+mst.item.15530011._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Hōkago » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530012._name,Points de Recrutement [Anniversaire de Nami-chan]
+mst.item.15530012._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Nami » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530013._name,Points de Recrutement [Anniversaire de Setsuna]
+mst.item.15530013._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Setsuna » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530014._name,Points de Recrutement [Anniversaire de Kotori]
+mst.item.15530014._effectDetail,"Points obtenus lors du « Recrutement spécial anniversaire de Kotori » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530015._name,Points de Recrutement [Anniversaire de Riko]
+mst.item.15530015._effectDetail,"Points obtenus lors du « Recrutement spécial anniversaire de Riko » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530016._name,Points de Recrutement [Anniversaire de Ruby]
+mst.item.15530016._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Ruby » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530017._name,Points de Recrutement [Anniversaire de Sumire]
+mst.item.15530017._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Sumire » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (M)."
+mst.item.15530018._name,Points de Recrutement [Anniversaire de Shizuko]
+mst.item.15530018._effectDetail,"Points obtenus lors du « Recrutement spécial anniversaire de Shizuko » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530019._name,Points de Recrutement [Anniversaire d’Eri]
+mst.item.15530019._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire d’Eri » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (M)."
+mst.item.15530020._name,Points de Recrutement [Anniversaire de Mei]
+mst.item.15530020._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Mei » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530021._name,Points de Recrutement [Anniversaire de Rin]
+mst.item.15530021._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Rin » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530022._name,Points de Recrutement [Anniversaire de Rina]
+mst.item.15530022._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Rina » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530023._name,Points de Recrutement [Anniversaire de Ren-chan]
+mst.item.15530023._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de »<br>Peuvent être échangés contre diverses Idoles et objets.<br>※Après la date limite, ils seront convertis en livre de compétences (M)."
+mst.item.15530024._name,Points de Recrutement [Anniversaire de Mia]
+mst.item.15530024._effectDetail,"Points obtenus via le « Recrutement pour l’anniversaire de Mia » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530025._name,Points de Recrutement [Anniversaire de Hisoka]
+mst.item.15530025._effectDetail,"Points à Obtenir lors du « Recrutement anniversaire de Kana-chan »<br> échangeables contre diverses Idoles et objets<br>※ Après expiration, se convertit en Livre de compétences (Moyen)"
+mst.item.15530026._name,Points de Recrutement [Anniversaire de Fuyumari]
+mst.item.15530026._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Fuyumari » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530027._name,Points de Recrutement [Anniversaire de Dia]
+mst.item.15530027._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Dia » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530028._name,Points de Recrutement [Anniversaire de Hanayo]
+mst.item.15530028._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Hanyu » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530029._name,Points de Recrutement [Anniversaire de Marguerite]
+mst.item.15530029._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Marguerite » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530030._name,Points de Recrutement [Anniversaire de Kasumi]
+mst.item.15530030._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Kasumi » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530031._name,Points de Recrutement [Anniversaire d’Emma]
+mst.item.15530031._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire d’Emma » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530032._name,Points de Recrutement [Anniversaire de Kanan]
+mst.item.15530032._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Kanan » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (M)."
+mst.item.15530033._name,Points de Recrutement [Anniversaire d’Aranjyu]
+mst.item.15530033._effectDetail,"Points obtenus lors du « Recrutement spécial anniversaire d’Aranjiru » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530034._name,Points de Recrutement [Anniversaire de Chizuru]
+mst.item.15530034._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Chizuru » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530035._name,Points de Recrutement [Anniversaire de Ayumu]
+mst.item.15530035._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Ayumu »<br>Peuvent être échangés contre diverses Idoles et objets.<br>※Après la date limite, ils seront convertis en livre de compétences (M)."
+mst.item.15530036._name,Points de Recrutement [Anniversaire de Hanaru]
+mst.item.15530036._effectDetail,"Points obtenus lors du « Recrutement spécial anniversaire de Hanaru »<br>Peuvent être échangés contre diverses Idoles et objets.<br>※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15530037._name,Points de Recrutement [Anniversaire de Umi]
+mst.item.15530037._effectDetail,"Points obtenus lors du « Recrutement pour l’anniversaire de Umi » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540001._name,Points de Recrutement [Bonus de liaison des données School Idol Festival]
+mst.item.15540001._effectDetail,Points obtenus lors du « Recrutement spécial pour la connexion aux données de School Idol Festival ». Ils peuvent être échangés contre diverses Idoles et objets.<br>
+mst.item.15540002._name,Points de Recrutement [Attributs Spéciaux]
+mst.item.15540002._effectDetail,"Points obtenus avec « Recrutement spécial Smile », <br> « Recrutement spécial Pure », <br> et « Recrutement spécial Cool ». <br> Peut être échangé contre diverses Idoles et objets. <br> ※Après la fin de la période, il sera converti en livre de compétences (niveau moyen)."
+mst.item.15540005._name,"Points de Recrutement [Love Song Carnival, arc Ayumu]"
+mst.item.15540005._effectDetail,Points obtenus lors du « Recrutement spécial Love Song Carnival – Arc de Ayumu ». <br> Peut être échangé contre diverses Idoles et objets. <br> Transformé en livre de compétences (niveau moyen) après la fin de la période.
+mst.item.15540006._name,Points de Recrutement [Love Song Carnival - Arc Kasumi]
+mst.item.15540006._effectDetail,"Points obtenus lors du « Recrutement spécial Love Song Carnival – Arc Kasumi ». Peut être échangé contre diverses Idoles et objets. <br> <br> ※Une fois la période terminée, il sera converti en livre de compétences (niveau moyen)."
+mst.item.15540007._name,"Points de Recrutement [Love Song Carnival, arc Shizuku]"
+mst.item.15540007._effectDetail,Points obtenus lors du « Recrutement spécial Love Song Carnival – Arc Shizuku ». Peut être échangé contre diverses Idoles et objets. <br> <br> Converti en livre de compétences (niveau moyen) après la fin de la période.
+mst.item.15540008._name,"Points de Recrutement [Love Song Carnival, Arc Karin]"
+mst.item.15540008._effectDetail,Points obtenus lors du « Recrutement spécial Love Song Carnival – Arc Karin ». Peut être échangé contre diverses Idoles et objets. <br> <br> Converti en livre de compétences (niveau moyen) après la fin de la période.
+mst.item.15540009._name,Points de Recrutement [Love Song Carnival - Arc Ai]
+mst.item.15540009._effectDetail,Points obtenus lors du « Recrutement commémoratif Love Song Carnival – Arc Ai ». Peut être échangé contre diverses Idoles et objets <br>. <br> Converti en livre de compétences (niveau moyen) après la fin de la période.
+mst.item.15540010._name,Points de Recrutement [Love Song Carnival - Arc Himuka]
+mst.item.15540010._effectDetail,"Points obtenus lors du « Recrutement commémoratif Love Song Carnival – Arc de Hikari ». <br> Peut être échangé contre diverses Idoles et objets. <br> ※ Une fois la période terminée, il sera converti en livre de compétences (niveau moyen)."
+mst.item.15540011._name,"Points de Recrutement [Love Song Carnival, arc Setsuna]"
+mst.item.15540011._effectDetail,"Points obtenus lors du « Recrutement spécial Love Song Carnival – Arc Setsuna ». Peut être échangé contre diverses Idoles et objets <br>. <br> Note : une fois la période terminée, il sera converti en livre de compétences (niveau moyen)."
+mst.item.15540012._name,"Points de Recrutement [Love Song Carnival, Épisode Emma]"
+mst.item.15540012._effectDetail,"Points obtenus lors du « Recrutement spécial Love Song Carnival – Arc Emma » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540013._name,"Points de Recrutement [Love Song Carnival, épisode Rina]"
+mst.item.15540013._effectDetail,Points obtenus lors du « Recrutement spécial Love Song Carnival – Arc Rina ». Peut être échangé contre diverses Idoles et objets. <br> <br> Converti en livre de compétences (niveau moyen) après la fin de la période.
+mst.item.15540014._name,"Points de Recrutement [Love Song Carnival, épisode Shizuko]"
+mst.item.15540014._effectDetail,"Points obtenus lors du « Recrutement spécial Love Song Carnival – Arc Shizuko » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540015._name,Points de Recrutement [Love Song Carnival - Mia]
+mst.item.15540015._effectDetail,"Points obtenus lors du « Recrutement spécial anniversaire Love Song Carnival – Arc Mia ». Vous pouvez les échanger contre diverses Idoles et objets <br>. <br>. *Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540016._name,"Points de Recrutement [Love Song Carnival, Arashi Tama]"
+mst.item.15540016._effectDetail,"Points obtenus lors du « Recrutement commémoratif Love Song Carnival – Arc Arashi Tama ». <br> Peut être échangé contre diverses Idoles et objets. <br> ※ Une fois la période terminée, il sera converti en livre de compétences (M)."
+mst.item.15540017._name,Points de Recrutement [Anniversaire]
+mst.item.15540017._effectDetail,"Points obtenus lors de « 1 fois par jour, Recrutement gratuit ! Half Anniversary », <br> « Recrutement garanti UR Half Anniversary », <br> et « Recrutement spécial Boo! Boo! Halloween Land ». <br> Peut être échangé contre diverses Idoles et objets. <br> ※Après la date limite, il sera converti en livre de compétences (M)."
+mst.item.15540023._name,Points de Recrutement [Mon Love Song]
+mst.item.15540023._effectDetail,"Points obtenus lors du « Recrutement pour célébrer le début de l’arc My Love Song » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (M)."
+mst.item.15540024._name,Points de Recrutement [μ's Sélection]
+mst.item.15540024._effectDetail,"Points obtenus lors du « Recrutement spécial μ's » <br> peuvent être échangés contre diverses Idoles et objets <br> ※ Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540025._name,Points de Recrutement [Aqours - Sélection spéciale]
+mst.item.15540025._effectDetail,"Points obtenus via le « Recrutement spécial Aqours » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540027._name,"Points de Recrutement [Johane, l'Étoile Filante]"
+mst.item.15540027._effectDetail,"Points obtenus lors du « Recrutement commémoratif de l’événement ‘幻日のヨハネ -The Story of the Sound of Heart-’ » <br>, échangeables contre diverses Idoles et objets <br>. <br> Note : après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540028._name,Points de recrutement [Élèves de 1ère]
+mst.item.15540028._effectDetail,"Points obtenus lors du « Recrutement spécial pour les élèves de première année » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540029._name,Points de Recrutement [Événement spécial pour les élèves de 2e année]
+mst.item.15540029._effectDetail,"Points obtenus via le « Recrutement spécial pour les élèves de 2e année »<br>Ils peuvent être échangés contre diverses Idoles et objets.<br>※Après la date limite, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540030._name,Points de Recrutement [Événement spécial pour les élèves de 3e année]
+mst.item.15540030._effectDetail,"Points obtenus via le « Recrutement spécial (3e année) » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540031._name,Points de recrutement [Fin d’année/Nouvel An]
+mst.item.15540031._effectDetail,Points obtenus lors de « Campagne spéciale de fin d’année et du Nouvel An ! jusqu’à 240 Recrutements gratuits » <br> ou « Campagne spéciale de fin d’année et du Nouvel An ! Recrutement garanti UR » <br>. Ils peuvent être échangés contre diverses Idoles et objets <br>.
+mst.item.15540032._name,Points de Recrutement [Nouvel An]
+mst.item.15540032._effectDetail,"Points obtenus avec « Nouvel An, premier rêve » ou « UR garanti pour le Nouvel An ». <br> Peut être échangé contre diverses Idoles et objets. <br> Converti en livre de compétences (M) après la date limite."
+mst.item.15540033._name,Points de Recrutement [Love Song Carnival]
+mst.item.15540033._effectDetail,"Points obtenus lors du « Recrutement spécial Love Song Carnival ». <br> Peut être échangé contre diverses Idoles et objets. <br> ※ Une fois la période terminée, il sera converti en livre de compétences (niveau moyen)."
+mst.item.15540034._name,Points de Recrutement [Grand Festival]
+mst.item.15540034._effectDetail,"Points obtenus lors du « Grand Festival de remerciment de School Idol Festival » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Une fois la période terminée, ils seront convertis en livre de compétences (niveau moyen)."
+mst.item.15540035._name,Points de Recrutement [Recrutement Spécial]
+mst.item.15540035._effectDetail,"Points obtenus via le « Recrutement Spécial » <br> peuvent être échangés contre diverses Idoles et objets <br>. ※Après la date limite, ils seront convertis en livre de compétences (M)."
+mst.item.30010001._name,Pièce souvenir
+mst.item.30010001._effectDetail,"Obtenez des pièces en participant à des événements ou en vous connectant quotidiennement.<br>En collectant ces pièces, vous pourrez les échanger contre des Idoles spéciales dans la boutique."
+mst.item.30010002._name,Échange Weiss Schwarz
+mst.item.30010002._effectDetail,Utilisable à l’échange Weiss Schwarz.
+mst.item.30010003._name,Échangeur Noël Blanc Neige
+mst.item.30010003._effectDetail,Utilisable à l’échange de la campagne Noël Blanche Neige.
+mst.item.30010004._name,Points de loterie du Nouvel An
+mst.item.30010004._effectDetail,Utilisable à la boutique des paquets de chance du Nouvel An !
+mst.item.30010005._name,Échange Valentine
+mst.item.30010005._effectDetail,Utilisable à la boutique de l’événement « Joyeux Saint-Valentin ».
+mst.item.16005001._name,Notes de cours (petit)
+mst.item.16005001._effectDetail,Permet d’obtenir de l’expérience pour les Idoles en cours de leçon.
+mst.item.16005002._name,Cahier de cours (M)
+mst.item.16005002._effectDetail,Permet d’obtenir de l’expérience pour les Idoles en cours de leçon.
+mst.item.16005003._name,Notes de cours (grand)
+mst.item.16005003._effectDetail,Permet d’obtenir de l’expérience pour les Idoles en cours de leçon.
+mst.item.17001001._name,Manuel de compétences (petit)
+mst.item.17001001._effectDetail,Permet d’obtenir de l’expérience pour les talents lors des leçons de compétences.
+mst.item.17001002._name,Livre de compétences (M)
+mst.item.17001002._effectDetail,Permet d’obtenir de l’expérience pour les talents lors des leçons de compétences.
+mst.item.17001003._name,Livre de compétences (grand)
+mst.item.17001003._effectDetail,Permet d’obtenir de l’expérience pour les talents lors des leçons de compétences.
+mst.item.19100001._name,Bâton lumineux
+mst.item.19100001._effectDetail,Permet d’effectuer l’Éveil d’une Idole.
+mst.item.20000001._name,Bonbon LP [petit]
+mst.item.20000001._effectDetail,Restaure 10 LP.
+mst.item.20000002._name,Bonbon LP [Moyen]
+mst.item.20000002._effectDetail,Restaure 50 LP.
+mst.item.20000003._name,Bonbon LP [Grand]
+mst.item.20000003._effectDetail,Restaure 100 LP.
+mst.item.20001001._name,Bonbon LP limité [petit]
+mst.item.20001001._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20002001._name,Bonbon LP limité [Moyenne]
+mst.item.20002001._effectDetail,Restaure 50 LP (durée limitée)
+mst.item.20003001._name,Bonbon LP limité [Grand]
+mst.item.20003001._effectDetail,Restaure 100 LP (durée limitée)
+mst.item.20001002._name,Bonbon LP limité [petit]
+mst.item.20001002._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001003._name,Bonbon LP limité [petit]
+mst.item.20001003._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001004._name,Bonbon LP limité [petit]
+mst.item.20001004._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001005._name,Bonbon LP limité [petit]
+mst.item.20001005._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001006._name,Bonbon LP limité [petit]
+mst.item.20001006._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001007._name,Bonbon LP limité [petit]
+mst.item.20001007._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001008._name,Bonbon LP Halloween [petit]
+mst.item.20001008._effectDetail,Restaure 10 LP.
+mst.item.20001009._name,Bonbon LP limité [petit]
+mst.item.20001009._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001010._name,Bonbon LP limité [petit]
+mst.item.20001010._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001011._name,Bonbon LP limité [petit]
+mst.item.20001011._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001012._name,Bonbon LP de Noël [petit]
+mst.item.20001012._effectDetail,Restaure 10 LP.
+mst.item.20001013._name,Bonbon LP
+mst.item.20001013._effectDetail,Restaure 10 LP.
+mst.item.20001014._name,Bonbon LP limité [petit]
+mst.item.20001014._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001015._name,Bonbon LP limité [petit]
+mst.item.20001015._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.20001016._name,Bonbon Saint-Valentin (petit)
+mst.item.20001016._effectDetail,Restaure 10 LP.
+mst.item.20001017._name,Macaron du Jour des Amoureux [petit]
+mst.item.20001017._effectDetail,Restaure 10 LP.
+mst.item.20001018._name,Bonbon LP limité [petit]
+mst.item.20001018._effectDetail,Restaure 10 LP (durée limitée)
+mst.item.21000001._name,Ticket de saut
+mst.item.21000001._effectDetail,Ticket nécessaire pour effectuer un saut.
+mst.item.21001001._name,Ticket de saut limité
+mst.item.21001001._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001002._name,Ticket de saut limité
+mst.item.21001002._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001003._name,Ticket de saut limité
+mst.item.21001003._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001004._name,Ticket de saut limité
+mst.item.21001004._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001005._name,Ticket de saut limité
+mst.item.21001005._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001006._name,Ticket de saut limité
+mst.item.21001006._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001007._name,Ticket de saut limité
+mst.item.21001007._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001008._name,Ticket de saut limité
+mst.item.21001008._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001009._name,Ticket de saut limité
+mst.item.21001009._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001010._name,Ticket de saut limité
+mst.item.21001010._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001011._name,Ticket de saut limité
+mst.item.21001011._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001012._name,Ticket de saut limité
+mst.item.21001012._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.21001013._name,Ticket de saut limité
+mst.item.21001013._effectDetail,Ticket nécessaire pour effectuer un saut (date d’expiration)
+mst.item.22000001._name,Ticket d’assistance étoile
+mst.item.22000001._effectDetail,Ticket nécessaire pour utiliser l’assistance spéciale.
+mst.item.22001001._name,Ticket d’assistance étoile (durée limitée)
+mst.item.22001001._effectDetail,Ticket nécessaire pour utiliser l’assistance spéciale (date d’expiration)
+mst.item.22001003._name,Ticket d’assistance étoile (durée limitée)
+mst.item.22001003._effectDetail,Ticket nécessaire pour utiliser l’assistance spéciale (date d’expiration)
+mst.item.22001004._name,Ticket d’assistance étoile (durée limitée)
+mst.item.22001004._effectDetail,Ticket nécessaire pour utiliser l’assistance spéciale (date d’expiration)

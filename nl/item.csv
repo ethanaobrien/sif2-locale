@@ -1,0 +1,405 @@
+﻿_key,_text
+mst.item.15010001._name,1x scoutticket
+mst.item.15010001._effectDetail,Een ticket waarmee je kunt scouten.<br>Hetzelfde als een 1-voudige scouting.
+mst.item.15010002._name,10x scout-ticket
+mst.item.15010002._effectDetail,Ticket waarmee je kunt scouten<br>Hetzelfde als een 10-voudige scouting.
+mst.item.15010003._name,Tijdelijke 10x scout-ticket
+mst.item.15010003._effectDetail,Ticket waarmee je kunt scouten (met een vervaldatum)<br>Je kunt hetzelfde doen als bij 10 keer scouten.
+mst.item.15010004._name,10x scout-ticket (School Festa data bonus)
+mst.item.15010004._effectDetail,Ticket waarmee je kunt scouten<br>Bij sommige scouts kun je hetzelfde doen als bij een 10-voudige scout.
+mst.item.15010005._name,10x scout-ticket (ScuSta data koppeling bonus)
+mst.item.15010005._effectDetail,Ticket waarmee je kunt scouten<br>Bij sommige scouts kun je hetzelfde doen als bij een 10-voudige scout.
+mst.item.15010006._name,1x Normale scoutticket (tot 15 juli 2023 11:59)
+mst.item.15010006._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010007._name,"10x normaal scoutticket (tot 15 juli 2023, 11:59)"
+mst.item.15010007._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010008._name,1x Normale scoutticket (tot 31/7/2023 11:59)
+mst.item.15010008._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010009._name,10x scoutticket (tot 31/7/2023 11:59)
+mst.item.15010009._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010010._name,1x Normale scoutticket (tot 15-08-2023 11:59)
+mst.item.15010010._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010011._name,10x scoutticket (tot 15-08-2023 11:59)
+mst.item.15010011._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010012._name,1x Normale scoutticket (tot 31-08-2023 11:59)
+mst.item.15010012._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010013._name,10x scoutticket (tot 31-08-2023 11:59)
+mst.item.15010013._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010014._name,1x Normale scoutticket (tot 15-09-2023 11:59)
+mst.item.15010014._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010015._name,10x scoutticket (tot 15-09-2023 11:59)
+mst.item.15010015._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010016._name,1x Normale scout-ticket (tot 30/09/2023 11:59)
+mst.item.15010016._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010017._name,10x scoutticket (tot 30-09-2023 11:59)
+mst.item.15010017._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010018._name,1x Normale scoutticket (tot 15 okt 2023 11:59)
+mst.item.15010018._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010019._name,10x scoutticket (tot 15-10-2023 11:59)
+mst.item.15010019._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010020._name,1x Normale scoutticket (tot 31-10-2023 11:59)
+mst.item.15010020._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010021._name,10x scoutticket (tot 31-10-2023 11:59)
+mst.item.15010021._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010022._name,1x Normale scoutticket (tot 15-11-2023 11:59)
+mst.item.15010022._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010023._name,1x Normale scoutticket (tot 15-11-2023 11:59)
+mst.item.15010023._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010024._name,10x scoutticket (tot 15-11-2023 11:59)
+mst.item.15010024._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010025._name,1x Normale scoutticket (tot 30-11-2023 11:59)
+mst.item.15010025._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010026._name,10x scoutticket (tot 30-11 om 11:59)
+mst.item.15010026._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010027._name,1x Normale scoutticket (tot 15-11-2023 11:59)
+mst.item.15010027._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010028._name,1x Normale scoutticket (tot 15-12-2023 11:59)
+mst.item.15010028._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010029._name,10x scoutticket (tot 15-12-2023 11:59)
+mst.item.15010029._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010030._name,1x Normale scoutticket (tot 31-12-2023 11:59)
+mst.item.15010030._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010031._name,10x scoutticket (tot 31-12 om 11:59)
+mst.item.15010031._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010032._name,1x Normale scoutticket (tot 31-12-2023 11:59)
+mst.item.15010032._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010033._name,10x scoutticket (tot 31-12 om 11:59)
+mst.item.15010033._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010034._name,1x Normale scoutticket (tot 15-01-2024 11:59)
+mst.item.15010034._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010035._name,10x scoutticket (tot 15 jan 2024 11:59)
+mst.item.15010035._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010036._name,1x Normale scout-ticket (tot 31/1/2024 11:59)
+mst.item.15010036._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010037._name,10x scoutticket (tot 31/1/2024 11:59)
+mst.item.15010037._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010038._name,1x Normale scoutticket (tot 14-02-2024 11:59)
+mst.item.15010038._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010039._name,10x normaal scoutticket (tot 14-2-2024 11:59)
+mst.item.15010039._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15010040._name,1x Normale scoutticket (tot 31-03-2024 11:59)
+mst.item.15010040._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als één keer normaal scouten.
+mst.item.15010041._name,10x Normale Scout-ticket (tot 31/03/2024 11:59)
+mst.item.15010041._effectDetail,Ticket waarmee je kunt scouten<br>Voert hetzelfde uit als 10 keer een normale scouting.
+mst.item.15020001._name,10x scout-ticket (Super Festival 2 Special)
+mst.item.15020001._effectDetail,"Ticket waarmee je een ""ScuFes 2 Dankbaarheid Scout"" kunt uitvoeren.<br>Hiermee kun je 10 keer scouten."
+mst.item.15500001._name,Scoutpunten [Release-evenement]
+mst.item.15500001._effectDetail,"Punten die je kunt ontvangen met ""Release Anniversary Scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> <br> Let op: na de vervaldatum worden ze omgezet in een Skill Book (M)."
+mst.item.15500002._name,Scoutpunten [Na school in Harajuku Liella!♡]
+mst.item.15500002._effectDetail,"Punten die je kunt ont¬vangen met ""Pick-up scout – After school in Harajuku Liella!♡"" <br> Je kunt deze punten inwisselen voor verschillende idols en items <br> ※Na de vervaldatum worden ze omgezet in een Skill Book (M)."
+mst.item.15510004._name,Scoutpunten [Normaal]
+mst.item.15510004._effectDetail,"Je kunt dit punt verkrijgen via ""Normale scouting"". Het kan worden ingewisseld voor verschillende idols en items. <br> Het kan ook worden ingewisseld voor een Skill Book (Middel) nadat de periode is verstreken. <br> De inwisselingsperiode voor dit punt eindigt op 15 mei. <br>"
+mst.item.15510005._name,Scoutpunten [Normaal]
+mst.item.15510005._effectDetail,"Je kunt dit verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M). <br> De inwisselingsdatum van deze punten is tot 31 mei."
+mst.item.15510006._name,Scoutpunten [Normaal]
+mst.item.15510006._effectDetail,"Je kunt dit punt ontvangen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> *Na de vervaldatum wordt het omgezet in een Skill Book (Midden). <br> *De inwisselingsdatum van dit punt is tot 19 juni."
+mst.item.15510007._name,Scoutpunten [Normaal]
+mst.item.15510007._effectDetail,"Je kunt dit gebruiken bij een ""normale scouting"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M). <br> De inwisselingsdatum van deze punten is tot 30 juni."
+mst.item.15510008._name,Scoutpunten [Normaal]
+mst.item.15510008._effectDetail,"Je kunt dit punt verkrijgen via ""normaal scouten"". Het kan worden ingewisseld voor verschillende idols en items. <br> Het kan ook worden ingewisseld voor een Skill Book (Medium) nadat de geldigheidsduur is verstreken. <br> De inwisselingsdatum van dit punt eindigt op 15 juli. <br>"
+mst.item.15510009._name,Scoutpunten [Normaal]
+mst.item.15510009._effectDetail,"Je kunt dit verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M). <br> De inwisselingsdatum van deze punten is tot 31 juli."
+mst.item.15510010._name,Scoutpunten [Normaal]
+mst.item.15510010._effectDetail,"Je kunt dit verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> *Na de vervaldatum wordt het omgezet in een Skill Book (Midden). <br> *De inwisselingsdatum van deze punten is tot 15 augustus."
+mst.item.15510011._name,Scoutpunten [Normaal]
+mst.item.15510011._effectDetail,"Je kunt dit verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M). <br> De inwisselingsdatum van deze punten is tot 31 augustus."
+mst.item.15510012._name,Scoutpunten [Normaal]
+mst.item.15510012._effectDetail,"Je kunt dit punt verkrijgen via ""normaal scouten"". Het kan worden ingewisseld voor verschillende idols en items. <br> Je kunt het inwisselen voor verschillende idols en items. <br> Na de vervaldatum wordt het omgezet in een Skill Book (Middel). <br> De inwisselingsdatum van dit punt is tot 15 september."
+mst.item.15510013._name,Scoutpunten [Normaal]
+mst.item.15510013._effectDetail,"Je kunt dit verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M). <br> De inwisselingsdatum van deze punten is tot 30 september."
+mst.item.15510014._name,Scoutpunten [Normaal]
+mst.item.15510014._effectDetail,"Je kunt deze punten ontfangen via ""normaal scouten"". <br> Je kunt ze inwisselen voor verschillende idols en items. <br> *Na de vervaldatum worden ze omgezet in een Skill Book (Midden). <br> *De inwisselingsdatum van deze punten is tot 15 oktober."
+mst.item.15510015._name,Scoutpunten [Normaal]
+mst.item.15510015._effectDetail,"Je kunt deze punten ontfangen via ""normaal scouten"". <br> Je kunt ze inwisselen voor verschillende idols en items. <br> *Na de vervaldatum worden ze omgezet in een Skill Book (Middel). <br> *De inwisselingsdatum van deze punten is tot 31 oktober."
+mst.item.15510016._name,Scoutpunten [Normaal]
+mst.item.15510016._effectDetail,"Je kunt dit punt verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> *Na de vervaldatum wordt het omgezet in een Skill Book (Midden). <br> *De inwisselingsdatum van dit punt is tot 15 november."
+mst.item.15510017._name,Scoutpunten [Normaal]
+mst.item.15510017._effectDetail,"Je kunt dit punt verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> *Na de vervaldatum wordt het omgezet in een Skill Book (Midden). <br> *De inwisselingsdatum van dit punt is tot 30 november."
+mst.item.15510018._name,Scoutpunten [Normaal]
+mst.item.15510018._effectDetail,"Je kunt dit punt verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> *Na de vervaldatum wordt het omgezet in een Skill Book (Midden). <br> *De inwisselingsdatum van dit punt is tot 15 december."
+mst.item.15510019._name,Scoutpunten [Normaal]
+mst.item.15510019._effectDetail,"Je kunt dit punt verkrijgen via ""normaal scouten"". Het kan worden ingewisseld voor verschillende idols en items. <br> Je kunt het inwisselen voor verschillende idols en items. <br> Na de vervaldatum wordt het omgezet in een Skill Book (Middel). <br> De inwisselingsdatum van dit punt is tot 31 december."
+mst.item.15510020._name,Scoutpunten [Normaal]
+mst.item.15510020._effectDetail,"Je kunt dit verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> *Na de vervaldatum wordt het omgezet in een Skill Book (Midden). <br> *De inwisselingsdatum van deze punten is tot 15 januari."
+mst.item.15510021._name,Scoutpunten [Normaal]
+mst.item.15510021._effectDetail,"Je kunt dit verkrijgen via ""normaal scouten"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M). <br> De inwisselingsdatum van deze punten is tot 31 januari."
+mst.item.15510022._name,Scoutpunten [Normaal]
+mst.item.15510022._effectDetail,"Je kunt deze punten ontvangen via ""normaal scouten""<br>Ze kunnen worden ingewisseld voor verschillende idols en items<br>※Na de vervaldatum worden ze omgezet in een skillboek (middel)<br>※De inwisselingsdatum van deze punten is tot 14 februari."
+mst.item.15510023._name,Scoutpunten [Normaal]
+mst.item.15510023._effectDetail,"Je kunt dit gebruiken bij een ""normale scouting"". <br> Je kunt het inwisselen voor verschillende idols en items. <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M). <br> De inwisselingsdatum van deze punten is tot 1 maart."
+mst.item.15510024._name,Scoutpunten [Normaal]
+mst.item.15510024._effectDetail,"Je kunt deze punten ontvangen via ""Normale scouting"".<br>Ze kunnen worden ingewisseld voor verschillende idols en items.<br>※Na de vervaldatum worden ze omgezet in een Skill Book (M).<br>※De inwisselingsdatum van deze punten is tot 31 maart."
+mst.item.15520001._name,Scout-punten [Wij en deze stad]
+mst.item.15520001._effectDetail,"Je kunt dit punt inwisselen voor verschillende idols en items via ""Pick-up scout – Wij en deze stad"". <br> Je kunt het gebruiken om verschillende idols en items te verkrijgen. <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M)."
+mst.item.15520002._name,Scout-punten [Promoot de winkelstraat!]
+mst.item.15520002._effectDetail,"Je kunt dit punt verkrijgen via ""Pick-up scout - Laten we de winkelstraat promoten!"" en het inwisselen voor verschillende idols en items. <br> Het kan worden ingewisseld voor diverse idols en items. <br> Let op: na afloop van de periode wordt het omgezet in een vaardigheidsboek (middel)."
+mst.item.15520003._name,Scoutpunten [Live in Nature]
+mst.item.15520003._effectDetail,"Je kunt dit gebruiken om punten te krijgen via ""Pick-up scout - Live in Nature"". Je kunt deze punten inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na de vervaldatum worden ze omgezet in een Skill Book (M)."
+mst.item.15520004._name,Scoutpunten [Schitterende danseres]
+mst.item.15520004._effectDetail,"Punten die je kunt ontvangen met ""Pick-up scout - Schitterende danseres"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel). <br>"
+mst.item.15520005._name,Scoutpunten [Zomerkamp in de zon]
+mst.item.15520005._effectDetail,"Je kunt dit punt verkrijgen via ""Pick-up scout - Zomerkamp in de zon"" en het kan worden ingewisseld voor verschillende idols en items <br> <br> *Na afloop van de periode wordt het omgezet in een skillboek (M).*"
+mst.item.15520006._name,Scoutpunten [Zomerse Zeemeermin]
+mst.item.15520006._effectDetail,"Punten die je kunt ontvingen in ""Pick-up scout – Zomerse zeemeermin"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na de vervaldatum wordt het omgezet in een vaardigheidsboek (M)."
+mst.item.15520007._name,Scoutpunten [Zomer op het strand]
+mst.item.15520007._effectDetail,"Je kunt dit item inwisselen voor verschillende idols en items via ""Pick-up scouten ~Zomer op het strand~"". <br> Je kunt het inwisselen voor diverse idols en items. <br> Na de vervaldatum wordt het omgezet in een vaardigheidsboek (M)."
+mst.item.15520008._name,Scoutpunten [Zomeravondbloei]
+mst.item.15520008._effectDetail,"Je kunt dit gebruiken om punten te krijgen in ""Pick-up scout - Zomerbloemen in de nacht"" en deze ruilen voor verschillende idols en items. <br> Je kunt het ook ruilen voor een Skill Book (Middel). <br>"
+mst.item.15520009._name,Scoutpunten [Maannachtbloeiende Ogi-bloem]
+mst.item.15520009._effectDetail,"Je kunt dit punt verkrijgen in ""Pick-up scout – Maanlichtbloeiende Ogi"". Het kan worden ingewisseld voor verschillende idols en items. <br> Je kunt het ook inwisselen voor een Skill Book (Middel) nadat de periode is verstreken. <br>"
+mst.item.15520010._name,Scoutpunten [Stadwandeling in yukata]
+mst.item.15520010._effectDetail,"Punten die je kunt ontfangen met ""Pick-up scout – Zomerse stadswandeling"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na de vervaldatum wordt het omgezet in een vaardigheidsboek (M)."
+mst.item.15520011._name,Scoutpunten [Trick or Treat!]
+mst.item.15520011._effectDetail,"Punten die je kunt ontfangen met ""Pick-up scout – Trick or Treat!"" <br> Je kunt ze inwisselen voor verschillende idols en items <br> *Na de vervaldatum worden ze omgezet in een Skill Book (M)."
+mst.item.15520012._name,Scoutpunten [Zonnige Marching Band]
+mst.item.15520012._effectDetail,"Punten die je kunt ontvingen in ""Pick-up scout – Hidamari Marching Band"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel) nadat de periode is verstreken. <br>"
+mst.item.15520013._name,Scoutpunten [Nyan Nyan🐾 Meiden]
+mst.item.15520013._effectDetail,"Je kunt dit punt verkrijgen via ""Pick-up scout – Nyan Nyan 🐾 Meiden"". Het kan worden ingewisseld voor verschillende idols en items. <br> <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M)."
+mst.item.15520014._name,Scoutpunten [Met z'n allen vrolijk Kerstfeest!]
+mst.item.15520014._effectDetail,"Je kunt dit inwisselen voor diverse idols en items via ""Pick-up scout – Laten we samen vrolijk Kerstmis vieren"". <br> Je kunt het gebruiken om verschillende idols en items te verkrijgen. <br> Let op: na de vervaldatum wordt het omgezet in een Skill Book (M)."
+mst.item.15520015._name,Scoutpunten [Sneeuwfestival Santa Claus]
+mst.item.15520015._effectDetail,"Punten die je kunt ontvingen in ""Pick-up scout – Yukimatsuri Santa Claus"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel) nadat de periode is verstreken. <br>"
+mst.item.15520016._name,Scoutpunten [Gelukkig nieuwjaar aan iedereen]
+mst.item.15520016._effectDetail,"Punten die je kunt ontvingen met ""Pick-up scout – Gelukkige nieuwjaarswensen voor iedereen"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na de vervaldatum wordt het omgezet in een Skill Book (M)."
+mst.item.15520017._name,Scoutpunten [IJsfee]
+mst.item.15520017._effectDetail,"Je kunt dit item inwisselen voor verschillende idols en items via ""Pick-up scout – Ice Fairy"". <br> Je kunt het gebruiken om punten te krijgen. <br> Let op: na de vervaldatum wordt het een Skill Book (M)."
+mst.item.15520018._name,Scoutpunten [Liefdevolle maagden]
+mst.item.15520018._effectDetail,"Punten die je kunt ontvingen in ""Pick-up scout – Liefdevolle maagden"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na de vervaldatum wordt het omgezet in een skillboek (M)."
+mst.item.15520019._name,Scoutpunten [Yōkai Gyōjō no Yoru]
+mst.item.15520019._effectDetail,"Punten die je kunt ontvingen in ""Pick-up scout – Hyakki Yagyō no Yoru"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel) nadat de periode is verstreken. <br>"
+mst.item.15520020._name,Scoutpunten [Y2K♡GALS]
+mst.item.15520020._effectDetail,"Punten die je kunt ontvangen met ""Pick-up scout – Y2K♡GALS"". Je kunt ze inwisselen voor verschillende idols en items. <br> <br> Let op: na de vervaldatum worden ze omgezet in een Skill Book (M)."
+mst.item.15530001._name,Scoutpunten [Kanons verjaardag]
+mst.item.15530001._effectDetail,"Punten die je kunt ontvangen met ""Kanon-chan's verjaardags-scouting"". Je kunt deze inwisselen voor verschillende idols en items. <br> Kan na de vervaldatum worden omgezet in een Skill Book (M). <br>"
+mst.item.15530002._name,Scoutpunten [Ai-chan verjaardag]
+mst.item.15530002._effectDetail,"Punten die je kunt ontvingen met de ""Aai-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530003._name,Scoutpunten [Nozomi's verjaardag]
+mst.item.15530003._effectDetail,"Punten die je kunt ontvingen met de ""Aoi-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items <br> <br> ※Na afloop van de periode worden ze omgezet in een vaardigheidsboek (middel)."
+mst.item.15530004._name,Scoutpunten [Mari-chan verjaardag]
+mst.item.15530004._effectDetail,"Punten die je kunt ontfangen met de ""Mari-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een vaardigheidsboek (middel)."
+mst.item.15530005._name,Scoutpunten [Sei-chan's verjaardag]
+mst.item.15530005._effectDetail,"Punten die je kunt ontvingen met de ""Viering van het verjaardagsevenement van Shiki"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na afloop van de periode wordt dit omgezet in een Skill Book (M)."
+mst.item.15530006._name,Scoutpunten [Karin's verjaardag]
+mst.item.15530006._effectDetail,"Punten die je kunt ontvingen met de ""Fruit Lin-verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530007._name,Scoutpunten [Zenko-chan verjaardag]
+mst.item.15530007._effectDetail,"Punten die je kunt ontvingen met de ""Zenko-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530008._name,Scoutpunten [Koko-chan verjaardag]
+mst.item.15530008._effectDetail,"Punten die je kunt ontfangen met de ""Verjaardags-scouting van Koko"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na afloop van de periode wordt het omgezet in een Skill Book (M)."
+mst.item.15530009._name,Scoutpunten [Nico's verjaardag]
+mst.item.15530009._effectDetail,"Punten die je kunt ontvingen met de ""Nico's verjaardags-scouting"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na afloop van de periode wordt het omgezet in een Skill Book (M)."
+mst.item.15530010._name,Scoutpunten [Chika's verjaardag]
+mst.item.15530010._effectDetail,"Punten die je kunt ontvangen met de ""Chika-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530011._name,Scoutpunten [Ho-no-ka's verjaardag]
+mst.item.15530011._effectDetail,"Punten die je kunt ontvingen met de ""Hono-ka's verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel). <br>"
+mst.item.15530012._name,Scoutpunten [Natsumi-chan verjaardag]
+mst.item.15530012._effectDetail,"Punten die je kunt ontvingen met de ""Verjaardags-scouting van Nachi"" kunnen worden ingewisseld voor verschillende idols en items <br> <br> *Na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530013._name,Scoutpunten [Setsuna's verjaardag]
+mst.item.15530013._effectDetail,"Punten die je kunt ontvingen met de ""Setuna's verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel) nadat de periode is afgelopen. <br>"
+mst.item.15530014._name,Scoutpunten [Kotori's verjaardag]
+mst.item.15530014._effectDetail,"Punten die je kunt ontvingen met de ""Kotori's verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530015._name,Scoutpunten [Riko-chan verjaardag]
+mst.item.15530015._effectDetail,"Punten die je kunt ontvingen met de ""Riko-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel) nadat de periode is afgelopen. <br>"
+mst.item.15530016._name,Scoutpunten [Rubi's verjaardag]
+mst.item.15530016._effectDetail,"Punten die je kunt ontvingen met de ""Rubi-chan verjaardags-scouting"". Je kunt deze inwisselen voor verschillende idols en items. <br> Kan na afloop van de periode worden omgezet in een vaardigheidsboek (middel). <br>"
+mst.item.15530017._name,Scoutpunten [Sumire-chan verjaardag]
+mst.item.15530017._effectDetail,"Punten die je kunt ontvingen met de ""Sumire-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel) nadat de periode is afgelopen. <br>"
+mst.item.15530018._name,Scoutpunten [Shikoko-chan verjaardag]
+mst.item.15530018._effectDetail,"Punten die je kunt ontfangen met de ""Shikoko-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530019._name,Scoutpunten [Eri-chan verjaardag]
+mst.item.15530019._effectDetail,"Punten die je kunt ontfangen met de ""Eri-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een vaardigheidsboek (middel)."
+mst.item.15530020._name,Scoutpunten [Mei's verjaardag]
+mst.item.15530020._effectDetail,"Punten die je kunt ontvingen met de ""Mei's verjaardagscampagne"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na afloop van de periode wordt het omgezet in een vaardigheidsboek (M)."
+mst.item.15530021._name,Scoutpunten [Rin-chan verjaardag]
+mst.item.15530021._effectDetail,"Punten die je kunt ontvingen met de ""Rin's Verjaardag Scout"" kunnen worden ingewisseld voor verschillende idols en items <br> <br> *Na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530022._name,Scoutpunten [Rina's verjaardag]
+mst.item.15530022._effectDetail,"Punten die je kunt ontfangen met de ""Rina's verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530023._name,Scoutpunten [Koi-chan verjaardag]
+mst.item.15530023._effectDetail,"Punten die je kunt ontfangen met de ""scout"" <br>, waarmee je verschillende idols en items kunt inwisselen <br>. *Na afloop van de periode wordt het omgezet in een vaardigheidsboek (middel)."
+mst.item.15530024._name,Scoutpunten [Mia's verjaardag]
+mst.item.15530024._effectDetail,"Punten die je kunt ontfangen met de ""Mia's verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een vaardigheidsboek (middel)."
+mst.item.15530025._name,Scoutpunten [Kihoko-chan verjaardag]
+mst.item.15530025._effectDetail,"Punten die je kunt ontfangen met de ""Hisoka-chan verjaardags-scout"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel). <br>"
+mst.item.15530026._name,Scoutpunten [Winter-chan verjaardag]
+mst.item.15530026._effectDetail,"Punten die je kunt ontfangen met de ""Winter Mari-verjaardags-scout"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530027._name,Scoutpunten [Dia's verjaardag]
+mst.item.15530027._effectDetail,"Punten die je kunt ontfangen met de ""Diana's verjaardags-scouting"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na afloop van de periode wordt het omgezet in een vaardigheidsboek (M)."
+mst.item.15530028._name,Scoutpunten [Hana-chan verjaardag]
+mst.item.15530028._effectDetail,"Punten die je kunt ontfangen met de ""Hana-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530029._name,Scoutpunten [Margarete's verjaardag]
+mst.item.15530029._effectDetail,"Punten die je kunt ontvingen met de ""Margarete's verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel). <br>"
+mst.item.15530030._name,Scoutpunten [Kasumi's verjaardag]
+mst.item.15530030._effectDetail,"Punten die je kunt ontvangen met de ""Kasumi-chan verjaardagsactie"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Middel). <br>"
+mst.item.15530031._name,Scoutpunten [Emma's verjaardag]
+mst.item.15530031._effectDetail,"Punten die je kunt ontvingen met de ""Emma's verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530032._name,Scoutpunten [Kanan's verjaardag]
+mst.item.15530032._effectDetail,"Punten die je kunt ontvingen met de ""Fruit-Nan's verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530033._name,Scoutpunten [Aranjuu-chan verjaardag]
+mst.item.15530033._effectDetail,"Punten die je kunt ontvingen met de ""Arashi-chan verjaardags-scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530034._name,Scoutpunten [Chisato-chan verjaardag]
+mst.item.15530034._effectDetail,"Punten die je kunt ontvingen met de ""Verjaardags-scouting van Chiandzu"" kunnen worden ingewisseld voor verschillende idols en items <br> <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15530035._name,Scoutpunten [Ayumu's verjaardag]
+mst.item.15530035._effectDetail,"Punten die je kunt ontvingen met de ""Verjaardags-scouting voor Ayumu"" kunnen worden ingewisseld voor verschillende idols en items <br> <br> Let op: na afloop van de periode worden ze omgezet in een vaardigheidsboek (middel)."
+mst.item.15530036._name,Scoutpunten [Hanaru-chan verjaardag]
+mst.item.15530036._effectDetail,"Punten die je kunt ontvingen met de ""Hanamaru's verjaardagsscouting"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na afloop van de periode wordt het omgezet in een vaardigheidsboek (M)."
+mst.item.15530037._name,Scoutpunten [Haimi's verjaardag]
+mst.item.15530037._effectDetail,"Punten die je kunt ontvingen met de ""Hanamaru-chan verjaardagsactie"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> Na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15540001._name,Scoutpunten [Schoolfeest-data bonus]
+mst.item.15540001._effectDetail,"Punten die je kunt ontvangen met het ""School Idol Festival-gegevenskoppelingsticket"" en die kunnen worden ingewisseld voor verschillende idols en items.<br>"
+mst.item.15540002._name,Scoutpunten [Type-pick-up]
+mst.item.15540002._effectDetail,"Je kunt deze punten inwisselen voor verschillende idols en items, verkregen via <br> ""Smile-exclusief! Pick-up scout"", <br> ""Pure-exclusief! Pick-up scout"" en <br> ""Cool-exclusief! Pick-up scout"". <br> Let op: na de einddatum worden deze omgezet in een Skill Book (M)."
+mst.item.15540005._name,Scoutpunten [Lovesong Carnival Ayumu]
+mst.item.15540005._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Ayumu-versie"". Je kunt deze gebruiken om verschillende idols en items te verkrijgen. <br> Ze kunnen worden ingewisseld voor diverse idols en items. <br> *Na afloop van de periode worden ze omgezet in een Skill Book (Midden).*"
+mst.item.15540006._name,Scoutpunten [Love Song Carnival Kasumi-hoofdstuk]
+mst.item.15540006._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Kasumi Edition"". Je kunt deze gebruiken om verschillende idols en items te verkrijgen. <br> Ze kunnen worden ingewisseld voor diverse idols en items. <br> Let op: na het verstrijken van de geldigheidsduur worden ze omgezet in een Skill Book (Medium)."
+mst.item.15540007._name,Scoutpunten [Lovesong Carnival - Shizuku-hoofdstuk]
+mst.item.15540007._effectDetail,"Punten die je kunt ontvingen in ""Love Song Carnival Memorial Scouting - Shizuku-hoofdstuk"". Je kunt deze gebruiken om verschillende idols en items te verkrijgen. <br> Ze kunnen worden ingewisseld voor diverse idols en items. <br> Let op: na de vervaldatum worden ze omgezet in een Skill Book (M)."
+mst.item.15540008._name,Scoutpunten [Liefdesliedfestival Karin-hoofdstuk]
+mst.item.15540008._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Karin-hoofdstuk"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> *Na afloop van de periode worden ze omgezet in een Skill Book (Midden)."
+mst.item.15540009._name,Scoutpunten [Liefdesliederenfestival - Ai-hoofdstuk]
+mst.item.15540009._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Ai-hoofdstuk"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> *Na afloop van de periode worden ze omgezet in een Skill Book (Midden).*"
+mst.item.15540010._name,Scoutpunten [Liefdesliedjesfestival - Kotoha-hoofdstuk]
+mst.item.15540010._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Hikari-hen"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor verschillende idols en items. <br> *Na afloop van de periode worden ze omgezet in een Skill Book (Midden).*"
+mst.item.15540011._name,"Scoutpunten [Liefdesliedfestival, Setsuna-verhaal]"
+mst.item.15540011._effectDetail,"Je kunt dit punt verkrijgen in ""Love Song Carnival Memorial Scouting ~Setsuna-hoofdstuk~"". Het kan worden ingewisseld voor verschillende idols en items. <br> Je kunt het ook inwisselen voor een Skill Book (Medium) nadat de periode is verstreken. <br>"
+mst.item.15540012._name,Scoutpunten [Lovesong Carnival Emma-hoofdstuk]
+mst.item.15540012._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Emma Edition"". Je kunt deze punten gebruiken om verschillende idols en items te verkrijgen. <br> Ze kunnen worden ingewisseld voor diverse idols en items. <br> Let op: na het verstrijken van de geldigheidsduur worden ze omgezet in een Skill Book (Medium)."
+mst.item.15540013._name,Scoutpunten [Liefdesliedjesfestival Rina-hoofdstuk]
+mst.item.15540013._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Rina Edition"". Je kunt deze punten gebruiken om verschillende idols en items te verkrijgen <br>. Ze kunnen worden ingewisseld voor diverse idols en items <br>. *Na afloop van de periode worden ze omgezet in een Skill Book (Midden)."
+mst.item.15540014._name,"Scoutpunten [Liefdesliedjesfestival, Shizuko-hoofdstuk]"
+mst.item.15540014._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Shizuko-hoofdstuk"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na afloop van de periode wordt het omgezet in een Skill Book (Middelgroot)."
+mst.item.15540015._name,Scoutpunten [Liefdesliedfestival Mia-hoofdstuk]
+mst.item.15540015._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Mia Edition"". Je kunt deze gebruiken om verschillende idols en items te verkrijgen. <br> Ze kunnen worden ingewisseld voor diverse idols en items. <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (Medium)."
+mst.item.15540016._name,Scoutpunten [Liefdesliedjesfestival Arashi-verhaal]
+mst.item.15540016._effectDetail,"Punten die je kunt ontvingen in de ""Love Song Carnival Memorial Scouting - Arashi Tama Edition"". <br> Je kunt deze gebruiken om ze te ruilen voor verschillende idols en items. <br> *Na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15540017._name,Scoutpunten [Half Anniversary]
+mst.item.15540017._effectDetail,"Je kunt dit item inwisselen voor verschillende idols en items, verkregen via ""1 dag gratis! Half Anniversary-scout"", <br> ""UR gegarandeerd Half Anniversary-scout"" of <br> ""Pick-up scout ~Boo! Boo! Halloweenland~"". <br> ※Na afloop van de periode wordt het omgezet in een Skill Book (M). <br>"
+mst.item.15540023._name,Scoutpunten [Mijn liefdeslied-hoofdstuk]
+mst.item.15540023._effectDetail,"Punten die je kunt ontvingen in de ""Mijn liefdeslied-editie Openingsscout"". <br> Je kunt ze inwisselen voor verschillende idols en items. <br> *Na afloop van de periode worden ze omgezet in een Skill Book (Medium)."
+mst.item.15540024._name,Scoutpunten [μ's Pick-up]
+mst.item.15540024._effectDetail,"Punten die je kunt ontvingen met ""μ's Limited! Pick-up scout"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na de vervaldatum wordt het omgezet in een Skill Book (M)."
+mst.item.15540025._name,Scoutpunten [Aqours Pick-up]
+mst.item.15540025._effectDetail,"Punten die je kunt ontvangen met ""Aqours Limited! Pick-up scout"". Je kunt ze inwisselen voor verschillende idols en items. <br> Ze kunnen worden ingewisseld voor een Skill Book (Medium) nadat de periode is verstreken. <br>"
+mst.item.15540027._name,Scoutpunten [Yohane]
+mst.item.15540027._effectDetail,"Punten die je kunt ont¬vangen met de ""Herdenkings-scout van 'Love Live! Sunshine!! -The Story of the Sound of Heart-' <br>"". Je kunt ze inwisselen voor verschillende idols en items. <br> ※Na afloop van de periode worden ze omgezet in een Skill Book (M). <br>"
+mst.item.15540028._name,Scoutpunten [Eerstejaars]
+mst.item.15540028._effectDetail,"Punten die je kunt ontvingen in de ""1e jaars! Pick-up scout"" en waarmee je verschillende idols en items kunt ruilen <br> Je kunt ze inwisselen voor diverse idols en items <br> *Na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15540029._name,Scoutpunten [2e jaars]
+mst.item.15540029._effectDetail,"Punten die je kunt ontvingen met de ""2e jaars! Speciale scout"" <br> kunnen worden ingewisseld voor verschillende idols en items <br> *Na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15540030._name,Scoutpunten [3e jaars]
+mst.item.15540030._effectDetail,"Punten die je kunt ontvangen met ""3e jaars! Pick-up scouten"". <br> Je kunt ze inwisselen voor verschillende idols en items. <br> Let op: na de vervaldatum worden ze omgezet in een Skill Book (M)."
+mst.item.15540031._name,Scoutpunten [Nieuwjaarsviering]
+mst.item.15540031._effectDetail,"Punten die je kunt ontvingen met ""Nieuwjaars- en Kerstaanbieding! Tot 240 gratis scouten"" of ""Nieuwjaars- en Kerstaanbieding! UR gegarandeerd scouten"" <br>. Je kunt deze punten inwisselen voor verschillende idols en items <br>. ※Na de vervaldatum worden ze omgezet in een Skill Book (M) <br>."
+mst.item.15540032._name,Scoutpunten [Nieuwjaarsactie]
+mst.item.15540032._effectDetail,"Punten die je kunt ontvingen met ""Nieuwjaarsdroom-scouting"" en ""Nieuwjaarsdroom! UR gegarandeerde scouting"". <br> Je kunt ze inruilen voor verschillende idols en items. <br> Let op: na de vervaldatum worden ze omgezet in een Skill Book (M)."
+mst.item.15540033._name,Scoutpunten [Lovesong Carnival]
+mst.item.15540033._effectDetail,"Punten die je kunt ontvingen met de ""Love Song Carnival Memorial Scouting"". Je kunt deze inwisselen voor verschillende idols en items. <br> <br> Let op: na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15540034._name,Scoutpunten [Grote Dankbaarheid Scout]
+mst.item.15540034._effectDetail,"Punten die je kunt ontvangen tijdens de ""スクフェス2 大感謝祭 記念勧誘"". Je kunt ze inwisselen voor verschillende idols en items. <br> Je kunt ze inwisselen voor verschillende idols en items <br> ※Na afloop van de periode worden ze omgezet in een Skill Book (M)."
+mst.item.15540035._name,Scoutpunten [Speciale scout]
+mst.item.15540035._effectDetail,"Punten die je kunt ontvingen met ""Speciale Scouting"". Je kunt ze inwisselen voor verschillende idols en items. <br> <br> Let op: na de vervaldatum worden ze omgezet in een Skill Book (M)."
+mst.item.30010001._name,Memorium-stuk
+mst.item.30010001._effectDetail,Kan worden verkregen via evenementen en dagelijkse beloningen.<br>Verzamel de stukjes om ze in te wisselen voor speciale idols bij de uitwisselingswinkel.
+mst.item.30010002._name,Weiß Schwarz-wisselkaart
+mst.item.30010002._effectDetail,Kan worden gebruikt in de Weiss Schwarz-campagne om items te ruilen.
+mst.item.30010003._name,Sneeuwwitje Kerst-wisselbon
+mst.item.30010003._effectDetail,Kan worden gebruikt in de Snow White Christmas-campagne.
+mst.item.30010004._name,Nieuwjaarspunten
+mst.item.30010004._effectDetail,Kan worden gebruikt in de nieuwjaars-lucky bag-winkel.
+mst.item.30010005._name,Valentijn-wisselbon
+mst.item.30010005._effectDetail,Kan worden gebruikt in de Valentijnsdag-campagne om items te ruilen.
+mst.item.16005001._name,Lesboek (klein)
+mst.item.16005001._effectDetail,Gebruik in een les om de ervaringspunten van de idol te verhogen.
+mst.item.16005002._name,Lesnoten (M)
+mst.item.16005002._effectDetail,Gebruik in een les om de ervaringspunten van de idol te verhogen.
+mst.item.16005003._name,Lesnotities (Groot)
+mst.item.16005003._effectDetail,Gebruik in een les om de ervaringspunten van de idol te verhogen.
+mst.item.17001001._name,Vaardigheidsboek (klein)
+mst.item.17001001._effectDetail,Ontvang vaardigheidservaring bij gebruik in een skillles.
+mst.item.17001002._name,Vaardigheidsboek (M)
+mst.item.17001002._effectDetail,Ontvang vaardigheidservaring bij gebruik in een skillles.
+mst.item.17001003._name,Vaardigheidsboek (Groot)
+mst.item.17001003._effectDetail,Ontvang vaardigheidservaring bij gebruik in een skillles.
+mst.item.19100001._name,lichtstaaf
+mst.item.19100001._effectDetail,Je kunt een idol ontgrendelen.
+mst.item.20000001._name,LP-snoepje [klein]
+mst.item.20000001._effectDetail,Herstelt 10 LP op.
+mst.item.20000002._name,LP-snoepje [middel]
+mst.item.20000002._effectDetail,Herstelt 50 LP.
+mst.item.20000003._name,LP-snoepje [Groot]
+mst.item.20000003._effectDetail,Herstelt 100 LP.
+mst.item.20001001._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001001._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20002001._name,Tijdelijke LP-snoep [M]
+mst.item.20002001._effectDetail,Herstelt 50 LP (beperkte houdbaarheid)
+mst.item.20003001._name,Tijdelijke LP-snoep [Groot]
+mst.item.20003001._effectDetail,Herstelt 100 LP (beperkte houdbaarheid)
+mst.item.20001002._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001002._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001003._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001003._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001004._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001004._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001005._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001005._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001006._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001006._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001007._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001007._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001008._name,Halloween LP-snoepje [klein]
+mst.item.20001008._effectDetail,Herstelt 10 LP op.
+mst.item.20001009._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001009._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001010._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001010._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001011._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001011._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001012._name,Kerst-LP-snoepje [klein]
+mst.item.20001012._effectDetail,Herstelt 10 LP op.
+mst.item.20001013._name,LP-mochi
+mst.item.20001013._effectDetail,Herstelt 10 LP op.
+mst.item.20001014._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001014._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001015._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001015._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.20001016._name,LP Valentijnchocolade [klein]
+mst.item.20001016._effectDetail,Herstelt 10 LP op.
+mst.item.20001017._name,LP-witte chocolademacaron [klein]
+mst.item.20001017._effectDetail,Herstelt 10 LP op.
+mst.item.20001018._name,Tijdelijke LP-snoepjes [klein]
+mst.item.20001018._effectDetail,Herstelt 10 LP (beperkte houdbaarheid)
+mst.item.21000001._name,Skip-ticket
+mst.item.21000001._effectDetail,Ticket nodig om te skippen
+mst.item.21001001._name,Tijdelijke skip-ticket
+mst.item.21001001._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001002._name,Tijdelijke skip-ticket
+mst.item.21001002._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001003._name,Tijdelijke skip-ticket
+mst.item.21001003._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001004._name,Tijdelijke skip-ticket
+mst.item.21001004._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001005._name,Tijdelijke skip-ticket
+mst.item.21001005._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001006._name,Tijdelijke skip-ticket
+mst.item.21001006._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001007._name,Tijdelijke skip-ticket
+mst.item.21001007._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001008._name,Tijdelijke skip-ticket
+mst.item.21001008._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001009._name,Tijdelijke skip-ticket
+mst.item.21001009._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001010._name,Tijdelijke skip-ticket
+mst.item.21001010._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001011._name,Tijdelijke skip-ticket
+mst.item.21001011._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001012._name,Tijdelijke skip-ticket
+mst.item.21001012._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.21001013._name,Tijdelijke skip-ticket
+mst.item.21001013._effectDetail,Ticket nodig om een nummer over te slaan (beperkte geldigheidsduur)
+mst.item.22000001._name,Ster-assistentticket
+mst.item.22000001._effectDetail,Ticket nodig voor Ster-assistentie
+mst.item.22001001._name,Tijdelijke ster-assistentticket
+mst.item.22001001._effectDetail,Ticket nodig voor Ster-assistentie (beperkte geldigheidsduur)
+mst.item.22001003._name,Tijdelijke ster-assistentticket
+mst.item.22001003._effectDetail,Ticket nodig voor Ster-assistentie (beperkte geldigheidsduur)
+mst.item.22001004._name,Tijdelijke ster-assistentticket
+mst.item.22001004._effectDetail,Ticket nodig voor Ster-assistentie (beperkte geldigheidsduur)

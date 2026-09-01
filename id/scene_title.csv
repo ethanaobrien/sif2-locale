@@ -1,0 +1,88 @@
+﻿_key,_text
+mst.scene_title.DeckTop._mainTitle,Susun Tim
+mst.scene_title.DeckEdit._mainTitle,Susun Tim
+mst.scene_title.DeckCharaSelect._mainTitle,Pilih Idol
+mst.scene_title.Classmate._mainTitle,Daftar Idol
+mst.scene_title.CostumeCharaList._mainTitle,Ganti Kostum
+mst.scene_title.Practice._mainTitle,Latihan
+mst.scene_title.SkillPractice._mainTitle,Latihan Skill
+mst.scene_title.Training._mainTitle,Bangkitkan
+mst.scene_title.MemberList._mainTitle,Daftar Idol
+mst.scene_title.WaitingMemberList._mainTitle,Ruang Tunggu
+mst.scene_title.CardDetail._mainTitle,Detail Idol
+mst.scene_title.MemberIllustrateList._mainTitle,Album
+mst.scene_title.MemberCharaTop._mainTitle,Detail Anggota
+mst.scene_title.AreaTalkList._mainTitle,Dummy
+mst.scene_title.Album._mainTitle,Dummy
+mst.scene_title.MovieCollection._mainTitle,Koleksi
+mst.scene_title.CardAlbum._mainTitle,Album Kartu
+mst.scene_title.DeckConfirm._mainTitle,Persiapan Live
+mst.scene_title.Profile._mainTitle,プロフィール
+mst.scene_title.RecommendList._mainTitle,Pilih Favorit
+mst.scene_title.Friend._mainTitle,Daftar Teman
+mst.scene_title.LiveSelect._mainTitle,Pilih Live
+mst.scene_title.MusicSelect._mainTitle,Pilih Lagu
+mst.scene_title.CooperationLive._mainTitle,Sesi Pilihan
+mst.scene_title.CooperationLiveMatching._mainTitle,Pencarian
+mst.scene_title.MultiMusicSelect._mainTitle,Pilih Lagu
+mst.scene_title.MusicDecision._mainTitle,Acak Lagu
+mst.scene_title.MusicDifficulty._mainTitle,Pilih Kesulitan
+mst.scene_title.MultiConfirm._mainTitle,Konfirmasi Terakhir
+mst.scene_title.StampSetting._mainTitle,Pengaturan Favorit
+mst.scene_title.Warehouse._mainTitle,Bagian Ruangan
+mst.scene_title.TitleListSelect._mainTitle,Pilih Gelar
+mst.scene_title.TitleListView._mainTitle,Daftar Gelar
+mst.scene_title.SealExchange._mainTitle,Tukar
+mst.scene_title.BadgeExchange._mainTitle,Tukar
+mst.scene_title.EventTop._mainTitle,Event
+mst.scene_title.EventStoryTop._mainTitle,Cerita Event Utama
+mst.scene_title.EventStory._mainTitle,Pilih Event
+mst.scene_title.EventScoreRanking._mainTitle,Peringkat Event
+mst.scene_title.EventReward._mainTitle,Hadiah Event
+mst.scene_title.ItemList._mainTitle,Daftar Item
+mst.scene_title.ExchangeTop._mainTitle,Tukar
+mst.scene_title.EventMusicSelect._mainTitle,Pilih Lagu
+mst.scene_title.EventChallengeLiveMusicSelect._mainTitle,Pilih Lagu
+mst.scene_title.EventLiveTryMusicSelect._mainTitle,Pilih Lagu
+mst.scene_title.EventDeckConfirm._mainTitle,Dek persiapan
+mst.scene_title.EventChallengeLiveDeckConfirm._mainTitle,Dek persiapan
+mst.scene_title.EventLiveTryDeckConfirm._mainTitle,Dek persiapan
+mst.scene_title.ExchangeItemList._mainTitle,Tukar
+mst.scene_title.BirthdayTop._mainTitle,Ulang Tahun
+mst.scene_title.MapScene._mainTitle,Pilih Area
+mst.scene_title.MultiLiveEventCooperationLive._mainTitle,Pilih Ruangan
+mst.scene_title.MultiLiveEventCooperationLiveMatching._mainTitle,Pencarian
+mst.scene_title.MultiLiveEventMultiMusicSelect._mainTitle,Pilih Lagu
+mst.scene_title.MultiLiveEventMusicDecision._mainTitle,Acak Lagu
+mst.scene_title.MultiLiveEventMusicDifficulty._mainTitle,Pilih Kesulitan
+mst.scene_title.MultiLiveEventMultiConfirm._mainTitle,Konfirmasi Terakhir
+mst.scene_title.LimitedLiveTop._mainTitle,Event Live
+mst.scene_title.LimitedLiveLottery._mainTitle,Acak Lagu
+mst.scene_title.TeacherLiveMusicSelect._mainTitle,Pilih Lagu
+mst.scene_title.TeacherLiveDeckConfirm._mainTitle,Dek persiapan
+mst.scene_title.TeacherLiveTop._mainTitle,Pilih Live
+mst.scene_title.CharacterEpisodeLevel._mainTitle,Episode Konfirmasi
+mst.scene_title.BoxGardenTop._mainTitle,Kustomisasi Ruangan
+mst.scene_title.GachaTop._mainTitle,Rekrut
+mst.scene_title.GachaResult._mainTitle,Hasil Rekrut
+mst.scene_title.BandEnrichTop._mainTitle,Band Enhancement
+mst.scene_title.BandEnrich._mainTitle,Perkuat Band
+mst.scene_title.StoryTop._mainTitle,CERITA
+mst.scene_title.StoryMainTop._mainTitle,CERITA
+mst.scene_title.StoryCardMemberTop._mainTitle,Pilih Anggota
+mst.scene_title.StoryCardEpisodeTop._mainTitle,Pilih Episode
+mst.scene_title.Shop._mainTitle,Toko
+mst.scene_title.BeginnerMission._mainTitle,Misi Pemula
+mst.scene_title.GuestSelect._mainTitle,Pilih Tamu
+mst.scene_title.MusicRanking._mainTitle,Peringkat Lagu
+mst.scene_title.MusicRecommend._mainTitle,Daftar Rekomendasi
+mst.scene_title.ComicList._mainTitle,Komik Pendek
+mst.scene_title.PresentBox._mainTitle,Kotak Hadiah
+mst.scene_title.Mission._mainTitle,Misi
+mst.scene_title.ProfileMemberSelect._mainTitle,Edit Profil
+mst.scene_title.FriendGestDetail._mainTitle,Detail Tamu
+mst.scene_title.FriendGestMemberSelect._mainTitle,Edit Tamu
+mst.scene_title.LocationInformation._mainTitle,Hadiah Perjalanan
+mst.scene_title.MusicLibrary._mainTitle,Katalog Musik
+mst.scene_title.SerialCodeDisplay._mainTitle,Kode Serial
+mst.scene_title.StarEventRanking._mainTitle,Peringkat Level Bintang

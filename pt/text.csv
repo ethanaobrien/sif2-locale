@@ -1,0 +1,3348 @@
+﻿_key,_text
+Common_Amount,{0} × {1}
+Common_IconAmount,x{0}
+Common_IconAmountOverLimit,×{0}+
+Common_ItemHasAmount,Quantidade: {0}
+Common_PossessionNumber,Quantidade
+Common_Possession,Possui
+Common_Lack,Insuficiente
+Common_Gem,Loveca
+Common_KizunaPoint,Laço
+Common_ChargeGem,Loveca (paga)
+Common_Point_Coin,Ouro
+Common_Point_Seal,Pontos de Recrutamento
+Common_Point_LiveStamp,Live Stamp (Dummy)
+Common_OwnedAndCostAmount,{0}/{1}
+Common_Rank,Rank
+Common_PlayerRank,Nível do jogador
+Common_GroupRank,Grupo Rank
+Common_GroupRankWithGroupName,Rank de {0}
+Common_ExpToNextRankLabel,Faltam
+Common_ExpMax,MÁXIMO
+Common_Exp,EXP
+Common_Level,Nível
+Common_MusicLevel,Nível da música
+Common_OrderBy,Ascendente
+Common_OrderByDescending,Decrescente
+Common_Day,{0} dia
+Common_Month,{0} mês
+Common_Year,{0} ano
+Common_Hour,{0} hora(s)
+Common_Minute,{0} min
+Common_Second,{0} segundos
+Common_Until,até
+Common_ExpireDateFew,Pouco!
+Common_ExpireDateRemaining,Restante
+Common_ExpireDateInfinity,Indefinido
+Common_ExpireDateExpired,Vencido
+Common_Period,{0} até {1}
+Common_Remaining,Restante
+Common_Exchange,Trocar
+Common_Filter,Filtrar
+Common_Sort,Ordenar
+Common_AllSelect,Todos
+Common_AllRelease,Desmarcar tudo
+Common_Sunday,Domingo
+Common_Monday,Segunda-feira
+Common_Tuesday,Terça-feira
+Common_Wednesday,Quarta-feira
+Common_Thursday,Quinta-feira
+Common_Friday,Sexta-feira
+Common_Saturday,Sábado
+Common_Daily,Diário
+Common_Weekly,Semanal
+Common_MusicArtistLabel,Música
+Common_MusicLyricistLabel,Letra
+Common_MusicComposerLabel,Composição
+Common_MusicArrangerLabel,Arranjo
+Common_MusicArtistFormat,Música: {0}
+Common_MusicLyricistFormat,Letra: {0}
+Common_MusicComposerFormat,Composição: {0}
+Common_MusicArrangerFormat,Arranjo: {0}
+Common_MusicDetail,Letra: {0}Composição: <br>Arranjo: {1}
+Common_CardFullName,[{0}]{1}
+Common_CardFullName2Line,[{0}]<br>{1}
+Common_Rare2,SR
+Common_Rare3,UR
+Common_Rare4,UR
+Common_Present,Presente
+Common_Reward,Recompensa
+Common_Receive,Você recebeu {0}.
+Common_Nothing,Nada
+Common_RoleVocal,Vocalista
+Common_RoleGuitar,Vocalista
+Common_RoleBass,Baixo
+Common_RoleDrum,Bateria
+Common_RoleKeyboard,Teclado
+Common_RoleSupport,Suporte
+Common_TypeHeart,Smile
+Common_TypeDiamond,Pure
+Common_TypeSpade,Cool
+Common_MainStory,História Principal
+Common_SubStory,Subhistória
+Common_EventStory,História do Evento
+Common_EventPoint,{0} pts
+Common_EventCurrency_ChallengeLive,{0} unidades
+Common_EventCurrency_LiveTry,{0} unidades
+Common_EventCurrency_VsLive,{0} pessoas
+Common_EventCurrency_MultiLive,{0} pessoas
+Common_RankingRank,{0}º lugar
+Common_RankingRankOut,Fora do ranking
+Common_CountBadgeOverLimit,{0}+
+Common_SkipUntilNextDay_Zero,Não exibir esta janela até às 0h do dia seguinte.
+Common_SkipUntilNextDay_Login,Não exibir esta janela até as 4h do dia seguinte.
+Common_DoNotDisplayAfter,Não exibir esta janela novamente.
+Common_Percent,{0}%
+Common_Piece,{0} unidades
+Common_All,TODOS
+Common_Other,Liella!
+Common_XJAPAN,μ’s
+Common_LUNASEA,Aqours
+Common_GLAY,Nijigasaki
+Common_GroupOther,Outros
+Common_Grade,{0}º ano
+Common_DifficultyNormal,NORMAL
+Common_DifficultyHard,DIFÍCIL
+Common_DifficultyExpert,EXPERTO
+Common_DifficultyMaster,Mestre
+Common_StatusOfAchievement,Status do Desbloqueio
+Common_Achieved,Concluído
+Common_NotAchieved,Não alcançado
+Common_ExpirationDate,Data de validade
+Button_Close,Fechar
+Button_Ok,OK
+Button_Next,Próximo
+Button_Cancel,Cancelar
+Button_Decide,Confirmar
+Button_Update,Atualizar
+Button_Retry,Tentar de novo
+Button_Return,Voltar
+Button_VoiceOn,Áudio ligado
+Button_VoiceOff,Sem voz
+Button_Resume,Retomar Live
+Button_Suspend,Encerrar Live
+Button_Skip,Pular
+Button_Restart,Liveをリスタート
+Button_Shop,Loja
+Button_Home,Voltar
+Button_BuyGem,Comprar Loveca
+Button_PresentBox,Presentes
+Button_Chat,Chat
+Button_Release,Liberar
+Button_Apply,Aplicar
+Button_Edit,Editar
+DueDate_DialogTitle_PresentBox,Prazo de recebimento
+DueDate_DialogCaution_PresentBox,Os itens desaparecerão se não forem resgatados.
+DueDate_Dialog_ItemNum,Quantidade: {0}
+DueDate_DialogTitle_Item,Itens com data de validade próxima.
+GachaTop_PeriodTime,Até {0} {1}
+GachaTop_PriceTitle,Recrutar {0} vezes
+GachaTop_PriceTitleChargeGem,Recrutar {0} vezes (pago)
+GachaTop_PriceTitleFree,Recrutar {0} vezes grátis
+GachaTop_Price_Free,Grátis
+GachaTop_BuyButton_Balloon_Daily,"<color=#f93981>1 dia {0}, </color> renova diariamente às 0h. <br>"
+GachaTop_BuyButton_Balloon_ReritySR,<color=#f93981>Garante </color> SR ou superior! <br>
+GachaTop_BuyButton_Balloon_RerityUR,<color=#f93981>UR garantido! </color>
+GachaTop_BuyButton_Balloon_BonusItem,Item<br>Com bônus!
+GachaTop_BuyButton_Balloon_Free,{0} vezes grátis!
+GachaTop_BuyButton_Balloon_Limit,"Durante o período, apenas {0} vezes!"
+GachaTop_LimitDailyOnce,1 vez por dia
+GachaTop_LimitDailyAny,"<color=#FD8E18>Uma vez por dia, {0}vez(es), </color>. Atualiza diariamente à meia-noite.<br>"
+GachaTop_LimitCountOnce,1 vez apenas
+GachaTop_LimitCountAny,Mais {0} vezes
+GachaTop_LimitDailyOnceCountAny,Ainda restam {0} tentativas<br><color=#FD8E18>(Limite de 1 vez por dia)</color>
+GachaTop_LimitDailyAnyCountAny,"Ainda restam {0} tentativas <br> <color=#FD8E18> (Hoje, ainda restam {1} tentativas) </color>"
+GachaTop_EnsureRareOnly,Garante {0} e {1}!
+GachaTop_EnsureRareOverContains,"{0} ou mais, {1} garantidos!"
+GachaTop_LimitOver,Limite de tentativas atingido.
+GachaTop_LimitOverDailyRepeat,Atualiza à meia-noite<br>
+GachaTop_LimitEnd,Você já fez todas as tentativas.
+GachaTop_LimitStepup,Limite de tentativas atingido.
+GachaTop_MemberDetailCaution,※Cada Status mostra o valor máximo após Despertar e com nível máximo.<br>※As habilidades mostram os efeitos no nível máximo da habilidade.
+GachaTop_MemberDetailPhotoButtonEvolveBefore,Alterar antes do Despertar
+GachaTop_MemberDetailPhotoButtonEvolveAfter,Alterar após o Despertar
+GachaTop_BannerRemainTimeFormat,Faltam <size=100%> para o fim de <size=85%> {0}.
+GachaTop_RateFormat,{0}%
+GachaTop_MemberRateFormat,f4
+GachaTop_RarityRateFormat,f2
+GachaTop_Step,PASSO {0}
+GachaTop_StepCount,<size=59> <color=#f93981> {0} / </color> <size=32> {1}
+GachaTop_HasAmount,(Possui {0})
+GachaTop_LimitDailyOnceChargeGem,Loveca pago! Atualiza diariamente à meia-noite.
+GachaTop_BonusReward,{0} Bônus incluso!
+GachaTop_RunButtonText,Recrutar {0} vezes <size=50><size=32>
+GachaTop_RunButtonDialog_Title,Ticket de Recrutamento
+GachaTop_RunButtonDialog_TopButton,Ticket
+GachaTop_RunButtonDialog_Caution,"※Os tickets expiram, então você não poderá fazer o Recrutamento <br>※Você pode realizar o Recrutamento selecionado <br>※O Recrutamento será feito com o mesmo conteúdo de quando você usa Loveca (no caso do ticket de 10 recrutamentos, o mesmo conteúdo do recrutamento de 10 vezes será aplicado)."
+GachaPlay_DialogOk,OK
+GachaPlay_DialogInfomation,Os itens obtidos que excederem o limite máximo serão enviados como presente.
+GachaConfirm_DialogTitle,Confirmar
+GachaConfirm_Period,Período:
+GachaConfirm_Count,{0} vezes
+GachaConfirm_TicketText,Usar «{0}» e consumir {1} para realizar {3} recrutamentos em {2} com <br>?
+GachaConfirm_GemText,Usar {0} Loveca para fazer {2} Recrutamentos em {1}? <br>
+GachaConfirm_InfoText,Você deseja usar {0} {1} para realizar {2} Recrutamentos em <br>?
+GachaConfirm_ConsumeLackText,{0} são insuficientes.
+GachaConfirm_Buy,Comprar?
+GachaConfirm_Gem,Loveca
+GachaConfirm_ChargeGem,ラブカ (paga)
+GachaConfirm_BuyButton,Comprar
+GachaConfirm_GachaButton,Recrutar
+GachaResult_RemainingAny,Restante
+GachaResult_RemainingDailyAny,"Hoje, mais vezes"
+GachaResult_TutorialSelectPhoto,Toque na Idol que você gosta.
+GachaResult_GetPoint,"Obter <font=""FOT-TsukuGoPr5-M SDF""> de {0}pt </font>"
+GachaResult_ResultPoint,{0} → {1}
+GachaResult_Exchange,Troca
+GachaResult_GetOverMemberMessage,"Se a Idol já estiver no clube, <br> será possível obter um bastão de luz em seu lugar."
+GachaResult_LimitBreakNoteText,*Nova Idol adicionada!*
+GachaDetail_TabTitle,Recrutamento Detalhado
+GachaDetail_DialogTitle,Recrutamento Detalhado
+GachaDetail_Help,Atenção
+GachaDetail_GachaInfo,Recrutamento
+GachaDetail_Terms,Período do evento
+GachaDetail_NewMember,Apresentando a nova Idol
+GachaDetail_Step,PASSO {0}
+GachaRateDetail_TabTitle,Taxa de Aparição
+GachaRateDetail_DialogTitle,Recrutamento Detalhado
+GachaRateDetail_Help,Atenção
+GachaRateDetail_RarityRate,Taxa de raridade
+GachaRateDetail_RarityRateUnensure,Taxa de aparecimento {0}
+GachaRateDetail_RarityRateEnsure,Taxa de aparição garantida {0}
+GachaRateDetail_Main,Posição Live
+GachaRateDetail_Support,Posição de suporte
+GachaRateDetail_RarityRateMember,Lista de Idols
+GachaRateDetail_RarityRateUnensureMember,Lista de Idols que aparecem{0}
+GachaRateDetail_RarityRateEnsureMember,Lista de Idols que aparecem{0}
+GachaFixedRateDetail_TabTitle,Taxa da 10ª unidade no recr. de 10 vezes
+GachaFixedRateDetail_TabTitleStepup,Taxa da 10ª unidade no recr. de 10 vezes
+GachaPickUpMemberDetail_TabTitle,Detalhes da Idol
+GachaPickUpMemberDetail_DialogTitle,Detalhes da Idol em destaque
+Consume_HasConsumeName,Quantidade
+Consume_UseConsumeName,Quantidade necessária
+Consume_PriceTitleChargeGem,Puxar {0} vezes <br> (apenas com gemas pagas)
+Consume_InfoOnConsumeMedal ,Os Lovecas gratuitos serão consumidos primeiro.
+WaitingMemberList_SealNumWordText,Pontos de Recrutamento
+WaitingMemberList_SealReplacementShopButton,Troca
+WaitingMemberList_AllSelectButton,Selecionar tudo
+WaitingMemberList_SelectCharaNumWord,Selecionando
+WaitingMemberList_SealChangeButton,Transferir
+WaitingMemberList_EmptyChara,Não há Idols disponíveis para transferência.
+WaitingMemberList_ItemGetNum,Obter
+WaitingMemberList_CanGetItem,Itens que podem ser obtidos
+WaitingMemberList_ChangeResultShortMessage,Você obteve {0} itens.
+WaitingMemberList_ChangeDialogTitle,Confirmar
+WaitingMemberList_ChangeDialogConfirm,Mova {0} Idols da sala de espera e obtenha {1} luzes de fã.
+WaitingMemberList_ChangeDialogCharaNumWord,unidades
+WaitingMemberList_ChangeDialogSealNumWord,unid.
+WaitingMemberList_ChangeDialogTotalSealWord,Selos
+CardIcon_LvWord,Nível.
+CardIcon_SkillLvWord,Nível da habilidade.
+CardIcon_HpWord,PV:
+CardIcon_EventBonusWord,Bônus:
+CardIcon_EventBonusParam,+{0}%
+CardIcon_BonusParam,<size=20>+</size>{0}%
+CardIcon_UnlockNotJoin,Não participou
+Practice_EmptyItem,Você não possui o<br>bloco de anotações.
+Practice_ExpWord,Faltam
+Practice_ResetButton,Reiniciar
+Practice_RecommendButton,Aleatório
+Practice_Max,MÁXIMO
+Practice_ItemSelect,Seleção de Item
+Practice_NeedItem,Item Necessário
+Practice_ItemShortageAlert,Itens necessários insuficientes
+Practice_LevelMaxAlert,Nível máximo atingido.
+SkillPractice_EmptyChara,Você quer trocar {0} Idols do camarim por <br> e {1} luzes de fã? <br> Tem certeza?
+SkillPractice_EmptyItem,Você não possui o livro de habilidades.<br>
+SkillPractice_SamePhotoBonus,Bônus de Idols da Mesma Unidade
+SkillPractice_SameItemBonus,Bônus de Correspondência
+SkillPractice_PhotoTab,Repouso
+SkillPractice_ItemTab,Ingresso
+SkillPractice_HavingTextLavel,Possui: {0}
+Training_ConfirmDialogTitle,Confirmar
+Training_ItemConfirmDialogMessage,Usar o item selecionado para Despertar?<br>Tudo bem?
+Training_CardConfirmDialogMessage,Usar o item selecionado para Despertar?<br>Tudo bem?
+Training_LackCoinConfirmDialogMessage,Faltam <br> <color=#D73C55> de ouro para o Despertar de {1} {0} </color>
+Training_ItemSettingDialogTitle,Configurar Consumo de Itens
+Training_ItemSettingDialogMessage,Defina a quantidade de itens para consumir.
+Training_NeedCount,Quantidade necessária
+Training_NeedItem,Itens necessários
+Training_NoSetting,Não definido
+Training_MaxLevelAndStatus,Nível máximo e status
+Training_EmptyChara,Não há Idols que podem ser despertadas.
+Training_ItemConfirmDialogLimitNumNote,Você pode despertar até {0} vezes.
+Training_ItemAmountOverLimit,{0}+
+Training_SelectThisWay,Escolha este método
+Training_GoldLack,Ouro insuficiente.
+Training_LevelLack,O nível não é o máximo.
+Training_AwakeningBefore,Antes do Despertar
+Training_AwakeningAfter,Despertar (após)
+Training_MaxLv,Nível Máx.
+Training_AwakenedMaxShortMessage,Já atingiu o nível máximo de Despertar.
+Training_CardEvolveItem,Bastão de luz
+Training_CardEvolveItemSub1,Item de Despertar
+Training_CardEvolveItemSub2,Item de Despertar
+Training_CardEvolveItemSub3,Item de Despertar
+TrainingResult_TrainingTitle,Despertar Concluído
+TrainingResult_TrainingMessage,Despertar concluído.
+TrainingResult_EpisodeTitle,Bônus por completar a história
+TrainingResult_EpisodeMessage,"Você conseguiu desbloquear a história de {1}, <br>! {0}"
+StatusUpResult_EpisodeTitle,Bônus por completar a história
+StatusUpResult_Message,O status de {0} foi aumentado em <br>.
+CardDetail_EpisodeUnlockConfirm,"Consumir os seguintes itens para desbloquear a história ""{0}""?"
+CardDetail_EpisodeUnlockLevel,Requisito: Idol Lv {0} ou superior
+CardDetail_EpisodeUnlockNeedNum,Quantidade necessária: {0}
+CardDetail_EpisodeUnlockHaveNum,Quantidade: {0}
+CardDetail_EpisodeUnlockLackMaterial,Faltam <color=#D73C55>itens necessários para desbloquear a história. </color>
+CardDetail_EpisodeUnlockLackLevel,Nível da Idol insuficiente. Nível atual {0} / Nível necessário {1} <color=#D73C55> <br> </color>
+CardDetail_EpisodeUnlockLackGold,Faltam <color=#D73C55>ouro para desbloquear </color>.
+CardDetail_UnlockEpisodePlayConfirmDialogTitle,História desbloqueada.
+CardDetail_UnlockEpisodePlayConfirmDialogMessage,A história “{0}” foi desbloqueada. <br> Deseja lê-la agora? <br>
+CardDetail_EpisodePlayConfirmDialogTitle,História
+CardDetail_EpisodePlayConfirmDialogMessage,Deseja ler a história «{0}» agora? <br>
+CardDetail_ChangeIllustButton,Alterar Ilustração
+CardDetail_ExpansionButton,Ampliar
+CardDetail_LevelWord,Nível
+CardDetail_ExpWord,Faltam
+CardDetail_Max,MÁXIMO
+CardDetail_MemberDetailButton,Detalhes da Idol
+CardDetail_PracticeButton,Lição
+CardDetail_TrainingButton,Despertar
+CardDetail_SkillPracticeButton,Lição de Habilidade
+CardDetail_CardNormal,Normal
+CardDetail_Favorite,Favoritar
+CardDetail_Animation,Animação
+CardDetail_Effect,Efeitos
+CardDetail_Status,Status
+CardDetail_Profile,Perfil
+CardDetail_LevelStatus,Nível e Status
+CardDetail_CenterSkill,Habilidade Central
+CardDetail_Skill,Habilidade
+CardDetail_SkillLv,Nível da Habilidade
+CardDetail_GachaButton,Recrutar
+CardDetail_SchoolYear,Ano Letivo
+CardDetail_Birthday,Aniversário
+CardDetail_BloodType,Tipo sanguíneo
+CardDetail_Height,Altura
+CardDetail_CharaVoice,Dublagem
+CardDetail_SchoolYearInput,{0}º ano
+CardDetail_EpisodeUnlockConfirmDialogTitle,Confirmar desbloqueio de história
+CardDetail_EpisodeRewardDialogTitle,Recompensa da História
+CardDetail_SpecialEpisodeRewardDialogTitle,Recompensa da história especial
+CardDetail_EpisodeRewardDialogMessage,Recompensa obtida! <br> <color=#D73C55> Você pode receber a recompensa em Presentes. </color>
+CardDetail_EpisodePlayDialogUseVoiceButton,Áudio ligado
+CardDetail_EpisodePlayDialogNoVoiceButton,Sem voz
+CardDetail_CharacterEpisodeLevel,História Nv. {0}
+CardDetail_CardGetCategoryGacha,Recrutamento
+CardDetail_CardGetCategoryEvent,Evento
+CardDetail_CardGetCategoryExchange,Troca
+CardDetail_CardGetCategoryStory,História
+CardDetail_CardGetCategoryMission,ミッション
+CardDetail_CardGetDetailGacha,Recrutamento 『{0}』 — disponível!
+CardDetail_CardGetDetailEvent,"Evento ""{0}"" - disponível!"
+CardDetail_CardGetDetailExchange,"Loja de troca ""{0}"", disponível!"
+CardDetail_CardGetDetailStory,"História 『{0}』, disponível!"
+CardDetail_CardGetDetailMission,Missão: disponível!
+CardDetail_NoticeLevelMaxDisplay,Status no Despertar máximo e nível máximo exibidos.
+Album_NotCanGet,Não pode ser obtido agora.
+Album_GachaCanGet,É possível recrutar esta Idol através de <color=#DF4444>Recrutamento</color>.
+Album_EventCanGet,Idol que pode ser recrutada no <color=#DF4444>evento</color>.
+Album_ExchangeCanGet,Idol disponível na <color=#DF4444>Troca</color>.
+Album_LoginbonusCanGet,Idols que podem ser recrutadas no <color=#DF4444>bônus de login</color>.
+Album_StoryCanGet,Idols que podem ser recrutadas na <color=#DF4444>História</color>.
+Album_MissionCanGet,Idols que podem ser recrutadas na <color=#DF4444>Missão</color>.
+Album_BeginnerMissionCanGet,Idols que podem ser recrutadas na <color=#DF4444>Missão para Iniciantes</color>.
+Album_GachaCanNotGet,Nova Idol de «{0}» <br> Não disponível no Recrutamento atual.
+Album_EventCanNotGet,"Nova Idol do evento «{0}». <br> Atualmente, não é possível recrutá-la no evento em andamento ou na loja de troca."
+Album_CampaignCanNotGet,Idol de campanha «{0}». <br> Não pode ser recrutada no momento.
+Album_GachaOkButton,Recrutar
+Album_EventOkButton,Voltar ao evento
+Album_ExchangeOkButton,Ir para a loja
+Album_StoryOkButton,Para a história
+Album_TrainingOkButton,Detalhes da Idol
+Album_MissionOkButton,Missões
+Album_DefaultOkButton,OK
+Album_Empty,Não há álbuns.
+Album_DialogTitle,Ordenar álbuns
+Album_DialogGetTypeWord,Estado de membro
+Album_DialogTrainingTypeWord,Estado de Despertar
+Album_DialogGetTypeAll,Todos
+Album_DialogGetTypeTitle,Possui
+Album_DialogGetTypeUnlock,Possui
+Album_DialogGetTypeLock,Não possui
+Album_DialogMovieTypeTitle,Vídeo
+Album_DialogMovieTypeHas,Vídeo disponível
+Album_DialogMovieTypeNot,Vídeo não disponível
+Album_DialogEpisodeTypeTitle,História
+Album_DialogEpisodeTypeHas,História incluída
+Album_DialogEpisodeTypeNot,Sem história
+Album_DialogSpPhotoTypeTitle,Foto SP
+Album_DialogSpPhotoTypeHas,SPフォトあり
+Album_DialogSpPhotoTypeNot,Sem SP Foto
+Album_DialogEvolveTypeAll,Todos
+Album_DialogEvolveTypeNotEvolved,Antes do Despertar
+Album_DialogEvolveTypeEvolved,Despertar (após)
+Album_DialogSortTypeId,Padrão
+Album_DialogSortTypeUnlock,Ordem de aquisição
+Album_DialogSortTypeRarity,Rareza
+Album_SIF1_CardSeries,Série
+Album_SIF1_CardOther,Outros
+Album_SIF1_CardTypeNormal,Normal
+Album_SIF1_CardTypeAwakening,Despertar
+Album_SIF1_HeightExt,{0} cm
+Album_SIF2_AcquiredStatus,Status de Aquisição
+Album_SIF2_AcquiredPercent,{0}% ( {1} / {2} )
+Album_SIF2_MemberSummary,Lista de Idols
+Album_SIF2_Profile,Perfil
+Album_SIF2_NonJoining,Não participou
+Album_SIF2_NonJoiningToCard,Não há Idols para adicionar.
+Album_SIF2_NothingToCard,Não há Idols selecionados.
+AreaTalkList_AreaOnly,Localização
+AreaTalkList_AreaAndItem,Condições de ativação
+AreaTalkList_Empty,Não há mini histórias disponíveis.
+AreaTalkList_HaveAlbum,Reveja as mini histórias que você já viu!
+AreaTalkList_PlayButton,Ver
+CostumeSelect_DeckTitle,Fantasia da Foto de Formação
+CostumeSelect_DeckInfo,"Ao definir isso, a fantasia padrão será <br> «{0}»."
+CostumeSelect_SetButton,Definir
+CostumeSelect_SelectedButton,Definindo...
+CostumeSelect_UnLockInfoButton,Requisitos de desbloqueio
+CostumeSelect_UnLockInfoByFot,Obter {1} em {0}
+CostumeSelect_UnLockInfoByCampaign,Receba {0}
+CostumeSelect_NotSelected,Não definido
+OrnamentShop_EmptyData,Nenhum item disponível para compra.
+OrnamentShop_ScrollItemBuyText,Comprar
+OrnamentShop_ScrollItemLevelUpText,Aprimorar
+OrnamentShop_ScrollItemUnlockText,Requisitos de desbloqueio
+OrnamentShop_BuyConfirmDialog_ConditionLabel,Requisitos
+OrnamentShop_BuyResultDialogTitle_Buy,Item Adquirido
+OrnamentShop_BuyResultDialogTitle_LevelUp,Nível do Item Aumentado
+OrnamentShop_BuyResultDialogMessage_DoesNotPlace,O item comprado foi enviado para o depósito.
+Chat_NoticeReceive,Mensagem recebida
+Chat_TabChatSummary,Resumo
+Chat_TabChatSolo,Chat
+Chat_TabChatGroup,Chat em Grupo
+Chat_TabCollectionStamp,Estampas
+Chat_TabCollectionAttachment,Foto
+Chat_AvailableStamp,Chat onde você pode usar os selos selecionados.
+Chat_AcquiredStamp,Você pode obter aleatoriamente ao completar a música.
+Chat_TalkTagVoice,Voz
+Chat_TalkInputWait,Digitando {0}...
+Chat_TalkItemReceive,Receber
+Chat_TalkItemReceived,Já recebido
+Chat_TalkItemGet,Você obteve {0}.
+Chat_TalkLookback,Rever a conversa
+Chat_OrderOfArrival,Ordem de chegada
+Chat_OrderOfPrecedence,Ordem de exibição
+Chat_NotYetOpen,Você não está neste chat.<br>Troque informações de contato para participar do chat.
+Chat_NotYetAvailable,Não há chats disponíveis para usar este adesivo.
+MusicShop_EmptyData,Nenhuma música disponível para compra.
+MusicShop_AlreadyBought,Já comprado.
+MusicShop_DetailDialogTitle,Detalhes da Música
+MusicShop_BuyConfirmDialogTitle,Confirmar compra
+MusicShop_BuyConfirmDialogMessage,Deseja comprar esta música?
+MusicShop_BuyConfirmDialogCostItem,★Item Necessário★
+MusicShop_BuyResultDialogTitle,Compra completa
+Warehouse_BatchReplaceDialogDecideButton,Confirmar
+Warehouse_BatchReplaceDialogTitle,Formação recomendada
+Warehouse_BatchReplaceDialogCardTypePriority,Priorizar Atributo
+Warehouse_BatchReplaceDialogDeckRolePriority,Prioridade de instrumento
+Help_DialogTitle,Ajuda
+Help_Faq,Perguntas frequentes
+Help_GameProgress,Progresso e funcionamento do jogo
+Help_BuyGem,Compra Loveca
+Help_TakeOver,Transferir conta
+Help_Opinions,Opiniões/Sugestões
+Help_ButtonFaq,Perguntas frequentes
+Help_ButtonBuyGem,Erro ao comprar Loveca
+Help_ButtonRegardProblems,Problemas<br>Contato
+Help_ButtonDataRecovery,Recuperação de dados<br>Contato
+Help_ButtonOther,Outras dúvidas
+Help_Notes,Atenção
+Help_JumpButton,Ir para o site
+Help_ContactFormCaution,"Não respondemos a todos os comentários/pedidos. <br> Dependendo do conteúdo, pode demorar para investigar, responder ou tomar medidas. <br> Antes de entrar em contato, consulte a seção de ajuda, avisos e perguntas frequentes. <br> Para dúvidas sobre recuperação de dados, use o formulário de contato. <br> Não nos envolvemos em disputas entre usuários. <br> Este suporte está disponível apenas em japonês. <br> Não podemos fornecer informações sobre estratégias do jogo. <br> Se você não receber um e-mail de confirmação após 24 horas, verifique as configurações do seu e-mail. <br> Altere suas configurações para que os e-mails de [@bushimo.jp] sejam recebidos."
+TermsOfService_DialogTitle,Termos de Uso
+TermsOfService_Terms,Termos de Uso
+TermsOfService_Rights,Direitos autorais
+TermsOfService_PrivacyPolicy,Política de<br>Privacidade
+TermsOfServiceAgree_Agree,Concordar
+TermsOfServiceAgree_NoAgree,Não Concordo
+TermsOfServiceAgree_Terms,Termos de Uso / Política de Privacidade / Informações Legais
+TermsOfServiceAgree_PrivacyPolicy,Política de Privacidade
+TermsOfServiceAgree_Title,Confirmação dos Termos de Uso
+TermsOfServiceAgree_Message,"Para jogar este jogo, você precisa concordar com os <br>Termos de Uso e a Política de Privacidade <br>e confirmar que concorda <br>. Por favor, confirme e toque em ""Concordar"" <br>."
+TermsOfServiceAgree_DataCaution,"Em caso de exclusão do aplicativo ou perda de dados devido a ações intencionais ou negligência, observe que <br>a restauração dos dados pode ser difícil."
+CacheClear_ConfirmTitle,Limpar Cache?
+CacheClear_ClearingTitle,Limpando cache
+CacheClear_ResultTitle,Cache limpo.
+CacheClear_ConfirmMassage,Limpar cache<br>Confirma?
+CacheClear_ClearingMassage,Limpando o cache<br>Aguarde até a conclusão.
+CacheClear_ResultMassage,Cache limpo com sucesso.
+Tw_SelectLanguage_Button,Selecionar idioma
+Mission_Title,Missão
+Mission_MainTitle,Lista de Missões
+Mission_SubTitle,Missão
+Mission_Progress,{0} de <size=-10> / {1} totalizadas em </size>
+Mission_TabMain,Total
+Mission_TabDaily,Diário
+Mission_TabLimited,Limitado
+Mission_MissionNotFound,"Atualmente, não há desafios disponíveis."
+Mission_MissionNotFoundDaily,Não há<br>missões diárias disponíveis
+Mission_MissionNotFoundLimited,"Atualmente, não há desafios <br>limitados disponíveis."
+Mission_ChallengeButton_AcceptReward,Receber
+Mission_ChallengeButton_Challenge,Desafiar
+Mission_ChallengeButton_Ornament,Para o depósito
+Mission_ChallengeButton_CardDetail,Detalhes da Idol
+Mission_ChallengeButton_CardDetail_NotHave,Idol não possuída
+Mission_ChallengeButton_CardReinforce,Lição
+Mission_ChallengeButton_CardReinforceSkill,Lição de Habilidade
+Mission_ChallengeButton_CardEvolve,Despertar
+Mission_ChallengeButton_Costume,Mudar Fantasia
+Mission_ChallengeButton_DeckEdit,Formação do grupo
+Mission_ChallengeButton_DeckTop,Grupo TOP
+Mission_ChallengeButton_EventTop,Voltar ao evento
+Mission_ChallengeButton_Friend,Lista de amigos
+Mission_ChallengeButton_GachaTop,Recrutar
+Mission_ChallengeButton_MainStory,Para a história principal
+Mission_ChallengeButton_Migration,Transferir dados
+Mission_ChallengeButton_MusicSelect,Selecionar Música
+Mission_ChallengeButton_Line,Adicionar amigo
+Mission_ChallengeButton_LiveSelect,Live Seleção
+Mission_ChallengeButton_Photo,Idol — Lista de Idols
+Mission_ChallengeButton_Profile,Perfil
+Mission_ChallengeButton_Shop,Loja
+Mission_ChallengeButton_SubStory,Subhistória
+Mission_ChallengeButton_TargetMission,Para a missão alvo
+Mission_ChallengeButton_Twitter,Seguir
+Mission_DetailDialog_NoTimeLimit,Tempo limite: Nenhum
+Mission_CompleteMisssionGuide,Verifique os detalhes.
+Friend_MyFriendTab,Lista de amigos
+Friend_RequestTab,Pendente
+Friend_PendingTab,Pendente
+Friend_FriendSearchTab,Pesquisar Amigos
+Friend_LastLogin,Último acesso
+Friend_RefineFavoriteFriendButton,Mostrar apenas amigos favoritos
+Friend_DeleteButton,Remover amigo
+Friend_RequestCancelButton,Cancelar pedido
+Friend_PendingButton,Aceitar
+Friend_RejectButton,Recusar
+Friend_MyFriendEmpty,Não há amigos na lista.
+Friend_RequestEmpty,Não há jogadores com solicitações pendentes.
+Friend_PendingEmpty,Não há jogadores pendentes.
+Friend_FriendSearchEmpty,Nenhum jogador encontrado.
+Friend_SearchButton,Pesquisar ID
+Friend_SortLastLoginButton,Último acesso
+Friend_SortRankButton,Rank
+Friend_IconLeaderTypeButton,Líder
+Friend_IconRecommendTypeButton,Favoritar
+Friend_SearchDialogTitle,Pesquisar ID
+Friend_SearchDialogMassage,Insira o ID.
+Friend_SearchDialogSearchButton,Pesquisar
+Friend_Secret,Privado
+Friend_LastLoginMinutes,{0} minutos atrás
+Friend_LastLoginHour,{0} horas atrás
+Friend_LastLoginDay,Há {0} dias
+Friend_LastLoginOverMonth,Mais de 30 dias atrás
+Friend_DialogTitle,Pesquisar ID
+Friend_DialogMessage,Insira o ID do jogador.
+Friend_DialogLimitNum,12 caracteres
+Title_AppliVersion,Versão {0}
+Title_JasracApple,JASRAC<br>Nº 9014302035Y45112
+Title_JasracGoogle,JASRAC<br>Nº 9014302036Y45112
+Title_NexTone,NexTone
+Title_Company,©2013 Projeto Love Live! <br> ©2017 Projeto Love Live! Sunshine!! <br> ©2022 Projeto Love Live! Nijigasaki Gakuen School Idol Club <br> ©2022 Projeto Love Live! Superstar!! ©bushiroad
+Title_UserId,ID: {0}
+Title_MenuTitle,Menu
+Title_MenuExternalSite,Site externo
+Title_MenuCacheClear,Limpar Cache
+Title_MenuGameDataDelete,Excluir dados do jogo
+NameInput_Name,Nome completo
+NameInput_Ok,OK
+NameInput_Title,Solicitação de permissão
+NameInput_Permit1,Comitê Executivo do Miracle Live
+NameInput_Petmit2,"Eu, em relação ao Miracle Live, prometo cumprir os termos e condições descritos no pedido de permissão de cobertura e, <br> por meio deste, solicito a permissão para cobrir o evento."
+NameInput_Note1,O nome do jogador pode ter no máximo 10 caracteres.
+NameInput_Note2,Este nome será visível para outros jogadores no jogo.
+NameInput_Note3,O nome do jogador pode ser alterado posteriormente.
+NameInput_ProfileNameInputTitle,Nome do jogador
+NameInput_ProfileNameInputMessage,Insira seu nome de jogador.
+NameInput_ProfileNameInputNote,O nome do jogador pode ter no máximo 10 caracteres <br> Este é o nome que será exibido para outros jogadores no jogo <br> Você poderá alterá-lo mais tarde.
+Profile_Secret,Privado
+Profile_SecretLong,Tornará-se não público.
+Profile_DefaultComment,Prazer em conhecê-lo!
+Profile_RankTitle,<size=24>R </size>ANQUE
+Profile_ExpTitle,<size=24>E</size>xp
+Profile_CommentTitle,Comentário
+Profile_RecommenderSelectButton,Favoritos
+Profile_TitleSelectButton,Título Selecionar
+Profile_PublicSelectButton,Definir Visibilidade
+Profile_CopyButton,Copiar
+Profile_CopyMessage,ID copiado.
+Profile_PhotoButton,Mostrar Idol
+Profile_FriendRequestButton,Enviar pedido de amizade
+Profile_FriendCanNotRequestButton,Não pode solicitar.
+Profile_FriendTitleListButton,Lista de títulos
+Profile_LastLoginTime,Último login:
+Profile_OpenDialogTitle,Configurações de Visibilidade do Perfil
+Profile_OpenDialogMainDeckParam,Força total da unidade
+Profile_OpenDialogGroupRank,Grupo Rank
+Profile_OpenDialogClearLiveNumber,Músicas completadas
+Profile_OpenDialogFullComboLiveNumber,Músicas com Full Combo
+Profile_OpenDialogAllPerfectLiveNumber,Músicas com ALL PERFECT
+Profile_OpenDialogHighScoreRate,Taxa de High Score
+Profile_OpenDialogLastLoginDate,Último login
+Profile_OpenDialogUserId,ID do jogador
+Profile_OpenDialogGuestMember,Idol visitante
+Profile_OpenDialogCaution,Desmarque para tornar privado.
+Profile_OpenDialogOpenButton,Público
+Profile_OpenDialogSecretButton,Privado
+Profile_OpenDialogPendingButton,Aguardando
+Profile_OpenDialogRejectButton,Recusar
+Profile_RankDialogTitle,Detalhes do Rank
+Profile_RankMax,O nível máximo foi alcançado.
+Profile_CommentSettingDialogTitle,Configuração de Comentários
+Profile_CommentSettingDialogMassage,Digite um comentário.
+Profile_CommentSettingDialogLimitNum,Máx. de {0} caracteres
+Profile_HighScoreRateDialogTitle,Taxa de Pontuação Alta Detalhada
+Profile_HighScoreRateDialogTotalHighScore,Taxa geral de pontuação alta
+Profile_HighScoreRateDialogValue,Taxa de High Score
+Profile_HighScoreRateDialogEmpty,Não há dados de jogo para esta música.
+Profile_RankListScrollItemGem,Recompensa: Loveca {0}
+Profile_RankListScrollItemNone,Recompensa: Não disponível {0}
+Profile_ScoreTitle,Músicas completadas
+Profile_ClearMusicTitle,CONQUISTAS
+Profile_FullComboTitle,FULL COMBO
+Profile_ClimaxPerfectTitle,CLÍMAX<br>PERFEITO
+Profile_AllPerfectTitle,PERFEITO ABSOLUTO
+Profile_TeacherPointTitle,Taxa de High Score
+Profile_ScoreConfirm,Músicas Concluídas
+Profile_GuestMember,Idol visitante
+Profile_GuestDetail,Detalhes do Convidado
+Profile_SettingMember,Definir Idol
+Profile_Share,Compartilhar
+Profile_ShareMessage,Que tal começar como uma idol escolar junto de nós?
+Profile_CardEmpty,Nenhuma Idol.
+Profile_Birthday,Aniversário
+Profile_NoBirthday,Não definido
+Profile_BirthdaySettingDialogTitle,Definir Aniversário
+Profile_BirthdaySettingDialogMessage,Insira sua data de nascimento.
+Profile_BirthdaySettingDialogNote,Sua data de nascimento não poderá ser alterada posteriormente <br>. Você receberá mensagens especiais no dia do seu aniversário <br>. Não precisa ser a mesma data usada para confirmar o limite de compras.
+TitleList_TitleChangeDialogTitle,Confirmar
+TitleList_TitleChangeDialogText,Definir este título
+TitleList_TitleNoDetailText,Sem descrição do título
+TitleList_TitleListTabNormal,Normal
+TitleList_TitleListTabEvent,Evento
+TitleList_TitleListTabMember,Membro
+TitleList_TitleListTabMigration,Dados sincronizados
+TitleList_NoMigrationMessage,Você não possui títulos de conexão de dados.
+TitleList_TitleListEmpty,Você não possui títulos.
+Exchange_Tab_Main,Principal
+Exchange_Tab_Tea,Chá
+Exchange_ExpireDateLabel,Data de troca
+Exchange_ExchangeSelectMessageText,Selecione a loja de troca.
+Exchange_SealExchangeHeaderMainTitle,Recrutamento de Pontos
+Exchange_PickExchangeHeaderMainTitle,Troca
+Exchange_TicketExchangeHeaderMainTitle,Troca de Tickets
+Exchange_SoldOutMessage,Limite de troca atingido.
+Exchange_ExchangeLimitMessage,"Você atingiu o limite de posse, então não pode trocar."
+Exchange_GetSeal,Obtenha pontos de Recrutamento
+Exchange_ShopResetMessage_Daily,"Diariamente, à meia-noite."
+Exchange_ShopResetMessage_Weekly,Atualiza toda {0}.
+Exchange_ShopResetMessage_Monthly,"Todo mês, dia 1."
+Exchange_ResetDayDaily,Hoje
+Exchange_ResetDayWeekly,Esta semana
+Exchange_ResetDayMonthly,Este mês
+Exchange_RemainCount,Mais {0} vezes
+Exchange_ResultMesseage,Você trocou {1} de {0}!
+Exchange_ResultCardMesseage,Você trocou {1} e recrutou {0} por {2}!
+Exchange_FilterDialogTitle,Filtro de Troca
+Exchange_FilterDialogCategoryLabel,Categoria
+Exchange_FilterDialogSoldOutLabel,Obter — filtrar itens já obtidos
+Exchange_FilterDialogCategoryAll,Todos
+Exchange_FilterDialogCategoryStamp,Estampas
+Exchange_FilterDialogCategoryPrimaryItem,Item Principal
+Exchange_FilterDialogCategoryPhotoSeal,Idol
+Exchange_FilterDialogCategoryTicket,Ticket
+_FilterDialogDefaultButtonText,Restaurar padrão<br>
+Exchange_Name_Exchange,Trocar
+Exchange_Name_Purchase,Comprar
+Exchange_Name_LevelUp,Aprimorar
+Exchange_EmptyData,Não há {0} disponíveis.
+Exchange_AmountLabel,Quantidade de {0}
+Exchange_AmountDialogTitle,Quantos {0} você quer?
+Exchange_AmountDialogMessage,"※A primeira vez que uma Idol se junta, ela não será convertida em um bastão de luz."
+Exchange_ConfirmDialogTitle_Countable,Confirmar quantidade de {0}
+Exchange_ConfirmDialogTitle_Uncountable,Trocar {0}?
+Exchange_ResultDialogTitle,{0} realizado.
+DeckEdit_RecommendDialogTitle,Formação recomendada
+DeckEdit_RecommendPriorityType,Atributo
+DeckEdit_RecommendPriorityGroup,Grupo
+DeckEdit_RecommendPrioritySkill,Habilidade
+DeckEdit_RecommendTypeAll,Nenhum filtro
+DeckEdit_RecommendGroupAll,Nenhum filtro
+DeckEdit_RecommendGroupOther,Outros
+DeckEdit_RecommendTypeBonus,Bônus de Atributo
+DeckEdit_RecommendCharacterBonus,Bônus de Membro
+DeckEdit_RecommendEventBonus,Bônus de evento
+DeckEdit_RecommendSkillAll,Nenhum filtro
+DeckEdit_RecommendSkillScore,Aumento de Pontos
+DeckEdit_RecommendSkillScoreCondition,Bônus de Pontuação Condicional
+DeckEdit_RecommendSkillRecovery,Recuperação de HP
+DeckEdit_RecommendSkillEnhanced,Precisão aumentada
+DeckEdit_RecommendSkillOther,Outros
+DeckEdit_RecommendCheckCenterFixed,Fixar posição central
+DeckEdit_RecommendCheckBonusApply,Priorizar membros selecionados
+DeckEdit_RecommendGroupSelectDialogTitle,Selecionar Grupo
+DeckEdit_DefaultBandName,Unidade {0}
+DeckEdit_TabName,Unidade {0}
+DeckEdit_StatusPower,LP
+DeckEdit_StatusTotal,Força total da unidade
+DeckEdit_StatusSoul,Smile
+DeckEdit_StatusTechnic,Pure
+DeckEdit_StatusAppeal,Cool
+DeckEdit_StatusOrnamentBouns,Itens
+DeckEdit_StatusEventBouns,Evento
+DeckEdit_StatusTypetBouns,Bônus de Atributo
+DeckEdit_MainUnitSetButton,Definir Unidade Principal
+DeckEdit_RecommendEditButton,Formação recomendada
+DeckEdit_ResetButton,Reiniciar
+DeckEdit_OrnamentButton,Itens
+DeckEdit_TotalParamDetailButton,Detalhes do poder total
+DeckEdit_EventNothing,"Não há bônus, pois o período do evento terminou.<br>"
+DeckEdit_UnitNameDialogTitle,Nome da Unidade
+DeckEdit_UnitNameDialogMessage,Digite o nome da unidade.
+DeckEdit_UnitNameDialogLimitNum,Máx. 8 caracteres
+DeckEdit_ClassmateButton,(Dummy)
+DeckEdit_ClassmateTotalParam,(Dummy)
+DeckEdit_PassiveSkillTotalParam,(Dummy)
+DeckEdit_EventBonusMessage,O bônus de pontos do evento será aplicado ao valor total de todos os membros selecionados na sua Formação.
+DeckEdit_EventBonusEventPointUp_ChallengeLive,"Na Coleção Milagrosa, aumente os pontos do evento em {0}%"
+DeckEdit_EventBonusTotalPointUp_ChallengeLive,"Na Coleção Milagrosa,<br>a força total das Idols selecionadas aumenta."
+DeckEdit_EventBonusEventPointUp_LiveTry,"Na Coleção Milagrosa, aumente os pontos do evento em {0}%"
+DeckEdit_EventBonusTotalPointUp_LiveTry,"Na Coleção Milagrosa,<br>a força total das Idols selecionadas aumenta."
+DeckEdit_EventBonusTotalPointUp,Bônus de Membro (Força Total dos Idols)
+DeckEdit_EventBonusEventPointUp,(Pontos de evento)
+DeckEdit_EventBonusNoRate,---
+DeckEdit_EventBonusRate,{0}%x {1} membros
+DeckEdit_EventBonusRateUp,AUMENTAR!
+DeckEdit_EventBonusInvalidMessage1,Bônus de evento
+DeckEdit_EventBonusInvalidMessage2,Nenhum membro selecionado.
+DeckEdit_Passive,Habilidade Passiva
+DeckEdit_LiveRole,(Dummy)
+DeckEdit_SupportRole,(Dummy)
+DeckEdit_SelectEventDialogTitle,Selecionar Evento
+DeckEdit_SelectEventDialogText,Exibe as informações de bônus do evento selecionado.<br>
+DeckEdit_SelectEventDialogCaution,Eventos sem bônus não serão exibidos.
+DeckEdit_ClassmateDisp,Mostrar todos os Idols
+DeckEdit_TotalParamDetailDialogTitle,Detalhes da Unidade
+DeckEdit_CenterSkillRiseValue,Valor de Aumento da Habilidade Central
+DeckEdit_EventBonusRiseValue,Bônus de evento
+DeckEdit_UpperArrowValue,+{0}
+DeckEdit_SkillLvValue,Nv {0}
+DeckEdit_EventPt,Pontos de evento
+DeckEdit_IconBonus,Miracle Star
+DeckEdit_StatusTotalAttention,O valor total da unidade inclui o bônus do atributo de habilidade central.
+DeckEdit_PositionEditMessage,Arraste as Idols para alterar a posição.
+DeckEditCharaSelect_PhotoTotalParam,Força total das Idols
+LiveMission_DialogTitle,Lista de recompensas por completar {0}.
+LiveMission_DialogScoreRank,Pontuação
+LiveMission_DialogComboCount,Número de combos
+LiveMission_DialogFullCombo,Combo perfeito
+LiveMission_DialogClearCount,Número de clears
+ShopCommon_FreeGem,Loveca grátis
+ShopCommon_ChargeGem,ラブカ (paga)
+ShopCommon_Price,Preço
+GemShop_FundSettlement,Lei de Pagamentos<br>Informações
+GemShop_ServiceGuidelines,Guia de Moeda do Jogo
+GemShop_MedalGuidelines,Termos de Uso do Loveca
+GemShop_SpecifiedCommercialTransactions,Lei de Transações Comerciais Específicas<br>conforme indicado
+GemShop_SpecifiedCommercialTransactions_DialogTitle,Lei de Transações Comerciais Específicas
+GemShop_FundSettlement_DialogTitle,Lei de Pagamentos Eletrônicos
+GemShop_SpecifiedCommercialTransactions_FundSettlement,Lei Comercial/Pagamentos
+GemShop_BuyComplete,Compra completa
+GemShop_BuyCompleteMessage,Você comprou {0} por {1}.
+GemShop_Confirm,Confirmar
+GemShop_BuyStaminaMessage,Gastar {0} Loveca para recuperar {1} LP. Confirma? <br>
+GemShop_BuyStaminaCompleteTitle,Janela de recuperação de LP
+GemShop_BuyStaminaCompleteMessage,LP restaurado em {0}!
+GemShop_AgeConfirm,Confirmação de idade
+GemShop_AgeMessage,Insira sua data de nascimento para confirmar a idade.
+GemShop_AgeNote,A data de nascimento não pode ser alterada posteriormente.
+GemShop_AgeMaxMessage,※Menores de 16 anos: até ¥5.000 por mês (imposto incluso) <br> ※De 16 a 17 anos: até ¥10.000 por mês (imposto incluso) <br> ※18 anos ou mais: sem limite
+GemShop_AgeNote1617,16–17 anos:
+GemShop_AgeNote16,Menos de 16 anos:
+GemShop_LimitOverMessage,Você atingiu o limite de compra deste mês.
+GemShop_LimitAlertOver,Você já excedeu o limite mensal de compras de Loveca em <br>{0} ienes.
+GemShop_LimitAlert,Esta compra fará com que o valor total de <br> Loveca comprado neste mês exceda {0} ienes.
+GemShop_PurchaseConfirm,Comprar {0}?
+GemShop_AgeSelectedTitle,Confirmação do registro de idade
+GemShop_AgeSelectedContents,Sua data de nascimento está correta?
+GemShop_AgeSelectedConfirm,A data de nascimento não pode ser alterada posteriormente.
+GemShop_AgeDecisionContents,Idade confirmada.
+GemShop_AgeDecisionContentsFormat,Idade confirmada.
+GemShop_AgeDecisionLimitLabel,"Limite mensal: ¥{1}, até ¥{0} por mês."
+GemShop_AgeDecision,Configuração concluída.
+GemShop_Monthly,Mensal
+GemShop_AlertMessage,O valor gasto este mês excedeu {0} ienes. Deseja continuar comprando?
+GemShopItem_LimitBuyAmount,Restante: {0}
+GemShopItem_LimitDate,Até {0}
+GemShopItem_Amount,{0} unidades
+GemShopItem_LimitAmount,Restam {0}
+GemShopItem_GemAmount,Loveca {0}個
+GemShopItem_Omake,<br> <size=22> <color=#F93981> + Loveca grátis {0}
+GemShopItem_Charge,Loveca paga ×{0}
+GemShopItem_Free,Loveca grátis ×{0}
+GemShopItem_Money,¥{0}
+GemShopItem_Increase,Bônus de {0}
+GemShopItem_Period,Período de venda
+GemShopItem_Season,{0} ~ {1}
+GemShopItem_TicketInfo,Você não receberá Loveca nos dias em que não fizer login <br> Itens diferentes de Loveca serão enviados para os presentes <br> Eles serão adicionados diretamente ao seu inventário quando você fizer login <br> Você pode começar a receber o bônus de login às 0h do dia seguinte à compra.
+GemShopItem_TicketBuyInfo,<color=#D73C55>Comprado</color><br>Validade: {0}
+GemShopItem_TicketRemainPresent,Presente diário <br> <color=#D73C55> Restam {0} vezes </color>
+GemShopItem_ChargeGemComfirm,Consumir {0} Loveca para comprar {1} <br> Este item só pode ser comprado com Lovecas pagas.
+GemShopItem_FreeGemComfirm,Consumir {0} Loveca para comprar {1}. <br> Loveca será consumida a partir da quantidade gratuita.
+GemShopItem_SubscriptionButton_MembersCard,Ver cartão de membro
+GemShopItem_SubscriptionButton_Buy,Comprar
+GemShopItem_SubscriptionButton_Info,Detalhes
+GemShopItem_Membership_CardNo,Nº da associação
+GemShopItem_Membership_CardStart,Data de adesão
+GemShopItem_Membership_CardChangeButton,Design<br>Alterar
+GemShopItem_Membership_WallpaperTitle,Alterar design do cartão de membro
+GemShopItem_Membership_WallpaperAlert,Toque em Decidir para aplicar.
+GemShopItem_Membership_WallpaperSelected,Selecionando
+GemShopItem_Membership_WallpaperUsing,Em uso
+GemShopItem_Membership_WallpaperDecide,Confirmar
+GemShopItem_Membership_WallpaperNotice,O design do cartão de membro foi alterado.
+GemShopItem_Membership_InfoTitle,Detalhes
+GemShopItem_Membership_InfoTabSummary,Resumo
+GemShopItem_Membership_InfoTabLoginBonus,Bônus de Login
+GemShopItem_Membership_InfoTabMission,Missão
+GemShopItem_Membership_InfoSummaryTitle,Resumo da Assinatura MIRACLE Pass
+GemShopItem_Membership_InfoSummaryUnsubscribe,Cancelar assinatura
+GemShopItem_Membership_InfoLoginBonusTitle,Bônus de Login Especial para Membros MIRACLE Pass!
+GemShopItem_Membership_InfoLoginBonusDescription,"Ao se tornar membro do MIRACLE Pass, você pode obter recompensas! Faça login por 20 dias e ganhe até 1000 Lovecas grátis!<br>※Você pode começar a receber as recompensas no dia seguinte à sua inscrição."
+GemShopItem_Membership_InfoLoginBonusDayCount,Dia
+GemShopItem_Membership_InfoLoginBonusDayCountFormat,Dia {0}
+GemShopItem_Membership_InfoLoginBonusGotItem,Itens obtidos
+GemShopItem_Membership_InfoLoginBonusStatus,Status de Obtenção
+GemShopItem_Membership_InfoLoginBonusClear,Obtido
+GemShopItem_Membership_InfoLoginBonusNotClear,Não alcançado
+GemShopItem_Membership_InfoMissionTitle,Missão especial para membros MIRACLE Pass!
+GemShopItem_Membership_InfoMissionDescription,Complete todas as missões e ganhe até 1500 Loveca grátis! <br> *Conclua antes de 48 horas do fim do período.
+GemShopItem_Membership_InfoMissionClearCount,Número de músicas completadas
+GemShopItem_Membership_InfoMissionClearCountFormat,{0} vezes completadas
+GemShopItem_Membership_InfoMissionGotItem,Itens obtidos
+GemShopItem_Membership_InfoMissionStatusProgress,Em andamento
+GemShopItem_Membership_InfoMissionStatusClear,Concluído
+GemShopItem_Membership_InfoMissionStatusReceived,Recompensa recebida
+GemShopItem_Membership_InfoMissionButton,Ir para missão
+ConfirmMedal_Gem,Confirmar Medalha Loveca
+ConfirmMedal_Log,Detalhes do Loveca
+ConfirmMedal_ChargeGemReason,Você comprou [{0}].
+DeckConfirm_LiveStartWarning,"Para iniciar o Live, você precisa ter 9 Idols na sua Formação.<br>Faça a Formação dos seus Idols."
+DeckConfirm_StaminaUse,Consumir {0}
+DeckConfirm_AutoBurstDialogTitle,Configurar Consumo de Ticket Automático
+DeckConfirm_LiveBurstDialogTitle,Configurar Consumo de LP
+DeckConfirm_UseBurstDialogTitle,Configuração de uso do Burst
+DeckConfirm_UseBurstDialogBurstSetting,Configuração básica de uso de Burst.
+DeckConfirm_UseBurstDialogThisTimeBurst,Baú a ser usado esta vez
+DeckConfirm_UseBurstDialogAutoDescription,Usar o ticket permite pular a música.
+DeckConfirm_UseBurstDialogBurstWarning,*Os tickets de salto serão usados começando pelos que expiram mais cedo.<br>*Os tickets de salto só podem ser usados em músicas e níveis já completados.
+DeckConfirm_UseBurstDialogAutoWarning,*Os tickets de salto serão usados começando pelos que expiram mais cedo.<br>*Os tickets de salto só podem ser usados em músicas e níveis já completados.
+DeckConfirm_NoBurst,Não possui
+DeckConfirm_CanNotUsedNoBurst,"Não possui, não pode usar."
+DeckConfirm_CanNotUsedNoClear,"Música não foi completada, uso indisponível."
+DeckConfirm_CanNotUsedNoClearShort,Impossível de usar sem completar.
+DeckConfirm_LiveParam,Valor para Live
+DeckConfirm_AutoParam,Valor para automático
+DeckConfirm_EventPointGet,Pontos de evento
+DeckConfirm_EventGachaPointGet,Recrutamento (caixa) — Obter P
+DeckConfirm_ItemAndExpGet,Recompensa/EXP
+DeckConfirm_Magni,x
+DeckConfirm_StaminaBoostNotSelect,Definir
+DeckConfirm_StaminaBoostSelect,Definindo...
+DeckConfirm_StaminaBoostWarning,"※Se o número de consumos for menor que o número definido, todos os itens serão consumidos."
+DeckConfirm_StaminaBoostAutoWarning,"※No modo automático, a pontuação mais alta e as recompensas por conclusão não serão registradas."
+DeckConfirm_Note,"LP está em 0, pular não é possível <br>. Para recuperar LP, selecione um método de recuperação <br> <br>."
+DeckConfirm_OptionButton,Opções
+DeckConfirm_HealthyBoostButton,LP
+DeckConfirm_StartButton,Iniciar Live
+DeckConfirm_AutoOn,Automático: ON
+DeckConfirm_AutoOff,Automático: DESLIGADO
+DeckConfirm_Passive,Habilidade Passiva
+DeckConfirm_LiveRole,Posição Live
+DeckConfirm_SupportRole,Posição de suporte
+DeckConfirm_EventBonusTotalPointUp,Bônus de Membro (Força Total dos Idols)
+DeckConfirm_EventBonusEventPointUp,(Pontos de evento)
+DeckConfirm_EventBonusNoRate,---
+DeckConfirm_EventBonusRate,{0}%
+DeckConfirm_EventBonusRateUp,AUMENTAR!
+DeckConfirm_EventBonusInvalidMessage1,Bônus de evento
+DeckConfirm_EventBonusInvalidMessage2,Nenhum membro selecionado.
+DeckConfirm_LiveBonusTypePointUp,Bônus de Atributo (Força total das Idols)
+DeckConfirm_LiveBonusRate,{0}%x {1} unidades
+DeckConfirm_LiveBonusRateUp,AUMENTAR!
+DeckConfirm_EventCandyAmount,{0}/{1}
+DeckConfirm_LiveConditionButton,Condições de Live
+DeckConfirm_LiveConditionDialogTitle,Condição Live
+DeckConfirm_LiveConditionDialogCondition,Condições de Live
+DeckConfirm_LiveConditionDialogRule,Regras do Live
+DeckConfirm_LiveConditionDialogErrorMessage,"Você não atendeu aos requisitos <color=#ff0000>para participar do Live </color>e, portanto, não pode participar <br>."
+Story_MainStoryFirstSeason,Primeira Temporada
+Story_MainStorySecondSeason,Segunda Temporada
+Story_SeasonChapterNumberFormat,#{0} - {1}
+Story_ChapterNumberFormat,Capítulo {0}
+Story_TitleWithChapterNumberFormat,"{0}, Episódio {1}: «{2}»"
+Story_ReleaseTitleWithChapterNumberFormat,{0} <br> Episódio {1}: «{2}»
+Story_StoryTopHeaderMainTitle,Histórias
+Story_StoryTopHeaderSubTitle,História
+Story_MainStoryListHeaderMainTitle,Escolher História
+Story_MainStoryListHeaderSubTitle,História Principal
+Story_SubStoryTopHeaderMainTitle,Selecionar Grupo
+Story_SubStoryTopHeaderSubTitle,Subhistória
+Story_SubStoryListHeaderMainTitle,Escolher História
+Story_SubStoryListHeaderSubTitle,Subhistória
+Story_EventStoryTopHeaderMainTitle,Evento
+Story_EventStoryTopHeaderSubTitle,História do Evento
+Story_EventStoryListHeaderMainTitle,Escolher História
+Story_EventStoryListHeaderSubTitle,História do Evento
+Story_CardStoryTopHeaderMainTitle,Seleção de Membro
+Story_CardStoryTopHeaderSubTitle,História
+Story_CardStoryListHeaderMainTitle,Escolher História
+Story_CardStoryListHeaderSubTitle,História
+StoryPart_NumberFormat,Episódio {0}
+StoryPart_TitleWithNumberFormat,"Episódio {0}, “{1}”"
+StoryPart_TitleWithNumberTranslucentFormat,<color=#804B413C> Episódio {0}: «{1}» </color>
+StoryPart_TitleListWithNumberFormat,Episódio {0} – {1}
+StoryPart_SeasonChapterNumberFormat,#{0} - {1} - {2}
+StoryPart_ChapterNumberFormat,#{0} - {1}
+StoryPart_TitleWithChapterNumberFormat,"Episódio {0}, “{1}”"
+StoryPart_RankReleaseDetailFormat,atingir o rank {0}
+StoryPart_GroupRankReleaseDetailFormat,Aumente o Rank do Grupo para {0}
+StoryPart_LiveReleaseDetailFormat,"Obtenha {0}, alcance uma pontuação de {1} ou mais e complete <br>."
+StoryPart_MissionReleaseDetailFormat,"Complete a missão ""{0}"""
+StoryPart_ReleaseInfo,Jogue e aumente seu RANK!
+StoryPart_NotRelease,Leia a história anterior ou desbloqueie-a.
+SubStory_GroupRankRewardDialogTitle,Lista de recompensas por ranking do grupo
+SubStory_GroupRankRewardDialogUntilRankUp,Até o próximo rank.
+SubStory_GroupRankRewardDialogTotalExp,EXP total
+SubStory_GroupRankRewardDialogRank,Rank
+SubStory_GroupRankRewardDialogMax,MÁXIMO
+ConfirmMedal_DialogTitle,Confirmar Medalha Loveca
+ConfirmMedal_ChargeMedal,Pago
+ConfirmMedal_FreeMedal,Grátis
+ConfirmMedal_TotalMedal,Total de Loveca
+ConfirmMedal_Warning,Os Lovecas gratuitos serão consumidos primeiro.
+ConfirmMedal_UpdateHistory,Atualizar
+ConfirmMedal_HistoryTitle,Detalhes do Loveca
+ConfirmMedal_UsedHistoryTitle,Histórico de uso
+ConfirmMedal_AcquiredHistoryTitle,Histórico de Obtenção
+ConfirmMedal_HistoryDate,Data de uso
+ConfirmMedal_HistoryReason,Uso
+ConfirmMedal_HistoryNote,O histórico de obtenção e consumo de Loveca exibirá no máximo os últimos 3 meses.
+ConfirmMedal_HistoryFreeMedal,Grátis
+ConfirmMedal_HistoryChargeMedal,Pago
+Ornament_EffectValueFormat,<color=#D73C55> {0:0.##}% </color>
+Ornament_UnlockDetail_GroupLevelReward,Liberado em {0}Grupo Rank{1}.
+Ornament_UnlockDetail_StoryPartReward,Liberado ao visualizar a história <br> {0} <br>.
+Ornament_UnlockDetail_MissionReward,"Ao completar a missão <br> {0} <br>, será desbloqueado."
+Ornament_PlaceButton,Colocar
+Ornament_CannnotPlace,Não pode ser instalado.
+Ornament_TalkUnlockLevel,"Libere no nível <color=#D73C55>, ao atingir {0} e completar </color>."
+Ornament_TeaSetLevelUpConditionLabel,▼Condição de Nível Superior
+Ornament_ReplaceDialog_OrnamentType,★{0}★
+Ornament_EventEffectDetail,"Durante o jogo de {3} de {2}, {0}<br> (fora do Live alvo, {1})"
+StaminaCharge_NoChargeItem,Você não possui itens de LP.
+StaminaCharge_RecoveryConfirmDialogTitle,Confirmação da recuperação de LP
+StaminaCharge_RecoveryConfirmDialogMessage,Deseja usar o item selecionado para recuperar {0} de LP?
+StaminaCharge_RecoveryConfirmDialogWarningNoItem,Você não possui itens de recuperação de LP.
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit1,"※Se a LP atual for maior que a LP máxima, não será possível recuperá-la."
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit2,"※Se o LP exceder 999, será exibido como 999+."
+StaminaCharge_Special_Commercial_Code,Lei Comercial/Pagamentos
+StaminaCharge_RecoveryFrequency,Recuperar {0}
+StaminaCharge_StaminaLabel,LP
+StampTab_DefaultStamp,Estampas básicas
+StampTab_RareStamp,Estampas Limitadas
+StampTab_HistoryStamp,Histórico
+StampTab_FavoriteStamp,Favoritar
+NotExistsStamp_DefaultStamp,Nenhum selo padrão encontrado!
+NotExistsStamp_RareStamp,Você não possui o selo raro.
+NotExistsStamp_HistoryStamp,Não há histórico de selos.
+NotExistsStamp_FavoriteStamp,Você não tem nenhum selo favorito.
+NotExistsStamp_RareStampSub,"Você pode obter selos limitados em eventos, etc."
+NotExistsStamp_HistoryStampSub,Usar um selo salva o histórico.
+NotExistsStamp_FavoriteStampSub,Você pode definir seus selos favoritos na tela de seleção do Live.
+MemberIllustrateList_SelectCharaMessage,Selecione um Membro.
+MemberCharaTop_CostumeChange,Mudar Traje
+MemberCharaTop_Profile,Perfil
+MemberCharaTop_AriaTalk,Mini História
+MemberCharaTop_Album,Álbum
+LiveSelect_UseStaminaBoost,Live com {0} de LP
+LiveSelect_NoneStaminaBoost,para Live
+LiveSelect_Note,"Para recuperar LP, selecione o método de recuperação.<br>"
+LiveSelect_Title,Confirmar LP
+LiveSelect_SettingStaminaNum,Consumir LP
+LiveSelect_HasStaminaNum,Quantidade
+LiveSelect_NoItem,Não possui.
+LiveSelect_PenaltyTitle,Restrição de função
+LiveSelect_PenaltyMessage,"Em Lives cooperativas, detectamos ações que prejudicam outros jogadores <br>. Limitaremos temporariamente algumas funções <br>. Aguarde até que a restrição seja removida."
+LiveSelect_PenaltyUnlockTime,Até a liberação
+LiveSelect_Belonging,Itens
+LiveSelect_Medal,Loveca
+LiveSelect_ConsumEventStamina,Consumir Miráculo Estrela {0}
+LiveSelect_EventTerm,Período:
+LiveSelect_EventRankingAll,Geral
+LiveSelect_EventRankingGroup,Grupos
+LiveSelect_EventRank,Posição
+LiveSelect_HasEventCandy,Possui Miraclestar
+LiveSelect_HasEventPick,Possui
+LiveSelect_HasEventTicket,Possui
+LiveSelect_EventCurrencyCandy,unid.
+LiveSelect_EventCurrencyPick,unid.
+LiveSelect_EventCurrencyTicket,unidades
+LiveSelect_EventAcquisitionCandy,（Dummy）Obtenha!
+LiveSelect_EventAcquisitionPick,（Dummy）Obtenha!
+LiveSelect_EventAcquisitionTicket,（Dummy）Obtenha!
+LiveSelect_EventCandyInfo,Colete e jogue o Live do evento!
+LiveSelect_EventPickInfo,Colete e vá para a loja!
+LiveSelect_EventTopPickInfo,Confira a cartela de bingo!
+LiveSelect_EventTicketInfo,Colete e gire a máquina caça-níqueis!
+LiveSelect_EventTopTicketInfo,Verifique a missão cooperativa!
+LiveSelect_TeacherLive,Live (dummy)
+LiveSelect_EventTermTitle,Período:
+LiveSelect_EventResultTermTitle,Período de anúncio dos resultados:
+LiveSelect_EventOpenLabel,Evento em andamento
+LiveSelect_EventCloseLabel,Evento encerrado
+LiveSelect_EventRemainDay,Evento termina em {0} dias
+LiveSelect_EventRemainTime,Faltam {0} até o fim do evento: {1:D2}
+LiveSelect_EventRankingAggregate,Classificação sendo calculada...
+LiveSelect_Aggregate,Aguarde.
+LiveSelect_NowRankingAgreegating,Ranking sendo calculado...
+LiveSelect_EventRewardGetTime,Período para receber a recompensa: {0}
+LiveSelect_EventClose,O evento terminou.
+LiveModeSelect_SoloLiveButton,Live Livre
+LiveModeSelect_MultiLiveButton,Live Cooperativo
+LiveModeSelect_MultiUnitSettings,Formação<br>Cooperativa
+Migration_TakeOver,Transferir dados
+Migration_IssueInfo,"Ao preparar a transferência de dados, você poderá transferir seus dados ao trocar de dispositivo.<br>Também pode ser usado como precaução contra a perda de dados ao desinstalar o aplicativo."
+Migration_IssueInfoNote,*Atenção: Verifique os passos antes de prosseguir.*
+Migration_Details,Detalhes da Migração
+Migration_IssueNote,"Ao transferir dados entre sistemas operacionais diferentes, o Loveca pago será convertido em Loveca gratuito. <br> Se a transferência for feita entre o mesmo sistema operacional, os dados serão transferidos como estão. <br> Ao transferir para um sistema operacional ou conta de loja diferente, cancele sua assinatura MIRACLE Pass com antecedência. <br> Se você tiver várias assinaturas/assinaturas duplicadas do MIRACLE Pass, não poderá receber benefícios duplicados."
+Migration_IssueNote2,"Ao realizar a transferência de dados, os dados do jogo neste dispositivo serão apagados e substituídos pelos dados do jogo original. <br> Se a transferência for feita entre sistemas operacionais diferentes, o Loveca pago será convertido em Loveca gratuito. <br> Se a transferência for feita dentro do mesmo sistema operacional, os dados serão transferidos como estão. <br> Ao transferir para um sistema operacional ou conta de loja diferente, cancele sua assinatura MIRACLE Pass com antecedência. <br> Se você tiver várias assinaturas/assinaturas duplicadas do MIRACLE Pass, não poderá receber os benefícios repetidamente."
+Migration_Process,Detalhes da Migração
+Migration_Setting,Configuração de Transferência de Dados
+Migration_SettingsInfo,Defina uma senha para a transferência de dados.
+Migration_ID,ID de Migração
+Migration_Password,Senha
+Migration_PasswordNote,* Use de 8 a 32 caracteres (letras e números)
+Migration_DispPassword,Mostrar senha atual
+Migration_SettingsButton,Definir
+Migration_Complete,Configuração de transferência concluída
+Migration_CompleteInfo,"A preparação para a transferência de dados foi concluída. <br> Após baixar o aplicativo no dispositivo de destino, insira o ID e a senha de transferência em ""Transferência de Dados"" no menu no canto superior direito da tela inicial. <br>"
+Migration_IDCopy,Copiado.
+Migration_CompleteNote,"Informações importantes, não compartilhe com terceiros <br>Salve anotações ou capturas de tela <br>A senha pode ser alterada posteriormente."
+Migration_Migration,Executar Migração de Dados
+Migration_MigrationInfo,Selecione o método de transferência que você configurou.
+Migration_MigrationInfo2,Insira o ID e a senha de transferência.
+Migration_MigrationInfo3,"Ao realizar as configurações de transferência abaixo, você poderá transferir seus dados ao trocar de dispositivo.<br>Também pode ser usado como precaução contra a perda de dados devido à exclusão do aplicativo."
+Migration_MigrationNote,"Ao transferir para um sistema operacional diferente, as Loveca pagas serão convertidas em Loveca gratuitas. <color=#C12424> Se a transferência for feita entre o mesmo sistema operacional, elas serão transferidas como estão. <br> Ao transferir para um sistema operacional ou conta de loja diferente, cancele sua assinatura MIRACLE Pass com antecedência. <br> Se você tiver várias assinaturas/assinaturas duplicadas do MIRACLE Pass, não poderá receber os benefícios repetidamente. <br> </color>"
+Migration_MigrationNote2,"Ao realizar a transferência de dados, os dados do jogo neste dispositivo serão excluídos e substituídos pelos dados do jogo original. <br> <color=#C12424> Se a transferência for feita entre sistemas operacionais diferentes, o Loveca pago será convertido em Loveca gratuito. <br> Se a transferência for feita no mesmo sistema operacional, ele permanecerá inalterado. <br> Ao transferir para um sistema operacional diferente ou uma conta de loja diferente, cancele sua assinatura MIRACLE Pass com antecedência. <br> Se você tiver várias assinaturas/assinaturas duplicadas do MIRACLE Pass, não poderá receber os benefícios repetidamente. </color>"
+Migration_MigrationNoteConfirm,"Ao realizar a transferência de dados, os dados do jogo neste dispositivo serão excluídos e substituídos pelos dados do jogo original. <br> <color=#C12424> Se a transferência for feita entre sistemas operacionais diferentes, o Loveca pago será convertido em Loveca gratuito. <br> Se a transferência for feita no mesmo sistema operacional, ele permanecerá inalterado. <br> Ao transferir para um sistema operacional diferente ou uma conta de loja diferente, cancele sua assinatura MIRACLE Pass com antecedência. <br> Se você tiver várias assinaturas/assinaturas duplicadas do MIRACLE Pass, não poderá receber os benefícios repetidamente. </color>"
+Migration_MigrationConfirm,Confirmar dados de transferência
+Migration_MigrationData,Dados do jogo a transferir
+Migration_MigrationDeleteData,Dados deste dispositivo
+Migration_UserID,ID do usuário
+Migration_UserName,Nome de usuário
+Migration_Rank,Rank do usuário
+Migration_ChargeMedal,ラブカ (paga)
+Migration_FreeMedal,Loveca grátis
+Migration_MigrationButton,Transferir dados
+Migration_MigrationFinalConfirm,Confirmação final
+Migration_MigrationFinalConfirmInfo,"Ao transferir os dados, o jogo será apagado deste dispositivo e substituído pelos dados da conta original <br>. Ao transferir entre sistemas operacionais diferentes, Loveca pago será convertido em Loveca gratuito <size=29>. Se a transferência for feita entre o mesmo sistema operacional, ele será transferido como está <br>. Ao transferir para um sistema operacional ou conta de loja diferente, cancele sua assinatura MIRACLE Pass com antecedência <br>. MIRACLE Pass com várias/assinaturas duplicadas não permitirá que você receba os benefícios repetidamente <color=#C12424>. <br> <br> <br> </size> </color>"
+Migration_MigrationFinalConfirmNote,<color=#C12424>Tem certeza que deseja transferir?</color>
+MemberList_DialogTitle,Alterar membro favorito?
+MemberList_DialogConfirm,Deseja alterar seu membro favorito?
+MemberList_ChangeButton,Sim
+MemberList_PhotoBoxButton,Repouso
+MemberList_TypeBonus,Bônus de Atributo
+MemberList_MemberBonus,Bônus de Membro
+MemberList_TypeAndMemberBonus,Atributo/Bônus de Membro
+MemberList_FilteringButton,Filtrar
+MemberList_SortButton,Ordenar
+MemberList_ThumbnailSize,Tamanho da miniatura
+MemberList_Change,Alterar
+MemberList_Small,Pequeno
+MemberList_Big,Grande
+MemberList_SizeChangeDialogTitle,Alterar tamanho da miniatura
+MemberList_SizeChangeDialogMessage,Selecione o tamanho de miniatura desejado.
+Option_ResetToDefaultButton,Config. padrão
+Option_LiveScreenPreview,Pré-visualização da tela de Live
+Option_Live_Title,Configurações de Live
+Option_Live_ConfirmBeforeLive,Mostrar opções antes do Live
+Option_Live_RhythmIconSpeed_Title,Velocidade dos Ícones de Ritmo
+Option_Live_RhythmIconSize_Title,Tamanho do ícone de ritmo
+Option_Live_LaneLength,Posição dos ícones de ritmo
+Option_Live_ComboPosition,Posição do COMBO
+Option_Live_InputResultPosition,Posição da exibição de acerto
+Option_Live_SkillEffectTextView,Mostrar efeito de habilidade
+Option_Live_CenterIcon,Reduzir ícone central
+Option_Live_PositonCenter,Centralizar
+Option_Live_PosiionUpper,Superior
+Option_Live_BluetoothConnectionState_Title,Bluetooth™
+Option_Live_BluetoothConnectionState_On,Conectando
+Option_Live_BluetoothConnectionState_Off,Não conectado
+Option_Live_TapTiming_Title,Ajustar toque
+Option_Live_TapTiming_Left_Title,Lado esquerdo da tela
+Option_Live_TapTiming_Right_Title,Lado direito da tela
+Option_Live_TapTiming_Center_Title,Ícone central
+Option_Live_TapTiming_Left_Button,Alinhar à esquerda
+Option_Live_TapTiming_Right_Button,Alinhar à direita
+Option_Live_TapTiming_Normal_Title,Normalmente
+Option_Live_TapTiming_Bluetooth_Title,Ao conectar via Bluetooth™
+Option_Live_TapTiming_Button,Ajustar Toque
+Option_Live_TapTiming_TestLive,Live de teste
+Option_Live_LongPressLineDepth_Title,Opacidade da linha de toque longo
+Option_Live_SameTimePressLine_Title,Mostrar linha de toques simultâneos
+Option_Live_SliderSameTimePressLine_Title,Mostrar linha de toque simultâneo do ícone swing
+Option_Live_Skill_Effect_Title,Efeito de corte especial
+Option_Live_TapTiming_Effect_Title,Mostrar tempo ideal
+Option_Live_RhythmIconMovePos_Title,Desaceleração dos ícones de ritmo
+Option_Live_RhythmIconMovePos_Type1,Diminui no final
+Option_Live_RhythmIconMovePos_Type2,Diminui no início
+Option_Live_ComboUITransparent_Type3,Velocidade constante
+Option_Live_ComboTransparent,Tamanho da exibição do combo
+Option_Live_ComboSize,Tamanho da exibição do combo
+Option_Live_InputResultTransparent,Opacidade da avaliação
+Option_Live_InputResultSize,Tamanho da exibição de acerto
+Option_Live_RhythmIconPos,Altura do ícone de ritmo
+Option_Live_RhythmIconStartPos,Altura do ícone central
+Option_Live_FpsSetting,FPS durante o Live
+Option_Live_Mirror_Title,Inverter de notas
+Option_Live_LaneEffect_Title,Efeitos de trilha
+Option_Live_FillsUpLivePosition_Title,Adicionar Membro
+Option_Live_Bluetooth_Caution,A conexão de dispositivos Bluetooth deve seguir as configurações de cada dispositivo.<br>
+Option_Live_Movie_Disp,Vídeo do Live
+Option_Live_Movie_Brightness,Brilho do vídeo Live
+Option_Live_Movie_Caution,O padrão é [LIGADO].
+Option_LiveSkin_Title,Configuração do Ícone Live
+Option_LiveSkin_Lane_Title,Linhas e efeitos de toque
+Option_LiveSkin_LaneBrightness_Title,Brilho das linhas
+Option_LiveSkin_TapEffect_Title,Efeito de Toque
+Option_LiveSkin_RhythmIcon_Title,Design das notas
+Option_LiveSkin_SE_Title,Som de toque
+Option_LiveSkin_SE_TapButton,Teste do som de toque
+Option_LiveSkin_SE_FlickButton,Teste do som de deslizar
+Option_LiveProduction_Title,Ajuste de volume
+Option_LiveProduction_Production_Title,Efeitos do Live
+Option_LiveProduction_ActionMode_Title,Modo de operação
+Option_LiveProduction_ActionMode_Regular,Normal
+Option_LiveProduction_LiveEffect,Efeitos Live
+Option_LiveProduction_ActionMode_Light,Leve
+Option_LiveProduction_ActionMode_Full,Alta Qualidade
+Option_LiveProduction_LiveMonitor,Monitor Live
+Option_LiveProduction_TapEffectSize,Tamanho do efeito de toque
+Option_LiveProduction_MemberCutIn_Title,(Dummy)
+Option_LiveProduction_ShowSkillEffect_Title,Mostrar efeito de habilidade
+Option_LiveProduction_PlayClimaxMovie_Title,(Dummy) Cena
+Option_LiveProduction_Volume_Title,Volume do Live
+Option_LiveProduction_Volume_Music,Música
+Option_LiveProduction_Volume_SE,Efeitos Sonoros
+Option_LiveProduction_Volume_Tap,Efeitos sonoros
+Option_LiveProduction_Volume_Voice,Voz
+Option_Volume_Title,Ajuste de volume
+Option_Volume_LiveSettings,Configurações de volume do Live
+Option_Volume_MusicVolume,Volume da música
+Option_Volume_SEVolume,Efeitos sonoros
+Option_Volume_OtherSettings,Outras configurações de volume
+Option_Volume_BGMVolume,Volume BGM
+Option_System_Title,Configurações do sistema
+Option_System_Volume_Title,Volume do sistema
+Option_System_Volume_BGM,Volume da música
+Option_System_Volume_SE,Efeitos sonoros
+Option_System_Volume_Voice,Voz
+Option_System_Download_Title,Baixar
+Option_System_Download_Button,Download<br>Antecipado
+Option_System_Download_LiveMember,Animação de Membros no Live
+Option_System_Notification_Title,Configurações de notificação
+Option_System_Notification_Stamina_Full,Totalmente recuperado
+Option_System_Notification_Midnight,Notificações noturnas
+Option_System_Notification_Detail,"Se as notificações estiverem desativadas nas configurações do dispositivo, você não receberá notificações do aplicativo.<br>O período noturno é das (0:00 às 5:59)."
+Option_System_Alert_Title,Configurar alertas
+Option_System_Alert_UseTooMuch,Alerta de gastos
+Option_System_Alert_Detail,Uma tela de confirmação será exibida quando o valor gasto em um mês exceder 100.000.
+Option_System_Others_Title,Outras configurações
+Option_System_FixScreenDirection,Fixar rotação da tela
+Option_System_StaminaConfirm,Confirmação de LP insuficiente
+Option_System_AutoBurstConfirm,Confirmação de falta de tickets para pular.
+Option_System_BatteryConfirm,Aviso de bateria
+Option_System_BluetoothConfirm,Confirmar conexão Bluetooth™
+Option_System_HomeSceneMoviePlay,Vídeo na tela inicial
+Option_System_IgnoreGachaUrEffect,Pular animação apenas de UR
+Option_System_Live2D_Character_Title,Membros exibidos
+Option_System_Live2D_Character_UseRecommend,Membro favorito
+Option_System_Live2D_Character_UseDeck,Membros do grupo
+Option_System_Live2D_Character_Detail,A lista de Membros será atualizada ao mudar de tela.
+Option_System_FpsToggle,FPS
+PresentBox_Scroll_AcquiredDateTimeLabel,Obter data/hora
+PresentBox_Scroll_ReceivedDateTimeLabel,Data de recebimento
+PresentBox_Scroll_ExpireDateTimeLabel,Data de Expiração
+PresentBox_Tab_Receivable,Não recebido
+PresentBox_Tab_Received,Histórico de recebimentos
+PresentBox_Title,Presente
+PresentBox_MainTitle,Lista de presentes
+PresentBox_SubTitle,Presente
+PresentBox_Receive,Receber
+PresentBox_AllReceive,Receber tudo
+PresentBox_EmptyReceivable,Não há presentes para exibir.
+PresentBox_EmptyReceived,Não há presentes para exibir.
+PrivateEnter_Title,Pesquisar Live
+PrivateEnter_ConfirmTitle,Confirmar participação no Live
+PrivateEnter_Message,Insira o ID do Live de 6 dígitos.
+PrivateEnter_RoomID,ID do Live
+PrivateEnter_EnterButton,Entrar
+PrivateEnter_SearchButton,Pesquisar
+PrivateEnter_ConfirmRoom,Live cooperativo {0}
+PrivateEnter_ConfirmEventRoom,Evento (Demonstração) Live
+PrivateEnter_ConfirmRoomID,Sala: {0}
+PrivateEnter_ConfirmJoinMessage,Live com ID correspondente encontrado.<br>Deseja participar do Live?
+PrivateEnter_ConfirmJoinNotConditionMessage,Você não atende aos requisitos para participar deste Live <br> <br> Requisitos do Live <br> {0}
+PrivateEnter_ConfirmJoinNotTotalPowerMessage,Não é possível participar devido à pontuação insuficiente.
+PrivateEnter_ConfirmUserName,Nome de usuário
+PrivateCreate_Title,Criar Live
+PrivateCreate_RoomCompleteTitle,Criação de Live Concluída
+PrivateCreate_Message,Digite no máximo {0} caracteres!
+PrivateCreate_RoomTypeTitle,Recompensa do Live
+PrivateCreate_RoomTypeNormal,Normal
+PrivateCreate_RoomTypeSpecial,Dia da semana
+PrivateCreate_RoomConditionTitle,Nome do Live
+PrivateCreate_RoomConditionFree,PASS LIVRE
+PrivateCreate_RoomConditionBasic,PASS BÁSICO
+PrivateCreate_RoomConditionElite,ELITE PASS
+PrivateCreate_RoomConditionMaster,PASS MASTER
+PrivateCreate_RoomIDTitle,ID do Live
+PrivateCreate_CommentTitle,Comentário rápido
+PrivateCreate_CommentInput,Insira até 10 caracteres.
+PrivateCreate_IDCopyButton,Copiar ID
+PrivateCreate_CreateButton,Criar
+PrivateCreate_EnterButton,Entrar
+PrivateCreate_RoomIdCopy,Copiei o ID do Live.
+PrivateCreate_ConfirmMessage,Live criado.<br>Deseja participar do Live?
+FriendInviteReceive_Title,Convite de Amigo
+FriendInviteReceive_Check,Verificando convite de amigo...
+FriendInviteReceive_NotMessage,Não há convites de amigos para Lives cooperativas no momento.<br>Você pode criar uma Live privada e convidar seus amigos.
+FriendInviteSend_Title,Convite de Amigo
+FriendInviteReceive_SubTitle,Você recebeu um convite para um Live colaborativo de um amigo.<br>Selecione o Live que deseja participar.
+FriendInviteSend_Message,Enviar convite para todos os amigos?
+FriendInviteSend_CheckMessage,Enviar apenas para amigos selecionados.
+DeckTop_DeckEditTag,Formação<br>da Equipe
+DeckTop_CostumeTag,Mudar Traje
+DeckTop_PracticeTag,Lição
+DeckTop_SkillPracticeTag,スキル<br>練習
+DeckTop_TrainingTag,Despertar
+DeckTop_MemberListTag,Idol<br>Lista
+DeckTop_ExchangeTag,Troca
+DeckTop_CharacterIllustrateTag,Membros
+DeckCharaSelect_LeaderChangeButton,Definir Líder
+DeckCharaSelect_ParamNothing,---
+DeckCharaSelect_SubDeckNoSkill,Idols do subgrupo não ativam habilidades.
+SortDialog_Title,Ordenar Idols
+SortDialog_FilteringTitle,Filtrar
+SortDialog_SortTitle,Ordenar
+SortDialog_DefaultButton,Desmarcar tudo
+SortDialog_AllSelectButton,Selecionar tudo
+SortDialog_AllReleaseButton,Desmarcar tudo
+SortDialog_LiveSkillWord,Habilidade
+SortDialog_LiveSkillScoreUp,Aumento de Pontos
+SortDialog_LiveSkillConditionalScoreUp,Condicional<br>Bônus de Pontos
+SortDialog_LiveSkillScoreUpAndLifeHeal,Aumento de Pontos e<br>Recuperação de Vida
+SortDialog_LiveSkillScoreUpAndResultUp,Aumento de pontuação e<br>melhora de precisão
+SortDialog_LiveSkillPowerHeal,Recuperação de HP
+SortDialog_LiveSkillEnhance,Precisão aumentada
+SortDialog_LiveSkillOther,Outros
+SortDialog_LiveSkillConditionalOnlyScoreUp,Condição específica<br>bônus de pontuação
+SortDialog_LiveSkillEnergyConditionalLifeHealScoreUp,HP Condicional<br>Aumento de Pontos ou Cura
+SortDialog_FilterGroup,Grupo
+SortDialog_FilterType,Atributo
+SortDialog_FilterAwakening,Despertar
+SortDialog_AwakeningAll,Todos
+SortDialog_Awakened,Despertado
+SortDialog_Unawakened,Não Despertado
+SortDialog_PassiveSkillWord,Habilidade Passiva
+SortDialog_PassiveSkillEffectWord,Alvo do efeito
+SortDialog_PassiveSkillEffectPart,Posição do Instrumento
+SortDialog_PassiveSkillEffectPartRole,Posição
+SortDialog_PassiveSkillEffectPartAndPartRole,Ambos
+SortDialog_PassiveSkillPartWord,◆Instrumento/Parte Afetada◆
+SortDialog_PassiveSkillSuitWord,◆Atributo da Idol afetada◆
+SortDialog_PassiveSkillMatchBothWord,◆Condições Combinadas◆
+SortDialog_PassiveSkillSubPartWord,◆Outros◆
+SortDialog_PassiveSkillSubPartWordPowerUp,HP inicial +
+SortDialog_EpisodeReadAll,Todos
+SortDialog_EpisodeReadNotEpisode,História não lida
+SortDialog_EpisodeReadNotSpecialEpisode,Especial<br>História não lida
+SortDialog_SortAllStatus,Força total
+SortDialog_SortSoul,Smile
+SortDialog_SortTechnic,Pure
+SortDialog_SortAppeal,Cool
+SortDialog_SortUnlock,Ordem de aquisição
+SortDialog_SortRarity,Rareza
+SortDialog_SortLevel,Nível
+SortDialog_SortSkillLevel,Nível de habilidade
+SortDialog_SortSkill,Por Habilidade
+SortDialog_SortMember,Membro
+SortDialog_SortFavorite,Favoritar
+SortDialog_SortHp,HP
+SortDialog_Kizuna,Laço
+SortDialog_EventPtBonus,Bônus de evento
+SortDialog_TypeAll,Todos os membros
+SortDialog_PassiveSkillMatchBothAnd,Ambos os atributos e a parte do instrumento devem corresponder para que o efeito seja ativado.
+SortDialog_PassiveSkillMatchBothOr,Atributo ou parte musical coincidem
+CostumeSelectPortrait_Top,Toque nesta tela para sair do modo de tela cheia.<br>
+CostumeSelectPortrait_Selected,Selecionando
+LocalNotification_Title,スクフェス2
+LocalNotification_Ticker,LP totalmente recuperado.
+LocalNotification_Message,LP totalmente recuperado.
+LocalNotification_Description,Notificação
+LiveDownload_State_Downloading,Carregando...
+LiveDownload_State_Complete,Pronto!
+LiveScene_Dialog_ContinueTitle,Retomar Live
+LiveScene_Dialog_ContinueMessage,Consumir <color=#C12424> {0} Loveca(s) </color> e restaurar totalmente o HP para retomar o Live?
+LiveScene_Dialog_ContinueGemShortageTitle,Loveca insuficiente
+LiveScene_Dialog_ContinueGemShortageMessage,Não há Loveca suficiente.<br>Não é possível retomar o Live.
+LiveScene_Dialog_FailureTitle,Live Falhou
+LiveScene_Dialog_FailureMessage,"HP acabou <br> <br> Ao consumir <color=#C12424> {0} Loveca, você pode restaurar totalmente o HP e continuar </color> <br>."
+LiveScene_Dialog_FailureMessage_EventSpirit,"HP acabou <br> <br> Ao consumir <color=#C12424> {0} Loveca, você pode restaurar totalmente o HP e continuar </color> <br>."
+LiveScene_Dialog_PauseTitle,Pausar
+LiveScene_Dialog_PauseMessage,"Deseja encerrar o Live e retornar à seleção de músicas? <br> <br> <color=#C12424> Note que, ao encerrar, nenhum LP será consumido. </color>"
+LiveScene_Dialog_PauseMessage_EventChallenge,"Deseja encerrar o Live e retornar à seleção de músicas? <br> <br> <color=#C12424> Observe que, ao encerrar, nenhum Miracle Star será consumido. </color>"
+LiveScene_Dialog_RetireConfirmTitle,Encerrar Live
+LiveScene_Dialog_RetireConfirmMessage,"Ao encerrar o Live, você não poderá obter a recompensa. <br> Deseja retornar ao Live e continuar jogando? <br> <br> <color=#C12424> Observe que, ao encerrar, o LP será consumido. </color>"
+LiveScene_Dialog_RetireConfirmMessage_EventChallenge,"Ao encerrar o Live, você não poderá obter a recompensa. <br> Deseja retornar ao Live e continuar jogando? <br> <br> <color=#C12424> Observe que, ao encerrar, os Miracles Stars não serão consumidos. </color>"
+LiveScene_Dialog_SuspendButton,Encerrar Live
+LiveScene_Dialog_CancelButton,Pausar
+LiveScene_Dialog_ReheasalRetryConfirmMessage,Deseja encerrar o Live e começar de novo?
+LiveScene_Dialog_ReheasalRetireConfirmMessage,Deseja encerrar o Live e retornar à seleção de músicas?
+LiveScene_MultiWaitOtherPlayerLoading,Membro se preparando...
+LiveScene_MultiWaitOtherPlayerPlaying,Membro em Live...
+LiveScene_MultiUserIntroduction_Vs,Fazer Live com este jogador
+LiveScene_MultiUserIntroduction_EventHomework,Fazer Live com este jogador
+LiveScene_SkillBoard_Trigger,Ativar Habilidade
+LiveScene_VoltageGaugeLv1,(DUMMY) NV 1
+LiveScene_VoltageGaugeLv2,(DUMMY) NV 2
+LiveScene_VoltageGaugeLv3,(DUMMY) NV 3
+LiveScene_VoltageGaugeLv4,(Dummy) NV 4
+LiveScene_VoltageGaugeLvMax_ClimaxReady,CLIMAX – Preparando!
+LiveScene_VoltageGaugeLvMax_ClimaxPlaying,CLIMAX ATIVADO!!
+LiveScene_VoltageGaugeLvMax_ClimaxEnd,Fim do CLÍMAX
+LiveScene_VoltageGaugeLvMax_ClimaxPerfect,CLÍMAX PERFEITO!!
+LiveScene_AutoPlayComment,"A pontuação será aplicada, pois está no modo automático."
+LiveScene_Dialog_RestartConfirmTitle,Recomeçar do início
+LiveScene_Dialog_RestartConfirmMessage,"Deseja encerrar o Live e começar de novo? <br> <br> <color=#C12424> Caso encerre, LP não será consumido. </color>"
+LiveScene_Dialog_RestartConfirmMessage_EventSpirit,"Deseja encerrar o Live e começar do início? <br> <br> <color=#C12424> Caso encerre, não consumirá seus Miracle Stars. </color> <br> <br>"
+LiveScene_Dialog_ContinueSpiritShortageTitle,Milagre Estrelar Insuficiente
+LiveScene_Dialog_ContinueSpiritShortageMessage,Miracle Stars insuficientes <br>. Miracle Stars podem ser obtidas <br> ao jogar músicas normais <br> <br> <br>.
+CooperationLive_RoomRestriction,Restrição Live
+CooperationLive_NormalRoom,Normal
+CooperationLive_SpecialRoom,Dia da semana
+CooperationLive_EventRoom,Evento
+Notice_DialogTitle,Nova música!
+Notice_DialogSchool,(Dummy)
+Notice_DialogWordsDefault,Letra:
+Notice_DialogCompositionDefault,Composição:
+Notice_DialogArrangerDefault,Arranjo:
+MusicDetail_DialogTitle,Detalhes da Música
+MusicDetail_RecievedLabel,Obtido
+MusicDetail_RemainLabel,Mais {0} vezes
+MusicDetail_FirstLabel,Primeira Recompensa
+MusicDetail_ClearReward,Recompensa garantida
+MusicDetail_RandomReward,Recompensa Aleatória de Conclusão
+MusicDetail_DetailTab,Info da Música
+MusicDetail_RewardTab,Recompensa por Conquista
+MusicDetail_Reference,Fonte: {0}
+MusicSelect_HighScore,Melhor Pontuação
+MusicSelect_MyRankingHighScore,Seu<br>
+MusicSelect_ClearRamp,Status de conclusão
+MusicSelect_TeacherPoint,Taxa de High Score
+MusicSelect_TeacherPointSum,Taxa geral de pontuação alta
+MusicSelect_CategoryButton,Gênero
+MusicSelect_SortButton,Filtrar
+MusicSelect_ClearBonusButton,Recompensa por Conquista
+MusicSelect_RandomButton,Aleatório
+MusicSelect_SortApplyDataBar,Aplicando
+MusicSelect_ObtainTypeShopMessage,Comprar na loja de músicas
+MusicSelect_ObtainTypeShopButton,Ir para a loja de músicas
+MusicSelect_ObtainTypeMissionMessage,Complete a missão <br> «{0}» <br>.
+MusicSelect_ObtainTypeMissionButton,Missões
+MusicSelect_ObtainTypeStoryMessage,Recompensa por visualizar o capítulo <br> «{0}» <br> da história principal.
+MusicSelect_ObtainTypeStoryButton,Para a história
+MusicSelect_ObtainTypePlayerRankMessage,atingir o rank {0}
+MusicSelect_ObtainTypeNoneMessage,Condição de desbloqueio não definida.
+MusicSelect_ObtainTypeNoneButton,Não definido
+MusicSelect_UnlockTitle,Requisitos de desbloqueio
+MusicSelect_SortDialogTitle,Ordenar
+MusicSelect_RefineDialogTitle,Filtrar
+MusicSelect_FilterCategoryTitle,Gênero
+MusicSelect_FilterOtherTitle,Outros
+MusicSelect_SortTitle,Ordenar por
+MusicSelect_FilterCategoryAll,Todos
+MusicSelect_FilterCategoryCharacterSong,(Dummy)
+MusicSelect_FilterCategoryCoupling,(Dummy)
+MusicSelect_FilterCategorySongWithinPlay,(Dummy)
+MusicSelect_FilterCategoryOther,Outros
+MusicSelect_FilteRefineNone,Nenhum filtro
+MusicSelect_FilterRefineFavorite,Favoritar
+MusicSelect_FilterRefineNotClear,Não concluído
+MusicSelect_FilterRefineNotScoreSS,Não tem rank SS
+MusicSelect_FilterRefineNotFullCombo,Não FC
+MusicSelect_FilterRefineNotAllPerfect,Não perfeito
+MusicSelect_SortDefault,Padrão
+MusicSelect_SortMusicName,Por nome da música
+MusicSelect_SortReleaseTime,Data de lançamento
+MusicSelect_SortMusicLevel,Nível
+MusicSelect_SortHighScore,Maior Pontuação
+MusicSelect_Ranking,RANKING
+MusicSelect_AllTab,Todos
+MusicSelect_NoClearRate,--:--%
+MusicRanking_Score,PONTUAÇÃO
+MusicRanking_Rank,RANK
+MusicRecommend_RecommendList,Lista de recomendações
+MusicRecommend_RecommendListCancel,Remover lista recomendada
+MusicRecommend_UseThisList,Usar lista
+MusicFilterAutoSort_DialogTitle,Seleção automática
+MusicFilterAutoSort_Random,Aleatório
+MusicFilterAutoSort_NonPlay,Músicas não tocadas
+MusicFilterAutoSort_RecentPlay,Músicas tocadas recentemente
+MusicFilterAutoSort_RecentRelease,Músicas lançadas recentemente
+MusicGoal_DialogTitle,Objetivo da Música
+MusicGoal_ScoreLabel,PONTUAÇÃO |
+MusicGoal_HighScore,MAIOR PONTUAÇÃO
+MusicGoal_ComboLabel,COMBO |
+MusicGoal_Combo,COMBO
+MusicGoal_MaxCombo,MAIOR COMBO
+MusicGoal_FullComboLabel,FULL COMBO |
+MusicGoal_ClearLabel,CONCLUÍDO |
+MusicGoal_ClearCount,Número de clears
+MusicGoal_Count,vez
+MusicGoal_Achievement,Conquista
+MusicGoal_AchievementRate,Entre todos os jogadores<br>Taxa de conclusão
+MusicGoal_HighOrder,Top
+MusicGoal_UnPlayed,Não jogado
+CooperationLive_TotalPower,Força total da unidade principal:
+CooperationLive_NormaType,Normal
+CooperationLive_SpecialType,Dia da semana
+CooperationLive_StampSettingButton,Definir Selo
+CooperationLive_PrivateButton,Privado
+CooperationLive_FriendsInviteButton,Convite de Amigo
+CooperationLive_DeckEditButton,Formação de Unidade
+CooperationLive_MatchingDialogTitle,Buscando partida
+CooperationLive_MatchingDialogMessage,Buscando Lives.
+CooperationLive_CreateRoomDialogTitle,Criando Live
+CooperationLive_CreateRoomDialogMessage,Criando o Live
+CooperationLive_MatchingDialogAnnotation,"Em horários de pico, pode demorar."
+CooperationLive_PrivateSelectDialogTitle,Live Privado
+CooperationLive_PrivateSelectDialogEnterMessage,Insira o ID do Live e <br>entre.
+CooperationLive_PrivateSelectDialogEnterButton,Entrar
+CooperationLive_PrivateSelectDialogCreateMessage,Defina as condições e<br>crie o Live.
+CooperationLive_PrivateSelectDialogCreateButton,Criar
+CooperationLive_RoomTypeRewardInfo,{0} Aumente!
+CooperationLive_RoomTypeRewardWeekMonday,Segunda-feira limitada
+CooperationLive_RoomTypeRewardWeekTuesday,Terça limitada
+CooperationLive_RoomTypeRewardWeekWednesday,Quarta-feira limitada
+CooperationLive_RoomTypeRewardWeekThursday,Quinta-feira limitada
+CooperationLive_RoomTypeRewardWeekFriday,Sexta-feira limitada
+CooperationLive_RoomTypeRewardWeekSaturday,Sáb. Limitado
+CooperationLive_RoomTypeRewardWeekSunday,Domingo limitado
+FriendInviteItem_RoomCreater,Nome de usuário
+FriendInviteItem_RoomType,Atributo Live
+FriendInviteItem_RoomCondition,Restrição Live
+FriendInviteItem_RoomComment,Comentário rápido
+FriendInviteItem_RoomName,Nome do Live
+FriendInviteItem_RoomReward,Recompensa do Live
+FriendInviteItem_RoomSessionID,ID do Live
+FriendInviteItem_JoinButton,Entrar
+LiveMatching_PrivateRoomTitle,ID：
+LiveMatching_RoomConditionTitle,Nome do Live:
+LiveMatching_RoomTypeInfoTitle,Recompensa Live:
+LiveMatching_PlayerTitle,{0} P
+LiveMatching_Support,Suporte
+LiveMatching_WaitMessage,Aguarde... Encontre membros para começar.
+LiveMatching_WaitMessageInfo,É possível iniciar o Live com 2 ou mais jogadores.
+LiveMatching_RoomTypeNormal,Normal
+LiveMatching_RoomTypeEvent,Dia da semana
+LiveMatching_MatchedMessage,Membros decididos! Iniciando a seleção de músicas.
+LiveMatching_RoomOpenButton,Live Liberado
+LiveMatching_InviteFriendButton,Convite de Amigo
+LiveMatching_DecideButton,Membro Confirmar
+MatchingPlayer_Wait,Aguardando...
+LoginBonus_HoldingPeriod,Período:
+LoginBouns_Season,{0} a {1} — {2} {3}
+LoginBouns_Days,Dia {0}
+LoginBouns_EventBonusValue,+{0}
+MultiConfirm_LevelLabel,Nível da música
+MultiConfirm_OptionButton,Configurações
+MultiConfirm_HealthyBoostButton,Definir LP
+MultiConfirm_StartButton,Pronto para começar
+MultiConfirm_Waiting,Aguardando
+CooperationLiveInfo_Title,Recompensa do Live
+CooperationLiveInfo_Message1,"Em ""Lives"" semanais, você pode obter recompensas fixas para cada dia da semana <br>. <br>* Em ""Lives"" normais, as recompensas serão as usuais."
+CooperationLiveInfo_Message2,"Mês {0}, <br>, Terça {1}, <br>, Quarta {2}, <br>, Quinta {3}, <br>, Sexta {4}, <br>, Sábado {5}, <br>, Domingo {6}"
+CooperationLiveInfo_Message3,Itens que não são alvo do aumento de recompensa têm a quantidade ajustada.<br>
+CooperationLiveInfo_dailyEffect,Aumento na taxa de {0}!
+Stamp_FavoriteTitle,Favoritar
+Stamp_RemoveButton,Remover
+Stamp_ResetButton,Reiniciar
+Profile_RankFriend,Amigos máx.: {0} → {1}
+Profile_RankReward,{0} {1} itens
+GachaTop_PickUpPhotoDetailTitle,Detalhes da Idol
+GachaTop_PhotoDetailTitle,Detalhes da Idol
+Ornament_OrnamentListTitle,Lista de itens
+OrnamentShop_OrnamentReplaceTitle,Substituir pelo item equipado?
+GachaTop_PickUpPhotoDetailButton,Detalhes da Idol
+GachaTop_InfoDetailButton,Recrutamento Detalhado
+GachaTop_ExchangeButton,Troca
+Notice_GroupExpNoticeWindowTitle,Grupo Rank
+Button_Download,Baixar
+Mission_AcceptAllButtonText,Receber tudo
+MusicDecision_MusicLevelArea,{0} ~ {1}
+MusicDecision_RandomMusicTitle,Aleatório
+MusicDecision_RandomMusicLevel,Aleatório
+MusicDecision_LiveLevelReselectButton,Redefinir
+MusicDecision_ShuffleMessage,Realizaremos o sorteio da música.
+MusicDecision_DifficultySelectMessage,Selecione a dificuldade para jogar.
+EventTop_ScoreRanking,Ranking Geral de Pontuação
+EventTop_GroupScoreRanking,Ranking por Grupo
+EventTop_Season,Até {0}
+EventTop_UntilRewardPoint,Até {0} pt
+EventTop_NextEventPoint,Faltam pt
+EventTop_NextEventHomeworkPoint,Faltam
+EventTop_TotalEventPoint,Total de pontos do evento
+EventTop_HasHomeworkPoint,Missões cooperativas concluídas:
+EventTop_HasStamina,Possui Miraclestar
+EventTop_HasBadge,Possui Picks:
+EventTop_HasMedal,Possui Loveca:
+EventTop_HasTicket,Possui Ticket:
+EventTop_NextStory,★Próxima história
+EventTop_NextReward,★Próxima Recompensa
+EventTop_NowHomework,★Tarefa atual
+EventTop_AllGetReward,Todos obtidos
+EventTop_AllGetStory,Todas as histórias desbloqueadas
+EventTop_ExchangeButton,Troca
+EventTop_BingoButton,BINGO
+EventTop_BoxGachaButton,Recrutamento (Caixa)
+EventTop_ChangeHomeworkButton,Mudar Tarefa
+EventTop_HomeworkMusicLevel,Nível da música
+EventTop_HomeworkMusicLevelValue,Fim
+EventTop_CloseExchangeShopTerm,A loja estará disponível até {0}.
+EventTop_CloseBoxGachaTerm,(Dummy) até {0}
+EventTop_StoryButtonNextPoint,Faltam P
+EventTop_StoryButtonNextPointHomework,Faltam
+EventTop_TermTitle,Período:
+EventTop_ResultTermTitle,Período de anúncio dos resultados:
+EventTop_EmotionalMemberSelectTermTitle,[Seleção de Membros]
+EventTop_EmotionalBandSelectTermTitle,[Período de Seleção de Grupo]
+EventTop_Multi_HelpterBonus,Recompensa por ajudar
+EventTop_Multi_TodayHelpterCount,Número de participações hoje
+EventTop_Multi_AlreadyPlayedHelper,Já jogou o número máximo de vezes hoje.
+EventTop_Multi_UnitSettings,Formação de Unidade<br>exclusiva do evento
+EventTop_Multi_Live,Live com todos!
+EventTop_Multi_LiveEx,Live com todos!
+EventTop_Multi_FreeMatching,Partida Livre
+EventTop_Multi_FreeMatching_Info,Jogue com outros jogadores!
+EventTop_Multi_PrivateMatching,Partida Privada
+EventTop_Multi_PrivateMatching_Info,Convide amigos e divirtam-se!
+EventTop_Multi_Join,Entrar
+EventTop_Multi_HelperJoin,Ajudar na partida
+EventTop_Multi_HelperCondition,"Complete o nível de dificuldade {0} ou superior, tenha {1} pontos e ajude com {2} pontos."
+EventTop_Multi_Room,Para o room
+EventTop_Multi_Room2,No(a) quarto(s)
+EventTop_Multi_RoomCreate,Criar
+EventTop_Multi_RoomJoin,Entrar
+EventTop_Multi_HelperToday,Hoje
+EventTop_Multi_HelperCount,{0}/{1}
+EventTop_Multi_MatchingTitle,Escolha a dificuldade
+EventTop_Multi_MatchingTitleHelper,Adicionar Membro de Apoio
+EventTop_Multi_RoomCreateDialog_Info,Selecione a dificuldade.
+EventTop_Multi_RoomCreateDialog_Info2,"Você pode selecionar várias dificuldades.<br>Se você selecionar várias, a correspondência será feita aleatoriamente entre as dificuldades selecionadas."
+EventTop_Multi_RoomCreateDialog_Info3,Selecione uma dificuldade.
+EventTop_Multi_RoomCreateDialog_Info4,Você poderá jogar o Live com a dificuldade selecionada.
+EventTop_Multi_RoomCreateDialog_Error,Nenhuma dificuldade selecionada.
+EventTop_Multi_RoomCreateDialog_Start,Iniciar busca
+EventTop_Multi_RoomSearchDialog_Info,Insira o ID da sala.
+EventTop_Multi_RoomSearch_NotFindRoom,O ID da sala está incorreto ou a sala está cheia.
+EventTop_Multi_PenaltyInfo,A conexão foi interrompida ou foram detectadas várias tentativas de trapaça.<br>O acesso ao modo Live deste evento será temporariamente restrito.
+EventTop_Multi_RemainPenalty,Restrição termina em
+EventTop_Multi_Confirmation,Confirmar
+EventTop_Multi_NotEnoughPower,O status não atingiu o valor necessário para ajudar.
+EventLive__Multi_PointPenalty,"Obter pts de evento, -50%"
+EventLive__Multi_NotSelectedLevel,Nenhuma dificuldade selecionada.
+EventLive__Multi_Matching,Buscando sala ({0}/{1})
+EventLive__Multi_JoiningRoom,Participando da sala
+EventLive__Multi_FailedToJoinRoom,Falha ao entrar na sala.
+EventLive__Multi_NotFoundRoom,O ID da sala está incorreto ou a sala está cheia.
+EventLive__Multi_CreatingRoom,Criando sala
+EventLive__Multi_FailedToCreateRoom,Falha ao criar o lobby. Tente novamente mais tarde.
+EventLive__Multi_NotFoundHelperRoom,Não foram encontrados eventos para participar.
+EventLive__Multi_ConnectingToMatchingServer,Conectando ao servidor de matchmaking
+EventResult_Multi_Helper,Ajudar
+EventResult_Multi_Disconnected,Conexão interrompida.
+EventResult_Multi_ConfirmingResult,Confirmando resultado do Live
+EventResult_Multi_LeaveRoom,Sair...
+EventResult_Multi_Retry,Tentar novamente
+EventMusicSelect_HighScore,Evento<br>Maior Pontuação
+EventMusicSelect_ScoreRanking,Ranking de Pontuação
+EventMusicSelect_StaminaUseDialogTitle,Confirmar uso de Miraclestars
+EventMusicSelect_StaminaUseDialogMessage,Usar {0} Miracles Stars para começar o Live? <br> ※Não consome LP.
+EventMusicSelect_StaminaUseDialogHasStamina,Miracle Star {0}
+EventMusicSelect_StaminaConfirmCheck,Não perguntar sobre o uso de Mirakuru Sutā até o fim do evento.
+EventStory_NextEventPoint,Pontos de evento
+EventStory_NextEventHomework,Total de tarefas concluídas
+EventStory_ReleaseInfoEventPoint,Colete pontos de evento no Live!
+EventStory_ReleaseInfoEventHomework,Jogue o evento e complete as missões!
+EventStory_EndReleaseStory,O evento terminou. <br> Este cenário será lançado em {0}.
+EventRanking_TabScoreRanking,Ranking de Pontuação das Músicas
+EventRanking_TabGroupScoreRanking,Ranking por Grupo
+EventRanking_TabPointRanking,Ranking de Pontos do Evento
+EventRanking_TabEmotionalRanking,Top 100 do Ranking
+EventRanking_TotalScore,Total de Pontos
+EventRanking_ScoreRanking,Ranking da Pontuação Total
+EventRanking_ChangeButton,Mudar
+EventRanking_InfoMessage,Os resultados das suas jogadas até {0} serão refletidos.
+EventRanking_TopRanking,Top Players
+EventRanking_YourRanking,Você
+EventRanking_ScoreRankingTitle,Pontuação da música
+EventRanking_PointRankingTitle,Total de pontos do evento
+EventRanking_EmotionalRankingBandSelectTitle,Selecionar Grupo
+EventRanking_EmotionalRankingMemberSelectTitle,Seleção de Membro
+EventRanking_LookEmotionalRankingOtherBands,Ver outros grupos
+EventRanking_LookEmotionalRankingOtherMembers,Ver outros membros
+EventReward_TotalEventPointReward,Recompensa por Pontos Totais do Evento
+EventReward_ScoreRankingReward,Ranking Geral de Pontuação
+EventReward_GroupScoreRankingReward,Ranking por Grupo
+EventReward_MusicScoreRankingReward,Músicas do evento<br>ranking
+EventReward_EventPointRankingReward,Pontos do evento<br>Ranking
+EventReward_EmotionalRankingReward,Ranking de Favoritos <br>
+EventReward_TotalEventPoint,Total de pontos do evento
+EventReward_YourRank,Sua posição
+EventReward_RankingButton,Ver Ranking
+EventReward_EmotionalRankingJoinText,Participando de {0}
+EventReward_RankingFromTo,{0} a {1}
+EventReward_RankingFromToEnd,{0}º lugar ～
+EventReward_RankingInfoMessage,A recompensa do ranking será concedida após o término do evento.
+EventReward_BingoReward,BINGO
+EventReward_BingoSheetLineReward,Recompensa por completar {1} linha do [Sheet {0}]
+EventReward_BingoSheetCompleteReward,[Planilha {0}] Recompensa de Conclusão
+EventReward_BingoAllSheetCompleteReward,Recompensa por completar todos os cartões
+EventReward_RankingRewardDialogTitle,Lista de Recompensas
+EventReward_EventPointInfo,*Os pontos de evento acumulados têm um limite.<br>*O limite pode ser aumentado junto com a recompensa.
+EventResult_BaseEventPoint,Pontos do evento base
+EventResult_ScoreBonus,Bônus de Pontos
+EventResult_EventBonus,Bônus de evento
+EventResult_ClearBonus,Bônus de conclusão
+EventResult_GetEventPoint,Obter Evento Pt
+EventResult_GetStamina,Obter item de evento
+EventResult_GetBadge,Obter (Dummy)
+EventResult_GetMedal,Obter Loveca
+EventResult_TotalEventPoint,Total de pontos do evento
+EventResult_TotalStamina,Itens de evento total
+EventResult_TotalBadge,Total (Dummy)
+EventResult_TotalMedal,Total Loveca
+EventResult_NextStory,Próxima história
+EventResult_NextReward,Próxima Recompensa
+EventResult_CompleteReward,Todas as recompensas foram obtidas.
+EventResult_EventStaminaBoostValue,{0}x
+EventResult_MemberBonus,Idols do evento
+EventResult_MemberBonusInfoMessage,Bônus de Membro do Evento
+EventResult_StaminaInfoMessage,Aviso: Candy
+EventResult_NextPoint,Faltam
+EventResult_RewardDialogTitleClearCell,Recompensa por completar o BINGO
+EventResult_RewardDialogTitleBingo,Recompensa BINGO
+EventResult_RewardDialogSheetClear,Recompensa por completar a fase
+EventResult_RewardDialogAllSheetComplete,Recompensa de conclusão
+EventResult_RewardDialogInfoClearCell,Recompensa por completar o BINGO.
+EventResult_RewardDialogInfoBingo,Recompensa do BINGO
+EventResult_RewardDialogInfoSheetClear,Recompensa por completar a fase.
+EventResult_RewardDialogInfoAllSheetComplete,Recompensa por completar tudo.
+EventResult_BaseTicket,Número de tickets de Recrutamento
+EventResult_GetTicket,Obter Recrutamento Tickets
+EventResult_TotalTicket,Total de Tickets de Recrutamento
+EventResult_ClearHomweork,Tarefas concluídas esta vez
+EventResult_TotalHomework,Total de tarefas concluídas
+EventResult_NextHomeworkPoint,Tarefas Concluídas
+EventResult_ReStartConfirmTitle,Tentar novamente
+EventResult_ReStartConfirmSpiritMessage,Consumir Milagre Estrela {0} e <br>. Deseja jogar Live novamente?
+EventResult_ReStartConfirmSpiritAutoMessage,Consumir Miraclestar {0} e Ticket Automático {1} para jogar Live novamente? <br>
+EventResult_ReStartConfirmAutoMessage,Consumir o Auto Ticket {0} e jogar Live novamente? <br>
+EventBingoSheet_Title,Cartela BINGO ({0}/{1})
+EventBingoSheet_TotalOpend,Conquistas
+EventBingoSheet_TotalOpendValue,<color=#d73c55> {0} / {1} </color>
+EventBingoSheet_TotalSheet,Cartela
+EventBingoSheet_TotalSheetValue,<color=#d73c55> {0} / {1} </color>
+EventBingoSheet_TotalSheetValueCurrent,<color=#d73c55> {0} / {1} </color>
+EventBingoSheet_BingoClearScore,Pontuação <color=#d73c55> de {0}</color> para completar {1} vezes.
+EventBingoSheet_BingoClearLife,POWER <color=#d73c55> {0} </color> ou mais para completar {1} vezes.
+EventBingoSheet_BingoClearJudge,Obtenha {1} vezes com <color=#d73c55> ou menos em {0} e </color>.
+EventBingoSheet_BingoClearCombo,MAX Combo <color=#d73c55> {0} </color> com {1} vezes.
+EventBingoSheet_BingoClearFullCombo,MAX Combo em {0} vezes
+EventBingoSheet_BingoClearMultiScoreRank,"Complete <color=#d73c55> Live com {0} ou mais jogadores, alcançando a classificação </color> para completar {1} vezes."
+EventBingoSheet_BingoClearDeckCharacter,Forme <color=#d73c55> com {0} </color> e complete {1} vezes.
+EventBingoSheet_BingoClearDeckType,Formar {1} ou mais membros do Atributo <color=#d73c55>{0}</color> e limpar {2} vezes
+EventBingoSheet_BingoClearMusicName,Música: {0}
+EventBingoSheet_BingoClearEventMusicName,Música: Live de Ranking {0}
+EventBingoSheet_BingoClearMusicLevel,Nível: {0}
+EventBingoSheet_BingoClearMusicLevelValue,{0}+
+EventBingoSheet_BingoRewardButton,Recompensa
+EventBingoSheet_BingoRewardDialogTitle,Lista de Recompensas
+EventBingoSheet_BingoSheetCompleteRewardNumber,{0}ª carta
+EventMemberBonus_TipsTitle,Sobre o Bônus do Evento
+BirthdayScene_PlayButtonNameText,Assistir à celebração
+BirthdayScene_AreaButtonNameText,Local do Aniversário
+EventHomework_HomeworkConfirmButton,Confirmar Tarefa
+EventHomework_MissionNormalText,Missão Normal
+EventHomework_MissionRareText,Missão Rara
+EventHomework_MissionSuperRareText,Missão Super Rara
+EventHomework_LotteryDialogTitle,Sorteio de Missão Cooperativa
+EventHomework_LotteryDialogRareMissionText,Exemplo de missão rara
+EventHomework_LotteryDialogRareMissionInfoText,"As missões cooperativas têm 3 raridades: normal, rara e super rara.<br>Quanto maior a raridade, melhor será a recompensa."
+EventHomework_LotteryDialogLotteryButtonText,Fazer Sorteio
+EventHomework_MissionChangeDialogTitle,Alterar Missão Cooperativa
+EventHomework_MissionChangeDialogChangeMessage,"Deseja alterar a missão atual? <br> ※ Ao alterar, não será possível mudar a missão até jogar uma vez."
+EventHomework_MissionChangeDialogUnChangeMessage,"Tente o desafio da missão cooperativa atual!<br>※Após jogar uma Live, você poderá alterar a missão cooperativa atual."
+EventHomework_GetMissionDialogTitle,Obter Missão de Cooperação
+EventHomework_GetMissionDialogMessage,*Definido como a missão cooperativa atual.*
+EventHomework_MissionDetailDialogTitle,Missão Cooperativa
+EventHomeworkBoxGacha_Title,(Dummy)
+EventHomeworkBoxGacha_NowBox,(Dummy) Caixa nº {0}
+EventHomeworkBoxGacha_Remaining,Restante {0}/{1}
+EventHomeworkBoxGacha_NextBoxButton,Próximo prêmio
+EventHomeworkBoxGacha_PlayBoxGacha,Girar {0} vezes
+EventHomeworkBoxGacha_UsedTicket,x{0}
+EventHomeworkBoxGacha_HasTicket,Tickets disponíveis
+EventHomeworkBoxGacha_BoxInfoButton,Conteúdo (caixa )
+EventHomeworkBoxGachaInfo_Title,Conteúdo da caixa ({0})
+EventHomeworkBoxGachaInfo_Page,{0}/{1}
+EventHomeworkBoxGachaResult_Title,Item obtido!
+EventHomeworkBoxGachaResult_Message,Você pode receber isso como presente.
+EventHomeworkRoomSelect_RoomTitleEvent,{0} Live
+EventHomeworkRoomSelect_RoomTitleEveryone,Evento (teste)
+EventHomeworkRoomSelect_RankingTarget,Ranking de Pontuação
+EventHomeworkRoomSelect_RankingExcluded,Não participa no ranking.
+EventHomeworkRoomSelect_RankingExcludedInfo,Não participa na classificação.
+EventHomeworkRoomSelect_EventHighScore,Pontuação do Evento
+EventHomeworkRoomSelect_EventGroupRanking,Ranking de Pontuação por Grupo
+EventHomeworkMatching_HomeworkMusicLevel,Nível da música
+EventHomeworkMatching_MusicLevel,{0}+
+EventHomeworkMatching_HomeworkInfo,Conteúdo da tarefa
+EventHomeworkMatching_Reward,Recompensa
+EventHomeworkLiveResult_HomeworkResult,Resultado da Tarefa
+EventHomeworkLiveResult_HomeworkResultReward,Recompensa obtida
+EventHomeworkLiveResult_RewardBonus,Recompensa {0}!
+EventHomeworkLiveResult_RewardBonusValue,x{0}
+EventHomeworkLiveResult_MyClear,Eu consegui!
+EventHomeworkLiveResult_OtherClear,Outro jogador alcançou.
+EventHomeworkLiveResult_NoClear,Não alcançado
+EventHomeworkLiveResultNewHomework_Title,Nova tarefa disponível!
+EventHomeworkLiveResult_MusicLevel,Nível da música: {0}
+EventHomeworkLiveResult_Homework,Tarefa: {0}
+EventHomeworkLiveResult_Reward,Item de recompensa
+EventBonus_PointUpBonus,Bônus de Pontos
+EventBonus_TotalPowerBonus,Bônus de Aumento de Poder Total
+EventBonus_PickUpMemberBonus,Bônus de Idol em Destaque
+EventBonus_PointUpTotal,Pontos Totais
+EventBonus_PowerUpTotal,Total de Bônus de Poder
+EventBonus_PowerUpAddValue,(Força total +{0})
+EventBonus_BonusPercentUp,+{0}%
+EventBonus_PowerUpTotalValue,+{0} bônus
+EventBonus_BonusCaution,"Em Lives, o bônus de aumento de poder geral não é ativado. <br> Apenas um dos Idols que se qualificam para múltiplos bônus terá o efeito do bônus mais alto ativado. <br> Se houver vários Idols com o bônus ""Idol+"" em uma unidade, apenas um Idol com o maior efeito no poder geral e nos pontos do evento poderá ativar o bônus. <br> <color=#C12424> ※ </color> O bônus de ""Idol+"" para o poder geral ativa o efeito apenas no Idol onde o valor é mais alto quando o poder geral do Idol e o valor do efeito do bônus ""Idol+"" são multiplicados. <br> <color=#C12424> ※ </color> O bônus de ""Idol+"" para os pontos do evento ativa o efeito apenas no Idol com o maior efeito de aumento de pontos do evento. <br> <color=#C12424> ※ </color> Os bônus de ""poder geral"" e ""pontos do evento"" podem ser ativados por Idols diferentes. <br> <color=#C12424> ※ </color> Um Idol que possui o bônus ""Idol+"", mas não consegue ativá-lo, pode ativar outro bônus. <br> Os bônus de ""Idol"" e ""Idol+"" podem ser ativados simultaneamente."
+EventIncentive_CheckTicketTitle,Confirmar Ticket de Sorteio
+EventIncentive_CheckTicketMessage,Deseja verificar seus tickets de evento <br>? Você tem <br> ticket(s) e pode usá-lo(s) para tentar a sorte em <br>. Quer confirmar agora ou mais tarde {0}? Você possui {1} tickets.
+EventIncentive_CheckTicketWarning,"<color=#C12424>※Os tickets de sorteio não podem ser usados em partes. <br>※Tenha cuidado, pois os tickets de sorteio não utilizados durante o período serão excluídos. </color>"
+EventIncentive_LostTitle,Resultado do Sorteio
+EventIncentive_LostMessage,O item do prêmio de consolação foi adicionado aos seus presentes.<br>Esperamos que participe novamente.
+EventIncentive_LostGoToPresentBoxScene,Presentes
+EventIncentive_ApplicationTitle,Informações para inscrição
+EventIncentive_ApplicationId,ID：
+EventIncentive_ApplicationPassword,Senha:
+EventIncentive_ApplicationUrlTitle,URL de inscrição:
+EventIncentive_ApplicationNote,*Notas da inscrição (a serem adicionadas).
+EventIncentive_IdCopy,Copiado.
+EventIncentive_PasswordCopy,Copiado.
+EventIncentive_TermTitle,Termos do Evento
+EventEmotionalSetting_SelectBand,Selecione o grupo para participar do ranking.
+EventEmotionalSetting_ChangeBand,Selecione o grupo para alterar.
+EventEmotionalSetting_SelectMember,Selecione o Membro para participar do ranking.
+EventEmotionalSetting_ChangeMember,Selecione o membro para alterar.
+LimitedLive_Name_1101001,限定ライブ名1
+LimitedLive_Name_1101002,限定ライブ名2
+LimitedLive_Name_1301001,限定ライブ名3
+LimitedLive_Name_1401001,限定ライブ名4
+LimitedLive_Name_1501001,Nome do Live Limitado 5
+LimitedLive_Name_1502001,限定ライブ名6
+LimitedLive_Name_1601001,限定ライブ名7
+LimitedLive_Name_1801001,限定ライブ名8
+LimitedLive_Name_1802001,限定ライブ名9
+LimitedLive_Name_1803001,Nome do Live Limitado 10
+LimitedLive_Name_1804001,限定ライブ名11
+LimitedLive_Name_1805001,限定ライブ名12
+LimitedLive_Name_1806001,限定ライブ名13
+LimitedLive_Name_1807001,限定ライブ名14
+LimitedLive_Name_1808001,限定ライブ名15
+LimitedLive_Name_1892001,限定ライブ名16
+LimitedLive_Name_1893001,限定ライブ名17
+LimitedLive_Name_1894001,限定ライブ名18
+LimitedLive_Name_1895001,限定ライブ名19
+LimitedLive_Name_1896001,限定ライブ名20
+LimitedLive_Name_1701001,限定ライブ名21
+LimitedLive_BonusEffect_1101001,Recompensa de conclusão aumentada!
+LimitedLive_Period,Período: {0} ~ {1}
+LimitedLive_FreePlayLabel,Jogo Gratuito
+LimitedLive_TicketLabel,Tickets disponíveis
+LimitedLive_FreePlayCountLabel,Faltam
+LimitedLive_FreePlayCountValue,{0} vezes
+LimitedLive_TicketAmountValue,{0} unidades
+LimitedLive_LiveIsChosen,Música escolhida
+LimitedLive_DetailDialog_RuleSection,◆Regras
+LimitedLive_DetailDialog_RuleSection_ResetDaily,Diariamente {0} vezes
+LimitedLive_DetailDialog_RuleSection_ResetWeekly,Semanalmente {0} vezes
+LimitedLive_DetailDialog_RuleSection_Rule_1,"Live com chance de obter {0}, onde você pode jogar {1} vezes. <br> Você também pode jogar consumindo um cupom. <br> Se for uma música premiada, a recompensa aumenta. <br>"
+LimitedLive_DetailDialog_RuleSection_Rule_2,"É possível jogar {1}. <br> Você também pode jogar consumindo um cupom de refeição. <br> Se for uma música premiada, a recompensa aumentará."
+LimitedLive_DetailDialog_RewardSection,◆Recompensa
+LimitedLive_DetailDialog_BonusLiveSection,◆Música premiada <br> {0}
+LimitedLive_DetailDialog_PeriodSection,◆Período de realização <br> {0} ~ {1}
+LimitedLive_UnlockDialog_NotEnouchTicketDaily,Você não tem ingressos suficientes <color=#D73C55> para jogar agora </color>. Você poderá jogar novamente a partir das 4h do dia seguinte <br>.
+LimitedLive_UnlockDialog_NotEnouchTicketWeekly,<color=#D73C55>Você não tem ingressos suficientes. </color> <br>Jogar gratuitamente estará disponível a partir das 4h da manhã de segunda-feira.
+LiveCondition_Label,Condições de Live
+LiveCondition_CompareType_EQ,igual a
+LiveCondition_CompareType_GE,Fim
+LiveCondition_CompareType_LE,Abaixo
+LiveCondition_Detail_Character,"(Provisório) {0}, {1} membros, {2} na Formação"
+LiveCondition_Detail_Group,"(Provisório) {0}, {1} membros, {2} na Formação"
+LiveCondition_Detail_CardType,"(Provisório) {0}, {1} membros, {2} na Formação"
+LiveCondition_Detail_DeckRole,"(Provisório) {0}, {1} membros, {2} na Formação"
+LiveCondition_Detail_Card,(仮)Formar {0}
+LiveCondition_Detail_UserRank,(Provisório) Ranking de Usuário {0} {1}
+LiveCondition_Detail_Title,"Definir título ""{0}"""
+LiveCondition_Detail_Item,"Usar item ""{0}"""
+LiveCondition_CannotCreateMultiPlayRoomSinceNotSatisfy,Não pode criar devido às condições de participação.
+LiveRule_Label,Regras do Live
+LiveRule_Notes_Judgement_EQ,"(Provisório) Apenas MISS, exceto {0}."
+LiveRule_Notes_Judgement_GE,(Temporário) Menos de {0} MISS
+BeginnerMission_BingoTitle,Missão para Iniciantes ({0}/{1})
+BeginnerMission_BingoSheetClear,RECOMPENSA BINGO {0}
+BeginnerMission_BingoLineClear,Recompensa por completar a linha
+BeginnerMission_BingoNotStarted,Há folhas pendentes.
+BeginnerMission_BingoMissionDetailTitle,Detalhes da missão
+BeginnerMission_BingoMissionReward,Recompensa de conclusão
+BeginnerMission_BingoMissionChallenge,Desafiar
+BeginnerMission_BingoMissionAcheved,Progresso
+BeginnerMission_BingoMissionOverview,Visão geral da missão
+BeginnerMission_BingoMissionItemOverview,Resumo
+BeginnerMission_BingoMissionRewardItemNum,x{0}
+TeacherLiveTop_NowMission,Missão atual
+TeacherLiveTop_EndEvent,Este evento terminou.
+TeacherLiveTop_ExchangeButton,Troca
+TeacherLiveTop_LiveButton,Ir para o Live
+TeacherLiveTop_InfoButton,Detalhes
+TeacherLiveTop_LiveCondition,Condições de Live
+TeacherLiveTop_LiveRule,Regras do Live
+TeacherLiveTop_RemainingMission,Missões restantes: <color=#D73C55> {0} </color> / {1}
+TeacherLiveTop_RemainingMissionValue,{0}/{1}
+TeacherLiveTop_GoGoTime,(Dummy)
+TeacherLiveTop_GoGoTimeRemainingCount,{0} vezes
+TeacherLiveTop_ExchangeTerm,A loja estará disponível até {0}.
+TeacherLiveTop_LiveConditionDialogTitle,Condição Live
+TeacherLiveTop_LiveConditionDialogCondition,Condições de Live
+TeacherLiveTop_LiveConditionDialogRule,Regras do Live
+TeacherLiveLiveResult_GoGoTime,Texto de exemplo
+TeacherLiveLiveResult_MissionClearTitle,Missão concluída!
+TeacherLiveLiveResult_CurrentMission,(Dummy) Missão atual
+TeacherLiveLiveResult_NextMission,Próxima missão
+TeacherLiveLiveResult_RemainingMission,Missões restantes: {0}/{1}
+CharacterEpisodeLevel_TotalTabName,Total
+CharacterEpisodeLevel_TotalEpisodeStar,(Total de estrelas da história ★ x {0})
+CharacterEpisodeLevel_RemainingExp,★{0}
+ItemList_Tab_Enhancement,Itens de Aprimoramento
+ItemList_Tab_Boost,Recuperar LP
+ItemList_Tab_Ticket,Ticket
+ItemList_Tab_Stamp,Estampas
+ItemList_Tab_Other,Outros
+ItemList_Empty,Você não possui nenhum item deste tipo no momento.
+ItemList_LimitDate,Até {0}
+MusicVideo_Conform_title,Confirmar Reprodução de MV
+MusicVideo_Conform_Message,"Reproduzir o vídeo musical de {0}<br>? No modo MV, você não pode obter recompensas do Live. <br>"
+MusicVideo_Conform_Supplement,Não exibir esta janela novamente
+MusicShop_Title,Loja de Músicas
+MusicShop_Exchange,Trocar
+MusicShop_Replaced,Já trocado
+MusicShop_Lack,Recursos insuficientes
+MusicShop_ExchangeListEmpty,Não há músicas para trocar.
+MusicShop_DetailTitle,Detalhes da Música
+MusicShop_ExchangeTitle,Trocar Música
+MusicShop_RequiredValue,Quantidade necessária
+MusicShop_ExchangeMessage,Você deseja trocar {0}?
+MusicShop_ExchangeResultTitle,Troca de música concluída
+Announcement_DialogTitle,Anúncio
+RankUp_UserRankUpDialogTitle,Subida de nível!
+RankUp_BandRankUpDialogTitle,Grupo Rank Up
+RankUp_BandRank,Grupo Rank
+RankUp_TotalBandRank,Rank Geral do Grupo
+RankUp_DeckPower,Força do Deck +
+RankUp_LpRecoverText,LP foi recuperado em {0}.
+RankUp_LpMaxUpText,O limite máximo de LP aumentou.
+Shop_ResetDaily,"(Diariamente, à meia-noite)"
+Shop_ResetWeekly,(Atualiza às 0h de segunda-feira)
+Shop_Monthly,"(Diariamente, à meia-noite)"
+Shop_BuyRemain,Restam: {0}
+Shop_BuyLimit,Até {0}
+Shop_AllBuy,Já comprado
+Shop_ItemDetaiTitle,Detalhes do Item
+Shop_AllItemDetaiTitle,Recompensa por Esgotamento
+Shop_AllItemCompleteTitle,Recompensa por completar compra
+MovieCollection_TabMovieTypeShort,Curta-metragem
+MovieCollection_TabMovieTypeLong,Vídeo longo
+MovieCollection_TabMovieTypeSpPhoto,Foto SP
+MovieCollection_HomeSettings,Configurações da tela inicial
+MovieCollection_EmptyMovie,Vídeos não encontrados.
+MovieCollection_EmptySpPhoto,Não há SP Fotos.
+MovieCollection_DetailTitle,Detalhes do vídeo
+MovieCollection_DetailHomeSettings,Definir como plano de fundo inicial
+MovieCollection_DetailHomeSettingsMessage,Você precisa ativar o vídeo de fundo na tela de opções.
+MovieCollection_RefineBandTitle,Grupo
+MovieCollection_RefineBandOther,OUTROS
+MovieCollection_RefineMemberTitle,Membro
+MovieCollection_RefineGetCategoryTitle,Categoria de Obtenção
+MovieCollection_RefineGetCategoryEvent,Evento
+MovieCollection_RefineGetCategoryCard,Idol
+MovieCollection_RefineGetCategoryStory,História
+MovieCollection_RefineGetCategoryEtc,Outros
+LiveResult_FriendApplyButton,Enviar pedido de amizade
+LiveResult_FriendStatusRequest,Pedido de amizade enviado
+LiveResult_FriendStatusFriend,Amigo adicionado
+LiveResult_ScoreDetailButton,Detalhes da Pontuação
+LiveResult_ScoreDetailTitle,Detalhes da Pontuação
+LiveResult_SessionSelectButton,Live Seleção
+LiveResult_HomeButton,Voltar
+LiveResult_MusicSelectButton,Selecionar Música
+LiveResult_RestartButton,Começar Live com a mesma música<br>
+LiveResult_GuestSelectButton,Começar Live com esta música<br>
+LiveResult_RecommendLiveTitle,Recomendamos para você
+LiveResult_BackMusicSelectTitle,Jogar outra música
+LiveResult_BackMusicSelectButton,Voltar à seleção de músicas
+LiveResult_RestartDialogTitle,Confirmar Reinício
+LiveResult_RestartDialog_EventPtRewardGotAll,Todas as recompensas por atingir os objetivos de pontos do evento foram <br> obtidas.
+LiveResult_RestartDialog_EventPtRewardTitle,Recompensa por completar o evento
+LiveResult_RestartDialog_EventScoreRank,Ranking da pontuação do evento
+LiveResult_RestartDialog_EventTotalPtRank,Ranking total de pontos do evento
+LiveResult_LiveClear,LIVE SUPERADO!!
+LiveResult_LiveClear2,LIVE CLEAR!!
+LiveResult_TapScreen,Toque na tela.
+LiveResult_Score,PONTUAÇÃO
+LiveResult_Combo,COMBO
+LiveResult_HighScore,MAIOR PONTUAÇÃO
+LiveResult_NewReacord,NOVO RECORD!
+LiveResult_PerfectCount,PERFEITOS
+LiveResult_Perfect,PERFEITO
+LiveResult_Great,ÓTIMO
+LiveResult_Good,BOM
+LiveResult_Bad,RUIM
+LiveResult_Miss,ERROU
+LiveResult_Normal,Normal
+LiveResult_SyncTap,Toque simultâneo
+LiveResult_LongTap,Mantenha pressionado
+LiveResult_Swing,Swing
+LiveResult_GetExp,Obter EXP
+LiveResult_NextRank,Próximo Rank
+LiveResult_GetGold,Obter G
+LiveResult_GetFriendPoint,Obter Laço
+LiveResult_GetFriendPointWindow,Detalhes do Laço
+LiveResult_TotalScore,TOTAL DE PONTOS
+GuestSelect_Title,Selecionar Convidada
+BandEnrich_ItemEmpty,Você não possui itens de fortalecimento do grupo.
+BandEnrich_All,Total
+BandEnrich_X,μ’s
+BandEnrich_L,Aqours
+BandEnrich_G,Nijigasaki
+GemShort_NeedChargeGemLabel,ラブカ必要
+GemShort_HaveChargeGemLabel,Loveca que você tem
+GemShort_NeedGemLabel,ラブカ必要
+GemShort_HaveGemLabel,Loveca que você tem
+CollectionChara_Profile,Perfil
+CollectionChara_CardList,Lista de Cartas
+StorySort_TitleBand,Grupo
+StorySort_TitleStory,História
+StorySort_StoryRead,Lido
+StorySort_StoryUnread,Não lido
+StoryList_EmptyText,Não há histórias disponíveis para leitura.
+MemberList_EmptyText,Não há Idols correspondentes.
+CollectionReleaseConfirm_DialogTitle,Confirmação da Liberação da Coleção
+CollectionReleaseConfirm_Conditions,Condições para liberar: Despertar necessário {0}/{1}
+CollectionReleaseConfirm_Reward,Recompensa de Liberação
+CollectionReleaseReward_DialogTitle,Liberação da Coleção
+CollectionReleaseReward_SpPhotoReleaseMessage,Foto SP liberada<br>A Foto SP pode ser vista nos detalhes da Idol ou na coleção de Fotos SP.
+CollectionReleaseReward_MovieReleaseMessage,Vídeo {0} desbloqueado! <br> Você pode assistir ao vídeo nos detalhes da Idol ou na coleção de vídeos.
+CollectionReleaseReward_GetReward,Você recebeu {0} como recompensa pela liberação.
+CollectionReleaseReward_CardInfoButton,Detalhes da Idol
+CollectionReleaseReward_CollectionButton,Detalhes da coleção
+GachaLotteryExchangeItemConfirm_Title,Conversão de Pontos de Recrutamento
+GachaLotteryExchangeItemConfirm_Info,Os pontos de recrutamento expirados foram convertidos em “Livro de Habilidades (Médio)”.
+Migration_TopTitle,Transferência de dados e vinculação de conta
+Migration_SnsLink,Vincular conta
+Migration_EnableSnsLink,*Contas que podem ser vinculadas
+Migration_SelectSnsLink,Selecione a conta para vincular.
+Migration_Twitter,Vincular ao Twitter
+Migration_Apple,Sign in with Apple
+Migration_Google,Sign in with Google
+Migration_SignIn,Não definido
+Migration_SignOut,Já vinculado
+Migration_CompleteSnsLink,Conta vinculada com sucesso
+Migration_CompleteSnsSignOut,Desvincular conta
+Migration_SnsLinkMessage,"A sincronização dos dados foi concluída. <br> Após baixar o aplicativo no dispositivo de destino, realize a sincronização da conta em <br> Menu > Transferência de Dados na tela inicial."
+Migration_SignOutMessage,A conexão de dados foi desfeita.
+Migration_TakeOverButton,Transferir
+RewardDetailDialog_CanBeAcquired,Obter possível
+RewardDetailDialog_Acquired,Obter
+RewardDetailDialog_Possession,Quantidade
+MusicSelect_NoData,Nenhuma música encontrada.
+MusicSelect_NoDataAndResetFilter,"Não há músicas, então o filtro foi desativado."
+MusicSelect_ResetFilterToSelectData,Filtros redefinidos para selecionar a música.
+MusicSelect_FilterAttribute,Atributo
+MusicSelect_FilterAttributeSmile,Smile
+MusicSelect_FilterAttributePure,Pure
+MusicSelect_FilterAttributeCool,Cool
+MusicSelect_FilterSelect,Condição
+MusicSelect_FilterGroup,Grupo de músicas
+MusicSelect_FilterNotClear,Não concluído
+MusicSelect_FilterScoreS,Pontuação S não obtida
+MusicSelect_FilterComboS,Combo S não obtido
+MusicSelect_FilterClearS,Combo S não alcançado
+MusicSelect_FilterCampaign1,Campanha
+MusicSelect_FilterCampaign2,Campanha
+MusicSelect_FilterUndo,Desmarcar tudo
+MusicSelect_ButtonApply,Aplicar
+MusicSelect_RehearsalButton,Ensaio
+MusicSelect_LiveButton,Live
+MusicSelect_NoDifficulty,"A música selecionada não tem dificuldade MASTER, então selecione outra."
+MusicSelect_NoAnyDifficulty,"A música selecionada não tem dificuldade {0}, então selecione outra."
+HomePreset_ClearPresetButton,Deseja redefinir a personalização da tela inicial para o padrão {0}?
+PresentBox_Attention,"Você pode armazenar até 100.000 presentes. Se esse limite for excedido, os presentes mais antigos serão excluídos. Presentes com prazo de validade vencido também serão automaticamente excluídos. Você pode receber no máximo 100 presentes por vez."
+PresentBox_Filter,Filtrar
+PresentBox_Filter_Title,Filtrar
+PresentBox_Filter_Button_AllSelect,Selecionar tudo
+PresentBox_Filter_Button_AllRelease,Desmarcar tudo
+PresentBox_Filter_Type_Title,Tipo de presente
+PresentBox_Filter_Type_Member,Idol
+PresentBox_Filter_Type_Gem,Loveca
+PresentBox_Filter_Type_Gold,Ouro
+PresentBox_Filter_Type_Ticket,Ticket de Recrutamento
+PresentBox_Filter_Type_Recovery,Itens de recuperação de LP
+PresentBox_Filter_Type_Other,Outros
+PresentBox_Filter_ExpireTime_Title,Sem prazo
+PresentBox_Filter_ExpireTime_Limit,Com prazo
+PresentBox_Filter_ExpireTime_NoLimit,Sem limite
+HomePreset_Set_Label,Conjunto {0}
+HomePreset_Multiple_Set_Label,Múltiplos Sets
+PresentBox_History_Attention,"Você pode armazenar até 30 itens. Se esse limite for excedido, os registros mais antigos serão excluídos. Além disso, o histórico de recebimento será automaticamente excluído após 30 dias da exibição do histórico."
+BeginnerMission_BingoLine,Linha {0}
+Mission_Filter,Filtrar
+Mission_Filter_Title,Filtrar
+Mission_Filter_Button_AllSelect,Selecionar tudo
+Mission_Filter_Button_AllRelease,Desmarcar tudo
+Mission_Filter_Content_Title_Reward,Recompensa
+Mission_Filter_Reward_Member,Idol
+Mission_Filter_Reward_Gem,Loveca
+Mission_Filter_Reward_Gold,Ouro
+Mission_Filter_Reward_Ticket,Ticket de Recrutamento
+Mission_Filter_Reward_Recovery,Itens de recuperação de LP
+Mission_Filter_Reward_Exp,Item de Lição
+Mission_Filter_Reward_SkillExp,Item de lição de habilidade
+Mission_Filter_Reward_Evolve,Item de Despertar
+Mission_Filter_Reward_Title,Título
+Mission_Filter_Reward_Other,Outros
+Mission_Achievement,Progresso
+HomePreset_Edit_Dialog_Text,Deseja salvar as alterações na tela inicial?
+GachaTop_Invitation_Bonus_Detail,Detalhes do Recrutamento
+GachaTop_Invitation_Bonus,<size=29>Recrutamento <br> <size=23> Pontos
+Adv_Log_NameSuffix_Telop,[Legendas]
+EventTop_Button_Tips_Rule,Como jogar
+EventTop_Button_Tips_Bonus,Detalhes do Bônus
+EventTop_Button_Reward,Detalhes da Recompensa
+EventTop_Button_Story,Evento<br>História
+EventTop_Button_Ranking,Ver ranking
+EventTop_Button_Exchange,Troca
+EventTop_Button_Favorite,Favoritar
+EventTop_Button_ToEvent,Músicas do Evento
+EventTop_Button_ToGeneral,Músicas Normais
+EventTop_Favorite_Ranking,Membro favorito
+EventTop_Point_Total,Total de pontos do evento
+EventTop_Point_Next_Story,Próxima história
+EventTop_Term_Title,Período: <size=20> de </size> até {0} <size=20> </size>
+EventTop_Point,{0} pts
+EventTop_Rank,{0}º lugar
+Tutorial_Group_Muse,"Grupo de idols escolares da Academia Nacional Otonokizaka, com sede em Akihabara, Tóquio. <br> O nome do grupo deriva das ""9 musas da música"". <br> Atualmente, o grupo busca vencer o Love Live!"
+Tutorial_Group_Aqours,"Grupo de idols escolares da Academia Feminina Ura no Hoshi, com sede em Numazu, província de Shizuoka. <br> Formado para animar a escola. <br> Atualmente competindo para vencer o Love Live!"
+Tutorial_Group_Nijigaku,"Grupo Nijigaku: <br> Escolas particulares em Odaiba, Tóquio. <br> Cada membro valoriza sua individualidade e atua como uma idol escolar solo. Elas não participam do Love Live!, mas cada uma busca ser a melhor idol escolar."
+Tutorial_Group_Liella,"Grupo de idols escolares da Escola Secundária Feminina Yuigaoka, com atividades focadas em Harajuku, Tóquio. <br> Yuigaoka é uma escola recém-inaugurada e o clube foi fundado no ano de sua criação. <br> Um dos grupos que não pode ser ignorado no Love Live!"
+Tutorial_Group_SelectButton,Decidir com este grupo
+Tutorial_Member_SelectButton,Decidir com este Membro
+Tutorial_Recommend_Lesson,Aumente o nível das Idols nas lições!
+Tutorial_Recommend_Gacha,Obtenha itens de treinamento no Recrutamento!
+Tutorial_Recommend_Live,Vamos tentar um Live!
+EventRanking_Tab_MySelf,Minha posição
+EventRanking_Tab_Rank,{0}º lugar
+EventRanking_Tab_TotalPoint,Ranking de Pontos do Evento
+EventRanking_Tab_Score,Ranking de Pontuação da Música do Evento
+EventRanking_Tab_Favorite,Favoritos
+EventBonus_Tab_Point,Bônus de Pontos do Evento
+EventBonus_Tab_Item,Bônus de Obter Miraculosas Estrelas
+EventBonus_MultiTab_Score,Bônus de Pontos
+EventBonus_MultiTab_Item,Bônus de itens ao fazer login
+EventBonus_Button_Disclaimer,Aviso Legal
+EventBonus_Point_Value,+{0}%
+EventBonus_Item_Value,+{0}
+EventBonus_Empty_List,Nenhum bônus disponível.
+EventTop_Button_ToGeneral_Msg,Obtenha Miraculosas Estrelas!
+EventTop_Button_Favorite_Ranking,Favoritos
+EventTop_Button_Mission,Missão
+EventTop_Point_Next_Reward,Próxima recompensa
+EventTop_Point_Ranking,Ranking de Pontos do Evento
+EventBonus_Title,Detalhes do Bônus
+EventRanking_Ranking_Not_Exists,Ranking não encontrado
+GemShop_Footer_Special_Commercial_Code,Lei Comercial/<br>Lei de Pagamento
+GemShop_Footer_Precautions_Regarding_Use,Informações sobre o uso<br>e precauções
+EventRanking_Unaggregated,Os dados da classificação ainda estão sendo coletados.<br>
+EventReward_EmotionalMemberUnselected,Não é possível exibir porque você não selecionou seu membro favorito.
+EventReward_RequiredPoint,Pontos nec.
+LpBoost_LP_Count,Quantidade de LP
+LpBoost_LP_Default_Amount,Consumo básico de LP
+LpBoost_LP_Discount,Desconto de LP!
+LpBoost_Min,MÍNIMO
+LpBoost_EventPt,Pontos de evento
+LpBoost_Get,Obter
+LpBoost_GetReward,Recompensa obtida
+LpBoost_UseLpMessage,A quantidade de LP consumida afeta a quantidade de recompensas obtidas e o tipo de recompensa que você pode obter.
+LpBoost_UseLpSetting,Configurar Consumo de LP
+LpBoost_Count,Quantidade
+LpBoost_UseCount,Consumo
+LpBoost_Default,Básico
+LpBoost_GetRewardMessage,A quantidade de recompensa obtida varia.
+LpBoost_Use,Consumir
+LpBoost_UseLp,Consumir LP
+LpBoost_Setting,Definir
+LpBoost_UseLPMessageShort,A quantidade de LP consumida afeta a recompensa obtida.
+Skip_Message,Você receberá as recompensas de conclusão para o número total de pulos.<br>A pontuação mais alta será usada como a pontuação do Live quando você pular.
+Skip_Ticket_Count,Número de Tickets de Skip
+Skip_Ticket_UseCount,Defina o número de pulos.
+Skip_Confirm,Confirmar Pular
+Skip_Lock_Message,"Ao completar a dificuldade selecionada, a função de pular será desbloqueada."
+Skip_Not_Enough_Ticket,Não há ingressos para pular.
+LoginBouns_RewardAmountBonus,(+{0})
+EventTop_Button_ToGeneral_2,Ir para o Live
+EventTop_Button_ToGeneral_2_Msg,Obtenha pontos de evento!
+EventTipsDialog_Tips_Title,Como jogar o evento
+EventTop_Aggregate,Classificação em andamento
+EventTop_EventClose,O evento terminou.
+BeginnerMission_Bingo,BINGO
+TakeOver_DialogTitle,Sincronizar dados do jogo
+TakeOver_DialogUserId,ID de usuário do Love Live! School Idol Festival.
+TakeOver_DialogPassword,Senha de vinculação dos dados do jogo
+TakeOver_DialogPasswordSample,Digite aqui
+TakeOver_DialogAccept,Sincronizar dados do jogo
+TakeOver_DialogDescription,"Ao inserir seu ID de usuário e senha de vinculação de dados do Love Live! School Idol Festival, você poderá visualizar os álbuns do Love Live! School Idol Festival <br>"
+TakeOver_DialogAttension,"*Se você não configurou a conexão de dados no Love Live! School Idol Festival, não poderá visualizar o conteúdo.<br>*A conexão de dados e o recebimento dos bônus da conexão só podem ser feitos uma vez."
+TakeOver_DialogUserError,Insira seu ID de usuário do Love Live! School Idol Festival.
+TakeOver_DialogPasswaordError,Insira a senha de sincronização dos dados.
+TakeOver_DialogDone,"A sincronização dos dados foi concluída e o ""Álbum de Memórias"" agora está disponível.<br>Resgate os bônus da sincronização em Presentes."
+BeginnerMission_BingoPlayableBalloonTips,BINGO{0}: complete para desbloquear
+Mission_ChallengeButton_Chat,Chat
+Mission_ChallengeButton_Home,Voltar
+Common_Remain,Faltam
+Mission_Attention_Daily,As missões diárias são atualizadas diariamente às 0h.
+Mission_Attention_ExpireTime,O período de validade é até {0}.
+Mission_Attention_Subscription,O progresso das missões do MIRACLE Pass é contado a partir da sua adesão.
+Mission_HeaderTabTotal,Eventos Totais
+Mission_HeaderTabDaily,Diário
+HomePreset_DropDownItem_Obtain,Ordem de aquisição
+HomePreset_DropDownItem_Rare,Rareza
+HomePreset_DropDownItem_Anime,Com animação
+HomePreset_DropDownItem_Favorite,Favoritar
+Event_CategoryName_1,Coleção Miraculosa
+Event_CategoryName_2,Tour Gratuito
+Event_CategoryName_3,Live Cooperativo
+Event_CategoryName_4,Evento Estelar
+Event_Favorite_Button_Home,Voltar para a página inicial
+Event_Favorite_Button_Decide,Decidir
+Event_Favorite_Title,Escolha seu Membro favorito!
+Event_Favorite_Tips,O que é um membro favorito?
+Event_Favorite_Confirm_Title,Confirmar
+Event_Favorite_Confirm_Desc,Você deseja definir <br> como seu Membro favorito {0}? <br> <br> <color=#C70F01> Observe: você não poderá alterar isso até o final do evento. </color>
+EventBonus_PointBonus_Desc,O bônus de pontos do evento é ativado ao montar uma formação!<br>A quantidade de pontos do evento que você obtém ao completar um Live aumenta!
+EventBonus_PointBonus_Attention,*O bônus de pontos do evento será aplicado com base no valor total de todos os membros selecionados na Formação.*
+EventBonus_ItemBonus_Desc,"Se houver membros selecionados na lista de Idols, o número de Miracles Stars que você pode obter no bônus diário aumentará!"
+EventBonus_ItemBonus_Attention,※O bônus de Miraclestar que você Obter é baseado na soma dos valores de todos os Membros selecionados na sua lista de Idols.<br>※O bônus de Miraclestar que você Obter só se aplica aos dias em que o Miraclestar estiver disponível como recompensa no login.
+EventBonus_ScoreBonus_Desc,O bônus de pontuação é ativado ao formar uma equipe com membros selecionados!<br>Aumenta a pontuação obtida ao completar um Live!
+EventBonus_ScoreBonus_Attention,※O bônus de pontuação é aplicado ao valor total de todos os Membros selecionados na Formação.
+EventBonus_ItemBonusMulti_Desc,"Se houver Membros selecionados na lista de Idols, o número de itens que você pode Obter no bônus diário aumentará!"
+EventBonus_ItemBonusBonusMulti_Attention,*O bônus de itens ao fazer login é aplicado à soma dos valores de todos os Membros selecionados na lista de Idols.<br>*O bônus de itens ao fazer login não se aplica a Ouro.
+EventBonus_BeforeEvolve,Antes do Despertar
+EventBonus_AfterEvolve,Despertar (após)
+EventBonus_HaveCard,Obtido
+MusicSelect_CanNotFocusMusic,Nenhuma música encontrada com os critérios de pesquisa atuais.
+Common_ContinueSpiritShortageShortMessage,Faltam Miracles Stars.
+EventReward_Category_EventPoint,Total de pontos do evento
+EventReward_Category_EventScore,Pontuação
+EventRanking_Category_EventPoint,Total de pontos do evento
+EventRanking_Category_EventScore,Pontuação
+Common_Consumption,Consumir
+Common_Setting,Definir
+PresentBox_ReceivableItemCount,"{0} de <size=-10>, {1} itens </size>"
+HomePreset_Edit_EmptyPresetText,Layout da tela inicial não definido.
+Header_Lp_TextTag,{0}/<size=25> {1}
+Adv_Button_Skip,Pular
+Adv_Button_Auto,Automático
+Adv_Button_Fast,Acelerar
+Adv_Button_Log,Log
+Adv_Button_Deactive,Ocultar
+Adv_Button_MovieSkip,Pular
+Adv_Button_MoviePlay,Reproduzir
+Adv_Button_MovieStop,Pausar
+Adv_Button_MoviePrevStep,Voltar
+Adv_Button_MovieNextStep,Avançar
+Adv_Button_MovieDeactive,Ocultar
+Header_Lp_Text,L<size=21>P
+StoryPart_NotLiveClearGroupMusicCount,Desbloqueia ao tocar mais {1} músicas de {0} no Live
+StoryPart_NotLiveClearMusicCount,Faltam {1} jogadas para desbloquear {0}.
+Common_SeriesName_1,Love Live!
+Common_SeriesName_2,Love Live! Sunshine!!
+Common_SeriesName_3,Love Live! Nijigasaki Gakuen School Idol Club
+Common_SeriesName_4,Love Live! Superstars!!
+Common_SeriesName_5,Love Live! Nijigasaki High School Idol Club
+StoryPart_NotRelease_EventStory,Pontos de evento insuficientes.
+Common_NoCapture,Capturas de tela nesta página são proibidas.
+Common_EventCloseMessage,"Atualmente, o evento não está sendo realizado."
+LiveResult_BonusText,Bônus +{0}<size=-3>%</size>
+HomePreset_Title_HomeCustomEdit,Edição da Página Inicial
+HomePreset_Title_Preview,Pré-visualizar
+HomePreset_Title_BackgroundSelection,Seleção de Fundo
+HomePreset_Title_ForegroundSelection,Seleção de Primeiro Plano
+HomePreset_Title_MemberChange,Alterar Idol
+HomePreset_HomeCustom,Personalizar tela inicial
+HomePreset_Save_HomeCustom,Home Custom salvo.
+HomePreset_PhotoWarning,"Nas configurações de foto, não é possível aplicar fundos ou efeitos."
+TermsOfService_Credit,Créditos
+TermsOfService_Button_InformationNotation,Informações
+TermsOfService_Button_Performance,Conquistas
+TermsOfService_Button_StoneConfirmation,Confirmar Medalha Loveca
+SubMenu_Button_Profile,Perfil
+SubMenu_Button_Friend,Amigos
+SubMenu_Button_ItemList,Lista de itens
+SubMenu_Button_Exchange,Troca
+SubMenu_Button_Album,Álbum
+SubMenu_Button_OnePanelComic,HQ de 1 painel
+SubMenu_Button_MemoryAlbum,Álbum de Memórias
+SubMenu_Button_DataTransfer,Transferir dados
+SubMenu_Button_SerialCode,Código Serial
+SubMenu_Button_LocationCampaign,Passeios<br>Presentes
+SubMenu_Button_MusicLibrary,Biblioteca Musical
+GemShopItem_SubscriptionButton_Restore,Restaurar
+LiveResult_GetFriendPointSameMemberFormation,A mesma formação de membros está sendo usada.
+EventTop_RewardGotAll,Todas as recompensas por atingir os objetivos de pontos do evento foram <br> obtidas.
+EventTop_StoryAllReleased,Todas as histórias foram desbloqueadas.
+HomePreset_Cant_Clear_Last1,Não é possível concluir com apenas um preset.
+EventTop_NotSetFavorite,Idol favorita: não definida
+StoryPart_NotRelease_ReadPrevious,Leia a história anterior.
+SerialCode_InputDialogTitle,Código Serial
+SerialCode_InputDialogText,Insira o código serial.
+SerialCode_InputEmptyText,Código Serial
+SerialCode_InputDialogAttentionText,Os itens obtidos serão enviados para seus presentes.<br>Cada código serial oferece uma recompensa que pode ser recebida apenas uma vez por conta.
+SerialCode_ConfirmDialogTitle,Confirmar
+SerialCode_ConfirmDialogText,Deseja receber os benefícios de [{0}]?
+SerialCode_SuccessMessage,Receba os itens de bônus em seus presentes.
+SerialCode_ErrorMessageAlreadyUsed,Este código já foi usado.
+SerialCode_ErrorMessageNotUse,O código serial inserido não é válido.
+SerialCode_ErrorMessageNotAvailable,Você já recebeu a recompensa máxima para esta campanha.
+SerialCode_ErrorMessageNotEnter,Não é possível inserir agora. Tente novamente em {0}.
+SerialCode_InputButtonText,Código Serial<br>Inserir
+SerialCode_ConfirmButtonText,Código Serial<br>Confirmar
+SerialCode_DisplayButtonText,Código Serial<br>Mostrar
+SerialCode_CopyMessage,Código serial copiado.
+SerialCode_NoCampaign,Nenhuma campanha disponível no momento.
+SerialCode_DisplayDialogTitle,Exibir Código Serial
+SerialCode_DisplayDialogAttentionText,Cada código serial só pode ser usado uma vez por conta.
+SerialCode_DisplayDialogText,Código serial de {0}.
+SerialCode_FailedToCreateSerialCode,Falha ao obter o código serial. Tente novamente mais tarde.
+SerialCode_NoAllocatableCode,Falha ao atribuir o código serial. Entre em contato.
+Common_EventPointDetail,de {0} para {1}
+EventTop_Multi_RoomIdCopy,ID da sala copiado.
+SerialCode_ErrorMessageExpired,O código serial inserido expirou.
+SerialCode_ErrorMessageRankOutOfRange,"O código serial inserido não atende aos requisitos de nível necessários, portanto, não pode ser usado.<br>"
+LocationInformation_Message,Visite o local indicado até a data e hora limite para receber sua Recompensa!
+LocationInformation_Success,Posição detectada! Receba sua recompensa.
+LocationInformation_ConfirmDialogTitle,Confirmar Campanha
+LocationInformation_ConfirmDialogMessage,"Enviar dados de localização e receber a recompensa? Confirma?<br>※Para sua segurança, evite enviar enquanto estiver em movimento."
+LocationInformation_ConfirmDialogGetReward,Recompensa obtida
+LocationInformation_ConfirmDialogGetLocation,Obter localização
+LocationInformation_NoCampaign,Não há eventos de presente disponíveis no momento.
+Common_OnlySecond,seg.
+MultiMatching_CannotMatching,Não foi possível encontrar uma partida. Retornando à tela inicial do evento.
+MultiMatching_Synchronization,Sincronizando com outros jogadores.
+MultiMatching_MemberDecited,Membros selecionados.
+MultiMatching_LeaveByTimeLimit,Saindo por tempo limite.
+DeckEdit_Score,Pontuação
+MultiMatching_RecruitMembers,Recrutar membros novamente.
+MultiMatching_WaitMembersOnResult,Aguardando os membros na exibição dos resultados do Live.
+MultiDeck_DefaultDeckName,Live Cooperativo
+MultiMatching_WaitingAnotherMembers,Aguardando outros jogadores.
+MultiMatching_LiveWillStartSoon,Live começará em breve.
+MultiMatching_SongRequestLabel,Música escolhida
+MultiMatching_DecideSongRequest,Escolher esta música
+MultiMatching_NoSongCandidate,Esta música não pode ser escolhida.
+MultiMatching_SongPickSecondsSuffix,seg
+MultiMatching_SongPickChosenLabel,Escolhida
+MultiMatching_SongPickWaiting,Aguardando outros jogadores...
+MultiMatching_SongPickClosed,A seleção de músicas terminou.
+MultiRestart_LeaveButton,Sair
+MultiResult_HighScoreNotUpdated,"No Live Cooperativo,<br>a pontuação mais alta não será atualizada."
+SSAlignment_SubMenuButtonText,Vincular Skusta
+SSAlignment_SubMenuButtonTextAlreadyCompleted,Já vinculado
+SSAlignment_DialogTitle,Vincular Skusta
+SSAlignment_DialogTextPlayerId,ID do jogador Skusta
+SSAlignment_DialogTextPassword,Senha de vínculo
+SSAlignment_DialogTextInfo,Insira o ID de jogador e a senha de vinculação gerados no Skusta para <br> receber recompensas.
+SSAlignment_DialogTextAttension,Não é possível usar se você não configurou a conexão com o Skusta no Skufesu 2.
+SSAlignment_MessageSuccess,A conexão com o Skusta foi concluída.<br>Receba seus bônus na caixa de presentes.
+SSAlignment_ErrorMessageLock,Não é possível inserir agora. Tente novamente em {0}.
+SSAlignment_ErrorMessageInput,Verifique se o ID do jogador e a senha de vínculo do Skusta foram inseridos corretamente.
+Dialog_TitleConfirm,Confirmar
+Event_EndMessage,O evento terminou.
+Common_Search,Pesquisar
+Common_SearchPlaceholder,Insira aqui.
+MusicLibrary_SearchPlaceholder,"Pesquise por nome da música, compositor, letrista ou arranjador."
+MusicLibrary_SearchWordsEmpty,Insira os termos de pesquisa.
+MusicLibrary_Live,Fazer Live com esta música!
+MusicLibrary_SortDefault,Padrão
+MusicLibrary_SortMusicName,Por nome da música
+MusicLibrary_SortReleaseTime,Data de lançamento
+MusicLibrary_MusicCount,"{0} de <size=-5> músicas, {1} selecionadas, </size> reproduzidas"
+MusicLibrary_MusicEmpty,Nenhuma música encontrada.
+MusicLibrary_Button_MusicDetail,Detalhes da Música
+MusicLibrary_Button_Live,Live
+Multi_CannotSendStamp,Não é possível usar selos agora.
+MusicLibrary_ReleaseDate,Data de lançamento: {0}
+Common_Refresh,Atualizar
+SortDialog_SortRecommendedGuest,Convidados Recomendados
+MusicSelect_ChangeDifficulty,"Nenhuma {0} encontrada, então selecionei {1}."
+Practice_CantUseItem,Não há itens disponíveis para usar no modo automático.
+MusicSelect_NotFullCombo,Não foi combo completo
+RankUpDialog_LpMax,O limite máximo de LP foi atingido.
+StarEvent_TabGroupStarLevelRanking,Ranking do Nível Estelar
+StarEvent_TabGroupStarLevelReward,Detalhes da Recompensa de Nível Estelar
+StarEvent_TabGroupStarPointReward,Detalhes da recompensa de pts do evento
+StarEvent_Get,Obter
+StarEvent_Share,Compartilhe uma vez por dia.
+StarEvent_Assist,Assistência Estelar
+StarEvent_ChangeMusic,Mudar música
+StarEvent_ChangeMusicFirstPrice,Gratuito na primeira vez
+StarEvent_SkippableStarMission,Pode pular para atingir a pontuação!
+StarEvent_Skippable,Pode pular.
+StarEvent_MusicClearText,Selecione uma música e alcance a pontuação alvo no Live!
+StarEvent_PlayCount,Número de músicas tocadas hoje: {0}/{1}
+StarEvent_SkillPercentUp,Pontuação <color=#F93981> + {0}% </color>
+StarEvent_GotAllStarPointReward,Todas as recompensas de evento pt obtidas
+StarEvent_NonPoint,Sem pts.
+StarEvent_NextStarPointReward,Próxima recompensa de pontos do evento acumulado
+StarEvent_GotAllStarLevelReward,Obteve todas as recompensas de nível estrela.
+StarEvent_NextStarLevelReward,Próxima Recompensa de Nível Estelar
+StarEvent_Total,Total
+StarEvent_StarLevel,Nível Estrela
+StarEvent_BeforeLevel,Anterior<br>nível de estrela
+StarEvent_ClearCount,<size=36> {0} / </size> {1}
+StarEvent_StarLevelReward,Recompensa de Nível Estelar
+StarEvent_StarPointReward,Recompensa por Pontos Totais do Evento
+StarEvent_StarLevelRewardDialogTitle,Recompensa de nível estrela enviada!
+StarEvent_ChangeMusicMessage,Deseja alterar a música de {0} para <br>?
+StarEvent_ChangeMusicButton,Mudar música
+StarEvent_StarAssistTitle,Confirmar Assistência Estelar
+StarEvent_StarAssistInfo,"Consumir 1 Ticket de Assistência Estelar para o Live?<br>Ao usar um Ticket de Assistência Estelar, os seguintes efeitos serão aplicados durante o Live:"
+StarEvent_StarAssistBuffInfo,"Bônus de treinamento de Idol 【+{0}%】 <br> *O valor do bônus de treinamento de Idol aumenta ao treinar o Idol até um certo nível. <br> • Durante o Live, torna-se invencível e o HP não diminui. <br> • O efeito de aumento máximo de precisão é ativado constantemente (transforma julgamentos até BAD em julgamentos PERFECT). <br> • A taxa de ativação da habilidade aumenta em 20%. <br> • O efeito do bônus de pontuação dos membros selecionados dobra."
+StarEvent_StarAssistAmount,Tickets de Assistência Estelar disponíveis
+StarEvent_StarAssistButton,Usar Star Assist no Live
+StarEvent_ShareMessage,#Evento Star Challenge em andamento no #スクフェス2!#Meu Nível Star
+Event_PointRewardLoop,"A cada {0} pontos, obtenha."
+StarEvent_LevelRewardLoop,Obter a cada Star Lv.
+EventBonus_StarTab_Score,Bônus de Pontos
+EventBonus_StarTab_Item,Bônus de itens ao fazer login
+EventBonus_ItemBonusStar_Desc,"Se houver Membros selecionados na lista de Idols, o número de itens que você pode Obter no bônus diário aumentará!"
+EventBonus_ItemBonusBonusStar_Attention,*O bônus de itens ao fazer login é aplicado com base no valor total de todos os Membros selecionados na lista de Idols.<br>*O bônus de itens ao fazer login só é aplicado nos dias em que o Ticket de Assistência Estelar estiver definido como recompensa do bônus diário.
+StarEvent_PlayBonus_AllGot,Você obteve todos os bônus de hoje.
+StarEvent_Remain_point,Faltam {0} pts.
+EventBonus_StarScoreBonus_Attention,※O bônus de pontuação será aplicado com base na soma dos valores de todos os membros selecionados presentes na lista de Idols.
+EventBonus_StarScoreBonus_Desc,"Se houver Membros selecionados na lista de Idols,<br>a pontuação que você Obter ao completar o Live da música do evento aumentará!"
+Theater_DialogTitle,Teatro Diário
+GemShop_ClosedGemShopMessage,A compra de Loveca não está disponível no momento.
+GameClose_Payback,Reembolso
+GameClose_Inquiry,Contato
+GameClose_InformationNote,Informações
+GameClose_UserId,ID
+GameClose_PaybackCode,Código de reembolso
+GameClose_PaidGem,Loveca que você tem
+GameClose_Button_Information,Informações
+GameClose_Button_Album,Álbum
+GameClose_Button_TitleList,Título
+GameClose_Payback_CopyMessage,"Copiei o ID, código de reembolso e detalhes do Loveca que você possui."
+GameClose_Payback_CopyText,"ID {0}, código de reembolso {1}, conteúdo do Loveca pago que você possui {2}. <br> <br>"
+Auto_01abf2e45264,Interior
+Auto_02724107c812,Aplicar bônus de evento ativo ao poder total.
+Auto_02b919ddcdf4,Voltar
+Auto_03274bad099f,Recompensa +!
+Auto_0328cfbe3899,Quantidade<br>
+Auto_033c8131ffca,Amigos<br>Solicitar
+Auto_038bc41a7c6c,DEMO
+Auto_03dd9696f109,Assistência Estelar Ativa
+Auto_05db19bd7579,MASTER<br>
+Auto_0a462ba1ee08,Carimbos usados recentemente
+Auto_0b9c90355fa7,Nota
+Auto_0cae74dd2ee6,Alma
+Auto_0ce873d68a35,5x
+Auto_0eb944667807,■Período de solicitação de reembolso
+Auto_0f7fa8f9a3bd,OK<br>
+Auto_0f9511a417ab,Live Score Falsificação
+Auto_1075010ff27d,Seu gasto deste mês
+Auto_109f7d11a0d6,Pontuação do Evento
+Auto_123209ff77c4,Recomendado!
+Auto_12b2b7105fb3,PRINCIPAL
+Auto_12d470debc6c,Detalhes
+Auto_1559210b6441,Outras condições
+Auto_1592365cb790,Consumir<br>
+Auto_1744ba8fe835,Toque para inserir
+Auto_1798815611ff,Lista de Eventos
+Auto_17c2e91f339d,Star Assist Em uso
+Auto_19682bdb9185,Iniciar
+Auto_19d41bf40aad,Pontos de troca
+Auto_1aa6e8ca6610,Nível
+Auto_1ada75706b1c,Google Play
+Auto_1b51bb0ac522,Força total do Membro
+Auto_1d0659501e10,Não há itens disponíveis para compra.
+Auto_1d3921b31495,Dia 1
+Auto_1d97f9dcc3d6,Definir download
+Auto_1db118371c67,Total
+Auto_1e5dd6092929,Para o menu
+Auto_1ebe6a8e14e1,Habilidade ATIVADA
+Auto_204ca2888aa0,Nome do Evento Gacha
+Auto_20946a364888,Para o título
+Auto_20b77e71a816,TUDO<br>PERFEITO
+Auto_21125a762c34,Ligar
+Auto_2184ff8e15c8,O grupo foi dissolvido.
+Auto_252e0f7141ed,Desafio concluído!
+Auto_25f4e117dab6,Aplicar
+Auto_264ccbd4abf8,"Caso jogue sem concordar, haverá restrições como a impossibilidade de participar no sorteio ou candidatar-se a recompensas reais <br> <br>."
+Auto_2850206c3c5a,Limite de gasto por idade
+Auto_2a626ea9baf4,Bônus de pontuação total
+Auto_2c42bdbb8ded,"De 1 de abril de 2024, 00:00 a 17 de junho de 2024, 14:59"
+Auto_2cff4f6ba8c2,Nome do card (máx. 20 caracteres)
+Auto_3050c748c4fa,Excluir dados
+Auto_3091c8446f8d,Voz
+Auto_309200e20a10,Vídeo
+Auto_33906a7dfdec,ABRIR
+Auto_35d0f5fbca4b,Autenticar
+Auto_36680a92670b,Máx. de Combos
+Auto_387d7a59dbaa,LIGADO
+Auto_38bfb0d36aee,Tamanho do download 9999.99 MB
+Auto_3a3662973891,LENTO
+Auto_3b45ef3e2d04,Sair sem configurar
+Auto_3cb25413e47f,Escolher música do evento
+Auto_3d919fa4840b,Reajustar
+Auto_3da474537ac3,Pular
+Auto_408090253cc2,Ordenar
+Auto_41a07ce577b3,Escolher número de trocas
+Auto_42672f9a37d1,Membros selecionados
+Auto_42f76867ad2d,Com episódios
+Auto_42f9f3c2d790,Mudar título
+Auto_4315bc5cce32,Primeira vez:
+Auto_441030094524,Definir preço
+Auto_44e681a374ac,Interromper
+Auto_45bec89c0f50,Remover
+Auto_4693ee8bed24,Troca concluída
+Auto_482939397cb5,NexTone Número de série <br> ID012345678 <br> ID012345678
+Auto_5064a0f4ba98,Baixar dados
+Auto_506f8b799c18,◆Definir animação especial◆
+Auto_5291c399b506,Apenas para ingressos
+Auto_536a08d31bbb,RÁPIDO
+Auto_54ac68559d08,BÔNUS
+Auto_576770016382,Próxima recarga
+Auto_587eac1112fa,VOLTAR
+Auto_58a89456cac6,Definir múltiplos
+Auto_5b4f82050b5f,■Data de término
+Auto_5bfa6380e816,Bônus Contínuo
+Auto_5c9f61d441b4,Português<br>
+Auto_5db23947a6dc,ID do Evento
+Auto_5e9276d98d7e,Bônus
+Auto_61f9b95b94af,Pular usa o recorde como pontuação no <br>resultado.
+Auto_622b0710d2c1,Aaaaiiieeeuuu<br>Eeeeeee
+Auto_6287420f60b0,Bônus de <size=/32>Recrutamento</size>
+Auto_633a7785dc75,Definir alvos
+Auto_63651cf6d9f8,Live <i>! </i>
+Auto_649df08a448e,Inglês
+Auto_64f71689e86e,Salvar
+Auto_65f101b159a1,Como obter
+Auto_660f91b2b864,Lista de Idols<br>
+Auto_66fba5a6fa14,Salvar configurações
+Auto_6740ed068754,Live Burst
+Auto_67a0c5e93888,Redefinir resultados.
+Auto_6a72085653e4,Todos
+Auto_6a9178a4932f,CLÍMAX %
+Auto_6b268944e92c,Confirmar troca
+Auto_6b30feafd1f3,Adicionar pontuação
+Auto_6d9a18833a5a,"Você pode baixar um episódio por vez, mesmo se selecionar ""Cancelar"" <br><br> Você também pode baixá-los todos de uma vez na seção ""Download em lote"" da história mais tarde <br> Como o tamanho dos dados é grande, execute o download em um local com boa conexão de rede <br><br> Recomendamos baixar em um ambiente Wi-Fi."
+Auto_6dd5a42a94c0,Configurar<br>
+Auto_6e444147a521,Baixar todos os vídeos.
+Auto_6e6a6f2086bb,Outros
+Auto_719ea396ad92,Limpar
+Auto_71afae920481,Desconto LP
+Auto_74c545d169bf,Necessário {0}
+Auto_7548ab52c3d1,Força
+Auto_77c6a8345db8,Interromper <br> frase <br>
+Auto_77dfd2135f4d,Cancelar
+Auto_77f505b6262c,Aaa aaaa iiiiii uuuuu <br> eeeeee <br>
+Auto_788a0043ef72,Selecionar prefab de reprodução
+Auto_7c76cd4f10f6,Filtro de Personagens
+Auto_7cb690cac947,Bônus de Jogo
+Auto_7d8bbc065980,Bônus total de pontos do evento
+Auto_7ed45871a39c,Possui: 99
+Auto_7ef4a9de5c25,Cancelar
+Auto_7f450bbd899c,Consumir 3
+Auto_80212d3591fe,Artificial
+Auto_8223fef77e91,Filtro de BAND
+Auto_8293da245b3b,Filtro de raridade
+Auto_845ae4bff63e,Obter Evento P
+Auto_848e23d86457,POWER restante
+Auto_85932094d554,Recompensa por evento
+Auto_88b79a43a5a2,Recrutar com <size=28>
+Auto_89c6e6591da2,Formação
+Auto_8ac8a8695f8c,Condições para liberar a roupa aaaaaaaaaaaaaaa<br>Condições para liberar a roupa aaaaaaaaaaaaaaa
+Auto_8b587a7dbf54,Rank Geral da Banda
+Auto_8fb2690daca7,Fechar
+Auto_8fc78aae68c7,Rank da Banda
+Auto_8fe39d4e10b7,Crescente<br>
+Auto_9241dc943583,Consumir
+Auto_9273914e5109,Restaurar padrão<br>
+Auto_959f794269e3,Foto
+Auto_98205d57bde6,X JAPAN
+Auto_98cb7f8b4243,Número de pulos contínuos
+Auto_9d2900c40ab7,Smile para você.
+Auto_9ebddc6b6669,LUNA SEA
+Auto_9f783ad4a18c,Definir cena
+Auto_a1477059aa3b,Definir como convidado
+Auto_a1dea8028b01,Vol.
+Auto_a328a2d80d00,Descartar
+Auto_a338c21bfd26,Nível da Estrela aumentado!
+Auto_a3c686e711e4,Categoria
+Auto_a4911f7f372a,Volume da voz
+Auto_a8dc0179d0a8,Seu limite de compra
+Auto_a9a279c07f10,Quantidade para troca
+Auto_aa3fa7dd256b,"Para participar do evento, você precisa concordar com os <br> Termos de Uso <br>. Leia atentamente e toque em ""Concordo"" <br>."
+Auto_ac35bd4adf50,"«Love Live! School Idol Festival 2 MIRACLE LIVE!» encerrou seus serviços em <br><br> a data e hora abaixo. <br><br> Além disso, aceitaremos solicitações de reembolso do saldo não utilizado da moeda exclusiva do aplicativo, «Loveca», dentro do aplicativo a partir da programação abaixo. <br>"
+Auto_ac7c161425e5,Consumir LP
+Auto_acca96a91aa4,Não desbloqueado
+Auto_ad4d9cc1b087,Ao ar livre
+Auto_ad50489054dd,DESLIGAR
+Auto_add22ce29a3d,Recuperação de LP
+Auto_b07900dc57ed,pt
+Auto_b0e4ee23c952,Recrutamento vezes
+Auto_b13d33a52865,Fundo
+Auto_b2f2b09e6e2d,Possui {0}
+Auto_b31d5ea85dff,3ª vez:
+Auto_b68eb2cb5bf1,Prazo de uso
+Auto_b6e09f881f83,Pontuação pessoal
+Auto_b6e3f5c3b4f2,Novo destino...
+Auto_b72306f4e35d,NORMAL<br>
+Auto_b8143777066d,2ª vez:
+Auto_b8571eaa5763,TOQUE NA TELA
+Auto_b8a4ee600c4a,Ano
+Auto_b9fa67abcaf9,Selecionar
+Auto_bc811258ae9f,Tocar
+Auto_bd89f983989e,Confirmar recuperação
+Auto_bf22940fda0d,Confirmar trocas
+Auto_bf62b8f395bb,Resultado do ajuste de tempo.
+Auto_c25f358874d1,Ir para o Live gratuito
+Auto_c28c25bf8e62,Detalhes do item
+Auto_c401efeb943c,Aumentar Rank
+Auto_c7eb0f35af72,CENTRO
+Auto_c7f325f13f16,Restaurar
+Auto_c998d2ee5b08,VL
+Auto_cc5ea3852219,Toque nos ícones de ritmo no ritmo da música.
+Auto_cd131363eae4,GLAY
+Auto_cde3eb972d17,Retomar
+Auto_d00d84c15d3a,Live Burst<br>
+Auto_d47b6f2a9df1,<size=26>Atualmente </size> <size=24> de </size> <br> etapa.
+Auto_d54d12f95c41,Nome
+Auto_d5ab84b435fb,Ano
+Auto_d63f619942b9,Natural
+Auto_d6b401a4b2ac,Missão<br>Concluída!!
+Auto_d8cb03e33092,Apelo
+Auto_d8ec9e35d2f2,Nome do Membro
+Auto_db66ad7b9586,4ª vez:
+Auto_dcae5862b56f,Combo
+Auto_dd48a1149548,Rank
+Auto_df50ec2cd8cb,Quantidade de itens
+Auto_df6861322391,"Nome do card máximo, nome do card máximo"
+Auto_df6e6c5f5960,Pontuação total do multijogador
+Auto_e0491d31d0f7,Para o Live Multi
+Auto_e11c09011cad,Agradecemos o seu apoio durante todo este tempo.<br>
+Auto_e4d2bab524b4,"《Love Live! School Idol Festival 2 MIRACLE LIVE!》encerrou seus serviços em <br>31 de março de 2024. <br>Se você deseja solicitar o reembolso do saldo não utilizado da moeda exclusiva do aplicativo, ""Loveca"", copie as informações abaixo exibidas e entre em contato através do formulário de ""Reembolso"". <br>Para isso, copie o conteúdo <br>abaixo e envie-o através do formulário de ""Reembolso"". <br>Agradecemos por jogar."
+Auto_e7a1f2b591d7,Os Lovecas serão consumidos a partir da quantidade gratuita.
+Auto_e7ae8d0559ec,Medalhas
+Auto_e7e170510efe,31 de março de 2024 (domingo) 15:00
+Auto_eab6741c0f59,Texto
+Auto_eb1a2d429c58,Executar
+Auto_ebb93d3b53a4,Efeitos
+Auto_ebcf18c786af,Técnica
+Auto_ec828e93801a,Nível<br>
+Auto_ed28cf13bde2,Início
+Auto_edcb599b9885,"O vídeo da gacha especificada será carregado <br><br>. As cartas que aparecerão não dependem da gacha, mas sim das configurações."
+Auto_edee9402d198,Próximo
+Auto_ee3c38fe094f,Resultado da avaliação
+Auto_ef3619115ff6,Pontos de Recrutamento
+Auto_efd565d40ade,Repetição contínua
+Auto_f0d441f3dfff,Nome do traje
+Auto_f12ab05bb974,Ordem decrescente<br>
+Auto_f22f0eb3fa2b,Bandas Favoritas
+Auto_f4cb18567198,Adicionar carta<br>
+Auto_f5ecb4b9a22d,Texto <br> Texto <br> Texto <br> Texto
+Auto_fe212fc5ce20,Pular
+Auto_fff655d2974f,CENTRO<br>
+Auto_003c9447ae9b,Botão de cabeçalho
+Auto_00b165f88921,Voz
+Auto_024500726b03,Distribuir
+Auto_029ebd875fdb,Texto<br>Texto
+Auto_044adfd9ed9d,PASSO 4
+Auto_04b455ccba55,Loja de Itens por Tempo Limitado
+Auto_057d38b205d3,Título do Grupo
+Auto_05bf2aac7949,"Ao realizar a transferência de dados, os dados do jogo neste dispositivo serão <br>excluídos e substituídos pelos dados do jogo da conta original. <br>Se a transferência for feita entre sistemas operacionais diferentes, as medalhas pagas serão convertidas em medalhas gratuitas. <br>No caso de uma transferência dentro do mesmo sistema operacional, os dados serão transferidos como estão. <br>"
+Auto_079bf11eeff3,Versão 0.0.1
+Auto_07a05e260d6b,Nome da Habilidade Central
+Auto_07ddf136db16,16~17 anos:
+Auto_09ec0c5b620d,Texto de teste
+Auto_0c6ca3b6cc0a,Título
+Auto_0cb8722f43db,LP restaurado em 99.
+Auto_0d57f9526844,Não há dados de reprodução para esta música.<br>Vamos tocar a música!
+Auto_0e68b6445410,Não há itens para troca.
+Auto_0e8f4f23a65a,Complete BINGO 1 e 2 para desbloquear.
+Auto_0f04165846d6,Seleção
+Auto_0f16b706d0e6,*Deve conter de 8 a 32 caracteres alfanuméricos.*
+Auto_11412d0e8910,Taxa de chance especial
+Auto_121def961f9a,ID de Transferência<br>
+Auto_13e47abd10a7,Usar de Espírito e iniciar o Live? <br>※O Live Burst não será consumido.
+Auto_13fd30e09401,Reseta toda semana às segundas.
+Auto_146927317e55,Pontos do evento<br>Recompensa por conquista
+Auto_14bf1f14b527,Deseja consumir 〇〇 Ouro e<br>alterar aleatoriamente 「〇〇〇〇〇〇〇〇〇〇（曲名）」 para outra música?
+Auto_163d2f0d102b,R$5.000
+Auto_1703cc1d1ab7,"Ao realizar uma das seguintes configurações, você poderá transferir seus dados ao trocar de dispositivo.<br>Use-o como precaução contra a perda de dados ao desinstalar o aplicativo."
+Auto_171264a7eb78,Yuki aaaaaaaaaaa
+Auto_1738ae542173,Texto texto texto
+Auto_17a21f8751b1,Hōnoka
+Auto_18ce79396792,Estagiário Gerente
+Auto_193f0038f792,Consumir Loveca para realizar Recrutamento? <br> <color=#C70F01> <size=30> Faltam Loveca (paga). Deseja comprar? </color> </size>
+Auto_1996a5682af1,Aviso de encerramento do serviço<br>
+Auto_1a355bfca80b,Consumir medalhas (pagas) para comprar.<br>Tudo bem?
+Auto_1ba4c95c1b7e,"μ's, o quarto single, lado B. Na animação, Maki Nishikino a toca no salão de música e também é memorável na cena do coral da formatura. Existem várias versões, mas na versão original, preste atenção à linha de baixo. <br>μ's, o quarto single, lado B. Na animação, Maki Nishikino a toca no salão de música e também é memorável na cena do coral da formatura. Existem várias versões, mas na versão original, preste atenção à linha de baixo. <br>μ's, o quarto single, lado B. Na animação, Maki Nishikino a toca no salão de música e também é memorável na cena do coral da formatura. Existem várias versões, mas na versão original, preste atenção à linha de baixo."
+Auto_1be7423211a5,Nome do item aaaaaaaaaaa<br>
+Auto_1e0e1976379b,9.999.999 min
+Auto_1e17ebb75b4d,Loveca Stone 100 <br> <size=22> Bônus Loveca Stone 100 <color=#F93981>
+Auto_1e531d5608ba,(Tenha) 100
+Auto_1fd729e61328,Transferência concluída<br>
+Auto_21461c8ad16a,É o código serial do nome da campanha.
+Auto_217db72fc82b,Nível de habilidade
+Auto_2187f31d0823,Taxa de ativação de habilidade <color=#F93981>+0.6</color> aumentada
+Auto_21a6013d6db7,"Nome1, Nome2"
+Auto_231660b3e9aa,Yuki aaaaaaaaaaaaaaa
+Auto_2359a6bc9f8e,Até 31/12 23:59
+Auto_2372659b2fa8,Personagem1 : Texto1<br>Personagem1 : Texto1
+Auto_23c425468cfa,Bônus de login — Obter
+Auto_23d692f07a3f,Pai
+Auto_24331d4b3c4b,EXPERT 10
+Auto_24ef5199c19f,Baixar...
+Auto_265c145b1c11,Consumir Auto Burst
+Auto_28578faf0062,Novo texto
+Auto_2910ca68352e,"《Love Live! School Idol Festival 2 MIRACLE LIVE!》encerrou seus serviços em 31 de março de 2024 (domingo). <br> Período para solicitações de reembolso: de 1º de abril de 2024 (segunda-feira), 00h, até 17 de junho de 2024 (segunda-feira), 14h59. <br> <br> Agradecemos o apoio de todos vocês. <br> <br>"
+Auto_2991fd24eff8,NORMAL
+Auto_2a9e2a96f3a5,A data de nascimento não pode ser alterada posteriormente.
+Auto_2ae6850cf007,EXPERT Nível 11
+Auto_2db52bd8d99d,Número de partidas hoje: 1/10
+Auto_2e84ab497270,Nome do card máximo de trinta caracteres.
+Auto_30629014ffdf,1.000.000º
+Auto_327896c958c6,新田惠海
+Auto_32cca4a1edcd,Nível Especialista 11
+Auto_32f04a55794f,Repetição: Desativado
+Auto_349584413283,Nome de usuário máximo dez caracteres
+Auto_3500bbd544a3,"Bônus de desenvolvimento da Idol <br> • Invencibilidade durante o Live, sem redução de HP <br> • Ativação constante do efeito máximo de aprimoramento de precisão (transforma avaliações até BAD em PERFECT) <br> • Aumento de 20% na taxa de ativação de habilidades <br> • Efeito de bônus de pontuação dos membros selecionados é dobrado <br>"
+Auto_354fd93c17f2,Título da história
+Auto_3588a5b623b0,PASSO 7
+Auto_360cb694c2ae,segundos
+Auto_36fc221e2e45,"Letra: Hata Aki, Música: Kojima Ryota, Arranjo: Kusaka Mayumi"
+Auto_3770af0c5c4e,1000 pt
+Auto_37900575e30d,Velocidade:
+Auto_383617f9c339,Título
+Auto_38bf4ac9d31b,123456789pt
+Auto_38d63311e93b,PURO
+Auto_393d0282bf7d,Você obteve os seguintes itens<br>
+Auto_399acfa696ba,Nome da Unidade 6789012345
+Auto_3ae3222a8a7c,ID
+Auto_3b18e8e33250,Volume
+Auto_3bdd53e3c81d,SMILE
+Auto_3c153c60bc73,Nome do item/carta
+Auto_3cab1d5076f2,"Ao transferir dados entre sistemas operacionais diferentes, gemas pagas serão convertidas em gemas gratuitas.<br>Em transferências dentro do mesmo sistema operacional, as gemas pagas serão transferidas como estão."
+Auto_3e252f2489fa,Série entrou. <br> Série entrou. <br> Série entrou.
+Auto_3f5567240d61,Tipo O
+Auto_3fed241ef790,Eventos Totais
+Auto_4002d1a146fa,"Veja os 3 episódios do dia a dia das idols de μ's, Aqours, Nijigaku e Liella!"
+Auto_40e01c24654a,Nijigasaki Gakuen School Idol Club
+Auto_414ee4134bd7,"Se houver Membros selecionados na lista de Idols, <br> o número de Estrelas Mágicas que você pode Obter como bônus diário aumentará!"
+Auto_41b187f87bd2,157 cm
+Auto_432849e0e729,Nome do personagem
+Auto_434ea13d1c5f,aaaaaaaaaaaaaa
+Auto_439bd1f70732,Mantemos a caixa de texto para precaução.
+Auto_451416850ad2,Modo Bluetooth
+Auto_458a25f3bc2b,aaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>12345678901234567890123456<br>26 letras × 3 linhas
+Auto_45a309dcbdfa,aaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>12345678901234567890123456<br>26 letras × 3<br>
+Auto_463938856430,ID de Transferência:
+Auto_463dc0e2645f,Letra: Test<br>Música: test
+Auto_47b4753f220d,Título
+Auto_486a5b286b90,Complete todas as missões diárias.<br>Complete todas as missões diárias.
+Auto_4ac93a41ce71,Composição: -
+Auto_4b8ea9b1a845,"Sem devoluções <br> O MIRACLEパス tem período de teste de 1 mês após inscrição <br> Após o teste cobranças mensais na sua loja até cancelamento <br> e validade renovada automaticamente <br> Para encerrar apenas no período de teste sem renovar <br> cancele até 2 dias antes do fim do teste <br> Validade de 1 mês a partir da compra ou renovação automática <br> Renovação automática mensal <br> Cobrança mensal de 980 ienes pela renovação automática <br> A validade é atualizada automaticamente a menos que a renovação do MIRACLEパス seja desativada <br> No dia da renovação pode haver atrasos no processamento <br> Se os benefícios não aparecerem temporariamente aguarde e recarregue <br> Ao cancelar desative a renovação automática até 48h antes do fim da validade <br> Benefícios ativos durante a validade mesmo com cancelamento antecipado <br> MIRACLEパス válido apenas na conta do app usada na inscrição <br> Até o fim da validade na conta anterior à transferência <br> não é possível nova inscrição <br> Se criar nova conta do app por exclusão etc <br> não poderá transferir o MIRACLEパス <br> Em caso de inscrição múltipla/duplicada no mesmo MIRACLEパス <br> os benefícios não serão acumulados <br> Após o fim da validade pode levar tempo até a desativação real dos benefícios <br> Mesmo excluindo o app se não cancelar <br> a renovação automática continuará <br> Em troca de dispositivo com SO diferente ou transferência para conta no mesmo SO <br> os efeitos do MIRACLEパス serão mantidos na validade <br> Por isso quem for se inscrever novamente deve cancelar na plataforma (ou <br> conta) anterior antes de assinar <br> Até o fim da validade na plataforma (ou conta) anterior <br> não é possível nova inscrição <br> <br>■Como verificar a validade e cancelar (desativar renovação automática)<br> Cancelamento do MIRACLEパス no seguinte procedimento <br> Após cancelamento e fim da validade benefícios desativados <br> ※Operações podem variar conforme versão do SO ou dispositivo Obrigado pela compreensão <br> <br>1 Toque em ""Cancelar"" na parte inferior desta tela <br> 2 Toque em ""Ícone '≡' no canto superior esquerdo > Assinaturas recorrentes"" <br> 3 Se desejar cancelar toque no item <br> 4 Toque em ""Cancelar assinatura recorrente"" e conclua o cancelamento"
+Auto_4ca3fbc3f316,Foto adesivo
+Auto_4de912463d5b,• Usado dos Loveca Stones gratuitos.
+Auto_4e8e36e11ba0,JASRAC許諾<br>第123456789ABCDEFG号
+Auto_4f3f313eb655,"Nossa apresentação, sua vida."
+Auto_4f62ed577823,"Ao transferir entre sistemas operacionais diferentes, gemas pagas serão convertidas em gemas gratuitas.<br>Na transferência dentro do mesmo sistema operacional, as gemas pagas serão transferidas como estão."
+Auto_513968cec3d1,Até 30/06/2023
+Auto_522175083f0b,Limpar cache
+Auto_526b4090303d,"Informações importantes, não compartilhe com terceiros <br> Salve em um bloco de notas ou tire um print <br> A senha pode ser alterada posteriormente <br>"
+Auto_5472f4068cb1,"堀内まり菜 (椿ルリカ), 浅井七海 (皇ユズハ), 杏ジュリア (北条ユキノ), 小山璃奈 (天草ヒカル), 佐藤美波 (三笠マーヤ)"
+Auto_55ee85cd4dcc,Sobrenome Nome
+Auto_560dd21d26a8,Insira o ID e a senha de transferência.<br>
+Auto_567ad1eee4be,Nome da Recompensa
+Auto_56809f756f76,Deseja receber os benefícios de ? <br>
+Auto_572b0f9c1d1b,Texto texto texto texto texto texto texto texto texto
+Auto_572e68ce60da,Obter 10pt
+Auto_57859cb7238a,Nome do Personagem
+Auto_586b09d35825,Quantidade: 9999999
+Auto_58c3db41d9fc,Vídeo da Gacha Selecionada
+Auto_58f52a673e60,Nome do item/card (máx. 30 caracteres)
+Auto_595596e10b8b,Não há cartas que possam ser aprimoradas.
+Auto_5a6b54f04f20,9.999.999 pt
+Auto_5aa7dabc547e,"(Máx. 2 linhas, 26 caracteres)"
+Auto_5b0e14341d79,高坂 穂乃果
+Auto_5d7171891b9e,Título da história
+Auto_5e2c3623f817,"A bateria está fraca <br> A carga restante é de <color=""red""> 7% </color> <br> Se a notificação da bateria do dispositivo for ativada, o <br> Live pode ser interrompido <br> Recomenda-se carregar o dispositivo."
+Auto_5e63c03e564f,Interromper a reprodução do MV e retornar à tela de seleção de música?<br>
+Auto_5e88baf24aea,Cache limpo com sucesso
+Auto_5f21648a666a,Mais 999 dias
+Auto_6114d553d8a5,O bônus de recompensa do login será aplicado ao valor total de todos os Membros selecionados na lista de Idols.<br>O bônus de recompensa do login será aplicado apenas aos dias em que um Milagre Estelar estiver definido no bônus de login.
+Auto_62933bba4c77,Fonte:
+Auto_62b3c4231032,LIMPAR CONTAGEM<br>
+Auto_6311b5d2d37d,Nv. 000
+Auto_64e02dbe9ba6,PASSO 1
+Auto_669d4fab42d5,Faltam 9999 (redefine toda segunda-feira à 0h)
+Auto_67c008e4fd30,Nome de exibição
+Auto_67dbec9cc4e4,Limite de ¥10.000
+Auto_6842c74c4d51,Criança
+Auto_6b3f6985eb92,Pequeno Demônio nº 1
+Auto_6bfa25be446d,Bebida isotônica
+Auto_6d17169b8845,Liberar História
+Auto_6eee3369a6c0,XXXXX XXXXX XXXXX
+Auto_6f9b9af3cd6e,mensagem
+Auto_6fc69aae7ef1,20XX/99/99 99:99
+Auto_6fd05cc842c9,<color=#ff5500> <size=28>Uma vez por dia</color> </size> <br>Reseta diariamente à meia-noite.
+Auto_709a23220f2c,Nome
+Auto_7123fcc9c635,Uso 345678901234567890123456789
+Auto_7171d9cb0cf3,Nome do item
+Auto_71cd10385774,Ultrapasse o limite para desbloquear o vídeo.
+Auto_71fd4dacfad1,1 de agosto
+Auto_737f138ed948,Hoje<br>Usado
+Auto_75e1496591d4,Verificar
+Auto_76fb59ce183d,"Descrição de itens, etc. Descrição de itens, etc. Descrição de itens, etc. ○<br>Descrição de itens, etc. Descrição de itens, etc. Descrição de itens, etc. ○"
+Auto_773a03413bdc,Nome do item (máx. 20 caracteres)
+Auto_78f1b4350a83,Até 31/12/2021 12:00
+Auto_794145f030ff,Botão
+Auto_7a5db5a1f223,2 anos
+Auto_7bf2e2580045,Capítulo Retrospectiva
+Auto_7c1698e461f9,Nome do membro (máx. 10 caracteres)
+Auto_7c54bd6c4a3f,Os parâmetros da<br>carta foram atualizados.
+Auto_7dee13bf0dd8,YOSHIKI
+Auto_7f2b15f3359a,Faltam 16 dias
+Auto_7f91240a914e,O nome do item de troca pode ter no máximo dezesseis caracteres.
+Auto_82434dcead71,Opção B
+Auto_827ada3af78a,"Ao realizar a transferência de dados, os dados do jogo neste dispositivo serão excluídos e substituídos pelos dados do jogo original. <br> <br> <br> Ao transferir entre sistemas operacionais diferentes, as gemas pagas serão convertidas em gemas gratuitas. <color=#c70f01> Se a transferência for feita entre o mesmo sistema operacional, as gemas pagas serão transferidas como estão. <br> </color>"
+Auto_8449eea355c4,Descrição da habilidade central<br>Descrição da habilidade central
+Auto_860981a8b394,Título Título Título Títu
+Auto_87c522a79361,Descrição da habilidade <br> Descrição da habilidade <br> Descrição da habilidade
+Auto_8957ed473795,Arranjo: -
+Auto_8b0bbe5fa2a0,Data de nascimento não pode ser alterada depois.
+Auto_8bdd1e8256dd,Normal 1
+Auto_8c3c5dc7add8,Deseja mesmo transferir?<br>
+Auto_8d1308cd282c,Asaka Karin
+Auto_8d54688f884e,Hashtag
+Auto_8d7f5abed4eb,O cache foi limpo com sucesso.<br>
+Auto_8ec81c9e6bba,Nenhum título foi obtido.
+Auto_8ecd1842d6d5,Verificar bateria
+Auto_8eee6c561bb2,"Ao transferir dados entre sistemas operacionais diferentes, gemas pagas serão convertidas em gemas gratuitas. <br> Se a transferência for feita dentro do mesmo sistema operacional, as gemas pagas serão transferidas como estão. <br>"
+Auto_8f7124fb70a8,Parabéns por completar o tutorial<br>Voltando à tela de título.
+Auto_91152b56f991,camada<br>
+Auto_920d74d2ff09,Dia 1
+Auto_920f67831677,Tarefa especial
+Auto_940387049ad0,"Um grupo de idols escolares da Academia Feminina Ketsumyō, que atua principalmente em Harajuku, Tóquio. <br>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+Auto_94e6b092259d,Limpando o cache.<br>Aguarde até a conclusão.
+Auto_953670412850,"O modo foi alterado para Bluetooth devido à conexão de fones de ouvido Bluetooth <br> Em Modo Bluetooth, os efeitos sonoros podem ter um pequeno atraso durante o Live <br> ※ As configurações de ajuste de toque para Bluetooth serão aplicadas."
+Auto_957c2a10d823,O nome da unidade pode ter no máximo 16 caracteres.
+Auto_965fb2ddf63d,Receber
+Auto_97855c87fb9b,PASSO 6
+Auto_9850ea73a3e8,Texto texto texto texto texto
+Auto_98997bef6406,Confirmar<br>
+Auto_99122787e954,Mensagem mensagem mensagem ●● <br> Mensagem mensagem mensagem <br> Duas letras <br> Quatro linhas
+Auto_99940a7d6018,0x<size=-3> vezes </size>
+Auto_9a5e7fc5a514,Então é por isso que tocamos!
+Auto_9bc6fb8cccfc,"*Máximo de 30 itens podem ser armazenados. Itens mais antigos serão excluídos se o limite for excedido. Além disso, o histórico de recebimento será automaticamente excluído após 100 dias da exibição.*"
+Auto_9d3cadaec013,"Ao transferir dados entre sistemas operacionais diferentes, gemas pagas serão convertidas em gemas gratuitas.<br>Na transferência dentro do mesmo sistema operacional, as gemas pagas serão transferidas como estão."
+Auto_9d81b6cadd5c,Área de exibição de XP
+Auto_9d86b9378453,Posição 99999
+Auto_9daaa404b4c3,Nome do item/carta (máx. 30 caracteres)
+Auto_a0685b910206,Pesquisar
+Auto_a08046709963,Composição: <br> Letra: <br> Arranjo:
+Auto_a0d95c9b62e6,Texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+Auto_a0ec88460069,Data de lançamento: 8888/88/88
+Auto_a1a8a57f247c,Live Burst restaurado em 10.<br>Limite de amigos aumentado de 5 para 10.
+Auto_a45ad5596a9e,Sobrenome Nome
+Auto_a50b3e2b4507,Nome do item (máx. 12 caracteres)
+Auto_a65f3a8a2407,Por 72 horas
+Auto_a69be1e057ef,1º ano
+Auto_a6a31e215fdd,Evento P
+Auto_a7726b3f99f0,"aaaaaaaa (máx. 2 linhas, 21 caracteres)"
+Auto_a78153e9f407,ABCD EFGH IJKL MNOP
+Auto_a808eee2241b,"Receba o nome de usuário mais longo em três caracteres. Receba-o.<br>Se você receber um nome de menu que seja muito longo, ele será rejeitado."
+Auto_a94d5d0c7027,Nome do ticket
+Auto_aa1168393020,Insira sua data de nascimento para confirmar a idade.
+Auto_ac34920d91ed,Recompensa • EXP
+Auto_ac6c98656ccc,LAWSON
+Auto_acb992ab8026,Sem configuração
+Auto_ad9ec245bacb,EXPERT Nível <size=26>Lv</size>
+Auto_adf974909200,O valor gasto este mês ultrapassou 100 mil. Deseja continuar com a compra?
+Auto_afa7944cae4b,"Uma linha, 21 caracteres<br>Máximo de 2 linhas"
+Auto_b067846ca702,Até 31/12/2099 00:00
+Auto_b1181d44cd51,Descrição de itens e similares
+Auto_b2ad896a1cb2,PASSO 2
+Auto_b3361a468f26,Até 30/11/2021 13:59
+Auto_b4ae1b9654fd,A fala será inserida. <br> A fala será inserida. <br> A fala será inserida.
+Auto_b528c11750d0,Ofereça um presente
+Auto_b5414c090b1d,O efeito do bônus de pontos do evento não se acumula; apenas o maior efeito entre os membros da Formação será aplicado.
+Auto_b59e287feb4c,Restam 99 tentativas
+Auto_b78072c47e29,Descrição da habilidade central <br> Descrição da habilidade central <br> Descrição da habilidade central
+Auto_b7dfc9785b79,Sonho Incompleto! (Versão da Escola Secundária Tsubaki Sakuhana)
+Auto_b803c31897b9,Cache limpo.<br>
+Auto_b8be7f2cb5de,Recrutamento<br>Texto
+Auto_b95b73ebd08b,162 cm
+Auto_ba5dc2cc4de4,Seleção do Clube de Ídolos Escolares da Academia Nijigasaki
+Auto_baed348504d9,(Sem)-1000
+Auto_bc40521e5705,Título da história
+Auto_bccc54ef43f6,Obter Membro Favorito
+Auto_be3bffb9fcbf,Nv. 99
+Auto_be60bc27fbf7,<size=50>10</size> Recrutamentos
+Auto_bef81964e6fa,Conclua o nível 1.
+Auto_bf4c732a9812,O bônus de pontos do evento é ativado ao formar uma equipe com membros selecionados!<br>A quantidade de pontos de evento que você pode obter ao completar um Live aumenta!
+Auto_bf91f3a572ba,"• O Auto Burst será usado começando pelos que têm menor tempo de duração <br> • O Auto Burst só pode ser usado em músicas já completadas <br> • Não é possível usar o Live Burst e o Auto Burst ao mesmo tempo <br> <color=#D73C55> É possível jogar mesmo sem ter nenhum Burst disponível. No entanto, a recompensa, EXP e os pontos do evento serão multiplicados por 1 </color> <br>"
+Auto_c1fa719d598a,Confirmar uso de Espírito
+Auto_c3a4f560ab26,Mensagem mensagem mensagem mensagem<br>Mensagem mensagem mensagem mensagem
+Auto_c4a400246fd1,Selecione a conta de rede social para vincular.
+Auto_c4c9a1fdfc9e,Insira o conteúdo a ser exibido <br> Insira o conteúdo a ser exibido <br>
+Auto_c6d374d72d7f,Apresente-se com um sorriso! (Versão Rainbow High School Idol Club)
+Auto_c6de9c87f72e,Nv. 9/9
+Auto_c76d98f6d9fb,«Tipo de história #○○»<br>O «Parte da história ○○» foi desbloqueado!
+Auto_c892f3e56f53,Comprar pacote premium?
+Auto_c9fac4d62211,"Na Formação, faça com que a soma de algum atributo seja maior ou igual a 29000."
+Auto_ca61133f09ff,Número de músicas tocadas hoje: 1/5
+Auto_ca635e2d27c2,asdfasdfgasdgf
+Auto_ca7ddec2aa05,"O número de Live Bursts restantes está abaixo do limite definido. Deseja realizar o Live usando apenas os Live Bursts disponíveis, sem recarregá-los? <br> Usaremos <br> Live Bursts e você poderá continuar. <br>"
+Auto_cad73579d948,"Até 12/12/2022, 12:12"
+Auto_caeac8b0e507,Nome da música
+Auto_cb3ba916e5a5,Aumentar Nível da Banda
+Auto_cc5e60312e77,Você pode transferir seus dados ao trocar de dispositivo configurando uma das opções abaixo.<br>Também pode ser usado como precaução contra a perda de dados ao desinstalar o aplicativo.
+Auto_cd292cafcb22,Obteve <br>※Os membros obtidos serão adicionados diretamente.
+Auto_cefaf311b26d,"No modo multijogador, detectamos comportamentos que prejudicam outros jogadores <br>. Limitaremos temporariamente suas funções <br>. Aguarde até que a restrição seja removida."
+Auto_cff4d31a542a,Mais vezes este mês
+Auto_d109f177e1ca,*O bônus de obtenção de Miraculosas Estrelas não se acumula; apenas o efeito mais alto na lista de Idols será aplicado.<br>*A quantidade só aumenta nos dias em que houver um bônus diário de login com Miraculosas Estrelas.
+Auto_d13b8de51614,Consumir os itens selecionados para recuperar 999 de LP?
+Auto_d26e16005b9b,Nome da Unidade 67890123456
+Auto_d3956f3f07bd,O que é a habilidade central? <br> hoge <br> hoge
+Auto_d49438232a89,Priorizar bônus de pontos
+Auto_d49d030a4c41,Entre no menu principal
+Auto_d514ddda1f2b,Nijigasaki Gakuen School Idol Club<br>
+Auto_d5e65e858e9f,JASRAC<br>Nº 123456789ABCDEFG
+Auto_d68606f69a20,EXP total:
+Auto_d7d50bd43ec5,123456 76gHH JGFDD
+Auto_d7d921bdbb52,Nome da região
+Auto_d95c4718456b,Nome da campanha aqui: 〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇
+Auto_da4223df6db9,Você obteve os seguintes itens.<br>
+Auto_daf84f7c7d22,Primeira metade
+Auto_dc7f77b4ccfc,Repetir
+Auto_e0bf83c834c3,— <size=30>posição</size>
+Auto_e11359efb14c,ROSIER
+Auto_e148ce3a95d1,Configuração de Consumo Burst
+Auto_e1c8e6e7609b,"A configuração da transferência de dados foi concluída. <br> Após baixar o aplicativo no dispositivo de destino, acesse <br> [MENU] na tela inicial e selecione <br> [Transferência de Dados] para inserir seu ID e senha de transferência. <br>"
+Auto_e1dfd8068c2c,Pausado
+Auto_e2c1a45b20e9,Episódio
+Auto_e2c3fd94c0d0,<size=100>Sul<size=80> <size=100>Co<size=80>to
+Auto_e2dd1dd4eff5,"O título do quadro será inserido aqui, com um máximo de 24 caracteres."
+Auto_e41a824f0330,"あああああ（máx. 18 caracteres por linha, 2 linhas)"
+Auto_e4fed19cc108,Consumir 1000 gemas para comprar o conjunto de itens.<br>Este item só pode ser comprado com gemas pagas.
+Auto_e681a79dd251,Descrição do título <br> Descrição do título <br>
+Auto_e6a58fc3b7ed,PASSO 5
+Auto_e734b3d49dce,Letra: Yamada Takahiro <br> Música: Yamada Takahiro <br> Arranjo: Yamada Takahiro
+Auto_e760d2bb643b,Limpar cache.<br>Confirma?
+Auto_e8a8b7c6038e,Loveca necessária para comprar
+Auto_eb2d423b05fd,Pontos de Recrutamento []
+Auto_eca4f8397ade,Rank<br>
+Auto_ed19e903d580,Nome da habilidade
+Auto_ee1a9acc0e95,Nenhum histórico de uso disponível.
+Auto_ee4c907f5db2,FPS
+Auto_eedc6a01343e,Até 17h do dia 1º de janeiro de 2020
+Auto_ef900ac4aaaa,Nome do artista
+Auto_f082d04a8efb,Viena Margarete
+Auto_f08c587b54a5,Texto texto texto texto texto texto texto texto texto texto texto texto <br> Texto texto texto texto texto texto texto texto texto texto texto texto <br> Texto texto texto texto texto texto texto texto texto texto texto texto <br> Texto texto texto texto texto texto texto texto texto texto texto texto <br> Texto texto texto texto texto texto texto texto texto texto texto texto <br> Texto texto texto texto texto texto texto texto texto texto texto texto <br> Texto texto texto texto texto texto texto texto texto texto texto texto <br> Texto texto texto texto texto texto texto texto texto texto texto texto <br>
+Auto_f1399a500121,ETAPA 3<br>
+Auto_f23c1a3a61ab,"Ayase Nico (CV. Tokui Aoi), Hoshizora Rin (CV. Iida Riho), Koizumi Hanayo (CV. Kubo Yurika)"
+Auto_f265c8f36b84,<size=100>Sul<size=80> <size=100>Nico<size=80>tori
+Auto_f65f17e85292,Opção A
+Auto_f660160beb91,Mensagem
+Auto_f66750e6a4d9,Política de Privacidade<br>
+Auto_f6f99b4fccd5,Título
+Auto_fa4421e93912,"Voa, pena do meu coração, até você!"
+Auto_fc02722f2e79,Aumentar parâmetros
+Auto_fe1465b2f630,Limpar cache.
+Auto_ff511e92f6a2,Velocidade do marcador = 6
+Auto_3deeeac74475,Novo Texto_Novo Texto<br>Novo Texto_Novo Texto
+Auto_316076ac0fd6,HONOKA KOSAKA
+Auto_e33d9b3310c8,Hobbies:
+Auto_c3328c39b0e2,Texto
+Auto_b31a6165ed15,Participando
+Auto_e08da1d02602,Status da seleção
+Auto_e59d7bc19c8f,O bônus de evento só é aplicado à Idol com o maior efeito na Formação atual.
+Auto_56284117f22b,Unidade<br>Detalhes
+Auto_229ac5ad1902,ID:
+Auto_8f6f274bdbc6,Agradeço a colaboração<br>Limite de 30 caracteres (incluindo espaços)
+Auto_d1eb1a8c785c,Último login: 1 hora atrás
+Auto_07ec0ce76690,Mostrar apenas<br>amigos favoritos
+Auto_e6a697ba40c2,Lista de Amigos
+Auto_ec7ae06b0999,Remover
+Auto_d7831e09e2fa,Rejeitar pedido de amizade
+Auto_9aebaee878f6,Etapa atual <size=32> </size>
+Auto_ffdb97c8a723,Cool Empress
+Auto_861285cde494,Cool P aumenta em 12% + os membros de Hono e Hanayo aumentam ainda mais o Cool P em 9%. <br> <br>
+Auto_43965186bda1,Cool P aumenta em 12% + os membros <br> de Honoka e Hanamaru aumentam ainda mais o Cool P em 9%. <br> <br>
+Auto_82002e2fa49d,Cool P aumenta em 12% + os membros de Hono e Hanayo aumentam ainda mais o Cool P em 9%. <br> <br> <br> <br>
+Auto_8f430c44afa1,Mais uma vez!
+Auto_8697160f7a00,"Ao usar o Assistente Estelar, <br>a pontuação máxima não será atualizada."
+Auto_1b92a8c61f66,"Ao usar o Assistente Estelar,<br>o MAX COMBO não será atualizado."
+Auto_119dada8743d,"Neste evento,<br>a pontuação mais alta não será atualizada."
+Auto_23a202742edc,Teatro Jardim de Tóquio
+Auto_71e7b499f129,Nome do local ou ponto de referência:
+Auto_6ef2337620d1,Takasaka Honoka
+Auto_bca3582437f0,Situação de Obtenção
+Auto_5e09801739ed,Nenhum card selecionado.
+Auto_d0ce5c42a59a,Nome do Personagem
+Auto_5d58d93e8bf4,Faltam 10 dias
+Auto_472aa5aec506,aaaaaaaaaaaaaaaaaaaaa
+Auto_11fcfa6991cb,-aaaaaaaaaaaaaa
+Auto_7cf81d1c765b,Membros escolhidos
+Auto_e9f1544100ba,O nome será inserido aqui
+Auto_1af14d2a65f8,ID da sala:
+Auto_6a26632920e1,Combo total
+Auto_3b73e212eeee,"Composição: Ayumu Nakamura, Hiroto Kikuchi <br> Arranjo: Ayumu Nakamura, Hiroto Kikuchi <br> Intérpretes: Chika Takami (voz: Anzu Iba), Mari Ohara (voz: Aina Suzuki), Dia Kurosawa (voz: Miyu Komiya) <br> Kanata Matsuura (voz: Nanaka Suwa), Yoshiko Tsushima (voz: Aika Kobayashi)"
+Auto_fe933ad251ac,Toque para inserir o nome.
+Auto_4d395aee4ce0,Faltam 99 dias
+Auto_29f72241b091,A quantidade altera a recompensa e os pontos do evento.
+Auto_2e4df52b54d0,Consumir LP
+Auto_5521e368d87e,Aviso
+Auto_7e5716db83d2,"Detectamos comportamentos que prejudicam outros jogadores. <br>O resultado deste Live será invalidado. <br><br>Se esses comportamentos forem detectados repetidamente, <br>restringiremos o acesso ao jogo por um período determinado."
+Auto_58b0ee43d2aa,Jogar o Live novamente com os mesmos jogadores e na mesma dificuldade?<br>
+Auto_40d132e9c3cd,Sai da sala privada?
+Auto_ef20caea634e,A conexão do host foi interrompida.<br>Voltando para a página principal do evento.
+Auto_425e7dea4998,Número de participantes insuficiente. <br><br>É possível que os pontos do evento Obter sejam menores em <br> comparado a jogar com 4 jogadores. <br><br>Iniciar Live com o número atual de participantes?
+Auto_2dd929a3304a,O número de participações como convidado hoje chegou a zero.<br>Voltaremos à tela principal do evento.
+Auto_daa15114aa23,A formação exclusiva para o evento não foi feita.<br>Iremos para a tela de formação exclusiva.
+Auto_377325e4d88d,A conexão foi interrompida ou foram detectadas várias tentativas de trapaça.<br>O acesso ao modo Live deste evento será temporariamente restrito.
+Auto_e958b7cc8644,Buscando sala...
+Auto_77a19778ce42,Novidades
+Auto_d55be023c2b2,Sim
+Auto_f1671898c65b,Hoshizora Rin
+Auto_31eecb3ddc6d,Idioma
+Auto_b0a4b7078dce,Configurações<br>
+SelectLanguage_ConfirmTitle,Alterar idioma
+SelectLanguage_ConfirmMessage,Deseja alterar o idioma e reiniciar o aplicativo?
+Auto_343a26d4817b,Recomendado
+Auto_217643d3311e,Formação em lote
+Auto_5712f746e026,Reorganizar
+Auto_c47bf7602f86,Definir como<br>principal
+Auto_17d151209dcb,Usar
+Auto_eb321ace03b3,Nome do jogador
+Custom_Option_Live3d_Title,Configuração do Live 3D
+Custom_Option_Live3d_Info,Ative/desative o Live 3D e configure a qualidade.<br>As alterações serão aplicadas ao próximo Live.
+Custom_Option_Live3d_Enable,Reproduzir Live 3D
+Custom_Option_Live3d_Quality,Configuração de qualidade
+Custom_Sifas_Live3d_Toggle,Live 3D
+Custom_Sifas_3dMv_Cycle,Alternar
+Custom_Option_Keyboard_Title,Configuração do teclado
+Custom_Option_Keyboard_Info,Selecione uma lane e pressione uma tecla/botão (pressione Esc para cancelar)
+Custom_Option_Keyboard_Lane,Lane {0}
+Custom_Option_Keyboard_Listening,Pressione para definir a entrada do lane {0}... Pressione Esc para cancelar.
+Custom_Option_Keyboard_Waiting,Aguardando entrada
+Custom_Option_Keyboard_None,Nada
+Custom_Option_Keyboard_Back,Voltar/Pausar
+Custom_Option_Keyboard_BackListening,Pressione Voltar / Pausar.
+Custom_Option_Download_Title,Configurações de Download
+Custom_Option_Download_Info,Baixe as músicas com antecedência para eliminar o tempo de espera no início do Live.
+Custom_Option_Download_Used,Capacidade usada: {0} ({1} pode ser excluído)
+Custom_Option_Download_UsedNone,Usado: —
+Custom_Option_Download_Calculating,Usando: Calculando...
+Custom_Option_Download_Deleting,Usando: Excluindo...
+Custom_Option_Download_AllSongs,Baixar todas as músicas
+Custom_Option_Download_AllMv,Baixar todos os Lives 3D
+Custom_Option_Download_ClearCache,Limpar cache
+Custom_Option_Visual_Title,Configurações de vídeo
+Custom_Option_Visual_Info,Escolha um preset de qualidade de vídeo ou ajuste cada item individualmente.<br>As alterações serão aplicadas a partir do próximo Live.
+Custom_Option_Visual_Preset,Predefinição
+Custom_Option_Visual_Custom,Personalizado
+Custom_Option_Visual_CustomInfo,Configuração personalizada em uso (aplicada no próximo Live)
+Custom_Option_Visual_GroupDisplay,Exibir
+Custom_Option_Visual_GroupLighting,Iluminação
+Custom_Option_Visual_GroupStage,Estágio
+Custom_Option_Visual_GroupEffect,Efeitos
+Custom_Option_Visual_GroupPhysics,Física
+Custom_Option_Visual_Resolution,Resolução
+Custom_Option_Visual_Fps,Taxa de quadros
+Custom_Option_Visual_Aa,Antisserrilhamento
+Custom_Option_Visual_BaseLight,Luz de base
+Custom_Option_Visual_Ambient,Luz ambiente
+Custom_Option_Visual_RimLight,Luz de contorno
+Custom_Option_Visual_SpotLight,Spotlight
+Custom_Option_Visual_Emissive,Emissivo
+Custom_Option_Visual_Display,Exibição do palco
+Custom_Option_Visual_StageFx,Efeitos de palco
+Custom_Option_Visual_Audience,Público
+Custom_Option_Visual_Cubemap,Reflexo
+Custom_Option_Visual_PostEffect,Pós-efeito
+Custom_Option_Visual_SwingBone,Balanço
+Custom_Option_Keyboard_TabTitle,Configuração do teclado
+Custom_Option_Download_TabTitle,Configurações de Download
+Custom_Option_Visual_TabTitle,Configurações de vídeo
+Custom_Option_Download_StoryMovies,Baixar todos os vídeos da história
+Custom_Option_Download_CardArt,Baixar todas as artes dos cards
+Custom_Sifas_MvDeck_Header,Configuração de Formação MV
+Custom_Sifas_MvDeck_Entry,Configuração de Traje
+Custom_Sifas_MvDeck_UseDefault,Usar Formação Padrão
+Custom_Sifas_MvDeck_UseDeck,Usar Formação
+Custom_Sifas_MvDeck_Reset,Reiniciar
+Custom_Sifas_MvDeck_Save,Salvar
+Custom_Sifas_MvDeck_PickMember,Seleção de Membro
+Custom_Sifas_MvDeck_PickSuit,Escolher Traje
+Custom_Sifas_MvDeck_DefaultSuit,Traje padrão
+Custom_Sifas_MvDeck_RinaBoard,Remover o painel da Rina
+Custom_Sifas_MvDeck_InFormation,Formação (em andamento)
+Custom_Sifas_MvDeck_PickGroup,Selecionar Grupo
+Custom_Sifas_MvDeck_Back,Voltar
+Custom_Sifas_MvDeck_CustomGroup,Personalizado
+Custom_Sifas_MvDeck_Import,Importar
+Custom_Sifas_MvDeck_DeleteMode,Modo de exclusão
+Custom_Sifas_MvDeck_DeleteModeExit,Desativar modo de exclusão
+Custom_Sifas_MvDeck_DeletePrefix,Excluir:
+Custom_Sifas_MvDeck_ImportDone,Importação concluída
+Custom_Sifas_MvDeck_ImportFailed,Importação falhou
+Custom_Sifas_MvDeck_ImportDropHint,Coloque o arquivo ZIP na pasta Import.
+Custom_Sifas_MvDeck_ImportBatch,Importar em lote da pasta
+Custom_Sifas_MvDeck_ImportBatchResult,Resultado da importação em lote
+Custom_Sifas_MvDeck_ImportBatchKept,(Falha ao excluir o arquivo original)
+Custom_Sifas_MvDeck_ImportUnsupported,A seleção de arquivos não é suportada neste ambiente.
+Custom_Sifas_MvDeck_ImportStageDonor,Carregando modelo doador...
+Custom_Sifas_MvDeck_ImportStageConform,Convertendo modelo...
+Custom_Sifas_MvDeck_ImportStageBake,Criando texturas...
+Custom_Sifas_MvDeck_ImportStageRegister,Registrando...
+Custom_Sifas_MvDeck_ImportErrDonor,O modelo do doador não foi baixado (baixe o Live 3D primeiro).
+Custom_Sifas_MvDeck_ImportErrVerify,Falha ao construir o modelo (verifique os logs do jogador).
+Custom_Option_Live_Sif1SwipeMode,Modo SIF1 (toque)
+Custom_CardDetail_FriendshipPlaceholder,Amizade??? Não implementado
+Custom_CardDetail_EvolveTentative,Despertar (Provisório): {0}
+Custom_CardDetail_TitlePlaceholder,Título! Não implementado
+Custom_CardDetail_SchoolYear,{0}º ano
+Custom_PurchaseAlert_UnitTenThousand,Mil
+Custom_PurchaseAlert_UnitThousand,Mil
+Custom_PurchaseAlert_LimitMessage,O valor gasto neste mês excederá {0} ienes. Deseja continuar com a compra?
+Custom_SerialCode_Copied,Código serial copiado.
+Custom_SystemDialog_ErrorTitle,Erro
+Custom_SystemDialog_ErrorMessage,Ocorreu um erro.
+Custom_ServerConfig_Title,Configuração do servidor
+Custom_ServerConfig_ApiUrl,URL do servidor da API
+Custom_ServerConfig_CdnUrl,URL do servidor CDN de assets
+Custom_ServerConfig_ResetToDefault,Restaurar padrão
+Custom_ServerConfig_Save,Salvar
+Custom_ServerConfig_UsingCustom,Configuração personalizada em uso
+Custom_ServerConfig_Saved,Salvo. As alterações serão refletidas ao retornar à tela de título.
+Custom_ServerConfig_ConfirmChangeTitle,Confirmar Alteração do Servidor
+Custom_ServerConfig_ConfirmChangeMessage,Alterar o servidor conectado irá apagar todos os dados da sua conta (dados de salvamento e informações de autenticação) armazenados neste dispositivo. <br> Os recursos já baixados não serão apagados. <br> <br> Confirma?
+Custom_ServerConfig_ConfirmResetMessage,"Restaurar as configurações iniciais alterará o servidor de conexão, e todos os dados da conta (dados salvos e informações de autenticação) armazenados neste dispositivo serão excluídos. <br> Os recursos já baixados não serão excluídos. <br> <br> Confirma?"
+Custom_ServerConfig_SaveCancelled,Cancelou a operação.
+Custom_ServerConfig_ClearingAccount,Removendo dados da conta...
+Custom_ServerConfig_ChangedTitle,Servidor alterado.
+Custom_ServerConfig_ChangedRestartMessage,As configurações foram salvas e os dados da conta foram apagados.<br>Reinicie o aplicativo.
+Custom_ServerConfig_ResetDone,Servidor redefinido.
+Custom_ServerConfig_ResetCancelled,Mudança para as configurações iniciais cancelada.
+Custom_ServerConfig_Placeholder,Não configurado
+Custom_Gacha_BonusSuffix,Com bônus!
+Custom_Common_ErrorCode,Código de erro: {0}
+Custom_Common_None,Nada
+Custom_Exchange_TypeNone,Nenhum filtro
+Custom_Exchange_TypePhotoSticker,Foto adesivo
+Custom_Exchange_TypePick,Escolher
+Custom_Exchange_TypeTicket,Ticket
+Custom_Notification_ChannelDescription,Notificação
+Custom_Login_TransferTitle,Transferir conta
+Custom_Login_TransferConfirmMessage,"O dispositivo mudou, deseja continuar a transferência neste dispositivo?"
+Custom_Login_TransferFailedMessage,"Falha na transferência, use o código de recuperação."
+Custom_Reward_StaminaName,Nome da Recompensa de Stamina
+Custom_Adventure_TabMain,Principal
+Custom_Adventure_TabSub,Subtítulo
+Custom_Adventure_TabEvent,Evento
+Custom_Adventure_TabTutorial,Tutorial
+Custom_PassContents_FreeGems,Gemas Grátis
+Custom_Sifas_MvDeck_ImportBatchHeader,Sucesso {0} / {1}
+Custom_SpineViewer_Empty,Vazio
+Arcade_Input_Info,Select a row then press a key or button (Esc to cancel)
+Arcade_Input_ListeningKey,{0} - press a key… (Esc to cancel)
+Arcade_Input_ListeningPad,{0} - press a gamepad button… (Esc to cancel)
+Arcade_Input_ListeningNoEscape,{0} - press a key
+Arcade_Input_SlotKeyboard,Keyboard
+Arcade_Input_SlotGamepad,Gamepad
+Arcade_Input_Decision,Decision
+Arcade_Input_Cancel,Cancel / Back / Pause
+Arcade_Input_Select,Select
+Arcade_Input_Test,Test
+Arcade_Input_Service,Service
+Arcade_Input_Coin,Coin
+Arcade_Hud_Credit,CREDIT {0}
+Arcade_Hud_FreePlay,FREE PLAY
+Arcade_Monitor_TestMode,TEST MODE
+Arcade_Monitor_TestPattern,TEST PATTERN
+Arcade_Title_MenuEntry,Arcade Mode
+Arcade_Enter_NameTitle,Machine Name
+Arcade_Enter_NameMessage,Enter a name for this cabinet.
+Arcade_Enter_NameNote,It is shown in the server's machine list.
+Arcade_Enter_NamePlaceholder,Machine name
+Arcade_Enter_DefaultName,Arcade Cabinet
+Arcade_Enter_ErrorDisabled,This server does not support arcade mode.
+Arcade_Enter_ErrorRegister,Failed to register this arcade cabinet.
+Arcade_TestMode_Title,TEST MODE
+Arcade_TestMode_Back,Back
+Arcade_TestMode_TabSystem,System
+Arcade_TestMode_TabCredits,Credits
+Arcade_TestMode_TabInput,Input
+Arcade_TestMode_TabMonitor,Monitor
+Arcade_TestMode_SystemHeader,System Information
+Arcade_TestMode_ClientVersion,Client Version
+Arcade_TestMode_AssetVersion,Asset Version
+Arcade_TestMode_MachineName,Machine Name
+Arcade_TestMode_MachineId,Machine ID
+Arcade_TestMode_ServerIdentifier,Server
+Arcade_TestMode_RegisteredAt,Registered
+Arcade_TestMode_Credits,Credits
+Arcade_TestMode_ServiceCredits,Service Credits
+Arcade_TestMode_ServerSettings,Server Settings
+Arcade_TestMode_BookkeepingHeader,Bookkeeping
+Arcade_TestMode_TotalCoins,Total Coins
+Arcade_TestMode_TotalService,Service Credits Given
+Arcade_TestMode_Plays,Plays
+Arcade_TestMode_Songs,Songs Played
+Arcade_TestMode_Aborts,Aborts
+Arcade_TestMode_SinceReset,Counting Since
+Arcade_TestMode_LastReset,Last Reset
+Arcade_TestMode_ResetBookkeeping,Reset Bookkeeping
+Arcade_TestMode_ExitArcade,Exit Arcade Mode
+Arcade_TestMode_CreditsHeader,Credit Settings
+Arcade_TestMode_FreePlay,Free Play
+Arcade_TestMode_CoinsPerCredit,Coins per Credit
+Arcade_TestMode_CreditsPerPlay,Credits per Play
+Arcade_TestMode_SongsPerCredit,Songs per Credit
+Arcade_TestMode_ShowCreditHud,Show Credit Counter
+Arcade_TestMode_InputHeader,Input Settings
+Arcade_TestMode_InputConfig,Button Assignment
+Arcade_TestMode_InputTestLanes,Rhythm Buttons
+Arcade_TestMode_InputTestActions,Control Buttons
+Arcade_TestMode_ActionDecision,DEC
+Arcade_TestMode_ActionCancel,CAN
+Arcade_TestMode_ActionSelect,SEL
+Arcade_TestMode_ActionTest,TST
+Arcade_TestMode_ActionService,SVC
+Arcade_TestMode_ActionCoin,COIN
+Arcade_TestMode_MonitorHeader,Monitor Settings
+Arcade_TestMode_SubMonitorEnabled,Use Second Monitor
+Arcade_TestMode_DisplayIndex,Display Index
+Arcade_TestMode_DisplayIndexNote,Display index changes take effect after a restart.
+Arcade_TestMode_TestPattern,Show Test Pattern
+Arcade_TestMode_NoSecondDisplay,No second display detected
+Arcade_TestMode_SecondDisplayReady,Second display active
+Arcade_Session_GetReady,GET READY
+Arcade_Session_Songs,This credit plays {0} songs
+Arcade_Session_Connecting,Connecting...
+Arcade_Session_ErrorDisabled,The server could not start a session.
+Arcade_Session_NotCleared,NO CLEAR
+Arcade_Session_Thanks,THANK YOU FOR PLAYING
+Arcade_Session_SeeYouAgain,See you again
+Arcade_Confirm_TimerRemaining,Remaining
+Arcade_Confirm_TimerSuffix,sec
+Arcade_Monitor_GetReady,GET READY
+Arcade_Monitor_SongCount,SONG {0}/{1}
+Arcade_Monitor_Level,Lv.{0}
+Arcade_Monitor_Result,RESULT
+Arcade_Select_SongLabel,SONG
+Arcade_Select_Locked,This song is not unlocked yet.
+Arcade_Select_LevelCapped,This machine only goes up to {0}.
+Arcade_Attract_InsertCoin,INSERT COIN
+Arcade_Attract_PressStart,PRESS DECISION
+Arcade_TestMode_TabGame,Game
+Arcade_TestMode_TabSound,Sound
+Arcade_TestMode_TabContent,Content
+Arcade_TestMode_TabBookkeeping,Bookkeeping
+Arcade_TestMode_SessionState,Session State
+Arcade_TestMode_SessionIdle,Idle
+Arcade_TestMode_InputLocks,Input Locks
+Arcade_TestMode_EditMachineName,Change Machine Name
+Arcade_TestMode_GameHeader,Game Settings
+Arcade_TestMode_DifficultyCap,Difficulty Cap
+Arcade_TestMode_SelectTimeout,Song Select Timeout (sec)
+Arcade_TestMode_DeckTimeout,Deck Confirm Timeout (sec)
+Arcade_TestMode_ResultTimeout,Result Auto-Advance (sec)
+Arcade_TestMode_ClosingTimeout,Closing Screen Time (sec)
+Arcade_TestMode_DialogTimeout,Idle Dialog Limit (sec)
+Arcade_TestMode_AttractHeader,Attract Settings
+Arcade_TestMode_TitleCardSeconds,Title Card Time (sec)
+Arcade_TestMode_DemoSelectSeconds,Demo Song Select Time (sec)
+Arcade_TestMode_DemoClipSeconds,Demo Live Length (sec)
+Arcade_TestMode_DemoSongsHeader,Demo Songs
+Arcade_TestMode_SoundHeader,Sound Settings
+Arcade_TestMode_BgmVolume,BGM Volume
+Arcade_TestMode_SeVolume,SE Volume
+Arcade_TestMode_VoiceVolume,Voice Volume
+Arcade_TestMode_AttractVolume,Attract Volume (%)
+Arcade_TestMode_AttractVolumeNote,Scales the BGM down to this percentage while attract runs. Applies from the next attract loop.
+Arcade_TestMode_SeTest,SE Test
+Arcade_TestMode_ContentHeader,Content
+Arcade_TestMode_PrefetchState,Background Prefetch
+Arcade_TestMode_PrefetchRunning,RUNNING   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchIdle,IDLE   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchNote,New assets are fetched in the background every session.
+Arcade_TestMode_DownloadAll,Download Everything Now
+Arcade_TestMode_DownloadAllNote,Downloads every category. The cabinet returns to the attract screen when it finishes.
+Arcade_TestMode_ClearCache,Clear Cache
+Arcade_TestMode_ClearCacheNote,Deletes the downloaded files and then reboots the cabinet automatically.
+Arcade_TestMode_PlayHourHeader,By Hour
+Arcade_TestMode_HourLabel,{0}:00
+Arcade_TestMode_PlayWeekDayHeader,By Weekday
+Arcade_TestMode_WeekDay0,Sunday
+Arcade_TestMode_WeekDay1,Monday
+Arcade_TestMode_WeekDay2,Tuesday
+Arcade_TestMode_WeekDay3,Wednesday
+Arcade_TestMode_WeekDay4,Thursday
+Arcade_TestMode_WeekDay5,Friday
+Arcade_TestMode_WeekDay6,Saturday
+Arcade_Input_SlotHeaderIo,CABINET
+Arcade_Input_IoNote,Cabinet I/O board buttons. ENTER is the service-panel decide button.
+Arcade_Input_ListeningIo,{0} - press a cabinet button… (Esc to cancel)
+Arcade_Card_ButtonNewPlayer,NEW PLAYER
+Arcade_Card_ButtonTakeOver,TRANSFER DATA
+Arcade_TestMode_TabLed,LED
+Arcade_TestMode_BoardHeader,I/O Board
+Arcade_TestMode_BoardLink,Link
+Arcade_TestMode_BoardLinkIdle,not present
+Arcade_TestMode_BoardLinkOpening,opening
+Arcade_TestMode_BoardLinkRunning,running
+Arcade_TestMode_BoardLinkDeviceLost,device lost
+Arcade_TestMode_BoardLinkVersionRefused,version refused
+Arcade_TestMode_BoardReconnects,reconnects {0}
+Arcade_TestMode_BoardId,Device
+Arcade_TestMode_BoardRaw,Input Bytes
+Arcade_TestMode_BoardDoors,Door switches and the service-panel ENTER button. A lit door indicator means OPEN.
+Arcade_TestMode_BoardCoin,Coin Counter
+Arcade_TestMode_BoardCoinValues,count {0}   request {1}   ack {2}
+Arcade_TestMode_BoardCoinFault,FAULT
+Arcade_TestMode_BoardReader,Card Reader Lit
+Arcade_TestMode_BoardScan,Card Scan
+Arcade_TestMode_BoardCard,Card Status
+Arcade_TestMode_BoardCardId,Card ID
+Arcade_TestMode_BoardCardUid,Card UID
+Arcade_TestMode_CardStateNone,no card
+Arcade_TestMode_CardStateWaiting,waiting for card
+Arcade_TestMode_CardStateDetecting,detecting
+Arcade_TestMode_CardStateOk,read OK
+Arcade_TestMode_CardStateWrongType,unsupported card type
+Arcade_TestMode_CardStateAbsent,card absent or aborted
+Arcade_TestMode_CardStateReaderError,reader error
+Arcade_TestMode_CardScanTest,Card Scan Test
+Arcade_TestMode_CardReaderTest,Card Reader Lamp Test
+Arcade_TestMode_StateOn,ON
+Arcade_TestMode_StateOff,OFF
+Arcade_TestMode_EmulatorPath,Emulator DLL
+Arcade_TestMode_EmulatorPathNone,(not set)
+Arcade_TestMode_EmulatorPathEdit,Set Emulator DLL Path
+Arcade_TestMode_EmulatorPathNote,Loads a winusb.dll shim instead of a board for bench testing. Blank clears it. Applied when Test Mode is closed.
+Arcade_TestMode_LedHeader,LED Test
+Arcade_TestMode_LedAll,All Outputs On
+Arcade_TestMode_LedRed,Pillars Red
+Arcade_TestMode_LedGreen,Pillars Green
+Arcade_TestMode_LedBlue,Pillars Blue
+Arcade_TestMode_LedPillar0,Pillar 1 White
+Arcade_TestMode_LedPillar1,Pillar 2 White
+Arcade_TestMode_LedPillar2,Pillar 3 White
+Arcade_TestMode_LedLamps,All Button Lamps
+Arcade_TestMode_LedLamp,Lamp
+Arcade_TestMode_LedLampConfirm,CONFIRM
+Arcade_TestMode_LedBrightness,Lamp Brightness
+Arcade_TestMode_LedBrightnessOff,OFF
+Arcade_TestMode_LedBrightnessDim,0x20
+Arcade_TestMode_LedBrightnessFull,0xFF
+Arcade_TestMode_LedPillarColor,Pillar Colour
+Arcade_TestMode_LedCoinCoil,Coin Accept Coil
+Arcade_TestMode_LedOut,Output Bytes
+Arcade_TestMode_LedDescAll,Lights every pillar and every button lamp at full.
+Arcade_TestMode_LedDescRed,Sets all three pillars to red.
+Arcade_TestMode_LedDescGreen,Sets all three pillars to green.
+Arcade_TestMode_LedDescBlue,Sets all three pillars to blue.
+Arcade_TestMode_LedDescPillar0,Lights pillar 1 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar1,Lights pillar 2 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar2,Lights pillar 3 white. The three pillar rows combine.
+Arcade_TestMode_LedDescLamps,Lights the nine button lamps and the confirm lamp at full.
+Arcade_TestMode_LedDescLamp,Picks the lamp the brightness row forces. 10 is the confirm lamp.
+Arcade_TestMode_LedDescBrightness,Forces the selected lamp to one of the board's three brightnesses. OFF leaves it to the rows above.
+Arcade_TestMode_LedDescPillarColor,The machine's own pillar colour. Used on the entrance and through a credit.
+Arcade_TestMode_LedDescCoinCoil,Forces the coin-accept coil while this page is open.
+Arcade_TestMode_MaxCredits,Credit Limit
+Arcade_TestMode_DemoBandsNote,The attract demo draws from the groups switched on.
+Arcade_TestMode_DemoIncludeCustomSongs,Include Custom Songs
+Arcade_Attract_NesicaUnavailable,NESiCA cannot be used right now
+Arcade_Attract_NesicaTap,Tap your NESiCA card
+Arcade_TestMode_DoorLeft,DR1
+Arcade_TestMode_DoorRight,DR2
+Arcade_TestMode_Enter,ENT
+Arcade_TestMode_WinUsbModule,Loaded winusb.dll
+Arcade_TestMode_WinUsbModuleNone,(not loaded yet)
+Arcade_TestMode_WinUsbOpenerFound,UsbioEmu_OpenBoard found
+Arcade_TestMode_WinUsbOpenerMissing,no UsbioEmu_OpenBoard export
+Arcade_TestMode_ShowAttractBanner,Show NESiCA Banner
+Arcade_TestMode_DemoRequire3dLive,Demo Lands on 3D Lives Only
+Arcade_TestMode_DemoRequire3dLiveNote,Switch on to have the demo song select stop only on songs with a 3D live.
+Arcade_Input_Reset,Reset (hold 1 s)
+Arcade_Input_ResetChord,TEST+SERVICE
+Arcade_TestMode_AccountHeader,Account Lock
+Arcade_TestMode_LockedAccount,Locked Account
+Arcade_TestMode_NotLocked,Not locked
+Arcade_TestMode_LockPending,Pending first credit
+Arcade_TestMode_LockedAccountFormat,{0}  (card ...{1})
+Arcade_TestMode_LockAccount,Lock to Account...
+Arcade_TestMode_UnlockAccount,Unlock Account
+Arcade_Session_ErrorOwnerGone,The account this device was locked to no longer exists.<br>The account lock has been removed.
+Arcade_TestMode_DemoWashPercent,Demo Live Wash (%)

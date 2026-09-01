@@ -1,0 +1,88 @@
+﻿_key,_text
+mst.scene_title.DeckTop._mainTitle,Unit Formation
+mst.scene_title.DeckEdit._mainTitle,Unit Formation
+mst.scene_title.DeckCharaSelect._mainTitle,Select Member
+mst.scene_title.Classmate._mainTitle,Member List
+mst.scene_title.CostumeCharaList._mainTitle,Change Costume
+mst.scene_title.Practice._mainTitle,Lesson
+mst.scene_title.SkillPractice._mainTitle,Skill Lesson
+mst.scene_title.Training._mainTitle,Awakening
+mst.scene_title.MemberList._mainTitle,Member List
+mst.scene_title.WaitingMemberList._mainTitle,Waiting Room
+mst.scene_title.CardDetail._mainTitle,Member Details
+mst.scene_title.MemberIllustrateList._mainTitle,Albums
+mst.scene_title.MemberCharaTop._mainTitle,Member Details
+mst.scene_title.AreaTalkList._mainTitle,Dummy
+mst.scene_title.Album._mainTitle,Dummy
+mst.scene_title.MovieCollection._mainTitle,Collection
+mst.scene_title.CardAlbum._mainTitle,Card Albums
+mst.scene_title.DeckConfirm._mainTitle,Prepare for Live!
+mst.scene_title.Profile._mainTitle,Profile
+mst.scene_title.RecommendList._mainTitle,Select Favorites
+mst.scene_title.Friend._mainTitle,Friend List
+mst.scene_title.LiveSelect._mainTitle,Select Live
+mst.scene_title.MusicSelect._mainTitle,Song Select
+mst.scene_title.CooperationLive._mainTitle,Select Session
+mst.scene_title.CooperationLiveMatching._mainTitle,Matching
+mst.scene_title.MultiMusicSelect._mainTitle,Song Select
+mst.scene_title.MusicDecision._mainTitle,Song Shuffle
+mst.scene_title.MusicDifficulty._mainTitle,Select Difficulty
+mst.scene_title.MultiConfirm._mainTitle,Final Confirmation
+mst.scene_title.StampSetting._mainTitle,Favorite Settings
+mst.scene_title.Warehouse._mainTitle,Room Parts
+mst.scene_title.TitleListSelect._mainTitle,Select a Title
+mst.scene_title.TitleListView._mainTitle,Title List
+mst.scene_title.SealExchange._mainTitle,Exchange
+mst.scene_title.BadgeExchange._mainTitle,Exchange
+mst.scene_title.EventTop._mainTitle,Events
+mst.scene_title.EventStoryTop._mainTitle,Event Story Top
+mst.scene_title.EventStory._mainTitle,Select Event
+mst.scene_title.EventScoreRanking._mainTitle,Event Ranking
+mst.scene_title.EventReward._mainTitle,Event Rewards
+mst.scene_title.ItemList._mainTitle,Item List
+mst.scene_title.ExchangeTop._mainTitle,Exchange
+mst.scene_title.EventMusicSelect._mainTitle,Song Select
+mst.scene_title.EventChallengeLiveMusicSelect._mainTitle,Song Select
+mst.scene_title.EventLiveTryMusicSelect._mainTitle,Song Select
+mst.scene_title.EventDeckConfirm._mainTitle,Prepare Deck
+mst.scene_title.EventChallengeLiveDeckConfirm._mainTitle,Prepare Deck
+mst.scene_title.EventLiveTryDeckConfirm._mainTitle,Prepare Deck
+mst.scene_title.ExchangeItemList._mainTitle,Exchange
+mst.scene_title.BirthdayTop._mainTitle,Birthday
+mst.scene_title.MapScene._mainTitle,Select Area
+mst.scene_title.MultiLiveEventCooperationLive._mainTitle,Select Room
+mst.scene_title.MultiLiveEventCooperationLiveMatching._mainTitle,Matching
+mst.scene_title.MultiLiveEventMultiMusicSelect._mainTitle,Song Select
+mst.scene_title.MultiLiveEventMusicDecision._mainTitle,Song Shuffle
+mst.scene_title.MultiLiveEventMusicDifficulty._mainTitle,Select Difficulty
+mst.scene_title.MultiLiveEventMultiConfirm._mainTitle,Final Confirmation
+mst.scene_title.LimitedLiveTop._mainTitle,Event Lives
+mst.scene_title.LimitedLiveLottery._mainTitle,Song Shuffle
+mst.scene_title.TeacherLiveMusicSelect._mainTitle,Song Select
+mst.scene_title.TeacherLiveDeckConfirm._mainTitle,Prepare Deck
+mst.scene_title.TeacherLiveTop._mainTitle,Select Live
+mst.scene_title.CharacterEpisodeLevel._mainTitle,Check Episodes
+mst.scene_title.BoxGardenTop._mainTitle,Customization Room
+mst.scene_title.GachaTop._mainTitle,Scout
+mst.scene_title.GachaResult._mainTitle,Scout Results
+mst.scene_title.BandEnrichTop._mainTitle,Band Enhancement Top
+mst.scene_title.BandEnrich._mainTitle,Band Enhancement
+mst.scene_title.StoryTop._mainTitle,Story Top
+mst.scene_title.StoryMainTop._mainTitle,Story
+mst.scene_title.StoryCardMemberTop._mainTitle,Select Member
+mst.scene_title.StoryCardEpisodeTop._mainTitle,Select Episode
+mst.scene_title.Shop._mainTitle,Shop
+mst.scene_title.BeginnerMission._mainTitle,Beginner Goals
+mst.scene_title.GuestSelect._mainTitle,Select Guest
+mst.scene_title.MusicRanking._mainTitle,Song Ranking
+mst.scene_title.MusicRecommend._mainTitle,Recommended
+mst.scene_title.ComicList._mainTitle,Comics
+mst.scene_title.PresentBox._mainTitle,Present Box
+mst.scene_title.Mission._mainTitle,Goals
+mst.scene_title.ProfileMemberSelect._mainTitle,Edit Profile
+mst.scene_title.FriendGestDetail._mainTitle,Guest Details
+mst.scene_title.FriendGestMemberSelect._mainTitle,Edit Guest
+mst.scene_title.LocationInformation._mainTitle,On-Location Gift
+mst.scene_title.MusicLibrary._mainTitle,Song Library
+mst.scene_title.SerialCodeDisplay._mainTitle,Check Serial Code
+mst.scene_title.StarEventRanking._mainTitle,Star Level Ranking

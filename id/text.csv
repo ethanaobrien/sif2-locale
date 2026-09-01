@@ -1,0 +1,3347 @@
+﻿_key,_text
+Common_Amount,{0} × {1}
+Common_IconAmount,x{0}
+Common_IconAmountOverLimit,×{0}+
+Common_ItemHasAmount,Jumlah: {0}
+Common_PossessionNumber,Jumlah
+Common_Possession,Memiliki
+Common_Lack,Tidak Cukup
+Common_Gem,Loveca
+Common_KizunaPoint,Afeksi
+Common_ChargeGem,Loveca (berbayar)
+Common_Point_Coin,Emas
+Common_Point_Seal,Poin Rekrut
+Common_Point_LiveStamp,Live Stamp
+Common_OwnedAndCostAmount,{0} / {1}
+Common_Rank,Peringkat
+Common_PlayerRank,Peringkat Pemain
+Common_GroupRank,Grup Rank
+Common_GroupRankWithGroupName,{0}ランク
+Common_ExpToNextRankLabel,Sisa
+Common_ExpMax,MAKSIMUM
+Common_Exp,EXP
+Common_Level,Level
+Common_MusicLevel,Level Lagu
+Common_OrderBy,Naik
+Common_OrderByDescending,Menurun
+Common_Day,{0} hari
+Common_Month,{0} bulan
+Common_Year,{0} tahun
+Common_Hour,{0} jam
+Common_Minute,{0} menit
+Common_Second,{0} detik
+Common_Until,hingga
+Common_ExpireDateFew,Sedikit!
+Common_ExpireDateRemaining,Sisa
+Common_ExpireDateInfinity,Tanpa batas waktu
+Common_ExpireDateExpired,Berakhir
+Common_Period,{0} ~ {1}
+Common_Remaining,Sisa
+Common_Exchange,Tukar
+Common_Filter,Saring
+Common_Sort,Urutkan
+Common_AllSelect,Semua
+Common_AllRelease,Batalkan Semua
+Common_Sunday,Minggu
+Common_Monday,Senin
+Common_Tuesday,Selasa
+Common_Wednesday,Rabu
+Common_Thursday,Kamisday
+Common_Friday,금요일
+Common_Saturday,Sabtu
+Common_Daily,Harian
+Common_Weekly,Mingguan
+Common_MusicArtistLabel,Lagu
+Common_MusicLyricistLabel,Lirik
+Common_MusicComposerLabel,Komposer
+Common_MusicArrangerLabel,Aransemen
+Common_MusicArtistFormat,Lirik: {0}
+Common_MusicLyricistFormat,Lirik: {0}
+Common_MusicComposerFormat,Komposer: {0}
+Common_MusicArrangerFormat,Aransemen: {0}
+Common_MusicDetail,Lirik: {0} <br>Musik: {1}
+Common_CardFullName,[{0}] {1}
+Common_CardFullName2Line,[{0}] <br> {1}
+Common_Rare2,SR
+Common_Rare3,UR
+Common_Rare4,UR
+Common_Present,Hadiah
+Common_Reward,Hadiah
+Common_Receive,Anda telah menerima {0}.
+Common_Nothing,Tidak ada
+Common_RoleVocal,Vokal
+Common_RoleGuitar,Vokal
+Common_RoleBass,Bass
+Common_RoleDrum,Drum
+Common_RoleKeyboard,Keyboard
+Common_RoleSupport,Dukungan
+Common_TypeHeart,Smile
+Common_TypeDiamond,Pure
+Common_TypeSpade,Cool
+Common_MainStory,Cerita Utama
+Common_SubStory,Cerita Sampingan
+Common_EventStory,Cerita Event
+Common_EventPoint,{0} poin
+Common_EventCurrency_ChallengeLive,{0} buah
+Common_EventCurrency_LiveTry,{0} buah
+Common_EventCurrency_VsLive,{0} orang
+Common_EventCurrency_MultiLive,{0} orang
+Common_RankingRank,Peringkat ke-{0}
+Common_RankingRankOut,Di luar peringkat
+Common_CountBadgeOverLimit,{0}+
+Common_SkipUntilNextDay_Zero,"Besok pukul 0, jangan tampilkan jendela ini."
+Common_SkipUntilNextDay_Login,"Besok jam 4, jangan tampilkan jendela ini lagi."
+Common_DoNotDisplayAfter,Jangan tampilkan jendela ini lagi.
+Common_Percent,{0}%
+Common_Piece,{0} buah
+Common_All,SEMUA
+Common_Other,Liella!
+Common_XJAPAN,μ’s
+Common_LUNASEA,Aqours
+Common_GLAY,Nijigasaki
+Common_GroupOther,Lainnya
+Common_Grade,Tahun ke-{0}
+Common_DifficultyNormal,NORMAL
+Common_DifficultyHard,SULIT
+Common_DifficultyExpert,EKSPER
+Common_DifficultyMaster,MASTER
+Common_StatusOfAchievement,Status Pencapaian
+Common_Achieved,Tercapai
+Common_NotAchieved,Belum tercapai
+Common_ExpirationDate,Tanggal Kadaluarsa
+Button_Close,Tutup
+Button_Ok,Oke
+Button_Next,Berikutnya
+Button_Cancel,Batal
+Button_Decide,Tentukan
+Button_Update,Perbarui
+Button_Retry,Coba Lagi
+Button_Return,Kembali
+Button_VoiceOn,Suara Aktif
+Button_VoiceOff,Tanpa Voice
+Button_Resume,Lanjutkan Live
+Button_Suspend,Hentikan Live
+Button_Skip,Lewati
+Button_Restart,Mulai Ulang Live
+Button_Shop,Toko
+Button_Home,Beranda
+Button_BuyGem,Beli Loveca
+Button_PresentBox,Hadiah
+Button_Chat,Chat ke
+Button_Release,Buka
+Button_Apply,Terapkan
+Button_Edit,Edit
+DueDate_DialogTitle_PresentBox,Tanggal Kadaluarsa
+DueDate_DialogCaution_PresentBox,Item akan hilang jika tidak diambil.
+DueDate_Dialog_ItemNum,Jumlah: {0}
+DueDate_DialogTitle_Item,Item dengan masa berlaku segera
+GachaTop_PeriodTime,hingga {1} {0}
+GachaTop_PriceTitle,Rekrut {0} kali
+GachaTop_PriceTitleChargeGem,Rekrut {0} (Berbayar)
+GachaTop_PriceTitleFree,Rekrut {0} kali (gratis)
+GachaTop_Price_Free,Gratis
+GachaTop_BuyButton_Balloon_Daily,"<color=#f93981>1 hari {0}, </color> diperbarui setiap jam 00:00 <br>"
+GachaTop_BuyButton_Balloon_ReritySR,<color=#f93981>Minimal SR</color> <br>Dijamin dapat 1!
+GachaTop_BuyButton_Balloon_RerityUR,<color=#f93981>Dijamin dapat UR! </color>
+GachaTop_BuyButton_Balloon_BonusItem,Item<br>Bonus!
+GachaTop_BuyButton_Balloon_Free,{0} kali gratis!
+GachaTop_BuyButton_Balloon_Limit,Hanya berlaku {0} kali!
+GachaTop_LimitDailyOnce,Hanya 1 kali sehari
+GachaTop_LimitDailyAny,<color=#FD8E18> setiap hari {0} kali </color> <br> diperbarui pada pukul 00:00
+GachaTop_LimitCountOnce,1 kali saja
+GachaTop_LimitCountAny,Sisa {0} kali
+GachaTop_LimitDailyOnceCountAny,Sisa {0} kali <br> <color=#FD8E18> (Hanya 1 kali per hari) </color>
+GachaTop_LimitDailyAnyCountAny,Sisa {0} kali <br> <color=#FD8E18> (Hari ini sisa {1} kali) </color>
+GachaTop_EnsureRareOnly,{0} {1} dijamin!
+GachaTop_EnsureRareOverContains,"{0} atau lebih, {1} orang terjamin!"
+GachaTop_LimitOver,Batas jumlah telah tercapai.
+GachaTop_LimitOverDailyRepeat,Diperbarui pada pukul 0<br>
+GachaTop_LimitEnd,Sudah selesai.
+GachaTop_LimitStepup,Batas jumlah langkah telah tercapai.
+GachaTop_MemberDetailCaution,*Setiap Statistik menampilkan nilai maksimum setelah Bangkitkan dan mencapai level tertinggi.<br>*Efek Skill ditampilkan pada level Skill tertinggi.
+GachaTop_MemberDetailPhotoButtonEvolveBefore,Bangkitkan sebelum perubahan
+GachaTop_MemberDetailPhotoButtonEvolveAfter,Bangkitkan setelahnya
+GachaTop_RateFormat,{0}%
+GachaTop_MemberRateFormat,f4
+GachaTop_RarityRateFormat,f2
+GachaTop_Step,LANGKAH {0}
+GachaTop_StepCount,<size=59> <color=#f93981> / {0} </color> <size=32> {1}
+GachaTop_HasAmount,(Punya {0})
+GachaTop_LimitDailyOnceChargeGem,Loveca terbatas! Diperbarui setiap hari pukul 0.
+GachaTop_BonusReward,{0} Bonus!
+GachaTop_RunButtonText,<size=50>{0}<size=32>x Rekrut
+GachaTop_RunButtonDialog_Title,Rekrut Tiket
+GachaTop_RunButtonDialog_TopButton,Tiket
+GachaTop_RunButtonDialog_Caution,"Jika masa berlaku tiket sudah habis, Anda tidak dapat melakukan Rekrut <br> Anda dapat melakukan Rekrut yang dipilih saat ini <br> Anda dapat melakukan Rekrut dengan konten yang sama seperti saat menggunakan Loveca (jika menggunakan tiket Rekrut 10 kali, konten yang sama akan diterapkan seperti pada Rekrut 10 kali)"
+GachaPlay_DialogOk,Oke
+GachaPlay_DialogInfomation,Item yang diperoleh melebihi batas akan dikirim sebagai hadiah.
+GachaConfirm_DialogTitle,Konfirmasi
+GachaConfirm_Period,Periode:
+GachaConfirm_Count,{0} kali
+GachaConfirm_GemText,Apakah Anda ingin menggunakan {0} Loveca untuk melakukan <br> Rekrut sebanyak {2} kali di {1}?
+GachaConfirm_InfoText,Apakah Anda ingin melakukan {2} Rekrut dengan menggunakan {0} {1} dan <br>?
+GachaConfirm_ConsumeLackText,{0} tidak cukup.
+GachaConfirm_Buy,Beli?
+GachaConfirm_Gem,Loveca
+GachaConfirm_ChargeGem,Beli Loveca?
+GachaConfirm_BuyButton,Beli?
+GachaConfirm_GachaButton,Rekrut
+GachaResult_RemainingAny,Sisa kali
+GachaResult_RemainingDailyAny,"Hari ini, sisa kali"
+GachaResult_TutorialSelectPhoto,Sentuh Idol favoritmu.
+GachaResult_GetPoint,"Dapatkan <font=""FOT-TsukuGoPr5-M SDF""> sebesar {0} pt dan </font>"
+GachaResult_ResultPoint,{1} → {0}
+GachaResult_Exchange,Tukar
+GachaResult_GetOverMemberMessage,"Jika Anda sudah memiliki Idol ini, Anda akan mendapatkan lightstick sebagai gantinya.<br>Anda bisa mendapatkan lightstick sebagai pengganti Idol."
+GachaResult_LimitBreakNoteText,Idol baru telah bergabung!
+GachaDetail_TabTitle,Rekrut Detail
+GachaDetail_DialogTitle,Rekrut Detail
+GachaDetail_Help,Catatan
+GachaDetail_GachaInfo,Rekrut Detail
+GachaDetail_Terms,Masa Berlaku
+GachaDetail_NewMember,Idol Baru
+GachaDetail_Step,LANGKAH {0}
+GachaRateDetail_TabTitle,Kemunculan
+GachaRateDetail_DialogTitle,Rekrut Detail
+GachaRateDetail_Help,Catatan
+GachaRateDetail_RarityRate,Kemunculan per Tingkat
+GachaRateDetail_RarityRateUnensure,Kemunculan {0}
+GachaRateDetail_RarityRateEnsure,Kemunculan Dijamin {0}
+GachaRateDetail_Main,Posisi Live
+GachaRateDetail_Support,Posisi Pendukung
+GachaRateDetail_RarityRateMember,Daftar Idol
+GachaRateDetail_RarityRateUnensureMember,Daftar Idol yang Muncul{0}
+GachaRateDetail_RarityRateEnsureMember,Daftar Idol yang Muncul{0}
+GachaFixedRateDetail_TabTitle,Probabilitas Muncul di Rekrut ke-10 dari 10 Kali
+GachaFixedRateDetail_TabTitleStepup,Probabilitas Muncul di Rekrut ke-10 dari 10 Kali
+GachaPickUpMemberDetail_TabTitle,Detail Idol
+GachaPickUpMemberDetail_DialogTitle,Detail Idol Pilihan Gacha
+Consume_HasConsumeName,Jumlah
+Consume_UseConsumeName,Diperlukan
+Consume_PriceTitleChargeGem,Tarik {0} kali <br> (hanya dengan Gem berbayar)
+Consume_InfoOnConsumeMedal ,Habiskan Loveca gratis terlebih dahulu.
+WaitingMemberList_SealNumWordText,Poin Rekrut tersedia
+WaitingMemberList_SealReplacementShopButton,Tukar
+WaitingMemberList_AllSelectButton,Pilih Semua
+WaitingMemberList_SelectCharaNumWord,Memilih
+WaitingMemberList_SealChangeButton,Pindah
+WaitingMemberList_EmptyChara,Tidak ada Idol yang bisa dipindahkan.
+WaitingMemberList_ItemGetNum,Jumlah yang Didapatkan
+WaitingMemberList_CanGetItem,Item yang Bisa Didapatkan
+WaitingMemberList_ChangeResultShortMessage,Anda mendapatkan {0} Penlight.
+WaitingMemberList_ChangeDialogTitle,Konfirmasi
+WaitingMemberList_ChangeDialogConfirm,Pindahkan {0} Idol dari ruang tunggu dan dapatkan {1} lightstick.
+WaitingMemberList_ChangeDialogCharaNumWord,buah
+WaitingMemberList_ChangeDialogSealNumWord,buah
+WaitingMemberList_ChangeDialogTotalSealWord,Stiker
+CardIcon_LvWord,Lv.
+CardIcon_SkillLvWord,Lv. Skill
+CardIcon_HpWord,HP:
+CardIcon_EventBonusWord,Bonus:
+CardIcon_EventBonusParam,+{0}%
+CardIcon_BonusParam,+<size=20></size>{0}%
+CardIcon_UnlockNotJoin,Belum Bergabung
+Practice_EmptyItem,Anda tidak memiliki <br>Catatan Pelajaran.
+Practice_ExpWord,Sisa
+Practice_ResetButton,Reset
+Practice_RecommendButton,Otomatis
+Practice_Max,MAKSIMUM
+Practice_ItemSelect,Pilih Item
+Practice_NeedItem,Item yang dibutuhkan
+Practice_ItemShortageAlert,Item yang dibutuhkan tidak cukup.
+Practice_LevelMaxAlert,Level sudah maksimal.
+SkillPractice_EmptyChara,Tukar {0} Idol di ruang ganti dengan <br> penlight{1}? <br>Yakin?
+SkillPractice_EmptyItem,Anda tidak memiliki<br>Skill Book.
+SkillPractice_SamePhotoBonus,Bonus Idol Serupa
+SkillPractice_SameItemBonus,Bonus Seragam
+SkillPractice_PhotoTab,Ruang Istirahat
+SkillPractice_ItemTab,Tiket
+SkillPractice_HavingTextLavel,Dimiliki: {0}
+Training_ConfirmDialogTitle,Konfirmasi
+Training_ItemConfirmDialogMessage,Bangkitkan dengan Lightstick yang dipilih<br>Apakah Anda yakin?
+Training_CardConfirmDialogMessage,Bangkitkan dengan Lightstick yang dipilih<br>Apakah Anda yakin?
+Training_LackCoinConfirmDialogMessage,"[{0}]{1} membutuhkan Gold <br><color=#D73C55> untuk Bangkitkan, namun tidak cukup</color>"
+Training_ItemSettingDialogTitle,Pengaturan Item Habiskan
+Training_ItemSettingDialogMessage,Atur jumlah item yang akan digunakan.
+Training_NeedCount,Diperlukan
+Training_NeedItem,Item yang Dibutuhkan
+Training_NoSetting,Belum diatur
+Training_MaxLevelAndStatus,Level Maks dan Statistik
+Training_EmptyChara,Tidak ada Idol yang bisa Dibangkitkan.
+Training_ItemConfirmDialogLimitNumNote,Anda hanya dapat melakukan Bangkitkan sebanyak {0} kali.
+Training_ItemAmountOverLimit,{0}+
+Training_SelectThisWay,Pilih Cara Ini
+Training_GoldLack,Gold tidak cukup.
+Training_LevelLack,Level belum maksimal.
+Training_AwakeningBefore,Bangkitkan Sebelum
+Training_AwakeningAfter,Bangkitkan Setelah
+Training_MaxLv,Lv Maks.
+Training_AwakenedMaxShortMessage,Sudah mencapai Bangkitkan maksimal.
+Training_CardEvolveItem,Lampu Sorot
+Training_CardEvolveItemSub1,Bangkitkan Item
+Training_CardEvolveItemSub2,Bangkitkan Item
+Training_CardEvolveItemSub3,Bangkitkan Item
+TrainingResult_TrainingTitle,Bangkitkan Selesai
+TrainingResult_TrainingMessage,Bangkitkan selesai.
+TrainingResult_EpisodeTitle,Bonus Pencapaian Cerita
+TrainingResult_EpisodeMessage,Berhasil membuka cerita [<br>] dari [{1}] [{0}].
+StatusUpResult_EpisodeTitle,Bonus Pencapaian Cerita
+StatusUpResult_Message,Statistik {0} sebesar <br> telah ditingkatkan.
+CardDetail_EpisodeUnlockConfirm,"Habiskan item berikut untuk membuka cerita ""{0}""?"
+CardDetail_EpisodeUnlockLevel,Persyaratan Pembukaan: Idol Lv {0} atau lebih
+CardDetail_EpisodeUnlockNeedNum,Diperlukan: {0}
+CardDetail_EpisodeUnlockHaveNum,Jumlah: {0}
+CardDetail_EpisodeUnlockLackMaterial,Material yang dibutuhkan tidak mencukupi <color=#D73C55> </color>
+CardDetail_EpisodeUnlockLackLevel,<color=#D73C55>Level Idol tidak cukup<br>Lv. Saat Ini {0} / Lv. Dibutuhkan {1}</color>
+CardDetail_EpisodeUnlockLackGold,Emas yang diperlukan tidak cukup <color=#D73C55></color>
+CardDetail_UnlockEpisodePlayConfirmDialogTitle,Cerita berhasil dibuka.
+CardDetail_UnlockEpisodePlayConfirmDialogMessage,"Cerita ""{0}"" telah dibuka <br>. Apakah Anda ingin membacanya sekarang <br>?"
+CardDetail_EpisodePlayConfirmDialogTitle,Cerita
+CardDetail_EpisodePlayConfirmDialogMessage,Baca cerita {0} seharga <br>?
+CardDetail_ChangeIllustButton,Ubah Ilustrasi
+CardDetail_ExpansionButton,Perbesar
+CardDetail_LevelWord,Level
+CardDetail_ExpWord,Sisa
+CardDetail_Max,MAKSIMUM
+CardDetail_MemberDetailButton,Detail Idol
+CardDetail_PracticeButton,Latihan
+CardDetail_TrainingButton,Bangkitkan
+CardDetail_SkillPracticeButton,Latihan Skill
+CardDetail_CardNormal,Normal
+CardDetail_Favorite,Favorit
+CardDetail_Animation,Animasi
+CardDetail_Effect,Efek
+CardDetail_Status,Statistik
+CardDetail_Profile,Profil
+CardDetail_LevelStatus,Level Statistik
+CardDetail_CenterSkill,Keterampilan Tengah
+CardDetail_Skill,Keterampilan
+CardDetail_SkillLv,Lv Skill
+CardDetail_GachaButton,Rekrut
+CardDetail_SchoolYear,Tahun Ajaran
+CardDetail_Birthday,Ulang Tahun
+CardDetail_BloodType,Golongan Darah
+CardDetail_Height,Tinggi
+CardDetail_CharaVoice,CV
+CardDetail_SchoolYearInput,Tahun ke-{0}
+CardDetail_EpisodeUnlockConfirmDialogTitle,Konfirmasi Buka Cerita
+CardDetail_EpisodeRewardDialogTitle,Hadiah Cerita
+CardDetail_SpecialEpisodeRewardDialogTitle,Hadiah Cerita Spesial
+CardDetail_EpisodeRewardDialogMessage,Hadiah telah didapatkan! <br> <color=#D73C55> Hadiah dapat diterima dari hadiah </color>
+CardDetail_EpisodePlayDialogUseVoiceButton,Suara Aktif
+CardDetail_EpisodePlayDialogNoVoiceButton,Tanpa Voice
+CardDetail_CharacterEpisodeLevel,Episode Lv. {0}
+CardDetail_CardGetCategoryGacha,Rekrut
+CardDetail_CardGetCategoryEvent,Event
+CardDetail_CardGetCategoryExchange,Tukar
+CardDetail_CardGetCategoryStory,Cerita
+CardDetail_CardGetCategoryMission,Misi
+CardDetail_CardGetDetailGacha,Rekrut 『{0}』 tersedia!
+CardDetail_CardGetDetailEvent,"Event ""{0}"" memungkinkan untuk mendapatkannya!"
+CardDetail_CardGetDetailExchange,"Toko Penukaran ""{0}"""
+CardDetail_CardGetDetailStory,"Cerita ""{0}"" tersedia!"
+CardDetail_CardGetDetailMission,Misi: Dapat diperoleh!
+CardDetail_NoticeLevelMaxDisplay,Statistik saat tahap Bangkitkan dan level maksimum ditampilkan.
+Album_NotCanGet,Tidak dapat direkrut saat ini.
+Album_GachaCanGet,Idol ini bisa direkrut melalui <color=#DF4444>Rekrut</color>.
+Album_EventCanGet,Idol yang bisa didapatkan dari <color=#DF4444>Event</color>.
+Album_ExchangeCanGet,Idol yang bisa didapatkan di <color=#DF4444>Toko Penukaran</color>.
+Album_LoginbonusCanGet,Idol yang bisa didapatkan melalui <color=#DF4444>Login Bonus</color>.
+Album_StoryCanGet,<color=#DF4444>Cerita</color>: Daftar Idol yang bisa didapatkan
+Album_MissionCanGet,Idol yang bisa didapatkan melalui <color=#DF4444>Misi</color>.
+Album_BeginnerMissionCanGet,Idol yang bisa didapatkan di <color=#DF4444>Misi Pemula</color>.
+Album_GachaCanNotGet,Idol baru dari «{0}». Saat ini tidak dapat direkrut di gacha yang sedang berlangsung <br>.
+Album_EventCanNotGet,"Idol baru dari event «{0}» <br>. Saat ini, tidak dapat direkrut melalui event atau toko pertukaran yang sedang berlangsung."
+Album_CampaignCanNotGet,«{0}» adalah Idol kampanye <br>. Saat ini tidak dapat direkrut.
+Album_GachaOkButton,Rekrut
+Album_EventOkButton,Kembali ke Event
+Album_ExchangeOkButton,Tukar
+Album_StoryOkButton,Ke Cerita
+Album_TrainingOkButton,Detail Idol
+Album_MissionOkButton,Misi
+Album_DefaultOkButton,Oke
+Album_Empty,Tidak ada album.
+Album_DialogTitle,Urutkan Album
+Album_DialogGetTypeWord,Status Anggota
+Album_DialogTrainingTypeWord,Bangkitkan
+Album_DialogGetTypeAll,Semua
+Album_DialogGetTypeTitle,Memiliki
+Album_DialogGetTypeUnlock,Memiliki
+Album_DialogGetTypeLock,Belum Dimiliki
+Album_DialogMovieTypeTitle,Video
+Album_DialogMovieTypeHas,Video tersedia
+Album_DialogMovieTypeNot,Video tidak ada
+Album_DialogEpisodeTypeTitle,Cerita
+Album_DialogEpisodeTypeHas,Cerita tersedia
+Album_DialogEpisodeTypeNot,Tidak ada cerita
+Album_DialogSpPhotoTypeTitle,SP Foto
+Album_DialogSpPhotoTypeHas,SP フォトあり
+Album_DialogSpPhotoTypeNot,SP Foto Tidak Ada
+Album_DialogEvolveTypeAll,Semua
+Album_DialogEvolveTypeNotEvolved,Bangkitkan Sebelum
+Album_DialogEvolveTypeEvolved,Bangkitkan Setelah
+Album_DialogSortTypeId,Standar
+Album_DialogSortTypeUnlock,Diperoleh
+Album_DialogSortTypeRarity,Rarity
+Album_SIF1_CardSeries,Seri
+Album_SIF1_CardOther,Lainnya
+Album_SIF1_CardTypeNormal,Normal
+Album_SIF1_CardTypeAwakening,Bangkitkan
+Album_SIF1_HeightExt,{0} cm
+Album_SIF2_AcquiredStatus,Status Anggota
+Album_SIF2_AcquiredPercent,{0}% ({1} / {2})
+Album_SIF2_MemberSummary,Daftar Idol
+Album_SIF2_Profile,Profil
+Album_SIF2_NonJoining,Belum Bergabung
+Album_SIF2_NonJoiningToCard,Tidak ada Idol yang bergabung.
+Album_SIF2_NothingToCard,Tidak ada Idol yang memenuhi syarat.
+AreaTalkList_AreaOnly,Lokasi Terjadi
+AreaTalkList_AreaAndItem,Syarat Terjadi
+AreaTalkList_Empty,Tidak ada mini cerita.
+AreaTalkList_HaveAlbum,Tonton ulang mini cerita yang sudah kamu lihat!
+AreaTalkList_PlayButton,Lihat
+CostumeSelect_DeckTitle,Kostum Foto Tim ★
+CostumeSelect_DeckInfo,Mengatur ini akan menjadikan kostum default <br> menjadi «{0}».
+CostumeSelect_SetButton,Atur
+CostumeSelect_SelectedButton,Mengatur...
+CostumeSelect_UnLockInfoButton,Syarat Dibuka
+CostumeSelect_UnLockInfoByFot,Dapatkan {1} dari {0}
+CostumeSelect_UnLockInfoByCampaign,Terima {0}
+CostumeSelect_NotSelected,Belum diatur
+OrnamentShop_EmptyData,Tidak ada item yang bisa dibeli.
+OrnamentShop_ScrollItemBuyText,Beli
+OrnamentShop_ScrollItemLevelUpText,Tingkatkan Level
+OrnamentShop_ScrollItemUnlockText,Syarat Dibuka
+OrnamentShop_BuyConfirmDialog_ConditionLabel,Syarat
+OrnamentShop_BuyResultDialogTitle_Buy,Beli Item
+OrnamentShop_BuyResultDialogTitle_LevelUp,Item Naik Level
+OrnamentShop_BuyResultDialogMessage_DoesNotPlace,Item yang dibeli telah dikirim ke gudang.
+Chat_NoticeReceive,Pesan diterima
+Chat_TabChatSummary,Ringkasan
+Chat_TabChatSolo,Obrolan
+Chat_TabChatGroup,Grup Chat
+Chat_TabCollectionStamp,Stiker
+Chat_TabCollectionAttachment,Foto
+Chat_AvailableStamp,Obrolan tempat Anda dapat menggunakan stiker yang dipilih.
+Chat_AcquiredStamp,Dapatkan secara acak saat menyelesaikan lagu.
+Chat_TalkTagVoice,Suara
+Chat_TalkInputWait,{0} sedang diketik...
+Chat_TalkItemReceive,Terima
+Chat_TalkItemReceived,Sudah diterima
+Chat_TalkItemGet,Anda mendapatkan {0}.
+Chat_TalkLookback,Lihat Percakapan Ini
+Chat_OrderOfArrival,Urutan Kedatangan
+Chat_OrderOfPrecedence,Urutan Tampilan
+Chat_NotYetOpen,Belum bergabung dengan obrolan.<br>Anda dapat bergabung dengan bertukar kontak.
+Chat_NotYetAvailable,Belum ada obrolan yang bisa menggunakan stiker ini.
+MusicShop_EmptyData,Tidak ada lagu yang bisa dibeli.
+MusicShop_AlreadyBought,Sudah dibeli.
+MusicShop_DetailDialogTitle,Detail Lagu
+MusicShop_BuyConfirmDialogTitle,Konfirmasi Pembelian
+MusicShop_BuyConfirmDialogMessage,Apakah Anda ingin membeli lagu ini?
+MusicShop_BuyConfirmDialogCostItem,Item yang Dibutuhkan
+MusicShop_BuyResultDialogTitle,Pembelian Selesai
+Warehouse_BatchReplaceDialogDecideButton,Tentukan
+Warehouse_BatchReplaceDialogTitle,Susun Tim Terbaik
+Warehouse_BatchReplaceDialogCardTypePriority,Prioritaskan Atribut
+Warehouse_BatchReplaceDialogDeckRolePriority,Prioritaskan Instrumen
+Help_DialogTitle,Bantuan
+Help_Faq,FAQ
+Help_GameProgress,Progres & Operasi Game
+Help_BuyGem,Beli Loveca
+Help_TakeOver,Lanjutkan Akun
+Help_Opinions,Umpan Balik
+Help_ButtonFaq,Pertanyaan Umum
+Help_ButtonBuyGem,Kesalahan Pembelian Loveca
+Help_ButtonRegardProblems,Masalah & Pertanyaan<br>
+Help_ButtonDataRecovery,Pemulihan Data <br>
+Help_ButtonOther,Pertanyaan Lainnya
+Help_Notes,Catatan
+Help_JumpButton,Buka situs
+Help_ContactFormCaution,"Kami tidak membalas opini/permintaan secara umum. <br> Tergantung pada isi pertanyaan, mungkin diperlukan waktu untuk penyelidikan, jawaban, atau tindakan. <br> Silakan periksa bantuan, pengumuman dari operator, dan FAQ sebelum menghubungi kami. <br> Untuk pertanyaan terkait pemulihan data, silakan hubungi melalui formulir kontak. <br> Kami tidak terlibat dalam masalah antar pengguna. <br> Dukungan ini hanya tersedia dalam bahasa Jepang. <br> Kami tidak dapat memberikan informasi tentang strategi permainan. <br> Jika Anda tidak menerima email konfirmasi setelah 24 jam, periksa pengaturan penerimaan email Anda. <br> Ubah pengaturan agar Anda dapat menerima email dari [@bushimo.jp]."
+TermsOfService_DialogTitle,Syarat Penggunaan
+TermsOfService_Terms,Syarat Penggunaan
+TermsOfService_Rights,Hak Cipta
+TermsOfService_PrivacyPolicy,Privasi<br>Kebijakan
+TermsOfServiceAgree_Agree,Setuju
+TermsOfServiceAgree_NoAgree,Tidak Setuju
+TermsOfServiceAgree_Terms,Syarat Penggunaan / Kebijakan Privasi / Informasi Hak Cipta
+TermsOfServiceAgree_PrivacyPolicy,Kebijakan Privasi
+TermsOfServiceAgree_Title,Konfirmasi Persetujuan Syarat Penggunaan
+TermsOfServiceAgree_Message,"Untuk memainkan game ini, Anda harus menyetujui <br>Syarat Penggunaan dan Kebijakan Privasi <br>. Harap baca dengan cermat lalu ketuk ""Setuju"" <br> <br>."
+TermsOfServiceAgree_DataCaution,"Jika aplikasi dihapus atau data hilang dari perangkat karena kelalaian atau tindakan yang disengaja, <br>perlu diperhatikan bahwa pemulihan data mungkin sulit dilakukan."
+CacheClear_ConfirmTitle,Konfirmasi Hapus Cache
+CacheClear_ClearingTitle,Membersihkan Cache
+CacheClear_ResultTitle,Cache berhasil dibersihkan
+CacheClear_ConfirmMassage,Hapus cache?<br>Apakah Anda yakin?
+CacheClear_ClearingMassage,Membersihkan cache...<br>Silakan tunggu hingga selesai.
+CacheClear_ResultMassage,Cache berhasil dibersihkan.
+Tw_SelectLanguage_Button,Pilih Bahasa
+Mission_Title,Tantangan
+Mission_MainTitle,Daftar Misi
+Mission_SubTitle,Tantangan
+Mission_Progress,{0} dari <size=-10> / {1} total </size>
+Mission_TabMain,Total
+Mission_TabDaily,Harian
+Mission_TabLimited,Terbatas
+Mission_MissionNotFound,"Saat ini, tidak ada misi yang tersedia."
+Mission_MissionNotFoundDaily,"Saat ini, tidak ada <br>misi harian yang tersedia."
+Mission_MissionNotFoundLimited,"Saat ini, tidak ada <br>misi terbatas yang tersedia."
+Mission_ChallengeButton_AcceptReward,Terima
+Mission_ChallengeButton_Challenge,Tantang
+Mission_ChallengeButton_Ornament,Ke gudang
+Mission_ChallengeButton_CardDetail,Detail Idol
+Mission_ChallengeButton_CardDetail_NotHave,Idol belum dimiliki
+Mission_ChallengeButton_CardReinforce,Lesson
+Mission_ChallengeButton_CardReinforceSkill,LesSkill
+Mission_ChallengeButton_CardEvolve,Bangkitkan
+Mission_ChallengeButton_Costume,Ganti Kostum
+Mission_ChallengeButton_DeckEdit,Susun Tim
+Mission_ChallengeButton_DeckTop,Grup TOP
+Mission_ChallengeButton_EventTop,Kembali ke Event
+Mission_ChallengeButton_Friend,Daftar Teman
+Mission_ChallengeButton_GachaTop,Rekrut
+Mission_ChallengeButton_MainStory,Main Story
+Mission_ChallengeButton_Migration,Transfer Data
+Mission_ChallengeButton_MusicSelect,Pilih Lagu
+Mission_ChallengeButton_Line,Tambah Teman
+Mission_ChallengeButton_LiveSelect,Live Pilih
+Mission_ChallengeButton_Photo,Idol ke
+Mission_ChallengeButton_Profile,Profil
+Mission_ChallengeButton_Shop,Ke Toko
+Mission_ChallengeButton_SubStory,Cerita Sampingan
+Mission_ChallengeButton_TargetMission,Target Misi
+Mission_ChallengeButton_Twitter,Ikuti
+Mission_DetailDialog_NoTimeLimit,Waktu tidak terbatas
+Mission_CompleteMisssionGuide,Periksa detailnya.
+Friend_MyFriendTab,Daftar Teman
+Friend_RequestTab,Menunggu Persetujuan
+Friend_PendingTab,Menunggu Persetujuan
+Friend_FriendSearchTab,Cari Teman
+Friend_LastLogin,Login Terakhir
+Friend_RefineFavoriteFriendButton,Tampilkan teman favorit saja
+Friend_DeleteButton,Hapus Teman
+Friend_RequestCancelButton,Batalkan Permintaan
+Friend_PendingButton,Setujui
+Friend_RejectButton,Tolak
+Friend_MyFriendEmpty,Tidak ada teman di daftar Anda.
+Friend_RequestEmpty,Tidak ada pemain yang sedang diajukan.
+Friend_PendingEmpty,Tidak ada pemain yang menunggu persetujuan.
+Friend_FriendSearchEmpty,Tidak ada pemain yang ditemukan.
+Friend_SearchButton,Cari ID
+Friend_SortLastLoginButton,Login Terakhir
+Friend_SortRankButton,Peringkat
+Friend_IconLeaderTypeButton,Leader
+Friend_IconRecommendTypeButton,Favorit
+Friend_SearchDialogTitle,Cari ID
+Friend_SearchDialogMassage,Masukkan ID.
+Friend_SearchDialogSearchButton,Cari
+Friend_Secret,Pribadi
+Friend_LastLoginMinutes,{0} menit lalu
+Friend_LastLoginHour,{0} jam lalu
+Friend_LastLoginDay,{0} hari lalu
+Friend_LastLoginOverMonth,hari lalu
+Friend_DialogTitle,Cari ID
+Friend_DialogMessage,Masukkan ID pemain.
+Friend_DialogLimitNum,12 karakter
+Title_AppliVersion,Versi {0}
+Title_JasracApple,JASRAC Lisensi<br>No. 9014302035Y45112
+Title_JasracGoogle,JASRAC Lisensi<br>No. 9014302036Y45112
+Title_NexTone,NexTone
+Title_Company,©2013 Proyek Love Live! <br> ©2017 Proyek Love Live! Sunshine!! <br> ©2022 Proyek Love Live! Nijigasaki Gakuen School Idol Club <br> ©2022 Proyek Love Live! Superstar!! ©bushiroad
+Title_UserId,ID: {0}
+Title_MenuTitle,Menu
+Title_MenuExternalSite,Situs Eksternal
+Title_MenuCacheClear,Hapus Cache
+Title_MenuGameDataDelete,Hapus Data Game
+NameInput_Name,Nama lengkap
+NameInput_Ok,Oke
+NameInput_Title,Formulir Permohonan Izin Peliputan
+NameInput_Permit1,Komite Eksekutif Miracle Live
+NameInput_Petmit2,"Saya berjanji untuk mematuhi ketentuan yang tercantum dalam persyaratan peliputan di Miracle Live, dan dengan ini mengajukan permohonan izin peliputan.<br>"
+NameInput_Note1,Nama pemain maksimal 10 karakter.
+NameInput_Note2,Nama ini akan ditampilkan kepada pemain lain di dalam game.
+NameInput_Note3,Nama pemain dapat diubah nanti.
+NameInput_ProfileNameInputTitle,Masukkan Nama Pemain
+NameInput_ProfileNameInputMessage,Masukkan nama pemain Anda.
+NameInput_ProfileNameInputNote,Nama pemain maksimal 10 karakter <br> Nama ini akan ditampilkan ke pemain lain dalam game <br> Anda dapat mengubah nama pemain nanti.
+Profile_Secret,Pribadi
+Profile_SecretLong,Akan bersifat pribadi.
+Profile_DefaultComment,Senang bertemu denganmu!
+Profile_RankTitle,Peringkat <size=24>R</size>
+Profile_ExpTitle,<size=24>E</size>xp
+Profile_CommentTitle,Komentar
+Profile_RecommenderSelectButton,Favorit Pilih
+Profile_TitleSelectButton,Pilih Gelar
+Profile_PublicSelectButton,Pengaturan Publik
+Profile_CopyButton,Salin
+Profile_CopyMessage,ID berhasil disalin.
+Profile_PhotoButton,Tampilkan Idol
+Profile_FriendRequestButton,Ajukan Permintaan Teman
+Profile_FriendCanNotRequestButton,Tidak dapat mengajukan pertemanan
+Profile_FriendTitleListButton,Daftar Gelar
+Profile_LastLoginTime,Terakhir Login:
+Profile_OpenDialogTitle,Pengaturan Profil Publik
+Profile_OpenDialogMainDeckParam,Total Kekuatan Unit
+Profile_OpenDialogGroupRank,Grup Rank
+Profile_OpenDialogClearLiveNumber,Jumlah Lagu yang Diselesaikan
+Profile_OpenDialogFullComboLiveNumber,Jumlah Lagu Full Combo
+Profile_OpenDialogAllPerfectLiveNumber,Semua Lagu Sempurna
+Profile_OpenDialogHighScoreRate,Tingkat Skor Tinggi
+Profile_OpenDialogLastLoginDate,Waktu Login Terakhir
+Profile_OpenDialogUserId,ID Pemain
+Profile_OpenDialogGuestMember,Idol Tamu
+Profile_OpenDialogCaution,"Jika dicentang, profil akan menjadi publik."
+Profile_OpenDialogOpenButton,Publikasikan
+Profile_OpenDialogSecretButton,Pribadi
+Profile_OpenDialogPendingButton,Sedang diproses
+Profile_OpenDialogRejectButton,Tolak
+Profile_RankDialogTitle,Detail Peringkat
+Profile_RankMax,Peringkat sudah maksimal.
+Profile_CommentSettingDialogTitle,Atur Komentar
+Profile_CommentSettingDialogMassage,Masukkan komentar Anda.
+Profile_CommentSettingDialogLimitNum,Maksimal {0} karakter
+Profile_HighScoreRateDialogTitle,Detail Skor Tinggi
+Profile_HighScoreRateDialogTotalHighScore,Total Skor Tinggi
+Profile_HighScoreRateDialogValue,Tingkat Skor Tinggi
+Profile_HighScoreRateDialogEmpty,Tidak ada data lagu yang ditemukan.
+Profile_RankListScrollItemGem,Hadiah: Loveca {0}
+Profile_RankListScrollItemNone,Hadiah: Belum tersedia {0}
+Profile_ScoreTitle,Jumlah Lagu yang Diselesaikan
+Profile_ClearMusicTitle,CLEAR
+Profile_FullComboTitle,FULL COMBO
+Profile_ClimaxPerfectTitle,CLIMAX<br>PERFECT
+Profile_AllPerfectTitle,SEMUA PERFECT
+Profile_TeacherPointTitle,Tingkat Skor Tinggi
+Profile_ScoreConfirm,Lagu yang Selesai
+Profile_GuestMember,Idol Tamu
+Profile_GuestDetail,Detail Tamu
+Profile_SettingMember,Atur Idol
+Profile_Share,Bagikan
+Profile_ShareMessage,Mari bergabung dengan kami dan mulai menjadi idol sekolah!
+Profile_CardEmpty,Idol tidak ada.
+Profile_Birthday,Ulang Tahun
+Profile_NoBirthday,Belum diatur
+Profile_BirthdaySettingDialogTitle,Atur Tanggal Lahir
+Profile_BirthdaySettingDialogMessage,Masukkan tanggal lahir Anda.
+Profile_BirthdaySettingDialogNote,Tanggal lahir tidak dapat diubah nanti <br>. Anda akan menerima pesan khusus pada hari ulang tahun Anda <br>. Tanggal lahir ini tidak harus sama dengan tanggal lahir yang Anda masukkan saat melakukan pembelian.
+TitleList_TitleChangeDialogTitle,Konfirmasi
+TitleList_TitleChangeDialogText,Atur Gelar Ini
+TitleList_TitleNoDetailText,Tanpa deskripsi gelar
+TitleList_TitleListTabNormal,Normal
+TitleList_TitleListTabEvent,Event
+TitleList_TitleListTabMember,Anggota
+TitleList_TitleListTabMigration,Data Sinkronisasi
+TitleList_NoMigrationMessage,Anda belum memiliki gelar data migrasi.
+TitleList_TitleListEmpty,Tidak ada gelar.
+Exchange_Tab_Main,Utama
+Exchange_Tab_Tea,Teh
+Exchange_ExpireDateLabel,Tanggal Tukar
+Exchange_ExchangeSelectMessageText,Pilih toko!
+Exchange_SealExchangeHeaderMainTitle,Rekrut Poin
+Exchange_PickExchangeHeaderMainTitle,Tukar
+Exchange_TicketExchangeHeaderMainTitle,Tukar Tiket
+Exchange_SoldOutMessage,Batas penukaran telah tercapai.
+Exchange_ExchangeLimitMessage,"Anda sudah mencapai batas kepemilikan, jadi Anda tidak dapat menukar."
+Exchange_GetSeal,Dapatkan Poin Rekrut
+Exchange_ShopResetMessage_Daily,Setiap hari pada pukul 00.00 diperbarui
+Exchange_ShopResetMessage_Weekly,Setiap {0} diperbarui.
+Exchange_ShopResetMessage_Monthly,"Setiap , diperbarui."
+Exchange_ResetDayDaily,Hari ini
+Exchange_ResetDayWeekly,Minggu ini
+Exchange_ResetDayMonthly,Bulan ini
+Exchange_RemainCount,Sisa {0} kali
+Exchange_ResultMesseage,Anda telah menukar {1} item! {0}
+Exchange_ResultCardMesseage,Anda telah merekrut {2} dari {0} menggunakan {1}!
+Exchange_FilterDialogTitle,Saring Pertukaran
+Exchange_FilterDialogCategoryLabel,Kategori Filter
+Exchange_FilterDialogSoldOutLabel,Sudah Didapatkan
+Exchange_FilterDialogCategoryAll,Semua
+Exchange_FilterDialogCategoryStamp,Stiker
+Exchange_FilterDialogCategoryPrimaryItem,Item Utama
+Exchange_FilterDialogCategoryPhotoSeal,Idol
+Exchange_FilterDialogCategoryTicket,Tiket
+_FilterDialogDefaultButtonText,Kembalikan ke<br>Default
+Exchange_Name_Exchange,Tukar
+Exchange_Name_Purchase,Beli
+Exchange_Name_LevelUp,Tingkatkan Level
+Exchange_EmptyData,Tidak ada {0} yang tersedia.
+Exchange_AmountLabel,Jumlah {0}
+Exchange_AmountDialogTitle,Berapa banyak {0}?
+Exchange_AmountDialogMessage,"* 部員 pertama akan ditukar, sisanya menjadi lightstick."
+Exchange_ConfirmDialogTitle_Countable,Konfirmasi jumlah {0}
+Exchange_ConfirmDialogTitle_Uncountable,{0} ya?
+Exchange_ResultDialogTitle,{0} selesai
+DeckEdit_RecommendDialogTitle,Susun Tim Terbaik
+DeckEdit_RecommendPriorityType,Atribut
+DeckEdit_RecommendPriorityGroup,Grup
+DeckEdit_RecommendPrioritySkill,Keterampilan
+DeckEdit_RecommendTypeAll,Tidak ditentukan
+DeckEdit_RecommendGroupAll,Tidak ditentukan
+DeckEdit_RecommendGroupOther,Lainnya
+DeckEdit_RecommendTypeBonus,Atribut Bonus
+DeckEdit_RecommendCharacterBonus,Bonus Anggota
+DeckEdit_RecommendEventBonus,Bonus Event
+DeckEdit_RecommendSkillAll,Tidak ditentukan
+DeckEdit_RecommendSkillScore,Skor Naik
+DeckEdit_RecommendSkillScoreCondition,Skor Naik (Syarat)
+DeckEdit_RecommendSkillRecovery,Pemulihan HP
+DeckEdit_RecommendSkillEnhanced,Performa Lebih Baik
+DeckEdit_RecommendSkillOther,Lainnya
+DeckEdit_RecommendCheckCenterFixed,Posisi Tengah Tetap
+DeckEdit_RecommendCheckBonusApply,Prioritaskan Anggota Pilihan
+DeckEdit_RecommendGroupSelectDialogTitle,Pilih Grup
+DeckEdit_DefaultBandName,Unit {0}
+DeckEdit_TabName,Unit {0}
+DeckEdit_StatusPower,LP
+DeckEdit_StatusTotal,Total Kekuatan Unit
+DeckEdit_StatusSoul,Smile
+DeckEdit_StatusTechnic,Pure
+DeckEdit_StatusAppeal,Cool
+DeckEdit_StatusOrnamentBouns,Item
+DeckEdit_StatusEventBouns,Event
+DeckEdit_StatusTypetBouns,Atribut Bonus
+DeckEdit_MainUnitSetButton,Atur Unit Utama
+DeckEdit_RecommendEditButton,Susun Tim Terbaik
+DeckEdit_ResetButton,Reset
+DeckEdit_OrnamentButton,Item
+DeckEdit_TotalParamDetailButton,Detail Total
+DeckEdit_EventNothing,Periode acara telah berakhir.<br>Tidak ada bonus.
+DeckEdit_UnitNameDialogTitle,Nama Unit
+DeckEdit_UnitNameDialogMessage,Masukkan nama unit.
+DeckEdit_UnitNameDialogLimitNum,Maksimal 8 karakter
+DeckEdit_ClassmateButton,(Dummy)
+DeckEdit_ClassmateTotalParam,(Dummy)
+DeckEdit_PassiveSkillTotalParam,(Dummy)
+DeckEdit_EventBonusMessage,Bonus poin acara diterapkan pada total nilai semua anggota terpilih di Susun Tim.
+DeckEdit_EventBonusEventPointUp_ChallengeLive,Naikkan poin event sebesar {0}% di Miracle Collection
+DeckEdit_EventBonusTotalPointUp_ChallengeLive,"Dengan Koleksi Ajaib, tingkatkan kekuatan total Idol yang dipilih.<br>"
+DeckEdit_EventBonusEventPointUp_LiveTry,Naikkan poin event sebesar {0}% di Miracle Collection
+DeckEdit_EventBonusTotalPointUp_LiveTry,"Dengan Koleksi Ajaib, tingkatkan kekuatan total Idol yang dipilih.<br>"
+DeckEdit_EventBonusTotalPointUp,Anggota Bonus (Total Kekuatan Idol)
+DeckEdit_EventBonusEventPointUp,Poin Event
+DeckEdit_EventBonusNoRate,---
+DeckEdit_EventBonusRate,{0}%x {1} orang
+DeckEdit_EventBonusRateUp,NAIK!
+DeckEdit_EventBonusInvalidMessage1,Bonus Event
+DeckEdit_EventBonusInvalidMessage2,Tidak ada anggota yang memenuhi syarat.
+DeckEdit_Passive,Pasif Skill
+DeckEdit_LiveRole,(Dummy)
+DeckEdit_SupportRole,(Dummy)
+DeckEdit_SelectEventDialogTitle,Pilih Event
+DeckEdit_SelectEventDialogText,Menampilkan info bonus event dari event yang dipilih <br>
+DeckEdit_SelectEventDialogCaution,Event tanpa bonus tidak akan ditampilkan.
+DeckEdit_ClassmateDisp,Tampilkan Semua Idol
+DeckEdit_TotalParamDetailDialogTitle,Detail Unit
+DeckEdit_CenterSkillRiseValue,Nilai Peningkatan Skill Tengah
+DeckEdit_EventBonusRiseValue,Nilai Bonus Event Naik
+DeckEdit_UpperArrowValue,▲{0}
+DeckEdit_SkillLvValue,Lv {0}
+DeckEdit_EventPt,Event Poin
+DeckEdit_IconBonus,Bintang Ajaib
+DeckEdit_StatusTotalAttention,Nilai unit termasuk bonus peningkatan skill tengah.
+DeckEdit_PositionEditMessage,Seret Idol untuk mengubah posisinya.
+DeckEditCharaSelect_PhotoTotalParam,Total Kekuatan Idol
+LiveMission_DialogTitle,Daftar Hadiah untuk Menyelesaikan {0}
+LiveMission_DialogScoreRank,Peringkat Skor
+LiveMission_DialogComboCount,Jumlah Combo
+LiveMission_DialogFullCombo,Full Combo
+LiveMission_DialogClearCount,Jumlah Selesai
+ShopCommon_FreeGem,Loveca Gratis
+ShopCommon_ChargeGem,Beli Loveca?
+ShopCommon_Price,Harga
+GemShop_FundSettlement,Undang-Undang Pembayaran Dana<br>berdasarkan tampilan
+GemShop_ServiceGuidelines,Panduan Mata Uang Dalam Game
+GemShop_MedalGuidelines,Syarat Penggunaan Loveca
+GemShop_SpecifiedCommercialTransactions,Hukum Bisnis Tertentu<br>Berdasarkan UU
+GemShop_SpecifiedCommercialTransactions_DialogTitle,Tampilkan Informasi Transaksi Khusus
+GemShop_FundSettlement_DialogTitle,Tampilkan Informasi Pembayaran
+GemShop_SpecifiedCommercialTransactions_FundSettlement,UU Transaksi/Penyelesaian Dana
+GemShop_BuyComplete,Pembelian Selesai
+GemShop_BuyCompleteMessage,Anda membeli {0} seharga {1}.
+GemShop_Confirm,Konfirmasi
+GemShop_BuyStaminaMessage,Habiskan Loveca {0} untuk memulihkan LP sebesar {1}. Apakah Anda yakin? <br>
+GemShop_BuyStaminaCompleteTitle,Jendela Pemulihan LP
+GemShop_BuyStaminaCompleteMessage,LP telah dipulihkan sebesar {0}!
+GemShop_AgeConfirm,Konfirmasi Usia
+GemShop_AgeMessage,Masukkan tanggal lahir untuk verifikasi usia.
+GemShop_AgeNote,Tanggal lahir tidak dapat diubah nanti.
+GemShop_AgeMaxMessage,※16 tahun ke bawah: Maksimal 5.000 yen per bulan (termasuk pajak) <br> ※16-17 tahun: Maksimal 10.000 yen per bulan (termasuk pajak) <br> ※18 tahun ke atas: Tidak ada batasan
+GemShop_AgeNote1617,16–17 tahun:
+GemShop_AgeNote16,Di bawah 16 tahun:
+GemShop_LimitOverMessage,"Batas pembelian bulanan telah tercapai, Anda tidak dapat membeli apa pun bulan ini."
+GemShop_LimitAlertOver,Pembelian Loveca bulanan Anda sudah melebihi <br>{0} yen.
+GemShop_LimitAlert,Pembelian ini akan membuat total pembelian <br> Loveca per bulan melebihi ¥{0}.
+GemShop_PurchaseConfirm,Beli {0}?
+GemShop_AgeSelectedTitle,Konfirmasi Tanggal Lahir
+GemShop_AgeSelectedContents,Apakah tanggal lahir Anda sudah benar?
+GemShop_AgeSelectedConfirm,Tanggal lahir tidak dapat diubah nanti.
+GemShop_AgeDecisionContents,Usia telah dikonfirmasi.
+GemShop_AgeDecisionContentsFormat,Usia telah dikonfirmasi.
+GemShop_AgeDecisionLimitLabel,Bulan ini: Maksimal ¥{1} (¥{0})
+GemShop_AgeDecision,Pengaturan selesai.
+GemShop_Monthly,Bulan ini
+GemShop_AlertMessage,Apakah Anda ingin melanjutkan pembelian meskipun penggunaan bulan ini akan melebihi {0}?
+GemShopItem_LimitBuyAmount,Sisa {0}
+GemShopItem_LimitDate,Sisa {0}
+GemShopItem_Amount,{0} buah
+GemShopItem_LimitAmount,Sisa {0}
+GemShopItem_GemAmount,Loveca {0} buah
+GemShopItem_Omake,<br> <size=22> <color=#F93981> + Loveca Gratis {0}
+GemShopItem_Charge,Loveca berbayar ×{0}
+GemShopItem_Free,Loveca Gratis ×{0}
+GemShopItem_Money,¥{0}
+GemShopItem_Increase,Tambahan {0}
+GemShopItem_Period,Periode Penjualan
+GemShopItem_Season,{0} ~ {1}
+GemShopItem_TicketInfo,※Hari tidak login = tidak dapat Loveca<br>※Item selain Loveca akan dikirim ke hadiah<br>Langsung diberikan saat login dan jumlah di inventori akan bertambah<br>Bonus login dapat diklaim mulai pukul 00:00 hari setelah pembelian
+GemShopItem_TicketBuyInfo,<color=#D73C55>Sudah Dibeli</color><br>Berlaku hingga: {0}
+GemShopItem_TicketRemainPresent,"Hadiah harian <br>, sisa {0} kali <color=#D73C55> </color>."
+GemShopItem_ChargeGemComfirm,Habiskan {0} Loveca untuk membeli {1} <br> Produk ini hanya dapat dibeli dengan Loveca berbayar.
+GemShopItem_FreeGemComfirm,Habiskan {0} Loveca untuk membeli {1}. <br> Loveca akan diambil dari yang gratis terlebih dahulu.
+GemShopItem_SubscriptionButton_MembersCard,Lihat Kartu Anggota
+GemShopItem_SubscriptionButton_Buy,Beli
+GemShopItem_SubscriptionButton_Info,Detail
+GemShopItem_Membership_CardNo,Nomor Anggota
+GemShopItem_Membership_CardStart,Tanggal Bergabung
+GemShopItem_Membership_CardChangeButton,Desain<br>Ubah
+GemShopItem_Membership_WallpaperTitle,Ubah Desain Kartu Anggota
+GemShopItem_Membership_WallpaperAlert,Ketuk tombol Putuskan agar perubahan diterapkan.
+GemShopItem_Membership_WallpaperSelected,Memilih
+GemShopItem_Membership_WallpaperUsing,Sedang Digunakan
+GemShopItem_Membership_WallpaperDecide,Tentukan
+GemShopItem_Membership_WallpaperNotice,Desain kartu anggota telah diubah.
+GemShopItem_Membership_InfoTitle,Detail
+GemShopItem_Membership_InfoTabSummary,Ringkasan
+GemShopItem_Membership_InfoTabLoginBonus,Bonus Login
+GemShopItem_Membership_InfoTabMission,Tantangan
+GemShopItem_Membership_InfoSummaryTitle,MIRACLE Pass Anggota Ikhtisar
+GemShopItem_Membership_InfoSummaryUnsubscribe,Berhenti Berlangganan
+GemShopItem_Membership_InfoLoginBonusTitle,Bonus Login Harian MIRACLE Pass!
+GemShopItem_Membership_InfoLoginBonusDescription,Bergabung dengan MIRACLE Pass dan dapatkan! Login selama 20 hari untuk mendapatkan hingga 1000 Loveca gratis!<br>*Anda bisa mulai menerimanya sejak hari berikutnya setelah bergabung.
+GemShopItem_Membership_InfoLoginBonusDayCount,Hari ke-
+GemShopItem_Membership_InfoLoginBonusDayCountFormat,Hari ke-{0}
+GemShopItem_Membership_InfoLoginBonusGotItem,Dapatkan Item
+GemShopItem_Membership_InfoLoginBonusStatus,Status Dapatkan
+GemShopItem_Membership_InfoLoginBonusClear,Dapatkan
+GemShopItem_Membership_InfoLoginBonusNotClear,Belum tercapai
+GemShopItem_Membership_InfoMissionTitle,Misi Spesial Anggota MIRACLE Pass!
+GemShopItem_Membership_InfoMissionDescription,Selesaikan semua misi untuk mendapatkan hingga 1500 Loveca gratis! <br>Harap selesaikan sebelum 48 jam dari akhir periode.
+GemShopItem_Membership_InfoMissionClearCount,Jumlah Lagu yang Diselesaikan
+GemShopItem_Membership_InfoMissionClearCountFormat,{0} kali diselesaikan
+GemShopItem_Membership_InfoMissionGotItem,Dapatkan Item
+GemShopItem_Membership_InfoMissionStatusProgress,Sedang berlangsung
+GemShopItem_Membership_InfoMissionStatusClear,Selesai
+GemShopItem_Membership_InfoMissionStatusReceived,Hadiah diterima
+GemShopItem_Membership_InfoMissionButton,Misi
+ConfirmMedal_Gem,Konfirmasi Loveca
+ConfirmMedal_Log,Detail Loveca
+ConfirmMedal_ChargeGemReason,Anda membeli [{0}]
+DeckConfirm_LiveStartWarning,"Untuk memulai Live, Anda perlu mengatur 9 Idol di unit.<br>Silakan Susun Tim Idol."
+DeckConfirm_StaminaUse,Habiskan {0}
+DeckConfirm_AutoBurstDialogTitle,Atur Penggunaan Tiket Otomatis
+DeckConfirm_LiveBurstDialogTitle,Pengaturan Habiskan LP
+DeckConfirm_UseBurstDialogTitle,Pengaturan Burst yang Digunakan
+DeckConfirm_UseBurstDialogBurstSetting,Pengaturan Penggunaan Burst Dasar
+DeckConfirm_UseBurstDialogThisTimeBurst,Burst yang akan digunakan kali ini
+DeckConfirm_UseBurstDialogAutoDescription,Menggunakan Skip Ticket akan memulai mode skip.
+DeckConfirm_UseBurstDialogBurstWarning,*Tiket Skip akan digunakan mulai dari yang masa berlakunya paling dekat.<br>*Tiket Skip hanya dapat digunakan pada lagu dan tingkat kesulitan yang sudah diselesaikan.
+DeckConfirm_UseBurstDialogAutoWarning,*Tiket Skip akan digunakan mulai dari yang masa berlakunya paling dekat.<br>*Tiket Skip hanya dapat digunakan pada lagu dan tingkat kesulitan yang sudah diselesaikan.
+DeckConfirm_NoBurst,Belum Dimiliki
+DeckConfirm_CanNotUsedNoBurst,Belum Dimiliki
+DeckConfirm_CanNotUsedNoClear,Tidak dapat digunakan karena lagu yang dipilih belum selesai dimainkan.
+DeckConfirm_CanNotUsedNoClearShort,"Belum selesai, tidak bisa digunakan"
+DeckConfirm_LiveParam,Nilai untuk Live
+DeckConfirm_AutoParam,Nilai untuk Otomatis
+DeckConfirm_EventPointGet,Event Poin
+DeckConfirm_EventGachaPointGet,Rekrut (Box) P Dapatkan
+DeckConfirm_ItemAndExpGet,Hadiah & EXP
+DeckConfirm_Magni,x
+DeckConfirm_StaminaBoostNotSelect,Atur
+DeckConfirm_StaminaBoostSelect,Mengatur...
+DeckConfirm_StaminaBoostWarning,"※Jumlah yang digunakan kurang dari jumlah yang ditetapkan, semua item akan digunakan."
+DeckConfirm_StaminaBoostAutoWarning,※Mode otomatis tidak mencatat skor tertinggi atau hadiah pencapaian.
+DeckConfirm_Note,"LP habis, jadi <br>tidak bisa melewati bagian ini<br>Jika ingin mengisi ulang LP, pilih <br>metode pengisian."
+DeckConfirm_OptionButton,Opsi
+DeckConfirm_HealthyBoostButton,LP
+DeckConfirm_StartButton,Mulai Live
+DeckConfirm_AutoOn,Otomatis: AKTIF
+DeckConfirm_AutoOff,Otomatis: MATI
+DeckConfirm_Passive,Pasif Skill
+DeckConfirm_LiveRole,Posisi Live
+DeckConfirm_SupportRole,Posisi Pendukung
+DeckConfirm_EventBonusTotalPointUp,Anggota Bonus (Total Kekuatan Idol)
+DeckConfirm_EventBonusEventPointUp,Poin Event
+DeckConfirm_EventBonusNoRate,---
+DeckConfirm_EventBonusRate,{0}%
+DeckConfirm_EventBonusRateUp,NAIK!
+DeckConfirm_EventBonusInvalidMessage1,Bonus Event
+DeckConfirm_EventBonusInvalidMessage2,Tidak ada anggota yang memenuhi syarat.
+DeckConfirm_LiveBonusTypePointUp,Atribut Bonus (Total kekuatan Idol)
+DeckConfirm_LiveBonusRate,{0}%x {1} buah
+DeckConfirm_LiveBonusRateUp,NAIK!
+DeckConfirm_EventCandyAmount,{0} / {1}
+DeckConfirm_LiveConditionButton,Ada Kondisi Live
+DeckConfirm_LiveConditionDialogTitle,Kondisi Live
+DeckConfirm_LiveConditionDialogCondition,Kondisi Live
+DeckConfirm_LiveConditionDialogRule,Aturan Live
+DeckConfirm_LiveConditionDialogErrorMessage,"Anda tidak memenuhi <color=#ff0000>syarat untuk berpartisipasi dalam Live</color>, jadi Anda tidak dapat berpartisipasi <br>."
+Story_MainStoryFirstSeason,Musim Pertama
+Story_MainStorySecondSeason,Musim Kedua
+Story_SeasonChapterNumberFormat,#{0} - {1}
+Story_ChapterNumberFormat,# {0}
+Story_TitleWithChapterNumberFormat,"{0} Episode {1} ""{{2}}"""
+Story_ReleaseTitleWithChapterNumberFormat,{0} <br> Bab {1}: «{2}»
+Story_StoryTopHeaderMainTitle,Cerita Utama
+Story_StoryTopHeaderSubTitle,Cerita
+Story_MainStoryListHeaderMainTitle,Pilih Cerita
+Story_MainStoryListHeaderSubTitle,Cerita Utama
+Story_SubStoryTopHeaderMainTitle,Pilih Grup
+Story_SubStoryTopHeaderSubTitle,Cerita Sampingan
+Story_SubStoryListHeaderMainTitle,Pilih Cerita
+Story_SubStoryListHeaderSubTitle,Cerita Sampingan
+Story_EventStoryTopHeaderMainTitle,Pilih Event
+Story_EventStoryTopHeaderSubTitle,Cerita Event
+Story_EventStoryListHeaderMainTitle,Pilih Cerita
+Story_EventStoryListHeaderSubTitle,Cerita Event
+Story_CardStoryTopHeaderMainTitle,Pilih Anggota
+Story_CardStoryTopHeaderSubTitle,Cerita
+Story_CardStoryListHeaderMainTitle,Pilih Cerita
+Story_CardStoryListHeaderSubTitle,Cerita
+StoryPart_NumberFormat,Episode {0}
+StoryPart_TitleWithNumberFormat,"{0} Episode ""{1}"""
+StoryPart_TitleWithNumberTranslucentFormat,"<color=#804B413C> {0} Episode ""{1}"" </color>"
+StoryPart_TitleListWithNumberFormat,{0} - {1}
+StoryPart_SeasonChapterNumberFormat,#{0} - {1} - {2}
+StoryPart_ChapterNumberFormat,#{0} - {1}
+StoryPart_TitleWithChapterNumberFormat,"{0} Episode ""{1}"""
+StoryPart_RankReleaseDetailFormat,Peringkat menjadi {0}
+StoryPart_GroupRankReleaseDetailFormat,Rank grup keseluruhan menjadi {0}
+StoryPart_LiveReleaseDetailFormat,{0} dengan skor {1} atau lebih untuk menyelesaikan <br>.
+StoryPart_MissionReleaseDetailFormat,"Misi ""{0}"" selesai."
+StoryPart_ReleaseInfo,Mainkan game dan tingkatkan RANK!
+StoryPart_NotRelease,Belum dibaca atau belum dibuka.
+SubStory_GroupRankRewardDialogTitle,Daftar Hadiah Peringkat Grup
+SubStory_GroupRankRewardDialogUntilRankUp,Sampai Naik Rank
+SubStory_GroupRankRewardDialogTotalExp,Total EXP
+SubStory_GroupRankRewardDialogRank,Peringkat
+SubStory_GroupRankRewardDialogMax,MAKSIMUM
+ConfirmMedal_DialogTitle,Konfirmasi Loveca
+ConfirmMedal_ChargeMedal,Berbayar
+ConfirmMedal_FreeMedal,Gratis
+ConfirmMedal_TotalMedal,Total Loveca
+ConfirmMedal_Warning,Habiskan Loveca gratis terlebih dahulu.
+ConfirmMedal_UpdateHistory,Pembaruan
+ConfirmMedal_HistoryTitle,Detail Loveca
+ConfirmMedal_UsedHistoryTitle,Riwayat Penggunaan
+ConfirmMedal_AcquiredHistoryTitle,Dapatkan
+ConfirmMedal_HistoryDate,Tanggal Penggunaan
+ConfirmMedal_HistoryReason,Penggunaan
+ConfirmMedal_HistoryNote,Riwayat Loveca yang Dapatkan dan Habiskan ditampilkan hingga maksimal 3 bulan.
+ConfirmMedal_HistoryFreeMedal,Gratis
+ConfirmMedal_HistoryChargeMedal,Berbayar
+Ornament_EffectValueFormat,<color=#D73C55> {0:0.##}% </color>
+Ornament_UnlockDetail_GroupLevelReward,Dibuka di {0}Grup Rank{1}.
+Ornament_UnlockDetail_StoryPartReward,Dibuka dengan melihat cerita <br> {0} <br>.
+Ornament_UnlockDetail_MissionReward,Misi <br> {0} <br> harus diselesaikan untuk membukanya.
+Ornament_PlaceButton,Pasang
+Ornament_CannnotPlace,Tidak dapat ditempatkan.
+Ornament_TalkUnlockLevel,Dibuka di level <color=#D73C55> {0} </color>
+Ornament_TeaSetLevelUpConditionLabel,▼Syarat Peningkatan Level
+Ornament_ReplaceDialog_OrnamentType,★{0}★
+Ornament_EventEffectDetail,"Saat memutar «{3}» di «{2}», {0}<br> (kecuali untuk Live lainnya {1})."
+StaminaCharge_NoChargeItem,Anda tidak memiliki LP Candy.
+StaminaCharge_RecoveryConfirmDialogTitle,Konfirmasi Pemulihan LP
+StaminaCharge_RecoveryConfirmDialogMessage,Apakah Anda ingin menggunakan item yang dipilih untuk memulihkan LP sebesar {0}?
+StaminaCharge_RecoveryConfirmDialogWarningNoItem,Anda tidak memiliki item pemulihan LP.
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit1,"※LP saat ini melebihi batas maksimum, jadi tidak dapat dipulihkan."
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit2,"※LP mencapai 999, akan ditampilkan sebagai 999+."
+StaminaCharge_Special_Commercial_Code,UU Transaksi/Penyelesaian Dana
+StaminaCharge_RecoveryFrequency,Pulihkan {0}
+StaminaCharge_StaminaLabel,LP
+StampTab_DefaultStamp,Stamp Biasa
+StampTab_RareStamp,Stempel Terbatas
+StampTab_HistoryStamp,Riwayat
+StampTab_FavoriteStamp,Favorit
+NotExistsStamp_DefaultStamp,Tidak ada stempel biasa!
+NotExistsStamp_RareStamp,Anda tidak memiliki stempel terbatas.
+NotExistsStamp_HistoryStamp,Tidak ada riwayat stempel.
+NotExistsStamp_FavoriteStamp,Anda tidak memiliki stempel favorit.
+NotExistsStamp_RareStampSub,"Anda bisa mendapatkan stempel terbatas melalui acara, dll."
+NotExistsStamp_HistoryStampSub,Menggunakan stempel akan menyimpan riwayatnya.
+NotExistsStamp_FavoriteStampSub,Anda dapat mengatur stempel favorit di layar pemilihan Live.
+MemberIllustrateList_SelectCharaMessage,Pilih Anggota!
+MemberCharaTop_CostumeChange,Ganti Kostum
+MemberCharaTop_Profile,Profil
+MemberCharaTop_AriaTalk,Mini Cerita
+MemberCharaTop_Album,Album
+LiveSelect_UseStaminaBoost,Live dengan {0}
+LiveSelect_NoneStaminaBoost,dengan Live
+LiveSelect_Note,"Untuk memulihkan LP, <br>pilih metode pemulihan."
+LiveSelect_Title,Konfirmasi LP
+LiveSelect_SettingStaminaNum,Habiskan LP
+LiveSelect_HasStaminaNum,Jumlah
+LiveSelect_NoItem,Tidak dimiliki
+LiveSelect_PenaltyTitle,Pembatasan Fitur
+LiveSelect_PenaltyMessage,Kolaborasi Live mendeteksi perilaku yang mengganggu pemain lain <br>. Fitur dibatasi sementara <br>. Silakan tunggu hingga pembatasan dicabut.
+LiveSelect_PenaltyUnlockTime,hingga dibatalkan
+LiveSelect_Belonging,Bawaan
+LiveSelect_Medal,Loveca
+LiveSelect_ConsumEventStamina,Miracle Star Habiskan {0} buah
+LiveSelect_EventTerm,Periode:
+LiveSelect_EventRankingAll,Keseluruhan
+LiveSelect_EventRankingGroup,Grup
+LiveSelect_EventRank,Peringkat
+LiveSelect_HasEventCandy,Sozoku Mirakuru Suta
+LiveSelect_HasEventPick,Memiliki
+LiveSelect_HasEventTicket,Memiliki
+LiveSelect_EventCurrencyCandy,buah
+LiveSelect_EventCurrencyPick,buah
+LiveSelect_EventCurrencyTicket,buah
+LiveSelect_EventAcquisitionCandy,（Dummy）Dapat diperoleh!
+LiveSelect_EventAcquisitionPick,（Dummy）Dapat diperoleh!
+LiveSelect_EventAcquisitionTicket,（Dummy）Dapat diperoleh!
+LiveSelect_EventCandyInfo,Kumpulkan dan mainkan Live Event!
+LiveSelect_EventPickInfo,Kumpulkan dan pergi ke penukaran!
+LiveSelect_EventTopPickInfo,Periksa lembar Bingo!
+LiveSelect_EventTicketInfo,Kumpulkan dan mainkan live!
+LiveSelect_EventTopTicketInfo,Misi kolaborasi dimulai!
+LiveSelect_TeacherLive,(Dummy) Live
+LiveSelect_EventTermTitle,Periode:
+LiveSelect_EventResultTermTitle,Periode Pengumuman Hasil:
+LiveSelect_EventOpenLabel,Event Sedang Berlangsung
+LiveSelect_EventCloseLabel,Event Selesai
+LiveSelect_EventRemainDay,Sisa waktu event: {0} hari
+LiveSelect_EventRemainTime,Waktu tersisa hingga akhir event: {0}:{1:D2}
+LiveSelect_EventRankingAggregate,Ranking sedang dihitung...
+LiveSelect_Aggregate,Sedang diproses
+LiveSelect_NowRankingAgreegating,Ranking sedang dihitung
+LiveSelect_EventRewardGetTime,Periode Penerimaan Hadiah: {0}
+LiveSelect_EventClose,Event telah berakhir.
+LiveModeSelect_SoloLiveButton,Live Bebas
+LiveModeSelect_MultiLiveButton,Live Kolaborasi
+LiveModeSelect_MultiUnitSettings,Susun Tim<br>Kolaborasi
+Migration_TakeOver,Transfer Data
+Migration_IssueInfo,Lakukan persiapan transfer data berikut agar Anda dapat mentransfer data saat mengganti perangkat.<br>Ini juga dapat digunakan sebagai tindakan pencegahan terhadap kehilangan data akibat penghapusan aplikasi.
+Migration_IssueInfoNote,*Pastikan Anda memeriksa langkah-langkahnya sebelum melanjutkan.*
+Migration_Details,Detail Transfer Data
+Migration_IssueNote,"Jika transfer dilakukan antar OS berbeda, Loveca berbayar akan dikonversi menjadi Loveca gratis. <br> Jika transfer dilakukan dalam OS yang sama, data akan ditransfer sebagaimana adanya. <br> Saat mentransfer ke OS atau akun toko yang berbeda, harap batalkan langganan MIRACLE Pass Anda terlebih dahulu. <br> Jika Anda berlangganan MIRACLE Pass beberapa kali/berulang, Anda tidak dapat menerima manfaatnya berulang kali."
+Migration_IssueNote2,"Melakukan transfer data akan menghapus data game di perangkat ini dan menimpa dengan data game dari akun asal. <br>Jika melakukan transfer antar OS yang berbeda, Loveca berbayar akan dikonversi menjadi Loveca gratis. <br>Jika melakukan transfer dalam satu OS yang sama, data akan ditransfer sebagaimana adanya. <br>Saat mentransfer ke OS atau akun toko yang berbeda, harap batalkan langganan MIRACLE Pass Anda terlebih dahulu. <br>Jika ada beberapa/langganan MIRACLE Pass yang tumpang tindih, Anda tidak dapat menerima manfaat secara berulang."
+Migration_Process,Detail Transfer Data
+Migration_Setting,Pengaturan Transfer Data
+Migration_SettingsInfo,Atur kata sandi untuk transfer data.
+Migration_ID,ID Transfer
+Migration_Password,Kata Sandi
+Migration_PasswordNote,"* Minimal 8, maksimal 32 karakter (alfanumerik)"
+Migration_DispPassword,Tampilkan kata sandi yang sedang Anda masukkan.
+Migration_SettingsButton,Atur
+Migration_Complete,Pengaturan Transfer Data Selesai
+Migration_CompleteInfo,"Persiapan transfer data selesai. Setelah mengunduh aplikasi di perangkat tujuan, masukkan ID dan kata sandi transfer dari menu <br> ""Transfer Data"" di sudut kanan atas layar judul <br>."
+Migration_IDCopy,ID disalin
+Migration_CompleteNote,"Informasi penting, jangan berikan kepada orang lain <br> Simpan catatan atau tangkapan layar <br> Kata sandi dapat diubah nanti."
+Migration_Migration,Lakukan Migrasi Data
+Migration_MigrationInfo,Pilih metode transfer data yang telah Anda atur.
+Migration_MigrationInfo2,Masukkan ID dan kata sandi transfer data.
+Migration_MigrationInfo3,"Dengan mengatur transfer data ini, Anda dapat mentransfer data saat mengganti perangkat.<br>Ini juga dapat digunakan sebagai tindakan pencegahan terhadap kehilangan data akibat penghapusan aplikasi."
+Migration_MigrationNote,"<color=#C12424>Jika transfer dilakukan antar OS berbeda, Loveca berbayar akan dikonversi menjadi Loveca gratis. <br>Jika transfer dilakukan dalam OS yang sama, data akan ditransfer sebagaimana adanya. <br>Saat mentransfer ke OS atau akun toko yang berbeda, harap batalkan langganan MIRACLE Pass Anda terlebih dahulu. <br>Jika Anda berlangganan MIRACLE Pass beberapa kali/berulang, Anda tidak dapat menerima manfaatnya berulang kali. </color>"
+Migration_MigrationNote2,"Melakukan transfer data akan menghapus data game di perangkat ini dan menimpanya dengan data game dari perangkat asal. <br> <color=#C12424> Jika melakukan transfer antar OS yang berbeda, Loveca berbayar akan dikonversi menjadi Loveca gratis. <br> Jika melakukan transfer pada OS yang sama, data akan ditransfer sebagaimana adanya. <br> Saat mentransfer ke OS atau akun toko yang berbeda, harap batalkan langganan MIRACLE Pass Anda terlebih dahulu. <br> Jika Anda berlangganan MIRACLE Pass lebih dari sekali, Anda tidak dapat menerima manfaatnya secara berulang. </color>"
+Migration_MigrationNoteConfirm,"Melakukan transfer data akan menghapus data game di perangkat ini dan menimpanya dengan data game dari perangkat asal. <br> <color=#C12424> Jika melakukan transfer antar OS yang berbeda, Loveca berbayar akan dikonversi menjadi Loveca gratis. <br> Jika melakukan transfer pada OS yang sama, data akan ditransfer sebagaimana adanya. <br> Saat mentransfer ke OS atau akun toko yang berbeda, harap batalkan langganan MIRACLE Pass Anda terlebih dahulu. <br> Jika Anda berlangganan MIRACLE Pass lebih dari sekali, Anda tidak dapat menerima manfaatnya secara berulang. </color>"
+Migration_MigrationConfirm,Konfirmasi Transfer Data
+Migration_MigrationData,Data Game yang Akan Ditransfer
+Migration_MigrationDeleteData,Data perangkat ini
+Migration_UserID,ID Pengguna
+Migration_UserName,Nama Pengguna
+Migration_Rank,Peringkat Pengguna
+Migration_ChargeMedal,Beli Loveca?
+Migration_FreeMedal,Loveca Gratis
+Migration_MigrationButton,Data Ditransfer
+Migration_MigrationFinalConfirm,Konfirmasi Akhir
+Migration_MigrationFinalConfirmInfo,"Melakukan migrasi akan menghapus data game di perangkat ini dan menimpa dengan data game dari sumber migrasi <br> <size=29> <br> <br> <color=#C12424> Jika Anda melakukan migrasi antar OS yang berbeda, Loveca berbayar akan dikonversi menjadi Loveca gratis <br> Dalam kasus migrasi antar OS yang sama, data akan ditransfer sebagaimana adanya <br> Saat melakukan migrasi ke OS atau akun toko yang berbeda, harap batalkan langganan MIRACLE Pass Anda terlebih dahulu <br> Jika Anda berlangganan MIRACLE Pass beberapa kali/berulang, Anda tidak dapat menerima manfaatnya berulang kali </size> </color>"
+Migration_MigrationFinalConfirmNote,Apakah Anda benar-benar ingin melanjutkan <color=#C12424>? </color>
+MemberList_DialogTitle,Ubah Anggota Favorit?
+MemberList_DialogConfirm,Ubah anggota favorit Anda?
+MemberList_ChangeButton,Ya
+MemberList_PhotoBoxButton,Ruang Istirahat
+MemberList_TypeBonus,Atribut Bonus
+MemberList_MemberBonus,Bonus Anggota
+MemberList_TypeAndMemberBonus,Atribut · Bonus Anggota
+MemberList_FilteringButton,Saring
+MemberList_SortButton,Urutkan
+MemberList_ThumbnailSize,Ukuran Thumbnail
+MemberList_Change,Ubah
+MemberList_Small,Kecil
+MemberList_Big,Besar
+MemberList_SizeChangeDialogTitle,Ubah Ukuran Thumbnail
+MemberList_SizeChangeDialogMessage,Pilih ukuran tampilan thumbnail yang Anda inginkan.
+Option_ResetToDefaultButton,Pengaturan Default
+Option_LiveScreenPreview,Pratinjau Layar Live
+Option_Live_Title,Pengaturan Live
+Option_Live_ConfirmBeforeLive,Tampilkan opsi sebelum Live
+Option_Live_RhythmIconSpeed_Title,Kecepatan Ikon Ritme
+Option_Live_RhythmIconSize_Title,Ukuran Ikon Ritme
+Option_Live_LaneLength,Posisi Ikon Ritme
+Option_Live_ComboPosition,Posisi COMBO
+Option_Live_InputResultPosition,Posisi Hasil Input
+Option_Live_SkillEffectTextView,Tampilkan Efek Skill
+Option_Live_CenterIcon,Perkecil ikon tengah.
+Option_Live_PositonCenter,Tengah
+Option_Live_PosiionUpper,Atas
+Option_Live_BluetoothConnectionState_Title,Bluetooth
+Option_Live_BluetoothConnectionState_On,Terhubung
+Option_Live_BluetoothConnectionState_Off,Tidak terhubung
+Option_Live_TapTiming_Title,Sesuaikan Ketukan
+Option_Live_TapTiming_Left_Title,Sesuaikan dengan sisi kiri layar
+Option_Live_TapTiming_Right_Title,Layar kanan
+Option_Live_TapTiming_Center_Title,Ikon Tengah
+Option_Live_TapTiming_Left_Button,Sesuaikan ke kiri
+Option_Live_TapTiming_Right_Button,Sesuaikan ke kanan
+Option_Live_TapTiming_Normal_Title,Saat Normal
+Option_Live_TapTiming_Bluetooth_Title,Saat Bluetooth™ terhubung
+Option_Live_TapTiming_Button,Sesuaikan Ketukan
+Option_Live_TapTiming_TestLive,Tes Live
+Option_Live_LongPressLineDepth_Title,Ketebalan Garis Tahan Lama
+Option_Live_SameTimePressLine_Title,Tampilkan Garis Sinkronisasi
+Option_Live_SliderSameTimePressLine_Title,Tampilkan garis sinkronisasi ikon swing.
+Option_Live_Skill_Effect_Title,Efek Skill Khusus
+Option_Live_TapTiming_Effect_Title,Tampilkan Timing
+Option_Live_RhythmIconMovePos_Title,Perlambatan Ikon Ritme
+Option_Live_RhythmIconMovePos_Type1,Terakhir diperlambat
+Option_Live_RhythmIconMovePos_Type2,Awalnya diperlambat
+Option_Live_ComboUITransparent_Type3,Kecepatan konstan
+Option_Live_ComboTransparent,Kecerahan tampilan kombo
+Option_Live_ComboSize,Ukuran Tampilan Combo
+Option_Live_InputResultTransparent,Kecerahan Penilaian
+Option_Live_InputResultSize,Ukuran tampilan penilaian
+Option_Live_RhythmIconPos,Tinggi Ikon Ritme
+Option_Live_RhythmIconStartPos,Tinggi Ikon Tengah
+Option_Live_FpsSetting,FPS saat Live
+Option_Live_Mirror_Title,Balik Not
+Option_Live_LaneEffect_Title,Efek Lane
+Option_Live_FillsUpLivePosition_Title,Tambahkan Anggota
+Option_Live_Bluetooth_Caution,Hubungkan perangkat Bluetooth sesuai pengaturan masing-masing.<br>
+Option_Live_Movie_Disp,Video Live
+Option_Live_Movie_Brightness,Kecerahan Video Live
+Option_Live_Movie_Caution,Standarnya [NYALA].
+Option_LiveSkin_Title,Pengaturan Ikon Live
+Option_LiveSkin_Lane_Title,Larik & Garis Tap
+Option_LiveSkin_LaneBrightness_Title,Kecerahan Lacak
+Option_LiveSkin_TapEffect_Title,Efek Ketuk
+Option_LiveSkin_RhythmIcon_Title,Desain Not
+Option_LiveSkin_SE_Title,Ketuk Suara
+Option_LiveSkin_SE_TapButton,Uji Coba Suara Tap
+Option_LiveSkin_SE_FlickButton,Uji Suara Gesek
+Option_LiveProduction_Title,Pengaturan Volume
+Option_LiveProduction_Production_Title,Efek Live
+Option_LiveProduction_ActionMode_Title,Mode Operasi
+Option_LiveProduction_ActionMode_Regular,Standar
+Option_LiveProduction_LiveEffect,Efek Live
+Option_LiveProduction_ActionMode_Light,Ringan
+Option_LiveProduction_ActionMode_Full,Kualitas Tinggi
+Option_LiveProduction_LiveMonitor,Monitor Live
+Option_LiveProduction_TapEffectSize,Ukuran Efek Ketuk
+Option_LiveProduction_MemberCutIn_Title,(Dummy)
+Option_LiveProduction_ShowSkillEffect_Title,Tampilkan Efek Skill
+Option_LiveProduction_PlayClimaxMovie_Title,(Dummy) Adegan
+Option_LiveProduction_Volume_Title,Volume Live
+Option_LiveProduction_Volume_Music,Musik
+Option_LiveProduction_Volume_SE,Efek Suara
+Option_LiveProduction_Volume_Tap,Efek Suara
+Option_LiveProduction_Volume_Voice,Suara
+Option_Volume_Title,Pengaturan Volume
+Option_Volume_LiveSettings,Pengaturan Volume Live
+Option_Volume_MusicVolume,Volume Musik
+Option_Volume_SEVolume,Efek Suara
+Option_Volume_OtherSettings,Pengaturan Volume Lainnya
+Option_Volume_BGMVolume,Volume BGM
+Option_System_Title,Pengaturan Sistem
+Option_System_Volume_Title,Volume Sistem
+Option_System_Volume_BGM,Volume Musik
+Option_System_Volume_SE,Efek Suara
+Option_System_Volume_Voice,Suara
+Option_System_Download_Title,Unduh
+Option_System_Download_Button,Unduh<br>sebelumnya
+Option_System_Download_LiveMember,Tampilan Anggota Live
+Option_System_Notification_Title,Pengaturan Notifikasi
+Option_System_Notification_Stamina_Full,Penuh
+Option_System_Notification_Midnight,Notifikasi Tengah Malam
+Option_System_Notification_Detail,"Jika notifikasi dimatikan di pengaturan perangkat, Anda tidak akan menerima notifikasi dari aplikasi.<br>Waktu larut malam adalah (0:00-5:59)."
+Option_System_Alert_Title,Pengaturan Alert
+Option_System_Alert_UseTooMuch,Alert Penggunaan
+Option_System_Alert_Detail,"Penggunaan bulanan melebihi 100.000, layar konfirmasi akan muncul."
+Option_System_Others_Title,Pengaturan Lainnya
+Option_System_FixScreenDirection,Putar Layar
+Option_System_StaminaConfirm,Konfirmasi LP Kurang
+Option_System_AutoBurstConfirm,Konfirmasi Tiket Lewati Tidak Cukup
+Option_System_BatteryConfirm,Peringatan Baterai
+Option_System_BluetoothConfirm,Konfirmasi Koneksi Bluetooth
+Option_System_HomeSceneMoviePlay,Putar Video Beranda
+Option_System_IgnoreGachaUrEffect,Lewati animasi UR saja.
+Option_System_Live2D_Character_Title,Anggota yang ditampilkan
+Option_System_Live2D_Character_UseRecommend,Anggota Favorit
+Option_System_Live2D_Character_UseDeck,Anggota grup
+Option_System_Live2D_Character_Detail,Anggota yang ditampilkan akan diperbarui saat layar berubah.
+Option_System_FpsToggle,FPS
+PresentBox_Scroll_AcquiredDateTimeLabel,Dapatkan Tanggal & Waktu
+PresentBox_Scroll_ReceivedDateTimeLabel,Waktu Penerimaan
+PresentBox_Scroll_ExpireDateTimeLabel,Batas Waktu Penerimaan
+PresentBox_Tab_Receivable,Belum diterima
+PresentBox_Tab_Received,Riwayat Diterima
+PresentBox_Title,Hadiah
+PresentBox_MainTitle,Daftar Hadiah
+PresentBox_SubTitle,Hadiah
+PresentBox_Receive,Terima
+PresentBox_AllReceive,Terima Semua
+PresentBox_EmptyReceivable,Tidak ada hadiah yang bisa ditampilkan.
+PresentBox_EmptyReceived,Tidak ada hadiah yang bisa ditampilkan.
+PrivateEnter_Title,Cari Live
+PrivateEnter_ConfirmTitle,Konfirmasi Live
+PrivateEnter_Message,Masukkan ID Live 6 digit.
+PrivateEnter_RoomID,ID Live
+PrivateEnter_EnterButton,Ikut serta
+PrivateEnter_SearchButton,Cari
+PrivateEnter_ConfirmRoom,Live Kooperatif {0}
+PrivateEnter_ConfirmEventRoom,Event (Dummy) Live
+PrivateEnter_ConfirmRoomID,ID Ruangan: {0}
+PrivateEnter_ConfirmJoinMessage,Live dengan ID yang sama ditemukan.<br>Apakah Anda ingin bergabung dengan Live?
+PrivateEnter_ConfirmJoinNotConditionMessage,Anda tidak memenuhi syarat untuk bergabung dengan Live ini <br> <br> Syarat Bergabung Live <br> {0}
+PrivateEnter_ConfirmJoinNotTotalPowerMessage,Tidak dapat bergabung karena kekuatan total Anda tidak mencukupi.
+PrivateEnter_ConfirmUserName,Nama Pengguna
+PrivateCreate_Title,Buat Live
+PrivateCreate_RoomCompleteTitle,Live Dibuat
+PrivateCreate_Message,Masukkan hingga {0} karakter!
+PrivateCreate_RoomTypeTitle,Hadiah Live
+PrivateCreate_RoomTypeNormal,Normal
+PrivateCreate_RoomTypeSpecial,Hari
+PrivateCreate_RoomConditionTitle,Nama Live
+PrivateCreate_RoomConditionFree,PASS BIASA
+PrivateCreate_RoomConditionBasic,PASS BIASA
+PrivateCreate_RoomConditionElite,ELITE PASS
+PrivateCreate_RoomConditionMaster,MASTER PASS
+PrivateCreate_RoomIDTitle,ID Live
+PrivateCreate_CommentTitle,Komentar Singkat
+PrivateCreate_CommentInput,Masukkan hingga 10 karakter.
+PrivateCreate_IDCopyButton,Salin ID
+PrivateCreate_CreateButton,Buat
+PrivateCreate_EnterButton,Ikut serta
+PrivateCreate_RoomIdCopy,Live ID disalin.
+PrivateCreate_ConfirmMessage,Live telah dibuat.<br>Apakah Anda ingin bergabung dengan Live?
+FriendInviteReceive_Title,Undang Teman
+FriendInviteReceive_Check,Memeriksa undangan teman...
+FriendInviteReceive_NotMessage,"Saat ini, tidak ada undangan teman untuk Live kolaborasi.<br>Anda dapat mengundang teman dengan membuat Live pribadi."
+FriendInviteSend_Title,Undang Teman
+FriendInviteReceive_SubTitle,Anda menerima undangan Live kolaborasi dari teman.<br>Pilih Live yang ingin Anda ikuti.
+FriendInviteSend_Message,Kirim undangan ke semua teman?
+FriendInviteSend_CheckMessage,Kirim hanya ke teman pilihan.
+DeckTop_DeckEditTag,Susun Tim<br>Unit
+DeckTop_CostumeTag,Ganti Kostum
+DeckTop_PracticeTag,Latihan
+DeckTop_SkillPracticeTag,スキル<br>練習
+DeckTop_TrainingTag,Bangkitkan
+DeckTop_MemberListTag,Idol<br>Daftar
+DeckTop_ExchangeTag,Tukar
+DeckTop_CharacterIllustrateTag,Anggota Ilustrasi
+DeckCharaSelect_LeaderChangeButton,Atur Pemimpin
+DeckCharaSelect_ParamNothing,---
+DeckCharaSelect_SubDeckNoSkill,Idol sub-unit tidak akan mengaktifkan skill.
+SortDialog_Title,Urutkan Idol
+SortDialog_FilteringTitle,Saring
+SortDialog_SortTitle,Urutkan
+SortDialog_DefaultButton,Batalkan Semua
+SortDialog_AllSelectButton,Pilih Semua
+SortDialog_AllReleaseButton,Batalkan Semua
+SortDialog_LiveSkillWord,Keterampilan
+SortDialog_LiveSkillScoreUp,Skor Naik
+SortDialog_LiveSkillConditionalScoreUp,Bersyarat<br>Skor Naik
+SortDialog_LiveSkillScoreUpAndLifeHeal,Skor Naik <br>Pemulihan HP
+SortDialog_LiveSkillScoreUpAndResultUp,Skor Naik <br>Penilaian Ditingkatkan
+SortDialog_LiveSkillPowerHeal,Pemulihan HP
+SortDialog_LiveSkillEnhance,Performa Lebih Baik
+SortDialog_LiveSkillOther,Lainnya
+SortDialog_LiveSkillConditionalOnlyScoreUp,Kondisi tertentu saja<br>Skor naik
+SortDialog_LiveSkillEnergyConditionalLifeHealScoreUp,HP Kondisional<br>Skor Naik atau Pemulihan
+SortDialog_FilterGroup,Grup
+SortDialog_FilterType,Atribut
+SortDialog_FilterAwakening,Bangkitkan
+SortDialog_AwakeningAll,Semua
+SortDialog_Awakened,Bangkitkan
+SortDialog_Unawakened,Belum Bangkitkan
+SortDialog_PassiveSkillWord,Pasif Skill
+SortDialog_PassiveSkillEffectWord,Efek Target
+SortDialog_PassiveSkillEffectPart,Posisi Instrumen
+SortDialog_PassiveSkillEffectPartRole,Posisi
+SortDialog_PassiveSkillEffectPartAndPartRole,Keduanya
+SortDialog_PassiveSkillPartWord,Efek Target Instrumen
+SortDialog_PassiveSkillSuitWord,◆Efek untuk Idol dengan Atribut Ini◆
+SortDialog_PassiveSkillMatchBothWord,◆Kondisi Gabungan◆
+SortDialog_PassiveSkillSubPartWord,◆Lainnya◆
+SortDialog_PassiveSkillSubPartWordPowerUp,HP Awal Naik
+SortDialog_EpisodeReadAll,Semua
+SortDialog_EpisodeReadNotEpisode,Belum dibaca
+SortDialog_EpisodeReadNotSpecialEpisode,Spesial<br>Belum Dibaca
+SortDialog_SortAllStatus,Total
+SortDialog_SortSoul,Smile
+SortDialog_SortTechnic,Pure
+SortDialog_SortAppeal,Cool
+SortDialog_SortUnlock,Diperoleh
+SortDialog_SortRarity,Rarity
+SortDialog_SortLevel,Level
+SortDialog_SortSkillLevel,Urutkan Tingkat Skill
+SortDialog_SortSkill,Urutkan Berdasarkan Skill
+SortDialog_SortMember,Anggota
+SortDialog_SortFavorite,Favorit
+SortDialog_SortHp,HP
+SortDialog_Kizuna,Afeksi
+SortDialog_EventPtBonus,Bonus Event Pt
+SortDialog_TypeAll,Semua Target
+SortDialog_PassiveSkillMatchBothAnd,"Instrumen dan Atribut cocok, efek aktif."
+SortDialog_PassiveSkillMatchBothOr,Efek aktif jika salah satu dari bagian instrumen atau atribut cocok.
+CostumeSelectPortrait_Top,Ketuk layar ini untuk keluar dari mode layar penuh.<br>
+CostumeSelectPortrait_Selected,Memilih
+LocalNotification_Title,Skufesu 2
+LocalNotification_Ticker,LP Anda telah terisi penuh.
+LocalNotification_Message,LP Anda telah terisi penuh.
+LocalNotification_Description,Notifikasi
+LiveDownload_State_Downloading,Sedang mengunduh...
+LiveDownload_State_Complete,Siap!
+LiveScene_Dialog_ContinueTitle,Lanjutkan Live
+LiveScene_Dialog_ContinueMessage,Habiskan <color=#C12424> {0} Loveca </color> untuk memulihkan HP sepenuhnya dan melanjutkan Live?
+LiveScene_Dialog_ContinueGemShortageTitle,Loveca Tidak Cukup
+LiveScene_Dialog_ContinueGemShortageMessage,"Loveca tidak cukup, jadi <br>Anda tidak dapat melanjutkan Live."
+LiveScene_Dialog_FailureTitle,Live Gagal
+LiveScene_Dialog_FailureMessage,"HP habis<br><br>Dengan menghabiskan <color=#C12424>{0} Loveca </color>, kamu bisa memulihkan semua HP dan melanjutkan<br>."
+LiveScene_Dialog_FailureMessage_EventSpirit,"HP habis<br><br>Dengan menghabiskan <color=#C12424>{0} Loveca </color>, kamu bisa memulihkan semua HP dan melanjutkan<br>."
+LiveScene_Dialog_PauseTitle,Jeda Sementara
+LiveScene_Dialog_PauseMessage,Akhiri Live dan kembali ke pemilihan lagu? <br> <br> <color=#C12424> LP tidak akan Habiskan jika Anda mengakhiri. </color>
+LiveScene_Dialog_PauseMessage_EventChallenge,Akhiri Live dan kembali ke pemilihan lagu? <br> <br> <color=#C12424> Miracle Star tidak akan Habiskan jika diakhiri. </color>
+LiveScene_Dialog_RetireConfirmTitle,Hentikan Live
+LiveScene_Dialog_RetireConfirmMessage,"Live selesai, Anda tidak akan mendapatkan Hadiah. <br> Kembali ke Live dan lanjutkan bermain? <br> <br> <color=#C12424> ※Jika Anda keluar, LP tidak akan Habiskan. </color>"
+LiveScene_Dialog_RetireConfirmMessage_EventChallenge,Menutup Live akan membuat Anda kehilangan Hadiah. <br> Apakah Anda ingin kembali ke Live dan melanjutkan bermain? <br> <br> <color=#C12424> Perlu diingat bahwa Miracle Star tidak akan Habiskan jika Anda memilih untuk keluar. </color>
+LiveScene_Dialog_SuspendButton,Hentikan Live
+LiveScene_Dialog_CancelButton,Jeda Sementara
+LiveScene_Dialog_ReheasalRetryConfirmMessage,Live dihentikan dan dimulai dari awal?
+LiveScene_Dialog_ReheasalRetireConfirmMessage,Akhiri Live dan kembali ke pemilihan lagu?
+LiveScene_MultiWaitOtherPlayerLoading,Anggota sedang bersiap...
+LiveScene_MultiWaitOtherPlayerPlaying,Anggota sedang Live...
+LiveScene_MultiUserIntroduction_Vs,Live dengan pemain ini
+LiveScene_MultiUserIntroduction_EventHomework,Live dengan pemain ini
+LiveScene_SkillBoard_Trigger,Aktifkan Skill
+LiveScene_VoltageGaugeLv1,(Dummy) LV 1
+LiveScene_VoltageGaugeLv2,(DUMMY) LV 2
+LiveScene_VoltageGaugeLv3,(ダミー) LV 3
+LiveScene_VoltageGaugeLv4,(Dummy) LV 4
+LiveScene_VoltageGaugeLvMax_ClimaxReady,CLIMAX - Siap!
+LiveScene_VoltageGaugeLvMax_ClimaxPlaying,WAKTU CLIMAX AKTIF!!
+LiveScene_VoltageGaugeLvMax_ClimaxEnd,Waktu CLIMAX berakhir
+LiveScene_VoltageGaugeLvMax_ClimaxPerfect,CLIMAX PERFECT!!
+LiveScene_AutoPlayComment,"Otomatis, skor tertinggi akan diterapkan."
+LiveScene_Dialog_RestartConfirmTitle,Mulai Ulang dari Awal
+LiveScene_Dialog_RestartConfirmMessage,"Apakah Anda ingin mengakhiri Live dan memulai dari awal? <br> <br> <color=#C12424> ※Jika diakhiri, LP tidak akan Habiskan. </color>"
+LiveScene_Dialog_RestartConfirmMessage_EventSpirit,"Apakah Anda ingin mengakhiri Live dan memulai dari awal? <br> <br> <color=#C12424> Jika diakhiri, Miracle Star tidak akan Habiskan. </color> <br> <br>"
+LiveScene_Dialog_ContinueSpiritShortageTitle,Miracle Star Tidak Cukup
+LiveScene_Dialog_ContinueSpiritShortageMessage,Miracle Star tidak cukup <br>. Miracle Star dapat diperoleh dengan memainkan lagu biasa <br> <br> <br> <br>.
+CooperationLive_RoomRestriction,Batasan Live
+CooperationLive_NormalRoom,Normal
+CooperationLive_SpecialRoom,Hari
+CooperationLive_EventRoom,Event
+Notice_DialogTitle,Lagu Baru!
+Notice_DialogSchool,(Dummy)
+Notice_DialogWordsDefault,Lirik:
+Notice_DialogCompositionDefault,Komposer:
+Notice_DialogArrangerDefault,Aransemen:
+MusicDetail_DialogTitle,Detail Lagu
+MusicDetail_RecievedLabel,Dapatkan
+MusicDetail_RemainLabel,Sisa {0} kali
+MusicDetail_FirstLabel,Hadiah Pertama
+MusicDetail_ClearReward,Hadiah Jaminan
+MusicDetail_RandomReward,Hadiah Acak
+MusicDetail_DetailTab,Info Lagu
+MusicDetail_RewardTab,Hadiah Pencapaian
+MusicDetail_Reference,Sumber: {0}
+MusicSelect_HighScore,Skor Tertinggi
+MusicSelect_MyRankingHighScore,Anda<br>(Dummy)
+MusicSelect_ClearRamp,Status Selesai
+MusicSelect_TeacherPoint,Tingkat Skor Tinggi
+MusicSelect_TeacherPointSum,Total Skor Tinggi
+MusicSelect_CategoryButton,Genre
+MusicSelect_SortButton,Saring
+MusicSelect_ClearBonusButton,Hadiah Pencapaian
+MusicSelect_RandomButton,Otomatis
+MusicSelect_SortApplyDataBar,Aktif
+MusicSelect_ObtainTypeShopMessage,Beli di Toko Musik
+MusicSelect_ObtainTypeShopButton,Ke Toko Musik
+MusicSelect_ObtainTypeMissionMessage,Selesaikan Misi <br> «{0}» <br>
+MusicSelect_ObtainTypeMissionButton,Misi
+MusicSelect_ObtainTypeStoryMessage,Tonton cerita utama <br>«{0}» <br> untuk mendapatkan Hadiah.
+MusicSelect_ObtainTypeStoryButton,Ke Cerita
+MusicSelect_ObtainTypePlayerRankMessage,Peringkat menjadi {0}
+MusicSelect_ObtainTypeNoneMessage,Kondisi buka tidak disetel.
+MusicSelect_ObtainTypeNoneButton,Tidak ditentukan
+MusicSelect_UnlockTitle,Syarat Dibuka
+MusicSelect_SortDialogTitle,Urutkan
+MusicSelect_RefineDialogTitle,Saring
+MusicSelect_FilterCategoryTitle,Genre
+MusicSelect_FilterOtherTitle,Lainnya
+MusicSelect_SortTitle,Urutkan
+MusicSelect_FilterCategoryAll,Semua
+MusicSelect_FilterCategoryCharacterSong,(Dummy)
+MusicSelect_FilterCategoryCoupling,(Dummy)
+MusicSelect_FilterCategorySongWithinPlay,(Dummy)
+MusicSelect_FilterCategoryOther,Lainnya
+MusicSelect_FilteRefineNone,Tidak ditentukan
+MusicSelect_FilterRefineFavorite,Favorit
+MusicSelect_FilterRefineNotClear,Belum Selesai
+MusicSelect_FilterRefineNotScoreSS,Belum SS
+MusicSelect_FilterRefineNotFullCombo,Belum Full Combo
+MusicSelect_FilterRefineNotAllPerfect,Belum Semua Perfect
+MusicSelect_SortDefault,Standar
+MusicSelect_SortMusicName,Urutkan berdasarkan nama lagu
+MusicSelect_SortReleaseTime,Rilis Terakhir
+MusicSelect_SortMusicLevel,Level
+MusicSelect_SortHighScore,Skor Tertinggi
+MusicSelect_Ranking,Peringkat
+MusicSelect_AllTab,Semua
+MusicSelect_NoClearRate,--:--%
+MusicRanking_Score,SKOR
+MusicRanking_Rank,Peringkat
+MusicRecommend_RecommendList,Rekomendasi Lagu
+MusicRecommend_RecommendListCancel,Batalkan Daftar Rekomendasi
+MusicRecommend_UseThisList,Gunakan Daftar Ini
+MusicFilterAutoSort_DialogTitle,Pilihan Otomatis
+MusicFilterAutoSort_Random,Acak
+MusicFilterAutoSort_NonPlay,Lagu yang belum dimainkan
+MusicFilterAutoSort_RecentPlay,Lagu yang Baru Diputar
+MusicFilterAutoSort_RecentRelease,Baru-baru ini dirilis
+MusicGoal_DialogTitle,Tujuan Lagu
+MusicGoal_ScoreLabel,SKOR |
+MusicGoal_HighScore,SKOR TERTINGGI
+MusicGoal_ComboLabel,COMBO |
+MusicGoal_Combo,COMBO
+MusicGoal_MaxCombo,MAX COMBO
+MusicGoal_FullComboLabel,FULL COMBO |
+MusicGoal_ClearLabel,CLEAR |
+MusicGoal_ClearCount,Jumlah Selesai
+MusicGoal_Count,Kali
+MusicGoal_Achievement,Dicapai
+MusicGoal_AchievementRate,Antar semua pemain<br>Tingkat penyelesaian
+MusicGoal_HighOrder,Teratas
+MusicGoal_UnPlayed,Belum Dimainkan
+CooperationLive_TotalPower,Total kekuatan unit utama:
+CooperationLive_NormaType,Normal
+CooperationLive_SpecialType,Hari
+CooperationLive_StampSettingButton,Atur Stempel
+CooperationLive_PrivateButton,Privat
+CooperationLive_FriendsInviteButton,Undang Teman
+CooperationLive_DeckEditButton,Susun Tim
+CooperationLive_MatchingDialogTitle,Mencari Pertandingan
+CooperationLive_MatchingDialogMessage,Mencari Live.
+CooperationLive_CreateRoomDialogTitle,Membuat Live
+CooperationLive_CreateRoomDialogMessage,Membuat Live.
+CooperationLive_MatchingDialogAnnotation,"Saat sibuk, mungkin perlu waktu lebih lama."
+CooperationLive_PrivateSelectDialogTitle,Privat Live
+CooperationLive_PrivateSelectDialogEnterMessage,Masukkan ID Live dan<br>masuk.
+CooperationLive_PrivateSelectDialogEnterButton,Masuk
+CooperationLive_PrivateSelectDialogCreateMessage,Tentukan kondisi lalu buat Live.<br>
+CooperationLive_PrivateSelectDialogCreateButton,Buat
+CooperationLive_RoomTypeRewardInfo,{0} naik!
+CooperationLive_RoomTypeRewardWeekMonday,Senin Terbatas
+CooperationLive_RoomTypeRewardWeekTuesday,Selasa Terbatas
+CooperationLive_RoomTypeRewardWeekWednesday,Rabu Terbatas
+CooperationLive_RoomTypeRewardWeekThursday,Kamis Terbatas
+CooperationLive_RoomTypeRewardWeekFriday,Jumat Terbatas
+CooperationLive_RoomTypeRewardWeekSaturday,Sabtu Terbatas
+CooperationLive_RoomTypeRewardWeekSunday,Minggu Terbatas
+FriendInviteItem_RoomCreater,Nama Pengguna
+FriendInviteItem_RoomType,Atribut Live
+FriendInviteItem_RoomCondition,Batasan Live
+FriendInviteItem_RoomComment,Komentar Singkat
+FriendInviteItem_RoomName,Nama Live
+FriendInviteItem_RoomReward,Hadiah Live
+FriendInviteItem_RoomSessionID,ID Live
+FriendInviteItem_JoinButton,Masuk
+LiveMatching_PrivateRoomTitle,ID:
+LiveMatching_RoomConditionTitle,Nama Live:
+LiveMatching_RoomTypeInfoTitle,Hadiah Live:
+LiveMatching_PlayerTitle,{0} P
+LiveMatching_Support,Dukungan
+LiveMatching_WaitMessage,Mencari anggota... Mohon tunggu hingga semua anggota terkumpul.
+LiveMatching_WaitMessageInfo,Live bisa dimulai dengan minimal 2 orang.
+LiveMatching_RoomTypeNormal,Normal
+LiveMatching_RoomTypeEvent,Hari
+LiveMatching_MatchedMessage,Anggota dipilih! Beralih ke pemilihan lagu.
+LiveMatching_RoomOpenButton,Buka Live
+LiveMatching_InviteFriendButton,Undang Teman
+LiveMatching_DecideButton,Anggota Dikonfirmasi
+MatchingPlayer_Wait,Mencari pemain...
+LoginBonus_HoldingPeriod,Periode:
+LoginBouns_Season,{0} ~ {1} {2} {3}
+LoginBouns_Days,Hari ke-{0}
+LoginBouns_EventBonusValue,+{0}
+MultiConfirm_LevelLabel,Level Lagu
+MultiConfirm_OptionButton,Pengaturan
+MultiConfirm_HealthyBoostButton,Atur LP
+MultiConfirm_StartButton,Siap dimulai
+MultiConfirm_Waiting,Menunggu
+CooperationLiveInfo_Title,Hadiah Live
+CooperationLiveInfo_Message1,"Di ""Live Harian"", Anda akan lebih mudah mendapatkan <br>Hadiah harian<br>. ※Dalam ""Live Biasa"", hadiahnya adalah hadiah biasa."
+CooperationLiveInfo_Message2,Bulan {0} <br> Selasa {1} <br> Rabu {2} <br> Kamis {3} <br> Jumat {4} <br> Sabtu {5} <br> Minggu {6}
+CooperationLiveInfo_Message3,Item selain yang menjadi target peningkatan Hadiah akan memiliki jumlah <br>Dapatkan yang disesuaikan.
+CooperationLiveInfo_dailyEffect,Peluang {0} meningkat!
+Stamp_FavoriteTitle,Favorit
+Stamp_RemoveButton,Hapus
+Stamp_ResetButton,Reset
+Profile_RankFriend,Jumlah teman maks: {0} → {1}
+Profile_RankReward,{0} {1} buah
+GachaTop_PickUpPhotoDetailTitle,Detail Idol
+GachaTop_PhotoDetailTitle,Detail Idol
+Ornament_OrnamentListTitle,Daftar Item
+OrnamentShop_OrnamentReplaceTitle,Ganti dengan item yang sedang terpasang?
+GachaTop_PickUpPhotoDetailButton,Detail Idol
+GachaTop_InfoDetailButton,Rekrut Detail
+GachaTop_ExchangeButton,Tukar
+Notice_GroupExpNoticeWindowTitle,Grup Rank
+Button_Download,Unduh
+Mission_AcceptAllButtonText,Terima Semua
+MusicDecision_MusicLevelArea,{0} ~ {1}
+MusicDecision_RandomMusicTitle,Otomatis
+MusicDecision_RandomMusicLevel,Acak
+MusicDecision_LiveLevelReselectButton,Pilih Ulang
+MusicDecision_ShuffleMessage,Melakukan undian lagu.
+MusicDecision_DifficultySelectMessage,Pilih tingkat kesulitan yang ingin dimainkan.
+EventTop_ScoreRanking,Peringkat Skor Keseluruhan
+EventTop_GroupScoreRanking,Ranking Skor Grup
+EventTop_Season,Sisa {0}
+EventTop_UntilRewardPoint,sampai {0} P
+EventTop_NextEventPoint,Sisa
+EventTop_NextEventHomeworkPoint,Sisa
+EventTop_TotalEventPoint,Total poin event
+EventTop_HasHomeworkPoint,Pencapaian Misi Kolaborasi:
+EventTop_HasStamina,Sozoku Mirakuru Suta
+EventTop_HasBadge,Soal Pik:
+EventTop_HasMedal,Loveca yang dimiliki:
+EventTop_HasTicket,Soal Tiket:
+EventTop_NextStory,★Cerita Berikutnya
+EventTop_NextReward,★Hadiah Berikutnya
+EventTop_NowHomework,★Tugas Saat Ini
+EventTop_AllGetReward,Semua sudah didapatkan
+EventTop_AllGetStory,Semua sudah terbuka
+EventTop_ExchangeButton,Tukar
+EventTop_BingoButton,BINGO
+EventTop_BoxGachaButton,Rekrut (Box)
+EventTop_ChangeHomeworkButton,Ganti Tugas
+EventTop_HomeworkMusicLevel,Level Lagu
+EventTop_HomeworkMusicLevelValue,Selesai
+EventTop_CloseExchangeShopTerm,Toko berakhir pada {0}
+EventTop_CloseBoxGachaTerm,({0}) sampai tanggal
+EventTop_StoryButtonNextPoint,Sisa
+EventTop_StoryButtonNextPointHomework,Sisa
+EventTop_TermTitle,Periode:
+EventTop_ResultTermTitle,Periode Pengumuman Hasil:
+EventTop_EmotionalMemberSelectTermTitle,【Periode Pemilihan Anggota】
+EventTop_EmotionalBandSelectTermTitle,[Periode Pemilihan Grup]
+EventTop_Multi_HelpterBonus,Hadiah Bantuan
+EventTop_Multi_TodayHelpterCount,Bantuan Hari Ini
+EventTop_Multi_AlreadyPlayedHelper,Jumlah bantuan hari ini sudah dimainkan.
+EventTop_Multi_UnitSettings,Susun Tim<br>khusus Event
+EventTop_Multi_Live,Live bersama!
+EventTop_Multi_LiveEx,Live bersama!
+EventTop_Multi_FreeMatching,Pencarian Acak
+EventTop_Multi_FreeMatching_Info,Bermain santai dengan pemain lain!
+EventTop_Multi_PrivateMatching,Pencarian Privat
+EventTop_Multi_PrivateMatching_Info,Ajak teman dan main bersama!
+EventTop_Multi_Join,Ikut serta
+EventTop_Multi_HelperJoin,Bantu Main
+EventTop_Multi_HelperCondition,"Selesaikan kesulitan {0} atau lebih, dan dapatkan {1} poin dengan {2} poin untuk membantu."
+EventTop_Multi_Room,ke ruangan
+EventTop_Multi_Room2,ke ruangan
+EventTop_Multi_RoomCreate,Buat
+EventTop_Multi_RoomJoin,Ikut serta
+EventTop_Multi_HelperToday,Hari ini
+EventTop_Multi_HelperCount,{0} / {1}
+EventTop_Multi_MatchingTitle,Pilih Kesulitan
+EventTop_Multi_MatchingTitleHelper,Anggota Bantu Ikut Serta
+EventTop_Multi_RoomCreateDialog_Info,Pilih tingkat kesulitan.
+EventTop_Multi_RoomCreateDialog_Info2,"Anda dapat memilih beberapa tingkat kesulitan.<br>Jika Anda memilih beberapa, pencocokan akan dilakukan secara acak dari tingkat kesulitan yang dipilih."
+EventTop_Multi_RoomCreateDialog_Info3,Pilih satu tingkat kesulitan.
+EventTop_Multi_RoomCreateDialog_Info4,Anda dapat memainkan Live dengan kesulitan yang dipilih.
+EventTop_Multi_RoomCreateDialog_Error,Kesulitan belum dipilih.
+EventTop_Multi_RoomCreateDialog_Start,Mulai Pencarian
+EventTop_Multi_RoomSearchDialog_Info,Masukkan ID Ruangan.
+EventTop_Multi_RoomSearch_NotFindRoom,ID salah atau ruangan penuh.
+EventTop_Multi_PenaltyInfo,"Koneksi terputus atau perilaku tidak pantas terdeteksi berulang kali.<br>Oleh karena itu, kami akan membatasi sementara pemutaran Live dalam acara ini."
+EventTop_Multi_RemainPenalty,Pembatasan berakhir dalam
+EventTop_Multi_Confirmation,Konfirmasi
+EventTop_Multi_NotEnoughPower,Statistik tidak memenuhi nilai yang dibutuhkan.
+EventLive__Multi_PointPenalty,Dapatkan event poin berkurang setengah
+EventLive__Multi_NotSelectedLevel,Kesulitan belum dipilih.
+EventLive__Multi_Matching,Mencari pemain ({0}/{1})
+EventLive__Multi_JoiningRoom,Bergabung dengan Ruangan
+EventLive__Multi_FailedToJoinRoom,Gagal bergabung ke ruangan.
+EventLive__Multi_NotFoundRoom,ID salah atau ruangan penuh.
+EventLive__Multi_CreatingRoom,Ruang sedang dibuat
+EventLive__Multi_FailedToCreateRoom,Gagal membuat ruangan. Coba lagi nanti.
+EventLive__Multi_NotFoundHelperRoom,Tidak ada ruangan yang tersedia untuk bergabung dengan bantuan.
+EventLive__Multi_ConnectingToMatchingServer,Menghubungkan ke server pencocokan
+EventResult_Multi_Helper,Bantu
+EventResult_Multi_Disconnected,Koneksi terputus.
+EventResult_Multi_ConfirmingResult,Menunggu hasil Live
+EventResult_Multi_LeaveRoom,Keluar...
+EventResult_Multi_Retry,Mainkan lagi
+EventMusicSelect_HighScore,Event<br>Skor Tertinggi
+EventMusicSelect_ScoreRanking,Papan Peringkat Skor
+EventMusicSelect_StaminaUseDialogTitle,Konfirmasi Penggunaan Miracle Star
+EventMusicSelect_StaminaUseDialogMessage,Apakah Anda ingin memulai Live dengan menggunakan {0} Miracle Star? <br> ※LP tidak akan Habiskan.
+EventMusicSelect_StaminaUseDialogHasStamina,Miracle Star {0} buah
+EventMusicSelect_StaminaConfirmCheck,Jangan tanya lagi tentang penggunaan Miracle Star sampai event ini selesai.
+EventStory_NextEventPoint,Event Poin
+EventStory_NextEventHomework,Total tugas yang diselesaikan
+EventStory_ReleaseInfoEventPoint,Kumpulkan poin Event di Live!
+EventStory_ReleaseInfoEventHomework,Ayo selesaikan tantangan dengan bermain event!
+EventStory_EndReleaseStory,Event telah berakhir <br> Skenario ini akan dirilis pada {0}.
+EventRanking_TabScoreRanking,Peringkat Skor Lagu
+EventRanking_TabGroupScoreRanking,Ranking Skor Grup
+EventRanking_TabPointRanking,Poin Event
+EventRanking_TabEmotionalRanking,Peringkat Top 100
+EventRanking_TotalScore,Total Skor
+EventRanking_ScoreRanking,Total Skor Ranking
+EventRanking_ChangeButton,Ganti
+EventRanking_InfoMessage,Hasil hingga {0} akan ditampilkan.
+EventRanking_TopRanking,Peringkat Teratas
+EventRanking_YourRanking,Anda
+EventRanking_ScoreRankingTitle,Skor Lagu
+EventRanking_PointRankingTitle,Total poin event
+EventRanking_EmotionalRankingBandSelectTitle,Pilih Grup
+EventRanking_EmotionalRankingMemberSelectTitle,Pilih Anggota
+EventRanking_LookEmotionalRankingOtherBands,Lihat Grup Lain
+EventRanking_LookEmotionalRankingOtherMembers,Lihat Anggota Lainnya
+EventReward_TotalEventPointReward,Hadiah Poin Event Kumulatif
+EventReward_ScoreRankingReward,Peringkat Skor Keseluruhan
+EventReward_GroupScoreRankingReward,Ranking Skor Grup
+EventReward_MusicScoreRankingReward,Event Song Skor<br>Ranking
+EventReward_EventPointRankingReward,Poin Event<br>Ranking
+EventReward_EmotionalRankingReward,Favorit<br>Ranking
+EventReward_TotalEventPoint,Total poin event
+EventReward_YourRank,Peringkat Anda
+EventReward_RankingButton,Lihat Peringkat
+EventReward_EmotionalRankingJoinText,Sedang Berpartisipasi di {0}
+EventReward_RankingFromTo,{0}～{1}
+EventReward_RankingFromToEnd,{0}～
+EventReward_RankingInfoMessage,Hadiah peringkat akan diberikan setelah acara berakhir.
+EventReward_BingoReward,BINGO
+EventReward_BingoSheetLineReward,Hadiah untuk mencapai {1} baris di [Sheet {0}]
+EventReward_BingoSheetCompleteReward,[Sheet {0}] Hadiah Lengkap
+EventReward_BingoAllSheetCompleteReward,Hadiah Selesaikan Semua Sheet
+EventReward_RankingRewardDialogTitle,Daftar Hadiah
+EventReward_EventPointInfo,*Total event poin memiliki batasan.<br>*Batas dapat ditambahkan bersamaan dengan hadiah.
+EventResult_BaseEventPoint,Poin Event Dasar
+EventResult_ScoreBonus,Bonus Skor
+EventResult_EventBonus,Bonus Event
+EventResult_ClearBonus,Bonus Penyelesaian
+EventResult_GetEventPoint,Dapatkan Poin Event
+EventResult_GetStamina,Dapatkan Item Event
+EventResult_GetBadge,Dapatkan (Dummy)
+EventResult_GetMedal,Dapatkan Loveca
+EventResult_TotalEventPoint,Total poin event
+EventResult_TotalStamina,Total Item Event
+EventResult_TotalBadge,Kumulatif (Dummy)
+EventResult_TotalMedal,Total Loveca
+EventResult_NextStory,Cerita Berikutnya
+EventResult_NextReward,Hadiah Berikutnya
+EventResult_CompleteReward,Semua Hadiah telah Dapatkan.
+EventResult_EventStaminaBoostValue,x{0}
+EventResult_MemberBonus,Idol yang Berpartisipasi
+EventResult_MemberBonusInfoMessage,Anggota Bonus
+EventResult_StaminaInfoMessage,Perhatikan: Bonus Candy
+EventResult_NextPoint,Sisa
+EventResult_RewardDialogTitleClearCell,Hadiah Bingo Selesai
+EventResult_RewardDialogTitleBingo,Hadiah BINGO
+EventResult_RewardDialogSheetClear,Hadiah Selesaikan Sheet
+EventResult_RewardDialogAllSheetComplete,Hadiah Lengkap
+EventResult_RewardDialogInfoClearCell,Hadiah untuk menyelesaikan sel BINGO.
+EventResult_RewardDialogInfoBingo,Hadiah BINGO
+EventResult_RewardDialogInfoSheetClear,Hadiah untuk menyelesaikan sheet.
+EventResult_RewardDialogInfoAllSheetComplete,Hadiah untuk menyelesaikan semua.
+EventResult_BaseTicket,Jumlah Tiket Rekrut
+EventResult_GetTicket,Dapatkan Rekrut Tiket
+EventResult_TotalTicket,Total Rekrut Tiket
+EventResult_ClearHomweork,Jumlah tugas yang diselesaikan kali ini
+EventResult_TotalHomework,Total tugas yang diselesaikan
+EventResult_NextHomeworkPoint,Penyelesaian Tugas
+EventResult_ReStartConfirmTitle,Mainkan lagi
+EventResult_ReStartConfirmSpiritMessage,Habiskan Miracle Star {0} dan mainkan Live lagi? <br>
+EventResult_ReStartConfirmSpiritAutoMessage,Habiskan Miracle Star {0} dan Auto Ticket {1} untuk memutar ulang Live? <br>
+EventResult_ReStartConfirmAutoMessage,Habiskan Auto Ticket {0} dan mainkan Live lagi <br>?
+EventBingoSheet_Title,Lembar BINGO ({0}/{1})
+EventBingoSheet_TotalOpend,Pencapaian
+EventBingoSheet_TotalOpendValue,<color=#d73c55> {0} / {1} </color>
+EventBingoSheet_TotalSheet,Lembar Bingo
+EventBingoSheet_TotalSheetValue,<color=#d73c55> {0} / {1} </color>
+EventBingoSheet_TotalSheetValueCurrent,<color=#d73c55> {0} / {1} </color>
+EventBingoSheet_BingoClearScore,"Skor <color=#d73c55> {0} </color> atau lebih, selesaikan {1} kali."
+EventBingoSheet_BingoClearLife,"POWER <color=#d73c55> {0} </color> atau lebih, selesaikan {1} kali."
+EventBingoSheet_BingoClearJudge,Klaim {1} kali dengan penilaian GREAT ke bawah dalam <color=#d73c55>{0}</color>
+EventBingoSheet_BingoClearCombo,Maksimalkan kombo <color=#d73c55> {0} </color> dan selesaikan sebanyak {1} kali.
+EventBingoSheet_BingoClearFullCombo,MAX COMBO {0} kali
+EventBingoSheet_BingoClearMultiScoreRank,Selesaikan Live sebanyak {1} kali dengan peringkat {0} atau lebih tinggi bersama-sama <color=#d73c55> </color>
+EventBingoSheet_BingoClearDeckCharacter,"Susun Tim dengan <color=#d73c55> {0} </color>, lalu selesaikan sebanyak {1} kali."
+EventBingoSheet_BingoClearDeckType,"Susun Tim dengan {0} anggota atau lebih dari Atribut {1}, dan selesaikan {2} kali. <color=#d73c55> </color>"
+EventBingoSheet_BingoClearMusicName,Lagu: {0}
+EventBingoSheet_BingoClearEventMusicName,Lagu: Live Peringkat {0}
+EventBingoSheet_BingoClearMusicLevel,Level: {0}
+EventBingoSheet_BingoClearMusicLevelValue,{0}+
+EventBingoSheet_BingoRewardButton,Hadiah
+EventBingoSheet_BingoRewardDialogTitle,Daftar Hadiah
+EventBingoSheet_BingoSheetCompleteRewardNumber,Lembar ke-{0}
+EventMemberBonus_TipsTitle,Tentang Bonus Event
+BirthdayScene_PlayButtonNameText,Tonton Ucapan Selamat
+BirthdayScene_AreaButtonNameText,Area Ulang Tahun
+EventHomework_HomeworkConfirmButton,Konfirmasi Tugas
+EventHomework_MissionNormalText,Misi Normal
+EventHomework_MissionRareText,Misi Langka
+EventHomework_MissionSuperRareText,Misi Super Langka
+EventHomework_LotteryDialogTitle,Undian Misi Kolaborasi
+EventHomework_LotteryDialogRareMissionText,Contoh Misi Langka
+EventHomework_LotteryDialogRareMissionInfoText,"Misi kerja sama memiliki 3 tingkat kelangkaan: Normal, Langka, dan Super Langka.<br>Semakin tinggi tingkat kelangkaannya, semakin baik hadiahnya."
+EventHomework_LotteryDialogLotteryButtonText,Lakukan Undian
+EventHomework_MissionChangeDialogTitle,Ubah Misi Kolaborasi
+EventHomework_MissionChangeDialogChangeMessage,"Ubah misi kerja sama saat ini? <br> ※Setelah diubah, Anda tidak dapat mengubah misi kerja sama saat ini sampai Anda memainkan live sekali."
+EventHomework_MissionChangeDialogUnChangeMessage,Coba tantang Misi Kerja Sama saat ini!<br>※Kamu dapat mengubah Misi Kerja Sama saat ini setelah bermain Live.
+EventHomework_GetMissionDialogTitle,Dapatkan Misi Kerja Sama
+EventHomework_GetMissionDialogMessage,*Saat ini ditetapkan sebagai Misi Kolaborasi.*
+EventHomework_MissionDetailDialogTitle,Misi Kolaborasi
+EventHomeworkBoxGacha_Title,(Dummy)
+EventHomeworkBoxGacha_NowBox,Kotak ke-{0}
+EventHomeworkBoxGacha_Remaining,Sisa {0}/{1}
+EventHomeworkBoxGacha_NextBoxButton,Kuji Berikutnya
+EventHomeworkBoxGacha_PlayBoxGacha,Putar {0} kali
+EventHomeworkBoxGacha_UsedTicket,x{0}
+EventHomeworkBoxGacha_HasTicket,Tiket yang Dimiliki
+EventHomeworkBoxGacha_BoxInfoButton,Isi (Dummy)
+EventHomeworkBoxGachaInfo_Title,Isi Kotak ({0})
+EventHomeworkBoxGachaInfo_Page,{0} / {1}
+EventHomeworkBoxGachaResult_Title,Dapatkan Item!
+EventHomeworkBoxGachaResult_Message,Anda bisa menerimanya sebagai hadiah.
+EventHomeworkRoomSelect_RoomTitleEvent,{0} Live
+EventHomeworkRoomSelect_RoomTitleEveryone,Event (Dummy)
+EventHomeworkRoomSelect_RankingTarget,Target Peringkat Skor Tinggi
+EventHomeworkRoomSelect_RankingExcluded,Bukan Target Peringkat Skor Tinggi
+EventHomeworkRoomSelect_RankingExcludedInfo,Tidak termasuk dalam peringkat.
+EventHomeworkRoomSelect_EventHighScore,Skor Tinggi Event
+EventHomeworkRoomSelect_EventGroupRanking,Peringkat Skor Tinggi Grup
+EventHomeworkMatching_HomeworkMusicLevel,Level Lagu
+EventHomeworkMatching_MusicLevel,{0}+
+EventHomeworkMatching_HomeworkInfo,Isi Tugas
+EventHomeworkMatching_Reward,Hadiah
+EventHomeworkLiveResult_HomeworkResult,Hasil Tugas
+EventHomeworkLiveResult_HomeworkResultReward,Dapatkan Hadiah
+EventHomeworkLiveResult_RewardBonus,Hadiah {0}!
+EventHomeworkLiveResult_RewardBonusValue,x{0}
+EventHomeworkLiveResult_MyClear,Saya Selesaikan
+EventHomeworkLiveResult_OtherClear,Orang lain mencapai
+EventHomeworkLiveResult_NoClear,Belum tercapai
+EventHomeworkLiveResultNewHomework_Title,Tugas Baru!
+EventHomeworkLiveResult_MusicLevel,Tingkat Lagu: {0}
+EventHomeworkLiveResult_Homework,Tugas: {0}
+EventHomeworkLiveResult_Reward,Hadiah Item
+EventBonus_PointUpBonus,Bonus Poin
+EventBonus_TotalPowerBonus,Bonus Peningkatan Total Kekuatan
+EventBonus_PickUpMemberBonus,Bonus Idol
+EventBonus_PointUpTotal,Poin Up Total
+EventBonus_PowerUpTotal,Total Peningkatan Kekuatan
+EventBonus_PowerUpAddValue,(Total Power +{0})
+EventBonus_BonusPercentUp,+{0}%
+EventBonus_PowerUpTotalValue,+{0} naik
+EventBonus_BonusCaution,"• Dalam Live, bonus peningkatan kekuatan total tidak akan aktif. <br> • Jika ada beberapa Idol yang memenuhi syarat untuk bonus, hanya bonus dengan nilai efek tertinggi yang akan aktif. <br> • Jika ada beberapa Idol di unit yang memiliki bonus ""Idol+"", hanya satu Idol dengan efek tertinggi pada kekuatan total dan poin event yang dapat mengaktifkan bonus. <br> <color=#C12424> ※ </color> Bonus ""Idol+"" pada kekuatan total, hanya Idol dengan nilai tertinggi setelah mengalikan kekuatan total Idol dan nilai efek bonus ""Idol+"" yang akan mengaktifkan efeknya. <br> <color=#C12424> ※ </color> Bonus ""Idol+"" pada poin event, hanya satu Idol dengan efek peningkatan poin event tertinggi yang akan mengaktifkan efeknya. <br> <color=#C12424> ※ </color> Bonus kekuatan total dan poin event ""Idol Bonus+"" dapat diaktifkan oleh Idol yang berbeda. <br> <color=#C12424> ※ </color> Idol yang memiliki bonus ""Idol+"", tetapi tidak dapat mengaktifkannya, masih dapat mengaktifkan bonus lain. <br> • Bonus ""Idol Bonus"" dan ""Idol Bonus+"" dapat diaktifkan secara bersamaan."
+EventIncentive_CheckTicketTitle,Konfirmasi Tiket Undian
+EventIncentive_CheckTicketMessage,Apakah Anda ingin memeriksa tiket <br>? <br> <br> {0} Anda memiliki {1} tiket.
+EventIncentive_CheckTicketWarning,<color=#C12424>Undian tidak dapat digunakan sebagian <br>Perhatikan bahwa Undian akan dihapus jika tidak digunakan selama periode yang ditentukan </color>
+EventIncentive_LostTitle,Hasil Undian
+EventIncentive_LostMessage,Hadiah hiburan telah ditambahkan ke hadiah Anda.<br>Kami berharap dapat melihat Anda berpartisipasi lagi di masa mendatang.
+EventIncentive_LostGoToPresentBoxScene,Hadiah
+EventIncentive_ApplicationTitle,Info Pendaftaran
+EventIncentive_ApplicationId,ID:
+EventIncentive_ApplicationPassword,Kata sandi:
+EventIncentive_ApplicationUrlTitle,URL Aplikasi:
+EventIncentive_ApplicationNote,Catatan Aplikasi (akan ditambahkan nanti)
+EventIncentive_IdCopy,ID disalin
+EventIncentive_PasswordCopy,ID disalin
+EventIncentive_TermTitle,Syarat Event
+EventEmotionalSetting_SelectBand,Pilih grup untuk ikut peringkat.
+EventEmotionalSetting_ChangeBand,Pilih grup yang akan diubah
+EventEmotionalSetting_SelectMember,Pilih Anggota untuk ikut serta dalam peringkat.
+EventEmotionalSetting_ChangeMember,Pilih anggota yang akan diubah.
+LimitedLive_Name_1101001,Limited Live Nama 1
+LimitedLive_Name_1101002,Limited Live Nama 2
+LimitedLive_Name_1301001,Limited Live Nama 3
+LimitedLive_Name_1401001,Limited Live Nama 4
+LimitedLive_Name_1501001,Nama Live Terbatas 5
+LimitedLive_Name_1502001,Limited Live Nama 6
+LimitedLive_Name_1601001,Limited Live Nama 7
+LimitedLive_Name_1801001,Limited Live Nama 8
+LimitedLive_Name_1802001,Nama Live Terbatas 9
+LimitedLive_Name_1803001,Nama Live Terbatas 10
+LimitedLive_Name_1804001,Limited Live Nama 11
+LimitedLive_Name_1805001,Limited Live Nama 12
+LimitedLive_Name_1806001,限定ライブ名13
+LimitedLive_Name_1807001,Limited Live Nama 14
+LimitedLive_Name_1808001,Limited Live Nama 15
+LimitedLive_Name_1892001,Limited Live Nama 16
+LimitedLive_Name_1893001,限定ライブ名17
+LimitedLive_Name_1894001,限定ライブ名18
+LimitedLive_Name_1895001,限定ライブ名19
+LimitedLive_Name_1896001,限定ライブ名20
+LimitedLive_Name_1701001,限定ライブ名21
+LimitedLive_BonusEffect_1101001,Hadiah Penyelesaian Lebih Banyak!
+LimitedLive_Period,Periode: {0} ~ {1}
+LimitedLive_FreePlayLabel,Putar Gratis
+LimitedLive_TicketLabel,Tiket yang Dimiliki
+LimitedLive_FreePlayCountLabel,Sisa
+LimitedLive_FreePlayCountValue,{0} kali
+LimitedLive_TicketAmountValue,{0} lembar
+LimitedLive_LiveIsChosen,Lagu dipilih.
+LimitedLive_DetailDialog_RuleSection,◆Aturan
+LimitedLive_DetailDialog_RuleSection_ResetDaily,Harian {0} kali
+LimitedLive_DetailDialog_RuleSection_ResetWeekly,Minggu {0} kali
+LimitedLive_DetailDialog_RuleSection_Rule_1,"Ini adalah Live di mana Anda dapat {0} dengan probabilitas tertentu <br> Anda dapat bermain {1} <br> Anda juga dapat bermain dengan menggunakan tiket makan <br> Jika itu adalah lagu yang beruntung, hadiah akan meningkat."
+LimitedLive_DetailDialog_RuleSection_Rule_2,"Anda dapat memainkannya {1}. <br> Anda juga dapat memainkannya dengan menggunakan tiket makan. <br> Jika itu adalah lagu berhadiah, hadiah akan meningkat."
+LimitedLive_DetailDialog_RewardSection,◆Hadiah
+LimitedLive_DetailDialog_BonusLiveSection,◆Lagu Beruntung <br> {0}
+LimitedLive_DetailDialog_PeriodSection,◆Periode Acara: <br> {0} ~ {1}
+LimitedLive_UnlockDialog_NotEnouchTicketDaily,<color=#D73C55>Tiket tidak cukup</color><br>Main gratis akan tersedia mulai pukul 4 besok.
+LimitedLive_UnlockDialog_NotEnouchTicketWeekly,<color=#D73C55>Tiket makan tidak cukup</color><br>Main gratis tersedia mulai pukul 4 pagi setiap hari Senin.
+LiveCondition_Label,Kondisi Live
+LiveCondition_CompareType_EQ,sama dengan
+LiveCondition_CompareType_GE,Selesai
+LiveCondition_CompareType_LE,Di bawah
+LiveCondition_Detail_Character,Susun {0} sebanyak {1} orang dalam {2} tim.
+LiveCondition_Detail_Group,Susun {0} sebanyak {1} orang dalam {2} tim.
+LiveCondition_Detail_CardType,Susun {0} sebanyak {1} orang dalam {2} tim.
+LiveCondition_Detail_DeckRole,Susun {0} sebanyak {1} orang dalam {2} tim.
+LiveCondition_Detail_Card,(仮)Susun Tim {0}
+LiveCondition_Detail_UserRank,(Sementara) Peringkat Pengguna {0} {1}
+LiveCondition_Detail_Title,"Atur gelar ""{0}"""
+LiveCondition_Detail_Item,"Gunakan Item ""{0}"""
+LiveCondition_CannotCreateMultiPlayRoomSinceNotSatisfy,Tidak dapat dibuat karena syarat tidak terpenuhi.
+LiveRule_Label,Aturan Live
+LiveRule_Notes_Judgement_EQ,"(Sementara) selain {0}, semua harus MISS."
+LiveRule_Notes_Judgement_GE,(Sementara) semua di bawah {0} adalah MISS
+BeginnerMission_BingoTitle,Misi Pemula ({0} / {1})
+BeginnerMission_BingoSheetClear,Hadiah Bingo {0}
+BeginnerMission_BingoLineClear,Hadiah LINE Clear
+BeginnerMission_BingoNotStarted,Ada lembar yang belum selesai.
+BeginnerMission_BingoMissionDetailTitle,Detail Misi
+BeginnerMission_BingoMissionReward,Hadiah Selesai
+BeginnerMission_BingoMissionChallenge,Tantang
+BeginnerMission_BingoMissionAcheved,Pencapaian
+BeginnerMission_BingoMissionOverview,Ikhtisar Misi
+BeginnerMission_BingoMissionItemOverview,Ringkasan
+BeginnerMission_BingoMissionRewardItemNum,x{0}
+TeacherLiveTop_NowMission,Misi kali ini
+TeacherLiveTop_EndEvent,Event ini sudah berakhir.
+TeacherLiveTop_ExchangeButton,Tukar
+TeacherLiveTop_LiveButton,Live
+TeacherLiveTop_InfoButton,Info
+TeacherLiveTop_LiveCondition,Ada Kondisi Live
+TeacherLiveTop_LiveRule,Aturan Live
+TeacherLiveTop_RemainingMission,Misi yang tersisa: <color=#D73C55> {0} </color> / {1}
+TeacherLiveTop_RemainingMissionValue,{0} / {1}
+TeacherLiveTop_GoGoTime,(Dummy)
+TeacherLiveTop_GoGoTimeRemainingCount,{0} kali
+TeacherLiveTop_ExchangeTerm,Toko berakhir pada {0}
+TeacherLiveTop_LiveConditionDialogTitle,Kondisi Live
+TeacherLiveTop_LiveConditionDialogCondition,Kondisi Live
+TeacherLiveTop_LiveConditionDialogRule,Aturan Live
+TeacherLiveLiveResult_GoGoTime,Teks Dummy
+TeacherLiveLiveResult_MissionClearTitle,Misi Selesai!
+TeacherLiveLiveResult_CurrentMission,Misi kali ini
+TeacherLiveLiveResult_NextMission,Misi Berikutnya
+TeacherLiveLiveResult_RemainingMission,Misi yang Tersisa: {0}/{1}
+CharacterEpisodeLevel_TotalTabName,Total
+CharacterEpisodeLevel_TotalEpisodeStar,Total bintang cerita ★ x {0}
+CharacterEpisodeLevel_RemainingExp,★{0}
+ItemList_Tab_Enhancement,Item Peningkatan
+ItemList_Tab_Boost,Pulihkan LP
+ItemList_Tab_Ticket,Tiket
+ItemList_Tab_Stamp,Stiker
+ItemList_Tab_Other,Lainnya
+ItemList_Empty,Anda belum memiliki item ini.
+ItemList_LimitDate,Sisa {0}
+MusicVideo_Conform_title,Putar MV?
+MusicVideo_Conform_Message,"Apakah Anda ingin memutar video musik {0}<br>? Dalam mode MV, Anda tidak dapat mendapatkan hadiah dari Live. <br>"
+MusicVideo_Conform_Supplement,Jangan tampilkan jendela ini lagi.
+MusicShop_Title,Toko Musik
+MusicShop_Exchange,Tukar
+MusicShop_Replaced,Sudah Ditukar
+MusicShop_Lack,Material tidak cukup
+MusicShop_ExchangeListEmpty,Tidak ada lagu yang bisa ditukar.
+MusicShop_DetailTitle,Detail Lagu
+MusicShop_ExchangeTitle,Tukar Lagu
+MusicShop_RequiredValue,Diperlukan
+MusicShop_ExchangeMessage,Apakah Anda ingin menukar {0}?
+MusicShop_ExchangeResultTitle,Pertukaran Lagu Selesai
+Announcement_DialogTitle,Pengumuman
+RankUp_UserRankUpDialogTitle,Peningkatan Rank!
+RankUp_BandRankUpDialogTitle,Grup Naik Pangkat
+RankUp_BandRank,Grup Rank
+RankUp_TotalBandRank,Total Grup Rank
+RankUp_DeckPower,Kekuatan Deck +
+RankUp_LpRecoverText,LP telah dipulihkan sebesar {0}.
+RankUp_LpMaxUpText,LP maksimum meningkat.
+Shop_ResetDaily,(Setiap hari pukul 00.00 diperbarui)
+Shop_ResetWeekly,(Setiap hari pukul 00.00 diperbarui)
+Shop_Monthly,(Setiap hari diperbarui pukul 00.00)
+Shop_BuyRemain,Sisa: {0}
+Shop_BuyLimit,Sisa {0}
+Shop_AllBuy,Sudah dibeli
+Shop_ItemDetaiTitle,Detail Item
+Shop_AllItemDetaiTitle,Hadiah Habis Terjual
+Shop_AllItemCompleteTitle,Dapatkan Hadiah Habis Terjual
+MovieCollection_TabMovieTypeShort,Video Pendek
+MovieCollection_TabMovieTypeLong,Video Panjang
+MovieCollection_TabMovieTypeSpPhoto,SP Foto
+MovieCollection_HomeSettings,Mengatur layar utama
+MovieCollection_EmptyMovie,Tidak ada video.
+MovieCollection_EmptySpPhoto,Tidak ada SP Foto
+MovieCollection_DetailTitle,Detail Video
+MovieCollection_DetailHomeSettings,Atur sebagai latar belakang beranda
+MovieCollection_DetailHomeSettingsMessage,Aktifkan di menu opsi untuk mengatur video sebagai latar belakang beranda.
+MovieCollection_RefineBandTitle,Grup
+MovieCollection_RefineBandOther,LAINNYA
+MovieCollection_RefineMemberTitle,Anggota
+MovieCollection_RefineGetCategoryTitle,Kategori Perolehan
+MovieCollection_RefineGetCategoryEvent,Event
+MovieCollection_RefineGetCategoryCard,Idol
+MovieCollection_RefineGetCategoryStory,Cerita
+MovieCollection_RefineGetCategoryEtc,Lainnya
+LiveResult_FriendApplyButton,Ajukan Permintaan Teman
+LiveResult_FriendStatusRequest,Permintaan teman sudah dikirim.
+LiveResult_FriendStatusFriend,Teman sudah terdaftar
+LiveResult_ScoreDetailButton,Rincian Skor
+LiveResult_ScoreDetailTitle,Rincian Skor
+LiveResult_SessionSelectButton,Live Pilih
+LiveResult_HomeButton,Beranda
+LiveResult_MusicSelectButton,Pilih Lagu
+LiveResult_RestartButton,Mulai Live dengan lagu yang sama<br>lagi
+LiveResult_GuestSelectButton,Mulai Live dengan lagu ini<br>
+LiveResult_RecommendLiveTitle,Rekomendasi untuk Anda
+LiveResult_BackMusicSelectTitle,Putar Lagu Lain
+LiveResult_BackMusicSelectButton,Kembali ke Pilihan Lagu
+LiveResult_RestartDialogTitle,Mulai Ulang?
+LiveResult_RestartDialog_EventPtRewardGotAll,Semua hadiah pencapaian poin event telah <br> didapatkan.
+LiveResult_RestartDialog_EventPtRewardTitle,Hadiah Pencapaian Event
+LiveResult_RestartDialog_EventScoreRank,Peringkat Skor Event
+LiveResult_RestartDialog_EventTotalPtRank,Peringkat Total Poin Event
+LiveResult_LiveClear,LIVE BERHASIL!
+LiveResult_LiveClear2,LIVE CLEAR!!
+LiveResult_TapScreen,Ketuk layar.
+LiveResult_Score,SKOR
+LiveResult_Combo,COMBO
+LiveResult_HighScore,SKOR TERTINGGI
+LiveResult_NewReacord,REKOR BARU!!
+LiveResult_PerfectCount,Jumlah PERFECT
+LiveResult_Perfect,PERFECT
+LiveResult_Great,HEBAT
+LiveResult_Good,BAIK
+LiveResult_Bad,BURUK
+LiveResult_Miss,MISS
+LiveResult_Normal,Normal
+LiveResult_SyncTap,Sinkronkan
+LiveResult_LongTap,Tahan Lama
+LiveResult_Swing,Ayunan
+LiveResult_GetExp,Dapatkan EXP
+LiveResult_NextRank,Sampai Rank Berikutnya
+LiveResult_GetGold,Dapatkan G
+LiveResult_GetFriendPoint,Dapatkan Afeksi
+LiveResult_GetFriendPointWindow,Detail Afeksi
+LiveResult_TotalScore,Total Skor
+GuestSelect_Title,Pilih Tamu
+BandEnrich_ItemEmpty,Tidak punya item peningkatan grup.
+BandEnrich_All,Total
+BandEnrich_X,μ’s
+BandEnrich_L,Aqours
+BandEnrich_G,Nijigasaki
+GemShort_NeedChargeGemLabel,Perlu Loveca Berbayar
+GemShort_HaveChargeGemLabel,Soedah Labuka yang Dimiliki
+GemShort_NeedGemLabel,Loveca yang dibutuhkan
+GemShort_HaveGemLabel,Loveca yang dimiliki
+CollectionChara_Profile,Profil
+CollectionChara_CardList,Daftar Kartu
+StorySort_TitleBand,Grup
+StorySort_TitleStory,Cerita
+StorySort_StoryRead,Sudah dibaca
+StorySort_StoryUnread,Belum dibaca
+StoryList_EmptyText,Tidak ada cerita yang tersedia.
+MemberList_EmptyText,Idol yang dipilih tidak ada.
+CollectionReleaseConfirm_DialogTitle,Konfirmasi Pembebasan Koleksi
+CollectionReleaseConfirm_Conditions,Syarat Pembebasan: Jumlah Bangkitkan yang Diperlukan {0}/{1}
+CollectionReleaseConfirm_Reward,Hadiah Pembebasan
+CollectionReleaseReward_DialogTitle,Koleksi Dibuka
+CollectionReleaseReward_SpPhotoReleaseMessage,Foto SP telah dibuka<br>Foto SP dapat dilihat di detail Idol atau Koleksi Foto SP.
+CollectionReleaseReward_MovieReleaseMessage,Video «{0}» telah dibuka <br>Anda dapat melihat video di Detail Idol atau Koleksi Video.
+CollectionReleaseReward_GetReward,Anda menerima {0} sebagai hadiah untuk menyelesaikan koleksi.
+CollectionReleaseReward_CardInfoButton,Detail Idol
+CollectionReleaseReward_CollectionButton,Detail Koleksi
+GachaLotteryExchangeItemConfirm_Title,Konversi Poin Rekrut
+GachaLotteryExchangeItemConfirm_Info,«Rekrut» yang kedaluwarsa telah dikonversi menjadi «Buku Keterampilan (M)».
+Migration_TopTitle,Migrasi Data & Tautkan Akun
+Migration_SnsLink,Tautkan Akun
+Migration_EnableSnsLink,Akun yang dapat dihubungkan
+Migration_SelectSnsLink,Pilih akun untuk ditautkan.
+Migration_Twitter,Hubungkan dengan Twitter
+Migration_Apple,Sign in dengan Apple
+Migration_Google,Masuk dengan Google
+Migration_SignIn,Belum diatur
+Migration_SignOut,Terhubung
+Migration_CompleteSnsLink,Akun Terhubung
+Migration_CompleteSnsSignOut,Putuskan tautan akun
+Migration_SnsLinkMessage,"Data telah berhasil dihubungkan <br> Setelah mengunduh aplikasi di perangkat tujuan transfer, hubungkan akun melalui <br> Menu Utama > Transfer Data."
+Migration_SignOutMessage,Aktivitas tautan akun telah dibatalkan.
+Migration_TakeOverButton,Lanjutkan
+RewardDetailDialog_CanBeAcquired,Dapatkan
+RewardDetailDialog_Acquired,Jumlah yang Didapatkan
+RewardDetailDialog_Possession,Jumlah
+MusicSelect_NoData,Tidak ada lagu yang sesuai.
+MusicSelect_NoDataAndResetFilter,"Tidak ada lagu, filter dinonaktifkan."
+MusicSelect_ResetFilterToSelectData,Penyaringan dinonaktifkan untuk memilih lagu tertentu.
+MusicSelect_FilterAttribute,Atribut
+MusicSelect_FilterAttributeSmile,Smile
+MusicSelect_FilterAttributePure,Pure
+MusicSelect_FilterAttributeCool,Cool
+MusicSelect_FilterSelect,Kondisi
+MusicSelect_FilterGroup,Grup Lagu
+MusicSelect_FilterNotClear,Belum Selesai
+MusicSelect_FilterScoreS,Skor S belum tercapai
+MusicSelect_FilterComboS,Combo S belum tercapai
+MusicSelect_FilterClearS,Clear S belum tercapai
+MusicSelect_FilterCampaign1,Kampanye
+MusicSelect_FilterCampaign2,Kampanye
+MusicSelect_FilterUndo,Batalkan Semua
+MusicSelect_ButtonApply,Terapkan
+MusicSelect_RehearsalButton,Rehearsal
+MusicSelect_LiveButton,Live
+MusicSelect_NoDifficulty,"Tidak ada tingkat MASTER untuk lagu yang dipilih, jadi silakan pilih lagu lain."
+MusicSelect_NoAnyDifficulty,"Karena lagu yang dipilih tidak memiliki tingkat kesulitan {0}, silakan pilih lagu lain."
+HomePreset_ClearPresetButton,Kembalikan tampilan beranda ke pengaturan awal {0}?
+PresentBox_Attention,"Anda dapat menyimpan hingga 100.000 hadiah. Jika jumlahnya melebihi batas, hadiah terlama akan dihapus. Hadiah yang masa berlakunya habis juga akan dihapus secara otomatis. Anda dapat menerima hingga 100 hadiah sekaligus."
+PresentBox_Filter,Saring
+PresentBox_Filter_Title,Saring
+PresentBox_Filter_Button_AllSelect,Pilih Semua
+PresentBox_Filter_Button_AllRelease,Batalkan Semua
+PresentBox_Filter_Type_Title,Jenis Hadiah
+PresentBox_Filter_Type_Member,Idol
+PresentBox_Filter_Type_Gem,Loveca
+PresentBox_Filter_Type_Gold,Emas
+PresentBox_Filter_Type_Ticket,Rekrut Tiket
+PresentBox_Filter_Type_Recovery,Item Pemulihan LP
+PresentBox_Filter_Type_Other,Lainnya
+PresentBox_Filter_ExpireTime_Title,Batas Waktu
+PresentBox_Filter_ExpireTime_Limit,Ada Batas Waktu
+PresentBox_Filter_ExpireTime_NoLimit,Tidak ada batas waktu
+HomePreset_Set_Label,Set {0}
+HomePreset_Multiple_Set_Label,Set Banyak
+PresentBox_History_Attention,"Anda dapat menyimpan hingga 30 item. Jika batas terlampaui, riwayat lama akan dihapus. Riwayat penerimaan juga akan dihapus secara otomatis setelah 30 hari dari tampilan riwayat."
+BeginnerMission_BingoLine,{0}-Baris
+Mission_Filter,Saring
+Mission_Filter_Title,Saring
+Mission_Filter_Button_AllSelect,Pilih Semua
+Mission_Filter_Button_AllRelease,Batalkan Semua
+Mission_Filter_Content_Title_Reward,Hadiah
+Mission_Filter_Reward_Member,Idol
+Mission_Filter_Reward_Gem,Loveca
+Mission_Filter_Reward_Gold,Emas
+Mission_Filter_Reward_Ticket,Rekrut Tiket
+Mission_Filter_Reward_Recovery,Item Pemulihan LP
+Mission_Filter_Reward_Exp,Item Pelatihan
+Mission_Filter_Reward_SkillExp,Item Skill Lesson
+Mission_Filter_Reward_Evolve,Bangkitkan Item
+Mission_Filter_Reward_Title,Gelar
+Mission_Filter_Reward_Other,Lainnya
+Mission_Achievement,Pencapaian
+HomePreset_Edit_Dialog_Text,Simpan perubahan tata letak beranda?
+GachaTop_Invitation_Bonus_Detail,Detail Poin Rekrut
+GachaTop_Invitation_Bonus,<size=29>Rekrut <br> <size=23> Poin
+Adv_Log_NameSuffix_Telop,Telop
+EventTop_Button_Tips_Rule,Cara Bermain
+EventTop_Button_Tips_Bonus,Bonus Detail
+EventTop_Button_Reward,Hadiah
+EventTop_Button_Story,Event<br>Cerita
+EventTop_Button_Ranking,Lihat Peringkat
+EventTop_Button_Exchange,Tukar
+EventTop_Button_Favorite,Favorit Saya
+EventTop_Button_ToEvent,Lagu Event
+EventTop_Button_ToGeneral,Lagu Biasa
+EventTop_Favorite_Ranking,Anggota Favorit
+EventTop_Point_Total,Total poin event
+EventTop_Point_Next_Story,Sampai cerita berikutnya
+EventTop_Term_Title,Periode: <size=20> sampai </size> {0} <size=20> </size>
+EventTop_Point,{0} poin
+EventTop_Rank,Peringkat ke-{0}
+Tutorial_Group_Muse,"・Grup idol sekolah dari Akademi Otonokizaka yang berpusat di Akihabara, Tokyo. <br> Nama grup berasal dari ""9 dewi nyanyian 'Muse'"". <br> Aktif berkompetisi menuju kemenangan di Love Live!"
+Tutorial_Group_Aqours,"・Sekolah ini berpusat di Numazu, Prefektur Shizuoka. <br> Mereka dibentuk untuk memeriahkan sekolah. <br> Mereka aktif dengan tujuan memenangkan Love Live!"
+Tutorial_Group_Nijigaku,"・Tokyo, Odaiba adalah pusat kegiatan grup idola sekolah dari Akademi Nijigasaki.<br>・Mereka menghargai individualitas masing-masing dan aktif sebagai idola sekolah solo.<br>・Bukan untuk Love Live!, mereka semua bertujuan menjadi idola sekolah nomor satu."
+Tutorial_Group_Liella,"・Tokyo, Harajuku menjadi pusat kegiatan grup idola sekolah dari SMA Yuigahoka.<br>・Yuigahoka adalah sekolah baru, dan klub ini didirikan pada tahun pendirian sekolah.<br>・Ini adalah salah satu grup yang tidak boleh dilewatkan di Love Live!"
+Tutorial_Group_SelectButton,Pilih grup ini
+Tutorial_Member_SelectButton,Putuskan dengan anggota ini
+Tutorial_Recommend_Lesson,Naikkan level Idol di Lesson!
+Tutorial_Recommend_Gacha,Dapatkan item pelatihan dengan Rekrut!
+Tutorial_Recommend_Live,Mari coba Live!
+EventRanking_Tab_MySelf,Peringkat Saya
+EventRanking_Tab_Rank,Peringkat ke-{0}
+EventRanking_Tab_TotalPoint,Poin Event
+EventRanking_Tab_Score,Peringkat Skor Lagu Event
+EventRanking_Tab_Favorite,Favoritku
+EventBonus_Tab_Point,Event pt Bonus
+EventBonus_Tab_Item,Dapatkan Bonus Mirakel Star
+EventBonus_MultiTab_Score,Bonus Skor
+EventBonus_MultiTab_Item,Dapatkan Bonus Item Login
+EventBonus_Button_Disclaimer,Syarat & Ketentuan
+EventBonus_Point_Value,+{0}%
+EventBonus_Item_Value,+{0}
+EventBonus_Empty_List,Tidak ada.
+EventTop_Button_ToGeneral_Msg,Dapatkan Miracle Star!
+EventTop_Button_Favorite_Ranking,Favoritku
+EventTop_Button_Mission,Tantangan
+EventTop_Point_Next_Reward,Hadiah Berikutnya
+EventTop_Point_Ranking,Poin Event
+EventBonus_Title,Bonus Detail
+EventRanking_Ranking_Not_Exists,Peringkat tidak ada.
+GemShop_Footer_Special_Commercial_Code,Hukum Perdagangan Khusus /<br>Hukum Pembayaran Dana
+GemShop_Footer_Precautions_Regarding_Use,Catatan Penggunaan<br>
+EventRanking_Unaggregated,Data peringkat masih dalam proses pengumpulan.<br>
+EventReward_EmotionalMemberUnselected,Tidak dapat ditampilkan karena Anda belum memilih anggota favorit.
+EventReward_RequiredPoint,Poin yang Dibutuhkan
+LpBoost_LP_Count,Jumlah LP
+LpBoost_LP_Default_Amount,Jumlah LP dasar yang digunakan
+LpBoost_LP_Discount,Diskon LP!
+LpBoost_Min,MIN
+LpBoost_EventPt,Event Poin
+LpBoost_Get,Dapatkan
+LpBoost_GetReward,Dapatkan Hadiah
+LpBoost_UseLpMessage,Jumlah LP yang dihabiskan memengaruhi jumlah hadiah yang didapatkan dan jenis hadiah yang bisa Anda dapatkan.
+LpBoost_UseLpSetting,Pengaturan Habiskan LP
+LpBoost_Count,Jumlah
+LpBoost_UseCount,Habiskan
+LpBoost_Default,Dasar
+LpBoost_GetRewardMessage,Jumlah hadiah yang didapatkan akan berubah.
+LpBoost_Use,Habiskan
+LpBoost_UseLp,Habiskan LP
+LpBoost_Setting,Atur
+LpBoost_UseLPMessageShort,Hadiah bervariasi sesuai LP yang Habiskan.
+Skip_Message,"Anda akan mendapatkan semua hadiah untuk jumlah lompatan yang telah Anda lakukan.<br>Saat melompat, skor tertinggi akan digunakan sebagai skor hasil Live."
+Skip_Ticket_Count,Jumlah Tiket Skip
+Skip_Ticket_UseCount,Atur jumlah skip.
+Skip_Confirm,Konfirmasi Skip
+Skip_Lock_Message,Kesulitan yang dipilih akan membuka fitur skip setelah diselesaikan.
+Skip_Not_Enough_Ticket,Tidak ada tiket skip.
+LoginBouns_RewardAmountBonus,(+{0})
+EventTop_Button_ToGeneral_2,Live
+EventTop_Button_ToGeneral_2_Msg,Dapatkan Poin Event!
+EventTipsDialog_Tips_Title,Cara Bermain Event
+EventTop_Aggregate,Menghitung peringkat.
+EventTop_EventClose,Event telah berakhir.
+BeginnerMission_Bingo,BINGO
+TakeOver_DialogTitle,Tautkan Data Game
+TakeOver_DialogUserId,ID Pengguna Love Live! School Idol Festival
+TakeOver_DialogPassword,Kata sandi tautan data permainan
+TakeOver_DialogPasswordSample,Masukkan
+TakeOver_DialogAccept,Tautkan Data Game
+TakeOver_DialogDescription,Masukkan ID pengguna dan kata sandi tautan data bermain dari Love Live! School Idol Festival untuk melihat album Love Live! School Idol Festival <br>
+TakeOver_DialogAttension,"*Jika Anda belum melakukan pengaturan tautan data game di Love Live! School Idol Festival, Anda tidak dapat melihatnya.<br>*Harap diperhatikan bahwa Anda hanya dapat menautkan data game dan menerima hadiah tautan data game satu kali saja."
+TakeOver_DialogUserError,Masukkan ID Pengguna Love Live! School Idol Festival Anda.
+TakeOver_DialogPasswaordError,Masukkan kata sandi tautan data permainan.
+TakeOver_DialogDone,"Koneksi data game selesai, Anda sekarang dapat melihat ""Album Kenangan"". Silakan klaim hadiah koneksi data dari Hadiah.<br>"
+BeginnerMission_BingoPlayableBalloonTips,"BINGO{0} selesai, tantangan dibuka."
+Mission_ChallengeButton_Chat,Chat ke
+Mission_ChallengeButton_Home,Beranda
+Common_Remain,Sisa
+Mission_Attention_Daily,Tugas harian diperbarui setiap hari pukul 0:00.
+Mission_Attention_ExpireTime,Berlaku hingga {0}.
+Mission_Attention_Subscription,Penyelesaian tugas MIRACLE Pass dihitung sejak Anda bergabung.
+Mission_HeaderTabTotal,Event Total
+Mission_HeaderTabDaily,Harian
+HomePreset_DropDownItem_Obtain,Diperoleh
+HomePreset_DropDownItem_Rare,Rarity
+HomePreset_DropDownItem_Anime,Animasi
+HomePreset_DropDownItem_Favorite,Favorit
+Event_CategoryName_1,Koleksi Ajaib
+Event_CategoryName_2,Tur Gratis
+Event_CategoryName_3,Live Kolaborasi
+Event_CategoryName_4,Acara Spesial
+Event_Favorite_Button_Home,Kembali ke Beranda
+Event_Favorite_Button_Decide,Pilih
+Event_Favorite_Title,Pilih Anggota Favorit!
+Event_Favorite_Tips,Anggota Favorit Anda
+Event_Favorite_Confirm_Title,Konfirmasi
+Event_Favorite_Confirm_Desc,"Tetapkan <br>{0} sebagai Anggota favorit?<br><br><color=#C70F01>※Setelah ditetapkan, tidak dapat diubah hingga acara berakhir.</color>"
+EventBonus_PointBonus_Desc,Bonus poin event akan aktif saat Anda menyusun tim anggota terpilih!<br>Poin event yang bisa Anda dapatkan setelah menyelesaikan Live akan bertambah!
+EventBonus_PointBonus_Attention,Bonus poin acara diterapkan pada total nilai semua anggota terpilih dalam Susun Tim.
+EventBonus_ItemBonus_Desc,"Jika ada Anggota terpilih di daftar Idol, jumlah Mirakel Bintang yang bisa Anda Dapatkan dari bonus login akan meningkat!"
+EventBonus_ItemBonus_Attention,*Bonus Dapatkan Mirakel Star diterapkan pada total nilai semua Anggota terpilih di Daftar Idol.<br>*Bonus Dapatkan Mirakel Star hanya berlaku pada hari ketika Mirakel Star ditetapkan untuk Bonus Login.
+EventBonus_ScoreBonus_Desc,Bonus Skor akan aktif saat Anda menyusun Tim dengan Anggota terpilih!<br>Skor yang Anda Dapatkan setelah menyelesaikan Live akan meningkat!
+EventBonus_ScoreBonus_Attention,*Bonus skor diterapkan pada total nilai semua Anggota terpilih dalam Susun Tim Anda.
+EventBonus_ItemBonusMulti_Desc,"Jika ada Anggota terpilih di daftar Idol, jumlah item yang bisa Anda Dapatkan dari bonus login akan meningkat!"
+EventBonus_ItemBonusBonusMulti_Attention,*Bonus perolehan item login diterapkan pada total nilai semua Anggota terpilih di daftar Idol.<br>*Bonus perolehan item login tidak berlaku untuk Emas.
+EventBonus_BeforeEvolve,Bangkitkan Sebelum
+EventBonus_AfterEvolve,Bangkitkan Setelah
+EventBonus_HaveCard,Dapatkan
+MusicSelect_CanNotFocusMusic,Tidak ada lagu yang ditemukan dengan kondisi pencarian saat ini.
+Common_ContinueSpiritShortageShortMessage,Miracle Star tidak cukup.
+EventReward_Category_EventPoint,Total poin event
+EventReward_Category_EventScore,Skor
+EventRanking_Category_EventPoint,Total poin event
+EventRanking_Category_EventScore,Skor
+Common_Consumption,Habiskan
+Common_Setting,Atur
+PresentBox_ReceivableItemCount,{0}/<size=-10> {1} item </size>
+HomePreset_Edit_EmptyPresetText,Kustomisasi layar beranda belum diatur.
+Header_Lp_TextTag,{0}/<size=25> {1}
+Adv_Button_Skip,Lewati
+Adv_Button_Auto,Otomatis
+Adv_Button_Fast,Cepat Maju
+Adv_Button_Log,Log
+Adv_Button_Deactive,Sembunyikan
+Adv_Button_MovieSkip,Lewati
+Adv_Button_MoviePlay,Putar
+Adv_Button_MovieStop,Jeda Sementara
+Adv_Button_MoviePrevStep,Kembali
+Adv_Button_MovieNextStep,Maju
+Adv_Button_MovieDeactive,Sembunyikan
+Header_Lp_Text,L<size=21>P
+StoryPart_NotLiveClearGroupMusicCount,Mainkan {0} sebanyak {1} kali lagi di Live untuk membukanya.
+StoryPart_NotLiveClearMusicCount,Mainkan {0} sebanyak {1} kali lagi untuk membukanya.
+Common_SeriesName_1,Love Live!
+Common_SeriesName_2,Love Live! Sunshine!!
+Common_SeriesName_3,Love Live! Nijigasaki High School Idol Club
+Common_SeriesName_4,Love Live! Superstar!!
+Common_SeriesName_5,Love Live! Nijigasaki High School Idol Club
+StoryPart_NotRelease_EventStory,Poin event yang dibutuhkan tidak mencukupi.
+Common_NoCapture,Layar ini tidak boleh direkam.
+Common_EventCloseMessage,"Saat ini, tidak ada event yang sedang berlangsung."
+LiveResult_BonusText,Bonus {0} <size=-3>% </size>
+HomePreset_Title_HomeCustomEdit,Edit Kustom Home
+HomePreset_Title_Preview,Pratinjau
+HomePreset_Title_BackgroundSelection,Latar Belakang
+HomePreset_Title_ForegroundSelection,Pilih Latar Depan
+HomePreset_Title_MemberChange,Ganti Idol
+HomePreset_HomeCustom,Kustomisasi Beranda
+HomePreset_Save_HomeCustom,Home Custom disimpan.
+HomePreset_PhotoWarning,Pengaturan foto tidak memungkinkan penerapan latar belakang atau efek.
+TermsOfService_Credit,Kredit
+TermsOfService_Button_InformationNotation,Info
+TermsOfService_Button_Performance,Prestasi
+TermsOfService_Button_StoneConfirmation,Konfirmasi Loveca
+SubMenu_Button_Profile,Profil
+SubMenu_Button_Friend,Teman
+SubMenu_Button_ItemList,Daftar Item
+SubMenu_Button_Exchange,Tukar
+SubMenu_Button_Album,Album
+SubMenu_Button_OnePanelComic,Komik Satu Panel
+SubMenu_Button_MemoryAlbum,Album Kenangan
+SubMenu_Button_DataTransfer,Transfer Data
+SubMenu_Button_SerialCode,Kode Serial
+SubMenu_Button_LocationCampaign,Lokasi Kampanye<br>Hadiah
+SubMenu_Button_MusicLibrary,Katalog Lagu
+GemShopItem_SubscriptionButton_Restore,Pulihkan
+LiveResult_GetFriendPointSameMemberFormation,Anggota yang sama ada di Susun Tim.
+EventTop_RewardGotAll,Semua hadiah pencapaian poin event telah <br> didapatkan.
+EventTop_StoryAllReleased,Semua cerita telah dibuka.
+HomePreset_Cant_Clear_Last1,Preset hanya bisa dihapus jika ada lebih dari satu.
+EventTop_NotSetFavorite,Idol Favorit: Belum Diatur
+StoryPart_NotRelease_ReadPrevious,Belum baca cerita sebelumnya
+SerialCode_InputDialogTitle,Kode Serial
+SerialCode_InputDialogText,Masukkan Kode Serial
+SerialCode_InputEmptyText,Kode Serial
+SerialCode_InputDialogAttentionText,Item yang didapatkan akan dikirim ke hadiah.<br>Setiap kode serial hanya dapat ditukarkan sekali per akun.
+SerialCode_ConfirmDialogTitle,Konfirmasi
+SerialCode_ConfirmDialogText,Apakah Anda yakin ingin menerima hadiah untuk [{0}]?
+SerialCode_SuccessMessage,Terima hadiah dari kotak hadiah Anda.
+SerialCode_ErrorMessageAlreadyUsed,Kode serial ini sudah digunakan.
+SerialCode_ErrorMessageNotUse,Kode serial yang dimasukkan tidak valid.
+SerialCode_ErrorMessageNotAvailable,Anda sudah menerima hadiah kampanye ini sebanyak batas maksimum.
+SerialCode_ErrorMessageNotEnter,"Tidak dapat memasukkan kode saat ini, coba lagi setelah {0}."
+SerialCode_InputButtonText,Kode Serial<br>Masukkan
+SerialCode_ConfirmButtonText,Kode Serial<br>Konfirmasi
+SerialCode_DisplayButtonText,Kode Serial<br>Tampilkan
+SerialCode_CopyMessage,Kode serial disalin.
+SerialCode_NoCampaign,Tidak ada kampanye saat ini.
+SerialCode_DisplayDialogTitle,Tampilkan Kode Serial
+SerialCode_DisplayDialogAttentionText,Setiap kode hanya dapat digunakan sekali per akun.
+SerialCode_DisplayDialogText,Kode serial untuk {0}.
+SerialCode_FailedToCreateSerialCode,Gagal mendapatkan kode serial. Coba lagi nanti.
+SerialCode_NoAllocatableCode,Gagal mengalokasikan kode serial. Hubungi kami.
+Common_EventPointDetail,{0} dari {1}
+EventTop_Multi_RoomIdCopy,Menyalin ID Ruangan.
+SerialCode_ErrorMessageExpired,Kode serial yang Anda masukkan sudah kedaluwarsa.
+SerialCode_ErrorMessageRankOutOfRange,"Kode serial yang dimasukkan tidak memenuhi syarat peringkat pemain yang diperlukan, jadi kode tersebut tidak dapat digunakan.<br>"
+LocationInformation_Message,Kunjungi lokasi yang ditentukan sebelum waktu berakhir dan dapatkan hadiah!
+LocationInformation_Success,Posisi berhasil didapatkan! Terima hadiahnya.
+LocationInformation_ConfirmDialogTitle,Konfirmasi Kampanye
+LocationInformation_ConfirmDialogMessage,"Kirim info lokasi dan terima hadiah. Apakah Anda yakin? <br> ※Untuk keamanan, hindari mengirim saat bergerak."
+LocationInformation_ConfirmDialogGetReward,Dapatkan Hadiah
+LocationInformation_ConfirmDialogGetLocation,Dapatkan Lokasi
+LocationInformation_NoCampaign,Tidak ada hadiah lokasi yang tersedia saat ini.
+Common_OnlySecond,Detik
+MultiMatching_CannotMatching,Tidak dapat melakukan pencocokan. Kembali ke halaman utama acara.
+MultiMatching_Synchronization,Menyinkronkan dengan pemain lain.
+MultiMatching_MemberDecited,Anggota telah dipilih.
+MultiMatching_LeaveByTimeLimit,Keluar karena waktu habis.
+DeckEdit_Score,Skor
+MultiMatching_RecruitMembers,Rekrut Anggota lagi
+MultiMatching_WaitMembersOnResult,Menunggu anggota di tampilan hasil Live.
+MultiDeck_DefaultDeckName,Live Kolaborasi
+MultiMatching_WaitingAnotherMembers,Menunggu pemain lain
+MultiMatching_LiveWillStartSoon,Live akan segera dimulai.
+MultiMatching_SongRequestLabel,Lagu Terpilih
+MultiMatching_DecideSongRequest,Pilih Lagu Ini
+MultiMatching_NoSongCandidate,Lagu ini tidak dapat dipilih.
+MultiMatching_SongPickSecondsSuffix,dtk
+MultiMatching_SongPickChosenLabel,Terpilih
+MultiMatching_SongPickWaiting,Menunggu pemain lain...
+MultiMatching_SongPickClosed,Pemilihan lagu telah berakhir.
+MultiRestart_LeaveButton,Keluar
+MultiResult_HighScoreNotUpdated,"Di Live Kolaborasi,<br>skor tertinggi tidak diperbarui."
+SSAlignment_SubMenuButtonText,Tautkan Skusta
+SSAlignment_SubMenuButtonTextAlreadyCompleted,Terhubung
+SSAlignment_DialogTitle,Tautkan Skusta
+SSAlignment_DialogTextPlayerId,ID Pemain Skusta
+SSAlignment_DialogTextPassword,Kata sandi tautan
+SSAlignment_DialogTextInfo,Masukkan ID pemain dan kata sandi yang dikeluarkan di Skusta untuk menerima hadiah.<br>
+SSAlignment_DialogTextAttension,Tidak dapat digunakan jika Anda belum mengatur tautan dengan Skusta di Skufesu 2.
+SSAlignment_MessageSuccess,Sinkronisasi dengan Skusta selesai.<br>Terima hadiah dari Kotak Hadiah.
+SSAlignment_ErrorMessageLock,"Tidak dapat memasukkan kode saat ini, coba lagi setelah {0}."
+SSAlignment_ErrorMessageInput,Periksa apakah ID pemain Skusta dan kata sandi tautan sudah benar.
+Dialog_TitleConfirm,Konfirmasi
+Event_EndMessage,Event telah berakhir.
+Common_Search,Cari
+Common_SearchPlaceholder,Masukkan kata kunci.
+MusicLibrary_SearchPlaceholder,Cari berdasarkan nama lagu/komposer/penulis lirik/pengatur musik.
+MusicLibrary_SearchWordsEmpty,Masukkan kata kunci pencarian.
+MusicLibrary_Live,Putar Live dengan lagu ini!
+MusicLibrary_SortDefault,Standar
+MusicLibrary_SortMusicName,Urutkan berdasarkan nama lagu
+MusicLibrary_SortReleaseTime,Tanggal Rilis
+MusicLibrary_MusicCount,"{0} dari <size=-5>, total {1} lagu, </size> tersembunyi"
+MusicLibrary_MusicEmpty,Tidak ada lagu yang sesuai.
+MusicLibrary_Button_MusicDetail,Detail Lagu
+MusicLibrary_Button_Live,Live
+Multi_CannotSendStamp,Stempel tidak dapat digunakan saat ini.
+MusicLibrary_ReleaseDate,Tanggal Rilis: {0}
+Common_Refresh,Pembaruan
+SortDialog_SortRecommendedGuest,Rekomendasi Tamu
+MusicSelect_ChangeDifficulty,"Tidak ada {0}, jadi saya memilih {1}."
+Practice_CantUseItem,Tidak ada item yang bisa digunakan dalam mode otomatis.
+MusicSelect_NotFullCombo,Belum Full Combo
+RankUpDialog_LpMax,LP maksimum sudah mencapai batasnya.
+StarEvent_TabGroupStarLevelRanking,Peringkat Level Bintang
+StarEvent_TabGroupStarLevelReward,Detail Hadiah Star Lv
+StarEvent_TabGroupStarPointReward,Detail Hadiah Poin Event Kumulatif
+StarEvent_Get,Dapatkan
+StarEvent_Share,Bagikan sekali sehari.
+StarEvent_Assist,Bantuan Star
+StarEvent_ChangeMusic,Ganti Lagu
+StarEvent_ChangeMusicFirstPrice,Gratis pertama kali
+StarEvent_SkippableStarMission,Tujuan dapat dicapai dengan skip!
+StarEvent_Skippable,Bisa di-skip
+StarEvent_MusicClearText,Pilih lagu dan capai skor target di Live!
+StarEvent_PlayCount,Jumlah putar lagu hari ini: {0}/{1}
+StarEvent_SkillPercentUp,Skor <color=#F93981> + {0} % </color>
+StarEvent_GotAllStarPointReward,Semua hadiah poin acara telah didapatkan.
+StarEvent_NonPoint,--- poin
+StarEvent_NextStarPointReward,Hadiah Poin Event Kumulatif Berikutnya
+StarEvent_GotAllStarLevelReward,Semua hadiah pencapaian Star Lv telah Dapatkan.
+StarEvent_NextStarLevelReward,Hadiah Star Lv Berikutnya
+StarEvent_Total,Total
+StarEvent_StarLevel,Tingkat Bintang
+StarEvent_BeforeLevel,Starlv sebelumnya<br>
+StarEvent_ClearCount,<size=36> {0} / </size> {1}
+StarEvent_StarLevelReward,Hadiah Star Lv
+StarEvent_StarPointReward,Hadiah Poin Event Kumulatif
+StarEvent_StarLevelRewardDialogTitle,Hadiah Star Level telah dikirim!
+StarEvent_ChangeMusicMessage,Apakah Anda yakin ingin mengubah «{0}» menjadi lagu lain? <br>
+StarEvent_ChangeMusicButton,Ganti lagu
+StarEvent_StarAssistTitle,Konfirmasi Star Assist
+StarEvent_StarAssistInfo,Gunakan 1 tiket Star Assist untuk Live? <br> Menggunakan tiket Star Assist akan menerapkan efek berikut selama Live:
+StarEvent_StarAssistBuffInfo,"Bonus peningkatan Idol 【+{0}%】 <br> *Bonus peningkatan Idol akan meningkat jika Anda meningkatkan level Idol hingga batas tertentu. <br> Menjadi tidak terkalahkan selama Live, HP tidak berkurang. <br> Selalu mengaktifkan peningkatan penilaian maksimum (menjadikan penilaian BAD sebagai PERFECT). <br> Tingkat aktivasi keterampilan meningkat 20%. <br> Efek bonus skor anggota terpilih menjadi dua kali lipat."
+StarEvent_StarAssistAmount,Jumlah Tiket Star Assist
+StarEvent_StarAssistButton,Gunakan Star Assist untuk Live
+StarEvent_ShareMessage,#Star Challenge Event sedang berlangsung di #School Idol Festival!#Level Star saya
+Event_PointRewardLoop,Dapatkan setiap {0} poin
+StarEvent_LevelRewardLoop,"Setelah setiap Star Lv 1, Dapatkan"
+EventBonus_StarTab_Score,Bonus Skor
+EventBonus_StarTab_Item,Dapatkan Bonus Item Login
+EventBonus_ItemBonusStar_Desc,"Jika ada Anggota terpilih di daftar Idol, jumlah item yang bisa Anda Dapatkan dari bonus login akan meningkat!"
+EventBonus_ItemBonusBonusStar_Attention,*Bonus item login hanya berlaku pada hari di mana tiket Star Assist ditetapkan sebagai bonus login.<br>*Bonus item login akan diterapkan berdasarkan total nilai semua anggota terpilih yang ada di daftar Idol.
+StarEvent_PlayBonus_AllGot,Semua hadiah hari ini sudah didapatkan.
+StarEvent_Remain_point,Sisa {0} poin
+EventBonus_StarScoreBonus_Attention,※Skor bonus diterapkan pada total nilai semua Anggota terpilih di daftar Idol.
+EventBonus_StarScoreBonus_Desc,"Jika ada Anggota terpilih di daftar Idol,<br>skor yang bisa Anda Dapatkan saat menyelesaikan lagu Event di Live akan meningkat!"
+Theater_DialogTitle,Teater Harian
+GemShop_ClosedGemShopMessage,Loveca saat ini tidak dapat dibeli.
+GameClose_Payback,Pengembalian Dana
+GameClose_Inquiry,Hubungi Kami
+GameClose_InformationNote,Info
+GameClose_UserId,ID
+GameClose_PaybackCode,Kode Pembayaran Kembali
+GameClose_PaidGem,Soedah Labuka yang Dimiliki
+GameClose_Button_Information,Informasi
+GameClose_Button_Album,Album
+GameClose_Button_TitleList,Gelar
+GameClose_Payback_CopyMessage,"Salin ID, kode pembayaran, dan detail Loveca yang Anda miliki."
+GameClose_Payback_CopyText,"ID {0}, kode pembayaran {1}, konten Loveca berbayar {2} yang Anda miliki <br> <br>"
+Auto_01abf2e45264,Dalam ruangan
+Auto_02724107c812,Terapkan bonus acara aktif ke total kekuatan.
+Auto_02b919ddcdf4,Kembali
+Auto_03274bad099f,Hadiah Lebih Banyak!
+Auto_0328cfbe3899,Jumlah yang dimiliki<br>
+Auto_033c8131ffca,Teman<br>Ajukan
+Auto_038bc41a7c6c,DEMO
+Auto_03dd9696f109,Star Assist Aktif
+Auto_05db19bd7579,MASTER<br>
+Auto_0a462ba1ee08,Stiker Terbaru
+Auto_0b9c90355fa7,Nada
+Auto_0cae74dd2ee6,Jiwa
+Auto_0ce873d68a35,5x
+Auto_0eb944667807,Periode Penerimaan Pengembalian Dana
+Auto_0f7fa8f9a3bd,OK<br>
+Auto_0f9511a417ab,Live Skor Palsu
+Auto_1075010ff27d,Penggunaan bulanan Anda
+Auto_109f7d11a0d6,Skor Event
+Auto_123209ff77c4,Direkomendasikan!
+Auto_12b2b7105fb3,UTAMA
+Auto_12d470debc6c,Detail
+Auto_1559210b6441,Syarat Lainnya
+Auto_1592365cb790,Habiskan<br>
+Auto_1744ba8fe835,Ketuk untuk memasukkan
+Auto_1798815611ff,Daftar Event
+Auto_17c2e91f339d,Star Assist Sedang Digunakan
+Auto_19682bdb9185,Inisialisasi
+Auto_19d41bf40aad,Poin Tukar
+Auto_1aa6e8ca6610,Lv
+Auto_1ada75706b1c,Google Play
+Auto_1b51bb0ac522,Total Anggota
+Auto_1d0659501e10,Tidak ada item yang tersedia untuk dibeli.
+Auto_1d3921b31495,Hari ke-1
+Auto_1d97f9dcc3d6,Atur Nada
+Auto_1db118371c67,Total
+Auto_1e5dd6092929,Ke Menu
+Auto_1ebe6a8e14e1,Skill Aktif
+Auto_204ca2888aa0,Nama Gacha Event
+Auto_20946a364888,Ke Halaman Judul
+Auto_20b77e71a816,SEMUA<br>PERFEK
+Auto_21125a762c34,AKTIFKAN
+Auto_2184ff8e15c8,Ruangan telah dibubarkan.
+Auto_252e0f7141ed,Tantangan selesai!
+Auto_25f4e117dab6,Terapkan
+Auto_264ccbd4abf8,※Jika bermain tanpa persetujuan <br>akan ada batasan seperti tidak dapat mengikuti Undian Hadiah atau pendaftaran<br>
+Auto_2850206c3c5a,Batas pengeluaran berdasarkan usia
+Auto_2a626ea9baf4,Bonus Skor Total
+Auto_2c42bdbb8ded,1 April 2024 00:00 - 17 Juni 2024 14:59
+Auto_2cff4f6ba8c2,Nama kartu (maks. 20 karakter)
+Auto_3050c748c4fa,Hapus Data
+Auto_3091c8446f8d,Suara
+Auto_309200e20a10,Video
+Auto_33906a7dfdec,BUKA
+Auto_35d0f5fbca4b,Otentikasi
+Auto_36680a92670b,Kombo Maks.
+Auto_387d7a59dbaa,AKTIF
+Auto_38bfb0d36aee,Ukuran Unduh 9999.99MB
+Auto_3a3662973891,LAMBAT
+Auto_3b45ef3e2d04,Keluar tanpa pengaturan
+Auto_3cb25413e47f,Pilih Lagu Event
+Auto_3d919fa4840b,Sesuaikan Ulang
+Auto_3da474537ac3,Lewati
+Auto_408090253cc2,Urutkan
+Auto_41a07ce577b3,Pilih Jumlah Tukar
+Auto_42672f9a37d1,Anggota Pilihan
+Auto_42f76867ad2d,Ada Episode
+Auto_42f9f3c2d790,Ubah Judul
+Auto_4315bc5cce32,Percobaan ke-1:
+Auto_441030094524,Konfirmasi
+Auto_44e681a374ac,Hentikan
+Auto_45bec89c0f50,Lepas
+Auto_4693ee8bed24,Pertukaran Selesai
+Auto_482939397cb5,NexTone Nomor Akun <br> ID012345678 <br> ID012345678
+Auto_5064a0f4ba98,Unduh Data
+Auto_506f8b799c18,Tentukan Adegan Spesial
+Auto_5291c399b506,Khusus Tiket
+Auto_536a08d31bbb,CEPAT
+Auto_54ac68559d08,BONUS
+Auto_576770016382,Waktu Pemulihan Berikutnya
+Auto_587eac1112fa,KEMBALI
+Auto_58a89456cac6,Atur Banyak
+Auto_5b4f82050b5f,Waktu Berakhir
+Auto_5bfa6380e816,Bonus Berkelanjutan
+Auto_5c9f61d441b4,Bahasa Indonesia<br>
+Auto_5db23947a6dc,ID Event
+Auto_5e9276d98d7e,Bonus
+Auto_61f9b95b94af,"Saat dilewati, skor tertinggi akan digunakan sebagai skor di hasil.<br>"
+Auto_622b0710d2c1,Aaaaiiieeeuuu<br>Eeeee
+Auto_6287420f60b0,Rekrut <size=/32>Bonus </size>
+Auto_633a7785dc75,Konfirmasi
+Auto_63651cf6d9f8,Live <i>! </i>
+Auto_649df08a448e,Inggris
+Auto_64f71689e86e,Simpan
+Auto_65f101b159a1,Cara Mendapatkan
+Auto_660f91b2b864,Daftar Idol<br>
+Auto_66fba5a6fa14,Simpan pengaturan
+Auto_6740ed068754,Live Burst
+Auto_67a0c5e93888,Reset hasil penilaian.
+Auto_6a72085653e4,Semua
+Auto_6a9178a4932f,KLIMAKS %
+Auto_6b268944e92c,Konfirmasi Penukaran
+Auto_6b30feafd1f3,Tambahkan Skor
+Auto_6d9a18833a5a,"Anda tetap dapat mengunduh setiap episode secara terpisah meskipun memilih untuk membatalkan <br> <br> Anda juga dapat mengunduhnya nanti dengan memilih ""Unduh Semua"" di dalam cerita <br> Karena ukuran datanya besar, lakukan pengunduhan di tempat dengan koneksi internet yang baik <br> <br> Kami sarankan untuk mengunduh menggunakan Wi-Fi."
+Auto_6dd5a42a94c0,Pengaturan<br>
+Auto_6e444147a521,Unduh semua video.
+Auto_6e6a6f2086bb,Lainnya
+Auto_719ea396ad92,Hapus
+Auto_71afae920481,Diskon LP
+Auto_74c545d169bf,Perlu {0}
+Auto_7548ab52c3d1,Daya
+Auto_77c6a8345db8,Interupsi <br>teks<br>
+Auto_77dfd2135f4d,Batalkan
+Auto_77f505b6262c,Aaa aii uuu <br> eee <br>
+Auto_788a0043ef72,Pilih Prefab Putar Ulang
+Auto_7c76cd4f10f6,Filter Karakter
+Auto_7cb690cac947,Bonus Putar
+Auto_7d8bbc065980,Bonus Poin Event Total
+Auto_7ed45871a39c,Dimiliki: 99
+Auto_7ef4a9de5c25,Karakter
+Auto_7f450bbd899c,Habiskan 3
+Auto_80212d3591fe,Buatan
+Auto_8223fef77e91,Filter BAND
+Auto_8293da245b3b,Filter Kelangkaan
+Auto_845ae4bff63e,Dapatkan Event P
+Auto_848e23d86457,Sisa POWER
+Auto_85932094d554,Hadiah Poin Event
+Auto_88b79a43a5a2,Tiket <size=28>Rekrut
+Auto_89c6e6591da2,Susun Tim
+Auto_8ac8a8695f8c,Syarat Buka Kostum <br>Syarat Buka Kostum
+Auto_8b587a7dbf54,Peringkat Band Keseluruhan
+Auto_8fb2690daca7,Tutup
+Auto_8fc78aae68c7,Peringkat Band
+Auto_8fe39d4e10b7,Naik<br>
+Auto_9241dc943583,Habiskan
+Auto_9273914e5109,Kembalikan ke<br>Default
+Auto_959f794269e3,Foto
+Auto_98205d57bde6,X JAPAN
+Auto_98cb7f8b4243,Jumlah Lewati Beruntun
+Auto_9d2900c40ab7,Smile untukmu.
+Auto_9ebddc6b6669,LUNA SEA
+Auto_9f783ad4a18c,Atur adegan otomatis
+Auto_a1477059aa3b,Atur Tamu
+Auto_a1dea8028b01,Vol.
+Auto_a328a2d80d00,Buang
+Auto_a338c21bfd26,Tingkatkan Star Lv!
+Auto_a3c686e711e4,Kategori
+Auto_a4911f7f372a,Volume Suara
+Auto_a8dc0179d0a8,Batas pembelian Anda
+Auto_a9a279c07f10,Jumlah Tukar
+Auto_aa3fa7dd256b,"Untuk berpartisipasi dalam acara, Anda harus menyetujui <br>Syarat Penggunaan<br>. Harap baca dan ketuk ""Setuju""<br>."
+Auto_ac35bd4adf50,"""Love Live! School Idol Festival 2 MIRACLE LIVE!"" akan mengakhiri layanannya pada tanggal dan waktu berikut: <br> <br> Selain itu, kami akan menerima permintaan pengembalian dana untuk saldo ""Loveca berbayar"" yang belum digunakan di dalam aplikasi mulai dari tanggal berikut: <br> <br> <br>"
+Auto_ac7c161425e5,Habiskan LP
+Auto_acca96a91aa4,Belum dibuka
+Auto_ad4d9cc1b087,Luar ruangan
+Auto_ad50489054dd,MATI
+Auto_add22ce29a3d,Pemulihan LP
+Auto_b07900dc57ed,pt
+Auto_b0e4ee23c952,Rekrut kali
+Auto_b13d33a52865,Latar Belakang
+Auto_b2f2b09e6e2d,Memiliki {0}
+Auto_b31d5ea85dff,Ke-3
+Auto_b68eb2cb5bf1,Masa Berlaku
+Auto_b6e09f881f83,Skor Pribadi
+Auto_b6e3f5c3b4f2,Takdir baru...
+Auto_b72306f4e35d,NORMAL<br>
+Auto_b8143777066d,Ke-2
+Auto_b8571eaa5763,KETUK LAYAR
+Auto_b8a4ee600c4a,Tahun
+Auto_b9fa67abcaf9,Pilih
+Auto_bc811258ae9f,pt
+Auto_bd89f983989e,Konfirmasi Pemulihan
+Auto_bf22940fda0d,Konfirmasi Jumlah Penukaran
+Auto_bf62b8f395bb,Hasil Penyesuaian Ketukan
+Auto_c25f358874d1,Ke Live Gratis
+Auto_c28c25bf8e62,Detail Item
+Auto_c401efeb943c,Naik Peringkat
+Auto_c7eb0f35af72,PUSAT
+Auto_c7f325f13f16,Kembalikan
+Auto_c998d2ee5b08,Mulai otomatis
+Auto_cc5ea3852219,Ketuk ikon ritme sesuai irama.
+Auto_cd131363eae4,GLAY
+Auto_cde3eb972d17,Lanjutkan
+Auto_d00d84c15d3a,ライブバースト<br>
+Auto_d47b6f2a9df1,<size=26>Saat ini </size> <size=24> dari </size> <br> langkah.
+Auto_d54d12f95c41,Nama
+Auto_d5ab84b435fb,Tahun
+Auto_d63f619942b9,Alami
+Auto_d6b401a4b2ac,Misi<br>Selesai!
+Auto_d8cb03e33092,Serangan
+Auto_d8ec9e35d2f2,Nama Anggota
+Auto_db66ad7b9586,Keempat kalinya:
+Auto_dcae5862b56f,Kombo
+Auto_dd48a1149548,Peringkat
+Auto_df50ec2cd8cb,Jumlah Item
+Auto_df6861322391,"Nama Kartu Maksimum, Nama Kartu Maksimum"
+Auto_df6e6c5f5960,Total Skor Multi
+Auto_e0491d31d0f7,Ke Live
+Auto_e11c09011cad,Terima kasih atas dukungan Anda selama ini.<br>
+Auto_e4d2bab524b4,"""Love Live! School Idol Festival 2 MIRACLE LIVE!"" akan mengakhiri layanannya pada tanggal <br>31 Maret 2024. <br> Jika Anda ingin mendapatkan pengembalian dana untuk saldo yang tidak terpakai dari mata uang khusus aplikasi ""Loveca berbayar"", silakan salin konten di bawah ini dan hubungi kami melalui formulir ""Pengembalian Dana"" <br> dengan informasi berikut: <br>, lalu kirimkan. <br>"
+Auto_e7a1f2b591d7,Loveca akan digunakan mulai dari yang gratis.
+Auto_e7ae8d0559ec,Medali yang Dimiliki
+Auto_e7e170510efe,31 Maret 2024 (Minggu) pukul 15:00
+Auto_eab6741c0f59,Teks
+Auto_eb1a2d429c58,Jalankan
+Auto_ebb93d3b53a4,Efek
+Auto_ebcf18c786af,Teknik
+Auto_ec828e93801a,Level<br>
+Auto_ed28cf13bde2,Beranda
+Auto_edcb599b9885,Video dari gacha yang ditentukan akan diputar <br> <br> Kartu yang muncul tidak bergantung pada gacha.
+Auto_edee9402d198,Berikutnya
+Auto_ee3c38fe094f,Hasil Penilaian
+Auto_ef3619115ff6,Poin Rekrut yang Dibutuhkan
+Auto_efd565d40ade,Putar Ulang
+Auto_f0d441f3dfff,Nama Kostum
+Auto_f12ab05bb974,Urutkan menurun<br>
+Auto_f22f0eb3fa2b,Grup Favorit
+Auto_f4cb18567198,Tambahkan kartu<br>
+Auto_f5ecb4b9a22d,Teks <br> Teks <br> Teks <br> Teks
+Auto_fe212fc5ce20,Lewati
+Auto_fff655d2974f,Pusat<br>
+Auto_003c9447ae9b,Tombol Header
+Auto_00b165f88921,Suara
+Auto_024500726b03,Distribusi
+Auto_029ebd875fdb,Teks<br>Teks
+Auto_044adfd9ed9d,LANGKAH 4
+Auto_04b455ccba55,Tukar Item Terbatas
+Auto_057d38b205d3,Grup Judul
+Auto_05bf2aac7949,"Melakukan transfer data akan menghapus data game di perangkat ini dan menimpanya dengan data game dari perangkat asal. <br> Jika melakukan transfer antar OS yang berbeda, medal berbayar akan dikonversi menjadi medal gratis. <br> Jika melakukan transfer pada OS yang sama, data akan ditransfer sebagaimana adanya. <br> <br>"
+Auto_079bf11eeff3,Ver 0.0.1
+Auto_07a05e260d6b,Nama Skill Tengah
+Auto_07ddf136db16,16-17 tahun:
+Auto_09ec0c5b620d,Teks teks teks
+Auto_0c6ca3b6cc0a,Eponim
+Auto_0cb8722f43db,LP telah dipulihkan sebanyak 99.
+Auto_0d57f9526844,Data lagu tidak ditemukan.<br>Coba mainkan lagunya!
+Auto_0e68b6445410,Tidak ada item yang bisa ditukar.
+Auto_0e8f4f23a65a,Selesaikan BINGO 1.2 untuk membuka misi ini.
+Auto_0f04165846d6,Seleksi
+Auto_0f16b706d0e6,"Hanya huruf dan angka, minimal 8 karakter, maksimal 32."
+Auto_11412d0e8910,Persentase Hadiah Khusus
+Auto_121def961f9a,ID Transfer<br>
+Auto_13e47abd10a7,Gunakan Spirit x100 dan mulai Live? <br> *Live Burst tidak akan Habiskan.
+Auto_13fd30e09401,Reset setiap hari X
+Auto_146927317e55,Poin Event<br>Hadiah
+Auto_14bf1f14b527,Habiskan sejumlah Gold untuk mengubah <br>“〇〇〇〇〇〇〇〇〇〇” menjadi lagu acak lainnya?
+Auto_163d2f0d102b,¥5.000 (JPY)
+Auto_1703cc1d1ab7,Lakukan salah satu dari pengaturan berikut untuk mentransfer data saat mengganti perangkat.<br>Dapat digunakan sebagai tindakan pencegahan terhadap kehilangan data akibat penghapusan aplikasi.
+Auto_171264a7eb78,Yuki aaaaaaaaaaa
+Auto_1738ae542173,Teks teks teks aaa
+Auto_17a21f8751b1,Honoaka
+Auto_18ce79396792,Manajer Pemula
+Auto_193f0038f792,Habiskan Loveca untuk Rekrut 11 kali? <br> <color=#C70F01> <size=30> Apakah Anda ingin membeli karena Loveca berbayar tidak mencukupi? </color> </size>
+Auto_1996a5682af1,Pemberitahuan Penghentian Layanan<br>
+Auto_1a355bfca80b,Habiskan Medali (Berbayar) untuk membeli.<br>Apakah Anda yakin?
+Auto_1ba4c95c1b7e,"μ's single ke-4, lagu yang ditampilkan di anime TV saat Maki bernyanyi di ruang musik dan juga diingat dari adegan paduan suara di upacara kelulusan. Ada berbagai versi, tetapi dalam versi aslinya, perhatikan garis bassnya. <br>μ's single ke-4, lagu yang ditampilkan di anime TV saat Maki bernyanyi di ruang musik dan juga diingat dari adegan paduan suara di upacara kelulusan. Ada berbagai versi, tetapi dalam versi aslinya, perhatikan garis bassnya. <br>μ's single ke-4, lagu yang ditampilkan di anime TV saat Maki bernyanyi di ruang musik dan juga diingat dari adegan paduan suara di upacara kelulusan. Ada berbagai versi, tetapi dalam versi aslinya, perhatikan garis bassnya."
+Auto_1be7423211a5,Nama Item Aaaaaaaaaaa<br>
+Auto_1e0e1976379b,9999999 menit
+Auto_1e17ebb75b4d,Loveca Stone 100 buah <br> Bonus Loveca Stone 100 buah <size=22> <color=#F93981>
+Auto_1e531d5608ba,(Ada) 100
+Auto_1fd729e61328,Pengaturan transfer selesai<br>
+Auto_21461c8ad16a,Kode serial untuk nama kampanye.
+Auto_217db72fc82b,Level Skill
+Auto_2187f31d0823,Tingkatkan peluang aktivasi skill <color=#F93981> sebesar </color>
+Auto_21a6013d6db7,"Nama1, Nama2"
+Auto_231660b3e9aa,Yuki aaaaaaaa
+Auto_2359a6bc9f8e,Sampai 2999/12/31 23:59
+Auto_2372659b2fa8,Karakter1 : Teks1<br>Karakter1 : Teks1
+Auto_23c425468cfa,Bonus Login Harian
+Auto_23d692f07a3f,Orang Tua
+Auto_24331d4b3c4b,TINGKAT AHLI 10
+Auto_24ef5199c19f,Unduh…
+Auto_265c145b1c11,Habiskan Pengaturan Auto Burst
+Auto_28578faf0062,Teks Baru
+Auto_2910ca68352e,《Love Live! School Idol Festival 2 MIRACLE LIVE!》 telah mengakhiri layanan pada <br>31 Maret 2024 (Minggu).<br><br>■Periode Klaim Refund: 1 April 2024 (Senin) 00:00 ～ 17 Juni 2024 (Senin) 14:59<br><br>Terima kasih atas dukungan dan setia bermain selama ini.
+Auto_2991fd24eff8,DINGIN
+Auto_2a9e2a96f3a5,Tanggal lahir tidak dapat diubah setelahnya.
+Auto_2ae6850cf007,EKSPER Lv11
+Auto_2db52bd8d99d,Jumlah putar lagu hari ini: 1/10
+Auto_2e84ab497270,Nama kartu maksimal tiga puluh karakter
+Auto_30629014ffdf,Peringkat ke-1.000.000
+Auto_327896c958c6,新田恵海
+Auto_32cca4a1edcd,Ahli Lv11
+Auto_32f04a55794f,Loop: Nonaktif
+Auto_349584413283,Nama Pengguna (maks. 10 karakter)
+Auto_3500bbd544a3,"• Bonus peningkatan Idol <br> • Saat Live, menjadi tidak terkalahkan dan HP tidak berkurang <br> • Selalu aktifkan bonus peningkatan penilaian besar (ubah penilaian hingga BAD menjadi PERFECT) <br> • Tingkatkan tingkat aktivasi skill sebesar 20% <br> • Efek bonus skor anggota terpilih dua kali lipat <br> *Bonus peningkatan Idol akan meningkat seiring dengan peningkatan level Idol."
+Auto_354fd93c17f2,Judul Cerita Judul Cerita Judul Cerita
+Auto_3588a5b623b0,LANGKAH 7
+Auto_360cb694c2ae,detik
+Auto_36fc221e2e45,"Lirik: Hata Aki, Musik: Kojima Ryota, Aransemen: Kusa Mana"
+Auto_3770af0c5c4e,1000 pt
+Auto_37900575e30d,Kecepatan = 1
+Auto_383617f9c339,Judul
+Auto_38bf4ac9d31b,123456789pt
+Auto_38d63311e93b,MURNI
+Auto_393d0282bf7d,Anda mendapatkan item berikut<br>
+Auto_399acfa696ba,Nama Unit 6789012345
+Auto_3ae3222a8a7c,ID
+Auto_3b18e8e33250,Volume
+Auto_3bdd53e3c81d,SENYUMAN
+Auto_3c153c60bc73,Nama Item/Kartu
+Auto_3cab1d5076f2,"Saat mentransfer data antar-OS, Gem berbayar akan dikonversi menjadi Gem gratis.<br>Jika transfer dilakukan dalam OS yang sama, Gem berbayar akan ditransfer sebagaimana adanya."
+Auto_3db8f0a8cb0d,Rekrut <size=50>11</size> kali
+Auto_3e252f2489fa,Server masuk. <br> Server masuk. <br> Server masuk.
+Auto_3f5567240d61,Tipe O
+Auto_3fed241ef790,Total Event
+Auto_4002d1a146fa,"Tonton episode sehari-hari idol sekolah μ's, Aqours, Nijigaku, dan Liella!"
+Auto_40e01c24654a,Nijigasaki Gakuen School Idol Club
+Auto_414ee4134bd7,"Jika ada Anggota terpilih di daftar Idol,<br>Jumlah Miracle Star yang bisa DAPATKAN dari bonus login akan meningkat!"
+Auto_41b187f87bd2,157 cm
+Auto_432849e0e729,Nama Karakter
+Auto_434ea13d1c5f,aaaaaaaaaaaaaa
+Auto_439bd1f70732,Teks sementara masih ada.
+Auto_451416850ad2,Mode Bluetooth
+Auto_458a25f3bc2b,aaaaaaaaaaaaaaaaaaaaaaaaaaaaa <br> 12345678901234567890123456 <br> 26 karakter × 3 baris
+Auto_45a309dcbdfa,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa <br> 12345678901234567890123456 <br> 26 karakter × 3 <br>
+Auto_463938856430,ID Transfer:
+Auto_463dc0e2645f,Lirik: Test<br>Musik: test
+Auto_47b4753f220d,Judul
+Auto_486a5b286b90,Selesaikan semua misi harian.<br>Selesaikan semua misi harian.
+Auto_4ac93a41ce71,Komposer: -
+Auto_4b8ea9b1a845,"・Barang tidak dapat dikembalikan。<br>・MIRACLE Pass berlaku sebagai masa percobaan selama 1 bulan pertama sejak pendaftaran。<br> Setelah masa percobaan berakhir, pembayaran akan dilakukan setiap bulan di Store yang Anda gunakan hingga Anda membatalkan langganan, <br> dan masa berlaku akan diperbarui secara otomatis。<br> Jika ingin mengakhiri penggunaan hanya pada masa percobaan tanpa memperbarui masa berlaku, <br> silakan lakukan proses pembatalan paling lambat 2 hari sebelum masa percobaan berakhir。<br>・Masa berlaku adalah 1 bulan sejak tanggal pembelian atau pembaruan otomatis。<br>・Masa berlaku akan diperbarui secara otomatis setiap bulan。<br>・Pembayaran bulanan sebesar 980 yen akan dikenakan melalui pembaruan otomatis。<br>・Masa berlaku MIRACLE Pass akan diperbarui secara otomatis kecuali Anda menghentikan pembaruan otomatis。<br>・Pada hari pembaruan, proses pembaruan mungkin mengalami penundaan。<br> Jika efek tidak aktif sementara, silakan coba muat ulang setelah beberapa saat。<br>・Saat membatalkan, hentikan pembaruan otomatis paling lambat 48 jam sebelum masa berlaku berakhir。<br>・Anda tetap dapat menerima manfaat selama masa berlaku meskipun dibatalkan di tengah jalan。<br>・MIRACLE Pass hanya berlaku pada akun aplikasi ini yang digunakan saat pendaftaran。<br>・Harap diperhatikan bahwa Anda tidak dapat mendaftar baru hingga masa berlaku pada akun aplikasi ini sebelum pemindahan data berakhir, <br> <br>・Selain itu, jika Anda membuat akun baru aplikasi ini karena menghapus aplikasi, dll., <br> MIRACLE Pass tidak dapat dipindahkan。<br>・Jika terjadi pendaftaran ganda/berulang pada MIRACLE Pass yang sama, <br> Anda tidak dapat menerima manfaat secara berulang。<br>・Setelah masa berlaku berakhir, mungkin diperlukan waktu sedikit hingga manfaat benar-benar dinonaktifkan。<br>・Meskipun aplikasi dihapus, jika proses pembatalan tidak dilakukan, <br> pembaruan otomatis akan tetap berlanjut。Harap diperhatikan。<br>・Jika Anda mengganti perangkat dengan OS berbeda, atau memindahkan data ke akun berbeda dengan OS yang sama <br> , efek MIRACLE Pass akan tetap berlaku selama masa berlaku。<br> Oleh karena itu, bagi yang ingin mendaftar MIRACLE Pass baru, silakan selesaikan pembatalan di platform (atau <br> akun) sebelumnya sebelum mendaftar。<br> Anda tidak dapat mendaftar baru hingga masa berlaku di platform (atau akun) sebelumnya berakhir, <br> <br><br>■Cara Memeriksa Masa Berlaku dan Membatalkan Langganan (Menghentikan Pembaruan Otomatis)<br>Pembatalan MIRACLE Pass dapat dilakukan melalui langkah berikut。<br>Setelah pembatalan, manfaat akan dinonaktifkan setelah masa berlaku berakhir。<br>※Cara operasi mungkin berbeda tergantung versi OS dan perangkat。Mohon pengertiannya。<br><br>1. Ketuk tombol ""Batal Langganan"" yang ditampilkan di bagian bawah layar ini。<br>2. Ketuk ikon ""≡"" di kiri atas > ""Langganan Berkala""。<br>3. Jika ingin membatalkan, ketuk produknya。<br>4. Ketuk ""Batalkan Langganan Berkala"" dan ikuti proses pembatalan"
+Auto_4ca3fbc3f316,Foto Stiker
+Auto_4de912463d5b,* Digunakan dari Loveca Stone gratis.
+Auto_4e8e36e11ba0,JASRAC License No. 123456789ABCDEFG<br>
+Auto_4f3f313eb655,"Hidupku, Hidupmu"
+Auto_4f62ed577823,"Jika mentransfer data antar OS, gem berbayar akan dikonversi menjadi gem gratis.<br>Jika mentransfer data di dalam OS yang sama, gem berbayar akan ditransfer sebagaimana adanya."
+Auto_513968cec3d1,Hingga 30 Juni 2023
+Auto_522175083f0b,Hapus Cache
+Auto_526b4090303d,"Informasi penting, jangan beritahu orang lain <br> Simpan catatan atau tangkapan layar <br> Kata sandi dapat diubah nanti <br>"
+Auto_5472f4068cb1,堀内まり菜（椿ルリカ役）、浅井七海（皇ユズハ役）、杏ジュリア（北条ユキノ役）、小山璃奈（天草ヒカル役）、佐藤美波（三笠マーヤ役）
+Auto_55ee85cd4dcc,Nama Belakang Nama Depan
+Auto_560dd21d26a8,Masukkan ID dan kata sandi transfer.<br>
+Auto_567ad1eee4be,Nama Hadiah
+Auto_56809f756f76,Apakah Anda yakin ingin menerima hadiah ?<br>
+Auto_572b0f9c1d1b,teks teks teks teks teks teks teks teks teks
+Auto_572e68ce60da,Dapatkan 10pt
+Auto_57859cb7238a,Nama Karakter
+Auto_586b09d35825,Jumlah: 9999999
+Auto_58c3db41d9fc,Pilih Video Gacha
+Auto_58f52a673e60,Nama Item/Kartu (maks. 30 karakter)
+Auto_595596e10b8b,Tidak ada kartu yang bisa ditingkatkan batasnya.
+Auto_5a6b54f04f20,9999999 pt
+Auto_5aa7dabc547e,"(Maksimal 2 baris, 26 karakter per baris)"
+Auto_5b0e14341d79,Hoshizora Rin
+Auto_5d7171891b9e,Judul Cerita
+Auto_5e2c3623f817,"Baterai hampir habis <br> Sisa baterai adalah <color=""red""> 7% </color> <br> Jika perangkat memberi tahu tentang sisa baterai, <br> Live mungkin terganggu <br> Disarankan untuk mengisi daya perangkat."
+Auto_5e63c03e564f,Hentikan pemutaran MV dan kembali ke layar pemilihan lagu?<br>
+Auto_5e88baf24aea,Cache berhasil dibersihkan.
+Auto_5f21648a666a,Sisa 999 hari
+Auto_6114d553d8a5,"Bonus hadiah login akan diterapkan pada semua anggota terpilih di daftar Idol, dan jumlah totalnya akan berlaku.<br>Bonus hadiah login hanya akan diterapkan pada hari-hari saat Bintang Ajaib ditetapkan sebagai bonus login."
+Auto_62933bba4c77,Sumber:
+Auto_62b3c4231032,HASIL<br>
+Auto_6311b5d2d37d,Lv.000
+Auto_64e02dbe9ba6,LANGKAH 1
+Auto_669d4fab42d5,Sisa 9999 (reset setiap Senin pukul 00.00)
+Auto_67c008e4fd30,Nama Tampilan
+Auto_67dbec9cc4e4,Batas ¥10.000
+Auto_6842c74c4d51,Anak
+Auto_6b3f6985eb92,Little Demon 1
+Auto_6bfa25be446d,Minuman Energi
+Auto_6d17169b8845,Buka Cerita
+Auto_6eee3369a6c0,XXXXX XXXXX XXXXX
+Auto_6f9b9af3cd6e,pesan
+Auto_6fc69aae7ef1,20XX/99/99 99:99
+Auto_6fd05cc842c9,<color=#ff5500> <size=28> Sekali sehari </color> </size> <br> Reset setiap hari pukul 00:00
+Auto_709a23220f2c,Nama
+Auto_7123fcc9c635,Penggunaan 345678901234567890123456789
+Auto_7171d9cb0cf3,Nama Item
+Auto_71cd10385774,Buka video dengan memaksimalkan peningkatan batas.
+Auto_71fd4dacfad1,1 Agustus
+Auto_737f138ed948,Hari ini<br>Sudah digunakan
+Auto_75e1496591d4,Tampilkan
+Auto_76fb59ce183d,"Deskripsi item, dll. Deskripsi item, dll. Deskripsi item, dll. ○<br>Deskripsi item, dll. Deskripsi item, dll. Deskripsi item, dll. ○"
+Auto_773a03413bdc,Nama item maksimal dua puluh karakter
+Auto_78f1b4350a83,"Hingga 31 Desember 2021, 12:00."
+Auto_794145f030ff,Tombol
+Auto_7a5db5a1f223,2 tahun
+Auto_7bf2e2580045,Bab Tinjau
+Auto_7c1698e461f9,Nama Anggota (maks. sepuluh karakter)
+Auto_7c54bd6c4a3f,Nama kartu dan parameternya telah ditingkatkan.<br>
+Auto_7dee13bf0dd8,YOSHIKI
+Auto_7f2b15f3359a,Sisa 16 hari
+Auto_7f91240a914e,Nama item yang akan ditukar maksimal 16 karakter.
+Auto_82434dcead71,Opsi B
+Auto_827ada3af78a,"Melakukan transfer data akan menghapus data game di perangkat ini dan menimpanya dengan data game dari perangkat asal <br> <br> <br> <color=#c70f01> Jika melakukan transfer antar OS yang berbeda, gem berbayar akan dikonversi menjadi gem gratis. <br> Jika melakukan transfer antar perangkat dengan OS yang sama, gem berbayar akan tetap ditransfer. </color>"
+Auto_8449eea355c4,Penjelasan Skill Tengah<br>Penjelasan Skill Tengah
+Auto_860981a8b394,Judul Judul Judul Judul
+Auto_87c522a79361,Penjelasan Skill <br> Penjelasan Skill <br> Penjelasan Skill
+Auto_8957ed473795,Aransemen: -
+Auto_8b0bbe5fa2a0,Tanggal lahir tidak dapat diubah nanti.
+Auto_8bdd1e8256dd,Normal 1
+Auto_8c3c5dc7add8,Benar-benar ingin melanjutkan? <br>
+Auto_8d1308cd282c,Asaka Karin
+Auto_8d54688f884e,Hashtag
+Auto_8d7f5abed4eb,Cache berhasil dihapus.<br>
+Auto_8ec81c9e6bba,Tidak ada gelar yang sudah didapatkan.
+Auto_8ecd1842d6d5,Periksa baterai
+Auto_8eee6c561bb2,"Saat mentransfer data antar OS, gem berbayar akan dikonversi menjadi gem gratis. <br> Jika mentransfer data dalam OS yang sama, gem berbayar akan ditransfer sebagaimana adanya. <br>"
+Auto_8f7124fb70a8,Tutorial selesai.<br>Kembali ke layar judul.
+Auto_91152b56f991,lapisan<br>
+Auto_920d74d2ff09,Hari ke-1
+Auto_920f67831677,Tugas Khusus
+Auto_940387049ad0,"• Grup idola sekolah dari SMA Shiyukigaoka, yang berbasis di Harajuku, Tokyo. <br>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+Auto_94e6b092259d,Membersihkan cache...<br>Silakan tunggu hingga selesai.
+Auto_953670412850,"Mode Bluetooth diaktifkan karena koneksi headphone Bluetooth <br> Dalam mode Bluetooth, penekanan tombol mungkin tertunda selama Live <br> *Penyesuaian penilaian untuk Bluetooth akan diterapkan."
+Auto_957c2a10d823,Nama unit maksimal 16 karakter.
+Auto_965fb2ddf63d,Terima
+Auto_97855c87fb9b,LANGKAH 6
+Auto_9850ea73a3e8,Teks teks teks teks teks
+Auto_98997bef6406,Konfirmasi<br>
+Auto_99122787e954,Pesan pesan pesan pesan ●● <br> Pesan pesan pesan pesan <br> Dua karakter <br> Empat baris
+Auto_99940a7d6018,0<size=-3>x</size>
+Auto_9a5e7fc5a514,"Jadi, kami akan terus bermain!"
+Auto_9bc6fb8cccfc,"*Maksimal 30 item dapat disimpan. Jika batas terlampaui, riwayat lama akan dihapus. Selain itu, riwayat penerimaan akan dihapus secara otomatis setelah 100 hari sejak ditampilkan."
+Auto_9d3cadaec013,"Jika mentransfer data antar OS, Gem berbayar akan dikonversi menjadi Gem gratis.<br>Jika mentransfer data dalam OS yang sama, Gem berbayar akan ditransfer sebagaimana adanya."
+Auto_9d81b6cadd5c,Area Tampilan EXP
+Auto_9d86b9378453,Peringkat ke-99999
+Auto_9daaa404b4c3,Nama item/kartu (maks. 30 karakter)
+Auto_a0685b910206,Cari
+Auto_a08046709963,Komposer: <br> Penulis lirik: <br> Aransemen:
+Auto_a0d95c9b62e6,teks teks teks teks teks teks teks teks teks teks teks teks teks teks teks teks teks teks teks teks teks
+Auto_a0ec88460069,Tanggal rilis lagu: 8888/88/88
+Auto_a1a8a57f247c,Live Burst pulih 10 kali.<br>Batas teman meningkat dari 5 menjadi 10.
+Auto_a45ad5596a9e,Nama depan Nama belakang
+Auto_a50b3e2b4507,Nama item maks dua belas karakter
+Auto_a65f3a8a2407,Terbatas 72 jam
+Auto_a69be1e057ef,Kelas 1
+Auto_a6a31e215fdd,Event P
+Auto_a7726b3f99f0,"AAAAAA (maks. 2 baris, 21 karakter)"
+Auto_a78153e9f407,ABCD EFGH IJKL MNOP
+Auto_a808eee2241b,Dapatkan nama kartu terpanjang<br>Nama menu adalah hadiah yang Anda dapatkan.
+Auto_a94d5d0c7027,Nama Tiket
+Auto_aa1168393020,Masukkan tanggal lahir untuk verifikasi usia.
+Auto_ac34920d91ed,Hadiah • EXP
+Auto_ac6c98656ccc,LAWSON
+Auto_acb992ab8026,Tanpa pengaturan
+Auto_ad9ec245bacb,TINGKAT <size=26>Lv </size>
+Auto_adf974909200,Apakah Anda ingin melanjutkan pembelian meskipun total pengeluaran bulan ini akan melebihi 100 ribu?
+Auto_afa7944cae4b,Satu baris<br>
+Auto_b067846ca702,Hingga 31 Desember 2099 pukul 00:00
+Auto_b1181d44cd51,"Penjelasan item, dll."
+Auto_b2ad896a1cb2,LANGKAH 2
+Auto_b3361a468f26,Hingga 30 November 2021 pukul 13:59
+Auto_b4ae1b9654fd,Dialog akan ditampilkan. <br> Dialog akan ditampilkan. <br> Dialog akan ditampilkan.
+Auto_b528c11750d0,Berikan hadiah
+Auto_b5414c090b1d,Efek bonus poin acara tidak berlaku secara kumulatif; hanya efek tertinggi dari Anggota di Susun Tim yang akan diterapkan.
+Auto_b59e287feb4c,Sisa 99 kali
+Auto_b78072c47e29,Penjelasan Skill Tengah <br> Penjelasan Skill Tengah <br> Penjelasan Skill Tengah
+Auto_b7dfc9785b79,Mimpi yang Belum Selesai! (Versi Sekolah Menengah Tumbuhan Tsubaki)
+Auto_b803c31897b9,Cache telah dibersihkan.<br>
+Auto_b8be7f2cb5de,Rekrut<br>Teks
+Auto_b95b73ebd08b,162 cm
+Auto_ba5dc2cc4de4,Nijigasaki Gakuen School Idol Club Selection
+Auto_baed348504d9,-1000
+Auto_bc40521e5705,Judul Cerita
+Auto_bccc54ef43f6,Dapatkan Anggota Favorit
+Auto_be3bffb9fcbf,Lv 99
+Auto_be60bc27fbf7,Rekrut <size=50>10</size> kali
+Auto_bef81964e6fa,Coba Level 1
+Auto_bf4c732a9812,Bonus poin Event akan aktif saat Anda menyusun tim Anggota terpilih!<br>Poin Event yang bisa Anda Dapatkan setelah menyelesaikan Live akan bertambah!
+Auto_bf91f3a572ba,"• Auto Burst akan digunakan mulai dari yang masa berlakunya paling cepat <br> • Auto Burst hanya dapat digunakan pada lagu yang sudah diselesaikan <br> • Tidak dapat menggunakan Live Burst dan Auto Burst secara bersamaan <br> <color=#D73C55> Anda tetap dapat bermain meskipun tidak ada Burst yang tersedia. Namun, Hadiah, EXP, dan Event P akan menjadi 1x </color> <br>"
+Auto_c1fa719d598a,Konfirmasi Penggunaan Spirit
+Auto_c3a4f560ab26,Pesan pesan pesan pesan<br>Pesan pesan pesan pesan
+Auto_c4a400246fd1,Pilih akun SNS yang akan dihubungkan.
+Auto_c4c9a1fdfc9e,Masukkan konten yang akan ditampilkan <br> Masukkan konten yang akan ditampilkan <br>
+Auto_c6d374d72d7f,LIVE dengan senyuman! (Nijigasaki Gakuen School Idol Club Ver.)
+Auto_c6de9c87f72e,Lv 9/9
+Auto_c76d98f6d9fb,«Story Type #○○»<br>Bagian «○○ Story» telah dibuka!
+Auto_c892f3e56f53,Beli Paket Premium?
+Auto_c9fac4d62211,Buat total Atribut di Susun Tim menjadi 29000 atau lebih.
+Auto_ca61133f09ff,Jumlah putar lagu hari ini: 1/5
+Auto_ca635e2d27c2,asdfasdfgasdgf
+Auto_ca7ddec2aa05,"Saat ini, jumlah Live Burst yang tersisa kurang dari yang ditetapkan. Apakah Anda ingin melakukan pemulihan Live Burst atau hanya menggunakan <br> Live Burst yang tersedia untuk memulai <br> Live? <br>"
+Auto_cad73579d948,Hingga 12/12/2022 12:12
+Auto_caeac8b0e507,Judul Lagu
+Auto_cb3ba916e5a5,Naikkan Peringkat Band
+Auto_cc5e60312e77,Lakukan salah satu pengaturan berikut untuk mentransfer data saat mengganti perangkat.<br>Ini juga dapat digunakan sebagai tindakan pencegahan terhadap kehilangan data akibat penghapusan aplikasi.
+Auto_cd292cafcb22,Anda telah mendapatkan kartu dengan nama maksimum tiga puluh karakter.<br>※Anggota yang Anda dapatkan akan langsung ditambahkan.
+Auto_cefaf311b26d,"Dalam multipemain, kami mendeteksi perilaku yang mengganggu pemain lain <br>. Kami telah membatasi fungsi Anda untuk sementara waktu <br>. Harap tunggu hingga pembatasan dicabut."
+Auto_cff4d31a542a,Sisa kali bulan ini
+Auto_d109f177e1ca,"*Bonus Mirakel Star tidak berlaku secara kumulatif, hanya bonus tertinggi yang akan diterapkan pada daftar Idol.<br>*Jumlahnya hanya bertambah pada hari di mana Bonus Login Mirakel Star telah ditetapkan."
+Auto_d13b8de51614,Habiskan item yang dipilih untuk memulihkan 999 LP?
+Auto_d26e16005b9b,Nama Unit 67890123456
+Auto_d3956f3f07bd,Apa itu Skill Tengah? <br> hōge <br> hōge
+Auto_d49438232a89,Prioritaskan Bonus Poin
+Auto_d49d030a4c41,Masuk ke menu
+Auto_d514ddda1f2b,虹ヶ咲学園スクールアイドル同好会<br>
+Auto_d5e65e858e9f,JASRAC<br>Nomor Lisensi:
+Auto_d68606f69a20,Total EXP:
+Auto_d7d50bd43ec5,123456 76gHH JGFDD
+Auto_d7d921bdbb52,Nama wilayah
+Auto_d95c4718456b,Masukkan nama kampanye di sini
+Auto_da4223df6db9,Anda mendapatkan item berikut ini.<br>
+Auto_daf84f7c7d22,Paruh pertama
+Auto_dc7f77b4ccfc,Putar Ulang
+Auto_e0bf83c834c3,<size=30>Peringkat </size>
+Auto_e11359efb14c,ROSIER
+Auto_e148ce3a95d1,Pengaturan Burst Habiskan
+Auto_e1c8e6e7609b,"Pengaturan transfer data telah selesai. <br> Setelah mengunduh aplikasi di perangkat tujuan, buka <br>[MENU] > [Transfer Data] dari layar judul dan masukkan <br>ID transfer dan kata sandi Anda <br>."
+Auto_e1dfd8068c2c,Dijeda Sementara
+Auto_e2c1a45b20e9,Episode
+Auto_e2c3fd94c0d0,<size=100>Selatan<size=80> <size=100>ke sini<size=80>
+Auto_e2dd1dd4eff5,"Judul adegan akan ditampilkan di sini, maksimal 24 karakter."
+Auto_e41a824f0330,"あああああ（maks 18 karakter per baris, 2 baris）"
+Auto_e4fed19cc108,Habiskan 1000 Gem untuk membeli set item.<br>Item ini hanya dapat dibeli dengan Gem berbayar.
+Auto_e681a79dd251,Penjelasan gelar <br> Penjelasan gelar <br>
+Auto_e6a58fc3b7ed,LANGKAH 5
+Auto_e734b3d49dce,Lirik: Yamada Takahiro <br> Musik: Yamada Takahiro <br> Aransemen: Yamada Takahiro
+Auto_e760d2bb643b,Hapus cache?<br>Apakah Anda yakin?
+Auto_e8a8b7c6038e,Loveca diperlukan untuk membeli.
+Auto_eb2d423b05fd,Poin Rekrut []
+Auto_eca4f8397ade,Peringkat<br>
+Auto_ed19e903d580,Nama Skill
+Auto_ee1a9acc0e95,Tidak ada riwayat penggunaan yang dapat ditampilkan.
+Auto_ee4c907f5db2,FPS
+Auto_eedc6a01343e,"Hingga 1 Januari 2020, pukul 17:00"
+Auto_ef900ac4aaaa,Nama Artis
+Auto_f082d04a8efb,Wina Margareta
+Auto_f08c587b54a5,<br> <br> <br> <br> <br> <br> <br> <br>
+Auto_f1399a500121,LANGKAH 3<br>
+Auto_f23c1a3a61ab,"Yazawa Nico (CV. Tokui Aoi), Hoshizora Rin (CV. Iida Riho), Koizumi Hanayo (CV. Kubo Yurika)"
+Auto_f265c8f36b84,<size=100>Selatan<size=80> <size=100>Niko<size=80> Tori
+Auto_f65f17e85292,Opsi A
+Auto_f660160beb91,Pesan
+Auto_f66750e6a4d9,Kebijakan Privasi<br>
+Auto_f6f99b4fccd5,Judul
+Auto_fa4421e93912,Hatimu terbanglah ke arahmu!
+Auto_fc02722f2e79,Naikkan Parameter
+Auto_fe1465b2f630,Hapus Cache
+Auto_ff511e92f6a2,Kecepatan Marker = 6
+Auto_3deeeac74475,Teks Baru_Teks Baru<br>Teks Baru_Teks Baru
+Auto_316076ac0fd6,HONOKA KOSAKA
+Auto_e33d9b3310c8,Hobi:
+Auto_c3328c39b0e2,Teks
+Auto_b31a6165ed15,Berpartisipasi
+Auto_e08da1d02602,Status Pemilihan
+Auto_e59d7bc19c8f,Bonus poin acara hanya berlaku untuk Idol dengan efek tertinggi dalam susunan tim Anda.
+Auto_56284117f22b,Unit<br>Detail
+Auto_229ac5ad1902,ID:
+Auto_8f6f274bdbc6,Mohon bantu<br>maks 30 karakter
+Auto_d1eb1a8c785c,Terakhir login: 1 jam lalu
+Auto_07ec0ce76690,Tampilkan hanya <br>teman favorit.
+Auto_e6a697ba40c2,Daftar Teman
+Auto_ec7ae06b0999,Batalkan
+Auto_d7831e09e2fa,Tolak permintaan teman
+Auto_9aebaee878f6,STEP <size=32> saat ini </size>
+Auto_ffdb97c8a723,Cool Empress
+Auto_861285cde494,Cool P naik 12% + Anggota Ho-no-ka dan Ha-nyu meningkatkan Cool P sebesar 9%. <br> <br>
+Auto_43965186bda1,Cool P meningkat 12% + Anggota <br> Ho-no-ka dan Ha-nyu meningkatkan Cool P sebesar 9%. <br> <br>
+Auto_82002e2fa49d,Cool P meningkat 12% + anggota <br> dan meningkatkan Cool P sebesar 9% <br> <br>. <br>
+Auto_8f430c44afa1,Coba lagi!
+Auto_8697160f7a00,"Saat Star Assist digunakan, <br>HIGH SCORE tidak diperbarui"
+Auto_1b92a8c61f66,"Saat menggunakan Bantuan Bintang,<br>MAX COMBO tidak akan diperbarui"
+Auto_119dada8743d,"Di acara ini,<br>skor tertinggi tidak diperbarui."
+Auto_23a202742edc,Tokyo Garden Theater
+Auto_71e7b499f129,Nama tempat atau bangunan terkenal
+Auto_6ef2337620d1,Hosaka Honoka
+Auto_bca3582437f0,Situasi Dapatkan
+Auto_5e09801739ed,Tidak ada kartu yang tersedia.
+Auto_d0ce5c42a59a,Nama Karakter
+Auto_5d58d93e8bf4,Sisa 10 hari
+Auto_472aa5aec506,-aaaaaaaaaaaaaa
+Auto_11fcfa6991cb,aaaaaaaaaa
+Auto_7cf81d1c765b,Anggota dipilih
+Auto_e9f1544100ba,Nama akan muncul di sini
+Auto_1af14d2a65f8,ID Ruangan:
+Auto_6a26632920e1,Kombo total
+Auto_3b73e212eeee,"Komposer: Ayumu Nakamura, Hiroto Kikuchi <br> Aransemen: Ayumu Nakamura, Hiroto Kikuchi <br> Penyanyi: Chika Kohae (CV. Anzu Iba), Mari Ohara (CV. Aina Suzuki), Dia Kurosawa (CV. Miyu Komiya) <br> Kanata Matsuura (CV. Nanaka Suwa), Yoshiko Tsushima (CV. Aika Kobayashi)"
+Auto_fe933ad251ac,Ketuk untuk memasukkan nama.
+Auto_4d395aee4ce0,Sisa 99 hari
+Auto_29f72241b091,Jumlah hadiah dan poin acara akan berubah sesuai dengan jumlahnya.
+Auto_2e4df52b54d0,Pilih Habiskan LP
+Auto_5521e368d87e,Peringatan
+Auto_7e5716db83d2,"Kami mendeteksi perilaku yang mengganggu pemain lain. <br>Hasil Live kali ini tidak akan dihitung. <br><br>Jika perilaku ini terulang, <br>kami akan membatasi akses Anda untuk sementara waktu."
+Auto_58b0ee43d2aa,Mainkan Live dengan kesulitan yang sama bersama pemain yang sama? <br>
+Auto_40d132e9c3cd,Keluar dari ruang pribadi?
+Auto_ef20caea634e,Koneksi host terputus.<br>Kembali ke halaman utama acara.
+Auto_425e7dea4998,"Jumlah peserta tidak mencukupi. <br><br> Jika bermain dengan 4 orang, poin acara yang didapatkan mungkin akan berkurang sebesar <br>. <br><br> Apakah Anda ingin memulai Live dengan jumlah pemain saat ini?"
+Auto_2dd929a3304a,Jumlah bantuan hari ini sudah mencapai batas.<br>Kembali ke halaman utama acara.
+Auto_daa15114aa23,Susun Tim khusus untuk event belum dilakukan.<br>Buka layar Susun Tim khusus.
+Auto_377325e4d88d,Koneksi terputus atau perilaku tidak pantas terdeteksi berulang kali.<br>Kami akan membatasi sementara permainan Live dalam acara ini.
+Auto_e958b7cc8644,Mencari ruangan...
+Auto_77a19778ce42,Baru
+Auto_d55be023c2b2,Ya
+Auto_f1671898c65b,Hoshizora Rin
+Auto_31eecb3ddc6d,Bahasa
+Auto_b0a4b7078dce,Pengaturan<br>
+SelectLanguage_ConfirmTitle,Ubah Bahasa
+SelectLanguage_ConfirmMessage,Ubah bahasa dan mulai ulang aplikasi. Apakah Anda yakin?
+Auto_343a26d4817b,Rekomendasi
+Auto_217643d3311e,Susun Tim Otomatis
+Auto_5712f746e026,Ubah Posisi
+Auto_c47bf7602f86,Atur sebagai utama<br>
+Auto_17d151209dcb,Gunakan
+Auto_eb321ace03b3,Nama Pemain
+Custom_Option_Live3d_Title,Pengaturan Live 3D
+Custom_Option_Live3d_Info,Aktifkan/nonaktifkan dan atur kualitas 3D Live.<br>Perubahan akan diterapkan pada live berikutnya.
+Custom_Option_Live3d_Enable,Putar Live 3D
+Custom_Option_Live3d_Quality,Pengaturan Kualitas
+Custom_Sifas_Live3d_Toggle,Live 3D
+Custom_Sifas_3dMv_Cycle,Ganti
+Custom_Option_Keyboard_Title,Pengaturan Keyboard
+Custom_Option_Keyboard_Info,Pilih lane dan tekan tombol (tekan Esc untuk membatalkan)
+Custom_Option_Keyboard_Lane,Larik {0}
+Custom_Option_Keyboard_Listening,Tekan input untuk Lane {0}... Batalkan dengan Esc.
+Custom_Option_Keyboard_Waiting,Menunggu Input
+Custom_Option_Keyboard_None,Tidak ada
+Custom_Option_Keyboard_Back,Kembali / Jeda
+Custom_Option_Keyboard_BackListening,Tekan tombol Kembali / Jeda.
+Custom_Option_Download_Title,Pengaturan Unduh
+Custom_Option_Download_Info,Unduh lagu sebelumnya untuk menghilangkan waktu tunggu saat memulai Live.
+Custom_Option_Download_Used,Kapasitas yang digunakan: {0} ({1} dapat dihapus)
+Custom_Option_Download_UsedNone,Kapasitas yang digunakan: —
+Custom_Option_Download_Calculating,Kapasitas: Menghitung...
+Custom_Option_Download_Deleting,Menggunakan kapasitas: Menghapus...
+Custom_Option_Download_AllSongs,Unduh Semua Lagu
+Custom_Option_Download_AllMv,Unduh Semua Live 3D
+Custom_Option_Download_ClearCache,Hapus Cache
+Custom_Option_Visual_Title,Pengaturan Visual
+Custom_Option_Visual_Info,Pilih preset kualitas visual atau sesuaikan setiap item secara terpisah<br>Perubahan akan diterapkan mulai dari Live berikutnya.
+Custom_Option_Visual_Preset,Preset
+Custom_Option_Visual_Custom,Kustom
+Custom_Option_Visual_CustomInfo,Menggunakan pengaturan khusus (akan diterapkan mulai Live berikutnya)
+Custom_Option_Visual_GroupDisplay,Tampilkan
+Custom_Option_Visual_GroupLighting,Pencahayaan
+Custom_Option_Visual_GroupStage,Tahap
+Custom_Option_Visual_GroupEffect,Efek
+Custom_Option_Visual_GroupPhysics,Fisika
+Custom_Option_Visual_Resolution,Resolusi
+Custom_Option_Visual_Fps,FPS
+Custom_Option_Visual_Aa,Anti-aliasing
+Custom_Option_Visual_BaseLight,Lampu Dasar
+Custom_Option_Visual_Ambient,Lampu Ambient
+Custom_Option_Visual_RimLight,Rim Light
+Custom_Option_Visual_SpotLight,Spotlight
+Custom_Option_Visual_Emissive,Emisi
+Custom_Option_Visual_Display,Tampilan Panggung
+Custom_Option_Visual_StageFx,Efek Panggung
+Custom_Option_Visual_Audience,Penonton
+Custom_Option_Visual_Cubemap,Refleksi
+Custom_Option_Visual_PostEffect,Efek Pasca-proses
+Custom_Option_Visual_SwingBone,Goyang
+Custom_Option_Keyboard_TabTitle,Pengaturan Keyboard
+Custom_Option_Download_TabTitle,Pengaturan Unduh
+Custom_Option_Visual_TabTitle,Pengaturan Visual
+Custom_Option_Download_StoryMovies,Unduh Semua Video Cerita
+Custom_Option_Download_CardArt,Unduh Semua Ilustrasi Kartu
+Custom_Sifas_MvDeck_Header,Pengaturan Susun Tim MV
+Custom_Sifas_MvDeck_Entry,Pengaturan Kostum
+Custom_Sifas_MvDeck_UseDefault,Gunakan Susun Tim Default
+Custom_Sifas_MvDeck_UseDeck,Gunakan Susun Tim
+Custom_Sifas_MvDeck_Reset,Reset
+Custom_Sifas_MvDeck_Save,Simpan
+Custom_Sifas_MvDeck_PickMember,Pilih Anggota
+Custom_Sifas_MvDeck_PickSuit,Pilih Kostum
+Custom_Sifas_MvDeck_DefaultSuit,Kostum Default
+Custom_Sifas_MvDeck_RinaBoard,Hapus Rina Board
+Custom_Sifas_MvDeck_InFormation,(Menyusun Tim)
+Custom_Sifas_MvDeck_PickGroup,Pilih Grup
+Custom_Sifas_MvDeck_Back,Kembali
+Custom_Sifas_MvDeck_CustomGroup,Kustom
+Custom_Sifas_MvDeck_Import,Impor
+Custom_Sifas_MvDeck_DeleteMode,Mode Hapus
+Custom_Sifas_MvDeck_DeleteModeExit,Keluar dari Mode Hapus
+Custom_Sifas_MvDeck_DeletePrefix,Hapus:
+Custom_Sifas_MvDeck_ImportDone,Impor Selesai
+Custom_Sifas_MvDeck_ImportFailed,Impor Gagal
+Custom_Sifas_MvDeck_ImportDropHint,Letakkan file zip di folder Impor.
+Custom_Sifas_MvDeck_ImportBatch,Impor dari Folder
+Custom_Sifas_MvDeck_ImportBatchResult,Hasil Impor Batch
+Custom_Sifas_MvDeck_ImportBatchKept,Gagal hapus file asli.
+Custom_Sifas_MvDeck_ImportUnsupported,Pemilihan file tidak didukung di lingkungan ini.
+Custom_Sifas_MvDeck_ImportStageDonor,Memuat model donor...
+Custom_Sifas_MvDeck_ImportStageConform,Mengonversi model...
+Custom_Sifas_MvDeck_ImportStageBake,Membuat tekstur...
+Custom_Sifas_MvDeck_ImportStageRegister,Mendaftarkan...
+Custom_Sifas_MvDeck_ImportErrDonor,Model donor belum diunduh (Unduh 3D Live sekali)
+Custom_Sifas_MvDeck_ImportErrVerify,Gagal membuat model (lihat log pemain).
+Custom_Option_Live_Sif1SwipeMode,Mode Gesek SIF1
+Custom_CardDetail_FriendshipPlaceholder,Persahabatan??? Belum diterapkan
+Custom_CardDetail_EvolveTentative,Bangkitkan (Sementara): {0}
+Custom_CardDetail_TitlePlaceholder,Mahkota! Belum diimplementasikan
+Custom_CardDetail_SchoolYear,Tahun ke-{0}
+Custom_PurchaseAlert_UnitTenThousand,Wan
+Custom_PurchaseAlert_UnitThousand,Ribu
+Custom_PurchaseAlert_LimitMessage,Bulan ini Anda akan melebihi batas {0}. Lanjutkan pembelian?
+Custom_SerialCode_Copied,Kode serial disalin.
+Custom_SystemDialog_ErrorTitle,Error
+Custom_SystemDialog_ErrorMessage,Terjadi kesalahan.
+Custom_ServerConfig_Title,Pengaturan Server
+Custom_ServerConfig_ApiUrl,URL Server API
+Custom_ServerConfig_CdnUrl,URL Server CDN Aset
+Custom_ServerConfig_ResetToDefault,Kembalikan ke Default
+Custom_ServerConfig_Save,Simpan
+Custom_ServerConfig_UsingCustom,Menggunakan Pengaturan Kustom
+Custom_ServerConfig_Saved,Telah disimpan. Perubahan akan diterapkan saat Anda kembali ke layar judul.
+Custom_ServerConfig_ConfirmChangeTitle,Konfirmasi Perubahan Server
+Custom_ServerConfig_ConfirmChangeMessage,Mengubah server akan menghapus semua data akun (data simpanan dan informasi autentikasi) yang tersimpan di perangkat ini. <br> Aset yang sudah diunduh tidak akan dihapus. <br> <br> Apakah Anda yakin?
+Custom_ServerConfig_ConfirmResetMessage,"Mengembalikan ke pengaturan awal akan mengubah server yang terhubung, sehingga semua data akun (data simpanan dan informasi autentikasi) untuk server saat ini yang disimpan di perangkat ini akan dihapus. <br>Aset yang sudah diunduh tidak akan dihapus. <br><br>Apakah Anda yakin?"
+Custom_ServerConfig_SaveCancelled,Pembatalan Penyimpanan.
+Custom_ServerConfig_ClearingAccount,Menghapus data akun...
+Custom_ServerConfig_ChangedTitle,Server telah diubah.
+Custom_ServerConfig_ChangedRestartMessage,Pengaturan disimpan dan data akun dihapus.<br>Restart aplikasi.
+Custom_ServerConfig_ResetDone,Pengaturan telah dikembalikan ke default.
+Custom_ServerConfig_ResetCancelled,Perubahan ke pengaturan awal dibatalkan.
+Custom_ServerConfig_Placeholder,Belum diatur
+Custom_Gacha_BonusSuffix,Bonus!
+Custom_Common_ErrorCode,Kode Error: {0}
+Custom_Common_None,Tidak ada
+Custom_Exchange_TypeNone,Tidak ditentukan
+Custom_Exchange_TypePhotoSticker,Foto Stiker
+Custom_Exchange_TypePick,Pilih
+Custom_Exchange_TypeTicket,Tiket
+Custom_Notification_ChannelDescription,Notifikasi
+Custom_Login_TransferTitle,Transfer Data
+Custom_Login_TransferConfirmMessage,"Perangkat telah berubah, apakah Anda ingin melanjutkan dengan perangkat ini?"
+Custom_Login_TransferFailedMessage,"Gagal, gunakan kode transfer."
+Custom_Reward_StaminaName,Nama Hadiah Stamina
+Custom_Adventure_TabMain,Utama
+Custom_Adventure_TabSub,Sub
+Custom_Adventure_TabEvent,Event
+Custom_Adventure_TabTutorial,Tutorial
+Custom_PassContents_FreeGems,Gem Gratis
+Custom_Sifas_MvDeck_ImportBatchHeader,Berhasil {0} / {1}
+Custom_SpineViewer_Empty,KOSONG
+Arcade_Input_Info,Select a row then press a key or button (Esc to cancel)
+Arcade_Input_ListeningKey,{0} - press a key… (Esc to cancel)
+Arcade_Input_ListeningPad,{0} - press a gamepad button… (Esc to cancel)
+Arcade_Input_ListeningNoEscape,{0} - press a key
+Arcade_Input_SlotKeyboard,Keyboard
+Arcade_Input_SlotGamepad,Gamepad
+Arcade_Input_Decision,Decision
+Arcade_Input_Cancel,Cancel / Back / Pause
+Arcade_Input_Select,Select
+Arcade_Input_Test,Test
+Arcade_Input_Service,Service
+Arcade_Input_Coin,Coin
+Arcade_Hud_Credit,CREDIT {0}
+Arcade_Hud_FreePlay,FREE PLAY
+Arcade_Monitor_TestMode,TEST MODE
+Arcade_Monitor_TestPattern,TEST PATTERN
+Arcade_Title_MenuEntry,Arcade Mode
+Arcade_Enter_NameTitle,Machine Name
+Arcade_Enter_NameMessage,Enter a name for this cabinet.
+Arcade_Enter_NameNote,It is shown in the server's machine list.
+Arcade_Enter_NamePlaceholder,Machine name
+Arcade_Enter_DefaultName,Arcade Cabinet
+Arcade_Enter_ErrorDisabled,This server does not support arcade mode.
+Arcade_Enter_ErrorRegister,Failed to register this arcade cabinet.
+Arcade_TestMode_Title,TEST MODE
+Arcade_TestMode_Back,Back
+Arcade_TestMode_TabSystem,System
+Arcade_TestMode_TabCredits,Credits
+Arcade_TestMode_TabInput,Input
+Arcade_TestMode_TabMonitor,Monitor
+Arcade_TestMode_SystemHeader,System Information
+Arcade_TestMode_ClientVersion,Client Version
+Arcade_TestMode_AssetVersion,Asset Version
+Arcade_TestMode_MachineName,Machine Name
+Arcade_TestMode_MachineId,Machine ID
+Arcade_TestMode_ServerIdentifier,Server
+Arcade_TestMode_RegisteredAt,Registered
+Arcade_TestMode_Credits,Credits
+Arcade_TestMode_ServiceCredits,Service Credits
+Arcade_TestMode_ServerSettings,Server Settings
+Arcade_TestMode_BookkeepingHeader,Bookkeeping
+Arcade_TestMode_TotalCoins,Total Coins
+Arcade_TestMode_TotalService,Service Credits Given
+Arcade_TestMode_Plays,Plays
+Arcade_TestMode_Songs,Songs Played
+Arcade_TestMode_Aborts,Aborts
+Arcade_TestMode_SinceReset,Counting Since
+Arcade_TestMode_LastReset,Last Reset
+Arcade_TestMode_ResetBookkeeping,Reset Bookkeeping
+Arcade_TestMode_ExitArcade,Exit Arcade Mode
+Arcade_TestMode_CreditsHeader,Credit Settings
+Arcade_TestMode_FreePlay,Free Play
+Arcade_TestMode_CoinsPerCredit,Coins per Credit
+Arcade_TestMode_CreditsPerPlay,Credits per Play
+Arcade_TestMode_SongsPerCredit,Songs per Credit
+Arcade_TestMode_ShowCreditHud,Show Credit Counter
+Arcade_TestMode_InputHeader,Input Settings
+Arcade_TestMode_InputConfig,Button Assignment
+Arcade_TestMode_InputTestLanes,Rhythm Buttons
+Arcade_TestMode_InputTestActions,Control Buttons
+Arcade_TestMode_ActionDecision,DEC
+Arcade_TestMode_ActionCancel,CAN
+Arcade_TestMode_ActionSelect,SEL
+Arcade_TestMode_ActionTest,TST
+Arcade_TestMode_ActionService,SVC
+Arcade_TestMode_ActionCoin,COIN
+Arcade_TestMode_MonitorHeader,Monitor Settings
+Arcade_TestMode_SubMonitorEnabled,Use Second Monitor
+Arcade_TestMode_DisplayIndex,Display Index
+Arcade_TestMode_DisplayIndexNote,Display index changes take effect after a restart.
+Arcade_TestMode_TestPattern,Show Test Pattern
+Arcade_TestMode_NoSecondDisplay,No second display detected
+Arcade_TestMode_SecondDisplayReady,Second display active
+Arcade_Session_GetReady,GET READY
+Arcade_Session_Songs,This credit plays {0} songs
+Arcade_Session_Connecting,Connecting...
+Arcade_Session_ErrorDisabled,The server could not start a session.
+Arcade_Session_NotCleared,NO CLEAR
+Arcade_Session_Thanks,THANK YOU FOR PLAYING
+Arcade_Session_SeeYouAgain,See you again
+Arcade_Confirm_TimerRemaining,Remaining
+Arcade_Confirm_TimerSuffix,sec
+Arcade_Monitor_GetReady,GET READY
+Arcade_Monitor_SongCount,SONG {0}/{1}
+Arcade_Monitor_Level,Lv.{0}
+Arcade_Monitor_Result,RESULT
+Arcade_Select_SongLabel,SONG
+Arcade_Select_Locked,This song is not unlocked yet.
+Arcade_Select_LevelCapped,This machine only goes up to {0}.
+Arcade_Attract_InsertCoin,INSERT COIN
+Arcade_Attract_PressStart,PRESS DECISION
+Arcade_TestMode_TabGame,Game
+Arcade_TestMode_TabSound,Sound
+Arcade_TestMode_TabContent,Content
+Arcade_TestMode_TabBookkeeping,Bookkeeping
+Arcade_TestMode_SessionState,Session State
+Arcade_TestMode_SessionIdle,Idle
+Arcade_TestMode_InputLocks,Input Locks
+Arcade_TestMode_EditMachineName,Change Machine Name
+Arcade_TestMode_GameHeader,Game Settings
+Arcade_TestMode_DifficultyCap,Difficulty Cap
+Arcade_TestMode_SelectTimeout,Song Select Timeout (sec)
+Arcade_TestMode_DeckTimeout,Deck Confirm Timeout (sec)
+Arcade_TestMode_ResultTimeout,Result Auto-Advance (sec)
+Arcade_TestMode_ClosingTimeout,Closing Screen Time (sec)
+Arcade_TestMode_DialogTimeout,Idle Dialog Limit (sec)
+Arcade_TestMode_AttractHeader,Attract Settings
+Arcade_TestMode_TitleCardSeconds,Title Card Time (sec)
+Arcade_TestMode_DemoSelectSeconds,Demo Song Select Time (sec)
+Arcade_TestMode_DemoClipSeconds,Demo Live Length (sec)
+Arcade_TestMode_DemoSongsHeader,Demo Songs
+Arcade_TestMode_SoundHeader,Sound Settings
+Arcade_TestMode_BgmVolume,BGM Volume
+Arcade_TestMode_SeVolume,SE Volume
+Arcade_TestMode_VoiceVolume,Voice Volume
+Arcade_TestMode_AttractVolume,Attract Volume (%)
+Arcade_TestMode_AttractVolumeNote,Scales the BGM down to this percentage while attract runs. Applies from the next attract loop.
+Arcade_TestMode_SeTest,SE Test
+Arcade_TestMode_ContentHeader,Content
+Arcade_TestMode_PrefetchState,Background Prefetch
+Arcade_TestMode_PrefetchRunning,RUNNING   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchIdle,IDLE   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchNote,New assets are fetched in the background every session.
+Arcade_TestMode_DownloadAll,Download Everything Now
+Arcade_TestMode_DownloadAllNote,Downloads every category. The cabinet returns to the attract screen when it finishes.
+Arcade_TestMode_ClearCache,Clear Cache
+Arcade_TestMode_ClearCacheNote,Deletes the downloaded files and then reboots the cabinet automatically.
+Arcade_TestMode_PlayHourHeader,By Hour
+Arcade_TestMode_HourLabel,{0}:00
+Arcade_TestMode_PlayWeekDayHeader,By Weekday
+Arcade_TestMode_WeekDay0,Sunday
+Arcade_TestMode_WeekDay1,Monday
+Arcade_TestMode_WeekDay2,Tuesday
+Arcade_TestMode_WeekDay3,Wednesday
+Arcade_TestMode_WeekDay4,Thursday
+Arcade_TestMode_WeekDay5,Friday
+Arcade_TestMode_WeekDay6,Saturday
+Arcade_Input_SlotHeaderIo,CABINET
+Arcade_Input_IoNote,Cabinet I/O board buttons. ENTER is the service-panel decide button.
+Arcade_Input_ListeningIo,{0} - press a cabinet button… (Esc to cancel)
+Arcade_Card_ButtonNewPlayer,NEW PLAYER
+Arcade_Card_ButtonTakeOver,TRANSFER DATA
+Arcade_TestMode_TabLed,LED
+Arcade_TestMode_BoardHeader,I/O Board
+Arcade_TestMode_BoardLink,Link
+Arcade_TestMode_BoardLinkIdle,not present
+Arcade_TestMode_BoardLinkOpening,opening
+Arcade_TestMode_BoardLinkRunning,running
+Arcade_TestMode_BoardLinkDeviceLost,device lost
+Arcade_TestMode_BoardLinkVersionRefused,version refused
+Arcade_TestMode_BoardReconnects,reconnects {0}
+Arcade_TestMode_BoardId,Device
+Arcade_TestMode_BoardRaw,Input Bytes
+Arcade_TestMode_BoardDoors,Door switches and the service-panel ENTER button. A lit door indicator means OPEN.
+Arcade_TestMode_BoardCoin,Coin Counter
+Arcade_TestMode_BoardCoinValues,count {0}   request {1}   ack {2}
+Arcade_TestMode_BoardCoinFault,FAULT
+Arcade_TestMode_BoardReader,Card Reader Lit
+Arcade_TestMode_BoardScan,Card Scan
+Arcade_TestMode_BoardCard,Card Status
+Arcade_TestMode_BoardCardId,Card ID
+Arcade_TestMode_BoardCardUid,Card UID
+Arcade_TestMode_CardStateNone,no card
+Arcade_TestMode_CardStateWaiting,waiting for card
+Arcade_TestMode_CardStateDetecting,detecting
+Arcade_TestMode_CardStateOk,read OK
+Arcade_TestMode_CardStateWrongType,unsupported card type
+Arcade_TestMode_CardStateAbsent,card absent or aborted
+Arcade_TestMode_CardStateReaderError,reader error
+Arcade_TestMode_CardScanTest,Card Scan Test
+Arcade_TestMode_CardReaderTest,Card Reader Lamp Test
+Arcade_TestMode_StateOn,ON
+Arcade_TestMode_StateOff,OFF
+Arcade_TestMode_EmulatorPath,Emulator DLL
+Arcade_TestMode_EmulatorPathNone,(not set)
+Arcade_TestMode_EmulatorPathEdit,Set Emulator DLL Path
+Arcade_TestMode_EmulatorPathNote,Loads a winusb.dll shim instead of a board for bench testing. Blank clears it. Applied when Test Mode is closed.
+Arcade_TestMode_LedHeader,LED Test
+Arcade_TestMode_LedAll,All Outputs On
+Arcade_TestMode_LedRed,Pillars Red
+Arcade_TestMode_LedGreen,Pillars Green
+Arcade_TestMode_LedBlue,Pillars Blue
+Arcade_TestMode_LedPillar0,Pillar 1 White
+Arcade_TestMode_LedPillar1,Pillar 2 White
+Arcade_TestMode_LedPillar2,Pillar 3 White
+Arcade_TestMode_LedLamps,All Button Lamps
+Arcade_TestMode_LedLamp,Lamp
+Arcade_TestMode_LedLampConfirm,CONFIRM
+Arcade_TestMode_LedBrightness,Lamp Brightness
+Arcade_TestMode_LedBrightnessOff,OFF
+Arcade_TestMode_LedBrightnessDim,0x20
+Arcade_TestMode_LedBrightnessFull,0xFF
+Arcade_TestMode_LedPillarColor,Pillar Colour
+Arcade_TestMode_LedCoinCoil,Coin Accept Coil
+Arcade_TestMode_LedOut,Output Bytes
+Arcade_TestMode_LedDescAll,Lights every pillar and every button lamp at full.
+Arcade_TestMode_LedDescRed,Sets all three pillars to red.
+Arcade_TestMode_LedDescGreen,Sets all three pillars to green.
+Arcade_TestMode_LedDescBlue,Sets all three pillars to blue.
+Arcade_TestMode_LedDescPillar0,Lights pillar 1 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar1,Lights pillar 2 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar2,Lights pillar 3 white. The three pillar rows combine.
+Arcade_TestMode_LedDescLamps,Lights the nine button lamps and the confirm lamp at full.
+Arcade_TestMode_LedDescLamp,Picks the lamp the brightness row forces. 10 is the confirm lamp.
+Arcade_TestMode_LedDescBrightness,Forces the selected lamp to one of the board's three brightnesses. OFF leaves it to the rows above.
+Arcade_TestMode_LedDescPillarColor,The machine's own pillar colour. Used on the entrance and through a credit.
+Arcade_TestMode_LedDescCoinCoil,Forces the coin-accept coil while this page is open.
+Arcade_TestMode_MaxCredits,Credit Limit
+Arcade_TestMode_DemoBandsNote,The attract demo draws from the groups switched on.
+Arcade_TestMode_DemoIncludeCustomSongs,Include Custom Songs
+Arcade_Attract_NesicaUnavailable,NESiCA cannot be used right now
+Arcade_Attract_NesicaTap,Tap your NESiCA card
+Arcade_TestMode_DoorLeft,DR1
+Arcade_TestMode_DoorRight,DR2
+Arcade_TestMode_Enter,ENT
+Arcade_TestMode_WinUsbModule,Loaded winusb.dll
+Arcade_TestMode_WinUsbModuleNone,(not loaded yet)
+Arcade_TestMode_WinUsbOpenerFound,UsbioEmu_OpenBoard found
+Arcade_TestMode_WinUsbOpenerMissing,no UsbioEmu_OpenBoard export
+Arcade_TestMode_ShowAttractBanner,Show NESiCA Banner
+Arcade_TestMode_DemoRequire3dLive,Demo Lands on 3D Lives Only
+Arcade_TestMode_DemoRequire3dLiveNote,Switch on to have the demo song select stop only on songs with a 3D live.
+Arcade_Input_Reset,Reset (hold 1 s)
+Arcade_Input_ResetChord,TEST+SERVICE
+Arcade_TestMode_AccountHeader,Account Lock
+Arcade_TestMode_LockedAccount,Locked Account
+Arcade_TestMode_NotLocked,Not locked
+Arcade_TestMode_LockPending,Pending first credit
+Arcade_TestMode_LockedAccountFormat,{0}  (card ...{1})
+Arcade_TestMode_LockAccount,Lock to Account...
+Arcade_TestMode_UnlockAccount,Unlock Account
+Arcade_Session_ErrorOwnerGone,The account this device was locked to no longer exists.<br>The account lock has been removed.
+Arcade_TestMode_DemoWashPercent,Demo Live Wash (%)

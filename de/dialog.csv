@@ -1,0 +1,675 @@
+﻿_key,_text
+mst.dialog.ErrorStay._title,Fehler
+mst.dialog.ErrorStay._message,Ein Fehler ist aufgetreten <br> <br> {0}.
+mst.dialog.ErrorTitle._title,Fehler
+mst.dialog.ErrorTitle._message,Ein Fehler ist aufgetreten. Wir kehren zum Titelbildschirm zurück. <br> <br> <br> {0}
+mst.dialog.NetworkError_Retry._title,Netzwerkfehler
+mst.dialog.NetworkError_Retry._message,Die Verbindung konnte nicht hergestellt werden.<br>Bitte versuchen Sie es erneut an einem Ort mit besserem Empfang.
+mst.dialog.NetworkError_Title._title,Netzwerkfehler
+mst.dialog.NetworkError_Title._message,Während der Kommunikation ist ein Fehler aufgetreten. Wir kehren zum Titelbildschirm zurück <br> <br> <br> {0}.
+mst.dialog.NetworkError_ResourceUpdated._title,Netzwerkfehler
+mst.dialog.NetworkError_ResourceUpdated._message,Daten müssen aktualisiert werden<br>Wir kehren zum Titelbildschirm zurück.
+mst.dialog.NetworkError_NotReachable_Retry._title,Netzwerkfehler
+mst.dialog.NetworkError_NotReachable_Retry._message,Die Verbindung ist fehlgeschlagen.<br>Bitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.
+mst.dialog.ApplicationQuitConfirm._title,Bestätigen
+mst.dialog.ApplicationQuitConfirm._message,Spiel beenden?<br>Wirklich?
+mst.dialog.AreaUnlock._title,Bereich freigeschaltet
+mst.dialog.AreaUnlock._message,Ein neues Gebiet wurde freigeschaltet! {0}<br>
+mst.dialog.AreaUnlockDetail_StoryRead._title,Freischaltbedingungen
+mst.dialog.AreaUnlockDetail_StoryRead._message,Durch das Ansehen von <br> {0} <br> wird es freigeschaltet.
+mst.dialog.AreaUnlockDetail_UserRank._title,Freischaltbedingungen
+mst.dialog.AreaUnlockDetail_UserRank._message,Spielerrang {0} oder höher <br> erforderlich.
+mst.dialog.ChatTalkSkip._title,Überspringen
+mst.dialog.ChatTalkSkip._message,Möchten Sie dieses Gespräch überspringen und beenden?
+mst.dialog.Chat_EncountStoryPlayback._title,Begegnungsgeschichte abspielen
+mst.dialog.Chat_EncountStoryPlayback._message,Die Begegnungsgeschichte von {0} wird abgespielt.
+mst.dialog.OrnamentLevelRelease._title,Ausrüstungslevel-Limit freigeschaltet
+mst.dialog.OrnamentLevelRelease._message,{0} kann jetzt bis Stufe {1} aufgewertet werden! <br>
+mst.dialog.DeckNameChangeSuccess._title,Einheit umbenannt
+mst.dialog.DeckNameChangeSuccess._message,Die Änderung des Unit-Namens ist abgeschlossen.
+mst.dialog.DeckNameChangeEmpty._title,Eingabefehler
+mst.dialog.DeckNameChangeEmpty._message,Bitte geben Sie mindestens ein Zeichen ein.
+mst.dialog.DeckNameChangeNg._title,Fehler
+mst.dialog.DeckNameChangeNg._message,Die Eingabe enthält unangemessene Wörter.<br>Bitte erneut eingeben.
+mst.dialog.MainDeckChangeSuccess._title,Haupt-Unit geändert
+mst.dialog.MainDeckChangeSuccess._message,Haupt-Einheit geändert.
+mst.dialog.PracticeConfirm._title,Bestätigen
+mst.dialog.PracticeConfirm._message,Möchten Sie das ausgewählte Übungsbuch mit <br> und {0} G verstärken? <br>
+mst.dialog.SkillPracticeConfirmByItem._title,Bestätigen
+mst.dialog.SkillPracticeConfirmByItem._message,Möchten Sie das ausgewählte Skillbuch und <br>{0} G zum Verbessern verwenden? <br>
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._title,Bestätigen
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._message,Möchten Sie diese Idol für das Erwecken verwenden? <br> Oder möchten Sie sie nicht mehr als Material auswählen und stattdessen zum Erwecken gehen? <br>
+mst.dialog.SkillPracticeConfirmByPhoto._title,Bestätigen
+mst.dialog.SkillPracticeConfirmByPhoto._message,Das ausgewählte Idol wird aus der Umkleide entfernt <br> und ist nicht mehr verfügbar <br>. Möchten Sie trotzdem die Fähigkeit verbessern? <br> Hinweis: Das Idol verschwindet nicht aus der Idoll-Liste.
+mst.dialog.TrainingConfirm._title,Bestätigen
+mst.dialog.TrainingConfirm._message,Das Erwecken wird mit dem ausgewählten Leuchtstab durchgeführt.<br>Ist das in Ordnung?
+mst.dialog.StaminaChargeConfirm._title,LP wiederherstellen
+mst.dialog.StaminaChargeConfirm._message,Möchtest du deine LP um <br> <br> auffüllen?
+mst.dialog.StaminaChargeSuccess._title,LP wiederherstellen
+mst.dialog.StaminaChargeSuccess._message,LP wurde um {0} wiederhergestellt!
+mst.dialog.StaminaChargeOver._title,LP-Wiederherstellungsgrenze
+mst.dialog.StaminaChargeOver._message,"Da die LP bereits das Maximum erreicht haben, kann keine weitere Wiederherstellung durchgeführt werden. <br><br>"
+mst.dialog.ShopBuySuccess._title,Artikel gekauft
+mst.dialog.ShopBuySuccess._message,Du hast {0} gekauft!
+mst.dialog.GachaExec._title,Bestätigen
+mst.dialog.GachaExec._message,"Möchten Sie {0} gegen {1} eintauschen, um {2} zu erhalten? <br>"
+mst.dialog.GachaLackMedal._title,{0} fehlt
+mst.dialog.GachaLackMedal._message,{0} ist nicht ausreichend. Möchten Sie Loveca kaufen?
+mst.dialog.GachaLackItem._title,{0} fehlt
+mst.dialog.GachaLackItem._message,Es fehlen {0}.
+mst.dialog.GachaResultGetBonus._title,Bonus erhalten
+mst.dialog.GachaResultGetBonus._message,Rekrutieren erfolgreich!
+mst.dialog.GachaResultGetMovie._title,Idol erhalten
+mst.dialog.GachaErrorExpired._title,Fehler
+mst.dialog.GachaErrorExpired._message,Die Gültigkeitsdauer ist abgelaufen.
+mst.dialog.GachaTicketExpired._title,Fehler
+mst.dialog.GachaTicketExpired._message,Das von Ihnen verwendete Ticket ist abgelaufen.
+mst.dialog.GachaSelectedExpired._title,Veranstaltung beendet
+mst.dialog.GachaSelectedExpired._message,Dieses Event ist beendet.
+mst.dialog.DeckResetConfirm._title,Zurücksetzen?
+mst.dialog.DeckResetConfirm._message,Das aktuell ausgewählte Team wird zurückgesetzt.<br>Sind Sie sicher?
+mst.dialog.RecommendSuccess._title,Empfohlene Einheit
+mst.dialog.RecommendSuccess._message,Empfohlene Aufstellung erstellt.
+mst.dialog.NoticePlayerRankUp._title,Rang erhöht
+mst.dialog.NoticePlayerRankUp._message,LP wurde um {0} erhöht.
+mst.dialog.NoticePlayerRankAndFriendMaxUp._title,Rang erhöht
+mst.dialog.NoticePlayerRankAndFriendMaxUp._message,"LP wurde um {0} erhöht, die maximale Freundesanzahl wurde erhöht. <br> → {1} {2}"
+mst.dialog.NoticeGroupRankUp._title,Gruppen-Rangaufstieg
+mst.dialog.NoticeGroupRankMax._title,Gruppen-Rangaufstieg
+mst.dialog.NoticeGroupRankMax._message,Die Gruppen-Rangstufe hat das Maximum erreicht <color=#D73C55> <b> </b> </color>.
+mst.dialog.DeckMemberChangeConfirm._title,Austauschen bestätigen
+mst.dialog.DeckMemberChangeConfirm._message,Die gleichen Mitglieder sind bereits in der Aufstellung vorhanden. <br> Möchten Sie die aktuelle Aufstellung «{0}» durch diese ersetzen? <br>
+mst.dialog.StoryRelease._title,Story freigeschaltet
+mst.dialog.StoryRelease._message,{0} wurde freigeschaltet. {1}
+mst.dialog.FriendSearchError._title,Suchfehler
+mst.dialog.FriendSearchError._message,"Kein Spieler gefunden <br>. Entweder die eingegebene ID ist falsch, oder <br> die Freundschaftsanfrage wurde von der anderen Seite abgelehnt <br>."
+mst.dialog.FriendDeleteConfirm._title,Bestätigen
+mst.dialog.FriendDeleteConfirm._message,Möchtest du diesen Freund entfernen?
+mst.dialog.FriendDeleteSuccess._title,Freundschaft gelöscht
+mst.dialog.FriendDeleteSuccess._message,Freund wurde entfernt.
+mst.dialog.FriendDeleteError._title,Freundschaft löschen fehlgeschlagen
+mst.dialog.FriendDeleteError._message,Freundschaft konnte nicht gelöscht werden.
+mst.dialog.FriendRequestCancelConfirm._title,Bestätigen
+mst.dialog.FriendRequestCancelConfirm._message,Möchten Sie diese Freundschaftsanfrage widerrufen?
+mst.dialog.FriendRequestCancelSuccess._title,Freundschaftsanfrage wurde abgebrochen.
+mst.dialog.FriendRequestCancelSuccess._message,Freundschaftsanfrage wurde abgebrochen.
+mst.dialog.FriendRequestCancelError._title,Freundschaftsanfrage fehlgeschlagen
+mst.dialog.FriendRequestCancelError._message,Freundschaftsanfrage konnte nicht abgebrochen werden.
+mst.dialog.FriendPendingConfirm._title,Bestätigen
+mst.dialog.FriendPendingConfirm._message,Freundschaftsanfrage bestätigen.<br>Ist das in Ordnung?
+mst.dialog.FriendPendingSuccess._title,Freundschaftsanfrage akzeptiert
+mst.dialog.FriendPendingSuccess._message,Freundschaftsanfrage wurde akzeptiert.
+mst.dialog.FriendPendingError._title,Freundschaftsanfrage fehlgeschlagen
+mst.dialog.FriendPendingError._message,Freundschaftsanfrage konnte nicht akzeptiert werden.
+mst.dialog.FriendRejectConfirm._title,Bestätigen
+mst.dialog.FriendRejectConfirm._message,Möchten Sie diese Freundschaftsanfrage ablehnen?
+mst.dialog.FriendRejectSuccess._title,Freundschaftsanfrage abgelehnt.
+mst.dialog.FriendRejectSuccess._message,Freundschaftsanfrage abgelehnt.
+mst.dialog.FriendRejectError._title,Freundschafts-
+mst.dialog.FriendRejectError._message,Freundschaftsanfrage konnte nicht abgelehnt werden.
+mst.dialog.FriendRequestSuccess._title,Freundschaftsanfrage gesendet
+mst.dialog.FriendRequestSuccess._message,Freundschaftsanfrage gesendet.
+mst.dialog.FriendRequestError._title,Freundschaftsanfrage fehlgeschlagen
+mst.dialog.FriendRequestError._message,Freundschaftsanfrage fehlgeschlagen.
+mst.dialog.FriendCanNotRequest._title,Anfrage nicht möglich
+mst.dialog.FriendCanNotRequest._message,Der Spieler hat Freundschaftsanfragen deaktiviert.<br>
+mst.dialog.OptionSettingChangeCancelConfirm._title,Bestätigen
+mst.dialog.OptionSettingChangeCancelConfirm._message,"Möchten Sie die Option ändern, <br>oder zu den vorherigen Einstellungen zurückkehren?"
+mst.dialog.OptionTestLivePauseDialog._title,Pausiert
+mst.dialog.OptionTestLivePauseDialog._message,Test-Live unterbrechen und <br>zu den Optionen zurückkehren?
+mst.dialog.LiveContinue._title,Live fortsetzen
+mst.dialog.LiveContinue._message,"Möchten Sie {0} Loveca verbrauchen, um <br> HP wiederherzustellen und das Live fortzusetzen? <br> *Es werden zunächst die kostenlosen Loveca verwendet.* <br> <br> Loveca {1} → {2}"
+mst.dialog.LiveContinueGemShortage._title,Loveca-Mangel
+mst.dialog.LiveContinueGemShortage._message,ラブカが足りないため、<br>ライブを再開することができません
+mst.dialog.LiveFailure._title,Live fehlgeschlagen
+mst.dialog.LiveFailure._message,"Die HP sind aufgebraucht. Durch den Verbrauch von {0} Loveca kann die HP vollständig wiederhergestellt und das Spiel fortgesetzt werden. (<br>, <br>)"
+mst.dialog.LivePause._title,Pause
+mst.dialog.LivePause._message,Möchten Sie das Live-Event unterbrechen und zum Songauswahlbildschirm zurückkehren? <br> ※Bei Unterbrechung werden keine LP verbraucht.
+mst.dialog.LiveRetireConfirm._title,Live unterbrechen
+mst.dialog.LiveRetireConfirm._message,"Wenn du das Live abbrichst, erhältst du <br> keine Live-Belohnung <br>. Ist das in Ordnung? <br> ※In diesem Fall wird kein LP verbraucht."
+mst.dialog.LiveRestartConfirm._title,Neustart
+mst.dialog.LiveRestartConfirm._message,"Möchten Sie wirklich neu starten <br>? <br> Beachten Sie, dass LP und Skip-Tickets verbraucht werden."
+mst.dialog.TeacherPointDetail._title,Was ist der Highscore-Rang?
+mst.dialog.TeacherPointDetail._message,"Die Highscore-Rangliste wird anhand deiner <br>Highscores in den Lives berechnet. Um einen hohen <br>Score zu erreichen, versuche, deine <br>Idols zu verbessern! <br>"
+mst.dialog.GemPackBuyComplete._title,Kauf abgeschlossen
+mst.dialog.GemPackBuyComplete._message,Du hast {0} gekauft.
+mst.dialog.GemBuyCancel._title,Abbrechen
+mst.dialog.GemBuyCancel._message,Kauf wurde storniert.
+mst.dialog.GemBuyComplete._title,Kauf abgeschlossen
+mst.dialog.GemBuyComplete._message,Du hast {0} gekauft.
+mst.dialog.GemBuyStamina._title,Bestätigen
+mst.dialog.GemBuyStamina._message,"{0} verbraucht {1}, um <br> LP um {3} zu erhöhen. Ist das in Ordnung? <br>"
+mst.dialog.GemBuyItem._title,Bestätigen
+mst.dialog.GemBuyItem._message,"{0} verbraucht {1}, um <br> LP um {3} zu erhöhen. Ist das in Ordnung? <br>"
+mst.dialog.GemBuyItemPack._title,Bestätigen
+mst.dialog.GemBuyItemPack._message,"{0} wird für {1} verwendet, um es zu kaufen. Ist das in Ordnung? <br>"
+mst.dialog.GemInsufficientMedal._title,Loveca-Bestand niedrig
+mst.dialog.GemInsufficientMedal._message,Nicht genügend Loveca vorhanden.
+mst.dialog.GemAgeError._title,Fehler
+mst.dialog.GemAgeError._message,Geburtsdatum ist ungültig.
+mst.dialog.GemAgeComplete._title,Eingabe abgeschlossen
+mst.dialog.GemAgeComplete._message,Wir haben Ihr Alter bestätigt <br> {0}.
+mst.dialog.GemAgeConfirm._title,Bestätigen
+mst.dialog.GemAgeConfirm._message,"Möchten Sie das Alter wirklich festlegen? Einmal festgelegt, kann es nicht mehr geändert werden, bis die App deinstalliert wird."
+mst.dialog.GemAskToBuy._title,Bestätigen
+mst.dialog.GemAskToBuy._message,"Um die App-Währung zu kaufen, benötigen wir die Zustimmung eines Erziehungsberechtigten (<br>). Haben Sie diese bereits eingeholt (<br>)?"
+mst.dialog.GemBuyLimitError._title,Nutzungslimit
+mst.dialog.GemBuyLimitError._message,"Das monatliche Limit für Käufe wurde überschritten, daher ist ein Kauf nicht möglich <br>{0}."
+mst.dialog.GemBuyLimitAlert._title,Bestätigen
+mst.dialog.GemBuyLimitAlert._message,Möchten Sie {0} <br> kaufen?
+mst.dialog.GemBuyLimitAlertConfirm._title,Kauf Limit überschritten
+mst.dialog.GemBuyLimitAlertConfirm._message,"Der monatliche Kaufbetrag übersteigt 100.000 Yen <br> Möchten Sie den Kauf fortsetzen? <br> <br> Wenn Sie die Warnung deaktivieren möchten, können Sie dies in den folgenden Einstellungen ändern: <br> <color=#D73C55> Einstellungen > Systemeinstellungen > Alarmeinstellungen > Nutzungslimitalarm </color>"
+mst.dialog.GemBuyError._title,Fehler
+mst.dialog.GemBuyError._message,Kauf fehlgeschlagen.
+mst.dialog.GemShopError._title,Fehler
+mst.dialog.GemShopError._message,Shop-Information konnte nicht abgerufen werden.
+mst.dialog.GemShopTicketInfo._message,"▼Wichtige Hinweise <color=#D73C55>※Bitte lesen!※</color><br>※Gekaufte Loveca werden direkt deinem Loveca-Bestand hinzugefügt.<br>※Andere Gegenstände werden als Geschenk versendet.<br>※An Tagen, an denen du dich nicht einloggst, erhältst du keine Loveca.<br>※Der Login-Bonus wird bei der Anmeldung vergeben und deinem Loveca-Bestand hinzugefügt.<br>※Der Login-Bonus kann ab dem Tag nach dem Kauf um 0:00 Uhr abgeholt werden.<br>※Der Login-Bonus ist eine kostenlose Loveca.<br>※Ab dem Tag nach dem Kauf für {1} Tage erhältst du als Login-Bonus Loveca, nämlich {2}.<br><br>▼Inhalt des Sets<br>{3}<br>Loveca {4}x{5} Tage, insgesamt {6}<br><br>Preis: {7}"
+mst.dialog.GemBuyErrorExpired._title,Verkaufszeitraum abgelaufen
+mst.dialog.GemBuyErrorExpired._message,"Der Verkaufszeitraum ist abgelaufen, daher kann nicht gekauft werden."
+mst.dialog.SingleReward_OrnamentGet._title,Item erhalten
+mst.dialog.SingleReward_OrnamentGetTeaSet._title,Dekoration freischalten
+mst.dialog.SingleReward_OrnamentGetTeaSet._message,Erhalten!<br>Du kannst es jetzt im Lager ändern.
+mst.dialog.SingleReward_OrnamentLevelUp._title,Belohnung erhalten
+mst.dialog.SingleReward_OrnamentLevelUp._message,Levelaufstieg abgeschlossen!
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._title,Belohnung erhalten
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._message,Levelaufstieg abgeschlossen!
+mst.dialog.SingleReward_OrnamentRelease._title,Item freischalten
+mst.dialog.SingleReward_OrnamentRelease._message,ist im Custom Shop erhältlich.
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._title,Dekoration freischalten
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._message,Im Shop von {0} ist jetzt <br> {1} erhältlich!
+mst.dialog.SingleReward_CommonDirectly._title,Belohnung erhalten
+mst.dialog.SingleReward_CommonDirectly._message,Erhalten!
+mst.dialog.SingleReward_CommonPresentBox._title,Belohnung erhalten
+mst.dialog.SingleReward_CommonPresentBox._message,Die <color=#C12424>Belohnung</color> kann im Geschenkbereich abgeholt werden.
+mst.dialog.SingleReward_CommonView._title,Erfolgs-Belohnung
+mst.dialog.SingleReward_EventDirectly._title,Belohnung erhalten
+mst.dialog.SingleReward_EventDirectly._message,Du hast die kumulative Belohnung für {0} erhalten!
+mst.dialog.SingleReward_EventPresentBox._title,Belohnung erhalten
+mst.dialog.SingleReward_EventPresentBox._message,Du kannst die <color=#C12424>kumulative {0}Belohnung jetzt im Geschenk abholen! </color>
+mst.dialog.SingleReward_Costume._title,Kostüm erhalten
+mst.dialog.SingleReward_Costume._message,Ein neues Kostüm wurde erhalten!
+mst.dialog.SingleReward_Music._title,Musik freigeschaltet
+mst.dialog.SingleReward_Music._message,Ein neues Lied wurde freigeschaltet!
+mst.dialog.SingleReward_Title._title,Titel erhalten
+mst.dialog.SingleReward_Title._message,Du hast einen Titel erhalten!
+mst.dialog.SingleReward_IntoPresentBox._title,Besitzlimit
+mst.dialog.SingleReward_IntoPresentBox._message,"<color=#C12424>Kapazitätsgrenze erreicht, daher in die Geschenkbox verschoben</color>"
+mst.dialog.MultiReward_CommonDirectly._title,Belohnung erhalten
+mst.dialog.MultiReward_CommonDirectly._message,Erhalten!
+mst.dialog.MultiReward_CommonPresentBox._title,Belohnung erhalten
+mst.dialog.MultiReward_CommonPresentBox._message,Die <color=#C12424>Belohnung</color> kann im Geschenkbereich abgeholt werden.
+mst.dialog.MultiReward_EventDirectly._title,Belohnung erhalten
+mst.dialog.MultiReward_EventDirectly._message,Du hast die kumulative Belohnung für {0} erhalten!
+mst.dialog.MultiReward_EventPresentBox._title,Belohnung erhalten
+mst.dialog.MultiReward_EventPresentBox._message,Du kannst die <color=#C12424>kumulative {0}Belohnung jetzt im Geschenk abholen! </color>
+mst.dialog.MultiReward_CommonView._title,Erfolgs-Belohnung
+mst.dialog.MultiReward_IntoPresentBox._title,Besitzlimit
+mst.dialog.MultiReward_IntoPresentBox._message,"<color=#C12424>Kapazitätsgrenze erreicht, daher in die Geschenkbox verschoben</color>"
+mst.dialog.Multi_Private_MasterRoomLeave._title,Live beenden
+mst.dialog.Multi_Private_MasterRoomLeave._message,{0} hat das Live beendet. Zurück zur Live-Auswahl. <br>
+mst.dialog.LiveResult_ContinueMultiRoom._title,Fortsetzen bestätigen
+mst.dialog.LiveResult_ContinueMultiRoom._message,Möchten Sie noch einmal an demselben Live-Event teilnehmen?
+mst.dialog.LoginBonus_Check._title,Datum aktualisiert
+mst.dialog.LoginBonus_Check._message,Das Datum wurde aktualisiert.<br>Bitte erneut anmelden.
+mst.dialog.LoginBonus_Common._title,Login-Bonus
+mst.dialog.LoginBonus_Common._message,"Du erhältst {0} × {1} <br> <color=#D73C55> Belohnung, die du im Geschenkbereich abholen kannst. </color>"
+mst.dialog.LoginBonus_Multi._title,Login-Bonus
+mst.dialog.LoginBonus_Multi._message,"Du erhältst {0} × {1} <br> <color=#D73C55> Belohnung, die du im Geschenkbereich abholen kannst. </color>"
+mst.dialog.MultiRoomType._title,Live-Belohnung
+mst.dialog.MultiRoomType._message,"In „Tages“-Lives kannst du jeden Tag leichter eine bestimmte Belohnung erhalten <br>. ※In normalen Lives erhältst du die üblichen Belohnungen <br>. <br>Montag: Belohnung A <br>Dienstag: Belohnung B <br>Mittwoch: Belohnung C <br>Donnerstag: Belohnung D <br>Freitag: Belohnung E <br>Samstag: Belohnung F <br>Sonntag: Belohnung G <br>. <br>※Die Menge der erhaltenen Gegenstände wurde für alle Gegenstände außer denjenigen, die von der erhöhten Belohnung profitieren, angepasst."
+mst.dialog.VoiceDownloadConfirm._title,Voice-Download
+mst.dialog.VoiceDownloadConfirm._message,Möchten Sie die Sprachdateien (außer den Story-Voices) <br> vorab herunterladen? <br> <br> <color=#D73C55> Dateigröße: <br> {0:0.00} MB <br> <br> Wir empfehlen das Herunterladen in einer Wi-Fi-Umgebung. <br> </color>
+mst.dialog.LiveProductionDownloadConfirm._title,Live-Mitglieder-Animationen herunterladen
+mst.dialog.LiveProductionDownloadConfirm._message,"Möchten Sie die für die Live-Performance benötigten Daten <br> im Voraus herunterladen? <br> Dadurch kann die Ladezeit vor Beginn der Live-Performance <br> verkürzt werden. <br> <br> <color=#D73C55> Downloadgröße: <br> {0:0.00} MB <br> <br> Es wird empfohlen, den Download in einer Wi-Fi-Umgebung durchzuführen. <br> </color>"
+mst.dialog.GameLibErrorCode_1._title,Fehler
+mst.dialog.GameLibErrorCode_1._message,Die eingegebenen Argumente sind ungültig <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_14._title,Fehler
+mst.dialog.GameLibErrorCode_14._message,Der Benutzer ist deaktiviert <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_20._title,Fehler
+mst.dialog.GameLibErrorCode_20._message,Kann aufgrund eines bereits verknüpften Geräts nicht verwendet werden <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_1000._title,Fehler
+mst.dialog.GameLibErrorCode_1000._message,Es ist ein Kommunikationsfehler aufgetreten <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_17219._title,Fehler
+mst.dialog.GameLibErrorCode_17219._message,Wird bereits bearbeitet. <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_10001._title,Fehler
+mst.dialog.GameLibErrorCode_10001._message,Die eingegebenen Argumente sind ungültig <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_10006._title,Fehler
+mst.dialog.GameLibErrorCode_10006._message,Das Bezahlsystem ist gerade nicht verfügbar <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_10007._title,Fehler
+mst.dialog.GameLibErrorCode_10007._message,Der Benutzer ist deaktiviert <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_7002._title,Fehler
+mst.dialog.GameLibErrorCode_7002._message,Kein Übergangscode registriert. <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_7003._title,Fehler
+mst.dialog.GameLibErrorCode_7003._message,Das Übergabepasswort wurde nicht registriert. <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_7004._title,Fehler
+mst.dialog.GameLibErrorCode_7004._message,Die Überprüfung des Wiederherstellungscodes und des Passworts ist fehlgeschlagen. <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_7005._title,Fehler
+mst.dialog.GameLibErrorCode_7005._message,Die Anzahl der fehlgeschlagenen Versuche zur Überprüfung des Übergabecodes und des Passworts hat das Limit erreicht. <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_7012._title,Fehler
+mst.dialog.GameLibErrorCode_7012._message,Benutzername oder Passwort stimmen nicht überein <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_7013._title,Fehler
+mst.dialog.GameLibErrorCode_7013._message,Die maximale Anzahl an fehlgeschlagenen Versuchen zur Kontoverifizierung wurde erreicht. <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_8004._title,Fehler
+mst.dialog.GameLibErrorCode_8004._message,Die Datenübertragung ist gesperrt. <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_8022._title,Fehler
+mst.dialog.GameLibErrorCode_8022._message,Das Kontoformat ist ungültig <br>. Fehlercode: {0}
+mst.dialog.GameLibErrorCode_16002._title,Fehler
+mst.dialog.GameLibErrorCode_16002._message,"Kauf nicht möglich, da das Limit überschritten wurde <br> Fehlercode: {0}"
+mst.dialog.GameLibErrorCode_16005._title,Fehler
+mst.dialog.GameLibErrorCode_16005._message,"Loveca-Guthaben überschritten, Kauf nicht möglich <br> Fehlercode: {0}"
+mst.dialog.GameLibErrorCode_16007._title,Fehler
+mst.dialog.GameLibErrorCode_16007._message,Nicht unterstütztes Land oder Währung <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_16008._title,Fehler
+mst.dialog.GameLibErrorCode_16008._message,"Tickets können nicht gekauft werden, da bereits Tickets mit denselben Vorteilen gültig sind. <br> Fehlercode: {0}"
+mst.dialog.GameLibErrorCode_16009._title,Fehler
+mst.dialog.GameLibErrorCode_16009._message,"Der Gesamtzeitraum der Gültigkeit Ihrer Tickets würde 180 Tage überschreiten, daher ist ein Kauf nicht möglich. <br> Fehlercode: {0}"
+mst.dialog.GameLibErrorCode_17002._title,Fehler
+mst.dialog.GameLibErrorCode_17002._message,Dieses Loveca wurde bereits vergeben. <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_17007._title,Fehler
+mst.dialog.GameLibErrorCode_17007._message,Dieses In-App-Kauf benötigt noch die Genehmigung des Elternteils.<br>Fehlercode: {0}
+mst.dialog.GameLibErrorCode_17100._title,Fehler
+mst.dialog.GameLibErrorCode_17100._message,Die Zahlung wurde storniert <br>. Fehlercode: {0}
+mst.dialog.GameLibErrorCode_17214._title,Fehler
+mst.dialog.GameLibErrorCode_17214._message,Die Abrechnungsfunktion des Geräts kann nicht verwendet werden <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_20001._title,Fehler
+mst.dialog.GameLibErrorCode_20001._message,Das angegebene Alter stimmt nicht mit dem Geburtstag überein <br> Fehlercode: {0}
+mst.dialog.GameLibErrorCode_21001._title,Fehler
+mst.dialog.GameLibErrorCode_21001._message,Das angegebene Alter stimmt nicht mit dem Geburtstag überein <br> Fehlercode: {0}
+mst.dialog.CanNotAutoPlayWithoutStamina._title,LP fehlt
+mst.dialog.CanNotAutoPlayWithoutStamina._message,"LP ist auf 0, daher ist die automatische Wiedergabe nicht möglich.<br>"
+mst.dialog.Migration_CheckDeviceChanged._title,Geräteübertragung
+mst.dialog.Migration_CheckDeviceChanged._message,"Das Gerät wurde geändert. <br> Möchten Sie die Spieldaten wiederherstellen? <br> <br> *Wenn die Spieldaten auf diesem Gerät wiederhergestellt werden, können Sie das Spiel nicht mehr auf dem alten Gerät spielen. <br>"
+mst.dialog.Migration_ErrorRegisterNewDevice._title,Fehler
+mst.dialog.Migration_ErrorRegisterNewDevice._message,Die Wiederherstellung der Spieldaten ist fehlgeschlagen. <br> Versuchen Sie die Datenübertragung mit Ihrer ID und Ihrem Passwort. <br>
+mst.dialog.Migration_IdCopy._title,Kopieren abgeschlossen
+mst.dialog.Migration_IdCopy._message,Übertragungs-ID wurde kopiert.
+mst.dialog.Migration_Complet._title,Datenübertragung abgeschlossen
+mst.dialog.Migration_Complet._message,Die Spieldaten wurden übertragen.<br>Viel Spaß weiterhin mit „School Idol Festival 2“!
+mst.dialog.Migration_Completed._title,Datenübertragung abgeschlossen
+mst.dialog.Migration_Completed._message,"Die Spieldaten dieses Geräts wurden bereits auf ein anderes Gerät übertragen <br> Möchten Sie das Spiel von Anfang an starten? <br> <br> Wenn Sie keine Datenübertragung vorgenommen haben, wählen Sie bitte „Abbrechen“ und wenden Sie sich unter „TITELBILDSCHIRM“ > „MENÜ“ > „HILFE“ an den Support. <br> <br>"
+mst.dialog.Migration_RetryPassword._title,Eingabefehler
+mst.dialog.Migration_RetryPassword._message,Übertragungs-ID oder<br>Passwort sind falsch.
+mst.dialog.Migration_InputPasswordError._title,Eingabefehler
+mst.dialog.Migration_InputPasswordError._message,Das Passwort muss zwischen 8 und 32 Zeichen lang sein und darf nur aus halbschriftlichen Buchstaben und Zahlen bestehen.<br>
+mst.dialog.Error_Maintenance._title,Wartung läuft
+mst.dialog.Error_Maintenance._message,"Die Wartungsdauer kann sich ohne vorherige Ankündigung ändern, bitte beachten Sie dies. {0} Die aktuellsten Informationen finden Sie auf der offiziellen Webseite. <br> <br> <br> <br> <br> <br> <u> <link={1}> <color=blue> Offizielle Webseite </color> </link> </u>"
+mst.dialog.Error_ResultCodeMaintenance._title,Wartung läuft
+mst.dialog.Error_Game_Version_Updated._title,Update erforderlich
+mst.dialog.Error_Game_Version_Updated._message,Eine App-Aktualisierung ist erforderlich.<br>Bitte installieren Sie die neueste Version aus dem Store.
+mst.dialog.Tutorial_CardSelectConfirm._title,Bestätigen
+mst.dialog.Tutorial_CardSelectConfirm._message,Ist das mit {0}★{1} in Ordnung? <br><br>※Dies kann später nicht mehr geändert werden.
+mst.dialog.Tutorial_DeleteGameDataConfirm._title,Datenlöschung bestätigen
+mst.dialog.Tutorial_DeleteGameDataConfirm._message,"Möchten Sie die Spieldaten löschen und das Spiel im ursprünglichen Zustand neu starten? <br> Bitte beachten Sie, dass gelöschte Spieldaten nicht wiederhergestellt werden können. <br> <br> Möchten Sie wirklich die Spieldaten löschen? <br>"
+mst.dialog.Tutorial_DeleteGameDataReconfirm._title,Datenlöschung – Letzte Bestätigung
+mst.dialog.Tutorial_DeleteGameDataReconfirm._message,Die gelöschten Spieldaten können nicht wiederhergestellt werden <br><br> Möchten Sie wirklich die Spieldaten löschen?
+mst.dialog.Tutorial_DeleteGameDataComplete._title,Datenlöschung abgeschlossen
+mst.dialog.Tutorial_DeleteGameDataComplete._message,Die Löschung der Spieldaten ist abgeschlossen.
+mst.dialog.Tutorial_SkipFirstHalf._title,Bestätigen
+mst.dialog.Tutorial_SkipFirstHalf._message,"Möchten Sie den ersten Teil der Spieleinführung (Tutorial) überspringen? <br> <br> Wenn Sie dies tun, wird das Probe-Live automatisch abgeschlossen."
+mst.dialog.Tutorial_SkipLatterHalf._title,Bestätigen
+mst.dialog.Tutorial_SkipLatterHalf._message,Möchten Sie auch den zweiten Teil der Spielanleitung (Tutorial) überspringen?
+mst.dialog.DownloadConfirm._title,Herunterladen bestätigen
+mst.dialog.DownloadConfirm._message,<color=#D73C55>{0} MB</color> an Daten herunterladen. <br>Bestätigen? <br><br>※ Je nach Netzwerk kann dies länger dauern. <br><br><color=#D73C55>Wir empfehlen den Download über WLAN. </color>
+mst.dialog.DownloadNotEnoughFreeSpace._title,Nicht genügend Speicherplatz
+mst.dialog.DownloadNotEnoughFreeSpace._message,Auf Ihrem Gerät ist nicht genügend Speicherplatz verfügbar. <br> Bitte schaffen Sie mehr Speicherplatz und versuchen Sie es erneut. <br>
+mst.dialog.GooglePlayLogined._title,Bestätigen
+mst.dialog.GooglePlayLogined._message,Du bist bereits bei Google Play angemeldet.
+mst.dialog.AdditionalDownloadConfirm._title,Zusätzlicher Download bestätigen
+mst.dialog.AdditionalDownloadConfirm._message,Zusätzliche Daten werden heruntergeladen <br> <br> <color=#D73C55> Downloadgröße: {0:0.00} MB <br> <br> ※Wir empfehlen den Download in einer Wi-Fi-Umgebung <br> </color>
+mst.dialog.SongCacheClearConfirm._title,Cache leeren?
+mst.dialog.SongCacheClearConfirm._message,Heruntergeladene Songs werden gelöscht.<br>Ist das in Ordnung?
+mst.dialog.StoryDownloadConfirm._title,Sprachwiedergabe
+mst.dialog.StoryDownloadConfirm._message,Möchten Sie die Sprachdaten herunterladen und <br> die Geschichte abspielen? <br> <br> <color=#D73C55> Downloadgröße: {0:0.00} MB <br> <br> ※Wir empfehlen den Download in einer Wi-Fi-Umgebung <br> </color>
+mst.dialog.AdditionalMovieDownloadConfirm._title,Daten herunterladen
+mst.dialog.AdditionalMovieDownloadConfirm._message,"Das Video wird heruntergeladen <br><br><color=#D73C55>Downloadgröße: {0:0.00} MB <br><br>Es wird empfohlen, es in einer <br>WLAN-Umgebung herunterzuladen </color>"
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._title,Daten herunterladen
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._message,"Videos werden in einem Rutsch heruntergeladen <br><br><color=#D73C55>Downloadgröße: {0:0.00} MB </color><br><br>Hinweis: Auch wenn Sie „Abbrechen“ wählen, können die Videos einzeln heruntergeladen werden <br>Hinweis: Später können Sie sie auch über die Option „Alle herunterladen“ in den Storys herunterladen <br>Hinweis: Da die Datenmenge groß ist, führen Sie dies bitte in einer Umgebung mit guter Netzwerkverbindung durch <br><color=#D73C55>Hinweis: Wir empfehlen das Herunterladen im WLAN </color>"
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._title,Daten herunterladen
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._message,"Videos werden in einem Rutsch heruntergeladen <br><br><color=#D73C55>Downloadgröße: {0:0.00} MB </color><br><br>Hinweis: Auch wenn Sie abbrechen, können die Videos einzeln heruntergeladen werden <br>Hinweis: Später können sie auch über „Alle herunterladen“ in der Sammlung heruntergeladen werden <br>Hinweis: Da die Datenmenge groß ist, führen Sie dies bitte an einem Ort mit guter Netzwerkverbindung aus <br><color=#D73C55>Hinweis: Wir empfehlen das Herunterladen im WLAN </color>"
+mst.dialog.NoNeedAdditionalMovieDownload._title,Daten herunterladen
+mst.dialog.NoNeedAdditionalMovieDownload._message,Es gibt keine weiteren Daten zum Herunterladen.
+mst.dialog.DownloadComplete_Restart._title,Bestätigen
+mst.dialog.DownloadComplete_Restart._message,Die Daten wurden heruntergeladen.<br>Starte die App neu.
+mst.dialog.AlbumDownloadNoticeOnce._title,Bestätigen
+mst.dialog.AlbumDownloadNoticeOnce._message,"Beim Anzeigen des Erinnerungsalbums werden Bilddaten heruntergeladen.<br>Bitte stellen Sie sicher, dass genügend freier Speicherplatz auf Ihrem Gerät vorhanden ist."
+mst.dialog.PresentBox_ReceiveSingleSuccess._title,Erfolg!
+mst.dialog.PresentBox_ReceiveSingleSuccess._message,Du hast ein Geschenk erhalten!
+mst.dialog.PresentBox_ReceiveMultiSuccess._title,Erfolg!
+mst.dialog.PresentBox_ReceiveMultiSuccess._message,Du hast ein Geschenk erhalten!
+mst.dialog.PresentBox_ReceiveSingleFailure._title,Besitzlimit
+mst.dialog.PresentBox_ReceiveSingleFailure._message,Die maximale Anzahl ist bereits erreicht.
+mst.dialog.PresentBox_ReceiveMultiFailure._title,Besitzlimit
+mst.dialog.PresentBox_ReceiveMultiFailure._message,Die maximale Anzahl ist bereits erreicht.
+mst.dialog.PresentBox_ReceiveOutOfTerm._title,Zeitraum abgelaufen
+mst.dialog.PresentBox_ReceiveOutOfTerm._message,"Die Frist ist abgelaufen, daher kann es nicht erhalten werden."
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._title,Zeitraum abgelaufen
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._message,"Die Frist ist abgelaufen, daher kann es nicht erhalten werden."
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._title,Zeitraum abgelaufen
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._message,"Die Frist ist abgelaufen, daher kann es nicht erhalten werden."
+mst.dialog.PresentBox_ReceiveSingleExpireReward._title,Gültigkeit abgelaufen
+mst.dialog.PresentBox_ReceiveSingleExpireReward._message,"Die Gültigkeitsdauer ist abgelaufen, daher kann es nicht erhalten werden."
+mst.dialog.PresentBox_ReceiveMultiExpireReward._title,Gültigkeit abgelaufen
+mst.dialog.PresentBox_ReceiveMultiExpireReward._message,"Die Gültigkeitsdauer ist abgelaufen, daher kann es nicht erhalten werden."
+mst.dialog.Multi_StampReset._title,Stempel zurücksetzen
+mst.dialog.Multi_StampReset._message,Möchten Sie alle aktuell eingestellten Stempel entfernen?
+mst.dialog.Multi_PrivateRoom_Done._title,Live-Erstellung fehlgeschlagen
+mst.dialog.Multi_PrivateRoom_Done._message,Es existiert bereits ein Live-Auftritt mit derselben ID. Bitte erstellen Sie einen neuen Live-Auftritt.
+mst.dialog.Multi_Room_Failed._title,Live-Erstellung fehlgeschlagen
+mst.dialog.Multi_Room_Failed._message,Live konnte nicht erstellt werden.
+mst.dialog.Multi_Disconnect_Scene_2._title,Bestätigen
+mst.dialog.Multi_Disconnect_Scene_2._message,Die Verbindung wurde unterbrochen.<br>Das Koop-Live wird beendet und du wirst zum Startbildschirm zurückgebracht.
+mst.dialog.Multi_Disconnect_Warning._title,Bestätigen
+mst.dialog.Multi_Disconnect_Warning._message,Die Verbindung wurde unterbrochen.<br>Das Koop-Live wird beendet und du wirst zum Startbildschirm zurückgebracht.
+mst.dialog.Multi_Result_Playing_Caution._title,Bestätigen
+mst.dialog.Multi_Result_Playing_Caution._message,"Wenn es zu wenige PERFEKT- und GUT-Bewertungen gibt, sinkt die Anzahl der erhaltenen Eventpunkte.<br>Wähle einen Schwierigkeitsgrad, der deinem Können entspricht."
+mst.dialog.Function_Lock_Multi._title,Bestätigen
+mst.dialog.Function_Lock_Multi._message,"Bei der Kooperations-Live-Performance wurde ein Verhalten festgestellt, das andere Spieler stört. <br> Daher wird die Funktion vorübergehend eingeschränkt. <br> Bitte warten Sie, bis die Einschränkung aufgehoben wird."
+mst.dialog.NgWord._title,Fehler
+mst.dialog.NgWord._message,Der Text enthält unangemessene Wörter.<br>Bitte erneut eingeben.
+mst.dialog.AndroidPermission._title,Berechtigungen prüfen
+mst.dialog.AndroidPermission._message,"Um spielen zu können, erlauben Sie bitte die Nutzung des Speichers."
+mst.dialog.AndroidPermissionDetail._title,Berechtigungen prüfen
+mst.dialog.AndroidPermissionDetail._message,"Um das Spiel zu starten, erlaube bitte den Zugriff auf den Speicher.<br>Öffne die App-Details."
+mst.dialog.Adventure_Skip._title,Überspringen
+mst.dialog.Adventure_Skip._message,Möchten Sie diese Geschichte überspringen und beenden?
+mst.dialog.DeviceCompromised._title,Fehler
+mst.dialog.DeviceCompromised._message,Das Gerät ist gerootet und kann daher nicht verwendet werden.
+mst.dialog.CanNotMainDeckReset._title,Nicht zurücksetzbar
+mst.dialog.CanNotMainDeckReset._message,Haupt-Unit kann nicht <br>zurückgesetzt werden.
+mst.dialog.CanNotAutoPlayNotClear._title,Automatisch abspielen nicht möglich
+mst.dialog.CanNotAutoPlayNotClear._message,"Da du den Live-Auftritt nicht abgeschlossen hast, ist das Überspringen nicht möglich.<br>"
+mst.dialog.Error_Friend_Max_Self._title,Freundeslimit
+mst.dialog.Error_Friend_Max_Self._message,"Es wurden bereits die maximale Anzahl an Freunden hinzugefügt <br> Bitte entferne einen anderen Freund, um Platz für <br> zu schaffen."
+mst.dialog.Error_Friend_Max_Other._title,Freundeslimit
+mst.dialog.Error_Friend_Max_Other._message,Die Anzahl der Freunde des anderen Spielers hat das Limit erreicht.
+mst.dialog.Error_Friend_Request_Max_Self._title,Freundschaftsanfrage nicht möglich
+mst.dialog.Error_Friend_Request_Max_Self._message,"Du hast das maximale Limit an Freundschaftsanfragen erreicht, daher konnte <br><br> nicht gesendet werden."
+mst.dialog.Error_Friend_Request_Max_Other._title,Freundschaftsanfrage nicht möglich
+mst.dialog.Error_Friend_Request_Max_Other._message,Es sind keine weiteren Freundschaftsanfragen möglich.
+mst.dialog.Error_Friend_Pending_Max_Self._title,Freundschaftsanfrage nicht möglich
+mst.dialog.Error_Friend_Pending_Max_Self._message,Du hast die maximale Anzahl an ausstehenden Freundschaftsanfragen erreicht.
+mst.dialog.Error_Friend_Pending_Max_Other._title,Freundschaftsanfrage nicht möglich
+mst.dialog.Error_Friend_Pending_Max_Other._message,Keine weiteren Anfragen möglich.
+mst.dialog.Error_Friend_Already_Request._title,Freundschaftsanfrage nicht möglich
+mst.dialog.Error_Friend_Already_Request._message,Freundschaftsanfrage kann nicht erneut gesendet werden.
+mst.dialog.Error_Friend_Already_Pending._title,Freundschaftsanfrage nicht möglich
+mst.dialog.Error_Friend_Already_Pending._message,Es ist bereits eine Freundschaftsanfrage von diesem Benutzer ausstehend.
+mst.dialog.Error_Friend_Already_Friend._title,Freundschaftsanfrage nicht möglich
+mst.dialog.Error_Friend_Already_Friend._message,Ihr seid bereits Freunde.
+mst.dialog.Error_Friend_Request_Reject._title,Freundschaftsanfrage nicht möglich
+mst.dialog.Error_Friend_Request_Reject._message,"Die Person hat die Freundschaftsanfrage abgelehnt, daher konnte sie nicht gesendet werden. <br><br><br><br>"
+mst.dialog.PrivateEnter_NotJoin._title,Live-Teilnahme fehlgeschlagen
+mst.dialog.PrivateEnter_NotJoin._message,Live konnte nicht betreten werden.
+mst.dialog.PrivateEnter_HostPreparation._title,Live-Teilnahme fehlgeschlagen
+mst.dialog.PrivateEnter_HostPreparation._message,"Der Host-Spieler bereitet sich vor, daher können Sie nicht am Live-Event teilnehmen."
+mst.dialog.PrivateEnter_NotCondition._title,Live-Teilnahme fehlgeschlagen
+mst.dialog.PrivateEnter_NotCondition._message,Die Teilnahmebedingungen für diesen Live-Auftritt sind nicht erfüllt <br> <br> Teilnahmebedingungen für den Live-Auftritt <br> {0}
+mst.dialog.PrivateEnter_NotRoom._title,Live-ID überprüfen
+mst.dialog.PrivateEnter_NotRoom._message,Keine Live-Veranstaltung mit der eingegebenen ID gefunden.<br>Bitte überprüfen Sie die eingegebene Live-ID.
+mst.dialog.PrivateEnter_NotTotalPower._title,Live-Teilnahme fehlgeschlagen
+mst.dialog.PrivateEnter_NotTotalPower._message,"Die Gesamtstärke der Hauptgruppe ist nicht ausreichend, daher konnte die Teilnahme am Live-Event nicht erfolgen."
+mst.dialog.Photo_Box_Change_Result._title,Austausch abgeschlossen
+mst.dialog.Photo_Box_Change_Result._message,Austausch abgeschlossen.
+mst.dialog.ChipsterErrorCode_0._title,Ladefehler
+mst.dialog.ChipsterErrorCode_0._message,Lesefehler aufgetreten<br>Zurück zum Titelbildschirm.
+mst.dialog.ChipsterErrorCode_100000._title,Netzwerkfehler
+mst.dialog.ChipsterErrorCode_100000._message,Datei konnte nicht geladen werden<br>Zurück zum Titelbildschirm
+mst.dialog.ChipsterErrorCode_100404._title,Netzwerkfehler
+mst.dialog.ChipsterErrorCode_100404._message,Verbindung konnte nicht hergestellt werden<br>Zurück zum Titelbildschirm
+mst.dialog.ChipsterErrorCode_100408._title,Ladefehler
+mst.dialog.ChipsterErrorCode_100408._message,Verbindung fehlgeschlagen.<br>Zurück zum Titelbildschirm.
+mst.dialog.ChipsterErrorCode_100500._title,Ladefehler
+mst.dialog.ChipsterErrorCode_100500._message,Es gibt ein Problem mit der Verbindung.<br>Wir kehren zum Titelbildschirm zurück.
+mst.dialog.ChipsterErrorCode_200000._title,Ladefehler
+mst.dialog.ChipsterErrorCode_200000._message,Daten konnten nicht geladen werden.<br>Zurück zum Titelbildschirm.
+mst.dialog.ChipsterErrorCode_200100._title,Ladefehler
+mst.dialog.ChipsterErrorCode_200100._message,Es gab keine Antwort während der Verbindung.<br>Wir kehren zum Titelbildschirm zurück.
+mst.dialog.ChipsterErrorCode_200200._title,Ladefehler
+mst.dialog.ChipsterErrorCode_200200._message,Daten konnten nicht geladen werden.<br>Zurück zum Titelbildschirm.
+mst.dialog.ChipsterErrorCode_999999._title,Ladefehler
+mst.dialog.ChipsterErrorCode_999999._message,Beim Laden der Daten ist ein Problem aufgetreten.<br>Wir kehren zum Titelbildschirm zurück.
+mst.dialog.Error_Forbidden._title,Fehler
+mst.dialog.Error_Forbidden._message,"Dies ist ein deaktiviertes Konto.<br>Wenn Sie dies nicht selbst veranlasst haben, wenden Sie sich bitte über Titel > Menü > Hilfe > Sonstige Anfragen an den Support."
+mst.dialog.Event_ErrorNotSession._title,Nicht im Veranstaltungszeitraum
+mst.dialog.Event_ErrorNotSession._message,Derzeit findet kein Event statt.
+mst.dialog.Event_ErrorEnded._title,Veranstaltung beendet
+mst.dialog.Event_ErrorEnded._message,Das Event ist beendet.<br>Zurück zur Startseite.
+mst.dialog.Event_ErrorEndedNotPolicy._title,Veranstaltung beendet
+mst.dialog.Event_ErrorEndedNotPolicy._message,"Da Sie den Veranstaltungsbedingungen nicht zugestimmt haben, <br>kann die Veranstaltungsübersicht nicht angezeigt werden."
+mst.dialog.Event_ResultAnnouncement._title,Event-Ergebnis bekannt gegeben
+mst.dialog.Event_ResultAnnouncement._message,"Vielen Dank für Ihre Teilnahme an „{0}“! Wir haben Ihnen <br> als Geschenk und die Ranglistenbelohnung zugesandt. Bitte vergessen Sie nicht, diese anzunehmen. Die Ranglistenergebnisse können auf der Veranstaltungsseite eingesehen werden. <br>"
+mst.dialog.ShopLackMedal._title,{0} fehlt
+mst.dialog.ShopLackMedal._message,{0} ist nicht ausreichend. Möchten Sie Loveca kaufen?
+mst.dialog.Mission_ErrorEnded._title,Nicht im Veranstaltungszeitraum
+mst.dialog.Mission_ErrorEnded._message,Die Aufgabenlaufzeit ist abgelaufen.
+mst.dialog.BoxGacha_NextBoxConfirm._title,Bestätigen
+mst.dialog.BoxGacha_NextBoxConfirm._message,Möchten Sie das aktuelle Paket verwerfen und zum nächsten übergehen <br>? <br> Sind Sie sicher?
+mst.dialog.Error_Gift_Expired._title,Zeitraum abgelaufen
+mst.dialog.Error_Gift_Expired._message,Das Geschenk kann nicht mehr abgeholt werden.
+mst.dialog.Error_Mission_Expired._title,Zeitraum abgelaufen
+mst.dialog.Error_Mission_Expired._message,Die Frist für den Erhalt der Missionsbelohnung ist abgelaufen.<br>Nicht erhaltene Belohnungen werden an Ihren Geschenk-Posteingang gesendet.
+mst.dialog.Error_Item_Expired._title,Abgelaufen
+mst.dialog.Error_Item_Expired._message,Das Ablaufdatum des Items ist überschritten.
+mst.dialog.Function_Lock_Gacha._title,Funktionssperre
+mst.dialog.Function_Lock_Gacha._message,Die Rekrutierungsfunktion ist derzeit <br> eingeschränkt und kann nicht genutzt werden <br>. <br> <br> Geplante Startzeit: {0} <br> Geplante Endzeit: {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.Function_Lock_Shop._title,Funktionssperre
+mst.dialog.Function_Lock_Shop._message,Derzeit ist die Shop-Funktion <br> eingeschränkt und kann nicht genutzt werden <br> <br> <br> Geplante Startzeit: {0} <br> Geplante Endzeit: {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.Function_Lock_Exchange._title,Funktionssperre
+mst.dialog.Function_Lock_Exchange._message,"Derzeit ist die Austauschfunktion <br> eingeschränkt und kann nicht genutzt werden <br> <br>. Beginn: {0}, Ende: {1}. <br> <br> <br> <br> <color=#D73C55> </color>"
+mst.dialog.RecommendConfirm._title,Vorläufige Mitteilung
+mst.dialog.RecommendConfirm._message,Neue Benachrichtigung verfügbar
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._title,Live-Teilnahme fehlgeschlagen
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._message,"Die Teilnahmebedingungen für das Live-Event sind nicht erfüllt, daher kann es nicht gestartet werden <br> <br>Teilnahmebedingungen<br> {0}"
+mst.dialog.Live_BluetoothAudioMode._title,Bluetooth-Modus
+mst.dialog.Live_BluetoothAudioMode._message,Durch die Verbindung von Bluetooth-Kopfhörern wurde der Bluetooth-Modus aktiviert <br> Im Bluetooth-Modus kann es während eines Live-Events zu Verzögerungen bei den Tippgeräuschen kommen <br> ※Es werden angepasste Einstellungen für die Bluetooth-Geräte verwendet.
+mst.dialog.Live_BatteryQuantityCheck._title,Batteriewarnung
+mst.dialog.Live_BatteryQuantityCheck._message,"Der Batteriestand ist niedrig. <br> Der aktuelle Batteriestand beträgt <color=#D73C55> {0} % </color>. <br> Es besteht die Möglichkeit, dass das Live-Spiel aufgrund der vom Gerät gesendeten Benachrichtigung über den niedrigen Batteriestand unterbrochen wird. <br> Wir empfehlen, das Gerät aufzuladen. <br>"
+mst.dialog.MusicVideo_ReleaseCondition._title,MV-Freischaltbedingungen
+mst.dialog.MusicVideo_ReleaseCondition._message,"Wenn du ein Live-Event in einem beliebigen Schwierigkeitsgrad abgeschlossen hast, wird das Musikvideo freigeschaltet."
+mst.dialog.MusicVideo_Pause._title,Pausiert
+mst.dialog.MusicVideo_Pause._message,Möchten Sie das MV abbrechen und zum Menü der Musikauswahl zurückkehren? <br>
+mst.dialog.Adventure_Movie_Skip._title,Pausiert
+mst.dialog.Adventure_Movie_Skip._message,Möchten Sie das Video überspringen?
+mst.dialog.StaminaConfirm._title,LP-Menge bestätigen
+mst.dialog.StaminaConfirm._message,"Aktuell ist die verbleibende LP-Anzahl geringer als der festgelegte Wert <br> Möchten Sie trotzdem ein Live mit der aktuell verfügbaren Menge an LP starten? <br> ※Wenn die verbleibende LP-Anzahl 0 beträgt, wird kein LP verbraucht."
+mst.dialog.AutoBoostConfirm._title,Überspringen bestätigen
+mst.dialog.AutoBoostConfirm._message,Derzeit ist die Anzahl der verbleibenden Skip-Tickets geringer als die eingestellte Menge.<br>Möchten Sie nur die aktuell verfügbare Anzahl verwenden und ein Live-Konzert starten?
+mst.dialog.NoAutoBoostConfirm._title,Überspringen bestätigen
+mst.dialog.NoAutoBoostConfirm._message,"Du hast derzeit keine Skip-Tickets oder das Lied wurde noch nicht freigeschaltet, daher können Skip-Tickets nicht verwendet werden. Möchtest du stattdessen <br>LP verbrauchen und ein Live-Konzert starten?<br>※Wenn deine restlichen LP auf 0 sind, wird kein LP verbraucht."
+mst.dialog.NoAutoBoostForSpiritConfirm._title,Überspringen bestätigen
+mst.dialog.NoAutoBoostForSpiritConfirm._message,"Du hast derzeit keine Skip-Tickets oder das Lied wurde noch nicht freigespielt, daher können Skip-Tickets nicht verwendet werden.<br>Möchtest du ein Miracle Star verbrauchen und einen Live-Auftritt starten?"
+mst.dialog.LiveResultRestartConfirm._title,Neustart bestätigen
+mst.dialog.LiveResultRestartConfirm._message,"Möchten Sie das Live erneut spielen, indem Sie {0} LP verbrauchen?"
+mst.dialog.LiveResultRestartAutoConfirm._title,Neustart bestätigen
+mst.dialog.LiveResultRestartAutoConfirm._message,"Spielst du das Live erneut, indem du {0} Skip-Tickets verbrauchst?"
+mst.dialog.CardMovie_Pause._title,Pausiert
+mst.dialog.CardMovie_Pause._message,Möchten Sie die Wiedergabe unterbrechen und zur Videodetailseite zurückkehren? <br>
+mst.dialog.OrnamentShop_LackGem._title,Loveca-Bestätigung
+mst.dialog.OrnamentShop_LackGem._message,"Loveca ist nicht ausreichend vorhanden, daher kann nicht gekauft werden."
+mst.dialog.OrnamentShop_Lack._title,{0}-Bestätigung
+mst.dialog.OrnamentShop_Lack._message,"Nicht genügend {0}, daher kann nicht gekauft werden."
+mst.dialog.StoryReleaseDetail._title,Freischaltbedingungen
+mst.dialog.StoryPlay._title,Story abspielen
+mst.dialog.StoryPlay._message,"„{0}“ <br> abspielen? Ist das in Ordnung, <br>?"
+mst.dialog.StoryPlayAfterDownload._title,Story abspielen
+mst.dialog.StoryPlayAfterDownload._message,"„{1}"" <br> herunterladen und abspielen?<br><br><color=#D73C55>Downloadgröße: {0:0.00} MB</color><br>Fortfahren?<br><br><color=#D73C55>※Das Herunterladen über ein Wi-Fi-Netzwerk wird empfohlen.<br></color>"
+mst.dialog.EpisodePlay._title,Story abspielen
+mst.dialog.EpisodePlay._message,„{0}“ abspielen? <br> Ist das in Ordnung?
+mst.dialog.Tutorial_GroupSelect._title,Favoritengruppe auswählen
+mst.dialog.Tutorial_GroupSelect._message,"Aus den ausgewählten Gruppen wählst du ein Mitglied aus, dessen höchste Seltenheit „UR“ ist. Du kannst es bei der nächsten Rekrutierung garantiert erhalten <br>. Möchtest du, dass dir diese Gruppe vorgestellt wird <br>?"
+mst.dialog.Tutorial_MemberSelect._title,Mitglied auswählen
+mst.dialog.Tutorial_MemberSelect._message,Du kannst die höchste Rarität „UR“ dieses Mitglieds <br> bei der nächsten Rekrutierung garantiert erhalten <br> . Möchtest du dieses Mitglied auswählen?
+mst.dialog.Tutorial_Movie_Skip._title,Video überspringen?
+mst.dialog.Tutorial_Movie_Skip._message,Möchten Sie das Video überspringen?
+mst.dialog.Tutorial_Live_Skip._title,Live-Überspringen bestätigen
+mst.dialog.Tutorial_Live_Skip._message,Möchten Sie das Live überspringen?
+mst.dialog.Tutorial_GetMember._title,Lieblingsmitglied erhalten
+mst.dialog.Tutorial_GetMember._message,Du hast {0} erhalten. <br> Die als Idol gewonnenen Mitglieder werden dir direkt gutgeschrieben.
+mst.dialog.Tutorial_HomeGacha._title,Tutorial abgeschlossen
+mst.dialog.Tutorial_HomeGacha._message,"Um das Tutorial-Abschluss zu feiern, können Sie 10 Mal kostenlos rekrutieren."
+mst.dialog.Tutorial_Complete._title,Bestätigen
+mst.dialog.Tutorial_Complete._message,Das Tutorial ist abgeschlossen!
+mst.dialog.BandEnrich._title,Bestätigen
+mst.dialog.BandEnrich._message,Möchten Sie die ausgewählten Band-Verstärkungsgegenstände und <br> {0} G zur Verstärkung verwenden? <br>
+mst.dialog.SubTutorial_EndConfirm._title,Bestätigen
+mst.dialog.SubTutorial_EndConfirm._message,Möchten Sie Live spielen?
+mst.dialog.SubTutorial_SkipConfirm._title,Bestätigen
+mst.dialog.SubTutorial_SkipConfirm._message,Überspringen?
+mst.dialog.EmotionalMemberSelect._title,Auswahl läuft [{0}]
+mst.dialog.EmotionalMemberSelect._message,Möchtest du dieses Mitglied auswählen? <br><br> Beachte: Einmal ausgewähltes Lieblingsmitglied kann nicht mehr geändert werden.
+mst.dialog.EmotionalBandSelect._title,Auswahl läuft [{0}]
+mst.dialog.EmotionalBandSelect._message,"Möchten Sie diese Band auswählen? <br> <br> Während des Auswahlzeitraums können Sie die Band beliebig oft ändern. <br> Bitte beachten Sie, dass sich Ihre Eventpunkte (vorläufig) zurücksetzen, wenn Sie die Band ändern. <br> Die vorläufigen Eventpunkte werden ab der endgültigen Bandauswahl angerechnet."
+mst.dialog.ShopAttentionWording._title,Nutzungsbedingungen
+mst.dialog.ShopAttentionWording._message,"Rückgabe nicht möglich.<br>Wenn der Nutzer jünger als 18 Jahre ist, ist die Zustimmung des Erziehungsberechtigten für den Kauf erforderlich."
+mst.dialog.Notice_Movie_Skip._title,Video überspringen?
+mst.dialog.Notice_Movie_Skip._message,Möchten Sie das Video überspringen?
+mst.dialog.GameLibErrorCode_17101._title,Kauf nicht abgeschlossen
+mst.dialog.GameLibErrorCode_17101._message,"Es gibt eine ausstehende Zahlung per Konbini, die nicht abgeschlossen wurde. <br> Bitte schließen Sie die Konbini-Zahlung für die ausstehende Bestellung ab. <br> Alternativ können Sie die ausstehende Bestellung im Google Play Store stornieren. <br> <br> Nachdem die Zahlung abgeschlossen ist, werden die Artikel angezeigt, wenn Sie den Shop erneut öffnen. <br> Fehlercode: {0}"
+mst.dialog.GameLibErrorCode_16010._title,Kauf nicht abgeschlossen
+mst.dialog.GameLibErrorCode_16010._message,"Es gibt eine ausstehende Zahlung per Konbini, die nicht abgeschlossen wurde. <br> Bitte schließen Sie die Konbini-Zahlung für die ausstehende Bestellung ab. <br> Alternativ können Sie die ausstehende Bestellung im Google Play Store stornieren. <br> <br> Nachdem die Zahlung abgeschlossen ist, werden die Artikel angezeigt, wenn Sie den Shop erneut öffnen. <br> Fehlercode: {0}"
+mst.dialog.GachaConfirmFree._title,Bestätigen
+mst.dialog.GachaConfirmFree._message,Möchten Sie {0} für {1} Rekrutierungen nutzen?
+mst.dialog.GachaConfirmFreeDaily._title,Bestätigen
+mst.dialog.GachaConfirmFreeDaily._message,Möchtest du mit {0} {1} Mal rekrutieren? Es wird um <br> Uhr zurückgesetzt.
+mst.dialog.GachaConfirmTutorial._title,Bestätigen
+mst.dialog.GachaConfirmTutorial._message,Möchten Sie {0} für {1} Rekrutierungen nutzen?
+mst.dialog.GameLibErrorCode_1100._title,Konto-Verknüpfung fehlgeschlagen
+mst.dialog.GameLibErrorCode_1100._message,Konto-Verknüpfung fehlgeschlagen.
+mst.dialog.DataTakeOver_SNSSignOutConfirm._title,Verbindung lösen
+mst.dialog.DataTakeOver_SNSSignOutConfirm._message,Möchten Sie die verknüpfte Kontoverbindung aufheben?
+mst.dialog.ChatOpen._title,Chat öffnen!
+mst.dialog.ChatOpen._message,Neue Chatnachricht!<br>Möchtest du sie ansehen?
+mst.dialog.ReturnToTitleConfirm._title,Bestätigen
+mst.dialog.ReturnToTitleConfirm._message,Möchten Sie zum Titelschirm zurückkehren?
+mst.dialog.GoToRehearsalConfirm._title,Rehearsal bestätigen
+mst.dialog.GoToRehearsalConfirm._message,"Bei der Probe wird kein LP verbraucht <br>, aber die Daten wie z. B. die Punktzahl werden bei erfolgreichem Abschluss nicht berücksichtigt <br>. Möchten Sie fortfahren, obwohl Sie keine Belohnung erhalten?"
+mst.dialog.GoToEventRehearsalConfirm._title,Rehearsal bestätigen
+mst.dialog.GoToEventRehearsalConfirm._message,"Bei der Probe wird kein Wunderstern verbraucht <br>, aber beim Abschluss werden keine Daten wie z. B. die Punktzahl berücksichtigt <br> und du erhältst auch keine Belohnung. Ist das in Ordnung?"
+mst.dialog.MigrateError_WrongParam._title,Bestätigen
+mst.dialog.MigrateError_WrongParam._message,"Keine Übertragungsdaten gefunden.<br>Bitte überprüfen Sie, ob die Benutzer-ID und das Passwort korrekt eingegeben wurden."
+mst.dialog.MigrateError_AlreadyCompleted._title,Bestätigen
+mst.dialog.MigrateError_AlreadyCompleted._message,Diese Benutzer-ID hat bereits die Datenmigration abgeschlossen.
+mst.dialog.TermsOfService_UpDate._title,Nutzungsbedingungen aktualisiert
+mst.dialog.TermsOfService_UpDate._message,"Die Nutzungsbedingungen wurden aktualisiert.<br>Um das Spiel weiterzuspielen, müssen Sie den neuen Nutzungsbedingungen erneut zustimmen."
+mst.dialog.Subscription_Restore_Ok._title,Abonnement wiederherstellen
+mst.dialog.Subscription_Restore_Ok._message,Wiederhergestellt.
+mst.dialog.Subscription_Restore_0_Have._title,Abonnement wiederherstellen
+mst.dialog.Subscription_Restore_0_Have._message,Konnte keine bestätigte Kaufhistorie gefunden werden.
+mst.dialog.Subscription_Restore_Error._title,Abonnement wiederherstellen
+mst.dialog.Subscription_Restore_Error._message,Wiederherstellung fehlgeschlagen.
+mst.dialog.GameLibErrorCode_37003._title,Fehler
+mst.dialog.GameLibErrorCode_37003._message,Die maximale Kaufmenge wurde überschritten.
+mst.dialog.GameLibErrorCode_37004._title,Fehler
+mst.dialog.GameLibErrorCode_37004._message,"Der Kauf ist nicht möglich, da das maximale Guthaben überschritten wurde."
+mst.dialog.GameLibErrorCode_37006._title,Fehler
+mst.dialog.GameLibErrorCode_37006._message,Das Abonnement ist bereits aktiv und kann nicht erneut gekauft werden.
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._title,Bestätigen
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._message,Dieses Konto ist bereits mit einem anderen Benutzerkonto <br> verknüpft. Möchten Sie die Verknüpfung mit dem anderen Konto aufheben <br> und stattdessen dieses Konto <br> mit Ihrem aktuellen Konto <br> verknüpfen?
+mst.dialog.GameLibOrder_IsPending._title,Kauf nicht abgeschlossen
+mst.dialog.GameLibOrder_IsPending._message,"Es gibt eine ausstehende Zahlung für einen Kauf, der nicht abgeschlossen wurde <br>. Bitte schließen Sie die Zahlung für den ausstehenden Kauf ab <br> oder stornieren Sie den ausstehenden Kauf im Google Play Store-Verlauf <br> <br>. Nachdem die Zahlung abgeschlossen ist, können Sie das Produkt erneut erhalten, indem Sie den Shop-Bildschirm erneut öffnen."
+mst.dialog.MusicRecommendErrorExpired._title,Fehler
+mst.dialog.MusicRecommendErrorExpired._message,Diese Empfehlungsliste ist nicht mehr verfügbar.
+mst.dialog.MultiDeckErrorUnorganized._title,Aufstellungsfehler
+mst.dialog.MultiDeckErrorUnorganized._message,Bitte stelle eine spezielle Einheit für den Koop-Live-Modus zusammen.
+mst.dialog.MultiCanNotMatching._title,Match fehlgeschlagen
+mst.dialog.MultiCanNotMatching._message,Es konnte keine Verbindung hergestellt werden. Wir kehren zum Event-Startbildschirm zurück.
+mst.dialog.LocationInformationConfirmingDialog._title,Standort wird ermittelt
+mst.dialog.LocationInformationConfirmingDialog._message,"Positionsdaten werden abgerufen <br> Das Abrufen der Positionsdaten kann einige Zeit dauern <br> Wenn Sie auf „Abbrechen“ tippen, wird der Vorgang unterbrochen."
+mst.dialog.LocationFailedDialogOutofArea._title,Außerhalb des Belohnungsbereichs
+mst.dialog.LocationFailedDialogOutofArea._message,"Sie befinden sich außerhalb des Bereichs, in dem Belohnungen erhalten werden können.<br>Daher konnten Sie keine Belohnung erhalten."
+mst.dialog.LocationFailedDialogNotAllow._title,Bestätigen
+mst.dialog.LocationFailedDialogNotAllow._message,"Wenn der Standortmodus auf „Aus“ oder „Nur GPS“ eingestellt ist, kann die Standortverknüpfungsfunktion nicht verwendet werden. Bitte ändern Sie die Einstellungen auf Ihrem Gerät. <br> <br>"
+mst.dialog.LocationFailedDialogTimeout._title,Bestätigen
+mst.dialog.LocationFailedDialogTimeout._message,Zeitüberschreitung.
+mst.dialog.LocationFailedDialogNone._title,Bestätigen
+mst.dialog.LocationFailedDialogNone._message,Belohnung konnte nicht erhalten werden.
+mst.dialog.LocationFailedDialogReceived._title,Bestätigen
+mst.dialog.LocationFailedDialogReceived._message,Dies ist eine bereits abgeschlossene Kampagne.
+mst.dialog.LocationFailedDialogOutOfTerm._title,Bestätigen
+mst.dialog.LocationFailedDialogOutOfTerm._message,Die Kampagne ist beendet.
+mst.dialog.MultiConfirmStartLive._title,Bestätigen
+mst.dialog.MultiConfirmStartLive._message,Es sind nicht genügend Teilnehmer vorhanden. <br> <br> Bei einer Teilnahme von nur vier Personen können die für das Event erhaltenen Punkte um <br> reduziert werden. <br> <br> Möchten Sie das Live-Event mit der aktuellen Anzahl an Teilnehmern starten?
+mst.dialog.MultiConfirmStartLivePermanent._title,Bestätigen
+mst.dialog.MultiConfirmStartLivePermanent._message,Es sind nicht genügend Teilnehmer vorhanden.<br><br>Möchtest du das Live trotzdem mit der aktuellen Anzahl starten?
+mst.dialog.MultiLeaveRoomOnSongPick._title,Live verlassen
+mst.dialog.MultiLeaveRoomOnSongPick._message,"Wenn du jetzt gehst, nimmst du an diesem Live nicht mehr teil.<br><br>Trotzdem verlassen?"
+mst.dialog.MultiPenalty._title,Bestätigen
+mst.dialog.MultiPenalty._message,"Da im Koop-Live-Modus mehrfache Verbindungsabbrüche festgestellt wurden, schränken wir die Funktion vorübergehend ein. Bitte warten Sie, bis die Einschränkung aufgehoben wird. <br>Vorläufige Einschränkung <br>Bitte warten Sie auf die Aufhebung <br><br><color=#D73C55>Bis zur Aufhebung der Einschränkung: <br>{0}</color>"
+mst.dialog.MultiPenaltyWarning._title,Bestätigen
+mst.dialog.MultiPenaltyWarning._message,Während des Koop-Lives kam es zu Verbindungsabbrüchen.<br>Das Ergebnis des Lives wird ungültig sein.
+mst.dialog.MultiLiveInterruption._title,Bestätigen
+mst.dialog.MultiLiveInterruption._message,Während des Koop-Lives kam es zu Verbindungsabbrüchen.<br>Das Ergebnis des Lives wird ungültig sein.
+mst.dialog.MultiRematchAllUsersLeft._title,Bestätigen
+mst.dialog.MultiRematchAllUsersLeft._message,Alle anderen Spieler haben den Raum verlassen.
+mst.dialog.MultiDisconnectedError._title,Bestätigen
+mst.dialog.MultiDisconnectedError._message,Die Verbindung wurde unterbrochen.
+mst.dialog.MultiHelperCountEmpty._title,Bestätigen
+mst.dialog.MultiHelperCountEmpty._message,Die Anzahl der heutigen Hilfen ist auf 0 gesunken.<br>Wir kehren zum Event-Startbildschirm zurück.
+mst.dialog.SS_AlignmentError_WrongParam._title,Fehler
+mst.dialog.SS_AlignmentError_WrongParam._message,"Es konnten keine zu verknüpfenden Daten gefunden werden. Bitte überprüfen Sie, ob die <br>Starlight Stage-Spieler-ID und das Verknüpfungspasswort korrekt eingegeben wurden.<br>"
+mst.dialog.SS_AlignmentError_AlreadyCompleted._title,Fehler
+mst.dialog.SS_AlignmentError_AlreadyCompleted._message,Die Verknüpfung mit dem School Festa!-Konto wurde bereits abgeschlossen.
+mst.dialog.SS_AlignmentError_UsedCode._title,Fehler
+mst.dialog.SS_AlignmentError_UsedCode._message,Die Verknüpfung mit dieser School Idol Festival-Spieler-ID ist bereits abgeschlossen.
+mst.dialog.SS_AlignmentError_Expired._title,Fehler
+mst.dialog.SS_AlignmentError_Expired._message,Die Gültigkeitsdauer ist abgelaufen und kann nicht mehr verwendet werden.
+mst.dialog.EventEndConfirmDialog._title,Bestätigen
+mst.dialog.EventEndConfirmDialog._message,Das Event ist beendet.
+mst.dialog.LiveLoadError._title,Song aktualisiert
+mst.dialog.LiveLoadError._message,Die Musikdaten wurden aktualisiert.
+mst.dialog.StartEventLive._title,Bestätigen
+mst.dialog.StartEventLive._message,Das Event hat begonnen.
+mst.dialog.SerialCcode_ExcludedItem._title,Bestätigen
+mst.dialog.SerialCcode_ExcludedItem._message,Dieses Gespräch ist bereits freigeschaltet.
+mst.dialog.UseExpiredItem._title,Fehler
+mst.dialog.UseExpiredItem._message,"Das Verfallsdatum von {0}, das Sie verwenden wollten, ist überschritten."
+mst.dialog.LiveSkipConfirm._title,Bestätigen
+mst.dialog.LiveSkipConfirm._message,Einmal freigeschaltete Songs können in allen Schwierigkeitsgraden übersprungen werden.<br>Allerdings wird ein nicht abgeschlossener Schwierigkeitsgrad nicht als abgeschlossen gewertet.
+mst.dialog.GameClose_AnnouncePaybackNotice._title,Service-Ende-Ankündigung
+mst.dialog.GameClose_AnnouncePaybackNotice._message,„Love Live! School Idol Festival 2 MIRACLE LIVE!“ wird am <br>31. März 2024 (Sonntag) seinen Dienst einstellen. <br><br>■ Rückerstattungszeitraum: 1. April 2024 (Montag) 00:00 – 17. Juni 2024 (Montag) 14:59<br><br> Vielen Dank für Ihre langjährige Unterstützung.
+mst.dialog.GameClose_AnnouncePayback._title,Mitteilung zur Rückerstattung von Loveca
+mst.dialog.GameClose_AnnouncePayback._message,"『ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!』 stellt am <br>31. März 2024 (So.) den Dienst ein. <br>Sollten Sie Ihr nicht genutztes Guthaben an „Loveca“ erstatten lassen möchten, nutzen Sie bitte das Formular „Rückerstattung“. <br><br><br>■ Herausgeber des Prepaid-Zahlungsmittels: Bushiroad Co., Ltd. <br>■ Zeitraum für Rückerstattungen: 1. April 2024 (Mo.) 00:00 – 17. Juni 2024 (Mo.) 15:00 <br>※Bei Nichtbeantragung innerhalb dieses Zeitraums verfällt der Anspruch auf Rückerstattung."
+mst.dialog.GameClose_AnnounceNoPayback._title,Service-Ende-Ankündigung
+mst.dialog.GameClose_AnnounceNoPayback._message,"„Love Live! School Idol Festival 2 MIRACLE LIVE!“ wurde am <br>20. März 2024 (Sonntag) eingestellt. <br>Es gibt keine kostenpflichtigen Loveca, für die eine Rückerstattung möglich wäre. <br>Wenn Sie Fragen haben, wenden Sie sich bitte an den folgenden Kundendienst: <br><br>Vielen Dank für Ihre bisherige Unterstützung. <br>"
+mst.dialog.GameClose_Announce._title,Service-Ende-Ankündigung
+mst.dialog.GameClose_Announce._message,„Love Live! School Idol Festival 2 MIRACLE LIVE!“ wurde am <br>31. März 2024 (Sonntag) eingestellt. <br><br>Vielen Dank für Ihre bisherige Unterstützung.
+mst.dialog.GameClose_Information_Terms._title,Nutzungsbedingungen
+mst.dialog.GameClose_Information_PrivacyPolicy._title,Datenschutzrichtlinien
+mst.dialog.GameClose_Information_PrivacyPolicy._message,"Anwendungs-Datenschutzrichtlinie <br> Diese Anwendungs-Datenschutzrichtlinie (im Folgenden „diese Datenschutzrichtlinie“ genannt) legt die Handhabung von Benutzerinformationen in Bezug auf die Smartphone-App „Love Live! School Idol Festival 2 MIRACLE LIVE!“ (im Folgenden „die App“ genannt), die von Bushirod Co., Ltd. (im Folgenden „das Unternehmen“ genannt) bereitgestellt wird, sowie die mit der App verbundenen Dienstleistungen (im Folgenden „der Dienst“ genannt) fest. <br> <br> Artikel 1 (Einverständnis) <br> Bei der Nutzung der App und des Dienstes werden die Benutzer gebeten, den Inhalt dieser Datenschutzrichtlinie und der von uns festgelegten „Datenschutzrichtlinie“ (https://bushiroad.com/company/privacy.html; im Folgenden „unsere Datenschutzrichtlinie“) zu lesen und diesen zuzustimmen. Wenn Sie diesen nicht zustimmen, können Sie die App und den Dienst nicht nutzen. <br> <br> Artikel 2 (Erfasste Informationen, Zweck der Nutzung, Erfassungsmethoden) <br> Im Zusammenhang mit der Bereitstellung der App und des Dienstes erfasst das Unternehmen automatisch die folgenden Benutzerinformationen über die App zu den folgenden Zwecken. <br> Zweck Erfasste Informationen <br> ■ Zur Identifizierung des vom Benutzer verwendeten Geräts im Dienst ① Geräteidentifikationsnummer und andere gerätebezogene Informationen <br> ■ Um die Nutzung der App auf dem Gerät des Benutzers zu verstehen und einen an die Nutzung angepassten Dienst bereitzustellen ② IP-Adresse <br> ③ Betriebssystemtyp und -version <br> ④ Standortinformationen des Benutzergeräts (beschränkt auf Geräte, bei denen die Übertragung von Standortinformationen über GPS oder Bluetooth aktiviert ist) <br> ■ Um Push-Benachrichtigungen an das Gerät des Benutzers zu senden (beschränkt auf Geräte, bei denen die Push-Benachrichtigungsfunktion aktiviert ist) ⑤ ID, die der App auf dem Gerät zugewiesen wird (Gerätetoken) <br> ■ Für die Bereitstellung oder Anzeige von Werbung des Unternehmens oder Dritter <br> ■ Um die Verbesserung und Fehlerbehebung der App und des Dienstes zu unterstützen <br> ■ Für Marketing- und Produktentwicklungszwecke <br> ■ Erstellung anonymisierter Daten oder Statistiken und Weitergabe an Dritte ① bis ⑤ aller Informationen <br> ■ Zur Bearbeitung von Anfragen von Benutzern und zur Durchführung anderer Benutzerunterstützungsmaßnahmen ① Geräteidentifikationsnummer und andere gerätebezogene Informationen <br> ③ Betriebssystemtyp und -version <br> ■ Um dem Benutzer geeignete Werbung anzuzeigen und die Wirksamkeit der Anzeigen zu messen ① Geräteidentifikationsnummer und andere gerätebezogene Informationen <br> Im Zusammenhang mit der Bereitstellung der App und des Dienstes erfasst das Unternehmen auch die folgenden Benutzerinformationen, indem es den Benutzer auffordert, diese einzugeben, und zwar zu den folgenden Zwecken. <br> Zweck Erfasste Informationen <br> ■ Um E-Mail-Magazine in Bezug auf den Dienst zu versenden ① E-Mail-Adresse <br> ■ Zur Bearbeitung von Anfragen von Benutzern und zur Durchführung anderer Benutzerunterstützungsmaßnahmen ① E-Mail-Adresse <br> ■ Zum Versenden von Preisen oder anderen Artikeln im Rahmen von Veranstaltungen oder Kampagnen an den Benutzer ① E-Mail-Adresse <br> ② Name <br> ③ Adresse <br> ④ Telefonnummer <br> Wenn der Benutzer die Verknüpfung mit externen Diensten wie Twitter während der Nutzung des Dienstes zulässt, erfasst das Unternehmen in Übereinstimmung mit den bei der Erlaubnis zugestimmten Bedingungen die folgenden Benutzerinformationen von dem jeweiligen externen Dienst. <br> Zweck Erfasste Informationen <br> Um Informationen über Erfolge zwischen Benutzern auszutauschen ID, die der Benutzer im betreffenden externen Dienst verwendet, und andere Informationen, die der Benutzer gemäß den Datenschutzeinstellungen des externen Dienstes für die Weitergabe an diesen freigegeben hat. <br> Artikel 3 (Externe Übertragung) <br> Sofern nicht anders in Artikel 5 festgelegt, werden die auf Grundlage von Artikel 2 erfassten Informationen an einen vom Unternehmen verwalteten Server übertragen und innerhalb des festgelegten Zwecks verwendet. <br> <br> Artikel 4 (Weitergabe an Dritte/Auftragsverarbeitung usw.) <br> Das Unternehmen wird Benutzerinformationen nicht ohne vorherige Zustimmung des Benutzers an Dritte weitergeben, es sei denn, dies ist durch das japanische Datenschutzgesetz oder andere Gesetze zulässig. Die folgenden Fälle sind jedoch davon ausgenommen: <br> Wenn das Unternehmen die Verarbeitung von personenbezogenen Daten im erforderlichen Umfang an einen Auftragnehmer auslagert, der eine Geheimhaltungsvereinbarung getroffen hat. <br> Wenn personenbezogene Daten im Zusammenhang mit einer Übernahme eines Unternehmens durch Fusion oder auf andere Weise weitergegeben werden. <br> Wenn personenbezogene Daten in Übereinstimmung mit den Bestimmungen von Artikel 5 an einen Anbieter von Informationserfassungsmodulen weitergegeben werden. <br> Wenn das Unternehmen dazu verpflichtet ist, bei der Durchführung von Aufgaben, die von einer staatlichen Behörde oder einer lokalen Regierung oder einem von ihr beauftragten Dritten durchgeführt werden, zu kooperieren. <br> Das Unternehmen kann im erforderlichen Umfang die Verarbeitung personenbezogener Daten an einen Auftragnehmer auslagern und diesem die personenbezogenen Daten offenlegen, wobei ein Vertrag geschlossen wird, der Bestimmungen über Sicherheitsmaßnahmen, Geheimhaltung, Bedingungen für eine Weiteruntervergabe und andere angemessene Maßnahmen zur Handhabung personenbezogener Daten enthält. <br> Das Unternehmen kann Benutzerinformationen in anonymisierter Form oder als statistische Daten an Dritte weitergeben oder offenlegen. Bitte beachten Sie dies. <br> Das Unternehmen kann die über die App erfassten Benutzerinformationen zwischen den Unternehmen der Gruppe austauschen, um einen umfassenden Service anzubieten. <br> Artikel 5 (Informationserfassungsmodul) <br> Um gezielte Werbung auf der Grundlage von Benutzerinformationen zu schalten, kann die App Informationserfassungsmodule enthalten. Diese Anbieter erfassen Benutzerinformationen automatisch über diese Module. Detaillierte Informationen zur Erfassung, Nutzung und Weitergabe von Informationen finden Sie in den Datenschutzrichtlinien der folgenden Anbieter: <br> <br> SDK-Name: Firebase <br> Anbieter: Google LLC <br> Zweck: Senden von Push-Benachrichtigungen für die App, Sammeln von Protokollen für die App und Durchführung von Analysen zur Werbepromotion der App. <br> Datenschutzrichtlinie: https://firebase.google.com/terms/data-processing-terms <br> SDK-Name: Adjust <br> Anbieter: Adjust Co., Ltd. <br> Zweck: Analyse der Werbepromotion der App. <br> Datenschutzrichtlinie: https://www.adjust.com/ja/terms/privacy-policy/ <br> Artikel 6 (Benutzerbeteiligung) <br> Die automatische Erfassung von Benutzerinformationen gemäß Absatz 1 von Artikel 2 kann durch eine der folgenden Methoden gestoppt werden: <br> Schalten Sie das Gerät des Benutzers aus. <br> Schalten Sie die Kommunikationsfunktion des Geräts des Benutzers aus. <br> Deinstallieren Sie die App auf dem Gerät des Benutzers. <br> Die automatische Erfassung von Benutzerinformationen gemäß Absatz 3 von Artikel 2 kann durch eine der folgenden Methoden gestoppt werden: <br> Schalten Sie das Gerät des Benutzers aus. <br> Schalten Sie die Kommunikationsfunktion des Geräts des Benutzers aus. <br> Stellen Sie sicher, dass die App und die Anwendung des externen Dienstes auf dem Gerät des Benutzers nicht ausgeführt werden. <br> Deinstallieren Sie die App auf dem Gerät des Benutzers. <br> Der Benutzer ändert selbst die Einstellungen des externen Dienstes so, dass keine Verknüpfung mit der App erlaubt ist. <br> Auch nach dem Stopp gemäß den vorhergehenden Abschnitten wird das Unternehmen die bis dahin auf Grundlage von Artikel 2 erfassten Benutzerinformationen weiterhin im Rahmen des festgelegten Zwecks nutzen und in Übereinstimmung mit den Bestimmungen von Artikel 4 an Dritte weitergeben, es sei denn, der Benutzer hat eine entsprechende Anforderung zur Nutzungseinstellung und Weitergabestoppung gestellt. <br> Anfragen zur Anzeige des Zwecks der Nutzung von Benutzerinformationen, zur Offenlegung, Änderung, Löschung, Einstellung der Nutzung oder zum Stopp der Weitergabe an Dritte werden in Übereinstimmung mit unserer Datenschutzrichtlinie durch die vom Unternehmen festgelegten Methoden und Verfahren entgegengenommen, nachdem die Identität des Benutzers bestätigt wurde. <br> Artikel 7 (Link zu unserer „Datenschutzrichtlinie“ usw.) <br> Die aktuellste Version unserer „Datenschutzrichtlinie“ und dieser Datenschutzrichtlinie finden Sie unter den folgenden Links. Wenn es Unterschiede zwischen unserer „Datenschutzrichtlinie“ und dieser Datenschutzrichtlinie gibt, hat diese Datenschutzrichtlinie Vorrang. <br> <br> Unsere „Datenschutzrichtlinie“ <br> Link: https://bushiroad.co.jp/privacy <br> Diese Datenschutzrichtlinie <br> Link: https://bushiroad.co.jp/privacy <br> Artikel 8 (Offenlegung und Weitergabe erfasster Informationen) <br> Wenn ein Benutzer die Funktion zur Kommunikation und zum Austausch von Informationen mit Freunden oder Bekannten über den Dienst nutzt, können Standortinformationen des Benutzers (wenn die Standortfunktion aktiviert ist), Text in Nachrichten sowie Fotos, Videos, Audiodateien und URL-Links an Freunde oder Bekannte, mit denen er kommuniziert, gesendet oder weitergegeben werden. Wenn alle diese Funktionen so eingestellt sind, dass sie öffentlich sind, können alle Benutzer des Dienstes diese einsehen. Der Umfang der Offenlegung kann über die Einstellungen der App oder des Dienstes geändert werden. <br> <br> Artikel 9 (Ansprechpartner) <br> Anfragen und Beschwerden bezüglich der Handhabung von Benutzerinformationen in Bezug auf die App und den Dienst können an das folgende Büro gerichtet werden. <br> <br>Name des Büros: Bushirod Co., Ltd. – Schulfest 2-Büro <br> Kontaktmethode: https://lovelive-sif2.bushimo.jp/contact/ <br> Artikel 10 (Änderung) <br> Diese Datenschutzrichtlinie kann geändert werden. <br> <br> Wenn es bei einem Update der App Änderungen an den erfassten Benutzerinformationen, dem Zweck der Nutzung, der Weitergabe an Dritte usw. gibt, werden diese vor dem Herunterladen mitgeteilt und in wichtigen Fällen wird vor oder während der Installation erneut eine Zustimmung eingeholt. <br> Bei anderen Änderungen an den erfassten Benutzerinformationen, dem Zweck der Nutzung, der Weitergabe an Dritte usw. werden diese über die Nachrichtenfunktion und per E-Mail mitgeteilt, und in wichtigen Fällen wird erneut eine Zustimmung eingeholt."
+mst.dialog.GameClose_Information_Rights._title,Rechtliche Hinweise
+mst.dialog.DataTakeOver_SnsNotSupported._title,SNS-Verbindung
+mst.dialog.DataTakeOver_SnsNotSupported._message,SNS-Verknüpfung ist in dieser Version<br>nicht verfügbar
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._title,Bestätigen
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._message,Möchten Sie „{0}“ löschen? <br> Die gespeicherten MV-Aufstellungen werden auf die Standardeinstellungen zurückgesetzt.
+mst.dialog.Arcade_Enter_Confirm._title,Arcade Mode
+mst.dialog.Arcade_Enter_Confirm._message,Register this device as an arcade cabinet.<br>From then on every launch goes straight to the attract loop and the normal game is no longer reachable (Test Mode can undo this).<br>All content is downloaded right after registration.<br><br>Continue?
+mst.dialog.Arcade_Enter_Failed._title,Registration Failed
+mst.dialog.Arcade_Enter_Failed._message,{0}
+mst.dialog.Arcade_TestMode_ExitConfirm._title,Exit Arcade Mode
+mst.dialog.Arcade_TestMode_ExitConfirm._message,"Leave arcade mode.<br>All save data on this device (machine registration, credits, bookkeeping) is deleted and it returns to a first-launch install.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_ExitReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ExitReconfirm._message,Deleted data cannot be recovered.<br>Really exit arcade mode?
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,Reset Bookkeeping
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,Set the counted coins and plays back to zero.<br>Credits and the machine registration are not changed.<br><br>Continue?
+mst.dialog.Arcade_Session_Failed._title,Cannot Start Session
+mst.dialog.Arcade_Session_Failed._message,{0}<br><br>Your credit has been returned.
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,Download All Content
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,Downloads every asset category.<br>This takes time and bandwidth. The cabinet returns to the attract screen when it is done.<br><br>Continue?
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,The counted data cannot be recovered.<br>Really reset it?
+mst.dialog.Arcade_Card_NewCard._title,A New Card
+mst.dialog.Arcade_Card_NewCard._message,This card has not been used here before.<br>Choose NEW PLAYER to start a new account on it.<br>Choose TRANSFER DATA to move the account you already play on your phone onto this card.
+mst.dialog.Arcade_Card_BindFailed._title,Transfer Failed
+mst.dialog.Arcade_Card_BindFailed._message,No account matches that transfer code and password.<br>Check them and try again.
+mst.dialog.Arcade_TestMode_UnlockConfirm._title,Unlock Account
+mst.dialog.Arcade_TestMode_UnlockConfirm._message,"Remove this device's account lock.<br>From the next credit on, Decision plays as the guest. The card binding on the server is kept.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_UnlockReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_UnlockReconfirm._message,A removed lock cannot be restored; the next lock draws a new device card ID.<br>Really unlock?
+mst.dialog.Arcade_TestMode_LockFailed._title,Lock Failed
+mst.dialog.Arcade_TestMode_LockFailed._message,No account matches that transfer code and password.<br>The lock stays pending until the first credit.
+mst.dialog.Arcade_Enter_WipeConfirm._title,Datenlöschung bestätigen
+mst.dialog.Arcade_Enter_WipeConfirm._message,"Auf diesem Gerät sind bereits Spieldaten vorhanden.<br>Beim Wechsel in den Arcade-Modus werden ALLE Daten dieses Geräts (Account, Karten, Songs, Fortschritt) gelöscht und können nicht wiederhergestellt werden.<br><br>Möchten Sie fortfahren?"
+mst.dialog.Arcade_Enter_WipeFinal._title,Datenlöschung – Letzte Bestätigung
+mst.dialog.Arcade_Enter_WipeFinal._message,Gelöschte Spieldaten können nicht wiederhergestellt werden.<br><br>Möchten Sie wirklich alle Daten löschen und in den Arcade-Modus wechseln?
+mst.dialog.Arcade_Enter_KeyboardWarning._title,Tastatur erforderlich
+mst.dialog.Arcade_Enter_KeyboardWarning._message,"Sobald dieses Gerät im Arcade-Modus ist, lässt sich über den Bildschirm weder eine Einstellung ändern noch zum normalen Spiel zurückkehren.<br>Der Testmodus (alle Einstellungen des Automaten) und das Beenden des Arcade-Modus lassen sich nur über die TEST-Taste des Automaten öffnen: auf der Tastatur standardmäßig F1 (für das Gamepad gibt es keine Belegung).<br>Zum Beenden: TEST → System → Arcade-Modus beenden. Dabei werden alle Speicherdaten dieses Geräts gelöscht und es kehrt in den Zustand nach der Erstinstallation zurück.<br><br>Ist eine Tastatur bereit?"

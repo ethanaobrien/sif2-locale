@@ -1,0 +1,675 @@
+﻿_key,_text
+mst.dialog.ErrorStay._title,Error
+mst.dialog.ErrorStay._message,Terjadi kesalahan <br> <br> {0}
+mst.dialog.ErrorTitle._title,Error
+mst.dialog.ErrorTitle._message,Terjadi kesalahan <br> Kembali ke judul <br> <br> {0}
+mst.dialog.NetworkError_Retry._title,Kesalahan Jaringan
+mst.dialog.NetworkError_Retry._message,Tidak dapat terhubung ke jaringan.<br>Silakan coba lagi di tempat dengan sinyal yang lebih baik.
+mst.dialog.NetworkError_Title._title,Kesalahan Jaringan
+mst.dialog.NetworkError_Title._message,Terjadi kesalahan saat berkomunikasi <br> Kembali ke judul layar <br> <br> {0}
+mst.dialog.NetworkError_ResourceUpdated._title,Kesalahan Jaringan
+mst.dialog.NetworkError_ResourceUpdated._message,Perlu memperbarui data<br>Kembali ke layar judul
+mst.dialog.NetworkError_NotReachable_Retry._title,Kesalahan Jaringan
+mst.dialog.NetworkError_NotReachable_Retry._message,Tidak dapat terhubung.<br>Periksa koneksi jaringan Anda dan coba lagi.
+mst.dialog.ApplicationQuitConfirm._title,Konfirmasi
+mst.dialog.ApplicationQuitConfirm._message,Game akan ditutup.<br>Apakah Anda yakin?
+mst.dialog.AreaUnlock._title,Area Dibuka
+mst.dialog.AreaUnlock._message,Area baru telah dibuka! {0}<br>
+mst.dialog.AreaUnlockDetail_StoryRead._title,Syarat Dibuka
+mst.dialog.AreaUnlockDetail_StoryRead._message,Area akan terbuka dengan membaca cerita <br> {0} <br>.
+mst.dialog.AreaUnlockDetail_UserRank._title,Syarat Dibuka
+mst.dialog.AreaUnlockDetail_UserRank._message,Dibuka dengan pemain mencapai peringkat {0} atau lebih tinggi <br>.
+mst.dialog.ChatTalkSkip._title,Lewati
+mst.dialog.ChatTalkSkip._message,Apakah Anda ingin melewati percakapan ini dan mengakhirinya?
+mst.dialog.Chat_EncountStoryPlayback._title,Putar Cerita Pertemuan
+mst.dialog.Chat_EncountStoryPlayback._message,Memutar cerita pertemuan untuk {0}.
+mst.dialog.OrnamentLevelRelease._title,Batas Level Aksesori
+mst.dialog.OrnamentLevelRelease._message,Anda sekarang dapat meningkatkan level hingga level {1}! {0} <br>
+mst.dialog.DeckNameChangeSuccess._title,Ganti Nama Unit
+mst.dialog.DeckNameChangeSuccess._message,Nama unit berhasil diubah.
+mst.dialog.DeckNameChangeEmpty._title,Input Error
+mst.dialog.DeckNameChangeEmpty._message,Masukkan minimal satu karakter.
+mst.dialog.DeckNameChangeNg._title,Error
+mst.dialog.DeckNameChangeNg._message,Terdapat kata yang tidak pantas.<br>Silakan coba lagi.
+mst.dialog.MainDeckChangeSuccess._title,Perubahan Unit Utama
+mst.dialog.MainDeckChangeSuccess._message,Unit utama telah diubah.
+mst.dialog.PracticeConfirm._title,Konfirmasi
+mst.dialog.PracticeConfirm._message,Apakah Anda yakin ingin meningkatkan dengan menggunakan catatan latihan yang dipilih dan <br> {0} G? <br>
+mst.dialog.SkillPracticeConfirmByItem._title,Konfirmasi
+mst.dialog.SkillPracticeConfirmByItem._message,Apakah Anda yakin ingin meningkatkan dengan buku keterampilan yang dipilih dan {0}G menggunakan <br>? <br>
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._title,Konfirmasi
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._message,Idol ini juga bisa digunakan untuk Bangkitkan <br> Apakah Anda ingin berhenti memilihnya sebagai bahan dan melanjutkan ke Bangkitkan <br>?
+mst.dialog.SkillPracticeConfirmByPhoto._title,Konfirmasi
+mst.dialog.SkillPracticeConfirmByPhoto._message,"Idol yang dipilih akan dihapus dari ruang tunggu <br>, apakah Anda yakin ingin melanjutkan peningkatan skill <br>? <br> ※Idol tidak akan dihapus dari daftar Idol."
+mst.dialog.TrainingConfirm._title,Konfirmasi
+mst.dialog.TrainingConfirm._message,Bangkitkan dengan penlight yang dipilih<br>Apakah Anda yakin?
+mst.dialog.StaminaChargeConfirm._title,LP Pulihkan
+mst.dialog.StaminaChargeConfirm._message,Apakah Anda ingin memulihkan LP sebesar <br> <br>?
+mst.dialog.StaminaChargeSuccess._title,LP Pulihkan
+mst.dialog.StaminaChargeSuccess._message,LP telah dipulihkan sebesar {0}!
+mst.dialog.StaminaChargeOver._title,Pemulihan LP Maksimum
+mst.dialog.StaminaChargeOver._message,"Karena LP melebihi batas maksimum, kami tidak dapat memulihkan <br><br>."
+mst.dialog.ShopBuySuccess._title,Pembelian Item
+mst.dialog.ShopBuySuccess._message,Anda telah membeli {0}!
+mst.dialog.GachaExec._title,Konfirmasi
+mst.dialog.GachaExec._message,Apakah Anda yakin ingin menghabiskan {0} dan menukar {1} untuk mendapatkan {2}? <br>
+mst.dialog.GachaLackMedal._title,{0} tidak cukup
+mst.dialog.GachaLackMedal._message,{0} tidak cukup. Apakah Anda ingin membeli Loveca?
+mst.dialog.GachaLackItem._title,{0} tidak cukup
+mst.dialog.GachaLackItem._message,{0} tidak cukup.
+mst.dialog.GachaResultGetBonus._title,Dapatkan Bonus
+mst.dialog.GachaResultGetBonus._message,Anda mendapatkan bonus Rekrut!
+mst.dialog.GachaResultGetMovie._title,Dapatkan Idol
+mst.dialog.GachaErrorExpired._title,Error
+mst.dialog.GachaErrorExpired._message,Masa berlakunya sudah habis.
+mst.dialog.GachaTicketExpired._title,Error
+mst.dialog.GachaTicketExpired._message,Tiket yang Anda coba gunakan sudah kedaluwarsa.
+mst.dialog.GachaSelectedExpired._title,Berakhir
+mst.dialog.GachaSelectedExpired._message,Acara ini sudah berakhir.
+mst.dialog.DeckResetConfirm._title,Reset
+mst.dialog.DeckResetConfirm._message,Unit yang dipilih akan direset.<br>Apakah Anda yakin?
+mst.dialog.RecommendSuccess._title,Unit Rekomendasi
+mst.dialog.RecommendSuccess._message,Susun Tim rekomendasi telah dibuat.
+mst.dialog.NoticePlayerRankUp._title,Peningkatan Peringkat
+mst.dialog.NoticePlayerRankUp._message,LP Anda pulih sebesar {0}.
+mst.dialog.NoticePlayerRankAndFriendMaxUp._title,Peningkatan Peringkat
+mst.dialog.NoticePlayerRankAndFriendMaxUp._message,"LP telah dipulihkan sebesar {0}, jumlah maksimum teman bertambah <br> → {1} {2}"
+mst.dialog.NoticeGroupRankUp._title,Grup Naik Pangkat
+mst.dialog.NoticeGroupRankMax._title,Grup Naik Pangkat
+mst.dialog.NoticeGroupRankMax._message,Grup mencapai peringkat maksimal <color=#D73C55> <b> </b> </color>
+mst.dialog.DeckMemberChangeConfirm._title,Konfirmasi Pergantian
+mst.dialog.DeckMemberChangeConfirm._message,Anggota yang sama sudah ada di Susun Tim <br> Apakah Anda ingin menggantinya dengan anggota «{0}» dan melanjutkan? <br>
+mst.dialog.StoryRelease._title,Cerita Dibuka
+mst.dialog.StoryRelease._message,{0} {1} telah dibuka.
+mst.dialog.FriendSearchError._title,Kesalahan Pencarian
+mst.dialog.FriendSearchError._message,"Tidak ada pemain yang ditemukan <br> <br> ID yang Anda masukkan salah, atau <br> pengaturan permintaan teman di pihak lawan ditolak."
+mst.dialog.FriendDeleteConfirm._title,Konfirmasi
+mst.dialog.FriendDeleteConfirm._message,Apakah Anda ingin menghapus teman ini?
+mst.dialog.FriendDeleteSuccess._title,Teman dihapus.
+mst.dialog.FriendDeleteSuccess._message,Teman berhasil dihapus.
+mst.dialog.FriendDeleteError._title,Gagal Hapus Teman
+mst.dialog.FriendDeleteError._message,Tidak dapat menghapus teman.
+mst.dialog.FriendRequestCancelConfirm._title,Konfirmasi
+mst.dialog.FriendRequestCancelConfirm._message,Apakah Anda ingin membatalkan permintaan pertemanan ini?
+mst.dialog.FriendRequestCancelSuccess._title,Permintaan Teman Dibatalkan
+mst.dialog.FriendRequestCancelSuccess._message,Permintaan teman telah dibatalkan.
+mst.dialog.FriendRequestCancelError._title,Permintaan Teman Dibatalkan Gagal
+mst.dialog.FriendRequestCancelError._message,Permintaan pertemanan tidak dapat dibatalkan.
+mst.dialog.FriendPendingConfirm._title,Konfirmasi
+mst.dialog.FriendPendingConfirm._message,Permintaan pertemanan akan disetujui.<br>Apakah Anda yakin?
+mst.dialog.FriendPendingSuccess._title,Permintaan Teman Disetujui
+mst.dialog.FriendPendingSuccess._message,Permintaan pertemanan diterima.
+mst.dialog.FriendPendingError._title,Permintaan Teman Gagal
+mst.dialog.FriendPendingError._message,Permintaan teman tidak dapat disetujui.
+mst.dialog.FriendRejectConfirm._title,Konfirmasi
+mst.dialog.FriendRejectConfirm._message,Apakah Anda ingin menolak permintaan pertemanan ini?
+mst.dialog.FriendRejectSuccess._title,Permintaan Teman Ditolak
+mst.dialog.FriendRejectSuccess._message,Permintaan teman ditolak.
+mst.dialog.FriendRejectError._title,Penolakan Permintaan Teman Gagal
+mst.dialog.FriendRejectError._message,Permintaan pertemanan tidak dapat ditolak.
+mst.dialog.FriendRequestSuccess._title,Permintaan Teman Berhasil
+mst.dialog.FriendRequestSuccess._message,Permintaan pertemanan terkirim.
+mst.dialog.FriendRequestError._title,Permintaan Teman Gagal
+mst.dialog.FriendRequestError._message,Permintaan teman gagal.
+mst.dialog.FriendCanNotRequest._title,Tidak Dapat Mengirim Permintaan
+mst.dialog.FriendCanNotRequest._message,Penerima telah menolak pengaturan permintaan teman.<br>
+mst.dialog.OptionSettingChangeCancelConfirm._title,Konfirmasi
+mst.dialog.OptionSettingChangeCancelConfirm._message,Batalkan perubahan opsi dan<br>kembali ke kondisi sebelumnya?
+mst.dialog.OptionTestLivePauseDialog._title,Dijeda Sementara
+mst.dialog.OptionTestLivePauseDialog._message,Hentikan Test Live dan<br>kembali ke pengaturan opsi?
+mst.dialog.LiveContinue._title,Lanjutkan Live
+mst.dialog.LiveContinue._message,"Habiskan {0} Loveca, pulihkan <br> HP sepenuhnya, dan lanjutkan Live?<br>※Loveca akan diambil dari saldo gratis<br><br>Loveca {1} → {2}"
+mst.dialog.LiveContinueGemShortage._title,Loveca Tidak Cukup
+mst.dialog.LiveContinueGemShortage._message,"Loveca tidak cukup, jadi Live tidak dapat dilanjutkan.<br>"
+mst.dialog.LiveFailure._title,Live Gagal
+mst.dialog.LiveFailure._message,HP habis <br> Anda dapat memulihkan HP sepenuhnya dan melanjutkan dengan menghabiskan {0} Loveca <br>.
+mst.dialog.LivePause._title,Jeda Sementara
+mst.dialog.LivePause._message,"Apakah Anda ingin menghentikan Live dan kembali ke pemilihan lagu?<br>※Jika dihentikan, LP tidak akan terpakai."
+mst.dialog.LiveRetireConfirm._title,Hentikan Live
+mst.dialog.LiveRetireConfirm._message,"Apakah Anda yakin ingin menghentikan Live? Dengan begitu, Anda tidak akan mendapatkan hadiah Live <br>. Apakah itu baik-baik saja? <br> <br> ※LP tidak akan terpakai jika Anda berhenti."
+mst.dialog.LiveRestartConfirm._title,Restart?
+mst.dialog.LiveRestartConfirm._message,Restart? <br> Apakah Anda yakin? <br> LP dan tiket skip akan habis.
+mst.dialog.TeacherPointDetail._title,Apa itu Peringkat Skor Tinggi?
+mst.dialog.TeacherPointDetail._message,"Peringkat Skor Tinggi dihitung dari skor tinggi yang diperoleh dalam Live <br>. Untuk mendapatkan skor tinggi, coba tingkatkan kemampuan Idol <br> <br>! <br>"
+mst.dialog.GemPackBuyComplete._title,Pembelian Selesai
+mst.dialog.GemPackBuyComplete._message,Anda telah membeli {0}.
+mst.dialog.GemBuyCancel._title,Batal
+mst.dialog.GemBuyCancel._message,Pembelian dibatalkan.
+mst.dialog.GemBuyComplete._title,Pembelian Selesai
+mst.dialog.GemBuyComplete._message,Anda telah membeli {0}.
+mst.dialog.GemBuyStamina._title,Konfirmasi
+mst.dialog.GemBuyStamina._message,{0}を{1}消費して<br>LPを{3}回復します。<br>よろしいですか？
+mst.dialog.GemBuyItem._title,Konfirmasi
+mst.dialog.GemBuyItem._message,{0}を{1}消費して<br>LPを{3}回復します。<br>よろしいですか？
+mst.dialog.GemBuyItemPack._title,Konfirmasi
+mst.dialog.GemBuyItemPack._message,Beli {0} dengan menghabiskan {1}. Apakah Anda yakin? <br>
+mst.dialog.GemInsufficientMedal._title,Loveca Tidak Cukup
+mst.dialog.GemInsufficientMedal._message,Jumlah Loveca tidak mencukupi.
+mst.dialog.GemAgeError._title,Error
+mst.dialog.GemAgeError._message,Tanggal lahir tidak valid.
+mst.dialog.GemAgeComplete._title,Input Selesai
+mst.dialog.GemAgeComplete._message,Usia Anda telah dikonfirmasi <br> {0}
+mst.dialog.GemAgeConfirm._title,Konfirmasi
+mst.dialog.GemAgeConfirm._message,"Apakah Anda yakin? Setelah diatur, pengaturan ini tidak dapat diubah hingga aplikasi dihapus."
+mst.dialog.GemAskToBuy._title,Konfirmasi
+mst.dialog.GemAskToBuy._message,"Untuk membeli mata uang khusus aplikasi, diperlukan persetujuan dari orang tua atau wali. Apakah Anda sudah mendapatkan <br>persetujuan <br>?"
+mst.dialog.GemBuyLimitError._title,Batas Penggunaan
+mst.dialog.GemBuyLimitError._message,"Batas penggunaan bulanan akan terlampaui, jadi pembelian tidak dapat dilakukan <br>{0}"
+mst.dialog.GemBuyLimitAlert._title,Konfirmasi
+mst.dialog.GemBuyLimitAlert._message,Apakah Anda ingin membeli {0} <br>?
+mst.dialog.GemBuyLimitAlertConfirm._title,Konfirmasi Batas Pembelian Terlampaui
+mst.dialog.GemBuyLimitAlertConfirm._message,"Pembelian bulan ini akan melebihi 100.000 yen <br> Apakah Anda ingin melanjutkan pembelian? <br> <br> Jika Anda ingin menonaktifkan peringatan, Anda dapat mengubahnya di pengaturan berikut: <br> <color=#D73C55> Pengaturan > Pengaturan Sistem > Pengaturan Peringatan > Peringatan Batas Penggunaan </color>"
+mst.dialog.GemBuyError._title,Error
+mst.dialog.GemBuyError._message,Pembelian gagal.
+mst.dialog.GemShopError._title,Error
+mst.dialog.GemShopError._message,Gagal mendapatkan info toko.
+mst.dialog.GemShopTicketInfo._message,"▼Peraturan<color=#D73C55>※Wajib Baca※</color><br>※Loveca berbayar yang dibeli langsung ditambahkan ke Loveca Anda<br>※Item selain Loveca dikirim ke Kado<br>※Loveca tidak dapat diterima pada hari tanpa login<br>※Bonus login diberikan saat masuk dan ditambahkan ke Loveca Anda<br>※Bonus login dapat diterima mulai pukul 00:00 hari setelah pembelian<br>※Bonus login akan menjadi Loveca gratis<br>※Mulai hari setelah pembelian, selama {1} hari, Anda dapat menerima {2} Loveca sebagai bonus login<br><br>▼Isi Paket<br>{3}<br>Loveca {4} x {5} hari Total {6}<br><br>Harga {7}"
+mst.dialog.GemBuyErrorExpired._title,Periode penjualan telah berakhir.
+mst.dialog.GemBuyErrorExpired._message,Tidak dapat dibeli karena periode penjualan telah berakhir.
+mst.dialog.SingleReward_OrnamentGet._title,Dapatkan Item
+mst.dialog.SingleReward_OrnamentGetTeaSet._title,Buka Item
+mst.dialog.SingleReward_OrnamentGetTeaSet._message,Dapatkan!<br>Sekarang Anda dapat mengubahnya di gudang.
+mst.dialog.SingleReward_OrnamentLevelUp._title,Hadiah Dapatkan
+mst.dialog.SingleReward_OrnamentLevelUp._message,Level naik!
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._title,Hadiah Dapatkan
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._message,Level naik!
+mst.dialog.SingleReward_OrnamentRelease._title,Item (Sementara) Dibuka
+mst.dialog.SingleReward_OrnamentRelease._message,di toko khusus telah tersedia!
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._title,Buka Item
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._message,"{0} di toko, <br> dan {1} sudah tersedia!"
+mst.dialog.SingleReward_CommonDirectly._title,Hadiah Dapatkan
+mst.dialog.SingleReward_CommonDirectly._message,Dapatkan!
+mst.dialog.SingleReward_CommonPresentBox._title,Hadiah Dapatkan
+mst.dialog.SingleReward_CommonPresentBox._message,Anda bisa menerima <color=#C12424>Hadiah</color> dari hadiah.
+mst.dialog.SingleReward_CommonView._title,Hadiah Pencapaian
+mst.dialog.SingleReward_EventDirectly._title,Hadiah Dapatkan
+mst.dialog.SingleReward_EventDirectly._message,Anda mendapatkan Hadiah untuk mencapai {0}!
+mst.dialog.SingleReward_EventPresentBox._title,Hadiah Dapatkan
+mst.dialog.SingleReward_EventPresentBox._message,Anda dapat menerima hadiah pencapaian {0} dengan jumlah <color=#C12424> dari hadiah ini! </color>
+mst.dialog.SingleReward_Costume._title,Dapatkan Kostum
+mst.dialog.SingleReward_Costume._message,Kostum baru telah didapatkan!
+mst.dialog.SingleReward_Music._title,Musik Dibuka
+mst.dialog.SingleReward_Music._message,Lagu baru telah dibuka!
+mst.dialog.SingleReward_Title._title,Dapatkan Gelar
+mst.dialog.SingleReward_Title._message,Anda mendapatkan gelar!
+mst.dialog.SingleReward_IntoPresentBox._title,Batas Kepemilikan
+mst.dialog.SingleReward_IntoPresentBox._message,"Karena Anda sudah mencapai batas kepemilikan, <color=#C12424>hadiah telah dikirim ke kotak hadiah </color>."
+mst.dialog.MultiReward_CommonDirectly._title,Hadiah Dapatkan
+mst.dialog.MultiReward_CommonDirectly._message,Dapatkan!
+mst.dialog.MultiReward_CommonPresentBox._title,Hadiah Dapatkan
+mst.dialog.MultiReward_CommonPresentBox._message,Anda bisa menerima <color=#C12424>Hadiah</color> dari hadiah.
+mst.dialog.MultiReward_EventDirectly._title,Hadiah Dapatkan
+mst.dialog.MultiReward_EventDirectly._message,Anda mendapatkan Hadiah untuk mencapai {0}!
+mst.dialog.MultiReward_EventPresentBox._title,Hadiah Dapatkan
+mst.dialog.MultiReward_EventPresentBox._message,Anda dapat menerima hadiah pencapaian {0} dengan jumlah <color=#C12424> dari hadiah ini! </color>
+mst.dialog.MultiReward_CommonView._title,Hadiah Pencapaian
+mst.dialog.MultiReward_IntoPresentBox._title,Batas Kepemilikan
+mst.dialog.MultiReward_IntoPresentBox._message,"Karena Anda sudah mencapai batas kepemilikan, <color=#C12424>hadiah telah dikirim ke kotak hadiah </color>."
+mst.dialog.Multi_Private_MasterRoomLeave._title,Live Selesai
+mst.dialog.Multi_Private_MasterRoomLeave._message,{0} telah mengakhiri Live <br> Kembali ke layar pemilihan Live.
+mst.dialog.LiveResult_ContinueMultiRoom._title,Konfirmasi Lanjutan
+mst.dialog.LiveResult_ContinueMultiRoom._message,Ingin melanjutkan Live yang sama?
+mst.dialog.LoginBonus_Check._title,Tanggal diperbarui
+mst.dialog.LoginBonus_Check._message,"Tanggal telah diperbarui,<br>silakan login kembali."
+mst.dialog.LoginBonus_Common._title,Login Bonus
+mst.dialog.LoginBonus_Common._message,Hadiah {0} × {1} <br> <color=#D73C55> dapat diterima dari hadiah </color>
+mst.dialog.LoginBonus_Multi._title,Login Bonus
+mst.dialog.LoginBonus_Multi._message,Hadiah {0} × {1} <br> <color=#D73C55> dapat diterima dari hadiah </color>
+mst.dialog.MultiRoomType._title,Hadiah Live
+mst.dialog.MultiRoomType._message,"Di Live harian, Anda akan lebih mudah mendapatkan Hadiah tetap setiap hari <br> ※ Di Live biasa, Anda akan mendapatkan Hadiah biasa <br> <br>Senin: Hadiah A <br>Selasa: Hadiah B <br>Rabu: Hadiah C <br>Kamis: Hadiah D <br>Jumat: Hadiah E <br>Sabtu: Hadiah F <br>Minggu: Hadiah G <br> <br>※ Jumlah yang didapatkan untuk item selain yang termasuk dalam peningkatan Hadiah telah disesuaikan."
+mst.dialog.VoiceDownloadConfirm._title,Unduh Suara
+mst.dialog.VoiceDownloadConfirm._message,Unduh semua suara kecuali suara cerita <br> sekarang? <br> <br> <color=#D73C55> Ukuran unduhan: <br> {0:0.00} MB <br> <br> Kami sarankan Anda mengunduh dalam lingkungan Wi-Fi <br> </color>
+mst.dialog.LiveProductionDownloadConfirm._title,Unduh Data Anggota untuk Live
+mst.dialog.LiveProductionDownloadConfirm._message,Apakah Anda ingin mengunduh data yang diperlukan untuk pertunjukan Live <br> terlebih dahulu? <br> Waktu pemuatan sebelum Live dimulai mungkin akan berkurang <br> <br> <br> <color=#D73C55> Ukuran unduhan: <br> {0:0.00} MB <br> <br> Kami sarankan untuk mengunduh dalam lingkungan Wi-Fi <br> </color>
+mst.dialog.GameLibErrorCode_1._title,Error
+mst.dialog.GameLibErrorCode_1._message,Argumen yang Anda masukkan tidak valid <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_14._title,Error
+mst.dialog.GameLibErrorCode_14._message,Pengguna dinonaktifkan <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_20._title,Error
+mst.dialog.GameLibErrorCode_20._message,Perangkat ini sudah terhubung ke akun lain sehingga tidak dapat digunakan <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_1000._title,Error
+mst.dialog.GameLibErrorCode_1000._message,Terjadi kesalahan komunikasi <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_17219._title,Error
+mst.dialog.GameLibErrorCode_17219._message,Sudah dalam proses <br>. Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_10001._title,Error
+mst.dialog.GameLibErrorCode_10001._message,Argumen yang Anda masukkan tidak valid <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_10006._title,Error
+mst.dialog.GameLibErrorCode_10006._message,Sistem pembayaran sedang dalam pemeliharaan <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_10007._title,Error
+mst.dialog.GameLibErrorCode_10007._message,Pengguna dinonaktifkan <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_7002._title,Error
+mst.dialog.GameLibErrorCode_7002._message,Kode transfer tidak terdaftar <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_7003._title,Error
+mst.dialog.GameLibErrorCode_7003._message,Kata sandi transfer tidak terdaftar <br> Kode kesalahan : {0}
+mst.dialog.GameLibErrorCode_7004._title,Error
+mst.dialog.GameLibErrorCode_7004._message,Verifikasi kode transfer dan kata sandi gagal <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_7005._title,Error
+mst.dialog.GameLibErrorCode_7005._message,Verifikasi kode transfer dan kata sandi gagal setelah sejumlah percobaan tertentu <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_7012._title,Error
+mst.dialog.GameLibErrorCode_7012._message,Akun atau kata sandi tidak cocok <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_7013._title,Error
+mst.dialog.GameLibErrorCode_7013._message,Verifikasi akun dan kata sandi gagal setelah beberapa kali percobaan <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_8004._title,Error
+mst.dialog.GameLibErrorCode_8004._message,Pengambilan data terkunci <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_8022._title,Error
+mst.dialog.GameLibErrorCode_8022._message,Format akun tidak valid <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_16002._title,Error
+mst.dialog.GameLibErrorCode_16002._message,Pembelian tidak dapat dilakukan karena batas pengisian daya terlampaui <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_16005._title,Error
+mst.dialog.GameLibErrorCode_16005._message,Saldo Loveca tidak mencukupi untuk melakukan pembelian <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_16007._title,Error
+mst.dialog.GameLibErrorCode_16007._message,Negara atau mata uang yang tidak didukung <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_16008._title,Error
+mst.dialog.GameLibErrorCode_16008._message,Tiket tidak dapat dibeli karena tiket dengan hak yang sama masih berlaku <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_16009._title,Error
+mst.dialog.GameLibErrorCode_16009._message,Anda tidak dapat membeli karena masa berlaku tiket kumulatif akan melebihi 180 hari <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_17002._title,Error
+mst.dialog.GameLibErrorCode_17002._message,Loveca itu sudah diberikan <br> Kode kesalahan : {0}
+mst.dialog.GameLibErrorCode_17007._title,Error
+mst.dialog.GameLibErrorCode_17007._message,Pembayaran ini sedang menunggu izin dari akun orang tua <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_17100._title,Error
+mst.dialog.GameLibErrorCode_17100._message,Pembayaran dibatalkan <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_17214._title,Error
+mst.dialog.GameLibErrorCode_17214._message,Fungsi pembayaran perangkat tidak dapat digunakan <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_20001._title,Error
+mst.dialog.GameLibErrorCode_20001._message,Usia dan tanggal lahir yang Anda tentukan tidak sesuai <br> Kode kesalahan: {0}
+mst.dialog.GameLibErrorCode_21001._title,Error
+mst.dialog.GameLibErrorCode_21001._message,Usia dan tanggal lahir yang Anda tentukan tidak sesuai <br> Kode kesalahan: {0}
+mst.dialog.CanNotAutoPlayWithoutStamina._title,LP Tidak Cukup
+mst.dialog.CanNotAutoPlayWithoutStamina._message,"LP habis, jadi tidak bisa otomatis.<br>"
+mst.dialog.Migration_CheckDeviceChanged._title,Pengalihan Perangkat
+mst.dialog.Migration_CheckDeviceChanged._message,"Perangkat telah berubah. Apakah Anda ingin memulihkan data game? <br> <br> <br> *Setelah data game dipulihkan ke perangkat ini, Anda tidak dapat lagi bermain di perangkat lama. <br>"
+mst.dialog.Migration_ErrorRegisterNewDevice._title,Error
+mst.dialog.Migration_ErrorRegisterNewDevice._message,Gagal memulihkan data game <br>coba gunakan ID transfer dan kata sandi untuk melanjutkan <br>
+mst.dialog.Migration_IdCopy._title,Salin Selesai
+mst.dialog.Migration_IdCopy._message,ID transfer berhasil disalin.
+mst.dialog.Migration_Complet._title,Data Transfer Selesai
+mst.dialog.Migration_Complet._message,"Data game berhasil dipindahkan.<br>Silakan terus nikmati ""School Idol Festival 2""."
+mst.dialog.Migration_Completed._title,Transfer Data Selesai
+mst.dialog.Migration_Completed._message,"Data game di perangkat ini telah berhasil dipindahkan ke perangkat lain<br>Apakah Anda ingin memulai permainan dari awal?<br><br>※Jika Anda tidak yakin melakukan pemindahan data, pilih【Batal】, lalu hubungi kami melalui<br>layar judul【MENU】＞【ヘルプ】より<br>silakan hubungi layanan pelanggan"
+mst.dialog.Migration_RetryPassword._title,Input Error
+mst.dialog.Migration_RetryPassword._message,ID migrasi atau<br>password salah
+mst.dialog.Migration_InputPasswordError._title,Input Error
+mst.dialog.Migration_InputPasswordError._message,Kata sandi yang dapat diatur adalah<br>karakter alfanumerik satu byte antara 8 dan 32 karakter.
+mst.dialog.Error_Maintenance._title,Dalam Pemeliharaan
+mst.dialog.Error_Maintenance._message,"{0} <br> <br>Periode pemeliharaan dapat berubah tanpa pemberitahuan sebelumnya, jadi mohon maklum. <br> <br>Silakan periksa situs web resmi untuk informasi terbaru. <br> <br> <u> <link={1}> <color=blue>Situs Web Resmi </color> </link> </u>"
+mst.dialog.Error_ResultCodeMaintenance._title,Dalam Pemeliharaan
+mst.dialog.Error_Game_Version_Updated._title,Perbarui
+mst.dialog.Error_Game_Version_Updated._message,Aplikasi perlu diperbarui.<br>Instal versi terbaru dari toko.
+mst.dialog.Tutorial_CardSelectConfirm._title,Konfirmasi
+mst.dialog.Tutorial_CardSelectConfirm._message,Apakah Anda yakin dengan {0}{1}? <br><br> ※Anda tidak dapat mengubahnya nanti.
+mst.dialog.Tutorial_DeleteGameDataConfirm._title,Konfirmasi Hapus Data
+mst.dialog.Tutorial_DeleteGameDataConfirm._message,Apakah Anda yakin ingin menghapus data game dan memulai dari awal? <br> Perhatikan bahwa data game yang dihapus tidak dapat dipulihkan. <br> Apakah Anda benar-benar ingin melanjutkan penghapusan data game? <br> <br>
+mst.dialog.Tutorial_DeleteGameDataReconfirm._title,Konfirmasi Akhir Penghapusan Data
+mst.dialog.Tutorial_DeleteGameDataReconfirm._message,Data game yang dihapus tidak dapat dipulihkan <br><br> Apakah Anda benar-benar ingin menghapus data game?
+mst.dialog.Tutorial_DeleteGameDataComplete._title,Data Dihapus
+mst.dialog.Tutorial_DeleteGameDataComplete._message,Data game berhasil dihapus.
+mst.dialog.Tutorial_SkipFirstHalf._title,Konfirmasi
+mst.dialog.Tutorial_SkipFirstHalf._message,"Apakah Anda ingin melewati bagian pertama dari penjelasan dasar permainan (tutorial)? <br> Jika Anda melakukannya, mode Live percobaan akan otomatis diselesaikan. <br>"
+mst.dialog.Tutorial_SkipLatterHalf._title,Konfirmasi
+mst.dialog.Tutorial_SkipLatterHalf._message,Apakah Anda ingin melewati bagian kedua dari penjelasan game (tutorial)?
+mst.dialog.DownloadConfirm._title,Konfirmasi Unduh
+mst.dialog.DownloadConfirm._message,Apakah Anda yakin ingin mengunduh data sebesar {0} MB dari <color=#D73C55> </color>? <br> Perlu diketahui bahwa proses ini mungkin memakan waktu tergantung pada kondisi jaringan. <br> Kami sarankan untuk mengunduh dalam lingkungan Wi-Fi. <br> <br> <br> <color=#D73C55> </color>
+mst.dialog.DownloadNotEnoughFreeSpace._title,Ruang kosong tidak cukup
+mst.dialog.DownloadNotEnoughFreeSpace._message,Ruang penyimpanan perangkat tidak mencukupi <br>. Harap kosongkan ruang penyimpanan di perangkat Anda dan coba unduh lagi <br>.
+mst.dialog.GooglePlayLogined._title,Konfirmasi
+mst.dialog.GooglePlayLogined._message,Anda sudah login ke Google Play.
+mst.dialog.AdditionalDownloadConfirm._title,Konfirmasi Unduh Tambahan
+mst.dialog.AdditionalDownloadConfirm._message,Mengunduh data tambahan <br> <br> <color=#D73C55> Ukuran unduhan: {0:0.00} MB <br> <br> ※Kami sarankan untuk mengunduh di lingkungan Wi-Fi <br> </color>
+mst.dialog.SongCacheClearConfirm._title,Hapus Cache?
+mst.dialog.SongCacheClearConfirm._message,Aplikasi akan menghapus lagu yang sudah diunduh.<br>Apakah Anda yakin?
+mst.dialog.StoryDownloadConfirm._title,Putar Suara
+mst.dialog.StoryDownloadConfirm._message,Unduh data suara dan putar cerita <br>? <br> <br> <color=#D73C55> Ukuran unduhan: {0:0.00} MB <br> <br> Kami sarankan untuk mengunduh dalam lingkungan Wi-Fi <br> </color>
+mst.dialog.AdditionalMovieDownloadConfirm._title,Unduh Data
+mst.dialog.AdditionalMovieDownloadConfirm._message,Unduh video <br> <br> <color=#D73C55> Ukuran unduhan: {0:0.00} MB <br> <br> Kami sarankan untuk mengunduh dalam lingkungan Wi-Fi <br> </color>
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._title,Unduh Data
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._message,"Semua video akan diunduh sekaligus <br><br><color=#D73C55>Ukuran unduhan: {0:0.00} MB </color><br><br>Meskipun Anda memilih Batal, setiap video masih dapat diunduh secara terpisah <br>Anda juga dapat mengunduhnya nanti dengan memilih ""Unduh Semua"" di dalam cerita <br>Karena ukuran datanya besar, lakukan ini di lingkungan jaringan yang baik <br><color=#D73C55>Kami sarankan untuk mengunduh menggunakan Wi-Fi </color>"
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._title,Unduh Data
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._message,"Unduh semua video sekaligus <br><br><color=#D73C55>Ukuran unduhan: {0:0.00} MB</color><br><br>Anda tetap dapat mengunduh satu per satu jika memilih Batal <br>Anda juga dapat mengunduhnya nanti dengan ""Unduh Semua"" di dalam koleksi <br>Karena jumlah data besar, lakukan ini di lingkungan jaringan yang baik <br><color=#D73C55>Kami sarankan untuk mengunduh di lingkungan Wi-Fi </color>"
+mst.dialog.NoNeedAdditionalMovieDownload._title,Unduh Data
+mst.dialog.NoNeedAdditionalMovieDownload._message,Tidak ada data tambahan untuk diunduh saat ini.
+mst.dialog.DownloadComplete_Restart._title,Konfirmasi
+mst.dialog.DownloadComplete_Restart._message,Pengunduhan data selesai.<br>Aplikasi akan dimulai ulang.
+mst.dialog.AlbumDownloadNoticeOnce._title,Konfirmasi
+mst.dialog.AlbumDownloadNoticeOnce._message,"Saat melihat album kenangan, data gambar akan diunduh.<br>Pastikan perangkat Anda memiliki cukup ruang kosong sebelum melihatnya."
+mst.dialog.PresentBox_ReceiveSingleSuccess._title,Hadiah Diterima
+mst.dialog.PresentBox_ReceiveSingleSuccess._message,Hadiah diterima!
+mst.dialog.PresentBox_ReceiveMultiSuccess._title,Hadiah Diterima
+mst.dialog.PresentBox_ReceiveMultiSuccess._message,Hadiah diterima!
+mst.dialog.PresentBox_ReceiveSingleFailure._title,Batas Kepemilikan
+mst.dialog.PresentBox_ReceiveSingleFailure._message,Tidak dapat diterima karena batas kepemilikan telah tercapai.
+mst.dialog.PresentBox_ReceiveMultiFailure._title,Batas Kepemilikan
+mst.dialog.PresentBox_ReceiveMultiFailure._message,Tidak dapat diterima karena batas kepemilikan telah tercapai.
+mst.dialog.PresentBox_ReceiveOutOfTerm._title,Masa Berlaku Habis
+mst.dialog.PresentBox_ReceiveOutOfTerm._message,"Masa penerimaan telah berakhir, jadi Anda tidak dapat menerimanya."
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._title,Masa Berlaku Habis
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._message,"Masa penerimaan telah berakhir, jadi Anda tidak dapat menerimanya."
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._title,Masa Berlaku Habis
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._message,"Masa penerimaan telah berakhir, jadi Anda tidak dapat menerimanya."
+mst.dialog.PresentBox_ReceiveSingleExpireReward._title,Berlaku Terbatas
+mst.dialog.PresentBox_ReceiveSingleExpireReward._message,Tidak dapat diterima karena masa berlakunya sudah habis.
+mst.dialog.PresentBox_ReceiveMultiExpireReward._title,Berlaku Terbatas
+mst.dialog.PresentBox_ReceiveMultiExpireReward._message,Tidak dapat diterima karena masa berlakunya sudah habis.
+mst.dialog.Multi_StampReset._title,Reset Stamp
+mst.dialog.Multi_StampReset._message,Apakah Anda ingin menghapus semua stempel yang saat ini diatur?
+mst.dialog.Multi_PrivateRoom_Done._title,Live Gagal Dibuat
+mst.dialog.Multi_PrivateRoom_Done._message,"Karena ada Live dengan ID yang sama, buat Live lagi."
+mst.dialog.Multi_Room_Failed._title,Live Gagal Dibuat
+mst.dialog.Multi_Room_Failed._message,Live tidak dapat dibuat.
+mst.dialog.Multi_Disconnect_Scene_2._title,Konfirmasi
+mst.dialog.Multi_Disconnect_Scene_2._message,Koneksi terputus.<br>Mengakhiri Live dan kembali ke layar beranda.
+mst.dialog.Multi_Disconnect_Warning._title,Konfirmasi
+mst.dialog.Multi_Disconnect_Warning._message,Koneksi terputus.<br>Mengakhiri Live dan kembali ke layar beranda.
+mst.dialog.Multi_Result_Playing_Caution._title,Konfirmasi
+mst.dialog.Multi_Result_Playing_Caution._message,"Jika jumlah PERFECT dan GREAT sedikit, poin event yang diperoleh akan berkurang.<br>Pilih tingkat kesulitan yang sesuai dengan kemampuan Anda."
+mst.dialog.Function_Lock_Multi._title,Konfirmasi
+mst.dialog.Function_Lock_Multi._message,"Dalam kolaborasi Live, kami mendeteksi perilaku yang mengganggu pemain lain <br> Oleh karena itu, kami membatasi sementara beberapa fungsi <br> Harap tunggu hingga pembatasan dicabut."
+mst.dialog.NgWord._title,Error
+mst.dialog.NgWord._message,Kata-kata yang tidak pantas terdeteksi.<br>Silakan coba lagi.
+mst.dialog.AndroidPermission._title,Konfirmasi Izin
+mst.dialog.AndroidPermission._message,"Untuk bermain, izinkan penggunaan penyimpanan."
+mst.dialog.AndroidPermissionDetail._title,Konfirmasi Izin
+mst.dialog.AndroidPermissionDetail._message,"Untuk bermain, izinkan penggunaan penyimpanan.<br>Buka layar detail aplikasi."
+mst.dialog.Adventure_Skip._title,Lewati
+mst.dialog.Adventure_Skip._message,Apakah Anda ingin melewati cerita ini dan berakhir?
+mst.dialog.DeviceCompromised._title,Error
+mst.dialog.DeviceCompromised._message,"Perangkat telah di-root, jadi Anda tidak dapat bermain."
+mst.dialog.CanNotMainDeckReset._title,Tidak Dapat Direset
+mst.dialog.CanNotMainDeckReset._message,Unit utama tidak bisa <br>direset.
+mst.dialog.CanNotAutoPlayNotClear._title,Tidak Dapat Diaktifkan
+mst.dialog.CanNotAutoPlayNotClear._message,"Karena Live belum diselesaikan, <br>jadi tidak bisa dilewati."
+mst.dialog.Error_Friend_Max_Self._title,Batas Teman
+mst.dialog.Error_Friend_Max_Self._message,Jumlah teman Anda sudah mencapai batas <br>. Harap hapus beberapa teman yang ada <br>.
+mst.dialog.Error_Friend_Max_Other._title,Batas Teman
+mst.dialog.Error_Friend_Max_Other._message,Teman di sisi penerima sudah mencapai batas maksimal.
+mst.dialog.Error_Friend_Request_Max_Self._title,Permintaan Teman Penuh
+mst.dialog.Error_Friend_Request_Max_Self._message,Anda tidak dapat mengirim permintaan pertemanan karena jumlah teman Anda sudah mencapai batas maksimum <br><br>.
+mst.dialog.Error_Friend_Request_Max_Other._title,Permintaan Teman Penuh
+mst.dialog.Error_Friend_Request_Max_Other._message,Tidak ada lagi slot untuk permintaan teman dari pemain lain.
+mst.dialog.Error_Friend_Pending_Max_Self._title,Permintaan Teman Penuh
+mst.dialog.Error_Friend_Pending_Max_Self._message,Jumlah permintaan teman Anda sudah mencapai batas maksimal.
+mst.dialog.Error_Friend_Pending_Max_Other._title,Permintaan Teman Penuh
+mst.dialog.Error_Friend_Pending_Max_Other._message,Jumlah teman yang menunggu persetujuan dari pihak lain sudah penuh.
+mst.dialog.Error_Friend_Already_Request._title,Permintaan Teman Penuh
+mst.dialog.Error_Friend_Already_Request._message,Permintaan sudah ada.
+mst.dialog.Error_Friend_Already_Pending._title,Permintaan Teman Penuh
+mst.dialog.Error_Friend_Already_Pending._message,Permintaan teman dari pengguna ini sedang menunggu persetujuan.
+mst.dialog.Error_Friend_Already_Friend._title,Permintaan Teman Penuh
+mst.dialog.Error_Friend_Already_Friend._message,Sudah berteman.
+mst.dialog.Error_Friend_Request_Reject._title,Permintaan Teman Penuh
+mst.dialog.Error_Friend_Request_Reject._message,Tidak dapat mengirim permintaan teman ke <br><br> karena pengaturan permintaan teman mereka diatur menjadi <br><br> penolakan.
+mst.dialog.PrivateEnter_NotJoin._title,Live gagal diikuti
+mst.dialog.PrivateEnter_NotJoin._message,Tidak dapat bergabung dengan Live.
+mst.dialog.PrivateEnter_HostPreparation._title,Live gagal diikuti
+mst.dialog.PrivateEnter_HostPreparation._message,Tidak dapat bergabung dengan Live karena pemain host sedang bersiap.
+mst.dialog.PrivateEnter_NotCondition._title,Live gagal diikuti
+mst.dialog.PrivateEnter_NotCondition._message,Anda tidak memenuhi syarat untuk bergabung dengan Live ini <br> <br> Syarat Bergabung Live <br> {0}
+mst.dialog.PrivateEnter_NotRoom._title,Verifikasi ID Live
+mst.dialog.PrivateEnter_NotRoom._message,Live ID yang cocok tidak ditemukan <br>Periksa Live ID yang Anda masukkan.
+mst.dialog.PrivateEnter_NotTotalPower._title,Live gagal diikuti
+mst.dialog.PrivateEnter_NotTotalPower._message,Tidak dapat bergabung dengan Live karena kekuatan unit utama tidak mencukupi.
+mst.dialog.Photo_Box_Change_Result._title,Penukaran Selesai
+mst.dialog.Photo_Box_Change_Result._message,Pertukaran selesai.
+mst.dialog.ChipsterErrorCode_0._title,Error Memuat
+mst.dialog.ChipsterErrorCode_0._message,Terjadi kesalahan saat memuat.<br>Kembali ke layar judul.
+mst.dialog.ChipsterErrorCode_100000._title,Kesalahan Jaringan
+mst.dialog.ChipsterErrorCode_100000._message,Gagal memuat file.<br>Kembali ke menu utama.
+mst.dialog.ChipsterErrorCode_100404._title,Kesalahan Jaringan
+mst.dialog.ChipsterErrorCode_100404._message,Koneksi gagal ditemukan<br>Kembali ke menu utama
+mst.dialog.ChipsterErrorCode_100408._title,Error Memuat
+mst.dialog.ChipsterErrorCode_100408._message,Koneksi gagal.<br>Kembali ke menu utama.
+mst.dialog.ChipsterErrorCode_100500._title,Error Memuat
+mst.dialog.ChipsterErrorCode_100500._message,Terjadi masalah dengan koneksi.<br>Kembali ke menu utama.
+mst.dialog.ChipsterErrorCode_200000._title,Error Memuat
+mst.dialog.ChipsterErrorCode_200000._message,Gagal memuat data.<br>Kembali ke menu utama.
+mst.dialog.ChipsterErrorCode_200100._title,Error Memuat
+mst.dialog.ChipsterErrorCode_200100._message,Tidak ada respons dari server setelah beberapa waktu.<br>Kembali ke menu utama.
+mst.dialog.ChipsterErrorCode_200200._title,Error Memuat
+mst.dialog.ChipsterErrorCode_200200._message,Gagal memuat data.<br>Kembali ke menu utama.
+mst.dialog.ChipsterErrorCode_999999._title,Error Memuat
+mst.dialog.ChipsterErrorCode_999999._message,Terjadi masalah saat memuat data<br>Kembali ke layar judul.
+mst.dialog.Error_Forbidden._title,Error
+mst.dialog.Error_Forbidden._message,"Akun Anda dinonaktifkan.<br>Jika ini tidak benar, hubungi kami melalui Menu > Bantuan > Lainnya."
+mst.dialog.Event_ErrorNotSession._title,Di luar periode acara
+mst.dialog.Event_ErrorNotSession._message,Saat ini tidak ada acara yang sedang berlangsung.
+mst.dialog.Event_ErrorEnded._title,Berakhir
+mst.dialog.Event_ErrorEnded._message,Event telah berakhir.<br>Kembali ke beranda.
+mst.dialog.Event_ErrorEndedNotPolicy._title,Berakhir
+mst.dialog.Event_ErrorEndedNotPolicy._message,"Karena Anda belum menyetujui <br>Syarat Penggunaan acara, kami tidak dapat menampilkan halaman utama acara."
+mst.dialog.Event_ResultAnnouncement._title,Pengumuman Hasil Event
+mst.dialog.Event_ResultAnnouncement._message,"Terima kasih atas partisipasi Anda di «{0}»! <br> Kami telah mengirimkan hadiah dan imbalan peringkat, jadi jangan lupa untuk menerimanya. <br> Anda dapat memeriksa hasil peringkat di halaman acara."
+mst.dialog.ShopLackMedal._title,{0} tidak cukup
+mst.dialog.ShopLackMedal._message,{0} tidak cukup. Apakah Anda ingin membeli Loveca?
+mst.dialog.Mission_ErrorEnded._title,Di luar periode acara
+mst.dialog.Mission_ErrorEnded._message,Misi sudah berakhir.
+mst.dialog.BoxGacha_NextBoxConfirm._title,Konfirmasi
+mst.dialog.BoxGacha_NextBoxConfirm._message,Apakah Anda yakin ingin membuang kotak saat ini dan melanjutkan ke <br>kotak berikutnya?<br>
+mst.dialog.Error_Gift_Expired._title,Masa Berlaku Habis
+mst.dialog.Error_Gift_Expired._message,Hadiah tidak dapat diterima lagi.
+mst.dialog.Error_Mission_Expired._title,Masa Berlaku Habis
+mst.dialog.Error_Mission_Expired._message,Masa berlaku hadiah misi telah berakhir.<br>Hadiah yang tidak dapat Anda klaim akan dikirim ke Kotak Hadiah Anda.
+mst.dialog.Error_Item_Expired._title,Kedaluwarsa
+mst.dialog.Error_Item_Expired._message,Item telah kedaluwarsa.
+mst.dialog.Function_Lock_Gacha._title,Fitur Terbatas
+mst.dialog.Function_Lock_Gacha._message,Fungsi Rekrut saat ini sedang dibatasi <br> sehingga tidak dapat dimainkan <br> <br> <br> Waktu mulai : {0} <br> Waktu selesai : {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.Function_Lock_Shop._title,Fitur Terbatas
+mst.dialog.Function_Lock_Shop._message,Saat ini fungsi toko dibatasi <br> dan tidak dapat digunakan <br> <br> <br> Waktu mulai yang direncanakan : {0} <br> Waktu berakhir yang direncanakan : {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.Function_Lock_Exchange._title,Fitur Terbatas
+mst.dialog.Function_Lock_Exchange._message,"Saat ini, fungsi pertukaran dibatasi dan tidak dapat digunakan. Waktu mulai yang direncanakan: {0}. Waktu berakhir yang direncanakan: {1}. <br> <br> <br> <br> <br> <br> <br> <color=#D73C55> </color>"
+mst.dialog.RecommendConfirm._title,(Sementara) Pemberitahuan
+mst.dialog.RecommendConfirm._message,Ada pemberitahuan baru.
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._title,Live gagal diikuti
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._message,Anda belum memenuhi syarat untuk mengikuti Live <br>. Lihat <br> persyaratan Live <br> di {0}.
+mst.dialog.Live_BluetoothAudioMode._title,Mode Bluetooth
+mst.dialog.Live_BluetoothAudioMode._message,"Mode Bluetooth diaktifkan karena koneksi headphone Bluetooth <br> Dalam mode Bluetooth, efek suara ketukan mungkin tertunda selama Live <br> *Penyesuaian penilaian untuk Bluetooth akan diterapkan."
+mst.dialog.Live_BatteryQuantityCheck._title,Peringatan Baterai Lemah
+mst.dialog.Live_BatteryQuantityCheck._message,"Baterai hampir habis <br> Tingkat baterai saat ini adalah <color=#D73C55> {0} % </color>. <br> Jika tingkat baterai rendah, <br> Live mungkin akan terganggu <br>. Disarankan untuk mengisi daya perangkat Anda."
+mst.dialog.MusicVideo_ReleaseCondition._title,Syarat MV Dibuka
+mst.dialog.MusicVideo_ReleaseCondition._message,Semua kesulitan harus diselesaikan sekali untuk membuka MV.
+mst.dialog.MusicVideo_Pause._title,Dijeda Sementara
+mst.dialog.MusicVideo_Pause._message,Jeda penayangan MV dan<br>kembali ke layar pemilihan lagu?
+mst.dialog.Adventure_Movie_Skip._title,Dijeda Sementara
+mst.dialog.Adventure_Movie_Skip._message,Apakah Anda ingin melewati adegan ini?
+mst.dialog.StaminaConfirm._title,Konfirmasi LP
+mst.dialog.StaminaConfirm._message,"Saat ini, sisa LP Anda kurang dari jumlah yang ditetapkan <br> Apakah Anda ingin melakukan Live dengan hanya menghabiskan sejumlah yang tersedia? <br> *LP tidak akan terpakai jika sisa LP adalah 0."
+mst.dialog.AutoBoostConfirm._title,Konfirmasi Tiket Skip
+mst.dialog.AutoBoostConfirm._message,"Saat ini, jumlah Skip Ticket yang tersisa kurang dari yang ditentukan.<br>Apakah Anda ingin melakukan Live dengan menggunakan sejumlah tiket yang tersedia?"
+mst.dialog.NoAutoBoostConfirm._title,Konfirmasi Tiket Skip
+mst.dialog.NoAutoBoostConfirm._message,"Saat ini, Anda tidak memiliki tiket Skip atau belum menyelesaikan lagu sehingga Anda tidak dapat menggunakan tiket Skip <br> Apakah Anda ingin melakukan Live dengan menghabiskan 1 LP? <br> *LP tidak akan terpakai jika sisa LP Anda adalah 0."
+mst.dialog.NoAutoBoostForSpiritConfirm._title,Konfirmasi Tiket Skip
+mst.dialog.NoAutoBoostForSpiritConfirm._message,"Anda tidak memiliki tiket Skip atau belum menyelesaikan lagu, jadi Anda tidak dapat menggunakan tiket Skip.<br>Apakah Anda ingin melakukan Live dengan menghabiskan Miracle Star?"
+mst.dialog.LiveResultRestartConfirm._title,Konfirmasi Restart
+mst.dialog.LiveResultRestartConfirm._message,Apakah Anda ingin memutar ulang Live dengan menghabiskan LP {0}?
+mst.dialog.LiveResultRestartAutoConfirm._title,Konfirmasi Restart
+mst.dialog.LiveResultRestartAutoConfirm._message,Mainkan Live dengan menghabiskan {0}?
+mst.dialog.CardMovie_Pause._title,Dijeda Sementara
+mst.dialog.CardMovie_Pause._message,Hentikan pemutaran video dan kembali ke layar detail?<br>
+mst.dialog.OrnamentShop_LackGem._title,Loveca Konfirmasi
+mst.dialog.OrnamentShop_LackGem._message,Loveca tidak cukup untuk membeli.
+mst.dialog.OrnamentShop_Lack._title,Konfirmasi {0}
+mst.dialog.OrnamentShop_Lack._message,Tidak dapat membeli karena {0} tidak mencukupi.
+mst.dialog.StoryReleaseDetail._title,Syarat Dibuka
+mst.dialog.StoryPlay._title,Putar Cerita
+mst.dialog.StoryPlay._message,Apakah Anda ingin memutar <br> 「{0}」? <br>
+mst.dialog.StoryPlayAfterDownload._title,Putar Cerita
+mst.dialog.StoryPlayAfterDownload._message,「{1}」<br>をダウンロードして再生します<br><br><color=#D73C55>ダウンロードサイズ：{0:0.00} MB</color><br>よろしいですか？<br><br><color=#D73C55>※Wi-Fi環境での<br>ダウンロードをおすすめします</color>
+mst.dialog.EpisodePlay._title,Putar Cerita
+mst.dialog.EpisodePlay._message,Memutar «{0}». Apakah Anda yakin? <br>
+mst.dialog.Tutorial_GroupSelect._title,Konfirmasi Grup Favorit
+mst.dialog.Tutorial_GroupSelect._message,"Dari grup yang dipilih, Anda akan mendapatkan anggota dengan tingkat kelangkaan tertinggi ""UR"" dalam rekrut berikutnya <br>. Apakah Anda ingin melanjutkan dengan grup ini? <br>"
+mst.dialog.Tutorial_MemberSelect._title,Konfirmasi Anggota Favorit
+mst.dialog.Tutorial_MemberSelect._message,"Anda akan mendapatkan kartu dengan tingkat kelangkaan tertinggi ""UR"" dari anggota yang dipilih ini dalam rekrut berikutnya <br>. Apakah Anda yakin ingin memilih anggota ini? <br>"
+mst.dialog.Tutorial_Movie_Skip._title,Lewati Video
+mst.dialog.Tutorial_Movie_Skip._message,Apakah Anda ingin melewati adegan ini?
+mst.dialog.Tutorial_Live_Skip._title,Konfirmasi Skip Live
+mst.dialog.Tutorial_Live_Skip._message,Live akan dilewati?
+mst.dialog.Tutorial_GetMember._title,Dapatkan Anggota Favorit
+mst.dialog.Tutorial_GetMember._message,Anda mendapatkan {0} <br>. *Idol yang Anda dapatkan akan langsung ditambahkan ke daftar anggota klub Anda.
+mst.dialog.Tutorial_HomeGacha._title,Tutorial Selesai
+mst.dialog.Tutorial_HomeGacha._message,"Sebagai hadiah untuk menyelesaikan tutorial, Anda bisa melakukan 10 kali Rekrut gratis."
+mst.dialog.Tutorial_Complete._title,Konfirmasi
+mst.dialog.Tutorial_Complete._message,Selamat telah menyelesaikan tutorial!
+mst.dialog.BandEnrich._title,Konfirmasi
+mst.dialog.BandEnrich._message,Apakah Anda yakin ingin meningkatkan band dengan item peningkatan yang dipilih dan <br> {0} G ini? <br>
+mst.dialog.SubTutorial_EndConfirm._title,Konfirmasi
+mst.dialog.SubTutorial_EndConfirm._message,Mainkan Live?
+mst.dialog.SubTutorial_SkipConfirm._title,Konfirmasi
+mst.dialog.SubTutorial_SkipConfirm._message,Lewati saja?
+mst.dialog.EmotionalMemberSelect._title,Memilih [{0}]
+mst.dialog.EmotionalMemberSelect._message,Apakah Anda yakin ingin memilih anggota ini? <br><br> ※Anggota favorit yang sudah dipilih tidak dapat diubah.
+mst.dialog.EmotionalBandSelect._title,Memilih [{0}]
+mst.dialog.EmotionalBandSelect._message,Apakah Anda yakin ingin memilih band ini? <br> <br> Band dapat diubah beberapa kali selama periode pemilihan. <br> Perhatikan bahwa mengubah band akan mereset poin acara (sementara). <br> Poin acara (sementara) akan mulai ditambahkan setelah band dipilih.
+mst.dialog.ShopAttentionWording._title,Catatan Penggunaan
+mst.dialog.ShopAttentionWording._message,"Pengembalian tidak dapat dilakukan.<br>Jika pengguna di bawah umur 18 tahun, diperlukan persetujuan dari wali untuk membeli produk."
+mst.dialog.Notice_Movie_Skip._title,Lewati Video
+mst.dialog.Notice_Movie_Skip._message,Apakah Anda ingin melewati adegan ini?
+mst.dialog.GameLibErrorCode_17101._title,Pembelian Belum Selesai
+mst.dialog.GameLibErrorCode_17101._message,"Ada pembayaran di toko serba ada yang belum selesai<br>Selesaikan pembayaran di toko serba ada untuk pembelian yang ditunda<br>Atau, batalkan pembelian yang ditunda di riwayat Google Play Store<br><br>Setelah pembayaran selesai, buka kembali layar Toko agar item ditampilkan<br>Kode kesalahan: {0}"
+mst.dialog.GameLibErrorCode_16010._title,Pembelian Belum Selesai
+mst.dialog.GameLibErrorCode_16010._message,"Ada pembayaran di toko serba ada yang belum selesai<br>Selesaikan pembayaran di toko serba ada untuk pembelian yang ditunda<br>Atau, batalkan pembelian yang ditunda di riwayat Google Play Store<br><br>Setelah pembayaran selesai, buka kembali layar Toko agar item ditampilkan<br>Kode kesalahan: {0}"
+mst.dialog.GachaConfirmFree._title,Konfirmasi
+mst.dialog.GachaConfirmFree._message,Apakah Anda ingin melakukan {1} Rekrut dengan {0}?
+mst.dialog.GachaConfirmFreeDaily._title,Konfirmasi
+mst.dialog.GachaConfirmFreeDaily._message,Apakah Anda ingin melakukan {1} Rekrut dengan {0}? Akan direset pada <br>.
+mst.dialog.GachaConfirmTutorial._title,Konfirmasi
+mst.dialog.GachaConfirmTutorial._message,Apakah Anda ingin melakukan {1} Rekrut dengan {0}?
+mst.dialog.GameLibErrorCode_1100._title,Gagal Terhubung Akun
+mst.dialog.GameLibErrorCode_1100._message,Gagal menghubungkan akun.
+mst.dialog.DataTakeOver_SNSSignOutConfirm._title,Putuskan koneksi?
+mst.dialog.DataTakeOver_SNSSignOutConfirm._message,Akun yang terhubung akan dinonaktifkan?
+mst.dialog.ChatOpen._title,Chat Dibuka!
+mst.dialog.ChatOpen._message,Chat baru tiba!<br>Mau lihat?
+mst.dialog.ReturnToTitleConfirm._title,Konfirmasi
+mst.dialog.ReturnToTitleConfirm._message,Kembali ke layar judul?
+mst.dialog.GoToRehearsalConfirm._title,Konfirmasi Rehearsal
+mst.dialog.GoToRehearsalConfirm._message,"Rehearsal tidak akan menghabiskan LP <br> Namun, skor dan data lainnya tidak akan tercatat saat menyelesaikan level <br> Apakah Anda yakin ingin melanjutkan tanpa mendapatkan Hadiah?"
+mst.dialog.GoToEventRehearsalConfirm._title,Konfirmasi Rehearsal
+mst.dialog.GoToEventRehearsalConfirm._message,"Dalam latihan, kamu tidak akan Habiskan Miracle Star <br> Namun, skor dan data lainnya tidak akan tercatat saat menyelesaikan level <br> Apakah kamu yakin ingin melanjutkan tanpa mendapatkan Hadiah?"
+mst.dialog.MigrateError_WrongParam._title,Konfirmasi
+mst.dialog.MigrateError_WrongParam._message,Data migrasi tidak ditemukan.<br>Pastikan ID pengguna dan kata sandi Anda benar.
+mst.dialog.MigrateError_AlreadyCompleted._title,Konfirmasi
+mst.dialog.MigrateError_AlreadyCompleted._message,Pengguna ini sudah menyelesaikan migrasi.
+mst.dialog.TermsOfService_UpDate._title,Pembaruan Syarat Penggunaan
+mst.dialog.TermsOfService_UpDate._message,"Syarat Penggunaan telah diperbarui.<br>Untuk melanjutkan bermain, Anda harus menyetujui Syarat Penggunaan lagi."
+mst.dialog.Subscription_Restore_Ok._title,Pulihkan Langganan
+mst.dialog.Subscription_Restore_Ok._message,Telah dipulihkan.
+mst.dialog.Subscription_Restore_0_Have._title,Pulihkan Langganan
+mst.dialog.Subscription_Restore_0_Have._message,Tidak dapat memverifikasi pembelian Anda.
+mst.dialog.Subscription_Restore_Error._title,Pulihkan Langganan
+mst.dialog.Subscription_Restore_Error._message,Pemulihan gagal.
+mst.dialog.GameLibErrorCode_37003._title,Error
+mst.dialog.GameLibErrorCode_37003._message,Tidak dapat membeli karena telah melampaui batas pembelian.
+mst.dialog.GameLibErrorCode_37004._title,Error
+mst.dialog.GameLibErrorCode_37004._message,"Saldo gem yang dapat disimpan telah terlampaui, jadi pembelian tidak dapat dilakukan."
+mst.dialog.GameLibErrorCode_37006._title,Error
+mst.dialog.GameLibErrorCode_37006._message,"Langganan bulanan sudah aktif, jadi Anda tidak dapat membelinya."
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._title,Konfirmasi
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._message,Akun ini sudah terhubung dengan data pengguna lain <br>. Apakah Anda ingin memutuskan hubungan akun dengan data pengguna lain <br> dan menghubungkannya dengan data pengguna saat ini <br>? <br>
+mst.dialog.GameLibOrder_IsPending._title,Pembelian Belum Selesai
+mst.dialog.GameLibOrder_IsPending._message,"Ada pembayaran di toko serba ada yang belum selesai <br>. Selesaikan pembayaran untuk pembelian yang tertunda <br> atau batalkan pembelian yang tertunda di riwayat Google Play Store <br>. Setelah pembayaran selesai, buka kembali layar Toko agar item ditampilkan <br>."
+mst.dialog.MusicRecommendErrorExpired._title,Error
+mst.dialog.MusicRecommendErrorExpired._message,Daftar rekomendasi ini sudah tidak berlaku lagi.
+mst.dialog.MultiDeckErrorUnorganized._title,Error: Tim Belum Tersusun
+mst.dialog.MultiDeckErrorUnorganized._message,Susun tim khusus untuk Live kolaborasi.
+mst.dialog.MultiCanNotMatching._title,Gagal Mencari Lawan
+mst.dialog.MultiCanNotMatching._message,Tidak dapat melakukan pencocokan. Kembali ke halaman utama acara.
+mst.dialog.LocationInformationConfirmingDialog._title,Memverifikasi Informasi Lokasi
+mst.dialog.LocationInformationConfirmingDialog._message,"Sedang mengambil informasi lokasi <br> Pengambilan informasi lokasi mungkin memerlukan waktu <br> Jika Anda menekan Batal, proses akan dihentikan."
+mst.dialog.LocationFailedDialogOutofArea._title,Di Luar Area Hadiah
+mst.dialog.LocationFailedDialogOutofArea._message,Anda berada di luar area tempat hadiah dapat diperoleh<br>Hadiah tidak dapat diperoleh.
+mst.dialog.LocationFailedDialogNotAllow._title,Konfirmasi
+mst.dialog.LocationFailedDialogNotAllow._message,"Jika mode lokasi diatur ke ""Mati"" atau ""Hanya GPS"", fungsi sinkronisasi lokasi tidak dapat digunakan. Silakan periksa pengaturan perangkat Anda untuk mengubah pengaturan akuisisi <br><br>."
+mst.dialog.LocationFailedDialogTimeout._title,Konfirmasi
+mst.dialog.LocationFailedDialogTimeout._message,Waktu habis.
+mst.dialog.LocationFailedDialogNone._title,Konfirmasi
+mst.dialog.LocationFailedDialogNone._message,Gagal Dapatkan Hadiah
+mst.dialog.LocationFailedDialogReceived._title,Konfirmasi
+mst.dialog.LocationFailedDialogReceived._message,Ini adalah kampanye yang sudah Anda terima.
+mst.dialog.LocationFailedDialogOutOfTerm._title,Konfirmasi
+mst.dialog.LocationFailedDialogOutOfTerm._message,Periode kampanye telah berakhir.
+mst.dialog.MultiConfirmStartLive._title,Konfirmasi
+mst.dialog.MultiConfirmStartLive._message,"Jumlah peserta tidak mencukupi. <br> <br> Jika bermain dengan 4 orang, poin acara hadiah mungkin akan berkurang sebesar <br> <br> Apakah Anda ingin memulai Live dengan jumlah pemain saat ini? <br>"
+mst.dialog.MultiConfirmStartLivePermanent._title,Konfirmasi
+mst.dialog.MultiConfirmStartLivePermanent._message,Jumlah peserta tidak mencukupi.<br><br>Tetap mulai Live dengan jumlah pemain saat ini?
+mst.dialog.MultiLeaveRoomOnSongPick._title,Keluar dari Live
+mst.dialog.MultiLeaveRoomOnSongPick._message,"Jika keluar sekarang, kamu tidak akan ikut dalam Live ini.<br><br>Tetap keluar?"
+mst.dialog.MultiPenalty._title,Konfirmasi
+mst.dialog.MultiPenalty._message,"Karena beberapa kali terputusnya koneksi selama Live kolaborasi, <br> kami membatasi sementara fungsi ini <br> mohon tunggu hingga pembatasan dicabut <br> <br> <color=#D73C55> sampai pembatasan dicabut <br> {0} </color>"
+mst.dialog.MultiPenaltyWarning._title,Konfirmasi
+mst.dialog.MultiPenaltyWarning._message,"Karena pemutusan koneksi selama Live kolaborasi,<br>hasil Live menjadi tidak valid."
+mst.dialog.MultiLiveInterruption._title,Konfirmasi
+mst.dialog.MultiLiveInterruption._message,"Karena pemutusan koneksi selama Live kolaborasi,<br>hasil Live menjadi tidak valid."
+mst.dialog.MultiRematchAllUsersLeft._title,Konfirmasi
+mst.dialog.MultiRematchAllUsersLeft._message,Semua pemain lain telah keluar dari room.
+mst.dialog.MultiDisconnectedError._title,Konfirmasi
+mst.dialog.MultiDisconnectedError._message,Koneksi terputus.
+mst.dialog.MultiHelperCountEmpty._title,Konfirmasi
+mst.dialog.MultiHelperCountEmpty._message,Jumlah bantuan harian Anda sudah habis.<br>Kembali ke halaman utama acara.
+mst.dialog.SS_AlignmentError_WrongParam._title,Error
+mst.dialog.SS_AlignmentError_WrongParam._message,Data yang akan dihubungkan tidak ditemukan. <br>Pastikan ID pemain Skusta dan kata sandi penghubung telah dimasukkan dengan benar. <br>
+mst.dialog.SS_AlignmentError_AlreadyCompleted._title,Error
+mst.dialog.SS_AlignmentError_AlreadyCompleted._message,Sudah menyelesaikan tautan dengan akun Skufesu 2 Anda.
+mst.dialog.SS_AlignmentError_UsedCode._title,Error
+mst.dialog.SS_AlignmentError_UsedCode._message,Sudah terhubung dengan ID pemain Skusta ini.
+mst.dialog.SS_AlignmentError_Expired._title,Error
+mst.dialog.SS_AlignmentError_Expired._message,"Masa berlaku sudah habis, tidak dapat digunakan."
+mst.dialog.EventEndConfirmDialog._title,Konfirmasi
+mst.dialog.EventEndConfirmDialog._message,Acara telah berakhir.
+mst.dialog.LiveLoadError._title,Pembaruan Lagu
+mst.dialog.LiveLoadError._message,Data lagu telah diperbarui.
+mst.dialog.StartEventLive._title,Konfirmasi
+mst.dialog.StartEventLive._message,Event telah dimulai.
+mst.dialog.SerialCcode_ExcludedItem._title,Konfirmasi
+mst.dialog.SerialCcode_ExcludedItem._message,Chat ini sudah dibebaskan.
+mst.dialog.UseExpiredItem._title,Error
+mst.dialog.UseExpiredItem._message,Masa berlaku {0} yang ingin Anda gunakan telah berakhir.
+mst.dialog.LiveSkipConfirm._title,Konfirmasi
+mst.dialog.LiveSkipConfirm._message,"Anda dapat melewati lagu yang sudah diselesaikan di semua tingkat kesulitan.<br>Namun, jika Anda melewati tingkat kesulitan yang belum selesai, itu tidak akan dianggap sebagai penyelesaian."
+mst.dialog.GameClose_AnnouncePaybackNotice._title,Pemberitahuan Penghentian Layanan
+mst.dialog.GameClose_AnnouncePaybackNotice._message,„Love Live! School Idol Festival 2 MIRACLE LIVE!“ telah mengakhiri layanannya pada <br>31 Maret 2024 (Minggu). <br><br>■Periode penerimaan pengembalian dana: 1 April 2024 (Senin) 00:00 ~ 17 Juni 2024 (Senin) 14:59. <br><br>Terima kasih atas dukungan Anda selama ini.
+mst.dialog.GameClose_AnnouncePayback._title,Pemberitahuan Pengembalian Dana Loveca Berbayar
+mst.dialog.GameClose_AnnouncePayback._message,"『Love Live! School Idol Festival 2 MIRACLE LIVE!』 telah mengakhiri layanannya pada <br>31 Maret 2024 (Minggu). <br>Jika Anda ingin mendapatkan pengembalian dana untuk saldo yang belum terpakai dari mata uang khusus aplikasi ""Loveca berbayar"", silakan hubungi kami melalui formulir ""Pengembalian Dana"" di <br>. <br><br>Penyedia alat pembayaran prabayar yang melakukan pengembalian dana: Bushiroad Inc. <br>■Periode penerimaan pengembalian dana: 1 April 2024 (Senin) 00:00 ~ 17 Juni 2024 (Senin) 15:00 <br>※Jika Anda tidak mengajukan permohonan pengembalian dana selama periode tersebut, Anda tidak akan memenuhi syarat untuk prosedur pengembalian dana ini."
+mst.dialog.GameClose_AnnounceNoPayback._title,Pemberitahuan Penghentian Layanan
+mst.dialog.GameClose_Announce._title,Pemberitahuan Penghentian Layanan
+mst.dialog.GameClose_Announce._message,"“Love Live! School Idol Festival 2 MIRACLE LIVE!” akan mengakhiri layanannya pada hari Minggu, 31 Maret 2024. <br> Terima kasih atas dukungan Anda selama ini. <br> <br>"
+mst.dialog.GameClose_Information_Terms._title,Syarat Penggunaan
+mst.dialog.GameClose_Information_Terms._message,"Ketentuan Layanan<br>Ketentuan ini (selanjutnya disebut “Ketentuan”) menetapkan persyaratan untuk penggunaan layanan yang disediakan oleh Bushiroad Co., Ltd. (selanjutnya disebut “Perusahaan”) melalui aplikasi “Love Live! School Idol Festival 2 MIRACLE LIVE!” (selanjutnya disebut “Aplikasi”). Ketentuan ini berlaku untuk semua pelanggan yang menggunakan layanan (selanjutnya disebut “Pengguna”).<br><br>Pasal 1 Definisi<br>“Konten” berarti teks, karakter, audio, musik, suara lainnya, gambar, video, simbol, perangkat lunak, program, kode, dan informasi lainnya.<br>“Konten Aplikasi” berarti konten yang dapat diakses melalui Layanan.<br>“Konten Pengguna” berarti konten yang diposting, dikirimkan, atau diunggah oleh Pengguna ke Layanan.<br>“Mata Uang Dalam Aplikasi” berarti mata uang virtual yang dapat ditukarkan dengan layanan atau konten berbayar dalam Layanan.<br>“Situs Web” berarti situs web resmi untuk Layanan.<br>“Ketentuan Terpisah” berarti dokumen persyaratan penggunaan terpisah yang diposting di Aplikasi, Situs Web, dll., oleh Perusahaan sehubungan dengan Layanan, dengan nama seperti “Ketentuan,” “Pedoman,” atau “Kebijakan” (apa pun namanya). Ketentuan dan Ketentuan Terpisah secara kolektif disebut sebagai “Ketentuan ini.”<br>Pasal 2 Persetujuan terhadap Ketentuan Ini<br>Pengguna harus menggunakan Layanan sesuai dengan ketentuan dalam Ketentuan ini, dan tidak dapat menggunakan Layanan kecuali menyetujui Ketentuan ini.<br>Ketika Pengguna mulai menggunakan Layanan, persetujuan terhadap Ketentuan ini dianggap telah diberikan pada saat prosedur persetujuan untuk Ketentuan ini diselesaikan, dan perjanjian penggunaan (selanjutnya disebut “Perjanjian Ini”) antara Pengguna dan Perusahaan akan dibuat sesuai dengan ketentuan dalam Ketentuan ini.<br>Jika ada Ketentuan Terpisah dalam Layanan, Pengguna harus menggunakan Layanan sesuai dengan ketentuan baik dalam Ketentuan ini maupun Ketentuan Terpisah. Jika terdapat perbedaan antara Ketentuan ini dan Ketentuan Terpisah, ketentuan dalam Ketentuan Terpisah yang akan berlaku.<br>Dengan benar-benar menggunakan Layanan, Pengguna dianggap telah memberikan persetujuan yang sah dan tidak dapat dicabut terhadap Ketentuan ini.<br>Pasal 3 Perubahan pada Ketentuan Ini<br>Perusahaan dapat mengubah Ketentuan ini dari waktu ke waktu jika dianggap perlu oleh Perusahaan, dengan menyepakati perubahan tersebut secara terpisah dengan setiap Pengguna.<br>Sesuai dengan Pasal 548-4 Undang-Undang Sipil Jepang, Perusahaan dapat mengubah Ketentuan ini dalam kasus berikut:<br>Perubahan pada Ketentuan ini sesuai dengan kepentingan umum Pengguna.<br>Perubahan tidak bertentangan dengan tujuan perjanjian dan perubahan tersebut wajar mengingat kebutuhan akan perubahan, isi perubahan, dan keadaan lain yang terkait dengan perubahan tersebut.<br>Jika Perusahaan mengubah Ketentuan ini sesuai dengan paragraf sebelumnya, Perusahaan akan mengumumkan bahwa Ketentuan ini akan diubah, serta isi dan tanggal efektif perubahan pada situs web Perusahaan setidaknya satu bulan sebelumnya. Jika Perusahaan memberitahukan isi Ketentuan yang telah diubah kepada Pengguna dan Pengguna menggunakan Layanan setelah tanggal efektif Ketentuan yang telah diubah, Pengguna dianggap telah menyetujui Ketentuan yang telah diubah. Jika Pengguna tidak menyetujui Ketentuan yang telah diubah, Pengguna tidak dapat lagi menggunakan Layanan.<br>Pasal 4 Penggunaan oleh Anak di Bawah Umur<br>Jika Pengguna adalah anak di bawah umur, Pengguna harus mendapatkan persetujuan dari wali atau wali sah sebelum menggunakan Layanan (termasuk menyetujui Ketentuan ini).<br>Jika seorang Pengguna yang telah menyetujui Ketentuan ini adalah anak di bawah umur pada saat itu dan kemudian menggunakan Layanan setelah menjadi dewasa, tindakan penggunaan tersebut dianggap sebagai pengesahan atas tindakan penggunaan selama masa kanak-kanak.<br>Pasal 5 Akun<br>Saat menggunakan Layanan, jika Pengguna mendaftarkan informasi tentang dirinya sendiri, Pengguna harus memberikan informasi yang benar dan akurat, dan harus selalu memperbarui informasi tersebut. Perusahaan tidak bertanggung jawab atas kerugian apa pun yang mungkin timbul karena informasi tersebut salah, tidak lengkap, atau tidak akurat.<br>Saat menggunakan Layanan, jika ID pengguna atau kata sandi atau informasi otentikasi lainnya (selanjutnya disebut “Informasi Otentikasi”) dikeluarkan atau diatur, Pengguna harus mengelolanya dengan hati-hati agar tidak disalahgunakan dan bertanggung jawab atas hal tersebut. Perusahaan dapat menganggap semua tindakan yang dilakukan menggunakan Informasi Otentikasi sebagai tindakan oleh Pengguna itu sendiri. Perusahaan tidak bertanggung jawab atas kerugian apa pun yang mungkin timbul akibat tindakan tersebut, bahkan jika kerugian tersebut terjadi pada Pengguna atau pihak ketiga.<br>Jika Perusahaan mengenali bahwa Pengguna melanggar Ketentuan ini atau kemungkinan akan melanggarnya, Perusahaan dapat menangguhkan atau menghapus akun tanpa pemberitahuan sebelumnya kepada Pengguna.<br>Jika Pengguna tidak menggunakan Layanan selama satu tahun, Perusahaan dapat menghapus akun tanpa pemberitahuan sebelumnya kepada Pengguna. Apakah Pengguna telah menggunakan Layanan atau tidak akan ditentukan oleh Perusahaan berdasarkan catatan akses ke server, dll.<br>Hak penggunaan Pengguna dalam Layanan akan berakhir dengan alasan apa pun pada saat akun dihapus. Harap diperhatikan bahwa akun yang dihapus secara tidak sengaja tidak dapat dipulihkan.<br>Akun untuk Layanan adalah milik eksklusif Pengguna. Hak penggunaan apa pun atas Layanan, termasuk hak untuk mentransfer, meminjamkan, atau mewariskan kepada pihak ketiga, tidak dapat dialihkan oleh Pengguna.<br>Jika Informasi Otentikasi dicuri, dibocorkan ke pihak ketiga, atau digunakan oleh pihak ketiga, Pengguna harus segera memberi tahu Perusahaan dan mengikuti instruksi yang diberikan oleh Perusahaan.<br>Jika kerugian terjadi pada Perusahaan atau pihak ketiga karena penyalahgunaan Informasi Otentikasi, Pengguna harus mengganti kerugian tersebut kepada Perusahaan dan pihak ketiga.<br>Pasal 6 Penanganan Informasi tentang Pengguna<br>Perusahaan akan menangani informasi pengguna, informasi perangkat, dan informasi lain yang dikumpulkan dari pengguna sehubungan dengan penggunaan Layanan sesuai dengan “Kebijakan Privasi” dan “Kebijakan Privasi Aplikasi” terpisah yang ditetapkan oleh Perusahaan.<br><br>Pasal 7 Penyediaan Layanan<br>Pengguna akan menggunakan Layanan sesuai dengan metode yang ditentukan oleh Perusahaan.<br>Untuk menggunakan Layanan, Pengguna harus menyiapkan dan memelihara semua perangkat, peralatan komunikasi, sistem operasi, perangkat lunak, lingkungan koneksi internet, dan hal-hal lain yang diperlukan, atas biaya sendiri, dan menanggung semua biaya komunikasi terkait penggunaan Layanan.<br>Perusahaan dapat memberikan seluruh atau sebagian dari Layanan kepada pengguna yang memenuhi kondisi tertentu, seperti usia, apakah identitas pengguna telah diverifikasi, atau apakah informasi pendaftaran telah diberikan, dan Pengguna menyetujui hal ini terlebih dahulu.<br>Jika Perusahaan menganggapnya perlu, Perusahaan dapat mengubah konten (termasuk spesifikasi, aturan, desain, ekspresi visual dan audio, efek, parameter, skenario, dan semua hal lainnya) dari seluruh atau sebagian Layanan kapan saja tanpa pemberitahuan sebelumnya kepada Pengguna, dan juga dapat menghentikan penyediaan Layanan.<br>Layanan hanya boleh digunakan oleh Pengguna untuk tujuan penggunaan pribadi, dan Pengguna tidak boleh menggunakan Layanan untuk tujuan lain selain penggunaan pribadi, seperti penjualan, distribusi, atau pengembangan. Semua tindakan komersial yang melibatkan Layanan dilarang.<br>Pasal 8 Konten Berbayar<br>Jika Pengguna menggunakan layanan atau konten berbayar (termasuk yang ditukar dengan mata uang dalam aplikasi) yang disediakan oleh Perusahaan, Pengguna harus membayar biaya penggunaan sesuai dengan ketentuan pembayaran terpisah yang ditetapkan oleh Perusahaan.<br>Jumlah biaya untuk konten berbayar, metode pembayaran, dan hal-hal lainnya akan ditentukan secara terpisah oleh Perusahaan dan ditampilkan di Aplikasi atau Situs Web.<br>Perusahaan dapat mengubah harga konten yang sebelumnya disediakan sebagai gratis atau berbayar sesuai kebijakannya sendiri.<br>Kecuali jika diatur oleh undang-undang, Perusahaan tidak akan mengembalikan uang, mengganti, atau memberikan kompensasi apa pun untuk konten berbayar.<br>Pengguna menyetujui bahwa operator toko tempat Aplikasi dapat diunduh akan menagih biaya atas nama Perusahaan. Namun, jika ada keraguan atau perselisihan mengenai biaya penggunaan, Pengguna dan Perusahaan harus menyelesaikannya sendiri, dan Pengguna tidak boleh mengajukan klaim atau keluhan apa pun kepada operator toko.<br>Pasal 9 Tampilan Iklan, dll.<br>Perusahaan dapat menampilkan iklan dari Perusahaan atau pihak ketiga di Layanan.<br>Layanan mungkin berisi layanan atau konten yang disediakan oleh perusahaan lain. Tanggung jawab atas layanan atau konten tersebut akan ditanggung oleh perusahaan yang menyediakannya. Selain itu, ketentuan penggunaan lainnya, seperti perjanjian, mungkin berlaku untuk layanan atau konten tersebut.<br>Pasal 10 Konten yang Disediakan oleh Perusahaan<br>Hak cipta dan hak kekayaan intelektual lainnya atas semua konten yang disediakan oleh Perusahaan dalam Layanan menjadi milik Perusahaan atau pihak ketiga yang telah diberi izin oleh Perusahaan.<br>Perusahaan memberikan kepada Pengguna hak non-eksklusif untuk menggunakan konten yang disediakan oleh Perusahaan dalam Layanan, dengan ketentuan bahwa hak tersebut tidak dapat dialihkan atau dilisensikan kembali.<br>Jika ada persyaratan penggunaan terpisah untuk konten yang penggunaannya dikenakan biaya, Pengguna harus mematuhi persyaratan tersebut. Bahkan jika terdapat tampilan seperti “Beli” atau “Jual” di layar Layanan, hak kekayaan intelektual dan hak lainnya atas konten yang disediakan oleh Perusahaan kepada Pengguna tidak dialihkan, dan hanya hak penggunaan yang disebutkan di atas diberikan.<br>Secara umum, Pengguna hanya dapat menggunakan konten yang diterapkan oleh Perusahaan pada perangkat tempat konten tersebut diunduh. Selain itu, Pengguna tidak boleh menggunakan konten ini dengan cara apa pun yang melampaui metode penggunaan yang dimaksudkan oleh Layanan tanpa izin dari Perusahaan, dan tidak boleh melakukan tindakan apa pun yang melanggar atau mungkin melanggar hak Perusahaan.<br>Jika terjadi masalah antara Pengguna dan pemegang hak karena pelanggaran terhadap ketentuan dalam pasal ini, Pengguna harus menyelesaikannya atas tanggung jawab dan biayanya sendiri, dan Perusahaan tidak bertanggung jawab atas hal tersebut.<br>Pasal 11 Konten Pengguna<br>Mengenai konten yang diposting atau dikirimkan oleh Pengguna ke Layanan (selanjutnya disebut “Konten Pengguna”), Pengguna menyatakan dan menjamin bahwa mereka memiliki hak hukum untuk memposting atau mengirimkan konten tersebut, dan bahwa Konten Pengguna tidak melanggar hak kekayaan intelektual (termasuk hak cipta, hak paten, hak desain, hak merek dagang, dan hak untuk memperoleh hak-hak ini), hak milik, atau hak lainnya dari pihak ketiga, dan bahwa konten tersebut sah.<br>Pengguna akan tetap memiliki semua hak atas Konten Pengguna, dan Perusahaan tidak akan memperoleh hak apa pun. Namun, sehubungan dengan Konten Pengguna yang dipublikasikan secara umum, Pengguna memberikan kepada Perusahaan hak untuk menggunakan Konten Pengguna dalam Layanan atau untuk tujuan promosi (termasuk hak untuk membuat perubahan kecil atau menghilangkan bagian dari konten tersebut jika diperlukan, dan hak untuk melisensikan kembali hak ini kepada afiliasi Perusahaan), tanpa biaya, untuk jangka waktu yang tidak terbatas, dan di seluruh dunia.<br>Pengguna tidak akan menggunakan hak kepribadian penulis atau hak kepribadian pemain atas Konten Pengguna terhadap Perusahaan atau pihak yang telah memperoleh hak dari Perusahaan.<br>Jika Layanan menyertakan fungsi di mana beberapa pengguna dapat mengedit, memodifikasi, atau menghapus konten, Pengguna setuju untuk memberikan izin kepada pengguna lain untuk mengedit Konten Penggunanya.<br>Perusahaan dapat memeriksa isi Konten Pengguna jika diperlukan untuk memastikan kepatuhan terhadap undang-undang dan Ketentuan ini, tetapi tidak berkewajiban untuk melakukannya.<br>Jika Perusahaan mengenali bahwa Konten Pengguna melanggar undang-undang, Ketentuan ini, atau kemungkinan akan melanggarnya, atau jika ada alasan bisnis lainnya, Perusahaan dapat menghapus seluruh atau sebagian dari Konten Pengguna dan membatasi penggunaan Konten Pengguna dalam Layanan tanpa pemberitahuan sebelumnya kepada Pengguna.<br>Pengguna harus membuat cadangan Konten Penggunanya atas tanggung jawabnya sendiri, dan Perusahaan tidak berkewajiban untuk membuat cadangan Konten Pengguna.<br>Pasal 12 Mata Uang Dalam Aplikasi<br>Mata uang dalam aplikasi diberikan kepada pengguna dengan menukarnya dengan layanan atau konten berbayar di Layanan, melalui kampanye, atau metode lain yang ditentukan oleh Perusahaan. Jumlah pembelian mata uang dalam aplikasi, metode pembayaran, dan ketentuan pemberian lainnya akan ditentukan oleh Perusahaan dan ditampilkan di Layanan.<br>Mata uang dalam aplikasi tidak dapat ditukar dengan uang tunai, barang, atau manfaat ekonomi lainnya selain layanan atau konten yang ditentukan oleh Perusahaan. Jumlah mata uang dalam aplikasi yang diperlukan untuk menukarnya dengan layanan atau konten, dan ketentuan lainnya, akan ditentukan oleh Perusahaan dan ditampilkan di Layanan.<br>Mata uang dalam aplikasi hanya dapat digunakan pada akun tempat mata uang tersebut diperoleh. Selain itu, meskipun memiliki nama yang sama, mata uang dalam aplikasi yang tersedia pada perangkat terminal yang berbeda tidak dapat ditransfer atau digabungkan.<br>Pengguna tidak boleh berbagi, mentransfer, meminjamkan, menyerahkan sebagai jaminan, atau dengan cara lain mengalihkan mata uang dalam aplikasi yang dimilikinya ke akun pihak ketiga.<br>Jika Perusahaan menangguhkan atau menghapus akun Pengguna sesuai dengan Ketentuan ini, mata uang dalam aplikasi akan menjadi tidak dapat digunakan.<br>Mata uang dalam aplikasi tidak akan dikembalikan dengan alasan apa pun. Namun, jika diperlukan oleh undang-undang terkait pembayaran dana, hal ini tidak berlaku. Dalam kasus tersebut, metode pengembalian uang untuk mata uang dalam aplikasi akan ditentukan oleh Perusahaan sesuai dengan undang-undang dan ditampilkan di Layanan.<br>Jika ada mata uang dalam aplikasi berbayar dan gratis, mata uang dalam aplikasi gratis akan digunakan terlebih dahulu.<br>Pasal 13 Tindakan yang Dilarang<br>Saat menggunakan Layanan, Pengguna tidak boleh melakukan atau mungkin melakukan tindakan berikut sendiri atau melalui pihak ketiga:<br>Tindakan yang melanggar undang-undang, putusan pengadilan, keputusan, atau perintah, atau tindakan administratif mengikat berdasarkan undang-undang.<br>Tindakan yang merusak ketertiban umum dan moralitas yang baik.<br>Tindakan yang merupakan tindak pidana atau yang melibatkan, mendorong, atau membantu melakukan tindak pidana.<br>Pemberian manfaat atau kerja sama lainnya kepada organisasi kriminal atau kelompok terkait.<br>Pelanggaran terhadap hak cipta, hak merek dagang, hak paten, atau hak kekayaan intelektual lainnya, hak kepemilikan, atau hak lainnya dari Perusahaan atau pihak ketiga.<br>Menyewakan, mendistribusikan, mentransfer, mengalihkan nama, menjual, menyerahkan sebagai jaminan, atau dengan cara lain menggunakan akun Layanan atau konten dan hak penggunaan terkait untuk tujuan selain penggunaan pribadi (termasuk perdagangan uang sungguhan).<br>Tindakan komersial apa pun, seperti iklan, promosi, atau pemasaran, kegiatan keagamaan atau rekrutmen kelompok agama, tindakan yang bertujuan pada perilaku seksual atau cabul, tindakan yang bertujuan pada pertemuan atau hubungan dengan lawan jenis yang tidak dikenal, tindakan yang menampilkan informasi tentang pornografi anak atau pelecehan anak, tindakan yang dimaksudkan untuk melecehkan atau memfitnah pihak ketiga, atau penggunaan Layanan untuk tujuan lain selain yang dimaksudkan oleh Layanan.<br>Menampilkan atau mengirim konten yang mengandung ekspresi kekerasan berlebihan, ekspresi seksual eksplisit, atau ekspresi yang mendiskriminasi berdasarkan ras, kebangsaan, keyakinan, jenis kelamin, status sosial, atau asal-usul, atau yang mendorong bunuh diri, melukai diri sendiri, atau penyalahgunaan narkoba.<br>Tindakan yang dapat memprovokasi atau membantu perundungan terhadap pihak ketiga atau tindakan pelecehan terhadap pihak ketiga.<br>Menautkan ke situs web dewasa, situs pengumpulan informasi pribadi, atau situs komersial (termasuk afiliasi) untuk mengarahkan pengguna ke sana.<br>Melakukan kegiatan komersial apa pun, baik itu bersifat nirlaba atau tidak, seperti menjual atau membeli barang atau layanan, atau mengiklankan atau mempromosikannya.<br>Memposting informasi pribadi, seperti alamat email, nomor telepon, atau informasi pribadi lainnya tentang diri sendiri atau pihak ketiga.<br>Mengirim pesan yang sama atau serupa ke sejumlah besar pihak ketiga (kecuali jika diizinkan oleh Perusahaan), menambahkan sejumlah besar pengguna ke daftar teman atau grup tanpa pandang bulu, atau melakukan tindakan lain yang dianggap sebagai spam oleh Perusahaan.<br>Meniru Perusahaan atau pihak ketiga atau menyebarkan informasi palsu dengan sengaja.<br>Mengumpulkan, mengungkapkan, atau memberikan informasi pribadi, informasi pendaftaran, atau informasi riwayat penggunaan pihak ketiga secara tidak sah.<br>Melakukan tindakan akses ilegal, menggunakan akun pihak ketiga, memperoleh beberapa Informasi Otentikasi, atau melakukan tindakan serupa.<br>Melakukan tindakan yang mengganggu server atau sistem jaringan Layanan, atau menggunakan sarana teknis untuk memanipulasi Layanan secara tidak benar, atau memanfaatkan kesalahan pada Layanan.<br>Membongkar, mendekompilasi, merekayasa balik, atau menganalisis kode sumber Layanan.<br>Melakukan permintaan yang tidak masuk akal kepada Perusahaan atau menuntut hal-hal lain dari Perusahaan.<br>Tindakan apa pun yang mengganggu pengoperasian Layanan atau penggunaan Layanan oleh pengguna lain.<br>Membantu atau mendorong tindakan apa pun yang termasuk dalam butir 1 hingga 17 di atas.<br>Tindakan lain apa pun yang dianggap tidak pantas oleh Perusahaan.<br>Apakah tindakan Pengguna melanggar ketentuan dalam pasal ini atau tidak akan ditentukan berdasarkan kebijaksanaan Perusahaan.<br>Jika Pengguna menemukan tindakan yang melanggar Ketentuan ini, Pengguna harus segera memberi tahu Perusahaan.<br>Pasal 14 Tindakan terhadap Pelanggaran Ketentuan<br>Perusahaan dapat mengambil tindakan berikut (termasuk penghapusan Konten Pengguna, penangguhan atau pembatasan penggunaan Layanan, dan penghentian Perjanjian Ini) tanpa pemberitahuan sebelumnya kepada Pengguna jika Pengguna melakukan salah satu hal berikut atau dianggap mungkin akan melakukannya:<br>Melanggar Ketentuan ini.<br>Terdapat fakta palsu tentang informasi yang diberikan oleh Pengguna.<br>Pengguna telah menghentikan pembayaran atau tidak mampu membayar, atau pengajuan permohonan untuk memulai proses seperti reorganisasi perusahaan, rehabilitasi perusahaan, atau likuidasi khusus telah diajukan.<br>Pengguna meninggal dunia atau wali, kurator, atau asisten ditunjuk.<br>Pengguna adalah anak di bawah umur, orang dewasa yang berada di bawah perwalian, atau orang yang berada di bawah pengawasan, dan tidak mendapatkan persetujuan dari wali sah, kurator, atau asisten.<br>Perusahaan telah meminta tanggapan dalam waktu 30 hari tetapi Pengguna tidak menanggapi.<br>Pengguna adalah organisasi kriminal atau terlibat dengan organisasi kriminal melalui penyediaan dana atau cara lain.<br>Perusahaan menganggapnya perlu.<br>Dalam kasus lain yang serupa dengan di atas.<br>Bahkan setelah penangguhan penggunaan, Pengguna tetap bertanggung jawab atas semua kewajiban dan hutang berdasarkan Perjanjian Ini (termasuk kewajiban untuk membayar ganti rugi).<br>Perusahaan tidak bertanggung jawab atas kerugian apa pun yang mungkin diderita oleh Pengguna sebagai akibat dari tindakan yang diambil oleh Perusahaan berdasarkan pasal ini.<br>Jika Perusahaan mengenali bahwa Pengguna melanggar Ketentuan ini atau kemungkinan akan melanggarnya, Perusahaan dapat meminta Pengguna untuk menghentikan pelanggaran tersebut, menghapus atau memperbaiki informasi yang telah diposting atau dikirimkan sendiri, dll., dan Pengguna harus mematuhi permintaan tersebut dalam jangka waktu yang ditentukan oleh Perusahaan.<br>Perusahaan tidak bertanggung jawab atas kerugian apa pun yang mungkin diderita oleh Pengguna sebagai akibat dari tindakan yang diambil berdasarkan pasal ini.<br>Pasal 15 Penghentian Penggunaan Layanan<br>Pengguna dapat menghentikan penggunaan Layanan kapan saja dengan menghapus Aplikasi, menghapus akun, atau metode lain yang ditentukan oleh Perusahaan.<br>Terlepas dari apakah akun dihapus secara tidak sengaja atau karena alasan apa pun, Pengguna tidak akan dapat menggunakan akun, Konten Pengguna, atau informasi lain yang telah dikumpulkan dalam Layanan setelah penggunaan Layanan dihentikan.<br>Bahkan setelah Pengguna menghentikan penggunaan Layanan, Pengguna tetap bertanggung jawab atas semua kewajiban dan hutang berdasarkan Perjanjian Ini (termasuk kewajiban untuk membayar ganti rugi).<br>Perusahaan dapat menyimpan informasi yang telah diberikan oleh Pengguna bahkan setelah Pengguna menghentikan penggunaan Layanan, tetapi tidak berkewajiban untuk melakukannya.<br>Jika Pengguna menghentikan penggunaan Layanan, Perusahaan dapat menghapus akun Pengguna tanpa pemberitahuan sebelumnya sesuai kebijakannya sendiri. Perusahaan tidak bertanggung jawab atas masalah apa pun yang mungkin timbul akibat penghapusan akun.<br>Jika Pengguna meninggal dunia, akun, informasi pengguna, dan informasi lain yang telah dikumpulkan dalam Layanan akan dihapus atau menjadi tidak berlaku, dan tidak dapat diwariskan.<br>Pasal 16 Perubahan, Penghentian, dan Penangguhan Sementara Layanan<br>Perusahaan dapat mengubah seluruh atau sebagian dari Layanan tanpa pemberitahuan sebelumnya kepada Pengguna.<br>Perusahaan dapat mengumumkan penghentian penyediaan Layanan dengan memposting pemberitahuan di Aplikasi atau Situs Web atau dengan metode lain yang dianggap sesuai oleh Perusahaan.<br>Pada saat pemberitahuan, Perusahaan mungkin juga menghentikan penerbitan mata uang dalam aplikasi, dan Pengguna menyetujui hal ini terlebih dahulu saat menggunakan Layanan.<br>Perusahaan dapat menangguhkan sementara seluruh atau sebagian dari Layanan tanpa pemberitahuan sebelumnya kepada Pengguna jika salah satu alasan berikut terjadi:<br>Pemeliharaan atau perbaikan rutin pada peralatan komunikasi dan sistem komputer yang terkait dengan Aplikasi dan Layanan diperlukan.<br>Terjadi kelebihan akses atau faktor tak terduga lainnya yang menyebabkan beban pada sistem.<br>Perlu untuk memastikan keamanan Pengguna.<br>Layanan yang disediakan oleh operator telekomunikasi tidak tersedia.<br>Bencana alam seperti gempa bumi atau banjir, kebakaran, pemadaman listrik, atau kejadian tak terduga lainnya terjadi.<br>Undang-undang atau tindakan administratif mengikat berdasarkan undang-undang membuat pengoperasian Aplikasi menjadi tidak mungkin.<br>Alasan lain yang serupa dengan di atas.<br>Perusahaan tidak bertanggung jawab atas kerugian apa pun yang mungkin diderita oleh Pengguna sebagai akibat dari tindakan yang diambil berdasarkan pasal ini.<br>Pasal 17 Tanggung Jawab Pengguna<br>Pengguna harus menggunakan Layanan atas risiko dan tanggung jawabnya sendiri, dan bertanggung jawab penuh atas semua tindakan dan konsekuensi yang timbul sehubungan dengan penggunaan Layanan.<br>Jika Perusahaan mengenali bahwa Pengguna melanggar Ketentuan ini atau kemungkinan akan melanggarnya, Perusahaan dapat mengambil tindakan penangguhan penggunaan sesuai dengan Pasal 14. Namun, Perusahaan tidak berkewajiban untuk mencegah atau memperbaiki pelanggaran tersebut.<br>Jika kerugian terjadi pada Perusahaan atau pihak ketiga karena tindakan pelanggaran oleh Pengguna terhadap Ketentuan ini atau sehubungan dengan penggunaan Layanan, Pengguna harus mengganti semua kerugian (termasuk biaya pengacara) sesuai dengan permintaan Perusahaan.<br>Jika terjadi perselisihan antara pengguna atau antara pengguna dan pihak ketiga sehubungan dengan Layanan, Pengguna harus menyelesaikannya atas tanggung jawabnya sendiri dan dengan biayanya sendiri setelah memberi tahu Perusahaan. Perusahaan tidak berkewajiban untuk terlibat dalam perselisihan tersebut dan tidak bertanggung jawab atas hal itu.<br>Pasal 18 Penafian Tanggung Jawab<br>Kecuali jika ada kelalaian atau kesalahan berat di pihak Perusahaan, Perusahaan tidak bertanggung jawab atas kerugian apa pun yang mungkin diderita oleh Pengguna akibat gangguan atau kegagalan pada saluran komunikasi atau komputer, hilangnya data, atau hal-hal lain yang terkait dengan Layanan.<br>Bahkan jika Perusahaan bertanggung jawab atas pelanggaran kontrak atau perbuatan melawan hukum kepada Pengguna, tanggung jawab ganti rugi Perusahaan akan terbatas pada kerugian langsung dan aktual yang benar-benar diderita oleh Pengguna, kecuali jika ada kelalaian atau kesalahan berat di pihak Perusahaan. Jumlah kompensasi akan dibatasi hingga jumlah biaya penggunaan yang diterima dari Pengguna dalam bulan terjadinya kerugian.<br>Pasal 19 Metode Komunikasi<br>Komunikasi dari Perusahaan kepada Pengguna sehubungan dengan Layanan akan dilakukan dengan mempostingnya di tempat yang sesuai di Aplikasi atau Situs Web, atau dengan metode lain yang dianggap sesuai oleh Perusahaan.<br>Jika Perusahaan mengirimkan pemberitahuan melalui email, pemberitahuan tersebut akan dianggap telah diterima pada saat email dikirim ke alamat email yang terdaftar Pengguna, dengan asumsi bahwa email tersebut akan sampai secara normal.<br>Pertanyaan atau komunikasi lain dari Pengguna kepada Perusahaan harus dilakukan dengan mengirimkan formulir pertanyaan di tempat yang sesuai di Aplikasi atau Situs Web, atau dengan metode lain yang ditentukan oleh Perusahaan. Perusahaan tidak berkewajiban untuk menanggapi komunikasi apa pun yang dikirimkan kepada Perusahaan melalui metode selain yang ditentukan dalam pasal ini.<br>Pasal 20 Larangan Pengalihan Hak dan Kewajiban<br>Kecuali jika disetujui sebelumnya secara tertulis oleh Perusahaan, Pengguna tidak boleh mengalihkan, menyerahkan, memberikan jaminan, atau dengan cara lain membuang hak atau kewajiban Pengguna berdasarkan Perjanjian Ini kepada pihak ketiga.<br><br>Pasal 21 Penanganan Transfer Bisnis, dll.<br>Jika Perusahaan mengalihkan bisnis yang terkait dengan Layanan kepada pihak ketiga, atau jika bisnis tersebut dialihkan melalui merger atau pemisahan perusahaan, Perusahaan dapat mengalihkan hak, kewajiban, dan informasi pengguna berdasarkan Perjanjian Ini kepada penerima pengalihan bisnis.<br><br>Pasal 22 Pemisahan<br>Bahkan jika seluruh atau sebagian dari ketentuan dalam Ketentuan ini dianggap tidak sah berdasarkan undang-undang, ketentuan selain bagian yang dianggap tidak sah akan tetap berlaku.<br>Bahkan jika sebagian dari ketentuan dalam Ketentuan ini dianggap tidak sah atau dibatalkan sehubungan dengan Pengguna tertentu, Ketentuan tersebut akan tetap berlaku untuk pengguna lain.<br>Pasal 23 Hukum yang Berlaku dan Yurisdiksi Eksklusif<br>Hukum Jepang akan mengatur Ketentuan ini. Setiap perselisihan yang timbul antara Pengguna dan Perusahaan sehubungan dengan Ketentuan ini atau Layanan akan berada di bawah yurisdiksi eksklusif pengadilan distrik Tokyo atau pengadilan ringkas Tokyo sebagai pengadilan tingkat pertama."
+mst.dialog.GameClose_Information_PrivacyPolicy._title,Kebijakan Privasi
+mst.dialog.GameClose_Information_PrivacyPolicy._message,"Application Privacy Policy <br> This Application Privacy Policy (hereinafter referred to as ""this Privacy Policy"") sets forth how Bushiroad Co., Ltd. (hereinafter referred to as ""the Company"") handles user information in connection with the smartphone application ""Love Live! School Idol Festival 2 MIRACLE LIVE!"" (hereinafter referred to as ""this App"") and services related to this App (hereinafter referred to as ""this Service""). <br> <br> Article 1 (Agreement) <br> When using this App and this Service, users are deemed to have confirmed the contents of this Privacy Policy and the Company's ""Privacy Policy"" (https://bushiroad.com/company/privacy.html; hereinafter referred to as ""the Company's Privacy Policy"") and agreed to them. If a user does not agree to these policies, they will not be able to use this App and this Service. <br> <br> Article 2 (Items of Information Acquired, Purpose of Use, Method of Acquisition) <br> In providing this App and this Service, the Company automatically acquires the following user information via the App for the following purposes: <br> Purpose of Use Item of Information to be Acquired <br> ■ To identify the user's device used in this Service ① Device identification number and other device-related information <br> ■ To understand the usage status of this Service on the user's device and provide services tailored to that usage ② IP address <br> ③ Type and version of OS <br> ④ Location information of the user's device (limited to devices with GPS or Bluetooth location transmission enabled) <br> ■ To send push notifications to the user's device (limited to devices with push notification reception enabled) ⑤ ID issued for this App downloaded on the device (device token) <br> ■ For the delivery or display of advertisements by the Company or third parties <br> ■ To utilize it for improving and correcting bugs in this App and this Service <br> ■ To utilize it for marketing and new product development <br> ■ To create data and statistics that do not identify individuals and disclose or provide them to third parties ①～⑤ all information <br> ■ To respond to inquiries from users and provide other user support ① Device identification number and other device-related information <br> ③ Type and version of OS <br> ■ To deliver advertisements suitable for the user and measure the effectiveness of advertisement placement ① Device identification number and other device-related information <br> In providing this App and this Service, the Company acquires the following user information from users by having them enter it for the following purposes: <br> Purpose of Use Item of Information to be Acquired <br> ■ To deliver email magazines related to this Service ① Email address <br> ■ To respond to inquiries from users and provide other user support ① Email address <br> ■ To send prizes, etc., to users in events and campaigns ① Email address <br> ② Name <br> ③ Address <br> ④ Telephone number <br> If a user permits linking with external services such as Twitter or other social network services when using this Service, the Company will collect and acquire the following user information from those external services based on the content agreed upon at the time of permission for the following purposes. <br> Purpose of Use Item of Information to be Acquired <br> To share achievement information among users ID used by the user in the external service, and other information that the user has permitted to be disclosed to the linked service in the privacy settings of the external service <br> Article 3 (External Transmission) <br> Unless otherwise provided for in Article 5 regarding automatic acquisition of information based on Article 2, the information acquired based on Article 2 will be transferred to a server managed by the Company and used within the scope of the purpose. <br> <br> Article 4 (Provision to Third Parties/Outsourcing) <br> The Company will not provide user information to third parties without obtaining prior consent from users, except in cases where provision to third parties is permitted under the Personal Information Protection Act and other laws and regulations. However, the following cases are exceptions: <br> When the Company outsources all or part of the handling of personal information within the scope necessary to achieve the purpose of use, to a business partner with whom it has entered into a contract including confidentiality clauses. <br> When personal information is provided in connection with the transfer of business due to merger or other reasons. <br> When personal information is provided to the provider of the information collection module as stipulated in Article 5. <br> When it is necessary to cooperate with the government agency or local government organization, or an entity entrusted by them, in carrying out affairs prescribed by law. <br> The Company may disclose personal information to a business partner to whom it has outsourced all or part of the work related to handling personal information within the scope necessary to achieve the purpose of use. In such cases, the Company will select a business partner that can be deemed to handle personal information appropriately and stipulate necessary matters regarding appropriate handling of personal information, such as security measures, confidentiality, and conditions for re-outsourcing, in a contract with the business partner, and will supervise it appropriately. <br> The Company may provide or disclose data and statistics that do not identify specific individuals from the user information related to this Service to third parties, so please be aware of this in advance. <br> The Company may share user information acquired through this App among group companies for the purpose of providing comprehensive services. <br> Article 5 (Information Collection Module) <br> In order to deliver targeted advertisements using user information, an information collection module may be incorporated into this Service. These providers automatically acquire user information via the information collection module. Please refer to the links to the application privacy policies of the following providers for details on acquired information, purpose of use, and provision to third parties. <br> <br> SDK Name: Firebase <br> Provider: Google LLC <br> Purpose of Use: To send push notifications for this App, collect logs for this App, and analyze app promotion. <br> Privacy Policy: https://firebase.google.com/terms/data-processing-terms <br> SDK Name: Adjust <br> Provider: Adjust Co., Ltd. <br> Purpose of Use: To analyze app promotion. <br> Privacy Policy: https://www.adjust.com/ja/terms/privacy-policy/ <br> Article 6 (User Involvement Method) <br> The automatic acquisition of user information stipulated in Paragraph 1 of Article 2 can be stopped by any of the following methods: <br> Turning off the power of the user's device. <br> Turning off the communication function of the user's device. <br> Uninstalling this App on the user's device. <br> The automatic acquisition of user information stipulated in Paragraph 3 of Article 2 can be stopped by any of the following methods: <br> Turning off the power of the user's device. <br> Turning off the communication function of the user's device. <br> Making the application of this App and the external service not run on the user's device. <br> Uninstalling this App on the user's device. <br> Changing the settings of the external service so that it does not permit linking with the application. <br> Even after stopping as described in the preceding paragraph, the Company will continue to use the user information acquired based on Article 2 within the scope of the purpose of use, unless the user makes a request to stop the use and provision to third parties as stipulated in the following paragraph. <br> Requests for notification of the purpose of use of user information, disclosure, modification, deletion, suspension of use, and suspension of provision to third parties will be handled appropriately by the Company after confirming the identity of the requester using the method and procedure specified by the Company based on the Company's ""Privacy Policy."" <br> Article 7 (Link to the Company's ""Privacy Policy,"" etc.) <br> Please refer to the following links for the latest versions of the Company's ""Privacy Policy"" and this Privacy Policy. If there are differences between the Company's ""Privacy Policy"" and this Privacy Policy, this Privacy Policy shall take precedence. <br> <br> The Company's ""Privacy Policy"" <br> Link: https://bushiroad.co.jp/privacy <br> This Privacy Policy <br> Link: https://bushiroad.co.jp/privacy <br> Article 8 (Disclosure and Sharing of Acquired Information) <br> If a user uses the function to communicate and share information with friends and acquaintances through this Service, the location information (if the location information function is enabled), text included in the message, photos, videos, audio, and URL links of the user information acquired by this App may be notified or shared with the friends and acquaintances. In addition, if all of these functions are set to be publicly available, all users using this Service may be able to view them. The scope of disclosure can be changed from the setting function of this Service or this App. <br> <br> Article 9 (Inquiry Contact) <br> Inquiries and consultations regarding the handling of user information in this App and this Service will be accepted at the following contact point. <br> <br> Contact Name: Bushiroad Co., Ltd. School Festa 2 Contact <br> Inquiry Method: https://lovelive-sif2.bushimo.jp/contact/ <br> Article 10 (Amendment) <br> This Privacy Policy may be revised. <br> <br> If there are changes in the items of user information acquired, addition of items, changes in the purpose of use, or provision to third parties in connection with an update of this App, we will notify you before downloading and obtain your consent again for important matters before or when installing. <br> In addition, if there are other changes in the items of user information acquired, addition of items, changes in the purpose of use, or provision to third parties, we will notify you through the message function and by email that you have registered, and obtain your consent again for important matters."
+mst.dialog.GameClose_Information_Rights._title,Hak cipta
+mst.dialog.DataTakeOver_SnsNotSupported._title,SNS連携
+mst.dialog.DataTakeOver_SnsNotSupported._message,SNS連携はこのバージョンでは<br>ご利用いただけません。
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._title,Konfirmasi
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._message,Hapus «{0}»? <br> MV yang sudah disimpan akan dikembalikan ke pengaturan awal.
+mst.dialog.Arcade_Enter_Confirm._title,Arcade Mode
+mst.dialog.Arcade_Enter_Confirm._message,Register this device as an arcade cabinet.<br>From then on every launch goes straight to the attract loop and the normal game is no longer reachable (Test Mode can undo this).<br>All content is downloaded right after registration.<br><br>Continue?
+mst.dialog.Arcade_Enter_Failed._title,Registration Failed
+mst.dialog.Arcade_Enter_Failed._message,{0}
+mst.dialog.Arcade_TestMode_ExitConfirm._title,Exit Arcade Mode
+mst.dialog.Arcade_TestMode_ExitConfirm._message,"Leave arcade mode.<br>All save data on this device (machine registration, credits, bookkeeping) is deleted and it returns to a first-launch install.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_ExitReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ExitReconfirm._message,Deleted data cannot be recovered.<br>Really exit arcade mode?
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,Reset Bookkeeping
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,Set the counted coins and plays back to zero.<br>Credits and the machine registration are not changed.<br><br>Continue?
+mst.dialog.Arcade_Session_Failed._title,Cannot Start Session
+mst.dialog.Arcade_Session_Failed._message,{0}<br><br>Your credit has been returned.
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,Download All Content
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,Downloads every asset category.<br>This takes time and bandwidth. The cabinet returns to the attract screen when it is done.<br><br>Continue?
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,The counted data cannot be recovered.<br>Really reset it?
+mst.dialog.Arcade_Card_NewCard._title,A New Card
+mst.dialog.Arcade_Card_NewCard._message,This card has not been used here before.<br>Choose NEW PLAYER to start a new account on it.<br>Choose TRANSFER DATA to move the account you already play on your phone onto this card.
+mst.dialog.Arcade_Card_BindFailed._title,Transfer Failed
+mst.dialog.Arcade_Card_BindFailed._message,No account matches that transfer code and password.<br>Check them and try again.
+mst.dialog.Arcade_TestMode_UnlockConfirm._title,Unlock Account
+mst.dialog.Arcade_TestMode_UnlockConfirm._message,"Remove this device's account lock.<br>From the next credit on, Decision plays as the guest. The card binding on the server is kept.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_UnlockReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_UnlockReconfirm._message,A removed lock cannot be restored; the next lock draws a new device card ID.<br>Really unlock?
+mst.dialog.Arcade_TestMode_LockFailed._title,Lock Failed
+mst.dialog.Arcade_TestMode_LockFailed._message,No account matches that transfer code and password.<br>The lock stays pending until the first credit.
+mst.dialog.Arcade_Enter_WipeConfirm._title,Konfirmasi Hapus Data
+mst.dialog.Arcade_Enter_WipeConfirm._message,"Perangkat ini sudah memiliki data game.<br>Jika beralih ke mode arcade, SEMUA data di perangkat ini (akun, kartu, lagu, dan progres) akan dihapus dan tidak dapat dipulihkan.<br><br>Apakah Anda ingin melanjutkan?"
+mst.dialog.Arcade_Enter_WipeFinal._title,Konfirmasi Akhir Penghapusan Data
+mst.dialog.Arcade_Enter_WipeFinal._message,Data game yang dihapus tidak dapat dipulihkan.<br><br>Apakah Anda benar-benar ingin menghapus semua data dan beralih ke mode arcade?
+mst.dialog.Arcade_Enter_KeyboardWarning._title,Diperlukan keyboard
+mst.dialog.Arcade_Enter_KeyboardWarning._message,"Setelah perangkat ini masuk ke mode arcade, layar tidak lagi bisa dipakai untuk mengubah pengaturan atau kembali ke permainan normal.<br>Test Mode (semua pengaturan mesin) dan keluar dari mode arcade hanya dapat dibuka dengan tombol TEST pada mesin: pada keyboard, tombol itu adalah F1 secara bawaan (tidak ada tombol gamepad untuknya).<br>Untuk keluar: TEST → Sistem → Keluar dari mode arcade, yang menghapus semua data simpanan di perangkat ini dan mengembalikannya ke kondisi awal setelah pemasangan.<br><br>Apakah keyboard sudah tersedia?"

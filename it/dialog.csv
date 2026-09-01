@@ -1,0 +1,675 @@
+﻿_key,_text
+mst.dialog.ErrorStay._title,Errore
+mst.dialog.ErrorStay._message,Si è verificato un errore <br> <br> {0}.
+mst.dialog.ErrorTitle._title,Errore
+mst.dialog.ErrorTitle._message,Si è verificato un errore. Torna al titolo <br> <br> <br> {0}.
+mst.dialog.NetworkError_Retry._title,Errore di connessione
+mst.dialog.NetworkError_Retry._message,Impossibile connettersi.<br>Riprova in un luogo con una migliore ricezione.
+mst.dialog.NetworkError_Title._title,Errore di connessione
+mst.dialog.NetworkError_Title._message,Si è verificato un errore durante la comunicazione <br>. Si torna alla schermata iniziale <br> <br> {0}.
+mst.dialog.NetworkError_ResourceUpdated._title,Errore di connessione
+mst.dialog.NetworkError_ResourceUpdated._message,È necessario aggiornare i dati<br>Torneremo alla schermata iniziale.
+mst.dialog.NetworkError_NotReachable_Retry._title,Errore di connessione
+mst.dialog.NetworkError_NotReachable_Retry._message,Impossibile connettersi.<br>Verifica la connessione e riprova.
+mst.dialog.ApplicationQuitConfirm._title,Conferma
+mst.dialog.ApplicationQuitConfirm._message,"Vuoi davvero uscire dal gioco?<br>Uscendo, l'applicazione si chiuderà."
+mst.dialog.AreaUnlock._title,Area sbloccata
+mst.dialog.AreaUnlock._message,È stata sbloccata una nuova area! {0} <br>
+mst.dialog.AreaUnlockDetail_StoryRead._title,Requisiti di sblocco
+mst.dialog.AreaUnlockDetail_StoryRead._message,Si sblocca visualizzando la storia <br> {0} <br>.
+mst.dialog.AreaUnlockDetail_UserRank._title,Requisiti di sblocco
+mst.dialog.AreaUnlockDetail_UserRank._message,Si sblocca raggiungendo il livello giocatore {0} e superiore <br>.
+mst.dialog.ChatTalkSkip._title,Salta
+mst.dialog.ChatTalkSkip._message,Vuoi saltare questa conversazione e terminare?
+mst.dialog.Chat_EncountStoryPlayback._title,Riproduci la storia dell'incontro
+mst.dialog.Chat_EncountStoryPlayback._message,Riproduci la storia dell'incontro con {0}.
+mst.dialog.OrnamentLevelRelease._title,Limite livello accessori aumentata
+mst.dialog.OrnamentLevelRelease._message,Ora puoi potenziare fino al livello {1}! {0} <br>
+mst.dialog.DeckNameChangeSuccess._title,Modifica nome unità
+mst.dialog.DeckNameChangeSuccess._message,La modifica del nome dell'unità è stata completata.
+mst.dialog.DeckNameChangeEmpty._title,Errore di input
+mst.dialog.DeckNameChangeEmpty._message,Inserisci almeno un carattere.
+mst.dialog.DeckNameChangeNg._title,Errore
+mst.dialog.DeckNameChangeNg._message,Contiene parole inappropriate.<br>Riprova.
+mst.dialog.MainDeckChangeSuccess._title,Unità principale cambiata
+mst.dialog.MainDeckChangeSuccess._message,Il gruppo principale è stato modificato.
+mst.dialog.PracticeConfirm._title,Conferma
+mst.dialog.PracticeConfirm._message,Vuoi usare questo taccuino di lezioni e <br>{0} G per potenziare <br>?
+mst.dialog.SkillPracticeConfirmByItem._title,Conferma
+mst.dialog.SkillPracticeConfirmByItem._message,Vuoi usare lo skill book selezionato e <br>{0} G per potenziare <br>?
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._title,Conferma
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._message,Questa Idol può essere usata anche per l'Evoluzione <br> vuoi smettere di selezionarla come materiale e passare all'Evoluzione? <br>
+mst.dialog.SkillPracticeConfirmByPhoto._title,Conferma
+mst.dialog.SkillPracticeConfirmByPhoto._message,"L'Idol selezionata scomparirà dalla sala prove <br>, vuoi comunque procedere con il potenziamento delle abilità? <br> <br> ※ Non scomparirà dall'elenco degli Idol."
+mst.dialog.TrainingConfirm._title,Conferma
+mst.dialog.TrainingConfirm._message,Eseguire l'Evoluzione con il lightstick selezionato?<br>Va bene?
+mst.dialog.StaminaChargeConfirm._title,Recupero LP
+mst.dialog.StaminaChargeConfirm._message,Vuoi ripristinare l'LP <br> di <br>?
+mst.dialog.StaminaChargeSuccess._title,Recupero LP
+mst.dialog.StaminaChargeSuccess._message,Hai recuperato {0} LP!
+mst.dialog.StaminaChargeOver._title,Limite recupero LP
+mst.dialog.StaminaChargeOver._message,"L'LP attuale supera il massimo consentito, quindi non è possibile effettuare il recupero <br><br>."
+mst.dialog.ShopBuySuccess._title,Acquisto oggetto
+mst.dialog.ShopBuySuccess._message,Hai acquistato {0}!
+mst.dialog.GachaExec._title,Conferma
+mst.dialog.GachaExec._message,Consuma {0} per ottenere {2}? Vuoi procedere con il consumo di {1}? <br>
+mst.dialog.GachaLackMedal._title,{0} insufficiente
+mst.dialog.GachaLackMedal._message,{0} non è sufficiente. Vuoi acquistare Loveca?
+mst.dialog.GachaLackItem._title,{0} insufficiente
+mst.dialog.GachaLackItem._message,Mancano {0}.
+mst.dialog.GachaResultGetBonus._title,Bonus ottenuto
+mst.dialog.GachaResultGetBonus._message,Hai ottenuto un bonus dal Reclutamento!
+mst.dialog.GachaResultGetMovie._title,Idol ottenuta
+mst.dialog.GachaErrorExpired._title,Errore
+mst.dialog.GachaErrorExpired._message,È scaduto il periodo di validità.
+mst.dialog.GachaTicketExpired._title,Errore
+mst.dialog.GachaTicketExpired._message,Il biglietto che hai cercato di usare è scaduto.
+mst.dialog.GachaSelectedExpired._title,Evento terminato
+mst.dialog.GachaSelectedExpired._message,Questo evento è terminato.
+mst.dialog.DeckResetConfirm._title,Resetta?
+mst.dialog.DeckResetConfirm._message,Vuoi davvero resettare la formazione attuale?<br>Sei sicuro?
+mst.dialog.RecommendSuccess._title,Unità consigliata
+mst.dialog.RecommendSuccess._message,Abbiamo creato una formazione consigliata.
+mst.dialog.NoticePlayerRankUp._title,Aumento di livello
+mst.dialog.NoticePlayerRankUp._message,LP è stato ripristinato di {0}.
+mst.dialog.NoticePlayerRankAndFriendMaxUp._title,Aumento di livello
+mst.dialog.NoticePlayerRankAndFriendMaxUp._message,"LP ripristinato di {0}, il numero massimo di amici è stato aumentato a {1} → {2} <br>"
+mst.dialog.NoticeGroupRankUp._title,Gruppo: Raggiunto nuovo livello
+mst.dialog.NoticeGroupRankMax._title,Gruppo: Raggiunto nuovo livello
+mst.dialog.NoticeGroupRankMax._message,Il livello del gruppo ha raggiunto il massimo <color=#D73C55> <b> </b> </color>
+mst.dialog.DeckMemberChangeConfirm._title,Conferma cambio
+mst.dialog.DeckMemberChangeConfirm._message,È già presente la stessa formazione <br>. Vuoi sostituirla con la formazione attuale «{0}»? <br>
+mst.dialog.StoryRelease._title,Storia sbloccata
+mst.dialog.StoryRelease._message,{0} è stato sbloccato e {1} è ora disponibile.
+mst.dialog.FriendSearchError._title,Errore di ricerca
+mst.dialog.FriendSearchError._message,"Nessun giocatore trovato <br>. L'ID inserito potrebbe essere errato, oppure <br> l'utente ha impostato le richieste di amicizia su rifiuto <br>."
+mst.dialog.FriendDeleteConfirm._title,Conferma
+mst.dialog.FriendDeleteConfirm._message,Elimina questo amico?
+mst.dialog.FriendDeleteSuccess._title,Amicizia annullata
+mst.dialog.FriendDeleteSuccess._message,Amicizia annullata.
+mst.dialog.FriendDeleteError._title,Errore nell'eliminazione amico
+mst.dialog.FriendDeleteError._message,Impossibile rimuovere l'amico.
+mst.dialog.FriendRequestCancelConfirm._title,Conferma
+mst.dialog.FriendRequestCancelConfirm._message,Vuoi annullare questa richiesta di amicizia?
+mst.dialog.FriendRequestCancelSuccess._title,Richiesta amicizia annullata
+mst.dialog.FriendRequestCancelSuccess._message,Richiesta di amicizia annullata.
+mst.dialog.FriendRequestCancelError._title,Annullamento richiesta amico fallito
+mst.dialog.FriendRequestCancelError._message,Impossibile annullare la richiesta di amicizia.
+mst.dialog.FriendPendingConfirm._title,Conferma
+mst.dialog.FriendPendingConfirm._message,Approvi la richiesta di amicizia?<br>Va bene?
+mst.dialog.FriendPendingSuccess._title,Richiesta amicizia accettata
+mst.dialog.FriendPendingSuccess._message,Richiesta di amicizia accettata.
+mst.dialog.FriendPendingError._title,Approvazione richiesta amicizia fallita
+mst.dialog.FriendPendingError._message,Impossibile approvare la richiesta di amicizia.
+mst.dialog.FriendRejectConfirm._title,Conferma
+mst.dialog.FriendRejectConfirm._message,Vuoi rifiutare questa richiesta di amicizia?
+mst.dialog.FriendRejectSuccess._title,Richiesta amicizia rifiutata
+mst.dialog.FriendRejectSuccess._message,Richiesta di amicizia rifiutata.
+mst.dialog.FriendRejectError._title,Richiesta amicizia rifiutata (errore)
+mst.dialog.FriendRejectError._message,Impossibile rifiutare la richiesta di amicizia.
+mst.dialog.FriendRequestSuccess._title,Richiesta di amicizia inviata
+mst.dialog.FriendRequestSuccess._message,Richiesta di amicizia inviata.
+mst.dialog.FriendRequestError._title,Richiesta fallita
+mst.dialog.FriendRequestError._message,Impossibile inviare la richiesta di amicizia.
+mst.dialog.FriendCanNotRequest._title,Richiesta non disponibile
+mst.dialog.FriendCanNotRequest._message,L'utente ha impostato il rifiuto delle richieste di amicizia.<br>
+mst.dialog.OptionSettingChangeCancelConfirm._title,Conferma
+mst.dialog.OptionSettingChangeCancelConfirm._message,Annullare le modifiche alle impostazioni e tornare<br>alla configurazione precedente?
+mst.dialog.OptionTestLivePauseDialog._title,In pausa
+mst.dialog.OptionTestLivePauseDialog._message,Vuoi interrompere il test Live e tornare alle impostazioni?<br>
+mst.dialog.LiveContinue._title,Riprendi Live
+mst.dialog.LiveContinue._message,Consumo di {0} Loveca per ripristinare completamente l'HP (<br>) e continuare il Live? <br>※Le Loveca verranno consumate dal saldo gratuito. <br><br>Loveca {1} → {2}
+mst.dialog.LiveContinueGemShortage._title,Loveca insufficiente
+mst.dialog.LiveContinueGemShortage._message,Loveca insufficienti per riprendere il Live.<br>
+mst.dialog.LiveFailure._title,Live fallito
+mst.dialog.LiveFailure._message,"HP esaurito<br> Con il Consumo di {0} Loveca, puoi recuperare completamente <br> HP e continuare."
+mst.dialog.LivePause._title,Pausa live
+mst.dialog.LivePause._message,"Interrompi il Live e torna alla selezione delle canzoni? <br> ※ In caso di interruzione, non verrà consumato LP."
+mst.dialog.LiveRetireConfirm._title,Interrompi Live
+mst.dialog.LiveRetireConfirm._message,"Interrompendo il Live, non si potranno ottenere le <br> ricompense del Live <br> . Va bene? <br> ※In caso di interruzione, gli LP non verranno consumati."
+mst.dialog.LiveRestartConfirm._title,Riavvia
+mst.dialog.LiveRestartConfirm._message,Vuoi riavviare? <br> Confermi? <br> Nota: non verranno utilizzati LP o biglietti per saltare la canzone.
+mst.dialog.TeacherPointDetail._title,Cos'è la classifica dei punteggi più alti?
+mst.dialog.TeacherPointDetail._message,"Il punteggio più alto si calcola in base ai punteggi ottenuti durante i Live <br>. Questo valore viene determinato dai tuoi punteggi migliori nei Live <br> <br>. Per ottenere un punteggio più alto, prova a potenziare le tue Idol <br>!"
+mst.dialog.GemPackBuyComplete._title,Acquisto completato
+mst.dialog.GemPackBuyComplete._message,Hai acquistato {0}.
+mst.dialog.GemBuyCancel._title,Annulla
+mst.dialog.GemBuyCancel._message,L'acquisto è stato annullato.
+mst.dialog.GemBuyComplete._title,Acquisto completato
+mst.dialog.GemBuyComplete._message,Hai acquistato {0}.
+mst.dialog.GemBuyStamina._title,Conferma
+mst.dialog.GemBuyStamina._message,"Consuma {0} per usare {1} e ripristinare <br> LP, recuperando {3} punti. Va bene? <br>"
+mst.dialog.GemBuyItem._title,Conferma
+mst.dialog.GemBuyItem._message,"Consuma {0} per usare {1} e ripristinare <br> LP, recuperando {3} punti. Va bene? <br>"
+mst.dialog.GemBuyItemPack._title,Conferma
+mst.dialog.GemBuyItemPack._message,Acquista spendendo {1} e utilizzando {0}. Va bene? <br>
+mst.dialog.GemInsufficientMedal._title,Loveca insufficiente
+mst.dialog.GemInsufficientMedal._message,Non hai abbastanza Loveca.
+mst.dialog.GemAgeError._title,Errore
+mst.dialog.GemAgeError._message,La data di nascita non è corretta.
+mst.dialog.GemAgeComplete._title,Inserimento completato
+mst.dialog.GemAgeComplete._message,Abbiamo verificato l'età <br> {0}
+mst.dialog.GemAgeConfirm._title,Conferma
+mst.dialog.GemAgeConfirm._message,"Una volta impostata, questa impostazione non potrà essere modificata fino alla disinstallazione dell’app. Sei sicuro di voler procedere?"
+mst.dialog.GemAskToBuy._title,Conferma
+mst.dialog.GemAskToBuy._message,"Per acquistare la valuta di gioco, è necessario il consenso del tutore legale <br>. Hai ottenuto il consenso del tutore? <br>"
+mst.dialog.GemBuyLimitError._title,Limite mensile
+mst.dialog.GemBuyLimitError._message,Non puoi acquistare perché supereresti il limite di spesa mensile <br>{0}.
+mst.dialog.GemBuyLimitAlert._title,Conferma
+mst.dialog.GemBuyLimitAlert._message,Acquisti {0} per <br>?
+mst.dialog.GemBuyLimitAlertConfirm._title,Conferma superamento limite acquisti
+mst.dialog.GemBuyLimitAlertConfirm._message,"L'importo degli acquisti di questo mese supererà i 100.000 yen <br> Vuoi continuare con l'acquisto? <br> <br> Per disattivare gli avvisi, puoi modificare le impostazioni qui: <br> <color=#D73C55> Impostazioni > Impostazioni di sistema > Impostazioni avvisi > Avviso limite spesa </color>"
+mst.dialog.GemBuyError._title,Errore
+mst.dialog.GemBuyError._message,Acquisto fallito.
+mst.dialog.GemShopError._title,Errore
+mst.dialog.GemShopError._message,Impossibile ottenere le informazioni del negozio.
+mst.dialog.GemShopTicketInfo._message,"ATTENZIONE <color=#D73C55>※Leggere attentamente※</color><br>※I Loveca acquistati vengono aggiunti direttamente al tuo inventario<br>※Gli altri oggetti verranno inviati come regalo<br>※Non è possibile ricevere Loveca se non si effettua il login<br>※Il bonus giornaliero viene distribuito al momento del login e aggiunto all'inventario<br>※Il bonus giornaliero può essere ricevuto a partire dalle 0:00 del giorno successivo all'acquisto<br>※Il bonus giornaliero consiste in Loveca gratuiti<br>※A partire dal giorno successivo all'acquisto, per {1} giorni, riceverai Loveca come bonus giornaliero e potrai ottenere {2} Loveca.<br>▼Contenuto del pacchetto<br>{3}<br>Loveca {4} x {5} giorni Totale {6}<br><br> <br> Prezzo {7}"
+mst.dialog.GemBuyErrorExpired._title,Periodo di vendita terminato
+mst.dialog.GemBuyErrorExpired._message,L'acquisto non è stato possibile perché il periodo di vendita è terminato.
+mst.dialog.SingleReward_OrnamentGet._title,Oggetto (provvisorio) ottenuto
+mst.dialog.SingleReward_OrnamentGetTeaSet._title,Oggetto sbloccato
+mst.dialog.SingleReward_OrnamentGetTeaSet._message,Ottenuto!<br>Ora puoi modificarlo nel magazzino.
+mst.dialog.SingleReward_OrnamentLevelUp._title,Ricompensa ottenuta
+mst.dialog.SingleReward_OrnamentLevelUp._message,Livello aumentato!
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._title,Ricompensa ottenuta
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._message,Livello aumentato!
+mst.dialog.SingleReward_OrnamentRelease._title,Oggetto (provvisorio) sbloccato
+mst.dialog.SingleReward_OrnamentRelease._message,È stato aggiunto al negozio personalizzato.
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._title,Oggetto sbloccato
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._message,In arrivo nel negozio di {0}: <br>{1}!
+mst.dialog.SingleReward_CommonDirectly._title,Ricompensa ottenuta
+mst.dialog.SingleReward_CommonDirectly._message,Ottenuto!
+mst.dialog.SingleReward_CommonPresentBox._title,Ricompensa ottenuta
+mst.dialog.SingleReward_CommonPresentBox._message,La <color=#C12424>ricompensa</color> può essere ricevuta tramite il regalo.
+mst.dialog.SingleReward_CommonView._title,Ricompensa ottenuta
+mst.dialog.SingleReward_EventDirectly._title,Ricompensa ottenuta
+mst.dialog.SingleReward_EventDirectly._message,Hai ottenuto la ricompensa per aver raggiunto {0}!
+mst.dialog.SingleReward_EventPresentBox._title,Ricompensa ottenuta
+mst.dialog.SingleReward_EventPresentBox._message,Puoi ricevere la <color=#C12424> ricompensa per aver raggiunto un totale di {0} tramite il regalo </color>.
+mst.dialog.SingleReward_Costume._title,Ottenuto costume
+mst.dialog.SingleReward_Costume._message,Hai ottenuto un nuovo costume!
+mst.dialog.SingleReward_Music._title,Nuova canzone sbloccata
+mst.dialog.SingleReward_Music._message,Nuova canzone sbloccata!
+mst.dialog.SingleReward_Title._title,Titolo ottenuto
+mst.dialog.SingleReward_Title._message,Hai ottenuto il titolo!
+mst.dialog.SingleReward_IntoPresentBox._title,Limite raggiunto
+mst.dialog.SingleReward_IntoPresentBox._message,"Hai raggiunto il limite massimo, quindi è stato inviato ai regali <color=#C12424></color>."
+mst.dialog.MultiReward_CommonDirectly._title,Ricompensa ottenuta
+mst.dialog.MultiReward_CommonDirectly._message,Ottenuto!
+mst.dialog.MultiReward_CommonPresentBox._title,Ricompensa ottenuta
+mst.dialog.MultiReward_CommonPresentBox._message,La <color=#C12424>ricompensa</color> può essere ricevuta tramite il regalo.
+mst.dialog.MultiReward_EventDirectly._title,Ricompensa ottenuta
+mst.dialog.MultiReward_EventDirectly._message,Hai ottenuto la ricompensa per aver raggiunto {0}!
+mst.dialog.MultiReward_EventPresentBox._title,Ricompensa ottenuta
+mst.dialog.MultiReward_EventPresentBox._message,Puoi ricevere la <color=#C12424> ricompensa per aver raggiunto un totale di {0} tramite il regalo </color>.
+mst.dialog.MultiReward_CommonView._title,Ricompensa ottenuta
+mst.dialog.MultiReward_IntoPresentBox._title,Limite raggiunto
+mst.dialog.MultiReward_IntoPresentBox._message,"Hai raggiunto il limite massimo, quindi è stato inviato ai regali <color=#C12424></color>."
+mst.dialog.Multi_Private_MasterRoomLeave._title,Live terminata
+mst.dialog.Multi_Private_MasterRoomLeave._message,{0} ha terminato il Live. Si torna alla schermata di selezione del Live <br>.
+mst.dialog.LiveResult_ContinueMultiRoom._title,Conferma continuazione
+mst.dialog.LiveResult_ContinueMultiRoom._message,Vuoi partecipare di nuovo allo stesso Live?
+mst.dialog.LoginBonus_Check._title,Data aggiornata
+mst.dialog.LoginBonus_Check._message,La data è stata aggiornata.<br>Riavvia l’applicazione.
+mst.dialog.LoginBonus_Common._title,Bonus giornaliero
+mst.dialog.LoginBonus_Common._message,Ricevi la {0} × {1} <br> <color=#D73C55> Ricompensa dai tuoi premi </color>
+mst.dialog.LoginBonus_Multi._title,Bonus giornaliero
+mst.dialog.LoginBonus_Multi._message,Ricevi la {0} × {1} <br> <color=#D73C55> Ricompensa dai tuoi premi </color>
+mst.dialog.MultiRoomType._title,Ricompensa Live
+mst.dialog.MultiRoomType._message,"Nei Live a tema ""Giornata"", è più facile ottenere le ricompense giornaliere <br>. <br> Nei Live normali, si ottengono le ricompense standard. <br> Lunedì: Ricompensa A <br> Martedì: Ricompensa B <br> Mercoledì: Ricompensa C <br> Giovedì: Ricompensa D <br> Venerdì: Ricompensa E <br> Sabato: Ricompensa F <br> Domenica: Ricompensa G <br> <br> La quantità di ricompense è stata modificata per gli oggetti che non sono soggetti all'aumento delle ricompense."
+mst.dialog.VoiceDownloadConfirm._title,Download voci
+mst.dialog.VoiceDownloadConfirm._message,"Vuoi scaricare in anticipo i doppiaggi, escludendo quelli delle storie? <br> <br> <br> <color=#D73C55> Dimensione download: <br> {0:0.00} MB <br> <br> Si consiglia di effettuare il download tramite Wi-Fi <br> </color>"
+mst.dialog.LiveProductionDownloadConfirm._title,Download dati animazioni Live
+mst.dialog.LiveProductionDownloadConfirm._message,"Vuoi scaricare in anticipo i dati necessari per le animazioni durante il Live <br>? In questo modo, i tempi di caricamento prima dell'inizio del Live potrebbero essere ridotti <br> <br> <br> <br> <color=#D73C55>. Dimensione download: <br> {0:0.00} MB <br> <br>. Si consiglia di effettuare il download tramite Wi-Fi <br> </color>."
+mst.dialog.GameLibErrorCode_1._title,Errore
+mst.dialog.GameLibErrorCode_1._message,L'argomento inserito non è valido <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_14._title,Errore
+mst.dialog.GameLibErrorCode_14._message,L'utente è stato disattivato <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_20._title,Errore
+mst.dialog.GameLibErrorCode_20._message,Impossibile utilizzare questo dispositivo perché è già stato associato a un account.<br>Codice errore: {0}
+mst.dialog.GameLibErrorCode_1000._title,Errore
+mst.dialog.GameLibErrorCode_1000._message,Si è verificato un errore di comunicazione <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_17219._title,Errore
+mst.dialog.GameLibErrorCode_17219._message,L'operazione è già in corso <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_10001._title,Errore
+mst.dialog.GameLibErrorCode_10001._message,L'argomento inserito non è valido <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_10006._title,Errore
+mst.dialog.GameLibErrorCode_10006._message,Il sistema di pagamento è in manutenzione <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_10007._title,Errore
+mst.dialog.GameLibErrorCode_10007._message,L'utente è stato disattivato <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_7002._title,Errore
+mst.dialog.GameLibErrorCode_7002._message,Il codice di trasferimento non è registrato <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_7003._title,Errore
+mst.dialog.GameLibErrorCode_7003._message,La password di trasferimento non è stata registrata <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_7004._title,Errore
+mst.dialog.GameLibErrorCode_7004._message,Verifica del codice di trasferimento e della password fallita <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_7005._title,Errore
+mst.dialog.GameLibErrorCode_7005._message,Il numero massimo di tentativi per la verifica del codice di trasferimento e della password è stato raggiunto <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_7012._title,Errore
+mst.dialog.GameLibErrorCode_7012._message,Account o password non corrispondono <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_7013._title,Errore
+mst.dialog.GameLibErrorCode_7013._message,Il numero di tentativi per la verifica dell'account e della password ha superato il limite consentito <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_8004._title,Errore
+mst.dialog.GameLibErrorCode_8004._message,Il trasferimento dati è bloccato <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_8022._title,Errore
+mst.dialog.GameLibErrorCode_8022._message,Il formato dell'account non è valido <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_16002._title,Errore
+mst.dialog.GameLibErrorCode_16002._message,Non è possibile effettuare l'acquisto perché si è superato il limite di spesa.<br>Codice errore: {0}
+mst.dialog.GameLibErrorCode_16005._title,Errore
+mst.dialog.GameLibErrorCode_16005._message,Il saldo di Loveca è insufficiente per effettuare l'acquisto <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_16007._title,Errore
+mst.dialog.GameLibErrorCode_16007._message,Paese o valuta non supportata <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_16008._title,Errore
+mst.dialog.GameLibErrorCode_16008._message,Non è possibile acquistare il biglietto perché esiste già un altro biglietto con gli stessi vantaggi attivo <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_16009._title,Errore
+mst.dialog.GameLibErrorCode_16009._message,Non è possibile acquistare il biglietto perché il periodo di validità totale dei biglietti supererebbe i 180 giorni <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_17002._title,Errore
+mst.dialog.GameLibErrorCode_17002._message,Quel Loveca è già stato assegnato <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_17007._title,Errore
+mst.dialog.GameLibErrorCode_17007._message,L'acquisto è in attesa dell'autorizzazione da parte del genitore <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_17100._title,Errore
+mst.dialog.GameLibErrorCode_17100._message,Il pagamento è stato annullato <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_17214._title,Errore
+mst.dialog.GameLibErrorCode_17214._message,La funzione di acquisto del dispositivo non è disponibile <br> Codice errore: {0}
+mst.dialog.GameLibErrorCode_20001._title,Errore
+mst.dialog.GameLibErrorCode_20001._message,L'età e la data di nascita specificate non corrispondono <br>. Codice errore: {0}
+mst.dialog.GameLibErrorCode_21001._title,Errore
+mst.dialog.GameLibErrorCode_21001._message,L'età e la data di nascita specificate non corrispondono <br>. Codice errore: {0}
+mst.dialog.CanNotAutoPlayWithoutStamina._title,LP insufficiente
+mst.dialog.CanNotAutoPlayWithoutStamina._message,LP insufficiente per l’esecuzione automatica.<br>
+mst.dialog.Migration_CheckDeviceChanged._title,Trasferimento dati
+mst.dialog.Migration_CheckDeviceChanged._message,"È stato rilevato un cambio di dispositivo. Vuoi ripristinare i dati di gioco? <br> <br> <br> Tieni presente che, una volta ripristinati i dati su questo dispositivo, <br> non potrai più giocare sul vecchio dispositivo."
+mst.dialog.Migration_ErrorRegisterNewDevice._title,Errore
+mst.dialog.Migration_ErrorRegisterNewDevice._message,Il ripristino dei dati di gioco è fallito. Prova il trasferimento dati utilizzando l'ID e la password per il trasferimento. <br> <br>
+mst.dialog.Migration_IdCopy._title,Copia completata
+mst.dialog.Migration_IdCopy._message,L'ID di trasferimento è stato copiato.
+mst.dialog.Migration_Complet._title,Trasferimento dati completato
+mst.dialog.Migration_Complet._message,"I dati di gioco sono stati trasferiti.<br>Continua a divertirti con ""School Idol Festival 2""."
+mst.dialog.Migration_Completed._title,Trasferimento dati completato
+mst.dialog.Migration_Completed._message,"I dati di gioco del dispositivo attuale sono già stati trasferiti su un altro dispositivo <br> Vuoi iniziare il gioco dall'inizio? <br> <br> Se non hai effettuato tu stesso il trasferimento dei dati, seleziona ""Annulla"" e contatta l'assistenza clienti tramite [MENU] > [Aiuto] nella schermata del titolo. <br> <br>"
+mst.dialog.Migration_RetryPassword._title,Errore di input
+mst.dialog.Migration_RetryPassword._message,L'ID di trasferimento o <br>la password non sono corretti.
+mst.dialog.Migration_InputPasswordError._title,Errore di input
+mst.dialog.Migration_InputPasswordError._message,La password deve contenere<br>da 8 a 32 caratteri alfanumerici.
+mst.dialog.Error_Maintenance._title,In manutenzione
+mst.dialog.Error_Maintenance._message,"Il periodo di manutenzione potrebbe subire modifiche senza preavviso, quindi vi preghiamo di comprendere {0}. <br> <br> Si prega di consultare il sito ufficiale per le informazioni più recenti <br>. <br> <br> <br> <u> <link={1}> <color=blue> Sito ufficiale </color> </link> </u>"
+mst.dialog.Error_ResultCodeMaintenance._title,In manutenzione
+mst.dialog.Error_Game_Version_Updated._title,Aggiornamento
+mst.dialog.Error_Game_Version_Updated._message,È necessario aggiornare l'app.<br>Installa l'ultima versione dallo store.
+mst.dialog.Tutorial_CardSelectConfirm._title,Conferma
+mst.dialog.Tutorial_CardSelectConfirm._message,Va bene scegliere {0} e {1}? <br> <br> ※Non sarà possibile modificarlo in seguito.
+mst.dialog.Tutorial_DeleteGameDataConfirm._title,Conferma eliminazione dati
+mst.dialog.Tutorial_DeleteGameDataConfirm._message,"Eliminando i dati di gioco, verranno inizializzati e potrai ricominciare il gioco dall'inizio <br><br>Tieni presente che i dati di gioco eliminati non potranno essere ripristinati <br><br>Vuoi procedere con l'eliminazione dei dati di gioco?"
+mst.dialog.Tutorial_DeleteGameDataReconfirm._title,Ultima conferma eliminazione dati
+mst.dialog.Tutorial_DeleteGameDataReconfirm._message,I dati di gioco eliminati non possono essere ripristinati <br><br> Sei sicuro di voler procedere con l'eliminazione dei dati?
+mst.dialog.Tutorial_DeleteGameDataComplete._title,Eliminazione dati completata
+mst.dialog.Tutorial_DeleteGameDataComplete._message,I dati di gioco sono stati eliminati.
+mst.dialog.Tutorial_SkipFirstHalf._title,Conferma
+mst.dialog.Tutorial_SkipFirstHalf._message,"Vuoi saltare la prima parte della spiegazione del gioco (tutorial)? <br> Se lo fai, il Live di prova verrà completato automaticamente. <br>"
+mst.dialog.Tutorial_SkipLatterHalf._title,Conferma
+mst.dialog.Tutorial_SkipLatterHalf._message,Vuoi saltare anche la seconda parte del tutorial?
+mst.dialog.DownloadConfirm._title,Conferma download
+mst.dialog.DownloadNotEnoughFreeSpace._title,Spazio insufficiente
+mst.dialog.DownloadNotEnoughFreeSpace._message,Lo spazio disponibile sul dispositivo è insufficiente <br>. Si prega di liberare spazio e riprovare il download <br>.
+mst.dialog.GooglePlayLogined._title,Conferma
+mst.dialog.GooglePlayLogined._message,Sei già connesso a Google Play.
+mst.dialog.AdditionalDownloadConfirm._title,Download aggiuntivo?
+mst.dialog.AdditionalDownloadConfirm._message,Scaricheremo i dati aggiuntivi <br> <br> <color=#D73C55> Dimensione del download: {0:0.00} MB <br> <br> Si consiglia di scaricare in ambiente Wi-Fi <br> </color>
+mst.dialog.SongCacheClearConfirm._title,Cancella cache?
+mst.dialog.SongCacheClearConfirm._message,Eliminerà le canzoni già scaricate.<br>Va bene?
+mst.dialog.StoryDownloadConfirm._title,Riproduzione vocale
+mst.dialog.StoryDownloadConfirm._message,Vuole scaricare i dati vocali e<br>riprodurre la storia?<br><br><color=#D73C55>Dimensione download:{0:0.00} MB<br><br>※Si consiglia il download in ambiente Wi-Fi.<br></color>
+mst.dialog.AdditionalMovieDownloadConfirm._title,Download dati
+mst.dialog.AdditionalMovieDownloadConfirm._message,Scaricheremo il video <br> <br> <color=#D73C55>. Dimensione download: {0:0.00} MB <br> <br>. Si consiglia di scaricare in ambiente Wi-Fi <br> </color>.
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._title,Download dati
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._message,"Scaricheremo tutti i video in blocco <br> <br> <color=#D73C55> Dimensione download: {0:0.00} MB </color> <br> <br> Anche se si seleziona Annulla, è possibile scaricare un video alla volta <br> In seguito sarà possibile scaricarli tutti insieme dalla sezione ""Download multiplo"" all'interno della storia <br> Poiché la quantità di dati è elevata, eseguire l'operazione in un ambiente con una buona connessione di rete <br> <color=#D73C55> Si consiglia di scaricare i video tramite Wi-Fi </color>"
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._title,Download dati
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._message,"Scaricheremo tutti i video in blocco <br> <br> <color=#D73C55> Dimensione download: {0:0.00} MB </color> <br> <br> Anche se si seleziona ""Annulla"", è possibile scaricare i video uno alla volta <br> In seguito, sarà possibile scaricarli tramite l'opzione ""Download in blocco"" all'interno della collezione <br> Poiché la quantità di dati è elevata, eseguire l'operazione in un ambiente con una buona connessione di rete <br> <color=#D73C55> Si consiglia di scaricare i video utilizzando una connessione Wi-Fi </color>"
+mst.dialog.NoNeedAdditionalMovieDownload._title,Download dati
+mst.dialog.NoNeedAdditionalMovieDownload._message,Non ci sono dati da scaricare al momento.
+mst.dialog.DownloadComplete_Restart._title,Conferma
+mst.dialog.DownloadComplete_Restart._message,Il download dei dati è completo.<br>Riavvia l'app.
+mst.dialog.AlbumDownloadNoticeOnce._title,Conferma
+mst.dialog.AlbumDownloadNoticeOnce._message,"Durante la visualizzazione dell'album dei ricordi, i dati delle immagini verranno scaricati.<br>Assicurarsi di avere spazio sufficiente sul dispositivo prima di procedere."
+mst.dialog.PresentBox_ReceiveSingleSuccess._title,Ricevuto!
+mst.dialog.PresentBox_ReceiveSingleSuccess._message,Hai ricevuto il regalo!
+mst.dialog.PresentBox_ReceiveMultiSuccess._title,Ricevuto!
+mst.dialog.PresentBox_ReceiveMultiSuccess._message,Hai ricevuto il regalo!
+mst.dialog.PresentBox_ReceiveSingleFailure._title,Limite raggiunto
+mst.dialog.PresentBox_ReceiveSingleFailure._message,Non è stato possibile ricevere il regalo perché hai raggiunto il limite massimo.
+mst.dialog.PresentBox_ReceiveMultiFailure._title,Limite raggiunto
+mst.dialog.PresentBox_ReceiveMultiFailure._message,Non è stato possibile ricevere il regalo perché hai raggiunto il limite massimo.
+mst.dialog.PresentBox_ReceiveOutOfTerm._title,Periodo di validità scaduto
+mst.dialog.PresentBox_ReceiveOutOfTerm._message,Il periodo per ricevere il premio è scaduto.
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._title,Periodo di validità scaduto
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._message,Il periodo per ricevere il premio è scaduto.
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._title,Periodo di validità scaduto
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._message,Il periodo per ricevere il premio è scaduto.
+mst.dialog.PresentBox_ReceiveSingleExpireReward._title,Scadenza scaduta
+mst.dialog.PresentBox_ReceiveSingleExpireReward._message,Non è possibile ricevere il premio perché la scadenza è passata.
+mst.dialog.PresentBox_ReceiveMultiExpireReward._title,Scadenza scaduta
+mst.dialog.PresentBox_ReceiveMultiExpireReward._message,Non è possibile ricevere il premio perché la scadenza è passata.
+mst.dialog.Multi_StampReset._title,Reset stampe
+mst.dialog.Multi_StampReset._message,Vuoi rimuovere tutti gli adesivi attualmente impostati?
+mst.dialog.Multi_PrivateRoom_Done._title,Live non creato
+mst.dialog.Multi_PrivateRoom_Done._message,"Esiste già un Live con lo stesso ID, quindi crea di nuovo il Live."
+mst.dialog.Multi_Room_Failed._title,Live non creato
+mst.dialog.Multi_Room_Failed._message,Impossibile creare il Live.
+mst.dialog.Multi_Disconnect_Scene_2._title,Conferma
+mst.dialog.Multi_Disconnect_Scene_2._message,La connessione è stata interrotta.<br>La sessione Live cooperativa verrà terminata e tornerai alla schermata iniziale.
+mst.dialog.Multi_Disconnect_Warning._title,Conferma
+mst.dialog.Multi_Disconnect_Warning._message,La connessione è stata interrotta.<br>La sessione Live cooperativa verrà terminata e tornerai alla schermata iniziale.
+mst.dialog.Multi_Result_Playing_Caution._title,Conferma
+mst.dialog.Multi_Result_Playing_Caution._message,"Se il numero di PERFECT e GREAT è basso, i punti evento ottenuti diminuiranno.<br>Scegli una difficoltà adatta alle tue capacità."
+mst.dialog.Function_Lock_Multi._title,Conferma
+mst.dialog.Function_Lock_Multi._message,"Durante il Live cooperativo, è stato rilevato un comportamento che disturba gli altri utenti <br> pertanto abbiamo temporaneamente limitato alcune funzioni <br> si prega di attendere fino alla revoca della restrizione."
+mst.dialog.NgWord._title,Errore
+mst.dialog.NgWord._message,Contiene parole inappropriate.<br>Reinserisci il testo.
+mst.dialog.AndroidPermission._title,Permessi richiesti
+mst.dialog.AndroidPermission._message,"Per giocare, devi autorizzare l'accesso allo spazio di archiviazione."
+mst.dialog.AndroidPermissionDetail._title,Permessi richiesti
+mst.dialog.AndroidPermissionDetail._message,"Per giocare, devi autorizzare l'accesso allo spazio di archiviazione.<br>Apri la schermata delle impostazioni dell'app."
+mst.dialog.Adventure_Skip._title,Salta
+mst.dialog.Adventure_Skip._message,Vuoi saltare questa storia e terminare?
+mst.dialog.DeviceCompromised._title,Errore
+mst.dialog.DeviceCompromised._message,Il dispositivo è stato modificato e non è possibile giocare.
+mst.dialog.CanNotMainDeckReset._title,Impossibile resettare
+mst.dialog.CanNotMainDeckReset._message,L'unità principale non può essere <br> resettata.
+mst.dialog.CanNotAutoPlayNotClear._title,Riproduzione automatica non disponibile
+mst.dialog.CanNotAutoPlayNotClear._message,Non puoi saltare perché non hai completato il Live.<br>
+mst.dialog.Error_Friend_Max_Self._title,Limite amici
+mst.dialog.Error_Friend_Max_Self._message,Hai raggiunto il numero massimo di amici <br>. Elimina alcuni degli amici esistenti <br>.
+mst.dialog.Error_Friend_Max_Other._title,Limite amici
+mst.dialog.Error_Friend_Max_Other._message,L'altro giocatore ha raggiunto il numero massimo di amici.
+mst.dialog.Error_Friend_Request_Max_Self._title,Richiesta di amicizia non disponibile
+mst.dialog.Error_Friend_Request_Max_Self._message,"Hai raggiunto il numero massimo di richieste di amicizia, quindi non è stato possibile inviare la richiesta a <br><br>."
+mst.dialog.Error_Friend_Request_Max_Other._title,Richiesta di amicizia non disponibile
+mst.dialog.Error_Friend_Request_Max_Other._message,L'altro utente ha raggiunto il limite di richieste di amicizia.
+mst.dialog.Error_Friend_Pending_Max_Self._title,Richiesta di amicizia non disponibile
+mst.dialog.Error_Friend_Pending_Max_Self._message,Hai raggiunto il limite massimo di richieste di amicizia in sospeso.
+mst.dialog.Error_Friend_Pending_Max_Other._title,Richiesta di amicizia non disponibile
+mst.dialog.Error_Friend_Pending_Max_Other._message,Non ci sono più richieste di amicizia in sospeso per l'altro utente.
+mst.dialog.Error_Friend_Already_Request._title,Richiesta di amicizia non disponibile
+mst.dialog.Error_Friend_Already_Request._message,Impossibile inviare la richiesta.
+mst.dialog.Error_Friend_Already_Pending._title,Richiesta di amicizia non disponibile
+mst.dialog.Error_Friend_Already_Pending._message,È già in corso una richiesta di amicizia da parte dell'utente.
+mst.dialog.Error_Friend_Already_Friend._title,Richiesta di amicizia non disponibile
+mst.dialog.Error_Friend_Already_Friend._message,Già amici.
+mst.dialog.Error_Friend_Request_Reject._title,Richiesta di amicizia non disponibile
+mst.dialog.Error_Friend_Request_Reject._message,"L'utente ha impostato il rifiuto automatico delle richieste di amicizia, quindi non è possibile inviare la richiesta a <br><br><br><br>."
+mst.dialog.PrivateEnter_NotJoin._title,Live: impossibile partecipare
+mst.dialog.PrivateEnter_NotJoin._message,Impossibile partecipare al Live.
+mst.dialog.PrivateEnter_HostPreparation._title,Live: impossibile partecipare
+mst.dialog.PrivateEnter_HostPreparation._message,"Il giocatore host si sta preparando, quindi non è possibile partecipare al Live."
+mst.dialog.PrivateEnter_NotCondition._title,Live: impossibile partecipare
+mst.dialog.PrivateEnter_NotCondition._message,Non hai soddisfatto le condizioni per partecipare a questo Live <br> <br> Condizioni di partecipazione al Live <br> {0}
+mst.dialog.PrivateEnter_NotRoom._title,Verifica ID Live
+mst.dialog.PrivateEnter_NotRoom._message,Nessun Live corrispondente all'ID inserito è stato trovato.<br>Verifica l'ID del Live che hai inserito.
+mst.dialog.PrivateEnter_NotTotalPower._title,Live: impossibile partecipare
+mst.dialog.PrivateEnter_NotTotalPower._message,La potenza totale dell'unità principale è insufficiente per partecipare al Live.
+mst.dialog.Photo_Box_Change_Result._title,Scambio completato
+mst.dialog.Photo_Box_Change_Result._message,Lo scambio è stato completato.
+mst.dialog.ChipsterErrorCode_0._title,Errore di caricamento
+mst.dialog.ChipsterErrorCode_0._message,Si è verificato un errore durante il caricamento<br>Torneremo alla schermata iniziale.
+mst.dialog.ChipsterErrorCode_100000._title,Errore di connessione
+mst.dialog.ChipsterErrorCode_100000._message,Impossibile caricare il file<br>Ritorno alla schermata iniziale.
+mst.dialog.ChipsterErrorCode_100404._title,Errore di connessione
+mst.dialog.ChipsterErrorCode_100404._message,Impossibile connettersi al server.<br>Ritorno alla schermata iniziale.
+mst.dialog.ChipsterErrorCode_100408._title,Errore di caricamento
+mst.dialog.ChipsterErrorCode_100408._message,Connessione fallita.<br>Ritorno alla schermata iniziale.
+mst.dialog.ChipsterErrorCode_100500._title,Errore di caricamento
+mst.dialog.ChipsterErrorCode_100500._message,Si è verificato un problema con la connessione.<br>Torneremo alla schermata iniziale.
+mst.dialog.ChipsterErrorCode_200000._title,Errore di caricamento
+mst.dialog.ChipsterErrorCode_200000._message,Impossibile caricare i dati.<br>Ritorno alla schermata iniziale.
+mst.dialog.ChipsterErrorCode_200100._title,Errore di caricamento
+mst.dialog.ChipsterErrorCode_200100._message,Nessuna risposta dalla rete per un certo periodo.<br>Ritorno alla schermata iniziale.
+mst.dialog.ChipsterErrorCode_200200._title,Errore di caricamento
+mst.dialog.ChipsterErrorCode_200200._message,Impossibile caricare i dati.<br>Ritorno alla schermata iniziale.
+mst.dialog.ChipsterErrorCode_999999._title,Errore di caricamento
+mst.dialog.ChipsterErrorCode_999999._message,Si è verificato un problema durante il caricamento dei dati<br>Torneremo alla schermata iniziale.
+mst.dialog.Error_Forbidden._title,Errore
+mst.dialog.Error_Forbidden._message,"L'account è stato sospeso.<br>Se non sai perché, contatta l'assistenza tramite Titolo > Menu > Aiuto > Altre richieste."
+mst.dialog.Event_ErrorNotSession._title,Periodo non attivo
+mst.dialog.Event_ErrorNotSession._message,Nessun evento attivo al momento.
+mst.dialog.Event_ErrorEnded._title,Evento terminato
+mst.dialog.Event_ErrorEnded._message,L'evento è terminato.<br>Torna alla schermata iniziale.
+mst.dialog.Event_ErrorEndedNotPolicy._title,Evento terminato
+mst.dialog.Event_ErrorEndedNotPolicy._message,"Non hai accettato i Termini d'uso dell'evento, quindi non possiamo visualizzare la pagina principale dell'evento.<br>"
+mst.dialog.Event_ResultAnnouncement._title,Annuncio risultati evento
+mst.dialog.Event_ResultAnnouncement._message,"Grazie per aver partecipato a «{0}»! Abbiamo inviato il premio e la ricompensa di classifica <br>, quindi assicurati di riceverli. Puoi controllare i risultati della classifica nella pagina dell'evento <br>."
+mst.dialog.ShopLackMedal._title,{0} insufficiente
+mst.dialog.ShopLackMedal._message,{0} non è sufficiente. Vuoi acquistare Loveca?
+mst.dialog.Mission_ErrorEnded._title,Periodo non attivo
+mst.dialog.Mission_ErrorEnded._message,Il periodo per completare la missione è terminato.
+mst.dialog.BoxGacha_NextBoxConfirm._title,Conferma
+mst.dialog.BoxGacha_NextBoxConfirm._message,"Vuoi passare alla prossima scatola, scartando quella attuale <br>? <br>"
+mst.dialog.Error_Gift_Expired._title,Periodo di validità scaduto
+mst.dialog.Error_Gift_Expired._message,Il periodo per ricevere il regalo è scaduto.
+mst.dialog.Error_Mission_Expired._title,Periodo di validità scaduto
+mst.dialog.Error_Mission_Expired._message,Il periodo per ricevere la ricompensa della missione è scaduto.<br>Le ricompense non ricevute saranno inviate alla casella dei regali.
+mst.dialog.Error_Item_Expired._title,Scaduto
+mst.dialog.Error_Item_Expired._message,L'oggetto è scaduto.
+mst.dialog.Function_Lock_Gacha._title,Funzione limitata
+mst.dialog.Function_Lock_Gacha._message,Attualmente la funzione di Reclutamento è <br>limitata e non può essere utilizzata<br><br><br>Orario di inizio previsto: {0}<br>Orario di fine previsto: {1}<br><br><color=#D73C55></color>
+mst.dialog.Function_Lock_Shop._title,Funzione limitata
+mst.dialog.Function_Lock_Shop._message,Attualmente la funzione negozio è <br>limitata e non può essere utilizzata<br><br><br>Orario di inizio previsto: {0}<br>Orario di fine previsto: {1}<br><br><color=#D73C55></color>
+mst.dialog.Function_Lock_Exchange._title,Funzione limitata
+mst.dialog.Function_Lock_Exchange._message,Attualmente la funzione di scambio è<br>limitata e<br>non disponibile<br><br>Ora di inizio prevista : {0}<br>Ora di fine prevista : {1}<br><br><color=#D73C55></color>
+mst.dialog.RecommendConfirm._title,Avviso (provvisorio)
+mst.dialog.RecommendConfirm._message,Nuovo avviso disponibile.
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._title,Live: impossibile partecipare
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._message,Impossibile avviare perché non sono state soddisfatte le condizioni per partecipare al Live <br> <br> Condizioni di partecipazione al Live <br> {0}
+mst.dialog.Live_BluetoothAudioMode._title,Modalità Bluetooth
+mst.dialog.Live_BluetoothAudioMode._message,"Siamo passati alla modalità Bluetooth grazie alla connessione delle cuffie Bluetooth <br> In modalità Bluetooth, gli effetti sonori potrebbero subire un leggero ritardo durante il Live <br> Verranno applicate le impostazioni di compensazione specifiche per la modalità Bluetooth."
+mst.dialog.Live_BatteryQuantityCheck._title,Avviso batteria scarica
+mst.dialog.Live_BatteryQuantityCheck._message,"La batteria è quasi scarica<br>Il livello attuale della batteria è del <color=#D73C55> {0} %</color><br>Se il livello scende troppo, <br>il Live potrebbe essere interrotto<br>Ti consigliamo di ricaricare il dispositivo."
+mst.dialog.MusicVideo_ReleaseCondition._title,Condizioni di sblocco MV
+mst.dialog.MusicVideo_ReleaseCondition._message,"Completando una volta qualsiasi difficoltà in modalità Live, sbloccherai la visione dell'MV."
+mst.dialog.MusicVideo_Pause._title,In pausa
+mst.dialog.MusicVideo_Pause._message,Vuoi interrompere la visualizzazione del MV<br>e tornare alla schermata di selezione delle canzoni?
+mst.dialog.Adventure_Movie_Skip._title,In pausa
+mst.dialog.Adventure_Movie_Skip._message,Vuoi saltare il filmato?
+mst.dialog.StaminaConfirm._title,Conferma LP
+mst.dialog.StaminaConfirm._message,"Attualmente, l'LP rimanente è inferiore alla quantità impostata <br> Vuoi consumare solo la quantità disponibile per eseguire il Live? <br> ※ Se l'LP rimanente è 0, non verrà consumato."
+mst.dialog.AutoBoostConfirm._title,Conferma biglietti salto
+mst.dialog.AutoBoostConfirm._message,"Attualmente, il numero di skip ticket disponibile è inferiore a quello impostato.<br>Vuoi utilizzare solo gli skip ticket disponibili per effettuare il Live?"
+mst.dialog.NoAutoBoostConfirm._title,Conferma biglietti salto
+mst.dialog.NoAutoBoostConfirm._message,"Attualmente non possiedi skip ticket o non hai superato la canzone, quindi non puoi usare gli skip ticket. Vuoi effettuare il Live consumando <br>LP? <br>*Se ti rimangono 0 LP, questi non verranno consumati."
+mst.dialog.NoAutoBoostForSpiritConfirm._title,Conferma biglietti salto
+mst.dialog.NoAutoBoostForSpiritConfirm._message,"Attualmente non possiedi biglietti per saltare o non hai completato la canzone, quindi non puoi usare i biglietti per saltare.<br>Vuoi effettuare il Live consumando Stelle Miracolose?"
+mst.dialog.LiveResultRestartConfirm._title,Riavvio?
+mst.dialog.LiveResultRestartConfirm._message,Vuoi riprovare il Live consumando {0} LP?
+mst.dialog.LiveResultRestartAutoConfirm._title,Riavvio?
+mst.dialog.LiveResultRestartAutoConfirm._message,Vuoi riprodurre la Live consumando {0} biglietti per saltare le scene?
+mst.dialog.CardMovie_Pause._title,In pausa
+mst.dialog.CardMovie_Pause._message,Vuoi interrompere la riproduzione del video e tornare alla schermata dei dettagli <br>?
+mst.dialog.OrnamentShop_LackGem._title,Loveca richiesti
+mst.dialog.OrnamentShop_LackGem._message,Non hai abbastanza Loveca per effettuare l'acquisto.
+mst.dialog.OrnamentShop_Lack._title,Verifica {0}
+mst.dialog.OrnamentShop_Lack._message,Non è possibile acquistare perché mancano {0}.
+mst.dialog.StoryReleaseDetail._title,Requisiti di sblocco
+mst.dialog.StoryPlay._title,Riproduci storia
+mst.dialog.StoryPlay._message,"Riproduci «{0}» <br>, va bene? <br>"
+mst.dialog.StoryPlayAfterDownload._title,Riproduci storia
+mst.dialog.StoryPlayAfterDownload._message,「{1}」<br> verrà scaricato e riprodotto<br><br><color=#D73C55>Dimensione download: {0:0.00} MB</color><br>Confermi?<br><br><color=#D73C55>※Si consiglia il download in ambiente Wi-Fi<br></color>
+mst.dialog.EpisodePlay._title,Riproduci storia
+mst.dialog.EpisodePlay._message,Riproduci «{0}». Confermi? <br>
+mst.dialog.Tutorial_GroupSelect._title,Gruppo preferito
+mst.dialog.Tutorial_GroupSelect._message,"Dal gruppo selezionato, potrai ottenere con il prossimo Reclutamento un Membro con la massima rarità ""UR"" <br> e questo avverrà sicuramente <br>. Vuoi che ti guidi in questo gruppo?"
+mst.dialog.Tutorial_MemberSelect._title,Conferma Membro Preferito
+mst.dialog.Tutorial_MemberSelect._message,Puoi ottenere la versione più rara (UR) del Membro selezionato tramite il prossimo Reclutamento <br>. Vuoi confermare questo Membro? <br>
+mst.dialog.Tutorial_Movie_Skip._title,Salta video?
+mst.dialog.Tutorial_Movie_Skip._message,Vuoi saltare il filmato?
+mst.dialog.Tutorial_Live_Skip._title,Conferma salto Live
+mst.dialog.Tutorial_Live_Skip._message,Vuoi saltare il Live?
+mst.dialog.Tutorial_GetMember._title,Membro preferito ottenuto
+mst.dialog.Tutorial_GetMember._message,Hai ottenuto {0} e <br>! I membri del gruppo (Idol) ottenuti verranno aggiunti direttamente.
+mst.dialog.Tutorial_HomeGacha._title,Tutorial completato
+mst.dialog.Tutorial_HomeGacha._message,"Per celebrare il completamento del tutorial, puoi effettuare 10 Reclutamenti gratuiti."
+mst.dialog.Tutorial_Complete._title,Conferma
+mst.dialog.Tutorial_Complete._message,Congratulazioni per aver completato il tutorial!
+mst.dialog.BandEnrich._title,Conferma
+mst.dialog.BandEnrich._message,Sei sicuro di voler usare l'oggetto potenziamento band selezionato e <br> {0} G per potenziare? <br>
+mst.dialog.SubTutorial_EndConfirm._title,Conferma
+mst.dialog.SubTutorial_EndConfirm._message,Vuoi fare una Live?
+mst.dialog.SubTutorial_SkipConfirm._title,Conferma
+mst.dialog.SubTutorial_SkipConfirm._message,Vuoi saltare?
+mst.dialog.EmotionalMemberSelect._title,Selezione in corso [{0}]
+mst.dialog.EmotionalMemberSelect._message,"Decidi di scegliere questo Membro? <br><br> Tieni presente che una volta scelto, non potrai più cambiare il tuo Membro preferito."
+mst.dialog.EmotionalBandSelect._title,Selezione in corso [{0}]
+mst.dialog.EmotionalBandSelect._message,"Vuoi confermare la scelta di questo gruppo? <br> <br> Durante il periodo di selezione, puoi cambiare gruppo tutte le volte che vuoi. <br> Tieni presente che cambiando gruppo, gli Event Point (provvisori) verranno resettati. <br> Gli Event Point (provvisori) inizieranno ad essere calcolati dopo aver confermato la scelta del gruppo."
+mst.dialog.ShopAttentionWording._title,Note sull'utilizzo
+mst.dialog.ShopAttentionWording._message,"I resi non sono possibili.<br>Se l'utente ha meno di 18 anni, è necessario il consenso del tutore legale per acquistare i prodotti."
+mst.dialog.Notice_Movie_Skip._title,Salta video?
+mst.dialog.Notice_Movie_Skip._message,Vuoi saltare il filmato?
+mst.dialog.GameLibErrorCode_17101._title,Acquisto non completato
+mst.dialog.GameLibErrorCode_17101._message,"Ci sono pagamenti in sospeso presso un negozio fisico che non sono stati completati<br>Si prega di completare il pagamento presso il negozio fisico per l'acquisto in sospeso<br>Oppure, annulla l'acquisto in sospeso nella cronologia del Google Play Store<br><br>Dopo aver completato il pagamento, riapri la schermata del negozio per riflettere l'articolo<br>Codice errore: {0}"
+mst.dialog.GameLibErrorCode_16010._title,Acquisto non completato
+mst.dialog.GameLibErrorCode_16010._message,"Ci sono pagamenti in sospeso presso un negozio fisico che non sono stati completati<br>Si prega di completare il pagamento presso il negozio fisico per l'acquisto in sospeso<br>Oppure, annulla l'acquisto in sospeso nella cronologia del Google Play Store<br><br>Dopo aver completato il pagamento, riapri la schermata del negozio per riflettere l'articolo<br>Codice errore: {0}"
+mst.dialog.GachaConfirmFree._title,Conferma
+mst.dialog.GachaConfirmFree._message,Vuoi effettuare {1} Reclutamenti con {0}?
+mst.dialog.GachaConfirmFreeDaily._title,Conferma
+mst.dialog.GachaConfirmFreeDaily._message,Vuoi effettuare {1} Reclutamento con {0}? Sarà ripristinato alle <br>.
+mst.dialog.GachaConfirmTutorial._title,Conferma
+mst.dialog.GachaConfirmTutorial._message,Vuoi effettuare {1} Reclutamenti con {0}?
+mst.dialog.GameLibErrorCode_1100._title,Errore di collegamento account
+mst.dialog.GameLibErrorCode_1100._message,Impossibile collegare l'account.
+mst.dialog.DataTakeOver_SNSSignOutConfirm._title,Disconnetti account
+mst.dialog.DataTakeOver_SNSSignOutConfirm._message,Vuoi disconnettere l’account collegato?
+mst.dialog.ChatOpen._title,Chat disponibile!
+mst.dialog.ChatOpen._message,Nuovo messaggio!<br>Vuoi leggerlo?
+mst.dialog.ReturnToTitleConfirm._title,Conferma
+mst.dialog.ReturnToTitleConfirm._message,Vuoi tornare alla schermata iniziale?
+mst.dialog.GoToRehearsalConfirm._title,Conferma Rehearsal
+mst.dialog.GoToRehearsalConfirm._message,"Durante la prova non verrà effettuato alcun Consumo di LP <br>, ma i dati come il punteggio non verranno registrati al completamento <br>. Vuoi comunque procedere senza Ottenuto Ricompense?"
+mst.dialog.GoToEventRehearsalConfirm._title,Conferma Rehearsal
+mst.dialog.GoToEventRehearsalConfirm._message,"Durante la prova non si consumano Miracolo Stelle <br>, ma i dati come il punteggio non verranno registrati al completamento <br> e non sarà possibile ottenere ricompense. Va bene?"
+mst.dialog.MigrateError_WrongParam._title,Conferma
+mst.dialog.MigrateError_WrongParam._message,Dati di trasferimento non trovati.<br>Verifica che l'ID utente e la password siano corretti.
+mst.dialog.MigrateError_AlreadyCompleted._title,Conferma
+mst.dialog.MigrateError_AlreadyCompleted._message,Questo ID utente ha già completato la migrazione dei dati.
+mst.dialog.TermsOfService_UpDate._title,Aggiornamento dei Termini d'uso
+mst.dialog.TermsOfService_UpDate._message,"I Termini d'uso sono stati aggiornati.<br>Per continuare a giocare, è necessario accettare nuovamente i Termini d'uso."
+mst.dialog.Subscription_Restore_Ok._title,Ripristino abbonamento
+mst.dialog.Subscription_Restore_Ok._message,Ripristinato.
+mst.dialog.Subscription_Restore_0_Have._title,Ripristino abbonamento
+mst.dialog.Subscription_Restore_0_Have._message,Non è stato possibile verificare l'acquisto.
+mst.dialog.Subscription_Restore_Error._title,Ripristino abbonamento
+mst.dialog.Subscription_Restore_Error._message,Ripristino fallito.
+mst.dialog.GameLibErrorCode_37003._title,Errore
+mst.dialog.GameLibErrorCode_37003._message,Acquisto non disponibile: superato il limite.
+mst.dialog.GameLibErrorCode_37004._title,Errore
+mst.dialog.GameLibErrorCode_37004._message,Non è possibile effettuare l'acquisto perché supera il limite massimo di gemme disponibili.
+mst.dialog.GameLibErrorCode_37006._title,Errore
+mst.dialog.GameLibErrorCode_37006._message,L'abbonamento è già attivo e non può essere acquistato di nuovo.
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._title,Conferma
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._message,Questo account è già collegato a un altro utente: <br> desideri scollegarlo dall'altro utente <br> e collegarlo all'utente corrente? <br> <br>
+mst.dialog.GameLibOrder_IsPending._title,Acquisto non completato
+mst.dialog.GameLibOrder_IsPending._message,"È presente un pagamento tramite minimarket non ancora completato <br>. Si prega di completare il pagamento tramite minimarket per l'acquisto in sospeso <br>, oppure annullare l'acquisto in sospeso nella cronologia del Google Play Store <br>. Dopo aver completato il pagamento, è possibile visualizzare l'articolo aprendo nuovamente la schermata dello shop <br>."
+mst.dialog.MusicRecommendErrorExpired._title,Errore
+mst.dialog.MusicRecommendErrorExpired._message,Questo elenco di brani consigliati non è più disponibile.
+mst.dialog.MultiDeckErrorUnorganized._title,Errore di Formazione
+mst.dialog.MultiDeckErrorUnorganized._message,Crea un'unità dedicata per il Live cooperativo.
+mst.dialog.MultiCanNotMatching._title,Impossibile connettersi
+mst.dialog.MultiCanNotMatching._message,Impossibile trovare un match. Si torna alla schermata principale dell'evento.
+mst.dialog.LocationInformationConfirmingDialog._title,Controllo posizione in corso
+mst.dialog.LocationInformationConfirmingDialog._message,"Stiamo ottenendo le informazioni sulla posizione <br> l'acquisizione delle informazioni potrebbe richiedere del tempo <br> premendo Annulla, l'operazione verrà interrotta."
+mst.dialog.LocationFailedDialogOutofArea._title,Area non idonea per la ricompensa
+mst.dialog.LocationFailedDialogOutofArea._message,Sei fuori dall'area in cui è possibile ottenere la ricompensa<br>Non hai potuto ricevere la ricompensa.
+mst.dialog.LocationFailedDialogNotAllow._title,Conferma
+mst.dialog.LocationFailedDialogNotAllow._message,"Se la modalità di localizzazione è impostata su ""Disattivata"" o ""Solo GPS"", <br>la funzione di collegamento alla posizione non può essere utilizzata. <br>Per modificare le impostazioni, consulta le impostazioni del dispositivo."
+mst.dialog.LocationFailedDialogTimeout._title,Conferma
+mst.dialog.LocationFailedDialogTimeout._message,Tempo scaduto.
+mst.dialog.LocationFailedDialogNone._title,Conferma
+mst.dialog.LocationFailedDialogNone._message,Ricompensa non ottenuta.
+mst.dialog.LocationFailedDialogReceived._title,Conferma
+mst.dialog.LocationFailedDialogReceived._message,È una campagna per cui hai già ricevuto la ricompensa.
+mst.dialog.LocationFailedDialogOutOfTerm._title,Conferma
+mst.dialog.LocationFailedDialogOutOfTerm._message,Il periodo della campagna è terminato.
+mst.dialog.MultiConfirmStartLive._title,Conferma
+mst.dialog.MultiConfirmStartLive._message,"Il numero di partecipanti è insufficiente. Giocando con <br> persone invece di <br>, i punti evento ottenuti potrebbero essere inferiori di <br>. <br> Vuoi iniziare il Live con il numero attuale di partecipanti? <br>"
+mst.dialog.MultiConfirmStartLivePermanent._title,Conferma
+mst.dialog.MultiConfirmStartLivePermanent._message,Il numero di partecipanti è insufficiente.<br><br>Vuoi iniziare il Live lo stesso?
+mst.dialog.MultiLeaveRoomOnSongPick._title,Esci dal Live
+mst.dialog.MultiLeaveRoomOnSongPick._message,"Se esci ora, non parteciperai a questo Live.<br><br>Uscire comunque?"
+mst.dialog.MultiPenalty._title,Conferma
+mst.dialog.MultiPenalty._message,"A causa di ripetute disconnessioni durante le Live cooperative, abbiamo temporaneamente limitato la funzionalità <br>. Si prega di attendere fino al ripristino <br>. <br> <br> <color=#D73C55> Tempo rimanente per il ripristino: <br> {0} </color>"
+mst.dialog.MultiPenaltyWarning._title,Conferma
+mst.dialog.MultiPenaltyWarning._message,Durante il Live cooperativo si è verificata una disconnessione<br>i risultati del Live non saranno validi.
+mst.dialog.MultiLiveInterruption._title,Conferma
+mst.dialog.MultiLiveInterruption._message,Durante il Live cooperativo si è verificata una disconnessione<br>i risultati del Live non saranno validi.
+mst.dialog.MultiRematchAllUsersLeft._title,Conferma
+mst.dialog.MultiRematchAllUsersLeft._message,Tutti gli altri giocatori hanno lasciato la stanza.
+mst.dialog.MultiDisconnectedError._title,Conferma
+mst.dialog.MultiDisconnectedError._message,La connessione è stata interrotta.
+mst.dialog.MultiHelperCountEmpty._title,Conferma
+mst.dialog.MultiHelperCountEmpty._message,Il numero di aiuti disponibili per oggi è terminato.<br>Tornerai alla schermata principale dell'evento.
+mst.dialog.SS_AlignmentError_WrongParam._title,Errore
+mst.dialog.SS_AlignmentError_WrongParam._message,Nessun dato da collegare trovato. <br>Verifica che l'ID giocatore di Skustar e la password di collegamento siano stati inseriti correttamente.<br>
+mst.dialog.SS_AlignmentError_AlreadyCompleted._title,Errore
+mst.dialog.SS_AlignmentError_AlreadyCompleted._message,L'associazione con l'account di School Festa 2 è già stata completata.
+mst.dialog.SS_AlignmentError_UsedCode._title,Errore
+mst.dialog.SS_AlignmentError_UsedCode._message,La sincronizzazione con questo ID giocatore di Skustar è già stata completata.
+mst.dialog.SS_AlignmentError_Expired._title,Errore
+mst.dialog.SS_AlignmentError_Expired._message,Non è più utilizzabile perché il periodo di validità è scaduto.
+mst.dialog.EventEndConfirmDialog._title,Conferma
+mst.dialog.EventEndConfirmDialog._message,L'evento è terminato.
+mst.dialog.LiveLoadError._title,Aggiornamento brano
+mst.dialog.LiveLoadError._message,I dati della canzone sono stati aggiornati.
+mst.dialog.StartEventLive._title,Conferma
+mst.dialog.StartEventLive._message,L'evento è iniziato.
+mst.dialog.SerialCcode_ExcludedItem._title,Conferma
+mst.dialog.SerialCcode_ExcludedItem._message,Questa chat è già stata sbloccata.
+mst.dialog.UseExpiredItem._title,Errore
+mst.dialog.UseExpiredItem._message,La validità dell’oggetto {0} è scaduta.
+mst.dialog.LiveSkipConfirm._title,Conferma
+mst.dialog.LiveSkipConfirm._message,"Le canzoni che hai già completato possono essere saltate a qualsiasi livello di difficoltà.<br>Tuttavia, i livelli di difficoltà non ancora completati non verranno considerati come tali."
+mst.dialog.GameClose_AnnouncePaybackNotice._title,Avviso di fine servizio
+mst.dialog.GameClose_AnnouncePaybackNotice._message,"《Love Live! School Idol Festival 2 MIRACLE LIVE!》, il servizio è terminato il <br>2024年3月31 (domenica). <br><br>Periodo di accettazione delle richieste di rimborso: dal 1° aprile 2024 (lunedì) alle 0:00 al 17 giugno 2024 (lunedì) alle 14:59. <br><br>Grazie per averci supportato finora."
+mst.dialog.GameClose_AnnouncePayback._title,Avviso sul rimborso dei Loveca a pagamento
+mst.dialog.GameClose_AnnouncePayback._message,『ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!』は、<br>2024年3月31日 (日) にサービスを終了いたしました。<br>アプリ専用通貨「有償ラブカ」の未使用残高の払い戻しをご希望の場合は、<br>「払い戻し」フォームからお問い合わせください。<br><br>払い戻しを行う前払式支払手段発行者：株式会社ブシロード<br>■払い戻し受付期間：2024年4月1日 (月) 00:00 ～ 2024年6月17日 (月) 15:00<br>※当該期間に払い戻しの申出がない場合は、この手続きから除外されます。
+mst.dialog.GameClose_AnnounceNoPayback._title,Avviso di fine servizio
+mst.dialog.GameClose_AnnounceNoPayback._message,"『Love Live! School Idol Festival 2 MIRACLE LIVE!』, <br>il servizio è terminato il <br>2024年3月31 (domenica). <br>Non ci sono Loveca a pagamento che possono essere rimborsate. <br>Per qualsiasi domanda, contattaci tramite il link sottostante. <br><br>Grazie per aver giocato finora."
+mst.dialog.GameClose_Announce._title,Avviso di fine servizio
+mst.dialog.GameClose_Announce._message,《Love Live! School Idol Festival 2 MIRACLE LIVE!》 terminerà son service le <br>31 mars 2024 (dimanche). <br><br>Grazie per averci supportato fino ad oggi.
+mst.dialog.GameClose_Information_Terms._title,Termini d'uso
+mst.dialog.GameClose_Information_Terms._message,"Termini d'uso<br>I presenti Termini d'uso (di seguito ""Questi Termini"") stabiliscono le condizioni per l'utilizzo del servizio offerto da Bushiroad Co., Ltd. (di seguito ""la Società"") tramite l'applicazione ""Love Live! School Idol Festival 2 MIRACLE LIVE!"" (di seguito ""Questa App""). Si applicano a tutti gli utenti che utilizzano il servizio (di seguito ""Utenti"").<br><br>Articolo 1 - Definizioni<br>""Contenuti"" si riferisce a testi, caratteri, audio, musica, altri suoni, immagini, video, simboli, software, programmi, codici e altre informazioni.<br>""Contenuti dell'App"" indica i contenuti accessibili tramite questo servizio.<br>""Contenuti Utente"" sono i contenuti pubblicati, inviati o caricati dall'Utente nel servizio.<br>""Valuta in-app"" è la valuta elettronica scambiabile con servizi o contenuti a pagamento offerti nel servizio.<br>""Sito Web"" si riferisce al sito ufficiale di questo servizio.<br>""Termini d'uso specifici"" sono i documenti che stabiliscono le condizioni d'uso pubblicate dalla Società separatamente da questi Termini, sotto vari nomi come ""Regolamento"", ""Linee guida"" o ""Politica"". Insieme a questi Termini, formano i ""Termini e Condizioni"".<br>Articolo 2 - Accettazione dei Termini<br>L'Utente deve utilizzare il servizio conformemente alle disposizioni contrattuali e non può utilizzarlo senza accettare i Termini e Condizioni.<br>Quando l'Utente avvia l'utilizzo del servizio completando la procedura di accettazione, si considera concluso un contratto d'uso (di seguito ""Contratto d'Uso"") tra l'Utente e la Società conforme a questi Termini.<br>Se esistono Termini specifici per il servizio, l'Utente deve rispettarli oltre a questi Termini. In caso di conflitto, prevalgono i Termini specifici.<br>L'Utente è considerato aver accettato validamente e irrevocabilmente questi Termini utilizzando effettivamente il servizio.<br>Articolo 3 - Modifica dei Termini<br>La Società può modificare i Termini in qualsiasi momento se lo ritiene necessario, previo accordo individuale con l'Utente.<br>La Società può modificare i Termini ai sensi dell'articolo 548-4 del Codice Civile giapponese nelle seguenti circostanze:<br>La modifica è conforme all'interesse generale degli Utenti.<br>La modifica non contrasta con lo scopo del contratto ed è ragionevole considerando la necessità della modifica, l'equità dei nuovi contenuti e le circostanze correlate.<br>Se la Società modifica i Termini ai precedenti commi, ne darà comunicazione sul proprio sito Web almeno un mese prima, indicando il contenuto e la data di efficacia. Se l'Utente utilizza il servizio dopo tale data, si considera aver accettato i nuovi Termini. In caso di dissenso, l'Utente non potrà più utilizzare il servizio.<br>Articolo 4 - Utilizzo da parte di Minorenni<br>Se l'Utente è minorenne, deve ottenere il consenso del tutore legale prima di utilizzare il servizio (incluso l'accettazione dei Termini).<br>Se un Utente che era minorenne al momento dell'accettazione inizia a utilizzare il servizio dopo aver raggiunto la maggiore età, si considera abbia ratificato le azioni compiute durante la minore età.<br>Articolo 5 - Account<br>L'Utente deve fornire informazioni veritiere e accurate sulla propria persona e mantenerle sempre aggiornate. La Società non è responsabile di danni derivanti da informazioni false, errate o incomplete.<br>L'Utente deve gestire con cura le credenziali di accesso (ID, password, ecc., di seguito ""Credenziali"") sotto la propria responsabilità. La Società considera tutte le azioni compiute con tali Credenziali come effettuate dall'Utente stesso e non si assume alcuna responsabilità per danni a terzi o all'Utente.<br>La Società può sospendere o eliminare l'account senza preavviso se ritiene che l'Utente abbia violato o rischi di violare i Termini.<br>La Società può eliminare l'account se l'Utente non utilizza il servizio per un anno, basandosi sui registri di accesso al server.<br>Il diritto d'uso dell'Utente nel servizio cessa immediatamente con l'eliminazione dell'account, indipendentemente dal motivo. Non è possibile recuperare account eliminati erroneamente.<br>L'account è strettamente personale e inalienabile. I diritti d'uso non possono essere trasferiti, affittati o ereditati a terzi.<br>In caso di furto, perdita o uso non autorizzato delle Credenziali, l'Utente deve contattare immediatamente la Società e seguire le sue istruzioni.<br>L'Utente è responsabile di risarcire la Società e i terzi per eventuali danni causati dall'uso illecito delle Credenziali.<br>Articolo 6 - Gestione delle Informazioni Utente<br>La Società gestisce le informazioni dell'Utente, dei dispositivi e altri dati raccolti conformemente alla ""Politica sulla Protezione dei Dati Personali"" e alla ""Privacy Policy dell'Applicazione"".<br><br>Articolo 7 - Fornitura del Servizio<br>L'Utente utilizza il servizio secondo i metodi stabiliti dalla Società.<br>L'Utente deve provvedere a proprie spese ai dispositivi, software, connessioni internet e altri strumenti necessari per utilizzare il servizio, nonché alle relative tariffe di comunicazione.<br>La Società può limitare l'accesso al servizio in base ad età, verifica dell'identità, registrazione o altri criteri. L'Utente accetta preventivamente tali limitazioni.<br>La Società può modificare o sospendere il servizio (inclusi specifiche, regole, design, parametri, scenari, ecc.) senza preavviso se lo ritiene necessario.<br>Il servizio è destinato esclusivamente all'uso personale. È vietato qualsiasi uso commerciale, vendita, distribuzione o sviluppo non autorizzato.<br>Articolo 8 - Contenuti a Pagamento<br>Per i servizi o contenuti a pagamento (di seguito ""Contenuti a Pagamento""), l'Utente paga il prezzo secondo le condizioni stabilite dalla Società.<br>Prezzi, metodi di pagamento e altre informazioni sono stabiliti dalla Società e visualizzati nell'App o sul Sito Web.<br>La Società si riserva il diritto di modificare i prezzi dei contenuti a pagamento o gratuiti a propria discrezione.<br>Non sono previsti rimborsi per i Contenuti a Pagamento, salvo obblighi di legge.<br>L'Utente accetta che lo store gestisca i pagamenti per conto della Società. Eventuali controversie devono essere risolte direttamente tra Utente e Società, senza reclami verso lo store.<br>Articolo 9 - Visualizzazione Pubblicitaria<br>La Società può visualizzare pubblicità proprie o di terzi nel servizio.<br>Il servizio può includere contenuti di terze parti. La responsabilità per tali contenuti spetta ai rispettivi fornitori, che possono imporre propri termini e condizioni.<br>Articolo 10 - Contenuti dell'App Forniti dalla Società<br>Tutti i diritti (copyright, brevetti, proprietà intellettuale) sui Contenuti dell'App forniti dalla Società appartengono alla Società o ai terzi autorizzati.<br>La Società concede all'Utente una licenza non esclusiva e non trasferibile per utilizzare tali contenuti solo nel servizio.<br>L'Utente deve rispettare eventuali condizioni d'uso specifiche (prezzo, durata). I diritti di proprietà intellettuale non si trasferiscono all'Utente.<br>I contenuti possono essere utilizzati principalmente sul dispositivo di download. È vietato riprodurre, modificare, distribuire o trasmettere i contenuti senza autorizzazione, nonché compiere atti che violino o rischino di violare i diritti della Società.<br>In caso di controversie con i titolari dei diritti per violazione del presente articolo, l'Utente risolverà la situazione a proprie spese e responsabilità. La Società non si assume alcuna responsabilità.<br>Articolo 11 - Contenuti Utente<br>L'Utente dichiara e garantisce di avere i diritti legali per pubblicare i propri contenuti e che questi non violano diritti di terzi (copyright, brevetti, marchi, segreti commerciali, ecc.) o la legalità.<br>L'Utente mantiene i diritti sui contenuti pubblicati. La Società non acquisisce tali diritti, ma ottiene una licenza gratuita, perpetua e irrevocabile per utilizzare i contenuti pubblici per servizi e promozioni, incluso il diritto di modificarli e sublicenziarli a partner.<br>L'Utente rinuncia all'esercizio dei diritti morali d'autore e dell'attore nei confronti della Società e dei suoi aventi causa.<br>Se il servizio permette la modifica collaborativa, l'Utente autorizza gli altri Utenti a modificare i propri contenuti.<br>La Società può verificare i contenuti per conformità legale o contrattuale, ma non è obbligata a farlo.<br>La Società può limitare o rimuovere i contenuti che violano leggi o Termini, o per necessità operativa, senza preavviso.<br>L'Utente è responsabile del backup dei propri contenuti. La Società non ha obblighi di backup.<br>Articolo 12 - Valuta in-app<br>La valuta in-app viene assegnata all'Utente tramite acquisti, campagne o altri metodi indicati dalla Società. Unità, pagamenti e condizioni sono stabiliti e visualizzati nel servizio.<br>La valuta in-app non è scambiabile con denaro, beni o vantaggi economici al di fuori dei servizi/contenuti indicati. Il numero richiesto per lo scambio è stabilito dalla Società.<br>La valuta può essere utilizzata solo sull'account da cui è stata ottenuta. Valute con lo stesso nome ma su sistemi operativi diversi sono incompatibili e non sono trasferibili o cumulabili.<br>L'Utente non può condividere, trasferire, cedere, impegnare o garantire la valuta in-app ad altri account o terzi.<br>Se l'account viene eliminato (per violazione o richiesta dell'Utente), la valuta in-app associata diventa inutilizzabile.<br>Non sono previsti rimborsi per la valuta in-app, salvo obblighi di legge. In tal caso, le modalità saranno stabilite dalla Società e visualizzate nel servizio.<br>Se esistono valuta a pagamento e gratuita, quest'ultima viene consumata per prima.<br>Articolo 13 - Comportamenti Vietati<br>L'Utente non deve compiere o favorire i seguenti atti:<br>Violazione di leggi, sentenze o misure amministrative vincolanti.<br>Atti contrari all'ordine pubblico e al buon costume.<br>Attività criminali o loro incitamento/partecipazione.<br>Fornitura di benefici o supporto a gruppi antisociali.<br>Violazione di diritti di proprietà intellettuale, onore o privacy della Società o terzi.<br>Noleggio, scambio, cessione, cambio nome, vendita, pegno o trasferimento a terzi dei contenuti/crediti del servizio con metodi non autorizzati (incluso il trading reale).<br>Attività commerciali, promozionali, pubblicitarie, di reclutamento, religiose, sessuali, incontri con sconosciuti, diffusione di materiale pedopornografico o abusi, molestie o diffamazione verso terzi, o uso del servizio per scopi diversi da quelli previsti.<br>Pubblicazione di contenuti eccessivamente violenti, sessualmente espliciti, discriminatori, che incitano al suicidio/autolesionismo/abuso di sostanze o comunque offensivi e antisociali.<br>Atti che incitano o favoriscono il cyberbullismo o molestie verso terzi.<br>Reindirizzamento a siti per adulti, raccolta dati personali o siti commerciali (incluso affiliazione) tramite link.<br>Compravendita o scambio di beni/servizi, con o senza scopo di lucro, e relative promozioni.<br>Pubblicazione di indirizzi email, numeri di telefono o dati personali/privacy propri o di terzi.<br>Invio di messaggi identici a molti destinatari (non autorizzati), aggiunta indiscriminata di contatti/gruppi, o altre attività considerate spam.<br>Fingere di essere la Società o terzi, o diffondere intenzionalmente informazioni false.<br>Raccolta illecita, divulgazione o fornitura di dati personali o cronologie d'uso di terzi.<br>Accesso illecito, uso di account altrui, ottenimento multiplo di credenziali o atti simili.<br>Interferenza con server/reti del servizio, manipolazione illecita tramite mezzi tecnici, o sfruttamento intenzionale di malfunzionamenti.<br>Decompilazione, reverse engineering o analisi del codice/sorgente/struttura del servizio.<br>Richieste o inquiry ingiustificate alla Società.<br>Ostacolo al funzionamento del servizio o all'uso da parte di altri Utenti.<br>Favorire o sostenere atti vietati dagli articoli precedenti.<br>Altri atti giudicati inappropriati dalla Società.<br>La valutazione se un atto rientri nei divieti è a discrezione ragionevole della Società.<br>L'Utente deve segnalare immediatamente alla Società eventuali violazioni.<br>Articolo 14 - Misure per Violazioni<br>La Società può sospendere, limitare l'accesso, eliminare contenuti o risolvere il contratto senza preavviso se ritiene che l'Utente rientri in queste categorie:<br>Violazione dei Termini.<br>Falsità nelle informazioni fornite alla Società.<br>Incapacità di pagamento, fallimento, riorganizzazione aziendale o procedure simili.<br>Morte dell'Utente o apertura di tutela/curatela.<br>Minorenni o interdetti senza consenso del tutore.<br>Mancata risposta a richieste della Società per oltre 30 giorni.<br>Associazione con gruppi antisociali o supporto al loro mantenimento/gestione.<br>Necessità operativa di manutenzione/conservazione del servizio.<br>Altre circostanze simili giudicate necessarie dalla Società.<br>L'Utente rimane responsabile di tutti gli obblighi e debiti contrattuali verso la Società e terzi, inclusi i danni, anche dopo la sospensione.<br>La Società non è responsabile dei danni all'Utente derivanti da azioni intraprese ai sensi del presente articolo. Può comunque conservare/utilizzare le informazioni fornite dall'Utente senza obblighi.<br>La Società può richiedere la cessazione della violazione o l'eliminazione spontanea di contenuti entro un termine fissato. L'Utente deve ottemperare.<br>La Società non è responsabile dei danni o svantaggi subiti dall'Utente a causa delle misure adottate.<br>Articolo 15 - Cessazione dell'Utilizzo del Servizio<br>L'Utente può cessare l'utilizzo in qualsiasi momento disinstallando l'app, eliminando l'account o seguendo le procedure della Società.<br>In caso di perdita dei diritti d'uso (es. eliminazione errata dell'account), l'Utente non potrà più utilizzare account, contenuti utente, informazioni accumulate o valuta in-app.<br>L'Utente rimane responsabile di tutti gli obblighi contrattuali verso la Società e terzi anche dopo la cessazione.<br>La Società può conservare/utilizzare le informazioni fornite dall'Utente senza obblighi.<br>La Società può eliminare l'account a propria discrezione senza preavviso in caso di cessazione. Non è responsabile dei danni derivanti dall'eliminazione.<br>In caso di morte dell'Utente, account, dati e valuta in-app vengono eliminati/invalidati e non sono ereditabili.<br>Articolo 16 - Modifica, Cessazione o Interruzione del Servizio<br>La Società può modificare o aggiungere parti del servizio senza preavviso.<br>La Società può cessare il servizio comunicandolo tramite l'App, il Sito Web o altri mezzi appropriati.<br>La cessazione può includere la sospensione dell'emissione di valuta in-app. L'Utente accetta preventivamente ciò.<br>La Società può interrompere temporaneamente il servizio senza preavviso in caso di:<br>Manutenzione o riparazione urgente/periodica di dispositivi e reti.<br>Sovraccarico del sistema o fattori imprevisti.<br>Necessità di garantire la sicurezza degli Utenti.<br>Interruzione dei servizi degli operatori di telecomunicazioni.<br>Forza maggiore (disastri naturali, incendi, blackout, guerre, scioperi, ecc.).<br>Impossibilità operativa per leggi o misure governative.<br>Altre circostanze giudicate necessarie dalla Società.<br>La Società non è responsabile dei danni all'Utente derivanti da queste misure.<br>Articolo 17 - Responsabilità dell'Utente<br>L'Utente utilizza il servizio a propria responsabilità e costo, ed è pienamente responsabile di tutte le azioni e conseguenze.<br>La Società applicherà sanzioni ai sensi dell'Articolo 14 per violazioni, ma non ha obbligo di prevenirle o correggerle.<br>In caso di danni diretti/indiretti alla Società (inclusi costi legali) derivanti da violazioni o uso del servizio, l'Utente deve risarcire immediatamente tutti i danni.<br>Eventuali controversie tra Utenti o con terzi devono essere gestite direttamente dall'Utente a proprie spese. La Società non partecipa né è responsabile.<br>Articolo 18 - Esclusione di Responsabilità<br>La Società non è responsabile per interruzioni del servizio, perdita di dati o danni derivanti da malfunzionamenti, salvo dolo o colpa grave.<br>In caso di responsabilità per inadempimento o illecito, il risarcimento è limitato ai danni diretti e normali effettivamente subiti, con un importo massimo pari alle tariffe ricevute nel mese del danno, salvo dolo o colpa grave.<br>Articolo 19 - Modalità di Contatto<br>Le comunicazioni della Società all'Utente avvengono tramite l'App, il Sito Web o altri mezzi appropriati.<br>Le notifiche via email si considerano ricevute quando normalmente dovrebbero raggiungere l'indirizzo registrato.<br>Le richieste dell'Utente devono essere inviate tramite i moduli di contatto indicati. La Società non è tenuta a rispondere ad altri metodi.<br>Articolo 20 - Divieto di Cessione di Diritti e Obblighi<br>L'Utente non può cedere, trasferire o gravare con garanzie diritti, obblighi o la posizione contrattuale a terzi senza consenso scritto preventivo della Società.<br><br>Articolo 21 - Gestione in Caso di Cessione Aziendale<br>In caso di cessione del business del servizio a terzi o fusione/scissione, la Società può trasferire diritti, obblighi e dati utente all'acquirente.<br><br>Articolo 22 - Separabilità<br>Se una parte dei Termini è invalida per legge, le restanti disposizioni rimangono valide.<br>L'invalidità di una clausola verso un Utente non ne compromette la validità verso altri.<br>Articolo 23 - Legge Applicabile e Foro Competente<br>La legge applicabile è quella giapponese. Per controversie, il foro competente esclusivo in primo grado è il Tribunale o il Tribunale di Pace di Tokyo."
+mst.dialog.GameClose_Information_PrivacyPolicy._title,Privacy Policy
+mst.dialog.GameClose_Information_PrivacyPolicy._message,"Informativa sulla privacy dell'applicazione <br> La presente Informativa sulla privacy (di seguito ""Informativa"") definisce le modalità di gestione delle informazioni degli utenti da parte di Bushiroad Co., Ltd. (di seguito ""Società"") per l'applicazione mobile ""Love Live! School Idol Festival 2 MIRACLE LIVE!"" (di seguito ""Applicazione"") e i servizi relativi all'Applicazione (di seguito ""Servizi""). <br> <br> Articolo 1 (Consenso) <br> Utilizzando l'Applicazione e i Servizi, gli utenti si impegnano ad aver letto e compreso il contenuto della presente Informativa e dell'""Informativa sulla protezione dei dati personali"" (https://bushiroad.com/company/privacy.html; di seguito ""Informativa"") e a darne il consenso. Se l'utente non acconsente, non potrà utilizzare l'Applicazione e i Servizi. <br> <br> Articolo 2 (Elementi delle informazioni acquisite, scopo dell'utilizzo, metodo di acquisizione) <br> In relazione alla fornitura dell'Applicazione e dei Servizi, la Società acquisisce automaticamente le seguenti informazioni sugli utenti tramite l'Applicazione per gli scopi indicati. <br> Scopo Elementi delle informazioni acquisite <br> ■ Per identificare il dispositivo utente utilizzato nel Servizio ① Informazioni sul dispositivo dell'utente, come il numero di identificazione del dispositivo. <br> ■ Per comprendere lo stato di utilizzo dell'Applicazione e dei Servizi sul dispositivo utente e fornire servizi personalizzati in base allo stesso ② Indirizzo IP <br> ③ Tipo e versione del sistema operativo <br> ④ Informazioni sulla posizione del dispositivo utente (solo per i dispositivi che hanno abilitato l'invio delle informazioni sulla posizione tramite GPS o Bluetooth). <br> ■ Per inviare notifiche push al dispositivo utente (solo per i dispositivi che hanno abilitato le impostazioni di ricezione delle notifiche push) ⑤ ID emesso per l'Applicazione scaricata sul dispositivo (token del dispositivo). <br> ■ Per la pubblicità o la visualizzazione di annunci della Società o di terzi. <br> ■ Per migliorare e correggere i bug dell'Applicazione e dei Servizi. <br> ■ Per utilizzarli nel marketing e nello sviluppo di nuovi prodotti. <br> ■ Per creare dati o statistiche anonime e condividerle o fornirle a terzi ①～⑤ tutte le informazioni. <br> ■ Per rispondere alle richieste degli utenti e fornire altri servizi di assistenza agli utenti ① Informazioni sul dispositivo dell'utente, come il numero di identificazione del dispositivo. <br> ③ Tipo e versione del sistema operativo. <br> ■ Per fornire annunci personalizzati o misurare l'efficacia della pubblicità ① Informazioni sul dispositivo dell'utente, come il numero di identificazione del dispositivo. <br> In relazione alla fornitura dell'Applicazione e dei Servizi, la Società acquisisce le seguenti informazioni dagli utenti chiedendo loro di inserirle per gli scopi indicati. <br> Scopo Elementi delle informazioni acquisite <br> ■ Per inviare newsletter relative ai Servizi ① Indirizzo email. <br> ■ Per rispondere alle richieste degli utenti e fornire altri servizi di assistenza agli utenti ① Indirizzo email. <br> ■ Per inviare premi o altro in occasione di eventi o campagne ① Indirizzo email. <br> ② Nome. <br> ③ Indirizzo. <br> ④ Numero di telefono. <br> Se l'utente consente la connessione con servizi esterni come Twitter durante l'utilizzo dei Servizi, la Società raccoglierà le seguenti informazioni da tali servizi esterni in base al consenso fornito in quel momento per gli scopi indicati. <br> Scopo Elementi delle informazioni acquisite <br> Per condividere informazioni tra utenti ID utilizzato nel servizio esterno e altre informazioni che l'utente ha autorizzato a divulgare al servizio collegato nelle impostazioni sulla privacy del servizio esterno. <br> Articolo 3 (Trasmissione esterna) <br> Salvo quanto previsto nell'articolo 5 in merito all'acquisizione automatica di informazioni da parte dei fornitori di moduli di raccolta dati, le informazioni acquisite in base all'articolo 2 saranno trasferite al server gestito dalla Società e utilizzate entro i limiti dello scopo. <br> <br> Articolo 4 (Fornitura a terzi/outsourcing) <br> La Società non fornirà a terzi le informazioni degli utenti senza il previo consenso dell'utente, salvo nei casi in cui la legge sulla protezione dei dati personali o altre leggi lo consentano. Tuttavia, ciò non si applica ai seguenti casi: <br> Quando la Società affida l'intera gestione o parte della stessa delle informazioni personali a un fornitore di servizi esterno nell'ambito necessario per raggiungere lo scopo dell'utilizzo. <br> Quando le informazioni personali vengono fornite in caso di trasferimento aziendale dovuto a fusione o altro evento. <br> Quando le informazioni personali vengono fornite al fornitore del modulo di raccolta dati come previsto nell'articolo 5. <br> Quando è necessario cooperare con un ente statale o un ente pubblico locale o una persona a cui sono stati affidati compiti da tali enti per l'esecuzione degli affari previsti dalla legge. <br> La Società può divulgare informazioni personali a fornitori di servizi esterni con i quali ha stipulato contratti che includono clausole sulla riservatezza, al fine di affidare loro la gestione di tutte o parte delle operazioni relative alla gestione delle informazioni personali all'interno dell'ambito necessario per raggiungere lo scopo dell'utilizzo. In tal caso, selezionerà fornitori di servizi esterni che possono gestire adeguatamente le informazioni personali e stabilirà in modo appropriato misure di sicurezza, riservatezza, condizioni di subappalto e altre questioni necessarie per la corretta gestione delle informazioni personali nel contratto con il fornitore di servizi esterno. <br> La Società può fornire o divulgare a terzi dati o statistiche anonime creati dalle informazioni degli utenti relative ai Servizi, pertanto si prega di notarlo in anticipo. <br> La Società condividerà le informazioni sugli utenti acquisite tramite l'Applicazione tra le società del gruppo per fornire servizi completi. <br> Articolo 5 (Modulo di raccolta dati) <br> Per la distribuzione di annunci mirati basati sulle informazioni degli utenti, potrebbero essere integrati nell'Applicazione moduli di raccolta dati. Questi fornitori acquisiscono automaticamente le informazioni sugli utenti tramite tali moduli di raccolta dati. Si prega di consultare i collegamenti alle informative sulla privacy dei seguenti fornitori per ulteriori dettagli sulle informazioni acquisite, sullo scopo dell'utilizzo e sulla fornitura a terzi: <br> <br> Nome SDK: Firebase <br> Fornitore: Google LLC <br> Scopo: invio di notifiche push all'Applicazione, raccolta dei log dell'Applicazione e analisi della promozione dell'Applicazione. <br> Informativa sulla privacy: https://firebase.google.com/terms/data-processing-terms <br> Nome SDK: Adjust <br> Fornitore: Adjust Co., Ltd. <br> Scopo: analisi della promozione dell'Applicazione. <br> Informativa sulla privacy: https://www.adjust.com/ja/terms/privacy-policy/ <br> Articolo 6 (Metodo di partecipazione dell'utente) <br> L'acquisizione automatica delle informazioni degli utenti di cui al paragrafo 1 dell'articolo 2 può essere interrotta con uno dei seguenti metodi: <br> Spegnere il dispositivo utente. <br> Disattivare la funzione di comunicazione del dispositivo utente. <br> Disinstallare l'Applicazione dal dispositivo utente. <br> L'acquisizione automatica delle informazioni degli utenti di cui al paragrafo 3 dell'articolo 2 può essere interrotta con uno dei seguenti metodi: <br> Spegnere il dispositivo utente. <br> Disattivare la funzione di comunicazione del dispositivo utente. <br> Assicurarsi che l'Applicazione e le applicazioni dei servizi esterni non siano in esecuzione sul dispositivo utente. <br> Disinstallare l'Applicazione dal dispositivo utente. <br> L'utente modifica autonomamente le impostazioni del servizio esterno per impedire la connessione con l'Applicazione. <br> Anche dopo aver interrotto il funzionamento come indicato nei due paragrafi precedenti, la Società continuerà a utilizzare le informazioni sugli utenti acquisite in precedenza in base all'articolo 2 entro i limiti dello scopo e in conformità con quanto previsto nell'articolo 4, a meno che l'utente non richieda di interrompere l'utilizzo e la fornitura a terzi. <br> Le richieste di notifica dello scopo dell'utilizzo delle informazioni degli utenti, divulgazione, modifica, eliminazione, interruzione dell'utilizzo o interruzione della fornitura a terzi saranno gestite in modo appropriato dopo aver verificato l'identità dell'utente utilizzando i metodi e le procedure specificati dalla Società in base alla ""Informativa sulla protezione dei dati personali"". <br> Articolo 7 (Link all'""Informativa sulla protezione dei dati personali"" della Società) <br> Si prega di consultare i seguenti link per l'ultima versione dell'""Informativa sulla protezione dei dati personali"" e della presente Informativa. Se l'""Informativa sulla protezione dei dati personali"" della Società e la presente Informativa sono diverse, prevale la presente Informativa. <br> <br> ""Informativa sulla protezione dei dati personali"" della Società <br> Link: https://bushiroad.co.jp/privacy <br> Presente Informativa <br> Link: https://bushiroad.co.jp/privacy <br> Articolo 8 (Divulgazione e condivisione delle informazioni acquisite) <br> Se l'utente utilizza la funzione di comunicazione e condivisione di informazioni con amici o conoscenti tramite i Servizi, le informazioni sulla posizione dell'utente (se la funzione della posizione è abilitata), il testo contenuto nei messaggi, le foto, i video, l'audio e i link URL acquisiti dall'Applicazione potrebbero essere notificati o condivisi con gli amici o i conoscenti che comunicano e condividono informazioni. Inoltre, se tutte queste funzioni sono impostate per essere pubbliche, tutti gli utenti che utilizzano i Servizi possono visualizzarle. L'ambito della pubblicazione può essere modificato dalle impostazioni dell'Applicazione o dei Servizi. <br> <br> Articolo 9 (Sportello di contatto) <br> Per domande o dubbi sulla gestione delle informazioni degli utenti nell'Applicazione e nei Servizi, si prega di contattare il seguente sportello: <br> <br> Nome dello sportello: Sportello Love Live! School Idol Festival 2 della Bushiroad Co., Ltd. <br> Metodo di contatto: https://lovelive-sif2.bushimo.jp/contact/ <br> Articolo 10 (Modifiche) <br> La presente Informativa può essere rivista. <br> <br> Se ci sono modifiche agli elementi delle informazioni acquisite, all'aggiunta di nuovi elementi, allo scopo dell'utilizzo o alla fornitura a terzi in relazione all'aggiornamento dell'Applicazione, la Società fornirà una notifica prima del download e chiederà nuovamente il consenso per gli elementi importanti al momento dell'installazione o dopo l'installazione. <br> Inoltre, se ci sono altre modifiche agli elementi delle informazioni acquisite, all'aggiunta di nuovi elementi, allo scopo dell'utilizzo o alla fornitura a terzi, la Società lo comunicherà tramite la funzione di messaggistica e via email agli utenti che si sono registrati e chiederà nuovamente il consenso per gli elementi importanti."
+mst.dialog.GameClose_Information_Rights._title,Diritti d'autore
+mst.dialog.DataTakeOver_SnsNotSupported._title,SNS連携
+mst.dialog.DataTakeOver_SnsNotSupported._message,La funzione di collegamento SNS non è disponibile in questa versione.<br>
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._title,Conferma
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._message,Vuoi eliminare «{0}»? <br> Le formazioni MV salvate torneranno alle impostazioni predefinite.
+mst.dialog.Arcade_Enter_Confirm._title,Arcade Mode
+mst.dialog.Arcade_Enter_Confirm._message,Register this device as an arcade cabinet.<br>From then on every launch goes straight to the attract loop and the normal game is no longer reachable (Test Mode can undo this).<br>All content is downloaded right after registration.<br><br>Continue?
+mst.dialog.Arcade_Enter_Failed._title,Registration Failed
+mst.dialog.Arcade_Enter_Failed._message,{0}
+mst.dialog.Arcade_TestMode_ExitConfirm._title,Exit Arcade Mode
+mst.dialog.Arcade_TestMode_ExitConfirm._message,"Leave arcade mode.<br>All save data on this device (machine registration, credits, bookkeeping) is deleted and it returns to a first-launch install.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_ExitReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ExitReconfirm._message,Deleted data cannot be recovered.<br>Really exit arcade mode?
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,Reset Bookkeeping
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,Set the counted coins and plays back to zero.<br>Credits and the machine registration are not changed.<br><br>Continue?
+mst.dialog.Arcade_Session_Failed._title,Cannot Start Session
+mst.dialog.Arcade_Session_Failed._message,{0}<br><br>Your credit has been returned.
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,Download All Content
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,Downloads every asset category.<br>This takes time and bandwidth. The cabinet returns to the attract screen when it is done.<br><br>Continue?
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,The counted data cannot be recovered.<br>Really reset it?
+mst.dialog.Arcade_Card_NewCard._title,A New Card
+mst.dialog.Arcade_Card_NewCard._message,This card has not been used here before.<br>Choose NEW PLAYER to start a new account on it.<br>Choose TRANSFER DATA to move the account you already play on your phone onto this card.
+mst.dialog.Arcade_Card_BindFailed._title,Transfer Failed
+mst.dialog.Arcade_Card_BindFailed._message,No account matches that transfer code and password.<br>Check them and try again.
+mst.dialog.Arcade_TestMode_UnlockConfirm._title,Unlock Account
+mst.dialog.Arcade_TestMode_UnlockConfirm._message,"Remove this device's account lock.<br>From the next credit on, Decision plays as the guest. The card binding on the server is kept.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_UnlockReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_UnlockReconfirm._message,A removed lock cannot be restored; the next lock draws a new device card ID.<br>Really unlock?
+mst.dialog.Arcade_TestMode_LockFailed._title,Lock Failed
+mst.dialog.Arcade_TestMode_LockFailed._message,No account matches that transfer code and password.<br>The lock stays pending until the first credit.
+mst.dialog.Arcade_Enter_WipeConfirm._title,Conferma eliminazione dati
+mst.dialog.Arcade_Enter_WipeConfirm._message,"Questo dispositivo contiene già dati di gioco.<br>Passando alla modalità arcade verranno eliminati TUTTI i dati presenti su questo dispositivo (account, carte, brani e progressi) e non potranno essere ripristinati.<br><br>Vuoi continuare?"
+mst.dialog.Arcade_Enter_WipeFinal._title,Ultima conferma eliminazione dati
+mst.dialog.Arcade_Enter_WipeFinal._message,I dati di gioco eliminati non possono essere ripristinati.<br><br>Vuoi davvero eliminare tutti i dati e passare alla modalità arcade?
+mst.dialog.Arcade_Enter_KeyboardWarning._title,Serve una tastiera
+mst.dialog.Arcade_Enter_KeyboardWarning._message,"Una volta che questo dispositivo è in modalità arcade, dallo schermo non è più possibile modificare alcuna impostazione né tornare al gioco normale.<br>La Modalità test (tutte le impostazioni del cabinato) e l'uscita dalla modalità arcade si aprono solo con il pulsante TEST del cabinato: sulla tastiera è F1 per impostazione predefinita (non ha alcun tasto sul gamepad).<br>Per uscire: TEST → Sistema → Esci dalla modalità arcade, operazione che elimina tutti i dati salvati su questo dispositivo e lo riporta allo stato di prima installazione.<br><br>Hai una tastiera a disposizione?"

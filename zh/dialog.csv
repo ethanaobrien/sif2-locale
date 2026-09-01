@@ -1,0 +1,676 @@
+﻿_key,_text
+mst.dialog.ErrorStay._title,错误
+mst.dialog.ErrorStay._message,发生错误<br><br>{0}
+mst.dialog.ErrorTitle._title,错误
+mst.dialog.ErrorTitle._message,发生错误<br>返回标题界面<br><br>{0}
+mst.dialog.NetworkError_Retry._title,网络错误
+mst.dialog.NetworkError_Retry._message,无法连接网络<br>请在信号良好的地方重试。
+mst.dialog.NetworkError_Title._title,网络错误
+mst.dialog.NetworkError_Title._message,发生通信错误<br>返回标题界面<br><br>{0}
+mst.dialog.NetworkError_ResourceUpdated._title,网络错误
+mst.dialog.NetworkError_ResourceUpdated._message,需要更新数据<br>返回标题界面
+mst.dialog.NetworkError_NotReachable_Retry._title,网络错误
+mst.dialog.NetworkError_NotReachable_Retry._message,无法连接网络<br>请检查网络状况后重试。
+mst.dialog.ApplicationQuitConfirm._title,确认
+mst.dialog.ApplicationQuitConfirm._message,游戏即将结束<br>确认吗？
+mst.dialog.AreaUnlock._title,区域解锁
+mst.dialog.AreaUnlock._message,新的区域已解锁！{0}<br>
+mst.dialog.AreaUnlockDetail_StoryRead._title,解锁条件
+mst.dialog.AreaUnlockDetail_StoryRead._message,通过观看故事<br>{0}<br>来解锁。
+mst.dialog.AreaUnlockDetail_UserRank._title,解锁条件
+mst.dialog.AreaUnlockDetail_UserRank._message,玩家等级达到{0}，即可解锁<br>。
+mst.dialog.ChatTalkSkip._title,跳过
+mst.dialog.ChatTalkSkip._message,跳过本次对话并结束吗？
+mst.dialog.Chat_EncountStoryPlayback._title,播放相遇剧情
+mst.dialog.Chat_EncountStoryPlayback._message,播放{0}的相遇剧情。
+mst.dialog.OrnamentLevelRelease._title,饰品等级上限提升
+mst.dialog.OrnamentLevelRelease._message,{0}的等级上限已提升至{1}，现在可以升级到<br>级了！
+mst.dialog.DeckNameChangeSuccess._title,组合名称更改
+mst.dialog.DeckNameChangeSuccess._message,已完成更改组合名称。
+mst.dialog.DeckNameChangeEmpty._title,输入错误
+mst.dialog.DeckNameChangeEmpty._message,请输入至少一个字符。
+mst.dialog.DeckNameChangeNg._title,错误
+mst.dialog.DeckNameChangeNg._message,包含不当言语<br>请重新输入。
+mst.dialog.MainDeckChangeSuccess._title,主队更换完成
+mst.dialog.MainDeckChangeSuccess._message,已更改主要队伍。
+mst.dialog.PracticeConfirm._title,确认
+mst.dialog.PracticeConfirm._message,是否要使用所选的练习笔记和<br>{0}G进行强化？<br>
+mst.dialog.SkillPracticeConfirmByItem._title,确认
+mst.dialog.SkillPracticeConfirmByItem._message,要使用所选的技能书和<br>{0}G进行强化，可以吗？<br>
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._title,确认
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._message,是否要停止选择该偶像作为素材，并进行觉醒？<br>或者继续选择它作为素材？<br>
+mst.dialog.SkillPracticeConfirmByPhoto._title,确认
+mst.dialog.SkillPracticeConfirmByPhoto._message,选择的偶像会从候补席中移除<br>，是否要进行技能强化？<br>请注意，偶像不会从偶像列表中消失<br>。
+mst.dialog.TrainingConfirm._title,确认
+mst.dialog.TrainingConfirm._message,将使用选中的应援棒进行觉醒<br>可以吗？
+mst.dialog.StaminaChargeConfirm._title,LP恢复
+mst.dialog.StaminaChargeConfirm._message,是否要回复LP<br><br>？
+mst.dialog.StaminaChargeSuccess._title,LP恢复
+mst.dialog.StaminaChargeSuccess._message,已恢复{0}点LP！
+mst.dialog.StaminaChargeOver._title,LP已满
+mst.dialog.StaminaChargeOver._message,由于LP已超过最大值，因此无法进行<br><br>的恢复。
+mst.dialog.ShopBuySuccess._title,购买物品
+mst.dialog.ShopBuySuccess._message,已购买{0}！
+mst.dialog.GachaExec._title,确认
+mst.dialog.GachaExec._message,是否消耗{0}，花费{1}以抽取【{2}】？<br>您确定吗？
+mst.dialog.GachaLackMedal._title,{0}不足
+mst.dialog.GachaLackMedal._message,{0}不足。购买Loveca吗？
+mst.dialog.GachaLackItem._title,{0}不足
+mst.dialog.GachaLackItem._message,{0}不足。
+mst.dialog.GachaResultGetBonus._title,获取奖励
+mst.dialog.GachaResultGetBonus._message,已招募到额外奖励！
+mst.dialog.GachaResultGetMovie._title,偶像获取
+mst.dialog.GachaErrorExpired._title,错误
+mst.dialog.GachaErrorExpired._message,已过期。
+mst.dialog.GachaTicketExpired._title,错误
+mst.dialog.GachaTicketExpired._message,您使用的抽卡券已过期。
+mst.dialog.GachaSelectedExpired._title,活动已结束
+mst.dialog.GachaSelectedExpired._message,本次活动已结束。
+mst.dialog.DeckResetConfirm._title,重置
+mst.dialog.DeckResetConfirm._message,将重置当前选择的组合。<br>确定吗？
+mst.dialog.RecommendSuccess._title,推荐组合
+mst.dialog.RecommendSuccess._message,已编队推荐阵容。
+mst.dialog.NoticePlayerRankUp._title,等级提升
+mst.dialog.NoticePlayerRankUp._message,LP已恢复{0}点
+mst.dialog.NoticePlayerRankAndFriendMaxUp._title,等级提升
+mst.dialog.NoticePlayerRankAndFriendMaxUp._message,LP已恢复{0}，好友上限提升至{1}→{2}。<br>
+mst.dialog.NoticeGroupRankUp._title,组等级提升
+mst.dialog.NoticeGroupRankMax._title,组等级提升
+mst.dialog.NoticeGroupRankMax._message,<color=#D73C55><b>组等级已达上限</b></color>。
+mst.dialog.DeckMemberChangeConfirm._title,确认替换
+mst.dialog.DeckMemberChangeConfirm._message,已存在相同的成员，要将当前编队中的“{0}”替换为“<br>”，可以吗？<br>
+mst.dialog.StoryRelease._title,剧情解锁
+mst.dialog.StoryRelease._message,{0}已解锁{1}。
+mst.dialog.FriendSearchError._title,搜索错误
+mst.dialog.FriendSearchError._message,未找到玩家<br>，您输入的ID可能错误，或者对方的添加好友设置已拒绝<br>。<br>
+mst.dialog.FriendDeleteConfirm._title,确认
+mst.dialog.FriendDeleteConfirm._message,要解除此好友吗？
+mst.dialog.FriendDeleteSuccess._title,已解除好友关系
+mst.dialog.FriendDeleteSuccess._message,已解除好友关系
+mst.dialog.FriendDeleteError._title,好友解除失败
+mst.dialog.FriendDeleteError._message,无法解除好友关系。
+mst.dialog.FriendRequestCancelConfirm._title,确认
+mst.dialog.FriendRequestCancelConfirm._message,要取消此好友申请吗？
+mst.dialog.FriendRequestCancelSuccess._title,好友申请已取消
+mst.dialog.FriendRequestCancelSuccess._message,已取消好友申请。
+mst.dialog.FriendRequestCancelError._title,好友申请取消失败
+mst.dialog.FriendRequestCancelError._message,无法取消好友申请。
+mst.dialog.FriendPendingConfirm._title,确认
+mst.dialog.FriendPendingConfirm._message,确认接受好友申请<br>吗？
+mst.dialog.FriendPendingSuccess._title,好友申请已批准
+mst.dialog.FriendPendingSuccess._message,已批准好友申请。
+mst.dialog.FriendPendingError._title,好友申请批准失败
+mst.dialog.FriendPendingError._message,无法批准好友申请。
+mst.dialog.FriendRejectConfirm._title,确认
+mst.dialog.FriendRejectConfirm._message,要拒绝此好友申请吗？
+mst.dialog.FriendRejectSuccess._title,好友申请已拒绝
+mst.dialog.FriendRejectSuccess._message,已拒绝好友申请。
+mst.dialog.FriendRejectError._title,好友申请拒绝失败
+mst.dialog.FriendRejectError._message,无法拒绝好友申请。
+mst.dialog.FriendRequestSuccess._title,好友申请已发送
+mst.dialog.FriendRequestSuccess._message,已发送好友申请。
+mst.dialog.FriendRequestError._title,好友申请失败
+mst.dialog.FriendRequestError._message,无法发送好友申请。
+mst.dialog.FriendCanNotRequest._title,申请不可
+mst.dialog.FriendCanNotRequest._message,对方已将好友申请设置<br>为拒绝
+mst.dialog.OptionSettingChangeCancelConfirm._title,确认
+mst.dialog.OptionSettingChangeCancelConfirm._message,取消选项更改，<br>恢复到更改前的状态吗？
+mst.dialog.OptionTestLivePauseDialog._title,暂停中
+mst.dialog.OptionTestLivePauseDialog._message,中断测试Live并<br>返回选项设置？
+mst.dialog.LiveContinue._title,重新开始 Live
+mst.dialog.LiveContinue._message,消耗{0} Loveca，回复<br> HP，是否要重新开始Live？<br> ※将从免费获得的Loveca中扣除。<br><br> Loveca {1} → {2}
+mst.dialog.LiveContinueGemShortage._title,Loveca不足
+mst.dialog.LiveContinueGemShortage._message,Loveca不足，无法重新开始Live。<br>
+mst.dialog.LiveFailure._title,Live失败
+mst.dialog.LiveFailure._message,HP已经耗尽。通过消耗{0}个Loveca（<br>），可以完全恢复HP并重新开始（<br>）。
+mst.dialog.LivePause._title,暂停直播
+mst.dialog.LivePause._message,要中断 Live 并返回歌曲选择界面吗？<br>※中断后不会消耗 LP。
+mst.dialog.LiveRetireConfirm._title,Live 中断
+mst.dialog.LiveRetireConfirm._message,中断 Live 将无法获取 <br> Live 奖励，可以吗？<br> <br> ※如果中断，则不会消耗 LP。
+mst.dialog.LiveRestartConfirm._title,重新开始
+mst.dialog.LiveRestartConfirm._message,重新开始 <br>，可以吗？<br> ※不会消耗 LP 或跳过券。
+mst.dialog.TeacherPointDetail._title,什么是高分等级？
+mst.dialog.TeacherPointDetail._message,高分等级是根据 Live 中的 <br> 高分计算得出的数值。为了获得 <br> 高分，让我们来强化 <br> 偶像吧！<br>
+mst.dialog.GemPackBuyComplete._title,购买完成
+mst.dialog.GemPackBuyComplete._message,已购买{0}。
+mst.dialog.GemBuyCancel._title,取消
+mst.dialog.GemBuyCancel._message,已取消购买。
+mst.dialog.GemBuyComplete._title,购买完成
+mst.dialog.GemBuyComplete._message,已购买{0}。
+mst.dialog.GemBuyStamina._title,确认
+mst.dialog.GemBuyStamina._message,消耗 {0}，花费 {1}，回复 <br> 点 LP，恢复 {3} 点体力，可以吗？<br>
+mst.dialog.GemBuyItem._title,确认
+mst.dialog.GemBuyItem._message,消耗 {0}，花费 {1}，回复 <br> 点 LP，恢复 {3} 点体力，可以吗？<br>
+mst.dialog.GemBuyItemPack._title,确认
+mst.dialog.GemBuyItemPack._message,购买{0}，消耗{1}，是否购买<br>？
+mst.dialog.GemInsufficientMedal._title,Loveca数量不足
+mst.dialog.GemInsufficientMedal._message,Loveca数量不足。
+mst.dialog.GemAgeError._title,错误
+mst.dialog.GemAgeError._message,出生日期不正确
+mst.dialog.GemAgeComplete._title,输入完成
+mst.dialog.GemAgeComplete._message,已确认您的年龄 <br> {0}
+mst.dialog.GemAgeConfirm._title,确认
+mst.dialog.GemAgeConfirm._message,您确定要设置吗？一旦设置，在卸载应用之前都无法更改。
+mst.dialog.GemAskToBuy._title,确认
+mst.dialog.GemAskToBuy._message,要购买应用内货币，需要获得<br>监护人的同意<br>您已获得监护人的同意吗？
+mst.dialog.GemBuyLimitError._title,消费额度限制
+mst.dialog.GemBuyLimitError._message,由于本月已达到消费上限，无法购买<br>{0}。
+mst.dialog.GemBuyLimitAlert._title,确认
+mst.dialog.GemBuyLimitAlert._message,是否购买 {0} <br>？
+mst.dialog.GemBuyLimitAlertConfirm._title,购买额度已超限
+mst.dialog.GemBuyLimitAlertConfirm._message,"本月购买金额已超过100,000日元<br>是否继续购买？<br><br>如果想关闭提示，请在以下设置中进行更改：<br><color=#D73C55>设置 > 系统设置 > 提示设置 > 消费额度提示</color>"
+mst.dialog.GemBuyError._title,错误
+mst.dialog.GemBuyError._message,购买失败。
+mst.dialog.GemShopError._title,错误
+mst.dialog.GemShopError._message,无法获取商店信息。
+mst.dialog.GemShopTicketInfo._message,▼注意事项<color=#D73C55>※必读※</color><br>※购买的有偿Loveca会直接添加到您的持有Loveca中<br>※其他物品将发送到礼物箱<br>※如果您没有登录，则无法获得Loveca<br>※登录奖励将在您登录时发放，并添加到您的持有Loveca中<br>※登录奖励可以从购买后的第二天0:00开始领取<br>※登录奖励为免费Loveca<br>※从购买的第二天起，您可以作为登录奖励获得Loveca，持续{1}天，共{2}天<br><br>▼套装内容<br>{3}<br>Loveca{4}x{5}日 合计{6}<br><br>价格{7}
+mst.dialog.GemBuyErrorExpired._title,已结束销售期
+mst.dialog.GemBuyErrorExpired._message,由于已过销售期，无法购买。
+mst.dialog.SingleReward_OrnamentGet._title,获取道具
+mst.dialog.SingleReward_OrnamentGetTeaSet._title,道具解锁
+mst.dialog.SingleReward_OrnamentGetTeaSet._message,已获取！<br>※现在可以从储藏室进行更改。
+mst.dialog.SingleReward_OrnamentLevelUp._title,奖励获取
+mst.dialog.SingleReward_OrnamentLevelUp._message,等级提升了！
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._title,奖励获取
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._message,等级提升了！
+mst.dialog.SingleReward_OrnamentRelease._title,道具解放
+mst.dialog.SingleReward_OrnamentRelease._message,已添加到定制商店。
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._title,道具解锁
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._message,{0}的商店已上架<br>{1}！
+mst.dialog.SingleReward_CommonDirectly._title,奖励获取
+mst.dialog.SingleReward_CommonDirectly._message,已获取！
+mst.dialog.SingleReward_CommonPresentBox._title,奖励获取
+mst.dialog.SingleReward_CommonPresentBox._message,您可以从礼物中领取 <color=#C12424>奖励 </color>。
+mst.dialog.SingleReward_CommonView._title,达成奖励
+mst.dialog.SingleReward_EventDirectly._title,奖励获取
+mst.dialog.SingleReward_EventDirectly._message,已获取累计{0}达成奖励！
+mst.dialog.SingleReward_EventPresentBox._title,奖励获取
+mst.dialog.SingleReward_EventPresentBox._message,<color=#C12424>累计{0}达成奖励可从宝箱领取</color>
+mst.dialog.SingleReward_Costume._title,获取服装
+mst.dialog.SingleReward_Costume._message,获得新服装！
+mst.dialog.SingleReward_Music._title,解锁歌曲
+mst.dialog.SingleReward_Music._message,新歌曲已解锁！
+mst.dialog.SingleReward_Title._title,获取称号
+mst.dialog.SingleReward_Title._message,已获取称号！
+mst.dialog.SingleReward_IntoPresentBox._title,持有上限
+mst.dialog.SingleReward_IntoPresentBox._message,因已达到持有上限，已送入礼物箱<color=#C12424></color>。
+mst.dialog.MultiReward_CommonDirectly._title,奖励获取
+mst.dialog.MultiReward_CommonDirectly._message,已获取！
+mst.dialog.MultiReward_CommonPresentBox._title,奖励获取
+mst.dialog.MultiReward_CommonPresentBox._message,您可以从礼物中领取 <color=#C12424>奖励 </color>。
+mst.dialog.MultiReward_EventDirectly._title,奖励获取
+mst.dialog.MultiReward_EventDirectly._message,已获取累计{0}达成奖励！
+mst.dialog.MultiReward_EventPresentBox._title,奖励获取
+mst.dialog.MultiReward_EventPresentBox._message,<color=#C12424>累计{0}达成奖励可从宝箱领取</color>
+mst.dialog.MultiReward_CommonView._title,达成奖励
+mst.dialog.MultiReward_IntoPresentBox._title,持有上限
+mst.dialog.MultiReward_IntoPresentBox._message,因已达到持有上限，已送入礼物箱<color=#C12424></color>。
+mst.dialog.Multi_Private_MasterRoomLeave._title,Live 解散
+mst.dialog.Multi_Private_MasterRoomLeave._message,{0}已解散Live，返回Live选择界面。<br>
+mst.dialog.LiveResult_ContinueMultiRoom._title,确认继续
+mst.dialog.LiveResult_ContinueMultiRoom._message,要不要再次进行相同的 Live 呢？
+mst.dialog.LoginBonus_Check._title,日期已更新
+mst.dialog.LoginBonus_Check._message,日期已更新<br>请重新登录。
+mst.dialog.LoginBonus_Common._title,登录奖励
+mst.dialog.LoginBonus_Common._message,可从礼物中领取 {0} × {1} <br> <color=#D73C55> 奖励 </color>
+mst.dialog.LoginBonus_Multi._title,登录奖励
+mst.dialog.LoginBonus_Multi._message,可从礼物中领取 {0} × {1} <br> <color=#D73C55> 奖励 </color>
+mst.dialog.MultiRoomType._title,Live奖励
+mst.dialog.MultiRoomType._message,在“每日”Live中，可以更容易地获得每天固定的奖励<br>。※在“普通”Live中，将获得通常的奖励<br>。<br>星期一：奖励A<br>星期二：奖励B<br>星期三：奖励C<br>星期四：奖励D<br>星期五：奖励E<br>星期六：奖励F<br>星期日：奖励G<br><br>※除了奖励增加的道具外，其他道具的获得量都进行了调整。
+mst.dialog.VoiceDownloadConfirm._title,语音下载
+mst.dialog.VoiceDownloadConfirm._message,是否提前下载除剧情语音外的所有语音文件？<br> <br> <br> <color=#D73C55> 下载大小：<br> {0:0.00} MB <br> <br> ※建议在 Wi-Fi 环境下进行下载 <br> </color>
+mst.dialog.LiveProductionDownloadConfirm._title,Live成员演出下载
+mst.dialog.LiveProductionDownloadConfirm._message,是否提前下载 Live 演出所需的素材？<br>这可能会缩短 Live 开始前的加载时间。<br><br><br><br><color=#D73C55>下载大小：<br>{0:0.00} MB<br><br>建议在 Wi-Fi 环境下进行下载。<br></color>
+mst.dialog.GameLibErrorCode_1._title,错误
+mst.dialog.GameLibErrorCode_1._message,输入的参数不正确<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_14._title,错误
+mst.dialog.GameLibErrorCode_14._message,用户已禁用<br>，错误代码：{0}
+mst.dialog.GameLibErrorCode_20._title,错误
+mst.dialog.GameLibErrorCode_20._message,由于该设备已完成数据迁移，因此无法使用。<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_1000._title,错误
+mst.dialog.GameLibErrorCode_1000._message,发生通讯错误<br>，错误代码：{0}
+mst.dialog.GameLibErrorCode_17219._title,错误
+mst.dialog.GameLibErrorCode_17219._message,正在处理中 <br>，错误代码：{0}
+mst.dialog.GameLibErrorCode_10001._title,错误
+mst.dialog.GameLibErrorCode_10001._message,输入的参数不正确<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_10006._title,错误
+mst.dialog.GameLibErrorCode_10006._message,充值系统正在维护中<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_10007._title,错误
+mst.dialog.GameLibErrorCode_10007._message,用户已禁用<br>，错误代码：{0}
+mst.dialog.GameLibErrorCode_7002._title,错误
+mst.dialog.GameLibErrorCode_7002._message,未注册继承码<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_7003._title,错误
+mst.dialog.GameLibErrorCode_7003._message,未注册继承密码<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_7004._title,错误
+mst.dialog.GameLibErrorCode_7004._message,继承码和密码验证失败<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_7005._title,错误
+mst.dialog.GameLibErrorCode_7005._message,继承代码和密码的验证失败次数已达到上限<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_7012._title,错误
+mst.dialog.GameLibErrorCode_7012._message,账号或密码不正确<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_7013._title,错误
+mst.dialog.GameLibErrorCode_7013._message,账户和密码验证失败次数已达到上限<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_8004._title,错误
+mst.dialog.GameLibErrorCode_8004._message,账号已锁定 <br> 错误代码：{0}
+mst.dialog.GameLibErrorCode_8022._title,错误
+mst.dialog.GameLibErrorCode_8022._message,账户格式不正确<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_16002._title,错误
+mst.dialog.GameLibErrorCode_16002._message,无法购买，因为已超过充值上限<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_16005._title,错误
+mst.dialog.GameLibErrorCode_16005._message,由于 Loveca 余额不足，无法购买 <br> 错误代码：{0}
+mst.dialog.GameLibErrorCode_16007._title,错误
+mst.dialog.GameLibErrorCode_16007._message,不支持的国家或货币<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_16008._title,错误
+mst.dialog.GameLibErrorCode_16008._message,由于您已拥有相同权益的有效票券，因此无法购买<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_16009._title,错误
+mst.dialog.GameLibErrorCode_16009._message,由于累计的门票有效期限将超过180天，因此无法购买<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_17002._title,错误
+mst.dialog.GameLibErrorCode_17002._message,该 Loveca 已被授予 <br> 错误代码：{0}
+mst.dialog.GameLibErrorCode_17007._title,错误
+mst.dialog.GameLibErrorCode_17007._message,该充值正等待家长用户授权<br>，错误代码：{0}
+mst.dialog.GameLibErrorCode_17100._title,错误
+mst.dialog.GameLibErrorCode_17100._message,支付已取消，错误代码：{0} <br>
+mst.dialog.GameLibErrorCode_17214._title,错误
+mst.dialog.GameLibErrorCode_17214._message,设备的付费功能无法使用<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_20001._title,错误
+mst.dialog.GameLibErrorCode_20001._message,指定的年龄段与生日不符<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_21001._title,错误
+mst.dialog.GameLibErrorCode_21001._message,指定的年龄段与生日不符<br>错误代码：{0}
+mst.dialog.CanNotAutoPlayWithoutStamina._title,体力不足
+mst.dialog.CanNotAutoPlayWithoutStamina._message,因LP为0，<br>无法进行自动播放
+mst.dialog.Migration_CheckDeviceChanged._title,设备转移
+mst.dialog.Migration_CheckDeviceChanged._message,已检测到设备变更，是否恢复游戏数据？ <br> <br> <br>请注意：一旦在此设备上恢复了游戏数据，您将无法在旧设备上继续游玩。 <br>
+mst.dialog.Migration_ErrorRegisterNewDevice._title,错误
+mst.dialog.Migration_ErrorRegisterNewDevice._message,游戏数据恢复失败。请尝试使用迁移ID和密码进行数据迁移。<br> <br>
+mst.dialog.Migration_IdCopy._title,复制完成
+mst.dialog.Migration_IdCopy._message,已复制继承ID。
+mst.dialog.Migration_Complet._title,数据转移完成
+mst.dialog.Migration_Complet._message,游戏数据已成功转移。<br>请继续享受《偶像大师：灰姑娘女孩 剧场季》吧。
+mst.dialog.Migration_Completed._title,数据已成功转移
+mst.dialog.Migration_Completed._message,本机的游戏数据已成功转移至其他设备<br>是否从头开始游戏？<br><br>如果您不记得进行过数据转移，请选择“取消”，并从标题画面中的“菜单”>“帮助”中联系我们<br><br>。
+mst.dialog.Migration_RetryPassword._title,输入错误
+mst.dialog.Migration_RetryPassword._message,迁移ID或密码不正确。<br>
+mst.dialog.Migration_InputPasswordError._title,输入错误
+mst.dialog.Migration_InputPasswordError._message,可设置的密码为<br>8到32个字符的半角英数字。
+mst.dialog.Error_Maintenance._title,维护中
+mst.dialog.Error_Maintenance._message,{0}<br><br>请注意，维护期间可能会在没有事先通知的情况下进行更改。<br><br>请查看官方网站以获取最新信息。<br><br><u><link={1}><color=blue>官方网站</color></link></u>
+mst.dialog.Error_ResultCodeMaintenance._title,维护中
+mst.dialog.Error_Game_Version_Updated._title,更新
+mst.dialog.Error_Game_Version_Updated._message,需要更新应用<br>请从商店安装最新版本。
+mst.dialog.Tutorial_CardSelectConfirm._title,确认
+mst.dialog.Tutorial_CardSelectConfirm._message,{0}，是否选择{1}？<br> <br>※之后将无法更改。
+mst.dialog.Tutorial_DeleteGameDataConfirm._title,数据删除确认
+mst.dialog.Tutorial_DeleteGameDataConfirm._message,您确定要删除游戏数据并将其重置为初始状态，从头开始游戏吗？<br>请注意，已删除的游戏数据无法恢复。<br><br>是否执行游戏数据删除操作？<br>
+mst.dialog.Tutorial_DeleteGameDataReconfirm._title,数据删除最终确认
+mst.dialog.Tutorial_DeleteGameDataReconfirm._message,已删除的游戏数据无法恢复，您确定要执行游戏数据删除操作吗？<br><br>
+mst.dialog.Tutorial_DeleteGameDataComplete._title,数据删除完成
+mst.dialog.Tutorial_DeleteGameDataComplete._message,游戏数据已删除。
+mst.dialog.Tutorial_SkipFirstHalf._title,确认
+mst.dialog.Tutorial_SkipFirstHalf._message,要跳过游戏的基本说明（教程）的前半部分吗？<br><br>跳过后，试玩Live将自动完成。
+mst.dialog.Tutorial_SkipLatterHalf._title,确认
+mst.dialog.Tutorial_SkipLatterHalf._message,要跳过游戏后续说明（教程）吗？
+mst.dialog.DownloadConfirm._title,下载确认
+mst.dialog.DownloadConfirm._message,即将下载<color=#D73C55>{0} MB</color>的数据<br>是否确认？<br><br>※根据网络环境不同，可能需要较长时间<br><br><color=#D73C55>建议在Wi-Fi环境下下载</color>
+mst.dialog.DownloadNotEnoughFreeSpace._title,剩余空间不足
+mst.dialog.DownloadNotEnoughFreeSpace._message,您的设备可用空间不足<br>，请确保有足够的可用空间后再次尝试下载<br>。
+mst.dialog.GooglePlayLogined._title,确认
+mst.dialog.GooglePlayLogined._message,已登录 Google Play。
+mst.dialog.AdditionalDownloadConfirm._title,确认附加下载
+mst.dialog.AdditionalDownloadConfirm._message,下载附加数据 <br> <br> <color=#D73C55> 下载大小：{0:0.00} MB <br> <br> ※建议在 Wi-Fi 环境下进行 <br> 下载 </color>
+mst.dialog.SongCacheClearConfirm._title,清除缓存确认
+mst.dialog.SongCacheClearConfirm._message,删除已下载的歌曲<br>可以吗？
+mst.dialog.StoryDownloadConfirm._title,语音播放
+mst.dialog.StoryDownloadConfirm._message,下载语音数据并播放故事吗？ <br> <br> <br> <color=#D73C55> 下载大小：{0:0.00} MB <br> <br> 建议在 Wi-Fi 环境下下载 <br> </color>
+mst.dialog.AdditionalMovieDownloadConfirm._title,数据下载
+mst.dialog.AdditionalMovieDownloadConfirm._message,下载视频文件<br><br><color=#D73C55>，文件大小：{0:0.00} MB<br><br>。建议在<br>环境下下载</color>。
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._title,数据下载
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._message,将下载所有影片<br><br><color=#D73C55>下载大小：{0:0.00} MB</color><br><br>即使选择取消，也可以逐个下载<br>之后还可以在剧情中通过“一键下载”进行下载<br>由于数据量较大，请在网络环境良好的地方执行<br><color=#D73C55>建议在Wi-Fi环境下下载</color>
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._title,数据下载
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._message,将批量下载所有影片<br><br><color=#D73C55>下载大小：{0:0.00} MB</color><br><br>即使选择取消，也可以逐个下载<br>稍后可以在“合集”中进行批量下载<br>由于数据量较大，请在网络环境良好的地方执行<br><color=#D73C55>建议在Wi-Fi环境下下载</color>
+mst.dialog.NoNeedAdditionalMovieDownload._title,数据下载
+mst.dialog.NoNeedAdditionalMovieDownload._message,当前没有需要下载的数据。
+mst.dialog.DownloadComplete_Restart._title,确认
+mst.dialog.DownloadComplete_Restart._message,数据下载完成。<br>将重新启动应用。
+mst.dialog.AlbumDownloadNoticeOnce._title,确认
+mst.dialog.AlbumDownloadNoticeOnce._message,浏览回忆相册时，图像数据将被下载。<br>请确保您的设备有足够的可用空间。
+mst.dialog.PresentBox_ReceiveSingleSuccess._title,已领取完成
+mst.dialog.PresentBox_ReceiveSingleSuccess._message,已领取礼物！
+mst.dialog.PresentBox_ReceiveMultiSuccess._title,已领取完成
+mst.dialog.PresentBox_ReceiveMultiSuccess._message,已领取礼物！
+mst.dialog.PresentBox_ReceiveSingleFailure._title,持有上限
+mst.dialog.PresentBox_ReceiveSingleFailure._message,已达到持有上限，无法接收。
+mst.dialog.PresentBox_ReceiveMultiFailure._title,持有上限
+mst.dialog.PresentBox_ReceiveMultiFailure._message,已达到持有上限，无法接收。
+mst.dialog.PresentBox_ReceiveOutOfTerm._title,领取期限已过
+mst.dialog.PresentBox_ReceiveOutOfTerm._message,领取期限已过，无法领取。
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._title,领取期限已过
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._message,领取期限已过，无法领取。
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._title,领取期限已过
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._message,领取期限已过，无法领取。
+mst.dialog.PresentBox_ReceiveSingleExpireReward._title,有效期限已过
+mst.dialog.PresentBox_ReceiveSingleExpireReward._message,已过期，无法领取。
+mst.dialog.PresentBox_ReceiveMultiExpireReward._title,有效期限已过
+mst.dialog.PresentBox_ReceiveMultiExpireReward._message,已过期，无法领取。
+mst.dialog.Multi_StampReset._title,清除所有表情
+mst.dialog.Multi_StampReset._message,是否要移除所有已设置的印章？
+mst.dialog.Multi_PrivateRoom_Done._title,Live创建失败
+mst.dialog.Multi_PrivateRoom_Done._message,由于存在相同 ID 的 Live，请重新创建 Live。
+mst.dialog.Multi_Room_Failed._title,Live创建失败
+mst.dialog.Multi_Room_Failed._message,无法创建Live。
+mst.dialog.Multi_Disconnect_Scene_2._title,确认
+mst.dialog.Multi_Disconnect_Scene_2._message,连接中断<br>合作Live结束，返回主屏幕。
+mst.dialog.Multi_Disconnect_Warning._title,确认
+mst.dialog.Multi_Disconnect_Warning._message,连接中断<br>合作Live结束，返回主屏幕。
+mst.dialog.Multi_Result_Playing_Caution._title,确认
+mst.dialog.Multi_Result_Playing_Caution._message,如果“完美”和“出色”评价较少，将减少获得的活动积分。<br>请选择适合自己水平的难度。
+mst.dialog.Function_Lock_Multi._title,确认
+mst.dialog.Function_Lock_Multi._message,在合作Live中，检测到有妨碍其他玩家的行为<br>因此暂时限制了部分功能<br>请耐心等待解除。
+mst.dialog.NgWord._title,错误
+mst.dialog.NgWord._message,包含不当言论<br>请重新输入。
+mst.dialog.AndroidPermission._title,权限确认
+mst.dialog.AndroidPermission._message,要进行游戏，请允许使用存储空间。
+mst.dialog.AndroidPermissionDetail._title,权限确认
+mst.dialog.AndroidPermissionDetail._message,要进行游戏，请允许使用存储空间。<br>打开应用详情页面。
+mst.dialog.Adventure_Skip._title,跳过
+mst.dialog.Adventure_Skip._message,要跳过此剧情并结束吗？
+mst.dialog.DeviceCompromised._title,错误
+mst.dialog.DeviceCompromised._message,由于设备已越狱，无法进行游戏。
+mst.dialog.CanNotMainDeckReset._title,无法重置
+mst.dialog.CanNotMainDeckReset._message,无法重置<br>主要队伍。
+mst.dialog.CanNotAutoPlayNotClear._title,自动播放不可
+mst.dialog.CanNotAutoPlayNotClear._message,由于未完成 Live，因此无法跳过。<br>
+mst.dialog.Error_Friend_Max_Self._title,好友上限
+mst.dialog.Error_Friend_Max_Self._message,已达到好友数量上限<br>，请解除部分好友<br>。
+mst.dialog.Error_Friend_Max_Other._title,好友上限
+mst.dialog.Error_Friend_Max_Other._message,对方的好友已达上限。
+mst.dialog.Error_Friend_Request_Max_Self._title,无法发送好友申请
+mst.dialog.Error_Friend_Request_Max_Self._message,由于您的好友申请数量已达到上限，因此无法发送给<br><br>。
+mst.dialog.Error_Friend_Request_Max_Other._title,无法发送好友申请
+mst.dialog.Error_Friend_Request_Max_Other._message,对方的好友申请名额已满。
+mst.dialog.Error_Friend_Pending_Max_Self._title,无法发送好友申请
+mst.dialog.Error_Friend_Pending_Max_Self._message,你的好友申请已达上限。
+mst.dialog.Error_Friend_Pending_Max_Other._title,无法发送好友申请
+mst.dialog.Error_Friend_Pending_Max_Other._message,对方的待处理好友请求已达上限。
+mst.dialog.Error_Friend_Already_Request._title,无法发送好友申请
+mst.dialog.Error_Friend_Already_Request._message,无法申请，因为已经提交了申请。
+mst.dialog.Error_Friend_Already_Pending._title,无法发送好友申请
+mst.dialog.Error_Friend_Already_Pending._message,对方的申请已在等待确认中。
+mst.dialog.Error_Friend_Already_Friend._title,无法发送好友申请
+mst.dialog.Error_Friend_Already_Friend._message,已经是好友了。
+mst.dialog.Error_Friend_Request_Reject._title,无法发送好友申请
+mst.dialog.Error_Friend_Request_Reject._message,对方已拒绝好友申请，无法发送给<br><br>。请检查<br><br>设置。
+mst.dialog.PrivateEnter_NotJoin._title,Live参与失败
+mst.dialog.PrivateEnter_NotJoin._message,无法参与 Live。
+mst.dialog.PrivateEnter_HostPreparation._title,Live参与失败
+mst.dialog.PrivateEnter_HostPreparation._message,由于主持人正在准备，因此无法加入Live。
+mst.dialog.PrivateEnter_NotCondition._title,Live参与失败
+mst.dialog.PrivateEnter_NotCondition._message,您不满足此 Live 的参与条件 <br> <br> Live 参与条件 <br> {0}
+mst.dialog.PrivateEnter_NotRoom._title,Live ID确认
+mst.dialog.PrivateEnter_NotRoom._message,未找到匹配的Live ID<br>请确认输入的Live ID。
+mst.dialog.PrivateEnter_NotTotalPower._title,Live参与失败
+mst.dialog.PrivateEnter_NotTotalPower._message,主打组合的综合实力不足，无法参加Live。
+mst.dialog.Photo_Box_Change_Result._title,交换完成
+mst.dialog.Photo_Box_Change_Result._message,已完成交换。
+mst.dialog.ChipsterErrorCode_0._title,读取错误
+mst.dialog.ChipsterErrorCode_0._message,读取时发生错误<br>返回标题界面
+mst.dialog.ChipsterErrorCode_100000._title,网络错误
+mst.dialog.ChipsterErrorCode_100000._message,文件读取失败<br>返回标题界面
+mst.dialog.ChipsterErrorCode_100404._title,网络错误
+mst.dialog.ChipsterErrorCode_100404._message,无法连接到服务器<br>返回标题界面
+mst.dialog.ChipsterErrorCode_100408._title,读取错误
+mst.dialog.ChipsterErrorCode_100408._message,连接失败<br>返回标题界面
+mst.dialog.ChipsterErrorCode_100500._title,读取错误
+mst.dialog.ChipsterErrorCode_100500._message,连接出现问题<br>返回标题界面
+mst.dialog.ChipsterErrorCode_200000._title,读取错误
+mst.dialog.ChipsterErrorCode_200000._message,数据加载失败<br>返回标题界面。
+mst.dialog.ChipsterErrorCode_200100._title,读取错误
+mst.dialog.ChipsterErrorCode_200100._message,连接一段时间没有响应<br>返回标题界面
+mst.dialog.ChipsterErrorCode_200200._title,读取错误
+mst.dialog.ChipsterErrorCode_200200._message,数据加载失败<br>返回标题界面。
+mst.dialog.ChipsterErrorCode_999999._title,读取错误
+mst.dialog.ChipsterErrorCode_999999._message,读取数据时发生问题<br>返回标题界面。
+mst.dialog.Error_Forbidden._title,错误
+mst.dialog.Error_Forbidden._message,您的账号已被停用。<br>如果您对此有疑问，请通过标题>菜单>帮助>其他咨询进行联系。
+mst.dialog.Event_ErrorNotSession._title,活动期间已结束
+mst.dialog.Event_ErrorNotSession._message,当前没有活动正在进行。
+mst.dialog.Event_ErrorEnded._title,活动已结束
+mst.dialog.Event_ErrorEnded._message,活动已结束<br>返回主页。
+mst.dialog.Event_ErrorEndedNotPolicy._title,活动已结束
+mst.dialog.Event_ErrorEndedNotPolicy._message,由于您未同意活动使用条款，因此无法显示活动主页。<br>
+mst.dialog.Event_ResultAnnouncement._title,活动结果公告
+mst.dialog.Event_ResultAnnouncement._message,感谢您参与“{0}”活动！我们已将您的奖励和排行榜奖励发送到您的账户，请务必领取。您可以在活动页面查看排行榜结果。<br> <br>
+mst.dialog.ShopLackMedal._title,{0}不足
+mst.dialog.ShopLackMedal._message,{0}不足。购买Loveca吗？
+mst.dialog.Mission_ErrorEnded._title,活动期间已结束
+mst.dialog.Mission_ErrorEnded._message,任务的活动期间已结束。
+mst.dialog.BoxGacha_NextBoxConfirm._title,确认
+mst.dialog.BoxGacha_NextBoxConfirm._message,您确定要舍弃当前的卡池，移至<br>下一个卡池<br>吗？
+mst.dialog.Error_Gift_Expired._title,领取期限已过
+mst.dialog.Error_Gift_Expired._message,礼物的领取期间已结束。
+mst.dialog.Error_Mission_Expired._title,领取期限已过
+mst.dialog.Error_Mission_Expired._message,任务奖励的领取期限已结束。<br>未能领取的奖励将发送到礼物箱。
+mst.dialog.Error_Item_Expired._title,已过期
+mst.dialog.Error_Item_Expired._message,道具的使用期限已过。
+mst.dialog.Function_Lock_Gacha._title,功能限制
+mst.dialog.Function_Lock_Gacha._message,当前招募功能受到<br>限制，无法使用<br>。开始时间：{0}，结束时间：{1}。<br><br><br><br><br><color=#D73C55></color>
+mst.dialog.Function_Lock_Shop._title,功能限制
+mst.dialog.Function_Lock_Shop._message,当前商店功能<br>受到限制，无法使用<br>。<br><br>预计开始时间：{0}<br>预计结束时间：{1}<br><br><color=#D73C55></color>
+mst.dialog.Function_Lock_Exchange._title,功能限制
+mst.dialog.Function_Lock_Exchange._message,当前兑换功能受到<br>限制，无法使用<br>。开始时间：{0}，结束时间：{1}。<br><br><br><br><br><color=#D73C55></color>
+mst.dialog.RecommendConfirm._title,（暂定）通知
+mst.dialog.RecommendConfirm._message,有新的通知。
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._title,Live参与失败
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._message,由于未满足 Live 参与条件，无法开始 <br>。请查看 <br> 中的 <br> 以了解详情 {0}。
+mst.dialog.Live_BluetoothAudioMode._title,蓝牙模式
+mst.dialog.Live_BluetoothAudioMode._message,已切换至蓝牙模式，因为连接了蓝牙耳机 <br> 在蓝牙模式下，点击时的音效可能会延迟 <br> ※将应用蓝牙专用调整。
+mst.dialog.Live_BatteryQuantityCheck._title,电池电量警告
+mst.dialog.Live_BatteryQuantityCheck._message,电池电量不足<br>剩余电量为 <color=#D73C55> {0}% </color><br>因设备检测到电量较低，<br>Live 可能会中断<br>建议为设备充电。
+mst.dialog.MusicVideo_ReleaseCondition._title,MV解锁条件
+mst.dialog.MusicVideo_ReleaseCondition._message,完成任意难度的一次Live后，即可解锁观看MV。
+mst.dialog.MusicVideo_Pause._title,暂停中
+mst.dialog.MusicVideo_Pause._message,中断MV欣赏<br>返回歌曲选择界面吗？
+mst.dialog.Adventure_Movie_Skip._title,暂停中
+mst.dialog.Adventure_Movie_Skip._message,跳过动画吗？
+mst.dialog.StaminaConfirm._title,LP确认
+mst.dialog.StaminaConfirm._message,当前，剩余的体力低于设定值<br>是否消耗现有可用体力进行Live？<br>※如果剩余体力为0，则不会消耗体力。
+mst.dialog.AutoBoostConfirm._title,跳过票确认
+mst.dialog.AutoBoostConfirm._message,当前，剩余的跳过票数量低于设定值。<br>是否消耗现有可用的数量进行Live演出？
+mst.dialog.NoAutoBoostConfirm._title,跳过票确认
+mst.dialog.NoAutoBoostConfirm._message,您目前没有持有跳过票，或者因为尚未完成歌曲而无法使用跳过票<br>是否消耗1点LP进行Live演出？<br>※如果剩余LP为0，则不会消耗LP。
+mst.dialog.NoAutoBoostForSpiritConfirm._title,跳过票确认
+mst.dialog.NoAutoBoostForSpiritConfirm._message,您当前没有持有跳过票，或者因为尚未通关歌曲而无法使用跳过票。<br>是否消耗奇迹之星进行Live？
+mst.dialog.LiveResultRestartConfirm._title,重新开始确认
+mst.dialog.LiveResultRestartConfirm._message,是否消耗{0} LP再次进行Live？
+mst.dialog.LiveResultRestartAutoConfirm._title,重新开始确认
+mst.dialog.LiveResultRestartAutoConfirm._message,是否消耗{0}个跳过券并重新进行Live？
+mst.dialog.CardMovie_Pause._title,暂停中
+mst.dialog.CardMovie_Pause._message,中断视频播放，返回视频详情页面吗？<br>
+mst.dialog.OrnamentShop_LackGem._title,Loveca确认
+mst.dialog.OrnamentShop_LackGem._message,Loveca不足，无法购买。
+mst.dialog.OrnamentShop_Lack._title,确认{0}
+mst.dialog.OrnamentShop_Lack._message,由于{0}不足，无法购买。
+mst.dialog.StoryReleaseDetail._title,解锁条件
+mst.dialog.StoryPlay._title,故事播放
+mst.dialog.StoryPlay._message,“{0}”，是否播放<br>？<br>
+mst.dialog.StoryPlayAfterDownload._title,故事播放
+mst.dialog.StoryPlayAfterDownload._message,将下载并播放「{1}」的<br>。<br><br><color=#D73C55>下载大小：{0:0.00} MB</color><br>是否确定？<br><br><color=#D73C55>※建议在Wi-Fi环境下进行<br>下载</color>
+mst.dialog.EpisodePlay._title,故事播放
+mst.dialog.EpisodePlay._message,是否播放《{0}》？<br>
+mst.dialog.Tutorial_GroupSelect._title,确认心仪组合
+mst.dialog.Tutorial_GroupSelect._message,选定组合中成员的稀有度“UR”<br>将在后续招募中必定获得<br>。是否邀请该组合？
+mst.dialog.Tutorial_MemberSelect._title,确认心仪成员
+mst.dialog.Tutorial_MemberSelect._message,您确定要选择该成员吗？在接下来的招募中，您可以获得所选成员的最高稀有度“UR” <br>，并且可以保证获得 <br>。
+mst.dialog.Tutorial_Movie_Skip._title,跳过动画
+mst.dialog.Tutorial_Movie_Skip._message,跳过动画吗？
+mst.dialog.Tutorial_Live_Skip._title,Live跳过确认
+mst.dialog.Tutorial_Live_Skip._message,跳过Live演出吗？
+mst.dialog.Tutorial_GetMember._title,获取心仪成员
+mst.dialog.Tutorial_GetMember._message,你获得了{0}，<br>。获得的偶像会立即加入队伍。
+mst.dialog.Tutorial_HomeGacha._title,教程完成
+mst.dialog.Tutorial_HomeGacha._message,为纪念完成教程，您可以免费进行10次招募。
+mst.dialog.Tutorial_Complete._title,确认
+mst.dialog.Tutorial_Complete._message,教程完成，辛苦了！
+mst.dialog.BandEnrich._title,确认
+mst.dialog.BandEnrich._message,确认要使用所选的乐队强化道具和<br>{0}G进行强化吗？<br>
+mst.dialog.SubTutorial_EndConfirm._title,确认
+mst.dialog.SubTutorial_EndConfirm._message,要开始Live吗？
+mst.dialog.SubTutorial_SkipConfirm._title,确认
+mst.dialog.SubTutorial_SkipConfirm._message,跳过吗？
+mst.dialog.EmotionalMemberSelect._title,选择中[{0}]
+mst.dialog.EmotionalMemberSelect._message,确定选择此成员吗？<br><br>※一旦选定的最喜欢的成员就不能更改。
+mst.dialog.EmotionalBandSelect._title,选择中[{0}]
+mst.dialog.EmotionalBandSelect._message,确定选择这个乐队吗？<br><br>在选择期间，您可以随时更改乐队。<br>请注意，更改乐队会重置活动积分（临时）。<br>活动积分（临时）将在您决定乐队后开始计算。
+mst.dialog.ShopAttentionWording._title,使用须知
+mst.dialog.ShopAttentionWording._message,无法退货。<br>如果用户未满18岁，购买商品需要监护人的同意。
+mst.dialog.Notice_Movie_Skip._title,跳过动画
+mst.dialog.Notice_Movie_Skip._message,跳过动画吗？
+mst.dialog.GameLibErrorCode_17101._title,购买未完成
+mst.dialog.GameLibErrorCode_17101._message,存在未完成的便利店支付项目<br>请完成已保留购买项目的便利店支付<br>或者，在Google Play商店的历史记录页面中取消已保留的购买项目<br><br>完成支付后，再次打开商店页面即可反映商品<br>错误代码：{0}
+mst.dialog.GameLibErrorCode_16010._title,购买未完成
+mst.dialog.GameLibErrorCode_16010._message,存在未完成的便利店支付项目<br>请完成已保留购买项目的便利店支付<br>或者，在Google Play商店的历史记录页面中取消已保留的购买项目<br><br>完成支付后，再次打开商店页面即可反映商品<br>错误代码：{0}
+mst.dialog.GachaConfirmFree._title,确认
+mst.dialog.GachaConfirmFree._message,是否要使用{0}进行{1}次招募？
+mst.dialog.GachaConfirmFreeDaily._title,确认
+mst.dialog.GachaConfirmFreeDaily._message,是否要使用{0}进行{1}次招募？将于<br>点重置。
+mst.dialog.GachaConfirmTutorial._title,确认
+mst.dialog.GachaConfirmTutorial._message,是否要使用{0}进行{1}次招募？
+mst.dialog.GameLibErrorCode_1100._title,账号关联失败
+mst.dialog.GameLibErrorCode_1100._message,账号关联失败。
+mst.dialog.DataTakeOver_SNSSignOutConfirm._title,解除关联
+mst.dialog.DataTakeOver_SNSSignOutConfirm._message,要解除已关联的账号吗？
+mst.dialog.ChatOpen._title,聊天开放！
+mst.dialog.ChatOpen._message,有新消息了！<br>要不要去查看？
+mst.dialog.ReturnToTitleConfirm._title,确认
+mst.dialog.ReturnToTitleConfirm._message,返回标题界面吗？
+mst.dialog.GoToRehearsalConfirm._title,彩排确认
+mst.dialog.GoToRehearsalConfirm._message,在彩排中不会消耗LP <br> 但是，通关时分数等数据将不被记录 <br> 您确定要继续吗？
+mst.dialog.GoToEventRehearsalConfirm._title,彩排确认
+mst.dialog.GoToEventRehearsalConfirm._message,在彩排中不会消耗奇迹之星<br>但是，通关时分数等数据将不被记录<br>并且无法获得奖励，可以吗？
+mst.dialog.MigrateError_WrongParam._title,确认
+mst.dialog.MigrateError_WrongParam._message,未找到迁移数据。<br>请确认用户ID和密码是否输入正确。
+mst.dialog.MigrateError_AlreadyCompleted._title,确认
+mst.dialog.MigrateError_AlreadyCompleted._message,此用户ID已完成数据迁移。
+mst.dialog.TermsOfService_UpDate._title,使用条款已更新
+mst.dialog.TermsOfService_UpDate._message,使用条款已更新。<br>如需继续游戏，请再次同意使用条款。
+mst.dialog.Subscription_Restore_Ok._title,订阅恢复
+mst.dialog.Subscription_Restore_Ok._message,已恢复。
+mst.dialog.Subscription_Restore_0_Have._title,订阅恢复
+mst.dialog.Subscription_Restore_0_Have._message,无法确认已购买。
+mst.dialog.Subscription_Restore_Error._title,订阅恢复
+mst.dialog.Subscription_Restore_Error._message,恢复失败。
+mst.dialog.GameLibErrorCode_37003._title,错误
+mst.dialog.GameLibErrorCode_37003._message,已超过购买上限，无法购买。
+mst.dialog.GameLibErrorCode_37004._title,错误
+mst.dialog.GameLibErrorCode_37004._message,无法购买，因为已超过可保留的宝石余额。
+mst.dialog.GameLibErrorCode_37006._title,错误
+mst.dialog.GameLibErrorCode_37006._message,由于您已订阅了定期付费，因此无法购买。
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._title,确认
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._message,此账号已与其他用户数据进行了<br>账户关联。请先解除与另一个用户数据的账户关联，然后再与<br><br>当前的用户数据进行账户关联，您确定要这样做吗？<br>
+mst.dialog.GameLibOrder_IsPending._title,购买未完成
+mst.dialog.GameLibOrder_IsPending._message,您似乎有未完成的便利店支付订单 <br> 请完成这些订单，或在 Google Play 商店的历史记录中取消它们 <br> 完成支付后，请重新打开商店页面以查看已购买的商品 <br> <br>
+mst.dialog.MusicRecommendErrorExpired._title,错误
+mst.dialog.MusicRecommendErrorExpired._message,此推荐列表已到期。
+mst.dialog.MultiDeckErrorUnorganized._title,编队错误
+mst.dialog.MultiDeckErrorUnorganized._message,请编队合作Live专用队伍。
+mst.dialog.MultiCanNotMatching._title,匹配失败
+mst.dialog.MultiCanNotMatching._message,无法匹配。返回活动主页。
+mst.dialog.LocationInformationConfirmingDialog._title,正在获取位置信息
+mst.dialog.LocationInformationConfirmingDialog._message,正在获取位置信息 <br> 获取位置信息可能需要一些时间 <br> 按下取消按钮将中断操作。
+mst.dialog.LocationFailedDialogOutofArea._title,奖励获取区域外
+mst.dialog.LocationFailedDialogOutofArea._message,您不在奖励获取区域内<br>因此无法获取奖励。
+mst.dialog.LocationFailedDialogNotAllow._title,确认
+mst.dialog.LocationFailedDialogNotAllow._message,定位模式为“关闭”或“仅GPS”时<br>无法使用定位同步功能<br>更改获取设置请检查设备设置
+mst.dialog.LocationFailedDialogTimeout._title,确认
+mst.dialog.LocationFailedDialogTimeout._message,超时了
+mst.dialog.LocationFailedDialogNone._title,确认
+mst.dialog.LocationFailedDialogNone._message,获取奖励失败。
+mst.dialog.LocationFailedDialogReceived._title,确认
+mst.dialog.LocationFailedDialogReceived._message,这是已领取的活动。
+mst.dialog.LocationFailedDialogOutOfTerm._title,确认
+mst.dialog.LocationFailedDialogOutOfTerm._message,活动期间已结束。
+mst.dialog.MultiConfirmStartLive._title,确认
+mst.dialog.MultiConfirmStartLive._message,参与人数不足。以当前人数开始 Live 是否可以？如果以 4 人进行，可能会减少获得的活动积分。<br><br>获得的活动积分可能比 <br> 少 <br>。<br>
+mst.dialog.MultiConfirmStartLivePermanent._title,确认
+mst.dialog.MultiConfirmStartLivePermanent._message,参与人数不足。<br><br>确定以当前人数开始Live吗？
+mst.dialog.MultiLeaveRoomOnSongPick._title,退出Live
+mst.dialog.MultiLeaveRoomOnSongPick._message,退出后将无法参加本次Live。<br><br>确定退出吗？
+mst.dialog.MultiPenalty._title,确认
+mst.dialog.MultiPenalty._message,由于在合作Live中检测到多次连接中断等情况，因此我们暂时限制了该功能。请等待解除限制。<br>解除后您将可以继续使用。<br>感谢您的理解与耐心。<br><br><color=#D73C55>解除限制倒计时：<br>{0}</color>
+mst.dialog.MultiPenaltyWarning._title,确认
+mst.dialog.MultiPenaltyWarning._message,合作Live中因网络中断等原因<br>Live结果将被判定为无效。
+mst.dialog.MultiLiveInterruption._title,确认
+mst.dialog.MultiLiveInterruption._message,合作Live中因网络中断等原因<br>Live结果将被判定为无效。
+mst.dialog.MultiRematchAllUsersLeft._title,确认
+mst.dialog.MultiRematchAllUsersLeft._message,其他玩家已全部退出房间。
+mst.dialog.MultiDisconnectedError._title,确认
+mst.dialog.MultiDisconnectedError._message,连接已中断。
+mst.dialog.MultiHelperCountEmpty._title,确认
+mst.dialog.MultiHelperCountEmpty._message,今日协助次数已达上限。<br>将返回活动主页。
+mst.dialog.SS_AlignmentError_WrongParam._title,错误
+mst.dialog.SS_AlignmentError_WrongParam._message,未找到可关联的数据。请确认是否正确输入了《偶像梦幻祭！》玩家ID和关联密码<br><br>。
+mst.dialog.SS_AlignmentError_AlreadyCompleted._title,错误
+mst.dialog.SS_AlignmentError_AlreadyCompleted._message,已完成与《偶像大师 星光舞台》账号的关联。
+mst.dialog.SS_AlignmentError_UsedCode._title,错误
+mst.dialog.SS_AlignmentError_UsedCode._message,已完成与此《偶像梦幻祭》玩家 ID 的关联。
+mst.dialog.SS_AlignmentError_Expired._title,错误
+mst.dialog.SS_AlignmentError_Expired._message,由于有效期限已过，无法使用。
+mst.dialog.EventEndConfirmDialog._title,确认
+mst.dialog.EventEndConfirmDialog._message,活动已结束。
+mst.dialog.LiveLoadError._title,歌曲已更新
+mst.dialog.LiveLoadError._message,歌曲数据已更新。
+mst.dialog.StartEventLive._title,确认
+mst.dialog.StartEventLive._message,活动已开始。
+mst.dialog.SerialCcode_ExcludedItem._title,确认
+mst.dialog.SerialCcode_ExcludedItem._message,此聊天已解锁。
+mst.dialog.UseExpiredItem._title,错误
+mst.dialog.UseExpiredItem._message,您尝试使用的{0}已过期。
+mst.dialog.LiveSkipConfirm._title,确认
+mst.dialog.LiveSkipConfirm._message,已通关的歌曲，在任何难度下都可以跳过。<br>但是，对于尚未通关的难度，将不会被视为已通关。
+mst.dialog.GameClose_AnnouncePaybackNotice._title,服务结束通知
+mst.dialog.GameClose_AnnouncePaybackNotice._message,《Love Live! 学园偶像祭 2 MIRACLE LIVE!》已于 <br>2024年3月31日（周日）停止服务。<br><br>■退款受理期间：2024年4月1日（周一）0:00～2024年6月17日（周一）14:59。<br><br>感谢您一直以来的支持。
+mst.dialog.GameClose_AnnouncePayback._title,关于有偿Loveca退款的通知
+mst.dialog.GameClose_AnnouncePayback._message,"《Love Live! 学园偶像祭 2 MIRACLE LIVE!》已于 <br>2024年3月31日（周日）停止服务。如果您希望退还未使用过的应用内货币“有偿 Loveca”余额，请通过 <br>“退款”表格提交申请。<br>■提供退款服务的预付支付方式发行方：Bushiroad Co., Ltd. <br><br>■退款受理期间：2024年4月1日（周一）00:00～2024年6月17日（周一）15:00。<br>※如果在指定期间内未提出退款申请，则将不再进行此项退款处理。<br>"
+mst.dialog.GameClose_AnnounceNoPayback._title,服务结束通知
+mst.dialog.GameClose_AnnounceNoPayback._message,《Love Live! 学园偶像祭 2 MIRACLE LIVE!》已于 <br>2024年3月31日（周日）停止服务。<br>没有符合退款条件的 Loveca。<br>如有任何疑问，请通过以下方式联系我们。<br><br>感谢您一直以来的支持。<br>
+mst.dialog.GameClose_Announce._title,服务结束通知
+mst.dialog.GameClose_Announce._message,《Love Live! School Idol Festival 2 MIRACLE LIVE!》将于<br>2024年3月31日（星期日）停止服务。<br><br>感谢各位一直以来的支持与厚爱。
+mst.dialog.GameClose_Information_Terms._title,使用条款
+mst.dialog.GameClose_Information_Terms._message,服务使用条款<br>本使用条款（以下简称“本条款”）由株式会社ブシロード（以下简称“本公司”）制定，规定通过应用程序「ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!」（以下简称“本应用”）提供的服务（以下简称“本服务”，含本应用）的使用条件。适用于所有用户（以下简称“用户”）。<br>第一条 定义<br>“内容”指文章、文字、声音、音乐、图像、视频、软件、代码及其他信息。<br>“本内容”指可通过本服务访问的内容。<br>“用户内容”指用户在本服务发布、发送或上传的内容。<br>“应用内货币”指可在本服务与有偿服务或内容交换的电子虚拟货币。<br>“本网站”指本服务的官方网站。<br>“个别使用条款”指本公司就本服务除本条款外以各类名称发布的条件文件。本条款与个别条款统称“本条款等”。<br>第二条 对本条款的同意<br>用户须依规定使用本服务，未同意本条款等则无法使用。<br>用户开始使用并完成同意程序时，即视为成立遵循本条款的本利用契约（以下简称“本利用契约”）。<br>若存在个别条款，须同时遵守；冲突时以个别条款为准。<br>实际使用即视为有效且不可撤销地同意。<br>第三条 本条款等的变更<br>本公司认为必要时，可经个别同意后随时变更。<br>依民法第548条之4规定，符合下列情形时可变更：<br>变更符合用户普遍利益时；<br>变更不违背契约目的且合理时。<br>变更时将至少提前1个月在网站公告内容及生效时间。生效后继续使用视为同意；不同意则不得继续使用。<br>第四条 未成年人使用<br>用户为未成年人时，使用前须取得法定代理人同意（含同意本条款）。<br>成年后继续使用者，视为追认未成年期间行为。<br>第五条 账号<br>注册信息须真实准确并及时更新。因虚假或遗漏致损，本公司不负责。<br>获得认证信息（以下简称“认证信息”）须自行严格保管。本公司可将利用该信息的行为视为用户本人行为，因此致损概不负责。<br>若认定违规或可能违规，可不经通知停用或删除账号。<br>连续1年未使用可不经通知删除账号，状态由服务器记录判定。<br>使用权自删号时消灭，误删亦无法恢复。<br>账号专属用户本人，使用权不得转让、出借或继承。<br>发现信息被盗或泄露须立即通知并按要求配合。<br>因盗用致损须赔偿本公司及第三方。<br>第六条 用户信息处理<br>依《个人信息保护方针》及《应用隐私政策》妥善处理收集的信息。<br>第七条 本服务的提供<br>用户须依规定方式使用。<br>自备所需设备（统称“设备等”）并承担费用。<br>本公司可限定服务对象，用户须事先同意。<br>认为必要时可不经通知随时变更或停止服务内容及部分功能。<br>仅限个人使用，禁止销售、分发或非个人用途及任何营利行为。<br>第八条 有偿内容<br>使用有偿服务或内容（统称“有偿内容”）须依规定付费。<br>金额及支付方式由本公司规定并显示。<br>可酌情变更价格。<br>除法定外概不退款或补偿。<br>用户同意由商店运营商代收；费用争议由用户与本公司解决，不得向商店索赔。<br>第九条 广告展示等<br>可在服务中展示本公司或第三方广告。<br>可能包含其他厂商内容，责任由提供方承担，适用其条款。<br>第十条 本公司提供的本内容<br>著作权及知识产权归本公司或授权方所有。<br>授予用户不可转让、不可再许可的非独占使用权。<br>另有条件须遵守；即使显示“购买”，权利不转移，仅授使用权。<br>原则上仅可在下载设备使用；未经同意不得超范围使用或侵权。<br>因违反本条致纠纷，用户自行负责解决，本公司不负责。<br>第十一条 用户内容<br>保证拥有发布合法权利且不侵权、内容合法。<br>保留投稿权利，本公司不取得；但公开内容视为无偿永久授予本公司用于服务宣传及再许可的权利。<br>不对本公司及继受方行使人格权。<br>若含多人编辑功能，须允许他人编辑。<br>为确认合规可检查内容，但无此义务。<br>违规或可能违规时可不经通知限制或删除。<br>须自行备份，本公司无义务。<br>第十二条 应用内货币<br>通过购买、活动或指定方式发放；单位及条件由本公司规定显示。<br>不可兑换现金或财物；兑换条件由本公司规定显示。<br>仅限获取账号使用；不同系统同名货币不可继承或合并。<br>不得与其他账号共享、转移、转让或担保。<br>删号后货币无法使用。<br>概不退款，法定除外；退款方式依规定显示。<br>若同时存在有偿与无偿货币，优先消耗无偿。<br>第十三条 禁止事项<br>不得自行或委托他人实施以下行为：<br>违反法律或行政措施；<br>危害公序良俗；<br>犯罪或助长犯罪；<br>向反社会势力提供利益或协助；<br>侵害知识产权、名誉权、隐私权等权利；<br>以非规定方式处置账号或内容使用权（含现实货币交易）；<br>营业宣传招募营利行为（经认可除外）、宗教活动、性行为目的、结识异性目的、展示儿童色情信息、骚扰诽谤他人或其他非预定用途；<br>发布暴力、性表现、歧视、自杀诱导、反社会或令人不适内容；<br>可能引发霸凌或骚扰的行为；<br>链接至成人网站、隐私收集网站或营利网站；<br>买卖交换物品或服务及其宣传招募（无论营利与否）；<br>刊登本人或他人隐私信息；<br>向不特定多数人发送相同信息、无差别加好友群或其他垃圾行为；<br>冒充本公司或他人，或散布虚假信息；<br>非法收集公开他人信息；<br>非法访问、使用他人账号或多重认证等类似行为；<br>干扰服务器网络系统、非法操控服务或利用漏洞；<br>反编译逆向工程或解析源代码结构创意；<br>向本公司提出不当查询要求；<br>妨碍运营或其他用户使用；<br>协助助长前述行为；<br>其他本公司判定为不当的行为。<br>是否违规由本公司合理裁量判定。<br>发现违规须立即通知本公司。<br>第十四条 违规等措施<br>若认定符合下列情形，可不经通知采取删内容、停服务、删账号或解约等措施（统称“停用等”）：<br>违反本条款等；<br>提供信息虚假；<br>停止支付/无力偿还或申请破产清算等；<br>死亡或受监护宣告；<br>未成年人或受监护者未取得同意；<br>对查询30日未回复；<br>属反社会势力或与其往来；<br>运营维护必要；<br>其他类似情形。<br>停用后仍须承担契约义务及债务（含赔偿）。<br>本公司对据此措施致损概不负责；删号后仍可保留使用其信息但无义务。<br>可要求停止违规或自行删除修正，须按期配合。<br>对据此措施致损概不负责。<br>第十五条 服务终止<br>可随时通过卸载或删除账号终止使用。<br>丧失使用权后不得继续使用账号、内容、信息或货币。<br>终止后仍须承担义务及债务；本公司可保留使用其信息但无义务。<br>终止后可不经通知删号，对删号致责概不负责。<br>用户死亡时账号信息货币等删除失效不可继承。<br>第十六条 服务变更/终止/中断等<br>可不经通知变更或增加服务。<br>可经公告等方式终止服务。<br>可能同时停止发行货币，用户须事先同意。<br>发生下列情形可不经通知暂停服务：<br>定期或紧急维护设备；<br>访问过多或系统负荷集中；<br>需保障安全时；<br>电信服务中断时；<br>天灾火灾停电战争等不可抗力致困难时；<br>依法规无法运营时；<br>其他本公司判定必要情形。<br>对暂停服务致损概不负责。<br>第十七条 用户责任<br>须自行承担费用及行为后果责任。<br>违规将依第十四条处理，但本公司无预防纠正义务。<br>致本公司直接或间接损失（含被第三方索赔），须立即全额赔偿（含律师费）。<br>纠纷须自行解决并通知本公司，本公司无参与义务及责任。<br>第十八条 免责<br>除故意或重大过失外，对服务中断、数据丢失或内容相关损失概不负责。<br>赔偿以实际直接损失为限，上限为当月收取费用。<br>第十九条 联络方式<br>通知通过应用/网站公告或认定方式发送。<br>邮件发送至注册邮箱即视为送达。<br>用户联络须通过表单或指定方式；非指定方式本公司无义务处理。<br>第二十条 权利义务转让禁止<br>未经书面同意，不得转让权利义务或地位。<br>第二十一条 事业转让等处理<br>事业转让时，可将契约地位、权利义务及信息转移给受让方。<br>第二十二条 可分性<br>条款部分无效不影响其他部分效力；对特定用户无效不影响对其他用户效力。<br>第二十三条 准据法及管辖法院<br>准据法为日本法。纠纷由东京地方法院或简易法院专属管辖。<br><br><br><br><br><br>
+mst.dialog.GameClose_Information_PrivacyPolicy._title,隐私政策
+mst.dialog.GameClose_Information_PrivacyPolicy._message,应用程序隐私政策<br>本应用程序隐私政策（以下简称“本隐私政策”）规定了株式会社Bushiroad（以下简称“本公司”）提供的智能手机应用程序《Love Live! 学园偶像祭2 MIRACLE LIVE!》（以下简称“本应用”）及相关服务（以下简称“本服务”）中用户信息的使用方式。<br><br>第一条（同意）<br>用户在使用本应用及本服务时，须确认本隐私政策及本公司制定的《个人信息保护方针》（https://bushiroad.com/company/privacy.html，以下简称“本公司个人信息保护方针”）的内容并予以同意。若用户不同意上述内容，将无法使用本应用及本服务，敬请谅解。<br><br>第二条（获取的信息项目、使用目的、获取方法）<br>本公司在提供本应用及本服务等过程中，将通过本应用自动获取以下用户信息用于以下使用目的。<br>使用目的 获取的信息项目<br>■识别使用本服务的用户终端 ①用于识别用户终端的终端识别号等终端相关信息<br>■掌握用户终端在本服务中的使用情况，以便提供符合使用情况的服務 ②IP地址<br>③操作系统类型及版本<br>④用户终端的位置信息（仅限已设置通过GPS、蓝牙等发送位置信息的终端）<br>■向用户终端（仅限已设置接收推送通知的终端）发送推送通知 ⑤为本应用下载终端颁发的ID（设备令牌）<br>■本公司或第三方广告的分发或展示<br>■用于改进本应用及本服务、修复故障<br>■用于市场营销及新产品开发等<br>■制作无法识别个人的数据或统计信息并向第三方披露/提供 ①至⑤的所有信息<br>■响应用户咨询及其他用户支持 ①用于识别用户终端的终端识别号等终端相关信息<br>③操作系统类型及版本<br>■向用户分发合适广告及测量广告展示效果 ①用于识别用户终端的终端识别号等终端相关信息<br>本公司在提供本应用及本服务等过程中，将通过用户自行输入获取以下用户信息用于以下使用目的。<br>使用目的 获取的信息项目<br>■发送与本服务相关的电子邮件杂志 ①电子邮箱地址<br>■响应用户咨询及其他用户支持 ①电子邮箱地址<br>■向用户寄送活动/活动的奖品等 ①电子邮箱地址<br>②姓名<br>③住址<br>④电话号码<br>用户在使用本服务时，若允许与Twitter及其他社交网络服务等外部服务联动，本公司将基于许可同意的内容，从该外部信息服务收集并获取以下用户信息用于以下使用目的。<br>使用目的 获取的信息项目<br>在用户间共享成绩信息 该外部服务中用户使用的ID，以及其他根据该外部服务的隐私设置允许向联动方披露的信息<br>第三条（外部传输）<br>基于第二条获取的信息将传输至本公司管理的服务器，并在目的范围内使用（【除基于第五条由广告分发商通过信息收集模块自动获取用户信息的情况外，】）。<br><br>第四条（向第三方提供/业务委托等）<br>除基于个人信息保护法及其他法令允许向第三方提供的情况外，本公司不会在未事先获得用户同意的情况下向第三方提供用户信息。但以下情况除外。<br>本公司在实现使用目的的必要范围内委托全部或部分个人信息处理时<br>因合并等其他事由承继事业而提供个人信息时<br>根据第五条规定向信息收集模块提供者提供个人信息时<br>国家机关或地方公共团体或其受托者需配合执行法令规定事务时<br>本公司在实现使用目的的必要范围内，可能会将个人信息处理业务的全部或部分委托给已签订包含保密条款等合同的业务受托方，并向该受托方披露个人信息。届时，本公司将选定被认为能适当处理个人信息的受托方，并在与该受托方的合同等中规定安全管理措施、保密、再委托条件及其他适当处理个人信息所需事项，并进行适当监督。<br>本公司可能会将用户信息中与本服务相关、无法识别特定个人的数据或统计信息提供给第三方或进行披露，敬请谅解。<br>本公司为提供集团公司的综合服务，将在集团公司间共同使用通过本应用获取的用户信息。<br>第五条（信息收集模块）<br>为使用用户信息分发定向广告等，本服务中可能会嵌入信息收集模块。这些企业将通过该信息收集模块自动获取用户信息。关于获取信息、使用目的、向第三方提供等的详细信息，请通过下方列出的企业的隐私政策链接确认。<br><br>SDK名称：Firebase<br>提供方：Google LLC<br>使用目的：发送本应用的推送通知、收集本应用日志及分析应用推广情况<br>隐私政策：https://firebase.google.com/terms/data-processing-terms<br>SDK名称：Adjust<br>提供方：Adjust株式会社<br>使用目的：分析应用推广情况<br>隐私政策：https://www.adjust.com/ja/terms/privacy-policy/<br>第六条（用户参与方法）<br>第二条第一项规定的用户信息自动获取可通过以下任一方法停止。<br>关闭用户终端电源。<br>关闭用户终端的通信功能。<br>在用户终端上卸载本应用。<br>第二条第三项规定的用户信息自动获取可通过以下任一方法停止。<br>关闭用户终端电源。<br>关闭用户终端的通信功能。<br>使用户终端上的本应用及外部服务应用程序处于未启动状态。<br>在用户终端上卸载本应用。<br>用户自行将外部服务的设置更改为不允许与应用程序联动。<br>在上述两项停止后，对于此前基于第二条本公司已获取的用户信息，除非收到用户提出的停止使用及停止向第三方提供的申请，否则本公司将继续在利用目的范围内使用该信息，并依据第四条规定向第三方提供。<br>关于用户信息使用目的的通知、披露、变更、删除、使用停止、向第三方提供停止等的申请，将基于本公司《个人信息保护方针》，通过本公司指定的方法/程序，在确认本人身份后适当处理。<br>第七条（本公司《个人信息保护方针》等链接）<br>本公司《个人信息保护方针》及本隐私政策的最新版本请通过下方链接确认。若本公司《个人信息保护方针》与本隐私政策内容不同，以本隐私政策为准。<br><br>本公司《个人信息保护方针》<br>链接：https://bushiroad.co.jp/privacy<br>本隐私政策<br>链接：https://bushiroad.co.jp/privacy<br>第八条（获取信息的公开、共享）<br>若用户使用本服务中通过通信与朋友或熟人联系及共享信息的功能，本应用获取的用户位置信息（启用位置信息功能时）、消息中的文本、照片、视频、音频、URL链接可能会通知或共享给正在联系/共享信息的朋友或熟人。此外，若将全部功能设置为公开，本服务的所有使用者均可浏览。公开范围可通过本服务或本应用的设置功能更改。<br><br>第九条（咨询窗口）<br>关于本应用及本服务中用户信息处理的相关咨询与联络，请通过以下窗口进行。<br><br>窗口名称：株式会社Bushiroad 学园偶像祭2窗口<br>咨询方法：https://lovelive-sif2.bushimo.jp/contact/<br>第十条（变更）<br>本隐私政策可能会进行修订。<br><br>伴随本应用版本更新，若用户信息获取项目变更或新增、使用目的变更、向第三方提供等发生变更，将在下载前进行通知，重要事项将在安装前或安装时重新获取同意。<br>
+mst.dialog.GameClose_Information_Rights._title,版权声明
+mst.dialog.DataTakeOver_SnsNotSupported._title,SNS 联动
+mst.dialog.DataTakeOver_SnsNotSupported._message,SNS 联机功能在本版本中不可用。<br>
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._title,确认
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._message,删除「{0}」吗？已保存的 MV 编队将恢复为默认设置。<br>
+mst.dialog.Arcade_Enter_Confirm._title,Arcade Mode
+mst.dialog.Arcade_Enter_Confirm._message,Register this device as an arcade cabinet.<br>From then on every launch goes straight to the attract loop and the normal game is no longer reachable (Test Mode can undo this).<br>All content is downloaded right after registration.<br><br>Continue?
+mst.dialog.Arcade_Enter_Failed._title,Registration Failed
+mst.dialog.Arcade_Enter_Failed._message,{0}
+mst.dialog.Arcade_TestMode_ExitConfirm._title,Exit Arcade Mode
+mst.dialog.Arcade_TestMode_ExitConfirm._message,"Leave arcade mode.<br>All save data on this device (machine registration, credits, bookkeeping) is deleted and it returns to a first-launch install.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_ExitReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ExitReconfirm._message,Deleted data cannot be recovered.<br>Really exit arcade mode?
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,Reset Bookkeeping
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,Set the counted coins and plays back to zero.<br>Credits and the machine registration are not changed.<br><br>Continue?
+mst.dialog.Arcade_Session_Failed._title,Cannot Start Session
+mst.dialog.Arcade_Session_Failed._message,{0}<br><br>Your credit has been returned.
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,Download All Content
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,Downloads every asset category.<br>This takes time and bandwidth. The cabinet returns to the attract screen when it is done.<br><br>Continue?
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,The counted data cannot be recovered.<br>Really reset it?
+mst.dialog.Arcade_Card_NewCard._title,A New Card
+mst.dialog.Arcade_Card_NewCard._message,This card has not been used here before.<br>Choose NEW PLAYER to start a new account on it.<br>Choose TRANSFER DATA to move the account you already play on your phone onto this card.
+mst.dialog.Arcade_Card_BindFailed._title,Transfer Failed
+mst.dialog.Arcade_Card_BindFailed._message,No account matches that transfer code and password.<br>Check them and try again.
+mst.dialog.Arcade_TestMode_UnlockConfirm._title,Unlock Account
+mst.dialog.Arcade_TestMode_UnlockConfirm._message,"Remove this device's account lock.<br>From the next credit on, Decision plays as the guest. The card binding on the server is kept.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_UnlockReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_UnlockReconfirm._message,A removed lock cannot be restored; the next lock draws a new device card ID.<br>Really unlock?
+mst.dialog.Arcade_TestMode_LockFailed._title,Lock Failed
+mst.dialog.Arcade_TestMode_LockFailed._message,No account matches that transfer code and password.<br>The lock stays pending until the first credit.
+mst.dialog.Arcade_Enter_WipeConfirm._title,数据删除确认
+mst.dialog.Arcade_Enter_WipeConfirm._message,本设备中已存在游戏数据。<br>切换至街机模式后，本设备上的所有数据（账号、卡牌、乐曲、进度）都将被删除，且无法恢复。<br><br>是否继续？
+mst.dialog.Arcade_Enter_WipeFinal._title,数据删除最终确认
+mst.dialog.Arcade_Enter_WipeFinal._message,已删除的游戏数据无法恢复。<br><br>确定要删除所有数据并切换至街机模式吗？
+mst.dialog.Arcade_Enter_KeyboardWarning._title,需要键盘
+mst.dialog.Arcade_Enter_KeyboardWarning._message,进入街机模式后，仅靠画面操作将无法更改设置，也无法返回普通游戏。<br>测试模式（机台的所有设置）与退出街机模式只能通过机台的TEST按钮打开：在键盘上默认为F1键（手柄没有对应按键）。<br>退出请使用TEST → 系统 → 退出街机模式，该操作会删除本设备的所有存档数据，并恢复到初次启动的状态。<br><br>是否已准备好键盘？

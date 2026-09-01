@@ -1,0 +1,675 @@
+﻿_key,_text
+mst.dialog.ErrorStay._title,Fout
+mst.dialog.ErrorStay._message,Er is een fout opgetreden <br> <br> {0}
+mst.dialog.ErrorTitle._title,Fout
+mst.dialog.ErrorTitle._message,Er is een fout opgetreden <br>We keren terug naar het titelmenu <br><br>{0}
+mst.dialog.NetworkError_Retry._title,Netwerkfout
+mst.dialog.NetworkError_Retry._message,Er is geen verbinding mogelijk.<br>Probeer het opnieuw op een plek met een beter signaal.
+mst.dialog.NetworkError_Title._title,Netwerkfout
+mst.dialog.NetworkError_Title._message,Er is een fout opgetreden tijdens de communicatie. We keren terug naar het titelmenu. <br> <br> <br> {0}
+mst.dialog.NetworkError_ResourceUpdated._title,Netwerkfout
+mst.dialog.NetworkError_ResourceUpdated._message,Data moet worden bijgewerkt<br>We keren terug naar het titelmenu.
+mst.dialog.NetworkError_NotReachable_Retry._title,Netwerkfout
+mst.dialog.NetworkError_NotReachable_Retry._message,Er is geen verbinding mogelijk.<br>Controleer uw internetverbinding en probeer het opnieuw.
+mst.dialog.ApplicationQuitConfirm._title,Bevestigen
+mst.dialog.ApplicationQuitConfirm._message,Het spel wordt afgesloten.<br>Weet je zeker dat je wilt doorgaan?
+mst.dialog.AreaUnlock._title,Nieuw gebied vrijgespeeld
+mst.dialog.AreaUnlock._message,Een nieuw gebied is vrijgespeeld! {0}<br>
+mst.dialog.AreaUnlockDetail_StoryRead._title,Voorwaarden
+mst.dialog.AreaUnlockDetail_StoryRead._message,Wordt vrijgespeeld door <br> {0} <br> te bekijken.
+mst.dialog.AreaUnlockDetail_UserRank._title,Voorwaarden
+mst.dialog.AreaUnlockDetail_UserRank._message,Vereist spelerlevel {0} of hoger om te ontgrendelen <br>.
+mst.dialog.ChatTalkSkip._title,Overslaan
+mst.dialog.ChatTalkSkip._message,Wil je dit gesprek overslaan en beëindigen?
+mst.dialog.Chat_EncountStoryPlayback._title,Ontmoetingsverhaal afspelen
+mst.dialog.Chat_EncountStoryPlayback._message,We spelen het ontmoetingsverhaal van {0} af.
+mst.dialog.OrnamentLevelRelease._title,Accessoire-niveau verhoogd
+mst.dialog.OrnamentLevelRelease._message,Je kunt nu {0} tot niveau {1} verhogen! <br>
+mst.dialog.DeckNameChangeSuccess._title,Unitnaam gewijzigd
+mst.dialog.DeckNameChangeSuccess._message,De eenheidsnaam is gewijzigd.
+mst.dialog.DeckNameChangeEmpty._title,Invoerfout
+mst.dialog.DeckNameChangeEmpty._message,Voer minstens één teken in.
+mst.dialog.DeckNameChangeNg._title,Fout
+mst.dialog.DeckNameChangeNg._message,Bevat ongepaste woorden.<br>Probeer het opnieuw.
+mst.dialog.MainDeckChangeSuccess._title,Hoofdeenheid gewijzigd
+mst.dialog.MainDeckChangeSuccess._message,De hoofdeenheid is gewijzigd.
+mst.dialog.PracticeConfirm._title,Bevestigen
+mst.dialog.PracticeConfirm._message,Wil je de geselecteerde lesnotities versterken met <br> en {0} G? <br>
+mst.dialog.SkillPracticeConfirmByItem._title,Bevestigen
+mst.dialog.SkillPracticeConfirmByItem._message,Wil je de geselecteerde skill-book en <br>{0} G gebruiken om te versterken? <br>
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._title,Bevestigen
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._message,Deze idol kan ook gebruikt worden om te ontgrendelen <br> wil je stoppen met het selecteren als materiaal en doorgaan met het ontgrendelen? <br>
+mst.dialog.SkillPracticeConfirmByPhoto._title,Bevestigen
+mst.dialog.SkillPracticeConfirmByPhoto._message,"De geselecteerde idol verdwijnt uit de wachtkamer <br>, is dat goed? <br> Wil je doorgaan met het verbeteren van haar vaardigheden? <br> *Ze verdwijnt niet uit de lijst met idols."
+mst.dialog.TrainingConfirm._title,Bevestigen
+mst.dialog.TrainingConfirm._message,Je voert Ontgrendelen uit met de geselecteerde penlight.<br>Is dat goed?
+mst.dialog.StaminaChargeConfirm._title,LP herstellen
+mst.dialog.StaminaChargeConfirm._message,Wil je <br> LP herstellen? <br>
+mst.dialog.StaminaChargeSuccess._title,LP herstellen
+mst.dialog.StaminaChargeSuccess._message,LP is hersteld tot {0}!
+mst.dialog.StaminaChargeOver._title,LP-herstel limiet
+mst.dialog.StaminaChargeOver._message,"Omdat je LP hoger is dan het maximum, kunnen we geen LP herstellen. <br><br>"
+mst.dialog.ShopBuySuccess._title,Item gekocht
+mst.dialog.ShopBuySuccess._message,Je hebt {0} gekocht!
+mst.dialog.GachaExec._title,Bevestigen
+mst.dialog.GachaExec._message,Wil je {0} gebruiken om {1} te verbruiken en {2} te verkrijgen? <br>
+mst.dialog.GachaLackMedal._title,{0} onvoldoende
+mst.dialog.GachaLackMedal._message,Er is onvoldoende {0}. Wil je Loveca kopen?
+mst.dialog.GachaLackItem._title,{0} onvoldoende
+mst.dialog.GachaLackItem._message,Er is onvoldoende {0}.
+mst.dialog.GachaResultGetBonus._title,Bonus ontvangen
+mst.dialog.GachaResultGetBonus._message,Je hebt een bonus ontvangen bij het scouten!
+mst.dialog.GachaResultGetMovie._title,Idol ontvangen
+mst.dialog.GachaErrorExpired._title,Fout
+mst.dialog.GachaErrorExpired._message,De periode is verlopen.
+mst.dialog.GachaTicketExpired._title,Fout
+mst.dialog.GachaTicketExpired._message,De geldigheidsduur van het ticket dat u probeerde te gebruiken is verstreken.
+mst.dialog.GachaSelectedExpired._title,Evenement afgelopen
+mst.dialog.GachaSelectedExpired._message,Deze gacha is afgelopen.
+mst.dialog.DeckResetConfirm._title,Resetten
+mst.dialog.DeckResetConfirm._message,De huidige selectie wordt gereset.<br>Weet je het zeker?
+mst.dialog.RecommendSuccess._title,Aanbevolen unit
+mst.dialog.RecommendSuccess._message,Aanbevolen unit is opgesteld.
+mst.dialog.NoticePlayerRankUp._title,Rang verhoogd
+mst.dialog.NoticePlayerRankUp._message,LP is hersteld tot {0}.
+mst.dialog.NoticePlayerRankAndFriendMaxUp._title,Rang verhoogd
+mst.dialog.NoticePlayerRankAndFriendMaxUp._message,Je LP is hersteld tot {0} en het maximale aantal vrienden is verhoogd tot {1} {2} <br>
+mst.dialog.NoticeGroupRankUp._title,Groepsrank omhoog
+mst.dialog.NoticeGroupRankMax._title,Groepsrank omhoog
+mst.dialog.NoticeGroupRankMax._message,De groep heeft de maximale rang bereikt <color=#D73C55> <b> </b> </color>
+mst.dialog.DeckMemberChangeConfirm._title,Wissel bevestigen
+mst.dialog.DeckMemberChangeConfirm._message,"Dezelfde leden zijn al opgesteld. <br> Wilt u ze vervangen door de leden die nu zijn opgesteld, namelijk «{0}»? <br>"
+mst.dialog.StoryRelease._title,Verhaal vrijgespeeld
+mst.dialog.StoryRelease._message,{0} {1} is vrijgespeeld.
+mst.dialog.FriendSearchError._title,Zoekfout
+mst.dialog.FriendSearchError._message,"Geen speler gevonden <br>. De ingevoerde ID is mogelijk onjuist, of <br> de andere gebruiker heeft vriendverzoeken uitgeschakeld <br>."
+mst.dialog.FriendDeleteConfirm._title,Bevestigen
+mst.dialog.FriendDeleteConfirm._message,Wil je deze vriend verwijderen?
+mst.dialog.FriendDeleteSuccess._title,Vriend verwijderd
+mst.dialog.FriendDeleteSuccess._message,Vriend verwijderd.
+mst.dialog.FriendDeleteError._title,Vriend verwijderen mislukt
+mst.dialog.FriendDeleteError._message,Kon vriend niet verwijderen.
+mst.dialog.FriendRequestCancelConfirm._title,Bevestigen
+mst.dialog.FriendRequestCancelConfirm._message,Wil je dit vriendschapsverzoek annuleren?
+mst.dialog.FriendRequestCancelSuccess._title,Vriendschapsverzoek geannuleerd
+mst.dialog.FriendRequestCancelSuccess._message,De vriendschapsaanvraag is geannuleerd.
+mst.dialog.FriendRequestCancelError._title,Vriendschapsverzoek annuleren mislukt
+mst.dialog.FriendRequestCancelError._message,Vriendschapsverzoek kon niet worden ingetrokken.
+mst.dialog.FriendPendingConfirm._title,Bevestigen
+mst.dialog.FriendPendingConfirm._message,Vriendverzoek accepteren?<br>Weet je het zeker?
+mst.dialog.FriendPendingSuccess._title,Vriendschapsverzoek geaccepteerd
+mst.dialog.FriendPendingSuccess._message,Vriendschapsverzoek geaccepteerd.
+mst.dialog.FriendPendingError._title,Vriendschapsverzoek goedkeuren mislukt
+mst.dialog.FriendPendingError._message,De vriendschapsaanvraag kon niet worden geaccepteerd.
+mst.dialog.FriendRejectConfirm._title,Bevestigen
+mst.dialog.FriendRejectConfirm._message,Wil je dit vriendschapsverzoek afwijzen?
+mst.dialog.FriendRejectSuccess._title,Vriendschapsverzoek geweigerd
+mst.dialog.FriendRejectSuccess._message,De vriendschapsaanvraag is geweigerd.
+mst.dialog.FriendRejectError._title,Vriendschapsverzoek afwijzen mislukt
+mst.dialog.FriendRejectError._message,Kon de vriendschapsaanvraag niet weigeren.
+mst.dialog.FriendRequestSuccess._title,Vriendschapsverzoek verzonden
+mst.dialog.FriendRequestSuccess._message,Vriendschapsverzoek verzonden.
+mst.dialog.FriendRequestError._title,Vriendschapsverzoek mislukt
+mst.dialog.FriendRequestError._message,Vriendschapsverzoek kon niet worden verzonden.
+mst.dialog.FriendCanNotRequest._title,Aanvraag niet mogelijk
+mst.dialog.FriendCanNotRequest._message,De andere speler accepteert geen<br>vriendenverzoeken
+mst.dialog.OptionSettingChangeCancelConfirm._title,Bevestigen
+mst.dialog.OptionSettingChangeCancelConfirm._message,Opties annuleren en<br>terugkeren naar de vorige status?
+mst.dialog.OptionTestLivePauseDialog._title,Onderbroken
+mst.dialog.OptionTestLivePauseDialog._message,Test Live onderbreken en<br>terugkeren naar de instellingen?
+mst.dialog.LiveContinue._title,Live hervatten
+mst.dialog.LiveContinue._message,Wil je {0} Loveca verbruiken om <br> HP te herstellen en de Live voort te zetten? <br> *Loveca wordt eerst uit de gratis voorraad gehaald.* <br> <br> Loveca {1} → {2}
+mst.dialog.LiveContinueGemShortage._title,Loveca-tekort
+mst.dialog.LiveContinueGemShortage._message,"Er is niet genoeg Loveca, dus <br>de Live kan niet worden hervat."
+mst.dialog.LiveFailure._title,Live mislukt
+mst.dialog.LiveFailure._message,"Je HP is op! Door {0} Loveca te verbruiken, kun je je HP volledig herstellen en verdergaan. <br> Wil je dit doen? <br>"
+mst.dialog.LivePause._title,Pauzeer
+mst.dialog.LivePause._message,"Onderbreek je de Live en ga je terug naar het selectiescherm? <br> ※Als je onderbreekt, wordt er geen LP verbruikt."
+mst.dialog.LiveRetireConfirm._title,Live onderbreken
+mst.dialog.LiveRetireConfirm._message,"Als je de Live onderbreekt, kun je geen <br>Live-beloning meer <br>ontvangen. Gaat dat goed? <br>Let op: als je onderbreekt, verbruik je geen LP."
+mst.dialog.LiveRestartConfirm._title,Opnieuw beginnen?
+mst.dialog.LiveRestartConfirm._message,Herstarten? <br> Is dat goed? <br> *Let op: LP en skip-tickets worden niet verbruikt.*
+mst.dialog.TeacherPointDetail._title,Wat is de Highscore-rang?
+mst.dialog.TeacherPointDetail._message,"De Highscore-rang is een waarde die wordt berekend op basis van je hoogste score tijdens een Live-optreden <br>. Om een hoge score te behalen <br>, kun je proberen je idols te versterken <br>! <br>"
+mst.dialog.GemPackBuyComplete._title,Aankoop voltooid
+mst.dialog.GemPackBuyComplete._message,Je hebt {0} gekocht.
+mst.dialog.GemBuyCancel._title,Annuleren
+mst.dialog.GemBuyCancel._message,Aankoop geannuleerd.
+mst.dialog.GemBuyComplete._title,Aankoop voltooid
+mst.dialog.GemBuyComplete._message,Je hebt {0} gekocht.
+mst.dialog.GemBuyStamina._title,Bevestigen
+mst.dialog.GemBuyStamina._message,Weet u zeker dat u {1} van {0} wilt verbruiken om {3}LP te herstellen? <br> <br>
+mst.dialog.GemBuyItem._title,Bevestigen
+mst.dialog.GemBuyItem._message,Weet u zeker dat u {1} van {0} wilt verbruiken om {3}LP te herstellen? <br> <br>
+mst.dialog.GemBuyItemPack._title,Bevestigen
+mst.dialog.GemBuyItemPack._message,Koop {0} door {1} te verbruiken. Is dat goed? <br>
+mst.dialog.GemInsufficientMedal._title,Loveca-tekort
+mst.dialog.GemInsufficientMedal._message,Je hebt niet genoeg Loveca.
+mst.dialog.GemAgeError._title,Fout
+mst.dialog.GemAgeError._message,Geboortedatum is ongeldig.
+mst.dialog.GemAgeComplete._title,Invoer voltooid
+mst.dialog.GemAgeComplete._message,We hebben je leeftijd bevestigd <br> {0}
+mst.dialog.GemAgeConfirm._title,Bevestigen
+mst.dialog.GemAgeConfirm._message,"Eenmaal ingesteld, kan dit niet meer worden gewijzigd totdat de app is verwijderd. Bent u hier zeker van?"
+mst.dialog.GemAskToBuy._title,Bevestigen
+mst.dialog.GemAskToBuy._message,Om de app-valuta te kopen is <br>toestemming van een ouder of voogd vereist<br>. Heeft u die toestemming?
+mst.dialog.GemBuyLimitError._title,Gebruikslimiet
+mst.dialog.GemBuyLimitError._message,"Je kunt dit niet kopen, want je overschrijdt de maandelijkse limiet <br>{0}"
+mst.dialog.GemBuyLimitAlert._title,Bevestigen
+mst.dialog.GemBuyLimitAlert._message,Wilt u {0} <br> kopen?
+mst.dialog.GemBuyLimitAlertConfirm._title,Aankooplimiet overschrijding bevestigen
+mst.dialog.GemBuyLimitAlertConfirm._message,De totale aankoop voor deze maand overschrijdt de <br>. Wilt u doorgaan met kopen? <br> U kunt meldingen uitschakelen via: Instellingen > Systeeminstellingen > Meldingen > Aankoopmeldingen <br> <br> <color=#D73C55> </color>
+mst.dialog.GemBuyError._title,Fout
+mst.dialog.GemBuyError._message,Aankoop mislukt.
+mst.dialog.GemShopError._title,Fout
+mst.dialog.GemShopError._message,Kon de winkelgegevens niet ophalen.
+mst.dialog.GemShopTicketInfo._message,"▼Let op! <color=#D73C55>※Lees dit alstublieft!※</color><br>※De gekochte Loveca wordt direct aan je tegoed toegevoegd.<br>※Andere items worden naar je cadeaubox gestuurd.<br>※Als je niet inlogt, ontvang je geen Loveca.<br>※De loginbonus wordt bij het inloggen uitgedeeld en aan je tegoed toegevoegd.<br>※Je kunt de loginbonus vanaf 0:00 uur de dag na de aankoop ontvangen.<br>※De loginbonus is gratis Loveca.<br>※Vanaf de dag na de aankoop, gedurende {1} dagen, ontvang je als loginbonus Loveca en kun je deze {2} ontvangen.<br><br>▼Inhoud van het pakket<br>{3}<br>Loveca {4}x{5} dagen Totaal {6}<br><br>Prijs {7}"
+mst.dialog.GemBuyErrorExpired._title,Verkoop is afgelopen
+mst.dialog.GemBuyErrorExpired._message,"De verkoop is afgelopen, dus je kunt het niet meer kopen."
+mst.dialog.SingleReward_OrnamentGet._title,Item ontvangen
+mst.dialog.SingleReward_OrnamentGetTeaSet._title,Item vrijgespeeld
+mst.dialog.SingleReward_OrnamentGetTeaSet._message,Ontvangen!<br>Je kunt het nu in de opslag wijzigen.
+mst.dialog.SingleReward_OrnamentLevelUp._title,Beloning ontvangen
+mst.dialog.SingleReward_OrnamentLevelUp._message,Niveau verhoogd!
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._title,Beloning ontvangen
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._message,Niveau verhoogd!
+mst.dialog.SingleReward_OrnamentRelease._title,Item (voorlopig) vrijgegeven
+mst.dialog.SingleReward_OrnamentRelease._message,is nu beschikbaar in de custom shop.
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._title,Item vrijgespeeld
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._message,In de winkel van {0} is nu <br> {1} verkrijgbaar!
+mst.dialog.SingleReward_CommonDirectly._title,Beloning ontvangen
+mst.dialog.SingleReward_CommonDirectly._message,Ontvangen!
+mst.dialog.SingleReward_CommonPresentBox._title,Beloning ontvangen
+mst.dialog.SingleReward_CommonPresentBox._message,Je kunt de <color=#C12424>beloning</color> via het cadeau ophalen.
+mst.dialog.SingleReward_CommonView._title,Beloning
+mst.dialog.SingleReward_EventDirectly._title,Beloning ontvangen
+mst.dialog.SingleReward_EventDirectly._message,Je hebt de cumulatieve {0}-beloning ontvangen!
+mst.dialog.SingleReward_EventPresentBox._title,Beloning ontvangen
+mst.dialog.SingleReward_EventPresentBox._message,<color=#C12424>Cumulatieve Beloning voor {0} bereikt is op te halen uit het cadeau</color>
+mst.dialog.SingleReward_Costume._title,Kostuum ontvangen
+mst.dialog.SingleReward_Costume._message,Nieuw kostuum verkregen!
+mst.dialog.SingleReward_Music._title,Muziek vrijgespeeld
+mst.dialog.SingleReward_Music._message,Een nieuw nummer is vrijgespeeld!
+mst.dialog.SingleReward_Title._title,Titel ontvangen
+mst.dialog.SingleReward_Title._message,Je hebt een titel ontvangen!
+mst.dialog.SingleReward_IntoPresentBox._title,Soort limiet
+mst.dialog.SingleReward_IntoPresentBox._message,"Omdat je de maximale hoeveelheid hebt bereikt, is het naar je cadeaubox gestuurd <color=#C12424></color>."
+mst.dialog.MultiReward_CommonDirectly._title,Beloning ontvangen
+mst.dialog.MultiReward_CommonDirectly._message,Ontvangen!
+mst.dialog.MultiReward_CommonPresentBox._title,Beloning ontvangen
+mst.dialog.MultiReward_CommonPresentBox._message,Je kunt de <color=#C12424>beloning</color> via het cadeau ophalen.
+mst.dialog.MultiReward_EventDirectly._title,Beloning ontvangen
+mst.dialog.MultiReward_EventDirectly._message,Je hebt de cumulatieve {0}-beloning ontvangen!
+mst.dialog.MultiReward_EventPresentBox._title,Beloning ontvangen
+mst.dialog.MultiReward_EventPresentBox._message,<color=#C12424>Cumulatieve Beloning voor {0} bereikt is op te halen uit het cadeau</color>
+mst.dialog.MultiReward_CommonView._title,Beloning
+mst.dialog.MultiReward_IntoPresentBox._title,Soort limiet
+mst.dialog.MultiReward_IntoPresentBox._message,"Omdat je de maximale hoeveelheid hebt bereikt, is het naar je cadeaubox gestuurd <color=#C12424></color>."
+mst.dialog.Multi_Private_MasterRoomLeave._title,Live beëindigen
+mst.dialog.Multi_Private_MasterRoomLeave._message,{0} heeft de Live beëindigd. We keren terug naar het scherm voor het selecteren van een Live. <br>
+mst.dialog.LiveResult_ContinueMultiRoom._title,Doorgaan?
+mst.dialog.LiveResult_ContinueMultiRoom._message,Wil je nog een keer deelnemen aan dezelfde Live?
+mst.dialog.LoginBonus_Check._title,Datum bijgewerkt
+mst.dialog.LoginBonus_Check._message,De datum is bijgewerkt.<br>Log opnieuw in.
+mst.dialog.LoginBonus_Common._title,Inlogbonus
+mst.dialog.LoginBonus_Common._message,"Je ontvangt {0} × {1} <br> <color=#D73C55> beloning, die je in de cadeaus kunt vinden. </color>"
+mst.dialog.LoginBonus_Multi._title,Inlogbonus
+mst.dialog.LoginBonus_Multi._message,"Je ontvangt {0} × {1} <br> <color=#D73C55> beloning, die je in de cadeaus kunt vinden. </color>"
+mst.dialog.MultiRoomType._title,Live beloning
+mst.dialog.MultiRoomType._message,"In de ""Dagelijkse"" Live-modus kun je per dag makkelijker een vaste beloning ontvangen <br> ※ In de ""Normale"" Live-modus ontvang je de normale beloning <br> <br> Ma: Beloning A <br> Di: Beloning B <br> Wo: Beloning C <br> Do: Beloning D <br> Vr: Beloning E <br> Za: Beloning F <br> Zo: Beloning G <br> <br> ※ De hoeveelheid beloningen voor andere items dan die met een verhoogde kans is aangepast."
+mst.dialog.VoiceDownloadConfirm._title,Voice download
+mst.dialog.VoiceDownloadConfirm._message,Wil je de overige stemmen (exclusief verhaalstemmen) <br> vooraf downloaden? <br> <br> <color=#D73C55> Downloadgrootte: <br> {0:0.00} MB <br> <br> We raden aan om dit te doen via een Wi-Fi-verbinding. <br> </color>
+mst.dialog.LiveProductionDownloadConfirm._title,Live-liduitvoering downloaden
+mst.dialog.LiveProductionDownloadConfirm._message,Wil je de benodigde data voor de Live-voorstelling vooraf downloaden? <br> Dit kan de laadtijd aan het begin van de Live-voorstelling verkorten. <br> <br> Downloadgrootte: <br> <br> <color=#D73C55> <br> MB {0:0.00} <br> <br> We raden aan om dit te doen via een Wi-Fi-verbinding. <br> </color>
+mst.dialog.GameLibErrorCode_1._title,Fout
+mst.dialog.GameLibErrorCode_1._message,De ingevoerde waarde is niet correct. <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_14._title,Fout
+mst.dialog.GameLibErrorCode_14._message,Gebruiker is uitgeschakeld <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_20._title,Fout
+mst.dialog.GameLibErrorCode_20._message,Kan niet worden gebruikt op een apparaat waarop al gegevens zijn overgezet <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_1000._title,Fout
+mst.dialog.GameLibErrorCode_1000._message,Er is een communicatiefout opgetreden <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_17219._title,Fout
+mst.dialog.GameLibErrorCode_17219._message,Wordt al verwerkt <br>. Foutcode: {0}
+mst.dialog.GameLibErrorCode_10001._title,Fout
+mst.dialog.GameLibErrorCode_10001._message,De ingevoerde waarde is niet correct. <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_10006._title,Fout
+mst.dialog.GameLibErrorCode_10006._message,Het betalingssysteem is tijdelijk niet beschikbaar <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_10007._title,Fout
+mst.dialog.GameLibErrorCode_10007._message,Gebruiker is uitgeschakeld <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_7002._title,Fout
+mst.dialog.GameLibErrorCode_7002._message,Geen overdrachtscode geregistreerd <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_7003._title,Fout
+mst.dialog.GameLibErrorCode_7003._message,Geen wachtwoord ingesteld voor accountoverdracht <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_7004._title,Fout
+mst.dialog.GameLibErrorCode_7004._message,De verificatie van de overdrachtscode en het wachtwoord is mislukt <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_7005._title,Fout
+mst.dialog.GameLibErrorCode_7005._message,Het aantal pogingen om de overdrachtscode en het wachtwoord te verifiëren is het maximale aantal keer bereikt. <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_7012._title,Fout
+mst.dialog.GameLibErrorCode_7012._message,Account of wachtwoord komt niet overeen <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_7013._title,Fout
+mst.dialog.GameLibErrorCode_7013._message,Het aantal pogingen om je account en wachtwoord te verifiëren is overschreden. <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_8004._title,Fout
+mst.dialog.GameLibErrorCode_8004._message,Overdracht is geblokkeerd <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_8022._title,Fout
+mst.dialog.GameLibErrorCode_8022._message,Het accountformaat is ongeldig <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_16002._title,Fout
+mst.dialog.GameLibErrorCode_16002._message,Aankoop niet mogelijk vanwege overschrijding van het aankooplimiet <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_16005._title,Fout
+mst.dialog.GameLibErrorCode_16005._message,"Loveca-saldo overschreden, aankoop niet mogelijk <br> Foutcode: {0}"
+mst.dialog.GameLibErrorCode_16007._title,Fout
+mst.dialog.GameLibErrorCode_16007._message,Ondersteunde landen of valuta niet gevonden <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_16008._title,Fout
+mst.dialog.GameLibErrorCode_16008._message,Je kunt geen ticket kopen omdat er al een geldig ticket is met dezelfde voordelen.<br>Foutcode: {0}
+mst.dialog.GameLibErrorCode_16009._title,Fout
+mst.dialog.GameLibErrorCode_16009._message,Je kunt deze ticket niet kopen omdat de totale geldigheidsduur van je tickets langer dan 180 dagen zou worden <br>. Foutcode: {0}
+mst.dialog.GameLibErrorCode_17002._title,Fout
+mst.dialog.GameLibErrorCode_17002._message,Die Loveca is al eerder toegekend <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_17007._title,Fout
+mst.dialog.GameLibErrorCode_17007._message,Deze aankoop wacht op goedkeuring van de ouderlijke accountbeheerder <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_17100._title,Fout
+mst.dialog.GameLibErrorCode_17100._message,De betaling is geannuleerd <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_17214._title,Fout
+mst.dialog.GameLibErrorCode_17214._message,De betaalfunctie van dit apparaat kan niet worden gebruikt <br> Foutcode: {0}
+mst.dialog.GameLibErrorCode_20001._title,Fout
+mst.dialog.GameLibErrorCode_20001._message,De opgegeven leeftijdscategorie komt niet overeen met de ingevoerde geboortedatum <br> foutcode: {0}
+mst.dialog.GameLibErrorCode_21001._title,Fout
+mst.dialog.GameLibErrorCode_21001._message,De opgegeven leeftijdscategorie komt niet overeen met de ingevoerde geboortedatum <br> foutcode: {0}
+mst.dialog.CanNotAutoPlayWithoutStamina._title,Onvoldoende LP
+mst.dialog.CanNotAutoPlayWithoutStamina._message,"LP is op, dus automatisch spelen is niet mogelijk.<br>"
+mst.dialog.Migration_CheckDeviceChanged._title,Apparaatoverdracht
+mst.dialog.Migration_CheckDeviceChanged._message,"Het apparaat is gewijzigd. Wil je de gamegegevens herstellen? <br> <br> <br> Let op: als de gamegegevens naar dit apparaat worden hersteld, <br> kun je niet meer spelen op het oude apparaat."
+mst.dialog.Migration_ErrorRegisterNewDevice._title,Fout
+mst.dialog.Migration_ErrorRegisterNewDevice._message,Het herstellen van de gamegegevens is mislukt. Probeer gegevens over te zetten met behulp van je <br>overdracht-ID en wachtwoord: <br>.
+mst.dialog.Migration_IdCopy._title,Kopie voltooid
+mst.dialog.Migration_IdCopy._message,De overdrachtscode is gekopieerd.
+mst.dialog.Migration_Complet._title,Dataoverdracht voltooid
+mst.dialog.Migration_Complet._message,"De gamegegevens zijn overgezet.<br>Ga verder met het spelen van ""School Idol Festival 2""."
+mst.dialog.Migration_Completed._title,Data-overdracht voltooid
+mst.dialog.Migration_Completed._message,"De gamegegevens van dit apparaat zijn al naar een ander apparaat overgezet <br> Wil je het spel opnieuw beginnen vanaf het begin? <br> <br> Als je niet weet hoe de gegevens zijn overgezet, selecteer dan ""Annuleren"" en neem contact op met de klantenservice via [MENU] > [Help] in het titelmenu. <br> <br>"
+mst.dialog.Migration_RetryPassword._title,Invoerfout
+mst.dialog.Migration_RetryPassword._message,Overdrachtscode of <br>wachtwoord is onjuist
+mst.dialog.Migration_InputPasswordError._title,Invoerfout
+mst.dialog.Migration_InputPasswordError._message,"Het wachtwoord moet bestaan uit<br>8 tot 32 tekens, alleen letters en cijfers."
+mst.dialog.Error_Maintenance._title,Onderhoud aan de gang
+mst.dialog.Error_Maintenance._message,"De onderhoudsperiode kan zonder voorafgaande kennisgeving worden gewijzigd, dus houd hier rekening mee. {0} <br> <br> Raadpleeg de officiële website voor de meest recente informatie. <br> <br> <br> <br> <u> <link={1}> <color=blue> Officiële website </color> </link> </u>"
+mst.dialog.Error_ResultCodeMaintenance._title,Onderhoud aan de gang
+mst.dialog.Error_Game_Version_Updated._title,Bijwerken
+mst.dialog.Error_Game_Version_Updated._message,Er is een app-update vereist.<br>Installeer de nieuwste versie vanuit de winkel.
+mst.dialog.Tutorial_CardSelectConfirm._title,Bevestigen
+mst.dialog.Tutorial_CardSelectConfirm._message,Weet je zeker dat je {0} wilt kiezen? {1} <br> <br> Let op: dit kan niet meer worden gewijzigd.
+mst.dialog.Tutorial_DeleteGameDataConfirm._title,Gegevens verwijderen?
+mst.dialog.Tutorial_DeleteGameDataConfirm._message,"Door de gamegegevens te verwijderen, worden deze gereset en start je het spel opnieuw vanaf het begin <br><br>Let op: verwijderde gamegegevens kunnen niet meer hersteld worden <br><br>Wil je doorgaan met het verwijderen van de gamegegevens?"
+mst.dialog.Tutorial_DeleteGameDataReconfirm._title,Data wissen?
+mst.dialog.Tutorial_DeleteGameDataReconfirm._message,De verwijderde gamegegevens kunnen niet worden hersteld <br><br> Wil je echt de gamegegevens verwijderen?
+mst.dialog.Tutorial_DeleteGameDataComplete._title,Data verwijderd
+mst.dialog.Tutorial_DeleteGameDataComplete._message,De gamegegevens zijn verwijderd.
+mst.dialog.Tutorial_SkipFirstHalf._title,Bevestigen
+mst.dialog.Tutorial_SkipFirstHalf._message,"Wil je de eerste helft van de speluitleg (tutorial) overslaan? <br> Als je dit doet, wordt de proef-Live automatisch voltooid. <br>"
+mst.dialog.Tutorial_SkipLatterHalf._title,Bevestigen
+mst.dialog.Tutorial_SkipLatterHalf._message,Wil je ook de tweede helft van de uitleg (tutorial) overslaan?
+mst.dialog.DownloadConfirm._title,Download bevestigen
+mst.dialog.DownloadConfirm._message,"We gaan {0} MB aan gegevens downloaden van <color=#D73C55> </color>, is dat goed? <br> Dit kan even duren afhankelijk van je internetverbinding. <br> <br> Het wordt aanbevolen om dit te doen via een Wi-Fi verbinding. <br> <br> <color=#D73C55> </color>"
+mst.dialog.DownloadNotEnoughFreeSpace._title,Onvoldoende vrije ruimte
+mst.dialog.DownloadNotEnoughFreeSpace._message,Er is onvoldoende vrije ruimte op uw apparaat <br>. Zorg ervoor dat er voldoende vrije ruimte is en probeer het opnieuw te downloaden <br>.
+mst.dialog.GooglePlayLogined._title,Bevestigen
+mst.dialog.GooglePlayLogined._message,Je bent ingelogd op Google Play.
+mst.dialog.AdditionalDownloadConfirm._title,Extra download bevestigen
+mst.dialog.AdditionalDownloadConfirm._message,We gaan extra data downloaden <br> <br> <color=#D73C55> Downloadgrootte: {0:0.00} MB <br> <br> We raden aan om dit te doen via een Wi-Fi-verbinding <br> </color>
+mst.dialog.SongCacheClearConfirm._title,Cache wissen bevestigen
+mst.dialog.SongCacheClearConfirm._message,Je verwijdert gedownloade nummers.<br>Gaat dat goed?
+mst.dialog.StoryDownloadConfirm._title,Spraak afspelen
+mst.dialog.StoryDownloadConfirm._message,Wil je de voice data downloaden en <br> het verhaal afspelen? <br> <br> <color=#D73C55> Downloadgrootte: {0:0.00} MB <br> <br> We raden aan om te downloaden via een Wi-Fi-verbinding. <br> </color>
+mst.dialog.AdditionalMovieDownloadConfirm._title,Data download
+mst.dialog.AdditionalMovieDownloadConfirm._message,We downloaden de video's <br> <br> <color=#D73C55> Downloadgrootte: {0:0.00} MB <br> <br> We raden aan om dit te doen in een Wi-Fi omgeving <br> </color>
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._title,Data download
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._message,"We download alle video's in één keer <br><br><color=#D73C55>Downloadgrootte: {0:0.00} MB </color><br><br>Ook als je annuleert, worden de video's nog steeds één voor één gedownload <br>Je kunt ze later ook allemaal tegelijk downloaden via ""Alles downloaden"" in het verhaal <br>Omdat er veel data is, raden we aan dit te doen op een plek met een goede internetverbinding <br><color=#D73C55>We raden aan om de video's te downloaden via Wi-Fi </color>"
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._title,Data download
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._message,"We downloaden alle video's in één keer <br><br><color=#D73C55>Downloadgrootte: {0:0.00} MB</color><br><br>Ook als je annuleert, kun je de video's stuk voor stuk downloaden <br>Je kunt ze later ook allemaal tegelijk downloaden via ""Alles downloaden"" in de collectie <br>Omdat er veel data is, raden we aan dit te doen op een plek met een goede internetverbinding <br><color=#D73C55>We raden aan om te downloaden via Wi-Fi </color>"
+mst.dialog.NoNeedAdditionalMovieDownload._title,Data download
+mst.dialog.NoNeedAdditionalMovieDownload._message,Er is geen extra data om te downloaden.
+mst.dialog.DownloadComplete_Restart._title,Bevestigen
+mst.dialog.DownloadComplete_Restart._message,De data is gedownload.<br>Start de app opnieuw op.
+mst.dialog.AlbumDownloadNoticeOnce._title,Bevestigen
+mst.dialog.AlbumDownloadNoticeOnce._message,Bij het bekijken van het herinneringenalbum worden afbeeldingsgegevens gedownload.<br>Zorg ervoor dat er voldoende vrije ruimte op uw apparaat is voordat u het bekijkt.
+mst.dialog.PresentBox_ReceiveSingleSuccess._title,Ontvangen
+mst.dialog.PresentBox_ReceiveSingleSuccess._message,Je hebt een cadeau ontvangen!
+mst.dialog.PresentBox_ReceiveMultiSuccess._title,Ontvangen
+mst.dialog.PresentBox_ReceiveMultiSuccess._message,Je hebt een cadeau ontvangen!
+mst.dialog.PresentBox_ReceiveSingleFailure._title,Soort limiet
+mst.dialog.PresentBox_ReceiveSingleFailure._message,Kon niet worden ontvangen omdat het bezitslimiet is bereikt.
+mst.dialog.PresentBox_ReceiveMultiFailure._title,Soort limiet
+mst.dialog.PresentBox_ReceiveMultiFailure._message,Kon niet worden ontvangen omdat het bezitslimiet is bereikt.
+mst.dialog.PresentBox_ReceiveOutOfTerm._title,Periode verlopen
+mst.dialog.PresentBox_ReceiveOutOfTerm._message,"De ontvangstperiode is verlopen, dus je kunt het niet ontvangen."
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._title,Periode verlopen
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._message,"De ontvangstperiode is verlopen, dus je kunt het niet ontvangen."
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._title,Periode verlopen
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._message,"De ontvangstperiode is verlopen, dus je kunt het niet ontvangen."
+mst.dialog.PresentBox_ReceiveSingleExpireReward._title,Vervalingsdatum verstreken
+mst.dialog.PresentBox_ReceiveSingleExpireReward._message,"De geldigheidsperiode is verstreken, dus je kunt het niet ontvangen."
+mst.dialog.PresentBox_ReceiveMultiExpireReward._title,Vervalingsdatum verstreken
+mst.dialog.PresentBox_ReceiveMultiExpireReward._message,"De geldigheidsperiode is verstreken, dus je kunt het niet ontvangen."
+mst.dialog.Multi_StampReset._title,Stempel reset
+mst.dialog.Multi_StampReset._message,Wil je alle huidige stempels verwijderen?
+mst.dialog.Multi_PrivateRoom_Done._title,Live aanmaken mislukt
+mst.dialog.Multi_PrivateRoom_Done._message,"Er bestaat al een Live met dezelfde ID, maak alsjeblieft opnieuw een Live aan."
+mst.dialog.Multi_Room_Failed._title,Live aanmaken mislukt
+mst.dialog.Multi_Room_Failed._message,Live kon niet worden gemaakt.
+mst.dialog.Multi_Disconnect_Scene_2._title,Bevestigen
+mst.dialog.Multi_Disconnect_Scene_2._message,De verbinding is verbroken.<br>We beëindigen de Live en keren terug naar het hoofdscherm.
+mst.dialog.Multi_Disconnect_Warning._title,Bevestigen
+mst.dialog.Multi_Disconnect_Warning._message,De verbinding is verbroken.<br>We beëindigen de Live en keren terug naar het hoofdscherm.
+mst.dialog.Multi_Result_Playing_Caution._title,Bevestigen
+mst.dialog.Multi_Result_Playing_Caution._message,"Als je niet veel PERFECT- en GREAT-resultaten haalt, krijg je minder evenementpunten.<br>Kies een moeilijkheidsgraad die past bij jouw vaardigheid."
+mst.dialog.Function_Lock_Multi._title,Bevestigen
+mst.dialog.Function_Lock_Multi._message,In de coöperatieve Live-modus is er gedrag vastgesteld dat andere spelers hindert <br>. Daarom zijn tijdelijk bepaalde functies beperkt <br>. Gelieve te wachten tot deze beperkingen worden opgeheven.
+mst.dialog.NgWord._title,Fout
+mst.dialog.NgWord._message,Er zitten ongepaste woorden in.<br>Voer het opnieuw in.
+mst.dialog.AndroidPermission._title,Toestemming controleren
+mst.dialog.AndroidPermission._message,"Om te spelen, moet je het gebruik van de opslag toestaan."
+mst.dialog.AndroidPermissionDetail._title,Toestemming controleren
+mst.dialog.AndroidPermissionDetail._message,"Om te spelen, moet je toestemming geven voor het gebruik van de opslag.<br>Open het scherm met app-details."
+mst.dialog.Adventure_Skip._title,Overslaan
+mst.dialog.Adventure_Skip._message,Wil je dit verhaal overslaan en beëindigen?
+mst.dialog.DeviceCompromised._title,Fout
+mst.dialog.DeviceCompromised._message,"Het apparaat is geroot, waardoor het spel niet kan worden gespeeld."
+mst.dialog.CanNotMainDeckReset._title,Kan niet resetten
+mst.dialog.CanNotMainDeckReset._message,De hoofdunit kan niet worden gereset.<br>
+mst.dialog.CanNotAutoPlayNotClear._title,Automatisch afspelen niet mogelijk
+mst.dialog.CanNotAutoPlayNotClear._message,"Je hebt de Live-modus nog niet voltooid, dus je kunt deze niet overslaan.<br>"
+mst.dialog.Error_Friend_Max_Self._title,Vriendenlimiet
+mst.dialog.Error_Friend_Max_Self._message,Je hebt het maximale aantal vrienden bereikt <br>. Verwijder eerst een andere vriend <br>.
+mst.dialog.Error_Friend_Max_Other._title,Vriendenlimiet
+mst.dialog.Error_Friend_Max_Other._message,De andere speler heeft het maximale aantal vrienden bereikt.
+mst.dialog.Error_Friend_Request_Max_Self._title,Vriendverzoek niet mogelijk
+mst.dialog.Error_Friend_Request_Max_Self._message,"Je hebt al het maximum aantal vrienden, daarom kon de aanvraag voor <br><br> niet worden verzonden."
+mst.dialog.Error_Friend_Request_Max_Other._title,Vriendverzoek niet mogelijk
+mst.dialog.Error_Friend_Request_Max_Other._message,Deze gebruiker heeft geen ruimte meer voor vriendverzoeken.
+mst.dialog.Error_Friend_Pending_Max_Self._title,Vriendverzoek niet mogelijk
+mst.dialog.Error_Friend_Pending_Max_Self._message,Je hebt het maximale aantal vrienden dat je kunt accepteren bereikt.
+mst.dialog.Error_Friend_Pending_Max_Other._title,Vriendverzoek niet mogelijk
+mst.dialog.Error_Friend_Pending_Max_Other._message,De andere speler kan geen nieuwe vrienden accepteren.
+mst.dialog.Error_Friend_Already_Request._title,Vriendverzoek niet mogelijk
+mst.dialog.Error_Friend_Already_Request._message,"Kan geen aanvraag indienen, want er is al een lopende aanvraag."
+mst.dialog.Error_Friend_Already_Pending._title,Vriendverzoek niet mogelijk
+mst.dialog.Error_Friend_Already_Pending._message,Er is al een vriendschapsverzoek van deze speler in behandeling.
+mst.dialog.Error_Friend_Already_Friend._title,Vriendverzoek niet mogelijk
+mst.dialog.Error_Friend_Already_Friend._message,Al vrienden.
+mst.dialog.Error_Friend_Request_Reject._title,Vriendverzoek niet mogelijk
+mst.dialog.Error_Friend_Request_Reject._message,Kan geen vriendenverzoek versturen omdat <br><br> de instellingen voor <br><br> op 'weigeren' heeft staan.
+mst.dialog.PrivateEnter_NotJoin._title,Live deelname mislukt
+mst.dialog.PrivateEnter_NotJoin._message,Kon niet deelnemen aan de Live.
+mst.dialog.PrivateEnter_HostPreparation._title,Live deelname mislukt
+mst.dialog.PrivateEnter_HostPreparation._message,"De host is nog bezig met de voorbereidingen, je kunt niet deelnemen aan de Live."
+mst.dialog.PrivateEnter_NotCondition._title,Live deelname mislukt
+mst.dialog.PrivateEnter_NotCondition._message,Je voldoet niet aan de deelnamevoorwaarden voor deze Live <br> <br> Deelnamevoorwaarden voor Live <br> {0}
+mst.dialog.PrivateEnter_NotRoom._title,Live-ID controleren
+mst.dialog.PrivateEnter_NotRoom._message,Er is geen Live gevonden met het opgegeven ID.<br>Controleer het ingevoerde Live-ID.
+mst.dialog.PrivateEnter_NotTotalPower._title,Live deelname mislukt
+mst.dialog.PrivateEnter_NotTotalPower._message,"De totale kracht van je hoofdeenheid is onvoldoende, waardoor je niet aan de Live kunt deelnemen."
+mst.dialog.Photo_Box_Change_Result._title,Uitwisseling voltooid
+mst.dialog.Photo_Box_Change_Result._message,De uitwisseling is voltooid.
+mst.dialog.ChipsterErrorCode_0._title,Inlezen mislukt
+mst.dialog.ChipsterErrorCode_0._message,Er is een fout opgetreden tijdens het laden.<br>We keren terug naar het titelmenu.
+mst.dialog.ChipsterErrorCode_100000._title,Netwerkfout
+mst.dialog.ChipsterErrorCode_100000._message,Bestand kon niet worden geladen<br>Terug naar het titelmenu
+mst.dialog.ChipsterErrorCode_100404._title,Netwerkfout
+mst.dialog.ChipsterErrorCode_100404._message,Geen verbinding gevonden.<br>Terug naar het hoofdmenu.
+mst.dialog.ChipsterErrorCode_100408._title,Inlezen mislukt
+mst.dialog.ChipsterErrorCode_100408._message,Verbinding mislukt.<br>Terug naar het titelmenu.
+mst.dialog.ChipsterErrorCode_100500._title,Inlezen mislukt
+mst.dialog.ChipsterErrorCode_100500._message,Er is een probleem met de verbinding.<br>We keren terug naar het titelmenu.
+mst.dialog.ChipsterErrorCode_200000._title,Inlezen mislukt
+mst.dialog.ChipsterErrorCode_200000._message,Data kon niet worden geladen.<br>Terug naar het titelmenu.
+mst.dialog.ChipsterErrorCode_200100._title,Inlezen mislukt
+mst.dialog.ChipsterErrorCode_200100._message,Er is geen reactie ontvangen tijdens de communicatie.<br>We keren terug naar het titelmenu.
+mst.dialog.ChipsterErrorCode_200200._title,Inlezen mislukt
+mst.dialog.ChipsterErrorCode_200200._message,Data kon niet worden geladen.<br>Terug naar het titelmenu.
+mst.dialog.ChipsterErrorCode_999999._title,Inlezen mislukt
+mst.dialog.ChipsterErrorCode_999999._message,Er is een probleem opgetreden bij het laden van gegevens.<br>We keren terug naar het titelmenu.
+mst.dialog.Error_Forbidden._title,Fout
+mst.dialog.Error_Forbidden._message,Dit is een geblokkeerde account.<br>Neem contact op via Titel > Menu > Help > Overige vragen als u denkt dat dit een fout is.
+mst.dialog.Event_ErrorNotSession._title,Niet tijdens de periode
+mst.dialog.Event_ErrorNotSession._message,Er is momenteel geen evenement actief.
+mst.dialog.Event_ErrorEnded._title,Evenement afgelopen
+mst.dialog.Event_ErrorEnded._message,Het evenement is afgelopen.<br>We keren terug naar het startscherm.
+mst.dialog.Event_ErrorEndedNotPolicy._title,Evenement afgelopen
+mst.dialog.Event_ErrorEndedNotPolicy._message,"Je hebt niet ingestemd met de Gebruiksvoorwaarden, dus we kunnen de evenementpagina niet weergeven.<br>"
+mst.dialog.Event_ResultAnnouncement._title,Eventresultaat bekendmaking
+mst.dialog.Event_ResultAnnouncement._message,"Bedankt voor je deelname aan «{0}»! We hebben een cadeau en de ranglijstbeloning naar je verzonden, dus vergeet niet om ze in ontvangst te nemen. Je kunt de resultaten van de ranglijst bekijken op de evenementenpagina <br>. Vergeet niet om je <br> af te halen."
+mst.dialog.ShopLackMedal._title,{0} onvoldoende
+mst.dialog.ShopLackMedal._message,Er is onvoldoende {0}. Wil je Loveca kopen?
+mst.dialog.Mission_ErrorEnded._title,Niet tijdens de periode
+mst.dialog.Mission_ErrorEnded._message,De periode voor deze missie is afgelopen.
+mst.dialog.BoxGacha_NextBoxConfirm._title,Bevestigen
+mst.dialog.BoxGacha_NextBoxConfirm._message,Wil je de huidige box weggooien en naar de volgende gaan? <br> Ja <br> Nee
+mst.dialog.Error_Gift_Expired._title,Periode verlopen
+mst.dialog.Error_Gift_Expired._message,De periode om het cadeau te ontvangen is verlopen.
+mst.dialog.Error_Mission_Expired._title,Periode verlopen
+mst.dialog.Error_Mission_Expired._message,"De periode om de missiebeloning te ontvangen is verlopen.<br>Beloningen die je niet hebt kunnen ophalen, worden naar je cadeaubox gestuurd."
+mst.dialog.Error_Item_Expired._title,Verlopen
+mst.dialog.Error_Item_Expired._message,Het item is verlopen.
+mst.dialog.Function_Lock_Gacha._title,Functie beperkt
+mst.dialog.Function_Lock_Gacha._message,De scoutfunctie is momenteel <br> beperkt en kan niet worden gebruikt <br>. <br> De functie wordt verwacht te beginnen om: {0} en eindigt om: {1}. <br> <br> <br> <br> <color=#D73C55> </color>
+mst.dialog.Function_Lock_Shop._title,Functie beperkt
+mst.dialog.Function_Lock_Shop._message,De winkel is momenteel <br> afgesloten en kan niet worden gebruikt <br> <br> <br> Begint om: {0} <br> Eindigt om: {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.Function_Lock_Exchange._title,Functie beperkt
+mst.dialog.Function_Lock_Exchange._message,De uitwisselingsfunctie is momenteel <br> beperkt en kan niet worden gebruikt <br> <br> <br> Geplande starttijd: {0} <br> Geplande eindtijd: {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.RecommendConfirm._title,(Voorlopig) Melding
+mst.dialog.RecommendConfirm._message,Er is een nieuwe melding.
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._title,Live deelname mislukt
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._message,Je voldoet niet aan de voorwaarden om deel te nemen aan de Live <br>. Controleer de vereisten voor het deelnemen aan de Live <br> in <br>: {0}
+mst.dialog.Live_BluetoothAudioMode._title,Bluetooth-modus
+mst.dialog.Live_BluetoothAudioMode._message,Je bent overgeschakeld naar de Bluetooth-modus vanwege de verbinding met een Bluetooth-hoofdtelefoon <br> In de Bluetooth-modus kan het zijn dat tikgeluiden tijdens een Live-optreden vertraagd worden weergegeven <br> * Er wordt een aangepaste beoordeling toegepast voor Bluetooth.
+mst.dialog.Live_BatteryQuantityCheck._title,Batterijwaarschuwing
+mst.dialog.Live_BatteryQuantityCheck._message,"De batterij is bijna leeg <br> De huidige batterijduur is <color=#D73C55> {0} %</color> <br> Als de batterij te laag wordt, kan dit leiden tot onderbreking van het live-evenement <br> We raden aan om uw apparaat op te laden <br>"
+mst.dialog.MusicVideo_ReleaseCondition._title,MV-vereisten
+mst.dialog.MusicVideo_ReleaseCondition._message,"Nadat je een Live-uitvoering op elk niveau hebt voltooid, wordt de MV vrijgegeven."
+mst.dialog.MusicVideo_Pause._title,Onderbroken
+mst.dialog.MusicVideo_Pause._message,MV bekijken onderbreken en<br>terugkeren naar het nummerscherm?
+mst.dialog.Adventure_Movie_Skip._title,Onderbroken
+mst.dialog.Adventure_Movie_Skip._message,Wil je de film overslaan?
+mst.dialog.StaminaConfirm._title,LP-hoeveelheid bevestigen
+mst.dialog.StaminaConfirm._message,"Je hebt momenteel niet genoeg LP om het ingestelde aantal te halen <br> Wil je toch een Live uitvoeren en alleen de beschikbare LP verbruiken? <br> *Als je geen LP meer hebt, wordt er niets verbruikt."
+mst.dialog.AutoBoostConfirm._title,Skip-tickets bevestigen
+mst.dialog.AutoBoostConfirm._message,Je hebt momenteel niet genoeg skip-tickets om het ingestelde aantal te bereiken.<br>Wil je toch een Live uitvoeren en alleen de beschikbare tickets verbruiken?
+mst.dialog.NoAutoBoostConfirm._title,Skip-tickets bevestigen
+mst.dialog.NoAutoBoostConfirm._message,"Je hebt geen skip-tickets of de song is nog niet uitgespeeld, dus je kunt geen skip-tickets gebruiken <br> Wil je een LP verbruiken en Live spelen? <br> *Als je minder dan 1 LP over hebt, wordt er geen LP verbruikt."
+mst.dialog.NoAutoBoostForSpiritConfirm._title,Skip-tickets bevestigen
+mst.dialog.NoAutoBoostForSpiritConfirm._message,"Je hebt geen skip-tickets of je hebt het nummer nog niet uitgespeeld, dus je kunt geen skip-ticket gebruiken.<br>Wil je een Miracle Star verbruiken om de Live te starten?"
+mst.dialog.LiveResultRestartConfirm._title,Herstart bevestigen
+mst.dialog.LiveResultRestartConfirm._message,Wil je nog een Live spelen door {0} LP te verbruiken?
+mst.dialog.LiveResultRestartAutoConfirm._title,Herstart bevestigen
+mst.dialog.LiveResultRestartAutoConfirm._message,Speel je het Live opnieuw met verbruik van {0} skip-tickets?
+mst.dialog.CardMovie_Pause._title,Onderbroken
+mst.dialog.CardMovie_Pause._message,Wilt u het videoafspelen onderbreken<br>en terugkeren naar het detailvenster?
+mst.dialog.OrnamentShop_LackGem._title,Loveca-check
+mst.dialog.OrnamentShop_LackGem._message,Er zijn niet genoeg Loveca om dit te kopen.
+mst.dialog.OrnamentShop_Lack._title,{0} controleren
+mst.dialog.OrnamentShop_Lack._message,Je hebt niet genoeg {0} om dit te kopen.
+mst.dialog.StoryReleaseDetail._title,Voorwaarden
+mst.dialog.StoryPlay._title,Verhaal afspelen
+mst.dialog.StoryPlay._message,"""{0}"" afspelen? <br> Oké? <br>"
+mst.dialog.StoryPlayAfterDownload._title,Verhaal afspelen
+mst.dialog.StoryPlayAfterDownload._message,«{1}» <br> downloaden en afspelen. <br> <br> <color=#D73C55> Downloadgrootte: {0:0.00} MB </color> <br> Gaat dat goed? <br> <br> <color=#D73C55> We raden aan om dit via Wi-Fi te downloaden. <br> </color>
+mst.dialog.EpisodePlay._title,Verhaal afspelen
+mst.dialog.EpisodePlay._message,«{0}» afspelen? <br> Akkoord?
+mst.dialog.Tutorial_GroupSelect._title,Favoriete groep selecteren
+mst.dialog.Tutorial_GroupSelect._message,"Van de geselecteerde groep kies je een lid met de hoogste zeldzaamheid ""UR"". Je krijgt deze zeker in de volgende scouting <br>. Wil je dat we je naar deze groep brengen <br>?"
+mst.dialog.Tutorial_MemberSelect._title,Favoriete lid bevestigen
+mst.dialog.Tutorial_MemberSelect._message,"Je kunt de hoogste zeldzaamheid ""UR"" van het gekozen lid zeker bemachtigen in de volgende scouting <br>. Wil je dit lid bevestigen? <br>"
+mst.dialog.Tutorial_Movie_Skip._title,Film overslaan?
+mst.dialog.Tutorial_Movie_Skip._message,Wil je de film overslaan?
+mst.dialog.Tutorial_Live_Skip._title,Live overslaan?
+mst.dialog.Tutorial_Live_Skip._message,Live overslaan?
+mst.dialog.Tutorial_GetMember._title,Favoriete lid ontvangen
+mst.dialog.Tutorial_GetMember._message,Je hebt {0} ontvangen. <br> De idol-status van de ontheven lid wordt direct toegekend.
+mst.dialog.Tutorial_HomeGacha._title,Tutorial voltooid
+mst.dialog.Tutorial_HomeGacha._message,"Om de tutorial te vieren, kun je 10 keer gratis scouten."
+mst.dialog.Tutorial_Complete._title,Bevestigen
+mst.dialog.Tutorial_Complete._message,Goed gedaan met de tutorial!
+mst.dialog.BandEnrich._title,Bevestigen
+mst.dialog.BandEnrich._message,Wil je de geselecteerde bandverbeteringsitems en <br> {0} G gebruiken om te verbeteren? <br>
+mst.dialog.SubTutorial_EndConfirm._title,Bevestigen
+mst.dialog.SubTutorial_EndConfirm._message,Wil je Live spelen?
+mst.dialog.SubTutorial_SkipConfirm._title,Bevestigen
+mst.dialog.SubTutorial_SkipConfirm._message,Overslaan?
+mst.dialog.EmotionalMemberSelect._title,Selectie [{0}]
+mst.dialog.EmotionalMemberSelect._message,"Besluit je deze lid te kiezen? <br><br> Let op: je kunt de gekozen ""favoriete"" lid niet meer wijzigen."
+mst.dialog.EmotionalBandSelect._title,Selectie [{0}]
+mst.dialog.EmotionalBandSelect._message,"Wil je deze band kiezen? <br> <br> Je kunt tijdens de selectieperiode zo vaak als je wilt van band wisselen. <br> Let op: als je van band wisselt, worden je evenementpunten (voorlopig) gereset. <br> De evenementpunten (voorlopig) worden pas na het kiezen van een band bijgeteld."
+mst.dialog.ShopAttentionWording._title,Gebruiksinstructies
+mst.dialog.ShopAttentionWording._message,"Retourneren is niet mogelijk.<br>Als de gebruiker jonger is dan 18 jaar, is toestemming van de wettelijke vertegenwoordiger vereist voor het kopen van producten."
+mst.dialog.Notice_Movie_Skip._title,Film overslaan?
+mst.dialog.Notice_Movie_Skip._message,Wil je de film overslaan?
+mst.dialog.GameLibErrorCode_17101._title,Aankoop niet voltooid
+mst.dialog.GameLibErrorCode_17101._message,"Er zijn onvoltooide betalingen via de winkel <br>. Voltooi eerst de betaling van je openstaande aankopen in de winkel <br> of annuleer ze in Google Play Store <br>. <br> Nadat de betaling is voltooid, kun je het item ophalen door de winkel opnieuw te openen <br>. Foutcode: {0}"
+mst.dialog.GameLibErrorCode_16010._title,Aankoop niet voltooid
+mst.dialog.GameLibErrorCode_16010._message,"Er zijn onvoltooide betalingen via de winkel <br>. Voltooi eerst de betaling van je openstaande aankopen in de winkel <br> of annuleer ze in Google Play Store <br>. <br> Nadat de betaling is voltooid, kun je het item ophalen door de winkel opnieuw te openen <br>. Foutcode: {0}"
+mst.dialog.GachaConfirmFree._title,Bevestigen
+mst.dialog.GachaConfirmFree._message,Wil je {1} keer scouten met {0}?
+mst.dialog.GachaConfirmFreeDaily._title,Bevestigen
+mst.dialog.GachaConfirmFreeDaily._message,Scout je voor {1} keer met {0}? Reset om <br>.
+mst.dialog.GachaConfirmTutorial._title,Bevestigen
+mst.dialog.GachaConfirmTutorial._message,Wil je {1} keer scouten met {0}?
+mst.dialog.GameLibErrorCode_1100._title,Accountkoppeling mislukt
+mst.dialog.GameLibErrorCode_1100._message,Accountkoppeling mislukt.
+mst.dialog.DataTakeOver_SNSSignOutConfirm._title,Verbinding verbreken
+mst.dialog.DataTakeOver_SNSSignOutConfirm._message,Wil je de gekoppelde account loskoppelen?
+mst.dialog.ChatOpen._title,Chat open!
+mst.dialog.ChatOpen._message,Er is een nieuw bericht!<br>Wil je het bekijken?
+mst.dialog.ReturnToTitleConfirm._title,Bevestigen
+mst.dialog.ReturnToTitleConfirm._message,Ga je terug naar het titelmenu?
+mst.dialog.GoToRehearsalConfirm._title,Rehearsal bevestigen
+mst.dialog.GoToRehearsalConfirm._message,"Je verbruikt geen LP tijdens de repetitie <br>, maar scores en andere gegevens worden niet opgeslagen wanneer je het voltooit <br>. Wil je doorgaan zonder beloning te ontvangen?"
+mst.dialog.GoToEventRehearsalConfirm._title,Rehearsal bevestigen
+mst.dialog.GoToEventRehearsalConfirm._message,"In de repetitie verbruik je geen Miracle Stars <br>, maar scores en andere gegevens worden niet opgeslagen bij het voltooien <br>. Wil je doorgaan zonder beloningen te ontvangen?"
+mst.dialog.MigrateError_WrongParam._title,Bevestigen
+mst.dialog.MigrateError_WrongParam._message,Geen overdrachtgegevens gevonden.<br>Controleer of de gebruikers-ID en het wachtwoord correct zijn ingevoerd.
+mst.dialog.MigrateError_AlreadyCompleted._title,Bevestigen
+mst.dialog.MigrateError_AlreadyCompleted._message,Deze gebruikers-ID heeft al een migratie voltooid.
+mst.dialog.TermsOfService_UpDate._title,Gebruiksvoorwaarden bijgewerkt
+mst.dialog.TermsOfService_UpDate._message,"De Gebruiksvoorwaarden zijn bijgewerkt.<br>Om verder te spelen, moet u opnieuw akkoord gaan met de Gebruiksvoorwaarden."
+mst.dialog.Subscription_Restore_Ok._title,Abonnement herstellen
+mst.dialog.Subscription_Restore_Ok._message,Hersteld.
+mst.dialog.Subscription_Restore_0_Have._title,Abonnement herstellen
+mst.dialog.Subscription_Restore_0_Have._message,Kon niet bevestigen dat je het hebt gekocht.
+mst.dialog.Subscription_Restore_Error._title,Abonnement herstellen
+mst.dialog.Subscription_Restore_Error._message,Herstel mislukt.
+mst.dialog.GameLibErrorCode_37003._title,Fout
+mst.dialog.GameLibErrorCode_37003._message,"Kan niet kopen, omdat de aankooplimiet is overschreden."
+mst.dialog.GameLibErrorCode_37004._title,Fout
+mst.dialog.GameLibErrorCode_37004._message,Je kunt dit niet kopen omdat het de maximale hoeveelheid beschikbare edelstenen overschrijdt.
+mst.dialog.GameLibErrorCode_37006._title,Fout
+mst.dialog.GameLibErrorCode_37006._message,"Je kunt dit niet kopen, want je hebt al een abonnement."
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._title,Bevestigen
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._message,"Deze account is al gekoppeld aan een ander gebruikersaccount <br>. Wilt u de koppeling met het andere account verbreken <br> en deze account koppelen aan uw huidige account <br>? Zo ja, klik dan op <br>."
+mst.dialog.GameLibOrder_IsPending._title,Aankoop niet voltooid
+mst.dialog.GameLibOrder_IsPending._message,"Er is een openstaande betaling via de winkel die nog niet is afgerond <br>. Voltooi de betaling van de openstaande bestelling in de winkel <br>, of annuleer de openstaande bestelling in je Google Play Store-geschiedenis <br>. Nadat de betaling is voltooid, kun je het item zien door de winkel opnieuw te openen <br>."
+mst.dialog.MusicRecommendErrorExpired._title,Fout
+mst.dialog.MusicRecommendErrorExpired._message,Deze aanbevolen lijst is niet meer beschikbaar.
+mst.dialog.MultiDeckErrorUnorganized._title,Opstelling vereist
+mst.dialog.MultiDeckErrorUnorganized._message,Stel een speciale samenstelling voor de coöperatieve Live op.
+mst.dialog.MultiCanNotMatching._title,Match mislukt
+mst.dialog.MultiCanNotMatching._message,Kan geen match vinden. We gaan terug naar het evenementenoverzicht.
+mst.dialog.LocationInformationConfirmingDialog._title,Locatie wordt bepaald
+mst.dialog.LocationInformationConfirmingDialog._message,"We zijn je locatie aan het bepalen <br> Het kan even duren voordat de locatie is bepaald <br> Als je annuleert, wordt het proces onderbroken."
+mst.dialog.LocationFailedDialogOutofArea._title,Buiten beloningsgebied
+mst.dialog.LocationFailedDialogOutofArea._message,Je bevindt je buiten het gebied waar beloningen kunnen worden ontvangen<br>Daarom kon de beloning niet worden verkregen.
+mst.dialog.LocationFailedDialogNotAllow._title,Bevestigen
+mst.dialog.LocationFailedDialogNotAllow._message,"Als de locatievoorziening is uitgeschakeld of op ‘alleen GPS’ staat, kan de functie voor het delen van locatiegegevens niet worden gebruikt. Controleer de instellingen van uw apparaat om dit te wijzigen <br> <br>."
+mst.dialog.LocationFailedDialogTimeout._title,Bevestigen
+mst.dialog.LocationFailedDialogTimeout._message,Time-out.
+mst.dialog.LocationFailedDialogNone._title,Bevestigen
+mst.dialog.LocationFailedDialogNone._message,Beloning kon niet worden ontvangen
+mst.dialog.LocationFailedDialogReceived._title,Bevestigen
+mst.dialog.LocationFailedDialogReceived._message,Je hebt deze campagne al voltooid.
+mst.dialog.LocationFailedDialogOutOfTerm._title,Bevestigen
+mst.dialog.LocationFailedDialogOutOfTerm._message,De campagne is afgelopen.
+mst.dialog.MultiConfirmStartLive._title,Bevestigen
+mst.dialog.MultiConfirmStartLive._message,Er zijn niet genoeg deelnemers. <br> <br> Bij een spel met vier personen ontvang je mogelijk minder evenementpunten. <br> <br> Wil je de Live-sessie starten met het huidige aantal deelnemers? <br>
+mst.dialog.MultiConfirmStartLivePermanent._title,Bevestigen
+mst.dialog.MultiConfirmStartLivePermanent._message,Er zijn niet genoeg deelnemers.<br><br>Wil je de Live toch starten?
+mst.dialog.MultiLeaveRoomOnSongPick._title,Live verlaten
+mst.dialog.MultiLeaveRoomOnSongPick._message,"Als je nu weggaat, doe je niet mee aan deze Live.<br><br>Toch verlaten?"
+mst.dialog.MultiPenalty._title,Bevestigen
+mst.dialog.MultiPenalty._message,"Vanwege meerdere communicatieproblemen tijdens de coöperatieve Live, hebben we <br> tijdelijk de functionaliteit beperkt. <br> Gelieve te wachten tot de beperking is opgeheven. <br> <br> <color=#D73C55> Totdat de beperking is opgeheven: <br> {0} </color>"
+mst.dialog.MultiPenaltyWarning._title,Bevestigen
+mst.dialog.MultiPenaltyWarning._message,Tijdens de coöperatieve Live-sessie is de verbinding verbroken <br> waardoor het resultaat van de Live-sessie ongeldig is.
+mst.dialog.MultiLiveInterruption._title,Bevestigen
+mst.dialog.MultiLiveInterruption._message,Tijdens de coöperatieve Live-sessie is de verbinding verbroken <br> waardoor het resultaat van de Live-sessie ongeldig is.
+mst.dialog.MultiRematchAllUsersLeft._title,Bevestigen
+mst.dialog.MultiRematchAllUsersLeft._message,Alle andere spelers hebben de room verlaten.
+mst.dialog.MultiDisconnectedError._title,Bevestigen
+mst.dialog.MultiDisconnectedError._message,De verbinding is verbroken.
+mst.dialog.MultiHelperCountEmpty._title,Bevestigen
+mst.dialog.MultiHelperCountEmpty._message,Het aantal dagelijkse hulpacties is op 0.<br>We keren terug naar het evenementenoverzicht.
+mst.dialog.SS_AlignmentError_WrongParam._title,Fout
+mst.dialog.SS_AlignmentError_WrongParam._message,Er kon geen gegevens worden gevonden om te koppelen. Controleer of de <br>Spelers-ID en het wachtwoord voor koppeling correct zijn ingevoerd. <br>
+mst.dialog.SS_AlignmentError_AlreadyCompleted._title,Fout
+mst.dialog.SS_AlignmentError_AlreadyCompleted._message,De koppeling met uw School Idol Festival 2-account is al voltooid.
+mst.dialog.SS_AlignmentError_UsedCode._title,Fout
+mst.dialog.SS_AlignmentError_UsedCode._message,De koppeling met dit School Idol Festival-account is al voltooid.
+mst.dialog.SS_AlignmentError_Expired._title,Fout
+mst.dialog.SS_AlignmentError_Expired._message,"Kan niet worden gebruikt, de geldige periode is verlopen."
+mst.dialog.EventEndConfirmDialog._title,Bevestigen
+mst.dialog.EventEndConfirmDialog._message,Het evenement is afgelopen.
+mst.dialog.LiveLoadError._title,Muziek bijgewerkt
+mst.dialog.LiveLoadError._message,De muziekgegevens zijn bijgewerkt.
+mst.dialog.StartEventLive._title,Bevestigen
+mst.dialog.StartEventLive._message,Het evenement is begonnen.
+mst.dialog.SerialCcode_ExcludedItem._title,Bevestigen
+mst.dialog.SerialCcode_ExcludedItem._message,Deze chat is al vrijgegeven.
+mst.dialog.UseExpiredItem._title,Fout
+mst.dialog.UseExpiredItem._message,De gebruiksperiode van {0} is verlopen.
+mst.dialog.LiveSkipConfirm._title,Bevestigen
+mst.dialog.LiveSkipConfirm._message,"Je kunt een nummer overslaan als je het al minstens één keer hebt uitgespeeld, ongeacht de moeilijkheidsgraad.<br>Houd er rekening mee dat dit niet geldt voor moeilijkheidsgraden die je nog niet hebt voltooid."
+mst.dialog.GameClose_AnnouncePaybackNotice._title,Servicebeëindiging aankondiging
+mst.dialog.GameClose_AnnouncePaybackNotice._message,„Love Live! School Idol Festival 2 MIRACLE LIVE!“ is beëindigd op <br>31 maart 2024 (zondag). <br><br>■Periode voor terugbetalingsaanvragen: van 1 april 2024 (maandag) 00:00 tot 17 juni 2024 (maandag) 14:59. <br><br>Hartelijk dank voor uw steun.
+mst.dialog.GameClose_AnnouncePayback._title,Bericht over terugbetaling van Loveca
+mst.dialog.GameClose_AnnouncePayback._message,"„Love Live! School Idol Festival 2 MIRACLE LIVE!“ is op <br>31 maart 2024 (zondag) beëindigd. Als u een terugbetaling wilt voor het ongebruikte saldo van de in-app valuta „betaalde Loveca“, neem dan contact met ons op via het „terugbetalings“-formulier <br>. <br> U kunt dit indienen via: <br> <br> De uitgevende instantie voor vooraf betaalde betalingsmiddelen die de terugbetaling uitvoert: Bushiroad Inc. <br> ■Periode waarin aanvragen voor terugbetaling worden geaccepteerd: 1 april 2024 (maandag) 00:00 tot 17 juni 2024 (maandag) 15:00 <br>. Als u binnen deze periode geen terugbetalingsaanvraag indient, wordt uw aanvraag niet meer in behandeling genomen."
+mst.dialog.GameClose_AnnounceNoPayback._title,Servicebeëindiging aankondiging
+mst.dialog.GameClose_AnnounceNoPayback._message,"„Love Live! School Idol Festival 2 MIRACLE LIVE!“ is op <br>31 maart 2024 (zondag) beëindigd. <br>Er zijn geen Loveca die in aanmerking komen voor terugbetaling. <br>Als u vragen heeft, kunt u contact met ons opnemen via onderstaande link: <br><br>Bedankt voor uw steun tot nu toe. <br>"
+mst.dialog.GameClose_Announce._title,Servicebeëindiging aankondiging
+mst.dialog.GameClose_Announce._message,"""Love Live! School Idol Festival 2 MIRACLE LIVE!"" beëindigde haar dienst op <br>zondag 31 maart 2024. <br> Bedankt voor uw steun tot nu toe. <br>"
+mst.dialog.GameClose_Information_Terms._title,Gebruiksvoorwaarden
+mst.dialog.GameClose_Information_PrivacyPolicy._title,Privacybeleid
+mst.dialog.GameClose_Information_PrivacyPolicy._message,"Applicatieprivacybeleid <br> Dit applicatieprivacybeleid (hierna aangeduid als ""Dit privacybeleid"") is van toepassing op de smartphone-applicatie ""Love Live! School Idol Festival 2 MIRACLE LIVE!"" (hierna aangeduid als ""Deze app""), die wordt aangeboden door Bushiroad Co., Ltd. (hierna aangeduid als ""Het bedrijf""), en op de diensten met betrekking tot deze app (hierna aangeduid als ""Deze dienst""). Het beschrijft hoe gebruikersinformatie wordt verwerkt. <br><br> Artikel 1 (Toestemming) <br> Bij het gebruik van deze app en deze dienst bevestigt de gebruiker dat hij/zij dit privacybeleid en het ""Privacybeleid"" van het bedrijf heeft gelezen en begrepen, beschikbaar op https://bushiroad.com/company/privacy.html (hierna aangeduid als ""Ons privacybeleid""), en ermee instemt. Als de gebruiker niet met deze voorwaarden instemt, kan hij/zij deze app en deze dienst niet gebruiken. <br><br> Artikel 2 (Verzamelde informatie, doel van gebruik, methode van verzameling) <br> Bij het aanbieden van deze app en deze dienst verzamelt het bedrijf automatisch de volgende gebruikersinformatie via de app voor de volgende doeleinden. <br> Doel Verzamelde informatie <br> ■ Om het apparaat van de gebruiker te identificeren dat wordt gebruikt in deze dienst ① Apparaatidentificatienummer en andere apparaatgegevens <br> ■ Om het gebruik van deze dienst op het gebruikersapparaat te begrijpen en een service aan te bieden die is afgestemd op het gebruik ② IP-adres <br> ③ Type en versie van het besturingssysteem <br> ④ Locatiegegevens van het gebruikersapparaat (alleen voor apparaten waarop de locatiebepaling via GPS of Bluetooth is ingeschakeld) <br> ■ Om pushmeldingen naar het gebruikersapparaat te sturen (alleen voor apparaten waarop pushmeldingen zijn ingeschakeld) ⑤ ID dat wordt uitgegeven aan de app die op het apparaat is gedownload (apparaattoken) <br> ■ Voor het leveren of weergeven van advertenties van het bedrijf of derden <br> ■ Om te helpen bij het verbeteren en oplossen van problemen met deze app en deze dienst ①～⑤ alle informatie <br> ■ Om te gebruiken voor marketing en nieuwe productontwikkeling <br> ■ Om gegevens en statistieken te maken die persoonlijke identificeerbare informatie niet bevatten, en deze aan derden bekend te maken of te verstrekken ①～⑤ alle informatie <br> ■ Om vragen van gebruikers te beantwoorden en andere ondersteuning aan gebruikers te bieden ① Apparaatidentificatienummer en andere apparaatgegevens <br> ③ Type en versie van het besturingssysteem <br> ■ Om advertenties af te stemmen op de gebruiker en de effectiviteit van advertenties te meten ① Apparaatidentificatienummer en andere apparaatgegevens <br> Bij het aanbieden van deze app en deze dienst verzamelt het bedrijf ook de volgende gebruikersinformatie door de gebruiker om deze in te voeren voor de volgende doeleinden. <br> Doel Verzamelde informatie <br> ■ Om e-mailnieuwsbrieven over deze dienst naar de gebruiker te sturen ① E-mailadres <br> ■ Om vragen van gebruikers te beantwoorden en andere ondersteuning aan gebruikers te bieden ① E-mailadres <br> ■ Om prijzen enz. voor evenementen/campagnes naar de gebruiker te sturen ① E-mailadres <br> ② Naam <br> ③ Adres <br> ④ Telefoonnummer <br> Als de gebruiker ervoor kiest om deze dienst te koppelen aan externe diensten zoals Twitter of andere sociale netwerkdiensten, verzamelt en verkrijgt het bedrijf vervolgens de volgende gebruikersinformatie van die externe dienst op basis van de inhoud waarvoor de gebruiker toestemming heeft gegeven voor de volgende doeleinden. <br> Doel Verzamelde informatie <br> Om prestatiegegevens tussen gebruikers te delen De ID die de gebruiker gebruikt in de betreffende externe dienst, en andere informatie die de gebruiker volgens de privacy-instellingen van die externe dienst heeft toegestaan om te delen. <br> Artikel 3 (Externe verzending) <br> De informatie die is verkregen op basis van artikel 2 wordt, tenzij anders bepaald in artikel 5, naar een server beheerd door het bedrijf gestuurd en binnen de grenzen van het doel gebruikt. <br><br> Artikel 4 (Derde partijen/uitbesteding) <br> Het bedrijf zal gebruikersinformatie niet aan derden verstrekken zonder voorafgaande toestemming van de gebruiker, tenzij dit wettelijk is toegestaan op grond van de toepasselijke wetgeving inzake gegevensbescherming. De volgende gevallen zijn echter uitzonderingen: <br> Wanneer het bedrijf persoonlijke informatie binnen de grenzen die nodig zijn om het doel te bereiken uitbesteedt aan een partner die een geheimhoudingsclausule heeft ondertekend. <br> Wanneer persoonlijke informatie wordt verstrekt als gevolg van een fusie of andere overdracht van ondernemingen. <br> Wanneer persoonlijke informatie wordt verstrekt aan de leverancier van het informatiemodule op basis van artikel 5. <br> Wanneer het bedrijf moet meewerken aan de uitvoering van wettelijke taken door een overheidsinstantie of een door die instantie aangewezen organisatie. <br> Het bedrijf kan persoonlijke informatie in bepaalde mate openbaar maken aan partners, maar alleen binnen de grenzen die nodig zijn om het doel te bereiken en onder voorwaarde dat er een contract is waarin veiligheidsmaatregelen, geheimhouding en andere vereisten voor de juiste verwerking van persoonlijke informatie zijn vastgelegd. Het bedrijf zal deze partners ook op passende wijze controleren. <br> Het bedrijf kan bepaalde gebruikersinformatie die verband houdt met deze dienst in een niet-persoonlijke vorm delen of bekendmaken aan derden, waarvoor u voorafgaand akkoord mee moet gaan. <br> Om een uitgebreide service te bieden binnen de groep, kan het bedrijf gebruikersinformatie die via deze app is verzameld, delen tussen bedrijven binnen de groep. <br> Artikel 5 (Informatieverzamelingsmodule) <br> Om gerichte advertenties te leveren op basis van gebruikersinformatie, kan deze dienst een informatiemodule bevatten. Deze partners verkrijgen automatisch gebruikersinformatie via deze module. Raadpleeg de privacybeleidsverklaring van de volgende bedrijven voor meer informatie over de verzamelde informatie, het doel van gebruik en de openbaarmaking aan derden: <br><br> SDK-naam: Firebase <br> Leverancier: Google LLC <br> Doel: Om pushmeldingen naar deze app te sturen, logbestanden van deze app te verzamelen en analyses uit te voeren over de promotie van deze app. <br> Privacybeleid: https://firebase.google.com/terms/data-processing-terms <br> SDK-naam: Adjust <br> Leverancier: Adjust Co., Ltd. <br> Doel: Om analyses uit te voeren over de promotie van deze app. <br> Privacybeleid: https://www.adjust.com/ja/terms/privacy-policy/ <br> Artikel 6 (Gebruikerscontrole) <br> De automatische verzameling van gebruikersinformatie zoals beschreven in paragraaf 1 van artikel 2 kan worden gestopt door een van de volgende methoden: <br> Schakel het apparaat uit. <br> Schakel de communicatiefunctie van het apparaat uit. <br> Verwijder deze app van het apparaat. <br> De automatische verzameling van gebruikersinformatie zoals beschreven in paragraaf 3 van artikel 2 kan worden gestopt door een van de volgende methoden: <br> Schakel het apparaat uit. <br> Schakel de communicatiefunctie van het apparaat uit. <br> Zorg ervoor dat deze app en de applicatie van de externe dienst niet actief zijn op het apparaat. <br> Verwijder deze app van het apparaat. <br> Wijzig de instellingen van de externe dienst zodat deze niet langer is gekoppeld aan deze app. <br> Zelfs na het stoppen van de verzameling zoals beschreven in de voorgaande paragrafen, zal het bedrijf de gebruikersinformatie die tot dan toe is verzameld blijven gebruiken binnen de grenzen van het doel en in overeenstemming met artikel 4, tenzij de gebruiker anders aangeeft. <br> Verzoeken om de verwerking van gebruikersinformatie te stoppen, deze openbaar te maken, te wijzigen, te verwijderen of de openbaarmaking aan derden te beperken, worden op passende wijze behandeld nadat het bedrijf heeft geverifieerd dat u de aanvrager bent, in overeenstemming met het privacybeleid van het bedrijf. <br> Artikel 7 (Link naar het ""Privacybeleid"" van het bedrijf) <br> De meest recente versie van het ""Privacybeleid"" van het bedrijf en dit privacybeleid zijn beschikbaar via de volgende links. Als er een verschil is tussen het ""Privacybeleid"" van het bedrijf en dit privacybeleid, heeft dit privacybeleid voorrang. <br><br> ""Privacybeleid"" van het bedrijf <br> Link: https://bushiroad.co.jp/privacy <br> Dit privacybeleid <br> Link: https://bushiroad.co.jp/privacy <br> Artikel 8 (Openbaarmaking en delen van verzamelde informatie) <br> Als de gebruiker functies gebruikt om via deze dienst te communiceren en informatie met vrienden of kennissen te delen, kan de locatieinformatie van de gebruiker (indien de functie voor het bepalen van de locatie is ingeschakeld), tekst in berichten, foto's, video's, audio en URL-links worden weergegeven of gedeeld met vrienden of kennissen waarmee wordt gecommuniceerd. Bovendien kunnen al deze gegevens door alle gebruikers van deze dienst worden bekeken als alle instellingen zijn ingesteld om dit toe te staan. De zichtbaarheid kan worden gewijzigd via de instellingen van deze dienst of app. <br><br> Artikel 9 (Contactgegevens) <br> Voor vragen en opmerkingen over de verwerking van gebruikersinformatie in deze app en deze dienst kunt u contact opnemen met het volgende loket: <br><br> Naam van het loket: Bushiroad Co., Ltd. - Service Center voor Love Live! School Idol Festival 2 <br> Contactmethode: https://lovelive-sif2.bushimo.jp/contact/ <br> Artikel 10 (Wijzigingen) <br> Dit privacybeleid kan worden herzien. <br><br> Als er wijzigingen zijn in de verzamelde gebruikersinformatie, het doel van gebruik of de openbaarmaking aan derden als gevolg van een update van deze app, wordt dit vooraf gemeld en zal voor belangrijke wijzigingen opnieuw om toestemming worden gevraagd bij het downloaden of installeren. <br> Voor andere wijzigingen in de verzamelde gebruikersinformatie, het doel van gebruik of de openbaarmaking aan derden zullen we u hierover informeren via een berichtfunctie en per e-mail, en voor belangrijke wijzigingen vragen we opnieuw om uw toestemming."
+mst.dialog.GameClose_Information_Rights._title,Rechtenvermelding
+mst.dialog.DataTakeOver_SnsNotSupported._title,SNS-koppeling
+mst.dialog.DataTakeOver_SnsNotSupported._message,SNS-koppeling kan in deze versie niet worden gebruikt.<br>
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._title,Bevestigen
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._message,Wilt u ‘{0}’ verwijderen? <br> De opgeslagen MV-opstelling wordt dan teruggezet naar de standaardinstelling.
+mst.dialog.Arcade_Enter_Confirm._title,Arcade Mode
+mst.dialog.Arcade_Enter_Confirm._message,Register this device as an arcade cabinet.<br>From then on every launch goes straight to the attract loop and the normal game is no longer reachable (Test Mode can undo this).<br>All content is downloaded right after registration.<br><br>Continue?
+mst.dialog.Arcade_Enter_Failed._title,Registration Failed
+mst.dialog.Arcade_Enter_Failed._message,{0}
+mst.dialog.Arcade_TestMode_ExitConfirm._title,Exit Arcade Mode
+mst.dialog.Arcade_TestMode_ExitConfirm._message,"Leave arcade mode.<br>All save data on this device (machine registration, credits, bookkeeping) is deleted and it returns to a first-launch install.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_ExitReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ExitReconfirm._message,Deleted data cannot be recovered.<br>Really exit arcade mode?
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,Reset Bookkeeping
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,Set the counted coins and plays back to zero.<br>Credits and the machine registration are not changed.<br><br>Continue?
+mst.dialog.Arcade_Session_Failed._title,Cannot Start Session
+mst.dialog.Arcade_Session_Failed._message,{0}<br><br>Your credit has been returned.
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,Download All Content
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,Downloads every asset category.<br>This takes time and bandwidth. The cabinet returns to the attract screen when it is done.<br><br>Continue?
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,The counted data cannot be recovered.<br>Really reset it?
+mst.dialog.Arcade_Card_NewCard._title,A New Card
+mst.dialog.Arcade_Card_NewCard._message,This card has not been used here before.<br>Choose NEW PLAYER to start a new account on it.<br>Choose TRANSFER DATA to move the account you already play on your phone onto this card.
+mst.dialog.Arcade_Card_BindFailed._title,Transfer Failed
+mst.dialog.Arcade_Card_BindFailed._message,No account matches that transfer code and password.<br>Check them and try again.
+mst.dialog.Arcade_TestMode_UnlockConfirm._title,Unlock Account
+mst.dialog.Arcade_TestMode_UnlockConfirm._message,"Remove this device's account lock.<br>From the next credit on, Decision plays as the guest. The card binding on the server is kept.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_UnlockReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_UnlockReconfirm._message,A removed lock cannot be restored; the next lock draws a new device card ID.<br>Really unlock?
+mst.dialog.Arcade_TestMode_LockFailed._title,Lock Failed
+mst.dialog.Arcade_TestMode_LockFailed._message,No account matches that transfer code and password.<br>The lock stays pending until the first credit.
+mst.dialog.Arcade_Enter_WipeConfirm._title,Gegevens verwijderen?
+mst.dialog.Arcade_Enter_WipeConfirm._message,"Op dit apparaat staan al gamegegevens.<br>Als je overschakelt naar de arcademodus worden ALLE gegevens op dit apparaat (account, kaarten, nummers en voortgang) verwijderd en die kunnen niet worden hersteld.<br><br>Wil je doorgaan?"
+mst.dialog.Arcade_Enter_WipeFinal._title,Data wissen?
+mst.dialog.Arcade_Enter_WipeFinal._message,Verwijderde gamegegevens kunnen niet worden hersteld.<br><br>Wil je echt alle gegevens verwijderen en naar de arcademodus overschakelen?
+mst.dialog.Arcade_Enter_KeyboardWarning._title,Toetsenbord vereist
+mst.dialog.Arcade_Enter_KeyboardWarning._message,"Zodra dit apparaat in de arcademodus staat, kun je via het scherm geen instelling meer wijzigen en niet meer naar het normale spel terugkeren.<br>De testmodus (alle instellingen van de kast) en het verlaten van de arcademodus openen alleen met de TEST-knop van de kast: op een toetsenbord is dat standaard F1 (er is geen gamepadtoets voor).<br>Verlaten gaat via TEST → Systeem → Arcademodus verlaten, waarbij alle opgeslagen gegevens op dit apparaat worden verwijderd en het terugkeert naar de staat van een eerste installatie.<br><br>Heb je een toetsenbord klaarliggen?"

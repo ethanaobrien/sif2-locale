@@ -1,0 +1,139 @@
+﻿_key,_text
+mst.skill_center.100001._name,스마일 하트
+mst.skill_center.100001._detailText,Smile P가 3% 증가합니다.
+mst.skill_center.100002._name,스마일 스타
+mst.skill_center.100002._detailText,Smile P가 6% 증가
+mst.skill_center.100003._name,스마일 엔젤
+mst.skill_center.100003._detailText,Smile P가 8% 증가
+mst.skill_center.100004._name,스마일 엠프레스
+mst.skill_center.100004._detailText,스마일 P가 10% 증가
+mst.skill_center.100005._name,스마일 퀸
+mst.skill_center.100005._detailText,스마일 P가 8% 증가<br>더불어 μ’s 소속의 스마일 P가 3% 증가
+mst.skill_center.100006._name,스마일 퀸
+mst.skill_center.100006._detailText,스마일 P가 8% 증가<br>추가로 Aqours 소속의 스마일 P가 3% 증가
+mst.skill_center.100007._name,스마일 퀸
+mst.skill_center.100007._detailText,Smile P가 8% 증가<br>추가로 니지가쿠 소속의 Smile P가 3% 증가
+mst.skill_center.100008._name,스마일 퀸
+mst.skill_center.100008._detailText,Smile P가 8% 증가<br>추가로 Liella! 소속의 Smile P가 3% 증가
+mst.skill_center.100009._name,스마일 프린세스
+mst.skill_center.100009._detailText,Smile P가 8% 증가<br>추가로 Printemps 소속의 Smile P가 5% 증가
+mst.skill_center.100010._name,스마일 프린세스
+mst.skill_center.100010._detailText,Smile P가 8% 증가<br>추가로 lily white 소속의 Smile P가 5% 증가
+mst.skill_center.100011._name,스마일 프린세스
+mst.skill_center.100011._detailText,Smile P가 8% 증가<br>추가로 BiBi 소속의 Smile P가 5% 증가
+mst.skill_center.100012._name,스마일 프린세스
+mst.skill_center.100012._detailText,"Smile P가 8% 증가<br>추가로, CYaRon! 소속의 Smile P가 5% 증가"
+mst.skill_center.100013._name,스마일 프린세스
+mst.skill_center.100013._detailText,Smile P가 8% 증가<br>추가로 AZALEA 소속의 Smile P가 5% 증가
+mst.skill_center.100014._name,스마일 프린세스
+mst.skill_center.100014._detailText,Smile P가 8% 증가<br>추가로 Guilty Kiss 소속의 Smile P가 5% 증가
+mst.skill_center.100015._name,스마일 프린세스
+mst.skill_center.100015._detailText,Smile P가 8% 증가<br>추가로 DiverDiva 소속의 Smile P가 5% 증가
+mst.skill_center.100016._name,스마일 프린세스
+mst.skill_center.100016._detailText,Smile P가 8% 증가<br>추가로 A・ZU・NA 소속의 Smile P가 5% 증가
+mst.skill_center.100017._name,스마일 프린세스
+mst.skill_center.100017._detailText,스마일 P가 8% 증가<br>추가로 QU4RTZ 소속의 스마일 P가 5% 증가
+mst.skill_center.100018._name,스마일 프린세스
+mst.skill_center.100018._detailText,Smile P가 8% 증가<br>추가로 R3BIRTH 소속의 Smile P가 5% 증가
+mst.skill_center.100019._name,스마일 엠프레스
+mst.skill_center.100019._detailText,Smile 속성의 Smile P가 13% 증가
+mst.skill_center.100020._name,스마일 퀸
+mst.skill_center.100020._detailText,Smile P가 8% 증가<br>더불어 μ’s 소속의 Smile 속성 Smile P가 7% 증가
+mst.skill_center.100021._name,스마일 퀸
+mst.skill_center.100021._detailText,Smile 포인트가 8% 증가<br>추가로 Aqours 소속의 Smile 속성 Smile 포인트가 7% 증가
+mst.skill_center.100022._name,스마일 퀸
+mst.skill_center.100022._detailText,Smile 포인트가 8% 증가<br>추가로 니지가쿠 소속의 Smile 속성 Smile 포인트가 7% 증가
+mst.skill_center.100023._name,스마일 퀸
+mst.skill_center.100023._detailText,Smile P가 8% 증가<br>추가로 Liella! 소속의 Smile 속성 Smile P가 7% 증가
+mst.skill_center.200001._name,퓨어 하트
+mst.skill_center.200001._detailText,Pure P가 3% 증가
+mst.skill_center.200002._name,퓨어 스타
+mst.skill_center.200002._detailText,Pure P가 6% 증가
+mst.skill_center.200003._name,퓨어 엔젤
+mst.skill_center.200003._detailText,Pure P가 8% 증가
+mst.skill_center.200004._name,퓨어 엠프레스
+mst.skill_center.200004._detailText,Pure P가 10% 증가
+mst.skill_center.200005._name,퓨어퀸
+mst.skill_center.200005._detailText,Pure P가 8% 증가<br>더불어 μ’s 소속의 Pure P가 3% 증가
+mst.skill_center.200006._name,퓨어퀸
+mst.skill_center.200006._detailText,Pure P가 8% 증가<br>추가로 Aqours 소속의 Pure P가 3% 증가
+mst.skill_center.200007._name,퓨어퀸
+mst.skill_center.200007._detailText,Pure P가 8% 증가<br>추가로 니지가쿠 소속의 Pure P가 3% 증가
+mst.skill_center.200008._name,퓨어퀸
+mst.skill_center.200008._detailText,Pure P가 8% 증가<br>추가로 Liella! 소속의 Pure P가 3% 증가
+mst.skill_center.200009._name,Pure 프린세스
+mst.skill_center.200009._detailText,Pure P가 8% 증가<br>추가로 Printemps 소속의 Pure P가 5% 증가
+mst.skill_center.200010._name,Pure 프린세스
+mst.skill_center.200010._detailText,Pure P가 8% 증가<br>추가로 lily white 소속의 Pure P가 5% 증가
+mst.skill_center.200011._name,Pure 프린세스
+mst.skill_center.200011._detailText,Pure P가 8% 증가<br>추가로 BiBi 소속의 Pure P가 5% 증가
+mst.skill_center.200012._name,Pure 프린세스
+mst.skill_center.200012._detailText,Pure P가 8% 증가<br>추가로 CYaRon! 소속의 Pure P가 5% 증가
+mst.skill_center.200013._name,Pure 프린세스
+mst.skill_center.200013._detailText,Pure P가 8% 증가<br>추가로 AZALEA 소속의 Pure P가 5% 증가
+mst.skill_center.200014._name,Pure 프린세스
+mst.skill_center.200014._detailText,Pure P가 8% 증가<br>추가로 Guilty Kiss 소속의 Pure P가 5% 증가
+mst.skill_center.200015._name,Pure 프린세스
+mst.skill_center.200015._detailText,Pure P가 8% 증가<br>추가로 DiverDiva 소속의 Pure P가 5% 증가
+mst.skill_center.200016._name,Pure 프린세스
+mst.skill_center.200016._detailText,Pure P가 8% 증가<br>추가로 A・ZU・NA 소속의 Pure P가 5% 증가
+mst.skill_center.200017._name,Pure 프린세스
+mst.skill_center.200017._detailText,Pure P가 8% 증가<br>추가로 QU4RTZ 소속의 Pure P가 5% 증가
+mst.skill_center.200018._name,Pure 프린세스
+mst.skill_center.200018._detailText,Pure P가 8% 증가<br>추가로 R3BIRTH 소속의 Pure P가 5% 증가
+mst.skill_center.200019._name,퓨어 엠프레스
+mst.skill_center.200019._detailText,Pure 속성 Pure P가 13% 증가
+mst.skill_center.200020._name,퓨어퀸
+mst.skill_center.200020._detailText,Pure P가 8% 증가<br>더불어 μ’s 소속의 Pure 속성 카드의 Pure P가 7% 증가
+mst.skill_center.200021._name,퓨어퀸
+mst.skill_center.200021._detailText,Pure 포인트가 8% 증가<br>추가로 Aqours 소속의 Pure 속성 캐릭터의 Pure 포인트가 7% 증가
+mst.skill_center.200022._name,퓨어퀸
+mst.skill_center.200022._detailText,Pure 포인트가 8% 증가<br>추가로 니지가쿠 소속의 Pure 속성 캐릭터의 Pure 포인트가 7% 증가
+mst.skill_center.200023._name,퓨어퀸
+mst.skill_center.200023._detailText,Pure P가 8% 증가<br>추가로 Liella! 소속의 Pure 속성 Pure P가 7% 증가
+mst.skill_center.300001._name,쿨 하트
+mst.skill_center.300001._detailText,쿨 P가 3% 증가
+mst.skill_center.300002._name,쿨 스타
+mst.skill_center.300002._detailText,쿨 P가 6% 증가
+mst.skill_center.300003._name,쿨 엔젤
+mst.skill_center.300003._detailText,쿨 P가 8% 증가
+mst.skill_center.300004._name,쿨 여제
+mst.skill_center.300004._detailText,쿨 P가 10% 증가
+mst.skill_center.300005._name,쿨 퀸
+mst.skill_center.300005._detailText,쿨 P가 8% 증가<br>더불어 μ’s 소속의 쿨 P가 3% 증가
+mst.skill_center.300006._name,쿨 퀸
+mst.skill_center.300006._detailText,쿨 포인트가 8% 증가<br>추가로 Aqours 소속의 쿨 포인트가 3% 증가
+mst.skill_center.300007._name,쿨 퀸
+mst.skill_center.300007._detailText,쿨 속성이 8% 증가<br>추가로 니지가쿠 소속 쿨 속성이 3% 증가
+mst.skill_center.300008._name,쿨 퀸
+mst.skill_center.300008._detailText,쿨 속성이 8% 증가<br>추가로 Liella! 소속 쿨 속성 캐릭터가 3% 증가
+mst.skill_center.300009._name,쿨 프린세스
+mst.skill_center.300009._detailText,쿨 속성이 8% 증가<br>추가로 Printemps 소속 쿨 속성 멤버의 수치가 5% 증가
+mst.skill_center.300010._name,쿨 프린세스
+mst.skill_center.300010._detailText,쿨 포인트가 8% 증가<br>추가로 lily white 소속의 쿨 포인트가 5% 증가
+mst.skill_center.300011._name,쿨 프린세스
+mst.skill_center.300011._detailText,쿨 P가 8% 증가<br>더불어 BiBi 소속의 쿨 P가 5% 증가
+mst.skill_center.300012._name,쿨 프린세스
+mst.skill_center.300012._detailText,쿨 속성이 8% 증가<br>추가로 CYaRon! 소속 쿨 속성 멤버가 5% 증가
+mst.skill_center.300013._name,쿨 프린세스
+mst.skill_center.300013._detailText,쿨 속성이 8% 증가<br>추가로 AZALEA 소속의 쿨 속성 멤버가 5% 증가
+mst.skill_center.300014._name,쿨 프린세스
+mst.skill_center.300014._detailText,쿨 P가 8% 증가<br>추가로 Guilty Kiss 소속의 쿨 P가 5% 증가
+mst.skill_center.300015._name,쿨 프린세스
+mst.skill_center.300015._detailText,쿨 속성 멤버가 8% 증가<br>추가로 DiverDiva 소속의 쿨 속성 멤버가 5% 증가
+mst.skill_center.300016._name,쿨 프린세스
+mst.skill_center.300016._detailText,쿨 속성이 8% 증가<br>추가로 A・ZU・NA 소속의 쿨 속성 멤버는 5% 추가 증가
+mst.skill_center.300017._name,쿨 프린세스
+mst.skill_center.300017._detailText,쿨 속성이 8% 증가<br>추가로 QU4RTZ 소속의 쿨 속성 멤버가 5% 증가
+mst.skill_center.300018._name,쿨 프린세스
+mst.skill_center.300018._detailText,쿨 속성 멤버가 8% 증가<br>추가로 R3BIRTH 소속의 쿨 속성 멤버가 5% 증가
+mst.skill_center.300019._name,쿨 여제
+mst.skill_center.300019._detailText,쿨 속성의 쿨 P가 13% 증가
+mst.skill_center.300020._name,쿨 퀸
+mst.skill_center.300020._detailText,쿨 P가 8% 증가. 추가로 μ’s 소속의<br>쿨 속성 쿨 P가 7% 증가
+mst.skill_center.300021._name,쿨 퀸
+mst.skill_center.300021._detailText,쿨 포인트가 8% 증가합니다. 추가로 Aqours 소속의<br>쿨 속성 쿨 포인트가 7% 증가합니다.
+mst.skill_center.300022._name,쿨 퀸
+mst.skill_center.300022._detailText,쿨 포인트가 8% 증가합니다. 추가로 니지가쿠 소속의<br>쿨 속성 쿨 포인트가 7% 증가합니다.
+mst.skill_center.300023._name,쿨 퀸
+mst.skill_center.300023._detailText,쿨 포인트가 8% 증가합니다. 추가로 Liella! 소속의 <br>쿨 속성 쿨 포인트가 7% 증가합니다.

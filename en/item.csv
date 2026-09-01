@@ -1,0 +1,405 @@
+﻿_key,_text
+mst.item.15010001._name,1x Scout Ticket
+mst.item.15010001._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout.
+mst.item.15010002._name,10x Scout Ticket
+mst.item.15010002._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout.
+mst.item.15010003._name,Limited-Time 10x Scout Ticket
+mst.item.15010003._effectDetail,A Scout ticket (limited validity).<br>Performs the same as a 10x Scout.
+mst.item.15010004._name,10x Scout Ticket (SIF Data Link Bonus)
+mst.item.15010004._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on select Scouts.
+mst.item.15010005._name,10x Scout Ticket (SIFAS Data Link Bonus)
+mst.item.15010005._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on select Scouts.
+mst.item.15010006._name,"1x Normal Scout Ticket (Valid until 11:59 AM, July 15, 2023)"
+mst.item.15010006._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010007._name,"10x Normal Scout Ticket (Valid until 11:59 AM, July 15, 2023)"
+mst.item.15010007._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010008._name,"1x Normal Scout Ticket (Valid until 11:59 AM, July 31, 2023)"
+mst.item.15010008._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010009._name,"10x Normal Scout Ticket (Valid until 11:59 AM, July 31, 2023)"
+mst.item.15010009._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010010._name,"1x Normal Scout Ticket (Valid until 11:59 AM, August 15, 2023)"
+mst.item.15010010._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010011._name,"10x Normal Scout Ticket (Valid until 11:59 AM, August 15, 2023)"
+mst.item.15010011._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010012._name,"1x Normal Scout Ticket (Valid until 11:59 AM, August 31, 2023)"
+mst.item.15010012._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010013._name,"10x Normal Scout Ticket (Valid until 11:59 AM, August 31, 2023)"
+mst.item.15010013._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010014._name,"1x Normal Scout Ticket (Valid until 11:59 AM, September 15, 2023)"
+mst.item.15010014._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010015._name,"10x Normal Scout Ticket (Valid until 11:59 AM, September 15, 2023)"
+mst.item.15010015._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010016._name,"1x Normal Scout Ticket (Valid until 11:59 AM, September 30, 2023)"
+mst.item.15010016._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010017._name,"10x Normal Scout Ticket (Valid until 11:59 AM, September 30, 2023)"
+mst.item.15010017._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010018._name,"1x Normal Scout Ticket (Valid until 11:59 AM, October 15, 2023)"
+mst.item.15010018._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010019._name,"10x Normal Scout Ticket (Valid until 11:59 AM, October 15, 2023)"
+mst.item.15010019._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010020._name,"1x Normal Scout Ticket (Valid until 11:59 AM, October 31, 2023)"
+mst.item.15010020._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010021._name,"10x Normal Scout Ticket (Valid until 11:59 AM, October 31, 2023)"
+mst.item.15010021._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010022._name,"1x Normal Scout Ticket (Valid until 11:59 AM, November 15, 2023)"
+mst.item.15010022._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010023._name,"1x Normal Scout Ticket (Valid until 11:59 AM, November 15, 2023)"
+mst.item.15010023._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010024._name,"10x Normal Scout Ticket (Valid until 11:59 AM, November 15, 2023)"
+mst.item.15010024._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010025._name,"1x Normal Scout Ticket (Valid until 11:59 AM, November 30, 2023)"
+mst.item.15010025._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010026._name,"10x Normal Scout Ticket (Valid until 11:59 AM, November 30, 2023)"
+mst.item.15010026._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010027._name,"1x Normal Scout Ticket (Valid until 11:59 AM, November 15, 2023)"
+mst.item.15010027._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010028._name,"1x Normal Scout Ticket (Valid until 11:59 AM, December 15, 2023)"
+mst.item.15010028._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010029._name,"10x Normal Scout Ticket (Valid until 11:59 AM, December 15, 2023)"
+mst.item.15010029._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010030._name,"1x Normal Scout Ticket (Valid until 11:59 AM, December 31, 2023)"
+mst.item.15010030._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010031._name,"10x Normal Scout Ticket (Valid until 11:59 AM, December 31, 2023)"
+mst.item.15010031._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010032._name,"1x Normal Scout Ticket (Valid until 11:59 AM, December 31, 2023)"
+mst.item.15010032._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010033._name,"10x Normal Scout Ticket (Valid until 11:59 AM, December 31, 2023)"
+mst.item.15010033._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010034._name,"1x Normal Scout Ticket (Valid until 11:59 AM, January 15, 2024)"
+mst.item.15010034._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010035._name,"10x Normal Scout Ticket (Valid until 11:59 AM, January 15, 2024)"
+mst.item.15010035._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010036._name,"1x Normal Scout Ticket (Valid until 11:59 AM, January 31, 2024)"
+mst.item.15010036._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010037._name,"10x Normal Scout Ticket (Valid until 11:59 AM, January 31, 2024)"
+mst.item.15010037._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010038._name,"1x Normal Scout Ticket (Valid until 11:59 AM, February 14, 2024)"
+mst.item.15010038._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010039._name,"10x Normal Scout Ticket (Valid until 11:59 AM, February 14, 2024)"
+mst.item.15010039._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15010040._name,"1x Normal Scout Ticket (Valid until 11:59 AM, March 31, 2024)"
+mst.item.15010040._effectDetail,A ticket that lets you Scout.<br>Performs the same as a single Scout on the Standard Scout.
+mst.item.15010041._name,"10x Normal Scout Ticket (Valid until 11:59 AM, March 31, 2024)"
+mst.item.15010041._effectDetail,A ticket that lets you Scout.<br>Performs the same as a 10x Scout on the Standard Scout.
+mst.item.15020001._name,10x Scout Ticket (SIF2 Big Thanks Scout)
+mst.item.15020001._effectDetail,A ticket for the SIF2 Big Thanks Scout.<br>Lets you perform a 10x Scout.
+mst.item.15500001._name,Scout Points [Release Celebration]
+mst.item.15500001._effectDetail,Points earned from the Release Celebration Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.
+mst.item.15500002._name,Scout Points [Harajuku Liella! After School ♡]
+mst.item.15500002._effectDetail,"Points earned from the ""Pickup Scout: Harajuku Liella! After School ♡"" event.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after the event ends."
+mst.item.15510004._name,Scout Points [Normal]
+mst.item.15510004._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends May 15.
+mst.item.15510005._name,Scout Points [Normal]
+mst.item.15510005._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends May 31.
+mst.item.15510006._name,Scout Points [Normal]
+mst.item.15510006._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends June 19.
+mst.item.15510007._name,Scout Points [Normal]
+mst.item.15510007._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends June 30.
+mst.item.15510008._name,Scout Points [Normal]
+mst.item.15510008._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends July 15.
+mst.item.15510009._name,Scout Points [Normal]
+mst.item.15510009._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends July 31.
+mst.item.15510010._name,Scout Points [Normal]
+mst.item.15510010._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends August 15.
+mst.item.15510011._name,Scout Points [Normal]
+mst.item.15510011._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends August 31.
+mst.item.15510012._name,Scout Points [Normal]
+mst.item.15510012._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends September 15.
+mst.item.15510013._name,Scout Points [Normal]
+mst.item.15510013._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends September 30.
+mst.item.15510014._name,Scout Points [Normal]
+mst.item.15510014._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends October 15.
+mst.item.15510015._name,Scout Points [Normal]
+mst.item.15510015._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends October 31.
+mst.item.15510016._name,Scout Points [Normal]
+mst.item.15510016._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends November 15.
+mst.item.15510017._name,Scout Points [Normal]
+mst.item.15510017._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends November 30.
+mst.item.15510018._name,Scout Points [Normal]
+mst.item.15510018._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends December 15.
+mst.item.15510019._name,Scout Points [Normal]
+mst.item.15510019._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends December 31.
+mst.item.15510020._name,Scout Points [Normal]
+mst.item.15510020._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends January 15.
+mst.item.15510021._name,Scout Points [Normal]
+mst.item.15510021._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends January 31.
+mst.item.15510022._name,Scout Points [Normal]
+mst.item.15510022._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends February 14.
+mst.item.15510023._name,Scout Points [Normal]
+mst.item.15510023._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends March 1.
+mst.item.15510024._name,Scout Points [Normal]
+mst.item.15510024._effectDetail,Points earned from the Standard Scout.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration.<br>*The exchange period for these points ends March 31.
+mst.item.15520001._name,Scout Points [Our Town]
+mst.item.15520001._effectDetail,"Points earned from the ""Pickup Scout: Us and This Town"" event.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration."
+mst.item.15520002._name,Scout Points [Promote the Shopping Street!]
+mst.item.15520002._effectDetail,"Points earned from the ""Pickup Scout: Show Off the Shopping District!"" event.<br>Can be exchanged for various Members and items.<br>*Converts to Skill Books (M) after expiration."
+mst.item.15520003._name,Scout Points [Live in Nature]
+mst.item.15520003._effectDetail,Points earned in the Pickup Scout: Live in Nature.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520004._name,Scout Points [Sparkling Dancers]
+mst.item.15520004._effectDetail,Points earned in the Pickup Scout: Glittering Dancers.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520005._name,Scout Points [Sun-Drenched Summer Camp]
+mst.item.15520005._effectDetail,Points earned in the Pickup Scout: Summer Camp Under the Sun.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520006._name,Scout Points [Midsummer Mermaid]
+mst.item.15520006._effectDetail,Points earned in the Pickup Scout: Midsummer Mermaid.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520007._name,Scout Points [Summer Beach Run]
+mst.item.15520007._effectDetail,Points earned in the Pickup Scout: Summer Seas on the Sands.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520008._name,Scout Points [Summer Night Blossoms]
+mst.item.15520008._effectDetail,Points earned in the Pickup Scout: Flowers Blooming in the Summer Night.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520009._name,Scout Points [Moonlit Silver Grass]
+mst.item.15520009._effectDetail,Points earned in the Pickup Scout: Silvergrass Shining in the Moonlight.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520010._name,Scout Points [Summer Stroll in Yukata]
+mst.item.15520010._effectDetail,Points earned in the Pickup Scout: A Stroll to Cool Off in Yukata.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520011._name,Scout Points [Trick or Treat!]
+mst.item.15520011._effectDetail,Points earned in the Pickup Scout: Trick or Treat!<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520012._name,Scout Points [Sunny Marching Band]
+mst.item.15520012._effectDetail,Points earned in the Pickup Scout: Sunlit Marching Band.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520013._name,Scout Points [Nyan Nyan 🐾 Maids]
+mst.item.15520013._effectDetail,Points earned in the Pickup Scout: Nyan-Nyan 🐾 Maids.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520014._name,"Scout Points [Merry Christmas, Everyone!]"
+mst.item.15520014._effectDetail,"Points earned in the Pickup Scout: Merry Christmas, Everyone!<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends."
+mst.item.15520015._name,Scout Points [Snow Festival Santa]
+mst.item.15520015._effectDetail,Points earned in the Pickup Scout: Santa Claus of the Snow Festival.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520016._name,Scout Points [Happy New Year to All]
+mst.item.15520016._effectDetail,Points earned in the Pickup Scout: Happy New Year to Everyone.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520017._name,Scout Points [Fairy on Ice]
+mst.item.15520017._effectDetail,Points earned in the Pickup Scout: Fairy on the Ice.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520018._name,Scout Points [Maiden Captivated by Love]
+mst.item.15520018._effectDetail,Points earned in the Pickup Scout: Maiden Captivated by Love.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520019._name,Scout Points [Night of the Hundred Demons]
+mst.item.15520019._effectDetail,Points earned in the Pickup Scout: Night of the Hundred Demons.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15520020._name,Scout Points [Y2K♡GALS]
+mst.item.15520020._effectDetail,Points earned in the Pickup Scout: Y2K♡GALS.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530001._name,Scout Points [Kanon's Birthday Celebration]
+mst.item.15530001._effectDetail,Points earned in the Kanon's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530002._name,Scout Points [Ai's Birthday Celebration]
+mst.item.15530002._effectDetail,Points earned in the Ai's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530003._name,Scout Points [Nozomi's Birthday Celebration]
+mst.item.15530003._effectDetail,Points earned in the Nozomi's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530004._name,Scout Points [Mari's Birthday Celebration]
+mst.item.15530004._effectDetail,Points earned in the Mari's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530005._name,Scout Points [Shiki's Birthday Celebration]
+mst.item.15530005._effectDetail,Points earned in the Shiki's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530006._name,Scout Points [Karin's Birthday Celebration]
+mst.item.15530006._effectDetail,Points earned in the Karin's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530007._name,Scout Points [Yoshiko's Birthday Celebration]
+mst.item.15530007._effectDetail,Points earned in the Yoshiko's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530008._name,Scout Points [Keke's Birthday Celebration]
+mst.item.15530008._effectDetail,Points earned in the Keke's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530009._name,Scout Points [Nico's Birthday Celebration]
+mst.item.15530009._effectDetail,Points earned in the Nico's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530010._name,Scout Points [Chika's Birthday Celebration]
+mst.item.15530010._effectDetail,Points earned in the Chika's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530011._name,Scout Points [Honoka's Birthday Celebration]
+mst.item.15530011._effectDetail,Points earned in the Honoka's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530012._name,Scout Points [Natsumi's Birthday Celebration]
+mst.item.15530012._effectDetail,Points earned in the Natsumi's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530013._name,Scout Points [Setsuna's Birthday Celebration]
+mst.item.15530013._effectDetail,Points earned in the Setsuna's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530014._name,Scout Points [Kotori's Birthday Celebration]
+mst.item.15530014._effectDetail,Points earned in the Kotori's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530015._name,Scout Points [Riko's Birthday Celebration]
+mst.item.15530015._effectDetail,Points earned in the Riko's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530016._name,Scout Points [Ruby's Birthday Celebration]
+mst.item.15530016._effectDetail,Points earned in the Ruby's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530017._name,Scout Points [Sumire's Birthday Celebration]
+mst.item.15530017._effectDetail,Points earned in the Sumire's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530018._name,Scout Points [Shioriko's Birthday Celebration]
+mst.item.15530018._effectDetail,Points earned in the Shioriko's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530019._name,Scout Points [Eri's Birthday Celebration]
+mst.item.15530019._effectDetail,Points earned in the Eli's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530020._name,Scout Points [Mei's Birthday Celebration]
+mst.item.15530020._effectDetail,Points earned in the Mei's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530021._name,Scout Points [Rin's Birthday Celebration]
+mst.item.15530021._effectDetail,Points earned in the Rin's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530022._name,Scout Points [Rina's Birthday Celebration]
+mst.item.15530022._effectDetail,Points earned in the Rina's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530023._name,Scout Points [Ren's Birthday Celebration]
+mst.item.15530023._effectDetail,Points earned in the Ren's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530024._name,Scout Points [Mia's Birthday Celebration]
+mst.item.15530024._effectDetail,Points earned in the Mia's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530025._name,Scout Points [Kanata's Birthday Celebration]
+mst.item.15530025._effectDetail,Points earned in the Kanata's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530026._name,Scout Points [Tomari's Birthday Celebration]
+mst.item.15530026._effectDetail,Points earned in the Tomari's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530027._name,Scout Points [Dia's Birthday Celebration]
+mst.item.15530027._effectDetail,Points earned in the Dia's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530028._name,Scout Points [Hanayo's Birthday Celebration]
+mst.item.15530028._effectDetail,Points earned in the Hanayo's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530029._name,Scout Points [Margarete's Birthday Celebration]
+mst.item.15530029._effectDetail,Points earned in the Margarete's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530030._name,Scout Points [Kasumi's Birthday Celebration]
+mst.item.15530030._effectDetail,Points earned in the Kasumi's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530031._name,Scout Points [Emma's Birthday Celebration]
+mst.item.15530031._effectDetail,Points earned in the Emma's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530032._name,Scout Points [Kanan's Birthday Celebration]
+mst.item.15530032._effectDetail,Points earned in the Kanan's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530033._name,Scout Points [Lanzhu's Birthday Celebration]
+mst.item.15530033._effectDetail,Points earned in the Ranju's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530034._name,Scout Points [Chisato's Birthday Celebration]
+mst.item.15530034._effectDetail,Points earned in the Chisato's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530035._name,Scout Points [Ayumu's Birthday Celebration]
+mst.item.15530035._effectDetail,Points earned in the Ayumu's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530036._name,Scout Points [Hanamaru's Birthday Celebration]
+mst.item.15530036._effectDetail,Points earned in the Hanamaru's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15530037._name,Scout Points [Umi's Birthday Celebration]
+mst.item.15530037._effectDetail,Points earned in the Umi's Birthday Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540001._name,Scout Points [SIF Data Link Bonus]
+mst.item.15540001._effectDetail,Points earned in the SIF Data Link Bonus Ticket Scout.<br>Exchange them for a variety of Members and Items.
+mst.item.15540002._name,Scout Points [Attribute Pickup]
+mst.item.15540002._effectDetail,"Points earned in the Smile Only! Pickup Scout,<br>the Pure Only! Pickup Scout,<br>and the Cool Only! Pickup Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends."
+mst.item.15540005._name,Scout Points [Love Song Carnival: Ayumu]
+mst.item.15540005._effectDetail,Points earned in the Love Song Carnival Scout: Ayumu Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540006._name,Scout Points [Love Song Carnival: Kasumi]
+mst.item.15540006._effectDetail,Points earned in the Love Song Carnival Scout: Kasumi Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540007._name,Scout Points [Love Song Carnival: Shizuku]
+mst.item.15540007._effectDetail,Points earned in the Love Song Carnival Scout: Shizuku Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540008._name,Scout Points [Love Song Carnival: Karin]
+mst.item.15540008._effectDetail,Points earned in the Love Song Carnival Scout: Karin Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540009._name,Scout Points [Love Song Carnival: Ai]
+mst.item.15540009._effectDetail,Points earned in the Love Song Carnival Scout: Ai Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540010._name,Scout Points [Love Song Carnival: Kanata]
+mst.item.15540010._effectDetail,Points earned in the Love Song Carnival Scout: Kanata Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540011._name,Scout Points [Love Song Carnival: Setsuna]
+mst.item.15540011._effectDetail,Points earned in the Love Song Carnival Scout: Setsuna Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540012._name,Scout Points [Love Song Carnival: Emma]
+mst.item.15540012._effectDetail,Points earned in the Love Song Carnival Scout: Emma Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540013._name,Scout Points [Love Song Carnival: Rina]
+mst.item.15540013._effectDetail,Points earned in the Love Song Carnival Scout: Rina Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540014._name,Scout Points [Love Song Carnival: Shioriko]
+mst.item.15540014._effectDetail,Points earned in the Love Song Carnival Scout: Shioriko Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540015._name,Scout Points [Love Song Carnival: Mia]
+mst.item.15540015._effectDetail,Points earned in the Love Song Carnival Scout: Mia Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540016._name,Scout Points [Love Song Carnival: Lanzhu]
+mst.item.15540016._effectDetail,Points earned in the Love Song Carnival Scout: Ranju Edition.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540017._name,Scout Points [Half Anniversary]
+mst.item.15540017._effectDetail,"Points earned in the Free Once a Day! Half Anniversary Scout,<br>the Guaranteed UR Half Anniversary Scout,<br>and the Pickup Scout: Boo! Boo! Halloween Land.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends."
+mst.item.15540023._name,Scout Points [My Love Song]
+mst.item.15540023._effectDetail,Points earned in the My Love Song Arc Opening Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540024._name,Scout Points [μ's Pickup]
+mst.item.15540024._effectDetail,Points earned in the μ's Only! Pickup Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540025._name,Scout Points [Aqours Pickup]
+mst.item.15540025._effectDetail,Points earned in the Aqours Only! Pickup Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540027._name,Scout Points [Yohane the Parhelion]
+mst.item.15540027._effectDetail,Points earned in the Yohane the Parhelion<br>-The Story of the Sound of Heart- Premiere Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540028._name,Scout Points [First-Year Pickup]
+mst.item.15540028._effectDetail,Points earned in the 1st-Years Only! Pickup Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540029._name,Scout Points [Second-Year Pickup]
+mst.item.15540029._effectDetail,Points earned in the 2nd-Years Only! Pickup Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540030._name,Scout Points [Third-Year Pickup]
+mst.item.15540030._effectDetail,Points earned in the 3rd-Years Only! Pickup Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540031._name,Scout Points [Year-End & New Year Celebration]
+mst.item.15540031._effectDetail,Points earned in the New Year! Up to 240 Free Pulls Scout and the<br>New Year! Guaranteed UR Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540032._name,Scout Points [New Year Celebration]
+mst.item.15540032._effectDetail,Points earned in the New Year's First Dream Scout and the New Year's First Dream! Guaranteed UR Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540033._name,Scout Points [Love Song Carnival]
+mst.item.15540033._effectDetail,Points earned in the Love Song Carnival Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540034._name,Scout Points [Big Thanks Scout]
+mst.item.15540034._effectDetail,Points earned in the SIF2 Grand Thanksgiving Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.15540035._name,Scout Points [Special Scout]
+mst.item.15540035._effectDetail,Points earned in the Special Scout.<br>Exchange them for a variety of Members and Items.<br>*Will be converted to Skill Books (M) once the period ends.
+mst.item.30010001._name,Memorial Piece
+mst.item.30010001._effectDetail,"Collect these Pieces from events, login bonuses, and more.<br>Gather enough to trade for a Memorial Member at the Exchange."
+mst.item.30010002._name,Weiß Schwarz Exchange Ticket
+mst.item.30010002._effectDetail,An exchange ticket usable at the Weß Schwarz Debut Campaign Exchange.
+mst.item.30010003._name,Snow White Christmas Exchange Ticket
+mst.item.30010003._effectDetail,An exchange ticket usable at the Snow White Christmas Campaign Exchange.
+mst.item.30010004._name,Lucky Bag Points
+mst.item.30010004._effectDetail,An exchange ticket usable at the New Year! Lucky Bag Pack Exchange.
+mst.item.30010005._name,Valentine's Exchange Ticket
+mst.item.30010005._effectDetail,An exchange ticket usable at the Happy Valentine's Day Campaign Exchange.
+mst.item.16005001._name,Lesson Note (Small)
+mst.item.16005001._effectDetail,Use in Lessons to earn EXP for a Member.
+mst.item.16005002._name,Lesson Note (Medium)
+mst.item.16005002._effectDetail,Use in Lessons to earn EXP for a Member.
+mst.item.16005003._name,Lesson Note (Large)
+mst.item.16005003._effectDetail,Use in Lessons to earn EXP for a Member.
+mst.item.17001001._name,Skill Book (Small)
+mst.item.17001001._effectDetail,Use in Skill Lessons to earn EXP for a Special Skill.
+mst.item.17001002._name,Skill Book (Medium)
+mst.item.17001002._effectDetail,Use in Skill Lessons to earn EXP for a Special Skill.
+mst.item.17001003._name,Skill Book (Large)
+mst.item.17001003._effectDetail,Use in Skill Lessons to earn EXP for a Special Skill.
+mst.item.19100001._name,Penlight
+mst.item.19100001._effectDetail,Can Awaken a Member.
+mst.item.20000001._name,LP Candy (Small)
+mst.item.20000001._effectDetail,An item that restores 10 LP.
+mst.item.20000002._name,LP Candy (Medium)
+mst.item.20000002._effectDetail,An item that restores 50 LP.
+mst.item.20000003._name,LP Candy (Large)
+mst.item.20000003._effectDetail,An item that restores 100 LP.
+mst.item.20001001._name,Limited-Time LP Candy (Small)
+mst.item.20001001._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20002001._name,Limited-Time LP Candy (Medium)
+mst.item.20002001._effectDetail,An item that restores 50 LP (has an expiration date).
+mst.item.20003001._name,Limited-Time LP Candy (Large)
+mst.item.20003001._effectDetail,An item that restores 100 LP (has an expiration date).
+mst.item.20001002._name,Limited-Time LP Candy (Small)
+mst.item.20001002._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001003._name,Limited-Time LP Candy (Small)
+mst.item.20001003._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001004._name,Limited-Time LP Candy (Small)
+mst.item.20001004._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001005._name,Limited-Time LP Candy (Small)
+mst.item.20001005._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001006._name,Limited-Time LP Candy (Small)
+mst.item.20001006._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001007._name,Limited-Time LP Candy (Small)
+mst.item.20001007._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001008._name,Halloween LP Candy (Small)
+mst.item.20001008._effectDetail,An item that restores 10 LP.
+mst.item.20001009._name,Limited-Time LP Candy (Small)
+mst.item.20001009._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001010._name,Limited-Time LP Candy (Small)
+mst.item.20001010._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001011._name,Limited-Time LP Candy (Small)
+mst.item.20001011._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001012._name,Christmas LP Candy (Small)
+mst.item.20001012._effectDetail,An item that restores 10 LP.
+mst.item.20001013._name,LP Kagami Mochi
+mst.item.20001013._effectDetail,An item that restores 10 LP.
+mst.item.20001014._name,Limited-Time LP Candy (Small)
+mst.item.20001014._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001015._name,Limited-Time LP Candy (Small)
+mst.item.20001015._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.20001016._name,LP Valentine's Chocolate (Small)
+mst.item.20001016._effectDetail,An item that restores 10 LP.
+mst.item.20001017._name,LP White Day Macaron (Small)
+mst.item.20001017._effectDetail,An item that restores 10 LP.
+mst.item.20001018._name,Limited-Time LP Candy (Small)
+mst.item.20001018._effectDetail,An item that restores 10 LP (has an expiration date).
+mst.item.21000001._name,Skip Ticket
+mst.item.21000001._effectDetail,A Ticket required to skip a completed Live.
+mst.item.21001001._name,Limited-Time Skip Ticket
+mst.item.21001001._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001002._name,Limited-Time Skip Ticket
+mst.item.21001002._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001003._name,Limited-Time Skip Ticket
+mst.item.21001003._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001004._name,Limited-Time Skip Ticket
+mst.item.21001004._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001005._name,Limited-Time Skip Ticket
+mst.item.21001005._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001006._name,Limited-Time Skip Ticket
+mst.item.21001006._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001007._name,Limited-Time Skip Ticket
+mst.item.21001007._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001008._name,Limited-Time Skip Ticket
+mst.item.21001008._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001009._name,Limited-Time Skip Ticket
+mst.item.21001009._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001010._name,Limited-Time Skip Ticket
+mst.item.21001010._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001011._name,Limited-Time Skip Ticket
+mst.item.21001011._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001012._name,Limited-Time Skip Ticket
+mst.item.21001012._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.21001013._name,Limited-Time Skip Ticket
+mst.item.21001013._effectDetail,A Ticket required to skip a completed Live (has an expiration date).
+mst.item.22000001._name,Star Assist Ticket
+mst.item.22000001._effectDetail,A Ticket required to use Star Assist.
+mst.item.22001001._name,Limited-Time Star Assist Ticket
+mst.item.22001001._effectDetail,A Ticket required to use Star Assist (has an expiration date).
+mst.item.22001003._name,Limited-Time Star Assist Ticket
+mst.item.22001003._effectDetail,A Ticket required to use Star Assist (has an expiration date).
+mst.item.22001004._name,Limited-Time Star Assist Ticket
+mst.item.22001004._effectDetail,A Ticket required to use Star Assist (has an expiration date).

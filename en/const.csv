@@ -1,0 +1,46 @@
+﻿_key,_text
+mst.const.DEFAULT_USER_NAME._value,Tutorial in progress
+mst.const.DEFAULT_USER_COMMENT._value,Let's Do This!
+mst.const.TUTORIAL_GUEST_USER_NAME._value,A Lovely Guest
+mst.const.TUTORIAL_GUEST_USER_COMMENT._value,Enjoy your first Live!
+mst.const.LIVESCENE_SKILLNAME_ELLIPSIS._value,...
+mst.const.MULTI_REGION._value,jp
+mst.const.PLAYER_RANKS_TRACKING_LIST._value,[5/10/30/50/100/200/300/]
+mst.const.MUSE_STORY_TRACKING_LIST._value,story_part Master ID List (Chapters 1-5)
+mst.const.AQOURS_STORY_TRACKING_LIST._value,story_part Master ID List (Chapters 1-5)
+mst.const.NIGIGASAKI_STORY_TRACKING_LIST._value,story_part Master ID List (Chapters 1-5)
+mst.const.LIELLA_STORY_TRACKING_LIST._value,story_part Master ID List (Chapters 1-5)
+mst.const.USERNAME_COMPLETE._value,cxaf1k
+mst.const.TUTORIAL_COMPLETE._value,usrdzo
+mst.const.LOGIN_BONUS._value,253c9m
+mst.const.PURCHASE._value,1bsthi
+mst.const.INITIAL_PURCHASE._value,ydtj0o
+mst.const.RANK_005._value,gd5k9i
+mst.const.RANK_010._value,32vmx1
+mst.const.RANK_030._value,o7jsyo
+mst.const.RANK_050._value,a8x3q0
+mst.const.RANK_100._value,2t4qed
+mst.const.RANK_200._value,6910uf
+mst.const.RANK_300._value,z7sc9p
+mst.const.STORYCLEAR_MS_01._value,xw39p7
+mst.const.STORYCLEAR_MS_02._value,k0e5zr
+mst.const.STORYCLEAR_MS_03._value,tbne9l
+mst.const.STORYCLEAR_MS_04._value,ydfmv4
+mst.const.STORYCLEAR_MS_05._value,v3kowc
+mst.const.STORYCLEAR_AQOURS_01._value,1y4ciq
+mst.const.STORYCLEAR_AQOURS_02._value,2x9bkp
+mst.const.STORYCLEAR_AQOURS_03._value,l0ynyt
+mst.const.STORYCLEAR_AQOURS_04._value,7fhbyg
+mst.const.STORYCLEAR_AQOURS_05._value,mxlplg
+mst.const.STORYCLEAR_NIJI_01._value,h9iti9
+mst.const.STORYCLEAR_NIJI_02._value,c2bx53
+mst.const.STORYCLEAR_NIJI_03._value,jxthtq
+mst.const.STORYCLEAR_NIJI_04._value,thehu8
+mst.const.STORYCLEAR_NIJI_05._value,g04pim
+mst.const.SS_ALIGNMENT_END_DATETIME._value,2024/12/31 14:59:59
+mst.const.SS_THEATER_NOT_FOUND._value,Daily Theater will be updated at a later date.
+mst.const.REJECT_PURCHASE_FLAG._value,TRUE
+mst.const.LOCAL_P3_SERVICE_END._value,2099/12/31 6:00:00
+mst.const.LOCAL_P4_REFUND_START._value,2099/12/31 6:00:00
+mst.const.LOCAL_P5_REFUND_END._value,2099/12/31 6:00:00
+mst.const.TUTORIAL_EXCLUDE_MEMBER._value,[4010/4011]

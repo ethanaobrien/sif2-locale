@@ -1,0 +1,3349 @@
+﻿_key,_text
+Common_Amount,{0} × {1}
+Common_IconAmount,×{0}
+Common_IconAmountOverLimit,×{0}+
+Common_ItemHasAmount,Кол-во: {0}
+Common_PossessionNumber,Кол-во
+Common_Possession,В наличии
+Common_Lack,Не хватает
+Common_Gem,Loveca
+Common_KizunaPoint,Связь
+Common_ChargeGem,Loveca (платная)
+Common_Point_Coin,Золото
+Common_Point_Seal,Набор очков
+Common_Point_LiveStamp,(Поддельный) Live-штамп
+Common_OwnedAndCostAmount,{0} / {1}
+Common_Rank,Ранг
+Common_PlayerRank,Ранг игрока
+Common_GroupRank,Групповой ранг
+Common_GroupRankWithGroupName,{0} ранг
+Common_ExpToNextRankLabel,До уровня
+Common_ExpMax,МАКС.
+Common_Exp,Опыт
+Common_Level,Уровень
+Common_MusicLevel,Уровень песни
+Common_OrderBy,По возрастанию
+Common_OrderByDescending,По убыванию
+Common_Day,{0} день
+Common_Month,{0} месяц
+Common_Year,{0} год
+Common_Hour,{0} час.
+Common_Minute,{0} мин.
+Common_Second,{0} сек.
+Common_Until,до
+Common_ExpireDateFew,Осталось!
+Common_ExpireDateRemaining,残り
+Common_ExpireDateInfinity,Бессрочно
+Common_ExpireDateExpired,Истек срок
+Common_Period,{0} ～ {1}
+Common_Remaining,残り
+Common_Exchange,Обмен
+Common_Filter,Фильтр
+Common_Sort,Сортировка
+Common_AllSelect,Все
+Common_AllRelease,Снять выделение
+Common_Sunday,Воскресенье
+Common_Monday,Понедельник
+Common_Tuesday,Вторник
+Common_Wednesday,Среда
+Common_Thursday,Четверг
+Common_Friday,Пятница
+Common_Saturday,Суббота
+Common_Daily,Ежедневно
+Common_Weekly,Еженедельно
+Common_MusicArtistLabel,Песня
+Common_MusicLyricistLabel,Текст песен
+Common_MusicComposerLabel,Композитор
+Common_MusicArrangerLabel,Аранжировка
+Common_MusicArtistFormat,Исполнитель: {0}
+Common_MusicLyricistFormat,Текст: {0}
+Common_MusicComposerFormat,Сочинение: {0}
+Common_MusicArrangerFormat,Аранжировка: {0}
+Common_MusicDetail,"Текст: {0}, Музыка: <br>, Композитор: {1}"
+Common_CardFullName,[{0}] {1}
+Common_CardFullName2Line,[{0}]<br>{1}
+Common_Rare2,SR
+Common_Rare3,UR
+Common_Rare4,UR
+Common_Present,Подарок
+Common_Reward,Награда
+Common_Receive,Вы получили {0}.
+Common_Nothing,Нет
+Common_RoleVocal,Вокал
+Common_RoleGuitar,Вокал
+Common_RoleBass,Бас
+Common_RoleDrum,Драм
+Common_RoleKeyboard,Клавишные
+Common_RoleSupport,Поддержка
+Common_TypeHeart,Smile
+Common_TypeDiamond,Pure
+Common_TypeSpade,Cool
+Common_MainStory,Основная история
+Common_SubStory,Доп. сюжеты
+Common_EventStory,История события
+Common_EventPoint,{0} очк.
+Common_EventCurrency_ChallengeLive,{0} шт.
+Common_EventCurrency_LiveTry,{0} шт.
+Common_EventCurrency_VsLive,{0} чел.
+Common_EventCurrency_MultiLive,{0} чел.
+Common_RankingRank,{0}-е место
+Common_RankingRankOut,Вне рейтинга
+Common_CountBadgeOverLimit,{0}+
+Common_SkipUntilNextDay_Zero,Не показывать это окно до 0:00 следующего дня.
+Common_SkipUntilNextDay_Login,"До завтра 4:00, не показывать это окно."
+Common_DoNotDisplayAfter,Больше не показывать это окно.
+Common_Percent,{0}%
+Common_Piece,{0} шт.
+Common_All,ВСЕ
+Common_Other,Liella!
+Common_XJAPAN,μ’s
+Common_LUNASEA,Aqours
+Common_GLAY,Нидзигасаки
+Common_GroupOther,Другие
+Common_Grade,{0}-й класс
+Common_DifficultyNormal,ОБЫЧНЫЙ
+Common_DifficultyHard,СЛОЖНОСТЬ
+Common_DifficultyExpert,ЭКСПЕРТ
+Common_DifficultyMaster,МАСТЕР
+Common_StatusOfAchievement,Статус достижения
+Common_Achieved,Выполнено
+Common_NotAchieved,Не выполнено
+Common_ExpirationDate,Срок действия
+Button_Close,Закрыть
+Button_Ok,ОК
+Button_Next,Далее
+Button_Cancel,Отменить
+Button_Decide,Подтвердить
+Button_Update,Обновить
+Button_Retry,Повторить
+Button_Return,Назад
+Button_VoiceOn,Озвучка включена
+Button_VoiceOff,Без озвучки
+Button_Resume,Продолжить Live
+Button_Suspend,Завершить Live
+Button_Skip,Пропустить
+Button_Restart,Liveを再開
+Button_Shop,Магазин
+Button_Home,На главный экран
+Button_BuyGem,Loveca купить
+Button_PresentBox,К подаркам
+Button_Chat,В чат
+Button_Release,Открыть
+Button_Apply,Применить
+Button_Edit,Редакт.
+DueDate_DialogTitle_PresentBox,Срок получения
+DueDate_DialogCaution_PresentBox,"Внимание: если вы не заберете подарок, предметы будут удалены."
+DueDate_Dialog_ItemNum,Количество: {0}
+DueDate_DialogTitle_Item,Срок действия скоро истекает
+GachaTop_PeriodTime,До {0} {1}.
+GachaTop_PriceTitle,{0} раз набрать
+GachaTop_PriceTitleChargeGem,Набор {0} раз (платно)
+GachaTop_PriceTitleFree,Бесплатный набор {0} раз
+GachaTop_Price_Free,Бесплатно
+GachaTop_BuyButton_Balloon_Daily,"<color=#f93981>Ежедневно {0} раз, обновление в </color> каждый день в <br>."
+GachaTop_BuyButton_Balloon_ReritySR,<color=#f93981>SR или выше </color> <br>Гарантированно!
+GachaTop_BuyButton_Balloon_RerityUR,<color=#f93981>Гарантированно </color> UR!
+GachaTop_BuyButton_Balloon_BonusItem,Предмет<br>В подарок!
+GachaTop_BuyButton_Balloon_Free,{0} бесплатных попыток!
+GachaTop_BuyButton_Balloon_Limit,В течение периода — только {0} раз!
+GachaTop_LimitDailyOnce,1 раз в день
+GachaTop_LimitDailyAny,"<color=#FD8E18>1 раз в день, {0} попытка(ок), обновляется каждый день в </color> <br>."
+GachaTop_LimitCountOnce,1 раз только
+GachaTop_LimitCountAny,Осталось {0} попыток
+GachaTop_LimitDailyOnceCountAny,Осталось {0} попыток <br> <color=#FD8E18> (один раз в день) </color>
+GachaTop_LimitDailyAnyCountAny,Осталось {0} попыток <br> <color=#FD8E18> (Сегодня осталось {1}) </color>
+GachaTop_EnsureRareOnly,Гарантированно {1} из {0}!
+GachaTop_EnsureRareOverContains,"Гарантировано {0} или более, {1} персонажей!"
+GachaTop_LimitOver,Достигнут лимит попыток.
+GachaTop_LimitOverDailyRepeat,Обновление в 0:00<br>
+GachaTop_LimitEnd,Все попытки исчерпаны.
+GachaTop_LimitStepup,Достигнут лимит по количеству шагов.
+GachaTop_MemberDetailCaution,※Каждая стата отображает значения при максимальном пробуждении и уровне.<br>※Отображаются эффекты навыков при максимальном уровне навыка.
+GachaTop_MemberDetailPhotoButtonEvolveBefore,Изменить до Пробуждения
+GachaTop_MemberDetailPhotoButtonEvolveAfter,Изменить после пробуждения
+GachaTop_BannerRemainTimeFormat,Осталось <size=85%> <size=100%> {0}
+GachaTop_RateFormat,{0}%
+GachaTop_MemberRateFormat,f4
+GachaTop_RarityRateFormat,f2
+GachaTop_Step,ШАГ {0}
+GachaTop_StepCount,<size=59> <color=#f93981> / {0} </color> <size=32> {1}
+GachaTop_HasAmount,(В наличии: {0})
+GachaTop_LimitDailyOnceChargeGem,Ежедневный розыгрыш Loveca! Обновление в 0:00.
+GachaTop_BonusReward,{0} с бонусом!
+GachaTop_RunButtonText,"Набор <size=50> в <size=32> раза, используя {0}."
+GachaTop_RunButtonDialog_Title,Билет для набора
+GachaTop_RunButtonDialog_TopButton,Билет
+GachaTop_RunButtonDialog_Caution,"※Если срок действия билета истек, вы не сможете выполнить набор <br>※Вы можете выполнить текущий выбранный набор <br>※Набор будет выполнен с тем же содержимым, что и при использовании Loveca (в случае билета на 10 наборов, будут применены те же условия, что и для набора в 10 раз)."
+GachaPlay_DialogOk,ОК
+GachaPlay_DialogInfomation,"※Полученные предметы, превышающие лимит хранения, будут отправлены в раздел «Подарки»."
+GachaConfirm_DialogTitle,Подтвердить
+GachaConfirm_Period,Период проведения:
+GachaConfirm_Count,{0} раз
+GachaConfirm_TicketText,"«{0}». Использовать {1}, чтобы выполнить {3} наборов за <br> в {2}?"
+GachaConfirm_GemText,Использовать {0} Loveca и выполнить <br> {1} наборов за {2}?
+GachaConfirm_InfoText,Использовать {1}{0} и <br> для проведения {2} наборов?
+GachaConfirm_ConsumeLackText,Недостаточно {0}.
+GachaConfirm_Buy,Покупать?
+GachaConfirm_Gem,Loveca
+GachaConfirm_ChargeGem,Премиум Loveca
+GachaConfirm_BuyButton,Купить
+GachaConfirm_GachaButton,Набор
+GachaResult_RemainingAny,ещё раз
+GachaResult_RemainingDailyAny,Сегодня ещё осталось раз
+GachaResult_TutorialSelectPhoto,Выберите понравившегося Айдла.
+GachaResult_GetPoint,"{0}pt <font=""FOT-TsukuGoPr5-M SDF""> Получить </font>"
+GachaResult_ResultPoint,{0} → {1}
+GachaResult_Exchange,Обмен
+GachaResult_GetOverMemberMessage,"Если у вас уже есть этот <br>айдол, вместо него вы получите светящийся браслет."
+GachaResult_LimitBreakNoteText,Новый Айдл добавлен!
+GachaDetail_TabTitle,Набор — подробности
+GachaDetail_DialogTitle,Набор — подробности
+GachaDetail_Help,Примечания
+GachaDetail_GachaInfo,Набор — информация
+GachaDetail_Terms,Период проведения
+GachaDetail_NewMember,Новый Айдл
+GachaDetail_Step,ШАГ {0}
+GachaRateDetail_TabTitle,Вероятность появления
+GachaRateDetail_DialogTitle,Набор — подробности
+GachaRateDetail_Help,Примечания
+GachaRateDetail_RarityRate,Вероятность выпадения по редкости
+GachaRateDetail_RarityRateUnensure,Вероятность появления {0}
+GachaRateDetail_RarityRateEnsure,Гарант. шанс {0}
+GachaRateDetail_Main,Live-позиция
+GachaRateDetail_Support,Позиция поддержки
+GachaRateDetail_RarityRateMember,Список Айдл
+GachaRateDetail_RarityRateUnensureMember,Список Айдлов{0}
+GachaRateDetail_RarityRateEnsureMember,Список Айдлов{0}
+GachaFixedRateDetail_TabTitle,Вероятность появления в 10-м шаге при 10 наборах
+GachaFixedRateDetail_TabTitleStepup,Вероятность появления в 10-м шаге при 10 наборах
+GachaPickUpMemberDetail_TabTitle,Детали об Айдле
+GachaPickUpMemberDetail_DialogTitle,Детали выбранного айдола
+Consume_HasConsumeName,Кол-во
+Consume_UseConsumeName,Требуемое количество
+Consume_PriceTitleChargeGem,"Выбрать {0} раз (<br>, только за кристаллы)"
+Consume_InfoOnConsumeMedal ,Бесплатные Loveca будут использованы в первую очередь.
+WaitingMemberList_SealNumWordText,Набор: доступно очков
+WaitingMemberList_SealReplacementShopButton,Обмен
+WaitingMemberList_AllSelectButton,Выбрать всё
+WaitingMemberList_SelectCharaNumWord,Выбрано
+WaitingMemberList_SealChangeButton,Перевод
+WaitingMemberList_EmptyChara,Айдлов для смены нет.
+WaitingMemberList_ItemGetNum,Получено
+WaitingMemberList_CanGetItem,Можно получить предметы
+WaitingMemberList_ChangeResultShortMessage,Получено {0} светящихся палочек.
+WaitingMemberList_ChangeDialogTitle,Подтвердить
+WaitingMemberList_ChangeDialogConfirm,"Переведите {0} айдолов из комнаты ожидания, чтобы получить {1} светящихся палочек."
+WaitingMemberList_ChangeDialogCharaNumWord,шт.
+WaitingMemberList_ChangeDialogSealNumWord,шт.
+WaitingMemberList_ChangeDialogTotalSealWord,♪наклейка
+CardIcon_LvWord,Ур.
+CardIcon_SkillLvWord,Ур. навыка
+CardIcon_HpWord,HP:
+CardIcon_EventBonusWord,Бонус:
+CardIcon_EventBonusParam,+{0}%
+CardIcon_BonusParam,<size=20>+</size>{0}%
+CardIcon_UnlockNotJoin,Не присоединена
+Practice_EmptyItem,У вас нет <br>учебных заметок.
+Practice_ExpWord,До уровня
+Practice_ResetButton,Сброс
+Practice_RecommendButton,Автоподбор
+Practice_Max,МАКС.
+Practice_ItemSelect,Выбор предмета
+Practice_NeedItem,Необходимые предметы
+Practice_ItemShortageAlert,Не хватает необходимых предметов.
+Practice_LevelMaxAlert,Уровень максимален.
+SkillPractice_EmptyChara,Вы обменяете {0} айдолов из комнаты отдыха на <br> и {1} светящихся палочек? <br> Вы уверены?
+SkillPractice_EmptyItem,У вас нет<br>книги навыков.
+SkillPractice_SamePhotoBonus,Бонус за одинаковых айдолов
+SkillPractice_SameItemBonus,Бонус за совпадение
+SkillPractice_PhotoTab,Запасные комнаты
+SkillPractice_ItemTab,Билет
+SkillPractice_HavingTextLavel,В наличии: {0}
+Training_ConfirmDialogTitle,Подтвердить
+Training_ItemConfirmDialogMessage,Вы хотите использовать выбранный лайтстик для Пробуждения?<br>Хорошо?
+Training_CardConfirmDialogMessage,Вы хотите использовать выбранный лайтстик для Пробуждения?<br>Хорошо?
+Training_LackCoinConfirmDialogMessage,Не хватает <br> <color=#D73C55> золота для Пробуждения {1}. {0} </color>
+Training_ItemSettingDialogTitle,Настройка потребления предметов
+Training_ItemSettingDialogMessage,Укажите количество используемых предметов.
+Training_NeedCount,Требуемое количество
+Training_NeedItem,Необходимые предметы
+Training_NoSetting,Не задано
+Training_MaxLevelAndStatus,Макс. уровень и статы
+Training_EmptyChara,Айдлов для Пробуждения нет.
+Training_ItemConfirmDialogLimitNumNote,Пробуждение возможно не более {0} раз.
+Training_ItemAmountOverLimit,{0}+
+Training_SelectThisWay,Выбрать этот способ
+Training_GoldLack,Не хватает золота.
+Training_LevelLack,Уровень не максимален.
+Training_AwakeningBefore,До пробуждения
+Training_AwakeningAfter,Пробуждение (после)
+Training_MaxLv,Макс. уровень
+Training_AwakenedMaxShortMessage,Достигнут максимум Пробуждения.
+Training_CardEvolveItem,Светящаяся палочка
+Training_CardEvolveItemSub1,Пробуждение
+Training_CardEvolveItemSub2,Пробуждение
+Training_CardEvolveItemSub3,Пробуждение
+TrainingResult_TrainingTitle,Пробуждение завершено
+TrainingResult_TrainingMessage,Пробуждение завершено.
+TrainingResult_EpisodeTitle,Бонус за прохождение истории
+TrainingResult_EpisodeMessage,Успешно разблокирована {1} глава <br> в {0}.
+StatusUpResult_EpisodeTitle,Бонус за прохождение истории
+StatusUpResult_Message,У {0} повысились <br> статы.
+CardDetail_EpisodeUnlockConfirm,"Использовать следующие предметы для разблокировки истории ""{0}""?"
+CardDetail_EpisodeUnlockLevel,Разблокировать при уровне Айдла {0} или выше.
+CardDetail_EpisodeUnlockNeedNum,Требуемое количество: {0}
+CardDetail_EpisodeUnlockHaveNum,Кол-во: {0}
+CardDetail_EpisodeUnlockLackMaterial,Не хватает <color=#D73C55>необходимых материалов</color>.
+CardDetail_EpisodeUnlockLackLevel,Не хватает уровня Айдл. Текущий Lv.: {0} / Необходимый Lv.: {1} <color=#D73C55> <br> </color>
+CardDetail_EpisodeUnlockLackGold,Не хватает <color=#D73C55>золота для этого</color>.
+CardDetail_UnlockEpisodePlayConfirmDialogTitle,История разблокирована.
+CardDetail_UnlockEpisodePlayConfirmDialogMessage,"История «{0}» <br>открыта<br>, хотите прочитать её сейчас?"
+CardDetail_EpisodePlayConfirmDialogTitle,История
+CardDetail_EpisodePlayConfirmDialogMessage,Читать историю «{0}»? <br>
+CardDetail_ChangeIllustButton,Изменить иллюстрацию
+CardDetail_ExpansionButton,Увеличить
+CardDetail_LevelWord,Уровень
+CardDetail_ExpWord,До уровня
+CardDetail_Max,МАКС.
+CardDetail_MemberDetailButton,Детали об Айдле
+CardDetail_PracticeButton,Урок
+CardDetail_TrainingButton,Пробуждение
+CardDetail_SkillPracticeButton,Навыки
+CardDetail_CardNormal,Обычный
+CardDetail_Favorite,В избранное
+CardDetail_Animation,Анимация
+CardDetail_Effect,Эффект
+CardDetail_Status,Статы
+CardDetail_Profile,Профиль
+CardDetail_LevelStatus,Уровень статов
+CardDetail_CenterSkill,Центральный навык
+CardDetail_Skill,Навык
+CardDetail_SkillLv,Уровень навыка
+CardDetail_GachaButton,Набор
+CardDetail_SchoolYear,Класс
+CardDetail_Birthday,День рождения
+CardDetail_BloodType,Группа крови
+CardDetail_Height,Рост
+CardDetail_CharaVoice,Озвучка
+CardDetail_SchoolYearInput,{0}-й класс
+CardDetail_EpisodeUnlockConfirmDialogTitle,Подтверждение разблокировки истории
+CardDetail_EpisodeRewardDialogTitle,Награда за сюжет
+CardDetail_SpecialEpisodeRewardDialogTitle,Награда за спец. эпизод
+CardDetail_EpisodeRewardDialogMessage,Награда получена! <br> <color=#D73C55> Вы можете получить награду в разделе «Подарки». </color>
+CardDetail_EpisodePlayDialogUseVoiceButton,Озвучка включена
+CardDetail_EpisodePlayDialogNoVoiceButton,Без озвучки
+CardDetail_CharacterEpisodeLevel,Эпизод ур. {0}
+CardDetail_CardGetCategoryGacha,Набор
+CardDetail_CardGetCategoryEvent,Событие
+CardDetail_CardGetCategoryExchange,Обмен
+CardDetail_CardGetCategoryStory,История
+CardDetail_CardGetCategoryMission,Миссия
+CardDetail_CardGetDetailGacha,Набор „{0}” — доступно!
+CardDetail_CardGetDetailEvent,В событии «{0}» можно получить!
+CardDetail_CardGetDetailExchange,В магазине обмена „{0}” можно получить!
+CardDetail_CardGetDetailStory,История „{0}”: доступно!
+CardDetail_CardGetDetailMission,Миссия: доступно!
+CardDetail_NoticeLevelMaxDisplay,Отображаются статы при максимальной стадии пробуждения и уровне.
+Album_NotCanGet,Сейчас нельзя получить.
+Album_GachaCanGet,"Это айдл, которого можно получить в <color=#DF4444>наборе</color>."
+Album_EventCanGet,"Это Айдл, которого можно получить в <color=#DF4444>ивенте</color>."
+Album_ExchangeCanGet,В <color=#DF4444>обменном пункте</color> можно получить эту Айдл.
+Album_LoginbonusCanGet,<color=#DF4444>Бонус за вход</color> позволяет получить новых Айдл.
+Album_StoryCanGet,<color=#DF4444>Сюжет</color> — здесь можно получить новых Айдл.
+Album_MissionCanGet,<color=#DF4444>Миссия </color>: здесь можно получить новых айдолов.
+Album_BeginnerMissionCanGet,"<color=#DF4444>Начинающий квест </color> — айдлы, которых можно получить."
+Album_GachaCanNotGet,Новый айдл из «{0}». <br> В текущих наборах его нельзя получить.
+Album_EventCanNotGet,Новый айдл из события «{0}». <br> В настоящее время его нельзя получить в текущем событии или в обменном пункте.
+Album_CampaignCanNotGet,Это айдл из кампании «{0}». Сейчас его нельзя получить. <br>
+Album_GachaOkButton,Набор
+Album_EventOkButton,В события
+Album_ExchangeOkButton,В обменник
+Album_StoryOkButton,В сюжет
+Album_TrainingOkButton,К Айдлу
+Album_MissionOkButton,Миссии
+Album_DefaultOkButton,ОК
+Album_Empty,Альбомов нет.
+Album_DialogTitle,Сортировка альбома
+Album_DialogGetTypeWord,Статус участия
+Album_DialogTrainingTypeWord,Состояние пробуждения
+Album_DialogGetTypeAll,Все
+Album_DialogGetTypeTitle,В наличии
+Album_DialogGetTypeUnlock,В наличии
+Album_DialogGetTypeLock,Не приобретено
+Album_DialogMovieTypeTitle,Видео
+Album_DialogMovieTypeHas,Видео есть
+Album_DialogMovieTypeNot,Видео отсутствует
+Album_DialogEpisodeTypeTitle,История
+Album_DialogEpisodeTypeHas,История есть
+Album_DialogEpisodeTypeNot,Без сюжета
+Album_DialogSpPhotoTypeTitle,SP-фото
+Album_DialogSpPhotoTypeHas,SP-фото есть
+Album_DialogSpPhotoTypeNot,Без SP-фото
+Album_DialogEvolveTypeAll,Все
+Album_DialogEvolveTypeNotEvolved,До пробуждения
+Album_DialogEvolveTypeEvolved,Пробуждение (после)
+Album_DialogSortTypeId,По умолчанию
+Album_DialogSortTypeUnlock,По порядку получения
+Album_DialogSortTypeRarity,Редкость
+Album_SIF1_CardSeries,Серия
+Album_SIF1_CardOther,Другие
+Album_SIF1_CardTypeNormal,Обычный
+Album_SIF1_CardTypeAwakening,Пробуждение
+Album_SIF1_HeightExt,{0} см
+Album_SIF2_AcquiredStatus,Статус участия
+Album_SIF2_AcquiredPercent,{0}% ({1} / {2})
+Album_SIF2_MemberSummary,Список айдолов
+Album_SIF2_Profile,Профиль
+Album_SIF2_NonJoining,Не присоединена
+Album_SIF2_NonJoiningToCard,Нет доступных Айдл для добавления.
+Album_SIF2_NothingToCard,Нет доступных айдолов.
+AreaTalkList_AreaOnly,Место действия
+AreaTalkList_AreaAndItem,Условия появления
+AreaTalkList_Empty,Мини-историй нет
+AreaTalkList_HaveAlbum,"Просмотрите мини-истории, которые вы уже видели!"
+AreaTalkList_PlayButton,Смотреть
+CostumeSelect_DeckTitle,Костюм для команды
+CostumeSelect_DeckInfo,При настройке здесь будет выбран костюм по умолчанию <br> «{0}».
+CostumeSelect_SetButton,Установить
+CostumeSelect_SelectedButton,Настройка...
+CostumeSelect_UnLockInfoButton,Условия разблокировки
+CostumeSelect_UnLockInfoByFot,Получить {1} за {0}
+CostumeSelect_UnLockInfoByCampaign,Получить {0}
+CostumeSelect_NotSelected,Не задано
+OrnamentShop_EmptyData,Доступных предметов нет.
+OrnamentShop_ScrollItemBuyText,Купить
+OrnamentShop_ScrollItemLevelUpText,Улучшение
+OrnamentShop_ScrollItemUnlockText,Условия разблокировки
+OrnamentShop_BuyConfirmDialog_ConditionLabel,Необходимые условия
+OrnamentShop_BuyResultDialogTitle_Buy,Покупка предмета
+OrnamentShop_BuyResultDialogTitle_LevelUp,Улучшение предмета
+OrnamentShop_BuyResultDialogMessage_DoesNotPlace,Купленный предмет отправлен в хранилище.
+Chat_NoticeReceive,Получено сообщение.
+Chat_TabChatSummary,Сводка
+Chat_TabChatSolo,Чат
+Chat_TabChatGroup,Групповый чат
+Chat_TabCollectionStamp,Стикеры
+Chat_TabCollectionAttachment,Фото
+Chat_AvailableStamp,"Чат, в котором можно использовать выбранные стикеры."
+Chat_AcquiredStamp,Можно получить случайным образом при прохождении песни.
+Chat_TalkTagVoice,Голос
+Chat_TalkInputWait,{0} в процессе ввода…
+Chat_TalkItemReceive,Получить
+Chat_TalkItemReceived,Уже получено
+Chat_TalkItemGet,Вы получили {0}.
+Chat_TalkLookback,Просмотреть чат
+Chat_OrderOfArrival,По порядку получения
+Chat_OrderOfPrecedence,Сортировка
+Chat_NotYetOpen,"Вы не участвуете в чате.<br>Обменяйтесь контактами, чтобы присоединиться к чату."
+Chat_NotYetAvailable,Этот стикер пока недоступен в чате.
+MusicShop_EmptyData,Доступных для покупки песен нет.
+MusicShop_AlreadyBought,Уже куплено.
+MusicShop_DetailDialogTitle,Детали композиции
+MusicShop_BuyConfirmDialogTitle,Подтверждение покупки
+MusicShop_BuyConfirmDialogMessage,Эту песню купить?
+MusicShop_BuyConfirmDialogCostItem,★Необходимые предметы★
+MusicShop_BuyResultDialogTitle,Покупка завершена
+Warehouse_BatchReplaceDialogDecideButton,Подтвердить
+Warehouse_BatchReplaceDialogTitle,Рекомендуемый состав
+Warehouse_BatchReplaceDialogCardTypePriority,Приоритетный тип
+Warehouse_BatchReplaceDialogDeckRolePriority,Приоритетный инструмент
+Help_DialogTitle,Справка
+Help_Faq,Часто задаваемые вопросы
+Help_GameProgress,Общий прогресс и работа игры
+Help_BuyGem,Покупка Loveca
+Help_TakeOver,Перенос данных
+Help_Opinions,Отзывы и предложения
+Help_ButtonFaq,Часто задаваемые вопросы
+Help_ButtonBuyGem,Ошибка покупки Loveca
+Help_ButtonRegardProblems,Проблемы<br>Обратная связь
+Help_ButtonDataRecovery,Восстановление данных<br>Обратитесь в службу поддержки
+Help_ButtonOther,Другие вопросы
+Help_Notes,Примечания
+Help_JumpButton,Перейти на сайт
+Help_ContactFormCaution,"• Мы, как правило, не отвечаем на отзывы и запросы. <br> • В зависимости от содержания вашего вопроса, может потребоваться время для его рассмотрения и предоставления ответа или решения проблемы. <br> • Перед отправкой запроса, пожалуйста, ознакомьтесь с разделом «Помощь», «Уведомления от разработчиков» и «Часто задаваемые вопросы». <br> • По вопросам восстановления данных обращайтесь через форму обратной связи. <br> • Мы не вмешиваемся в споры между игроками. <br> • Наша служба поддержки работает только на японском языке. <br> • Мы не предоставляем информацию о стратегиях игры. <br> • Если вы не получили подтверждение по электронной почте в течение 24 часов, проверьте настройки приема электронной почты. <br> • Пожалуйста, измените настройки, чтобы получать электронные письма с адреса [@bushimo.jp]."
+TermsOfService_DialogTitle,Пользовательское соглашение
+TermsOfService_Terms,Пользовательское соглашение
+TermsOfService_Rights,Права и условия
+TermsOfService_PrivacyPolicy,Политика<br>конфиденциальности
+TermsOfServiceAgree_Agree,Согласен
+TermsOfServiceAgree_NoAgree,Не согласен
+TermsOfServiceAgree_Terms,Пользовательское соглашение / Политика конфиденциальности / Информация об авторских правах
+TermsOfServiceAgree_PrivacyPolicy,Политика конфиденциальности
+TermsOfServiceAgree_Title,Согласие с условиями
+TermsOfServiceAgree_Message,"Чтобы играть в эту игру, вам необходимо согласиться с <br>Пользовательским соглашением и Политикой конфиденциальности<br>. Пожалуйста, прочитайте их и нажмите «Согласен»<br><br>."
+TermsOfServiceAgree_DataCaution,"Обратите внимание, что в случае преднамеренного или случайного удаления приложения с устройства или потери данных <br>восстановление может быть затруднено."
+CacheClear_ConfirmTitle,Очистка кэша (подтверждение)
+CacheClear_ClearingTitle,Очистка кэша...
+CacheClear_ResultTitle,Кэш очищен.
+CacheClear_ConfirmMassage,Очистить кэш?<br>Вы уверены?
+CacheClear_ClearingMassage,"Очистка кэша<br>Пожалуйста, подождите."
+CacheClear_ResultMassage,Очистка кэша завершена.
+Tw_SelectLanguage_Button,Выбрать язык
+Mission_Title,Задание
+Mission_MainTitle,Список заданий
+Mission_SubTitle,Задание
+Mission_Progress,{0} из <size=-10> / {1} </size>
+Mission_TabMain,Всего
+Mission_TabDaily,Ежедневно
+Mission_TabLimited,Ограниченные по времени
+Mission_MissionNotFound,В настоящее время нет доступных заданий.
+Mission_MissionNotFoundDaily,В настоящее время нет доступных <br>ежедневных заданий.
+Mission_MissionNotFoundLimited,В настоящее время нет доступных<br>ограниченных по времени заданий.
+Mission_ChallengeButton_AcceptReward,Получить
+Mission_ChallengeButton_Challenge,Принять вызов
+Mission_ChallengeButton_Ornament,В хранилище
+Mission_ChallengeButton_CardDetail,К Айдлу
+Mission_ChallengeButton_CardDetail_NotHave,У вас нет этого Айдла.
+Mission_ChallengeButton_CardReinforce,Улучшение
+Mission_ChallengeButton_CardReinforceSkill,Навыки → Тренировка
+Mission_ChallengeButton_CardEvolve,Пробуждение
+Mission_ChallengeButton_Costume,Сменить костюм
+Mission_ChallengeButton_DeckEdit,Состав группы
+Mission_ChallengeButton_DeckTop,В группу
+Mission_ChallengeButton_EventTop,В события
+Mission_ChallengeButton_Friend,Список друзей
+Mission_ChallengeButton_GachaTop,Набор
+Mission_ChallengeButton_MainStory,К основной истории
+Mission_ChallengeButton_Migration,Перенос данных
+Mission_ChallengeButton_MusicSelect,Выбрать песню
+Mission_ChallengeButton_Line,Добавить друзей
+Mission_ChallengeButton_LiveSelect,Live-выбор
+Mission_ChallengeButton_Photo,Айдлы
+Mission_ChallengeButton_Profile,Профиль
+Mission_ChallengeButton_Shop,В магазин
+Mission_ChallengeButton_SubStory,Доп. сюжеты
+Mission_ChallengeButton_TargetMission,К целевой миссии
+Mission_ChallengeButton_Twitter,Подписаться
+Mission_DetailDialog_NoTimeLimit,Ограничение по времени: нет
+Mission_CompleteMisssionGuide,Подробности смотрите здесь.
+Friend_MyFriendTab,Список друзей
+Friend_RequestTab,В ожидании
+Friend_PendingTab,Ожидает подтверждения
+Friend_FriendSearchTab,Поиск друзей
+Friend_LastLogin,Последний вход
+Friend_RefineFavoriteFriendButton,Только избранные друзья
+Friend_DeleteButton,Удалить из друзей
+Friend_RequestCancelButton,Отменить запрос
+Friend_PendingButton,Принять
+Friend_RejectButton,Отклонить
+Friend_MyFriendEmpty,У вас нет друзей.
+Friend_RequestEmpty,Ожидающих одобрения игроков нет.
+Friend_PendingEmpty,Ожидающих подтверждения игроков нет.
+Friend_FriendSearchEmpty,Игроков не найдено
+Friend_SearchButton,Поиск по ID
+Friend_SortLastLoginButton,Последний вход
+Friend_SortRankButton,Ранг
+Friend_IconLeaderTypeButton,Лидер
+Friend_IconRecommendTypeButton,В избранное
+Friend_SearchDialogTitle,Поиск по ID
+Friend_SearchDialogMassage,Введите ID.
+Friend_SearchDialogSearchButton,Поиск
+Friend_Secret,Не показывать
+Friend_LastLoginMinutes,{0} минут назад
+Friend_LastLoginHour,{0} час назад
+Friend_LastLoginDay,{0} дней назад
+Friend_LastLoginOverMonth,Более 31 дня назад
+Friend_DialogTitle,Поиск по ID
+Friend_DialogMessage,Введите ID игрока.
+Friend_DialogLimitNum,Не более 12 символов
+Title_AppliVersion,Версия {0}
+Title_JasracApple,JASRAC License<br>No. 9014302035Y45112
+Title_JasracGoogle,JASRAC<br>№9014302036Y45112
+Title_NexTone,NexTone
+Title_Company,©2013 Проект Love Live! <br> ©2017 Проект Love Live! Sunshine!! <br> ©2022 Проект Love Live! Nijigasaki Gakuen School Idol Club <br> ©2022 Проект Love Live! Superstar!! ©bushiroad
+Title_UserId,ID: {0}
+Title_MenuTitle,Меню
+Title_MenuExternalSite,Внешний сайт
+Title_MenuCacheClear,Очистить кэш
+Title_MenuGameDataDelete,Удалить данные игры
+NameInput_Name,Имя
+NameInput_Ok,ОК
+NameInput_Title,Заявка на разрешение
+NameInput_Permit1,Комитету по проведению Miracle Live
+NameInput_Petmit2,Я обязуюсь соблюдать все пункты условий освещения мероприятия Miracle Live и подаю заявку на получение разрешения на проведение съёмки.<br>
+NameInput_Note1,* Имя игрока может содержать не более 10 символов.
+NameInput_Note2,Это имя будет видно другим игрокам в игре.
+NameInput_Note3,Имя игрока можно изменить позже.
+NameInput_ProfileNameInputTitle,Введите имя игрока
+NameInput_ProfileNameInputMessage,Введите имя игрока.
+NameInput_ProfileNameInputNote,Имя игрока может содержать не более 10 символов <br>. Это имя будет отображаться другим игрокам в игре <br>. Имя можно изменить позже.
+Profile_Secret,Не показывать
+Profile_SecretLong,Статус: не виден другим игрокам
+Profile_DefaultComment,Рад знакомству!
+Profile_RankTitle,<size=24>Рейтинг </size>
+Profile_ExpTitle,<size=24>Опыт </size>
+Profile_CommentTitle,Комментарий
+Profile_RecommenderSelectButton,Выбрать из избранного
+Profile_TitleSelectButton,Выбрать титул
+Profile_PublicSelectButton,Настройки приватности
+Profile_CopyButton,Копировать
+Profile_CopyMessage,ID скопирован.
+Profile_PhotoButton,Показать Айдл
+Profile_FriendRequestButton,Отправить запрос
+Profile_FriendCanNotRequestButton,Запрос невозможен
+Profile_FriendTitleListButton,Список титулов
+Profile_LastLoginTime,Последний вход:
+Profile_OpenDialogTitle,Настройки профиля
+Profile_OpenDialogMainDeckParam,Общая сила отряда
+Profile_OpenDialogGroupRank,Групповой ранг
+Profile_OpenDialogClearLiveNumber,Очищенные композиции
+Profile_OpenDialogFullComboLiveNumber,Полных комбо песен
+Profile_OpenDialogAllPerfectLiveNumber,Все идеальные прохождения
+Profile_OpenDialogHighScoreRate,Рейтинг высоких очков
+Profile_OpenDialogLastLoginDate,Последний вход
+Profile_OpenDialogUserId,Идентификатор игрока
+Profile_OpenDialogGuestMember,Гостевой айдл
+Profile_OpenDialogCaution,"Снимите галочку, чтобы сделать профиль невидимым."
+Profile_OpenDialogOpenButton,Открыто
+Profile_OpenDialogSecretButton,Не показывать
+Profile_OpenDialogPendingButton,В обработке
+Profile_OpenDialogRejectButton,Отклонить
+Profile_RankDialogTitle,Подробности о ранге
+Profile_RankMax,Достигнут максимальный ранг.
+Profile_CommentSettingDialogTitle,Настройки комментариев
+Profile_CommentSettingDialogMassage,Введите комментарий.
+Profile_CommentSettingDialogLimitNum,Не более {0} символов
+Profile_HighScoreRateDialogTitle,Подробный рейтинг высоких результатов
+Profile_HighScoreRateDialogTotalHighScore,Общий рейтинг высоких результатов
+Profile_HighScoreRateDialogValue,Рейтинг высоких очков
+Profile_HighScoreRateDialogEmpty,Данные об игровых сессиях отсутствуют.
+Profile_RankListScrollItemGem,Награда: Loveca {0}
+Profile_RankListScrollItemNone,Награда: не поддерживается {0}
+Profile_ScoreTitle,Кол-во пройденных песен
+Profile_ClearMusicTitle,Очищено
+Profile_FullComboTitle,ВСЕ КОМБО
+Profile_ClimaxPerfectTitle,МАКС.<br>ИДЕАЛ.
+Profile_AllPerfectTitle,ВСЕ ИДЕАЛЬНО
+Profile_TeacherPointTitle,Рейтинг высоких очков
+Profile_ScoreConfirm,Очищенные композиции
+Profile_GuestMember,Гостевой айдл
+Profile_GuestDetail,Детали гостя
+Profile_SettingMember,Назначить Айдла
+Profile_Share,Поделиться
+Profile_ShareMessage,Не хотите ли начать карьеру школьной идол вместе с нами?
+Profile_CardEmpty,Айдлов нет.
+Profile_Birthday,День рождения
+Profile_NoBirthday,Не задано
+Profile_BirthdaySettingDialogTitle,Настройка дня рождения
+Profile_BirthdaySettingDialogMessage,Введите свою дату рождения.
+Profile_BirthdaySettingDialogNote,"Обратите внимание: дату рождения нельзя будет изменить позже <br>. В день вашего рождения вы получите специальное сообщение в чате <br>. Дата рождения может отличаться от той, что указана при покупке."
+TitleList_TitleChangeDialogTitle,Подтвердить
+TitleList_TitleChangeDialogText,Назначить этот титул.
+TitleList_TitleNoDetailText,Описание отсутствует.
+TitleList_TitleListTabNormal,Обычный
+TitleList_TitleListTabEvent,Событие
+TitleList_TitleListTabMember,Участница
+TitleList_TitleListTabMigration,Данные аккаунта
+TitleList_NoMigrationMessage,"У вас нет званий, полученных при переносе данных."
+TitleList_TitleListEmpty,Званий нет.
+Exchange_Tab_Main,Основное
+Exchange_Tab_Tea,Чай
+Exchange_ExpireDateLabel,Срок обмена
+Exchange_ExchangeSelectMessageText,Выберите обмен!
+Exchange_SealExchangeHeaderMainTitle,Набор — обмен очками
+Exchange_PickExchangeHeaderMainTitle,Обмен
+Exchange_TicketExchangeHeaderMainTitle,Обмен билетов
+Exchange_SoldOutMessage,Превышен лимит обмена.
+Exchange_ExchangeLimitMessage,"Невозможно обменять, так как достигнут лимит владения."
+Exchange_GetSeal,Получить очки для набора
+Exchange_ShopResetMessage_Daily,Ежедневно обновляется в 0:00.
+Exchange_ShopResetMessage_Weekly,Обновление каждую неделю {0}.
+Exchange_ShopResetMessage_Monthly,Ежемесячно обновляется 1-го числа.
+Exchange_ResetDayDaily,Сегодня
+Exchange_ResetDayWeekly,На этой неделе
+Exchange_ResetDayMonthly,В этом месяце
+Exchange_RemainCount,Осталось {0} попыток
+Exchange_ResultMesseage,Вы обменяли {0} и {1}!
+Exchange_ResultCardMesseage,Вы обменяли {1} и набрали {2} новых {0}!
+Exchange_FilterDialogTitle,Фильтр обмена
+Exchange_FilterDialogCategoryLabel,Категория
+Exchange_FilterDialogSoldOutLabel,Получено: включить
+Exchange_FilterDialogCategoryAll,Все
+Exchange_FilterDialogCategoryStamp,Стикеры
+Exchange_FilterDialogCategoryPrimaryItem,Основные предметы
+Exchange_FilterDialogCategoryPhotoSeal,Айдл
+Exchange_FilterDialogCategoryTicket,Билет
+_FilterDialogDefaultButtonText,По умолчанию<br>
+Exchange_Name_Exchange,Обмен
+Exchange_Name_Purchase,Купить
+Exchange_Name_LevelUp,Улучшение
+Exchange_EmptyData,Доступных для {0} товаров нет.
+Exchange_AmountLabel,Кол-во {0}
+Exchange_AmountDialogTitle,Сколько {0}?
+Exchange_AmountDialogMessage,"※Впервые присоединяющиеся Айдлы, кроме этого, будут преобразованы в светящиеся палочки."
+Exchange_ConfirmDialogTitle_Countable,Подтвердите количество {0}.
+Exchange_ConfirmDialogTitle_Uncountable,{0} ?
+Exchange_ResultDialogTitle,{0} выполнено
+DeckEdit_RecommendDialogTitle,Рекомендуемый состав
+DeckEdit_RecommendPriorityType,Тип
+DeckEdit_RecommendPriorityGroup,Группа
+DeckEdit_RecommendPrioritySkill,Навык
+DeckEdit_RecommendTypeAll,Не указано
+DeckEdit_RecommendGroupAll,Не указано
+DeckEdit_RecommendGroupOther,Другие
+DeckEdit_RecommendTypeBonus,Бонус типа
+DeckEdit_RecommendCharacterBonus,Бонус участницы
+DeckEdit_RecommendEventBonus,Бонус события
+DeckEdit_RecommendSkillAll,Не указано
+DeckEdit_RecommendSkillScore,Увеличение очков
+DeckEdit_RecommendSkillScoreCondition,Условное повышение очков
+DeckEdit_RecommendSkillRecovery,Восстановление HP
+DeckEdit_RecommendSkillEnhanced,Улучшение оценки
+DeckEdit_RecommendSkillOther,Другие
+DeckEdit_RecommendCheckCenterFixed,Зафиксировать центр
+DeckEdit_RecommendCheckBonusApply,Приоритет для выбранных участниц
+DeckEdit_RecommendGroupSelectDialogTitle,Выбор группы
+DeckEdit_DefaultBandName,Юнит {0}
+DeckEdit_TabName,Юнит {0}
+DeckEdit_StatusPower,Очки LP
+DeckEdit_StatusTotal,Общая сила отряда
+DeckEdit_StatusSoul,Smile
+DeckEdit_StatusTechnic,Pure
+DeckEdit_StatusAppeal,Cool
+DeckEdit_StatusOrnamentBouns,Предметы
+DeckEdit_StatusEventBouns,Событие
+DeckEdit_StatusTypetBouns,Бонус типа
+DeckEdit_MainUnitSetButton,Настройка отряда
+DeckEdit_RecommendEditButton,Рекомендуемый состав
+DeckEdit_ResetButton,Сброс
+DeckEdit_OrnamentButton,Предметы
+DeckEdit_TotalParamDetailButton,Подробности о характеристиках
+DeckEdit_EventNothing,"Бонусов нет, так как сейчас не период проведения события.<br>"
+DeckEdit_UnitNameDialogTitle,Название юнита
+DeckEdit_UnitNameDialogMessage,Введите название юнита.
+DeckEdit_UnitNameDialogLimitNum,Не более 8 символов
+DeckEdit_ClassmateButton,(Дамми)
+DeckEdit_ClassmateTotalParam,(Дамми)
+DeckEdit_PassiveSkillTotalParam,(Дамми)
+DeckEdit_EventBonusMessage,Бонус к очкам события применяется ко всем выбранным участницам в составе.
+DeckEdit_EventBonusEventPointUp_ChallengeLive,В «Миракул Коллекции» увеличьте количество очков события на {0}%
+DeckEdit_EventBonusTotalPointUp_ChallengeLive,В «Чудо-коллекции» повышается общая сила выбранных <br> Айдл.
+DeckEdit_EventBonusEventPointUp_LiveTry,В «Миракул Коллекции» увеличьте количество очков события на {0}%
+DeckEdit_EventBonusTotalPointUp_LiveTry,В «Чудо-коллекции» повышается общая сила выбранных <br> Айдл.
+DeckEdit_EventBonusTotalPointUp,Бонус участницы (общая сила айдола)
+DeckEdit_EventBonusEventPointUp,(бонусные очки)
+DeckEdit_EventBonusNoRate,---
+DeckEdit_EventBonusRate,{0}%x {1} чел.
+DeckEdit_EventBonusRateUp,Вверх!
+DeckEdit_EventBonusInvalidMessage1,Бонус события
+DeckEdit_EventBonusInvalidMessage2,Участниц для бонуса нет.
+DeckEdit_Passive,Пассивные навыки
+DeckEdit_LiveRole,(Дамми)
+DeckEdit_SupportRole,(Дамми)
+DeckEdit_SelectEventDialogTitle,Выбрать событие
+DeckEdit_SelectEventDialogText,Отображает информацию о бонусах выбранного события.<br>
+DeckEdit_SelectEventDialogCaution,События без бонусов не отображаются.
+DeckEdit_ClassmateDisp,Показать всех Айдл
+DeckEdit_TotalParamDetailDialogTitle,Детали юнита
+DeckEdit_CenterSkillRiseValue,Центр. навык +
+DeckEdit_EventBonusRiseValue,Бонус события
+DeckEdit_UpperArrowValue,▲{0}
+DeckEdit_SkillLvValue,Ур. {0}
+DeckEdit_EventPt,Евент. очки
+DeckEdit_IconBonus,Миракул Стар
+DeckEdit_StatusTotalAttention,Общая сила группы включает в себя бонус от центрального навыка.
+DeckEdit_PositionEditMessage,"Перетащите Айдлов, чтобы изменить их расположение."
+DeckEditCharaSelect_PhotoTotalParam,Общая сила Айдлов
+LiveMission_DialogTitle,Список наград за выполнение задания {0}.
+LiveMission_DialogScoreRank,Ранг по очкам
+LiveMission_DialogComboCount,Комбо
+LiveMission_DialogFullCombo,Полный комбо
+LiveMission_DialogClearCount,Кол-во прохождений
+ShopCommon_FreeGem,Бесплатные Loveca
+ShopCommon_ChargeGem,Премиум Loveca
+ShopCommon_Price,Цена
+GemShop_FundSettlement,Закон о расчетах<br>и платежах
+GemShop_ServiceGuidelines,Руководство по внутриигровой валюте
+GemShop_MedalGuidelines,Пользовательское соглашение Loveca
+GemShop_SpecifiedCommercialTransactions,Особые правила торговли<br>в соответствии с законом
+GemShop_SpecifiedCommercialTransactions_DialogTitle,Отображение по закону о спец. торговле
+GemShop_FundSettlement_DialogTitle,Оплата по закону о расчетах
+GemShop_SpecifiedCommercialTransactions_FundSettlement,Закон о торговле/закон о расчётах
+GemShop_BuyComplete,Покупка завершена
+GemShop_BuyCompleteMessage,Вы приобрели {0} за {1}.
+GemShop_Confirm,Подтвердить
+GemShop_BuyStaminaMessage,"Использовать {0} Loveca, чтобы восстановить {1} LP? <br> Вы уверены?"
+GemShop_BuyStaminaCompleteTitle,Окно восстановления LP
+GemShop_BuyStaminaCompleteMessage,LP восстановлено на {0}!
+GemShop_AgeConfirm,Подтверждение возраста
+GemShop_AgeMessage,Введите дату рождения для подтверждения возраста.
+GemShop_AgeNote,*Дата рождения не может быть изменена позднее.*
+GemShop_AgeMaxMessage,※16 лет и младше: до <br> в месяц (с налогом). ※От 16 до 18 лет: до <br> в месяц (с налогом). ※18 лет и старше: ограничений нет.
+GemShop_AgeNote1617,16–17 лет:
+GemShop_AgeNote16,Младше 16 лет:
+GemShop_LimitOverMessage,"Достигнут лимит доступной суммы, покупка в этом месяце невозможна."
+GemShop_LimitAlertOver,Вы уже превысили лимит покупок Loveca за этот месяц на <br>{0} йен.
+GemShop_LimitAlert,"Эта покупка приведёт к тому, что ваш месячный лимит на <br> Loveca превысит {0} иен."
+GemShop_PurchaseConfirm,Вы хотите приобрести {0}?
+GemShop_AgeSelectedTitle,Подтверждение возраста
+GemShop_AgeSelectedContents,Ваша дата рождения указана верно?
+GemShop_AgeSelectedConfirm,*Дата рождения не может быть изменена позднее.*
+GemShop_AgeDecisionContents,Возраст подтверждён
+GemShop_AgeDecisionContentsFormat,Возраст подтверждён
+GemShop_AgeDecisionLimitLabel,До {0}: ежемесячно до ¥{1}
+GemShop_AgeDecision,Настройки завершены.
+GemShop_Monthly,Ежемесячно
+GemShop_AlertMessage,В этом месяце вы потратили {0} иен. Продолжить покупку?
+GemShopItem_LimitBuyAmount,Осталось: {0}
+GemShopItem_LimitDate,До {0}
+GemShopItem_Amount,{0} шт.
+GemShopItem_LimitAmount,Осталось {0}
+GemShopItem_GemAmount,Loveca {0} шт.
+GemShopItem_Omake,<br> <size=22> <color=#F93981> + Бесплатные Loveca {0} шт.
+GemShopItem_Charge,Платные Loveca ×{0}
+GemShopItem_Free,Бесплатные Loveca ×{0}
+GemShopItem_Money,{0} йен
+GemShopItem_Increase,Бонус {0}
+GemShopItem_Period,Период продажи
+GemShopItem_Season,{0} — {1}
+GemShopItem_TicketInfo,"В дни, когда вы не заходили в игру, Loveca вам начисляться не будут <br>. Другие предметы будут отправлены в раздел «Подарки» <br>. При входе в игру они будут начислены напрямую и отобразятся в вашем инвентаре <br>. Вы сможете получать бонусы за вход в игру с 0:00 следующего дня после покупки."
+GemShopItem_TicketBuyInfo,<color=#D73C55>Куплено </color> <br>Срок действия: {0}
+GemShopItem_TicketRemainPresent,"В день можно получить <br>, осталось {0} раза, до следующего получения — <color=#D73C55> </color>."
+GemShopItem_ChargeGemComfirm,Использовать {0} Loveca для покупки {1} <br> Этот товар можно приобрести только за платные Loveca.
+GemShopItem_FreeGemComfirm,Использовать {0} Loveca для покупки {1}. <br> Сначала будут использованы бесплатные Loveca.
+GemShopItem_SubscriptionButton_MembersCard,Показать карту участника
+GemShopItem_SubscriptionButton_Buy,Купить
+GemShopItem_SubscriptionButton_Info,Подробнее
+GemShopItem_Membership_CardNo,Номер карты
+GemShopItem_Membership_CardStart,Дата вступления
+GemShopItem_Membership_CardChangeButton,Дизайн<br>Изменить
+GemShopItem_Membership_WallpaperTitle,Изменить дизайн членского билета
+GemShopItem_Membership_WallpaperAlert,"Внимание: изменения не вступят в силу, пока вы не нажмете кнопку «ОК»."
+GemShopItem_Membership_WallpaperSelected,Выбрано
+GemShopItem_Membership_WallpaperUsing,В использовании
+GemShopItem_Membership_WallpaperDecide,Подтвердить
+GemShopItem_Membership_WallpaperNotice,Дизайн членского билета изменён.
+GemShopItem_Membership_InfoTitle,Подробнее
+GemShopItem_Membership_InfoTabSummary,Обзор
+GemShopItem_Membership_InfoTabLoginBonus,Бонус за вход
+GemShopItem_Membership_InfoTabMission,Задание
+GemShopItem_Membership_InfoSummaryTitle,Информация о MIRACLE Pass
+GemShopItem_Membership_InfoSummaryUnsubscribe,Отменить подписку
+GemShopItem_Membership_InfoLoginBonusTitle,Специальный бонус за вход для участников MIRACLE Pass!
+GemShopItem_Membership_InfoLoginBonusDescription,"Присоединитесь к MIRACLE Pass и получите награды! Войдите в игру 20 дней, чтобы получить до 1000 Loveca бесплатно!<br>※Награду можно получить на следующий день после присоединения."
+GemShopItem_Membership_InfoLoginBonusDayCount,Дней
+GemShopItem_Membership_InfoLoginBonusDayCountFormat,День {0}
+GemShopItem_Membership_InfoLoginBonusGotItem,Полученные предметы
+GemShopItem_Membership_InfoLoginBonusStatus,Статус получения
+GemShopItem_Membership_InfoLoginBonusClear,Получено
+GemShopItem_Membership_InfoLoginBonusNotClear,Не выполнено
+GemShopItem_Membership_InfoMissionTitle,Специальное задание для подписчиков MIRACLE Pass!
+GemShopItem_Membership_InfoMissionDescription,"Все задания выполнены — получите до 1500 Loveca! <br>Пожалуйста, завершите их за 48 часов до окончания периода."
+GemShopItem_Membership_InfoMissionClearCount,Кол-во прохождений песни
+GemShopItem_Membership_InfoMissionClearCountFormat,Очищено {0} раз
+GemShopItem_Membership_InfoMissionGotItem,Полученные предметы
+GemShopItem_Membership_InfoMissionStatusProgress,В процессе
+GemShopItem_Membership_InfoMissionStatusClear,Выполнено
+GemShopItem_Membership_InfoMissionStatusReceived,Награда получена
+GemShopItem_Membership_InfoMissionButton,К заданию
+ConfirmMedal_Gem,Проверка Loveca
+ConfirmMedal_Log,Детали Loveca
+ConfirmMedal_ChargeGemReason,Вы приобрели [{0}].
+DeckConfirm_LiveStartWarning,Для начала Live необходимо назначить 9 Айдл в группу.<br>Отредактируйте Состав.
+DeckConfirm_StaminaUse,Использовать {0}
+DeckConfirm_AutoBurstDialogTitle,Настройка авто-билетов на использование
+DeckConfirm_LiveBurstDialogTitle,Настройка расхода LP
+DeckConfirm_UseBurstDialogTitle,Настройки используемого баста.
+DeckConfirm_UseBurstDialogBurstSetting,Основные настройки использования бастов.
+DeckConfirm_UseBurstDialogThisTimeBurst,Используемый барс в этот раз
+DeckConfirm_UseBurstDialogAutoDescription,Использование пропуска переводит игру в режим быстрого прохождения.
+DeckConfirm_UseBurstDialogBurstWarning,"※Сначала будут использованы пропуска с более коротким сроком действия.<br>※Пропуска можно использовать только для песен и уровней сложности, которые уже пройдены."
+DeckConfirm_UseBurstDialogAutoWarning,"※Сначала будут использованы пропуска с более коротким сроком действия.<br>※Пропуска можно использовать только для песен и уровней сложности, которые уже пройдены."
+DeckConfirm_NoBurst,Не приобретено
+DeckConfirm_CanNotUsedNoBurst,"Недоступно, т.к. не приобретено."
+DeckConfirm_CanNotUsedNoClear,"Нельзя использовать, пока не пройдена песня."
+DeckConfirm_CanNotUsedNoClearShort,"Нельзя использовать, пока не пройдено."
+DeckConfirm_LiveParam,Live-параметры
+DeckConfirm_AutoParam,Автоматический режим
+DeckConfirm_EventPointGet,Евент. очки
+DeckConfirm_EventGachaPointGet,Набор (боксы) Получить
+DeckConfirm_ItemAndExpGet,Награда и опыт
+DeckConfirm_Magni,x
+DeckConfirm_StaminaBoostNotSelect,Установить
+DeckConfirm_StaminaBoostSelect,Настройка...
+DeckConfirm_StaminaBoostWarning,"※Если количество для использования меньше установленного, будут использованы все имеющиеся предметы."
+DeckConfirm_StaminaBoostAutoWarning,※В автоматическом режиме не учитываются высокие результаты и достижения для получения наград.
+DeckConfirm_Note,"LP равен 0, поэтому <br>пропустить невозможно<br>. Если хотите восстановить LP, выберите <br>способ восстановления."
+DeckConfirm_OptionButton,Опции
+DeckConfirm_HealthyBoostButton,Очки LP
+DeckConfirm_StartButton,Начать Live
+DeckConfirm_AutoOn,Авто: ВКЛ
+DeckConfirm_AutoOff,Авто: ВЫКЛ
+DeckConfirm_Passive,Пассивные навыки
+DeckConfirm_LiveRole,Live-позиция
+DeckConfirm_SupportRole,Позиция поддержки
+DeckConfirm_EventBonusTotalPointUp,Бонус участницы (общая сила айдола)
+DeckConfirm_EventBonusEventPointUp,(бонусные очки)
+DeckConfirm_EventBonusNoRate,---
+DeckConfirm_EventBonusRate,{0}%
+DeckConfirm_EventBonusRateUp,Вверх!
+DeckConfirm_EventBonusInvalidMessage1,Бонус события
+DeckConfirm_EventBonusInvalidMessage2,Участниц для бонуса нет.
+DeckConfirm_LiveBonusTypePointUp,Бонус типа (общая сила айдолов)
+DeckConfirm_LiveBonusRate,{0}%x {1} шт.
+DeckConfirm_LiveBonusRateUp,Вверх!
+DeckConfirm_EventCandyAmount,{0} / {1}
+DeckConfirm_LiveConditionButton,Условия для Live
+DeckConfirm_LiveConditionDialogTitle,Условия Live
+DeckConfirm_LiveConditionDialogCondition,Условия участия в Live
+DeckConfirm_LiveConditionDialogRule,Правила Live
+DeckConfirm_LiveConditionDialogErrorMessage,"Условия участия в <color=#ff0000>Live</color> не выполнены, поэтому вы не можете участвовать <br>."
+Story_MainStoryFirstSeason,Первый сезон
+Story_MainStorySecondSeason,Второй сезон
+Story_SeasonChapterNumberFormat,№ {0} - {1}
+Story_ChapterNumberFormat,№{0}
+Story_TitleWithChapterNumberFormat,"{0}, эпизод {1}: «{2}»"
+Story_ReleaseTitleWithChapterNumberFormat,{0}<br> Глава {1} «{2}»
+Story_StoryTopHeaderMainTitle,История
+Story_StoryTopHeaderSubTitle,История
+Story_MainStoryListHeaderMainTitle,Выбор истории
+Story_MainStoryListHeaderSubTitle,Основная история
+Story_SubStoryTopHeaderMainTitle,Выбор группы
+Story_SubStoryTopHeaderSubTitle,Доп. сюжеты
+Story_SubStoryListHeaderMainTitle,Выбор истории
+Story_SubStoryListHeaderSubTitle,Доп. сюжеты
+Story_EventStoryTopHeaderMainTitle,Выбор события
+Story_EventStoryTopHeaderSubTitle,История события
+Story_EventStoryListHeaderMainTitle,Выбор истории
+Story_EventStoryListHeaderSubTitle,История события
+Story_CardStoryTopHeaderMainTitle,Выбор участницы
+Story_CardStoryTopHeaderSubTitle,История
+Story_CardStoryListHeaderMainTitle,Выбор истории
+Story_CardStoryListHeaderSubTitle,История
+StoryPart_NumberFormat,{0}-я глава
+StoryPart_TitleWithNumberFormat,{0} глава «{1}»
+StoryPart_TitleWithNumberTranslucentFormat,<color=#804B413C> Эпизод {0}: «{1}» </color>
+StoryPart_TitleListWithNumberFormat,{0} – {1}
+StoryPart_SeasonChapterNumberFormat,№{0}–{1}–{2}
+StoryPart_ChapterNumberFormat,№ {0} - {1}
+StoryPart_TitleWithChapterNumberFormat,{0} глава «{1}»
+StoryPart_RankReleaseDetailFormat,Ранг: {0}
+StoryPart_GroupRankReleaseDetailFormat,Общий групповой ранг до {0}.
+StoryPart_LiveReleaseDetailFormat,"{0}, набрав <br> очков или больше ({1})."
+StoryPart_MissionReleaseDetailFormat,Миссию «{0}» выполнить.
+StoryPart_ReleaseInfo,Играйте и повышайте рейтинг!
+StoryPart_NotRelease,Необходимо прочитать предыдущую или следующую главу.
+SubStory_GroupRankRewardDialogTitle,Список групповых наград
+SubStory_GroupRankRewardDialogUntilRankUp,До повышения ранга
+SubStory_GroupRankRewardDialogTotalExp,Общий опыт
+SubStory_GroupRankRewardDialogRank,Ранг
+SubStory_GroupRankRewardDialogMax,МАКС.
+ConfirmMedal_DialogTitle,Проверка Loveca
+ConfirmMedal_ChargeMedal,Платные
+ConfirmMedal_FreeMedal,Бесплатно
+ConfirmMedal_TotalMedal,Всего Loveca
+ConfirmMedal_Warning,Бесплатные Loveca будут использованы в первую очередь.
+ConfirmMedal_UpdateHistory,Обновить
+ConfirmMedal_HistoryTitle,Детали Loveca
+ConfirmMedal_UsedHistoryTitle,История использования
+ConfirmMedal_AcquiredHistoryTitle,Полученные награды
+ConfirmMedal_HistoryDate,Дата использования
+ConfirmMedal_HistoryReason,Назначение
+ConfirmMedal_HistoryNote,История получения и использования Loveca отображается максимум за 3 месяца.
+ConfirmMedal_HistoryFreeMedal,Бесплатно
+ConfirmMedal_HistoryChargeMedal,Платные
+Ornament_EffectValueFormat,<color=#D73C55> {0:0.##}% </color>
+Ornament_UnlockDetail_GroupLevelReward,Разблокируется при достижении {0}группового ранга {1}.
+Ornament_UnlockDetail_StoryPartReward,Открывается при просмотре <br> {0} <br>.
+Ornament_UnlockDetail_MissionReward,Открывается при выполнении миссии <br> {0} <br>.
+Ornament_PlaceButton,Установить
+Ornament_CannnotPlace,Нельзя установить.
+Ornament_TalkUnlockLevel,Разблокируется на уровне <color=#D73C55> {0} </color>.
+Ornament_TeaSetLevelUpConditionLabel,▼Условия повышения уровня
+Ornament_ReplaceDialog_OrnamentType,★{0}★
+Ornament_EventEffectDetail,"При прохождении «{3}» в «{2}», {0}<br> (кроме указанных Live-шоу, {1})."
+StaminaCharge_NoChargeItem,※У вас нет LP-конфет.
+StaminaCharge_RecoveryConfirmDialogTitle,Восстановление LP?
+StaminaCharge_RecoveryConfirmDialogMessage,"Вы хотите восстановить LP на {0}, используя выбранный предмет?"
+StaminaCharge_RecoveryConfirmDialogWarningNoItem,У вас нет предметов для восстановления LP.
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit1,"※Если текущее значение LP превышает максимальное, восстановление LP невозможно."
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit2,"※LP, превысив 999, будет отображаться как 999+."
+StaminaCharge_Special_Commercial_Code,Закон о торговле/закон о расчётах
+StaminaCharge_RecoveryFrequency,Восстановление {0}
+StaminaCharge_StaminaLabel,Очки LP
+StampTab_DefaultStamp,Основные стикеры
+StampTab_RareStamp,Особые стикеры
+StampTab_HistoryStamp,История
+StampTab_FavoriteStamp,В избранное
+NotExistsStamp_DefaultStamp,Обычных наклеек нет!
+NotExistsStamp_RareStamp,У вас нет редкого стикера.
+NotExistsStamp_HistoryStamp,История использования отсутствует.
+NotExistsStamp_FavoriteStamp,У вас нет избранных штампов.
+NotExistsStamp_RareStampSub,Редкие штампы можно получить на мероприятиях и т. п.
+NotExistsStamp_HistoryStampSub,Использование стикера сохраняет его в истории.
+NotExistsStamp_FavoriteStampSub,На экране выбора Live можно установить любимые штампы.
+MemberIllustrateList_SelectCharaMessage,Выберите участницу!
+MemberCharaTop_CostumeChange,Сменить костюм
+MemberCharaTop_Profile,Профиль
+MemberCharaTop_AriaTalk,Мини-история
+MemberCharaTop_Album,Альбом
+LiveSelect_UseStaminaBoost,{0} с бонусом к LP
+LiveSelect_NoneStaminaBoost,для Live
+LiveSelect_Note,LPを回復する場合は、<br>回復方法を選択してください
+LiveSelect_Title,Проверка LP
+LiveSelect_SettingStaminaNum,Использовать LP
+LiveSelect_HasStaminaNum,Кол-во
+LiveSelect_NoItem,Не хватает
+LiveSelect_PenaltyTitle,Ограничение функций
+LiveSelect_PenaltyMessage,"В совместном Live-режиме обнаружено поведение, мешающее другим игрокам <br>. Временно введены ограничения <br>. Пожалуйста, подождите до снятия ограничений."
+LiveSelect_PenaltyUnlockTime,до снятия ограничений
+LiveSelect_Belonging,Предметы
+LiveSelect_Medal,Loveca
+LiveSelect_ConsumEventStamina,Использовать Миракл Стар {0} шт.
+LiveSelect_EventTerm,Период проведения:
+LiveSelect_EventRankingAll,Всего
+LiveSelect_EventRankingGroup,Группы
+LiveSelect_EventRank,Место
+LiveSelect_HasEventCandy,Содержит Миракул Стар
+LiveSelect_HasEventPick,В наличии
+LiveSelect_HasEventTicket,В наличии
+LiveSelect_EventCurrencyCandy,шт.
+LiveSelect_EventCurrencyPick,шт.
+LiveSelect_EventCurrencyTicket,шт.
+LiveSelect_EventAcquisitionCandy,（Дамми）Можно получить!
+LiveSelect_EventAcquisitionPick,（Дамми）Можно получить!
+LiveSelect_EventAcquisitionTicket,（Дамми）Можно получить!
+LiveSelect_EventCandyInfo,Собирайте и играйте в событийном Live!
+LiveSelect_EventPickInfo,（Дамми）соберите и отправляйтесь в обменный пункт!
+LiveSelect_EventTopPickInfo,Проверьте бинго-карту!
+LiveSelect_EventTicketInfo,（Дамми）соберите и попробуйте удачу!
+LiveSelect_EventTopTicketInfo,Проверьте кооперативные миссии!
+LiveSelect_TeacherLive,(Дамми) Live
+LiveSelect_EventTermTitle,Период проведения:
+LiveSelect_EventResultTermTitle,Период объявления результатов:
+LiveSelect_EventOpenLabel,Ивент проводится.
+LiveSelect_EventCloseLabel,Завершение события
+LiveSelect_EventRemainDay,До окончания события осталось {0} дней.
+LiveSelect_EventRemainTime,До окончания события осталось {0}:{1:D2}
+LiveSelect_EventRankingAggregate,Рейтинг собирается...
+LiveSelect_Aggregate,Подготовка данных...
+LiveSelect_NowRankingAgreegating,Рейтинг сейчас собирается.
+LiveSelect_EventRewardGetTime,Период получения наград: {0}
+LiveSelect_EventClose,Мероприятие завершено.
+LiveModeSelect_SoloLiveButton,Свободный Live
+LiveModeSelect_MultiLiveButton,Кооперативный Live
+LiveModeSelect_MultiUnitSettings,Кооперативный<br>состав
+Migration_TakeOver,Перенос данных
+Migration_IssueInfo,"Вы можете перенести данные, выполнив следующие действия по подготовке к переносу данных, чтобы сохранить их при смене устройства.<br>Это также можно использовать в качестве меры предосторожности против потери данных при удалении приложения."
+Migration_IssueInfoNote,* Перед началом переноса данных обязательно ознакомьтесь с инструкцией.
+Migration_Details,Детали переноса данных
+Migration_IssueNote,"При переносе данных между разными ОС платные Loveca будут конвертированы в бесплатные. <br> При переносе данных между устройствами с одной и той же ОС данные будут перенесены без изменений. <br> При переносе данных на другое устройство или в другую учетную запись магазина, пожалуйста, отмените подписку MIRACLE Pass заранее. <br> Если вы подписаны на MIRACLE Pass несколько раз, вы не сможете получить бонусы повторно."
+Migration_IssueNote2,"При переносе данных игра на этом устройстве будет удалена, а данные из предыдущей игры будут перезаписаны. <br> При переносе между разными ОС платные Loveca преобразуются в бесплатные. <br> При переносе между устройствами с одной и той же ОС данные переносятся без изменений. <br> Перед переносом на другое устройство или в другую учетную запись магазина, пожалуйста, отмените подписку MIRACLE Pass самостоятельно. <br> Если вы несколько раз подписались на MIRACLE Pass, вы не сможете получить бонусы повторно."
+Migration_Process,Детали переноса данных
+Migration_Setting,Настройки переноса данных
+Migration_SettingsInfo,Установите пароль для переноса данных.
+Migration_ID,ID для переноса данных
+Migration_Password,Пароль
+Migration_PasswordNote,* От 8 до 32 символов (латиница и цифры)
+Migration_DispPassword,Показать вводимый пароль
+Migration_SettingsButton,Настроить
+Migration_Complete,Перенос данных завершен.
+Migration_CompleteInfo,"Подготовка к переносу данных завершена. <br> После загрузки приложения на устройство, куда вы хотите перенести данные, введите ID и пароль для переноса в меню <br> «Перенос данных» в правом верхнем углу экрана заголовка."
+Migration_IDCopy,Скопировано
+Migration_CompleteNote,"<br>Пожалуйста, не сообщайте эту информацию третьим лицам. <br>Сохраните ID и пароль в заметках или сделайте скриншот. Пароль можно будет изменить позже."
+Migration_Migration,Выполнить перенос данных
+Migration_MigrationInfo,Выберите способ переноса данных.
+Migration_MigrationInfo2,Введите ID и пароль для переноса данных.
+Migration_MigrationInfo3,"Вы можете перенести данные при смене устройства, выполнив следующие настройки.<br>Также это можно использовать в качестве меры предосторожности против потери данных при удалении приложения."
+Migration_MigrationNote,<color=#C12424>При переносе между разными ОС платная Loveca конвертируется в бесплатную. <br>При переносе внутри одной ОС данные сохраняются без изменений. <br>При переносе на другую ОС или аккаунт другого магазина заранее отмените подписку MIRACLEパス. <br>При наличии нескольких/дублирующих подписок MIRACLEパス дополнительные бонусы не начисляются. </color>
+Migration_MigrationNote2,"Выполнение переноса данных удалит данные игры на этом устройстве и перезапишет их данными из исходной игры. <br> <color=#C12424> При переносе между разными ОС платные Loveca будут преобразованы в бесплатные. <br> При переносе внутри одной ОС они останутся прежними. <br> Перед переносом на другую ОС или в другой аккаунт магазина, пожалуйста, отмените подписку MIRACLE Pass самостоятельно. <br> Если у вас несколько/дублирующихся подписок MIRACLE Pass, вы не сможете получить бонусы дважды. </color>"
+Migration_MigrationNoteConfirm,"Выполнение переноса данных удалит данные игры на этом устройстве и перезапишет их данными из исходной игры. <br> <color=#C12424> При переносе между разными ОС платные Loveca будут преобразованы в бесплатные. <br> При переносе внутри одной ОС они останутся прежними. <br> Перед переносом на другую ОС или в другой аккаунт магазина, пожалуйста, отмените подписку MIRACLE Pass самостоятельно. <br> Если у вас несколько/дублирующихся подписок MIRACLE Pass, вы не сможете получить бонусы дважды. </color>"
+Migration_MigrationConfirm,Подтверждение переноса данных
+Migration_MigrationData,Данные для переноса
+Migration_MigrationDeleteData,Данные с этого устройства
+Migration_UserID,ID пользователя
+Migration_UserName,Имя пользователя
+Migration_Rank,Ранг пользователя
+Migration_ChargeMedal,Премиум Loveca
+Migration_FreeMedal,Бесплатные Loveca
+Migration_MigrationButton,Данные перенести
+Migration_MigrationFinalConfirm,Финальное подтверждение
+Migration_MigrationFinalConfirmInfo,"При переносе данных данные игры на этом устройстве будут удалены, <br>а данные с исходного устройства перезапишутся<size=29><br><br><color=#C12424>При переносе между разными ОС платная Loveca будет конвертирована в бесплатную Loveca<br>При переносе внутри одной ОС данные переносятся без изменений<br>При переносе на другую ОС или аккаунт магазина необходимо заранее отменить подписку MIRACLEパス<br>В случае множественной или дублирующейся подписки на MIRACLEパス дополнительные бонусы не начисляются</size></color>"
+Migration_MigrationFinalConfirmNote,<color=#C12424>Вы действительно хотите выполнить перенос данных?</color>
+MemberList_DialogTitle,Изменить любимую участницу?
+MemberList_DialogConfirm,Вы хотите изменить свою любимую участницу?
+MemberList_ChangeButton,Да
+MemberList_PhotoBoxButton,Запасные комнаты
+MemberList_TypeBonus,Бонус типа
+MemberList_MemberBonus,Бонус участницы
+MemberList_TypeAndMemberBonus,Тип и бонус участницы
+MemberList_FilteringButton,Фильтр
+MemberList_SortButton,Сортировка
+MemberList_ThumbnailSize,Размер миниатюры
+MemberList_Change,Изменить
+MemberList_Small,Маленький
+MemberList_Big,Больш.
+MemberList_SizeChangeDialogTitle,Размер миниатюр
+MemberList_SizeChangeDialogMessage,Выберите желаемый размер отображения миниатюр.
+Option_ResetToDefaultButton,Настройки по умолчанию
+Option_LiveScreenPreview,Предварительный просмотр Live-экрана
+Option_Live_Title,Настройки Live
+Option_Live_ConfirmBeforeLive,Показывать опции перед Live?
+Option_Live_RhythmIconSpeed_Title,Скорость ритм-иконок
+Option_Live_RhythmIconSize_Title,Размер иконок ритма
+Option_Live_LaneLength,Позиция ритм-иконок
+Option_Live_ComboPosition,Позиция отображения комбо
+Option_Live_InputResultPosition,Позиция отображения результатов.
+Option_Live_SkillEffectTextView,Отображение эффектов навыков
+Option_Live_CenterIcon,Уменьшить центр. иконку
+Option_Live_PositonCenter,По центру
+Option_Live_PosiionUpper,Сверху
+Option_Live_BluetoothConnectionState_Title,Bluetooth
+Option_Live_BluetoothConnectionState_On,Подключение
+Option_Live_BluetoothConnectionState_Off,Не подключено
+Option_Live_TapTiming_Title,Настройка касаний
+Option_Live_TapTiming_Left_Title,Экран слева
+Option_Live_TapTiming_Right_Title,Экран справа
+Option_Live_TapTiming_Center_Title,Центральный значок
+Option_Live_TapTiming_Left_Button,Сместить влево
+Option_Live_TapTiming_Right_Button,По правому краю
+Option_Live_TapTiming_Normal_Title,Обычный режим
+Option_Live_TapTiming_Bluetooth_Title,При подключении Bluetooth™
+Option_Live_TapTiming_Button,Настройка касаний
+Option_Live_TapTiming_TestLive,Тестовый Live
+Option_Live_LongPressLineDepth_Title,Толщина линии удержания
+Option_Live_SameTimePressLine_Title,Одновременные линии нажатия
+Option_Live_SliderSameTimePressLine_Title,Отображение линии для одновременного нажатия на иконки свинга.
+Option_Live_Skill_Effect_Title,Эффект спец. атаки
+Option_Live_TapTiming_Effect_Title,Отображение времени нажатия
+Option_Live_RhythmIconMovePos_Title,Замедление ритм-иконок
+Option_Live_RhythmIconMovePos_Type1,В конце замедлить
+Option_Live_RhythmIconMovePos_Type2,Первоначальное замедление
+Option_Live_ComboUITransparent_Type3,Постоянная скорость
+Option_Live_ComboTransparent,Размер отображения комбо
+Option_Live_ComboSize,Размер отображения комбо
+Option_Live_InputResultTransparent,Размер отображения результатов
+Option_Live_InputResultSize,Размер отображения результатов
+Option_Live_RhythmIconPos,Высота ритм-иконки
+Option_Live_RhythmIconStartPos,Высота центральной иконки
+Option_Live_FpsSetting,FPS во время Live
+Option_Live_Mirror_Title,Отразить ноты
+Option_Live_LaneEffect_Title,Эффекты дорожек
+Option_Live_FillsUpLivePosition_Title,Добавить участницу в группу.
+Option_Live_Bluetooth_Caution,Подключение Bluetooth-устройств:<br>выполняйте в соответствии с настройками каждого устройства.
+Option_Live_Movie_Disp,Видео Live
+Option_Live_Movie_Brightness,Яркость видео Live
+Option_Live_Movie_Caution,По умолчанию [ВКЛ].
+Option_LiveSkin_Title,Настройки иконок Live
+Option_LiveSkin_Lane_Title,Линия нот и касания
+Option_LiveSkin_LaneBrightness_Title,Яркость линий
+Option_LiveSkin_TapEffect_Title,Эффект нажатия
+Option_LiveSkin_RhythmIcon_Title,Дизайн нот
+Option_LiveSkin_SE_Title,Звук нажатия
+Option_LiveSkin_SE_TapButton,Тест звука нажатия
+Option_LiveSkin_SE_FlickButton,Тест звука свайпа
+Option_LiveProduction_Title,Настройки звука
+Option_LiveProduction_Production_Title,Live-эффекты
+Option_LiveProduction_ActionMode_Title,Режим работы
+Option_LiveProduction_ActionMode_Regular,Обычный
+Option_LiveProduction_LiveEffect,Эффекты Live
+Option_LiveProduction_ActionMode_Light,Лёгкий
+Option_LiveProduction_ActionMode_Full,Высокое качество
+Option_LiveProduction_LiveMonitor,Монитор Live
+Option_LiveProduction_TapEffectSize,Размер эффекта касания
+Option_LiveProduction_MemberCutIn_Title,(Дамми)
+Option_LiveProduction_ShowSkillEffect_Title,Отображение эффектов навыков
+Option_LiveProduction_PlayClimaxMovie_Title,(Дамми) Эффекты
+Option_LiveProduction_Volume_Title,Громкость Live
+Option_LiveProduction_Volume_Music,Музыка
+Option_LiveProduction_Volume_SE,Звуки окружения
+Option_LiveProduction_Volume_Tap,Звуки управления
+Option_LiveProduction_Volume_Voice,Вокал
+Option_Volume_Title,Настройки звука
+Option_Volume_LiveSettings,Настройки звука во время Live
+Option_Volume_MusicVolume,Музыкальная громкость
+Option_Volume_SEVolume,Звуки окружения
+Option_Volume_OtherSettings,Другие настройки звука
+Option_Volume_BGMVolume,BGM громкость
+Option_System_Title,Системные настройки
+Option_System_Volume_Title,Системный звук
+Option_System_Volume_BGM,Музыкальная громкость
+Option_System_Volume_SE,Звуки окружения
+Option_System_Volume_Voice,Вокал
+Option_System_Download_Title,Загрузка
+Option_System_Download_Button,Предварительная<br>загрузка
+Option_System_Download_LiveMember,Анимация участниц во время Live
+Option_System_Notification_Title,Настройки уведомлений
+Option_System_Notification_Stamina_Full,Полное восстановление
+Option_System_Notification_Midnight,Ночные уведомления
+Option_System_Notification_Detail,"Обратите внимание, что если уведомления отключены в настройках устройства, вы не будете получать уведомления от приложения.<br>Ночное время: (0:00–5:59)."
+Option_System_Alert_Title,Настройки оповещений
+Option_System_Alert_UseTooMuch,Предупреждение о лимитах расходов
+Option_System_Alert_Detail,"При превышении месячного лимита в 100 000, будет показано окно подтверждения."
+Option_System_Others_Title,Другие настройки
+Option_System_FixScreenDirection,Фикс. поворот экрана
+Option_System_StaminaConfirm,Недостаточно LP?
+Option_System_AutoBurstConfirm,Пропуск билетов закончился?
+Option_System_BatteryConfirm,Предупреждение о батарее
+Option_System_BluetoothConfirm,Подтверждение подключения Bluetooth™
+Option_System_HomeSceneMoviePlay,Видео на главном экране
+Option_System_IgnoreGachaUrEffect,Не пропускать кат-сцены UR.
+Option_System_Live2D_Character_Title,Отображаемая участница
+Option_System_Live2D_Character_UseRecommend,Любимая участница
+Option_System_Live2D_Character_UseDeck,Групповые участницы
+Option_System_Live2D_Character_Detail,Список участниц обновляется при смене экрана.
+Option_System_FpsToggle,FPS
+PresentBox_Scroll_AcquiredDateTimeLabel,Получено
+PresentBox_Scroll_ReceivedDateTimeLabel,Получено
+PresentBox_Scroll_ExpireDateTimeLabel,Срок получения
+PresentBox_Tab_Receivable,Не получено
+PresentBox_Tab_Received,Получено
+PresentBox_Title,Подарок
+PresentBox_MainTitle,Список подарков
+PresentBox_SubTitle,Подарок
+PresentBox_Receive,Получить
+PresentBox_AllReceive,Получить всё
+PresentBox_EmptyReceivable,Подарков для отображения нет.
+PresentBox_EmptyReceived,Подарков для отображения нет.
+PrivateEnter_Title,Поиск Live
+PrivateEnter_ConfirmTitle,Подтверждение участия в Live
+PrivateEnter_Message,Введите 6-значный Live ID.
+PrivateEnter_RoomID,ID Live
+PrivateEnter_EnterButton,Войти
+PrivateEnter_SearchButton,Поиск
+PrivateEnter_ConfirmRoom,Кооперативный Live {0}
+PrivateEnter_ConfirmEventRoom,Событие (демо) Live
+PrivateEnter_ConfirmRoomID,ID комнаты: {0}
+PrivateEnter_ConfirmJoinMessage,Найден Live с совпадающим ID.<br>Вы хотите присоединиться к Live?
+PrivateEnter_ConfirmJoinNotConditionMessage,Вы не соответствуете условиям для участия в этом Live <br> <br> Условия участия в Live <br> {0}
+PrivateEnter_ConfirmJoinNotTotalPowerMessage,"Не хватает общей силы, поэтому вы не можете участвовать."
+PrivateEnter_ConfirmUserName,Имя пользователя
+PrivateCreate_Title,Создание Live
+PrivateCreate_RoomCompleteTitle,Создание Live завершено
+PrivateCreate_Message,Введите не более {0} символов!
+PrivateCreate_RoomTypeTitle,Награда за Live
+PrivateCreate_RoomTypeNormal,Обычный
+PrivateCreate_RoomTypeSpecial,День недели
+PrivateCreate_RoomConditionTitle,Название Live
+PrivateCreate_RoomConditionFree,СВОБОДНЫЙ ДОСТУП
+PrivateCreate_RoomConditionBasic,ОБЫЧНЫЙ ПАСС
+PrivateCreate_RoomConditionElite,ЭЛИТНЫЙ ПАСС
+PrivateCreate_RoomConditionMaster,МАСТЕР ПАСС
+PrivateCreate_RoomIDTitle,ID Live
+PrivateCreate_CommentTitle,Комментарий
+PrivateCreate_CommentInput,Введите текст (не более 10 символов)
+PrivateCreate_IDCopyButton,Копировать ID
+PrivateCreate_CreateButton,Создать
+PrivateCreate_EnterButton,Войти
+PrivateCreate_RoomIdCopy,Live ID скопирован
+PrivateCreate_ConfirmMessage,Live создан.<br>Хотите присоединиться к Live?
+FriendInviteReceive_Title,Пригласить друзей
+FriendInviteReceive_Check,Проверка приглашения друзей...
+FriendInviteReceive_NotMessage,Сейчас нет приглашений в совместный Live.<br>Вы можете создать приватный Live и пригласить друзей.
+FriendInviteSend_Title,Пригласить друзей
+FriendInviteReceive_SubTitle,"Вам отправлен запрос на совместное участие в Live от друга.<br>Выберите Live, в котором вы хотите участвовать."
+FriendInviteSend_Message,Отправить приглашение всем друзьям?
+FriendInviteSend_CheckMessage,Отправить только избранным друзьям
+DeckTop_DeckEditTag,Состав<br>группы
+DeckTop_CostumeTag,Сменить костюм
+DeckTop_PracticeTag,Урок
+DeckTop_SkillPracticeTag,Навыки<br>Тренировка
+DeckTop_TrainingTag,Пробуждение
+DeckTop_MemberListTag,Айдлы<br>Список
+DeckTop_ExchangeTag,Обмен
+DeckTop_CharacterIllustrateTag,Справочник участниц
+DeckCharaSelect_LeaderChangeButton,Назначить лидера
+DeckCharaSelect_ParamNothing,---
+DeckCharaSelect_SubDeckNoSkill,У айдлов из подгруппы навыки не активируются.
+SortDialog_Title,Сортировка айдолов
+SortDialog_FilteringTitle,Фильтр
+SortDialog_SortTitle,Сортировка
+SortDialog_DefaultButton,Снять выделение
+SortDialog_AllSelectButton,Выбрать всё
+SortDialog_AllReleaseButton,Снять выделение
+SortDialog_LiveSkillWord,Навык
+SortDialog_LiveSkillScoreUp,Увеличение очков
+SortDialog_LiveSkillConditionalScoreUp,Условный<br>увеличение очков
+SortDialog_LiveSkillScoreUpAndLifeHeal,Скоауп + <br>восстановление HP
+SortDialog_LiveSkillScoreUpAndResultUp,Скоауп + <br>усиление
+SortDialog_LiveSkillPowerHeal,Восстановление HP
+SortDialog_LiveSkillEnhance,Улучшение оценки
+SortDialog_LiveSkillOther,Другие
+SortDialog_LiveSkillConditionalOnlyScoreUp,Только при условиях<br>увеличение очков
+SortDialog_LiveSkillEnergyConditionalLifeHealScoreUp,HP условие<br>увеличение счета или восстановление HP
+SortDialog_FilterGroup,Группа
+SortDialog_FilterType,Тип
+SortDialog_FilterAwakening,Пробуждение
+SortDialog_AwakeningAll,Все
+SortDialog_Awakened,Пробуждены
+SortDialog_Unawakened,Не пробуждены
+SortDialog_PassiveSkillWord,Пассивные навыки
+SortDialog_PassiveSkillEffectWord,Эффект на
+SortDialog_PassiveSkillEffectPart,Инструмент (Позиция)
+SortDialog_PassiveSkillEffectPartRole,Позиция
+SortDialog_PassiveSkillEffectPartAndPartRole,Оба
+SortDialog_PassiveSkillPartWord,◆Эффект на инструмент/партию◆
+SortDialog_PassiveSkillSuitWord,◆Эффект для айдол с данным типом◆
+SortDialog_PassiveSkillMatchBothWord,◆Сложные условия◆
+SortDialog_PassiveSkillSubPartWord,◆Прочее◆
+SortDialog_PassiveSkillSubPartWordPowerUp,Начальный запас HP
+SortDialog_EpisodeReadAll,Все
+SortDialog_EpisodeReadNotEpisode,Непрочитано
+SortDialog_EpisodeReadNotSpecialEpisode,Спец.<br>Непрочитано
+SortDialog_SortAllStatus,Общая оценка
+SortDialog_SortSoul,Smile
+SortDialog_SortTechnic,Pure
+SortDialog_SortAppeal,Cool
+SortDialog_SortUnlock,По порядку получения
+SortDialog_SortRarity,Редкость
+SortDialog_SortLevel,Уровень
+SortDialog_SortSkillLevel,Уровень навыка
+SortDialog_SortSkill,По навыкам
+SortDialog_SortMember,Участница
+SortDialog_SortFavorite,В избранное
+SortDialog_SortHp,HP
+SortDialog_Kizuna,Связь
+SortDialog_EventPtBonus,Бонус за участие в ивенте
+SortDialog_TypeAll,Все объекты
+SortDialog_PassiveSkillMatchBothAnd,"Эффект срабатывает, когда совпадают и тип, и музыкальный инструмент."
+SortDialog_PassiveSkillMatchBothOr,Инструмент или тип совпадают.
+CostumeSelectPortrait_Top,"Нажмите на экран, чтобы выйти из полноэкранного режима.<br>"
+CostumeSelectPortrait_Selected,Выбрано
+LocalNotification_Title,Скфес 2
+LocalNotification_Ticker,LP полностью восстановлен.
+LocalNotification_Message,LP полностью восстановлен.
+LocalNotification_Description,Уведомление
+LiveDownload_State_Downloading,Загрузка...
+LiveDownload_State_Complete,Готово!
+LiveScene_Dialog_ContinueTitle,Продолжить Live
+LiveScene_Dialog_ContinueMessage,ラブカを<color=#C12424>{0}個</color>使用して、HPを全回復し、ライブを再開しますか？
+LiveScene_Dialog_ContinueGemShortageTitle,Не хватает Loveca
+LiveScene_Dialog_ContinueGemShortageMessage,"Не хватает Loveca, поэтому <br>Live не может быть продолжен."
+LiveScene_Dialog_FailureTitle,Провал Live
+LiveScene_Dialog_FailureMessage,"HP закончился <br> <br> Используйте <color=#C12424> {0} Loveca, чтобы </color> полностью восстановить HP и продолжить <br>."
+LiveScene_Dialog_FailureMessage_EventSpirit,"HP закончился <br> <br> Используйте <color=#C12424> {0} Loveca, чтобы </color> полностью восстановить HP и продолжить <br>."
+LiveScene_Dialog_PauseTitle,Пауза
+LiveScene_Dialog_PauseMessage,Вы хотите закончить Live и вернуться к выбору песен? <br> <br> <color=#C12424> В этом случае LP не будет потрачено. </color>
+LiveScene_Dialog_PauseMessage_EventChallenge,Вы хотите завершить Live и вернуться к выбору песен? <br> <br> <color=#C12424> В этом случае Миракл-звёзды не будут использованы. </color>
+LiveScene_Dialog_RetireConfirmTitle,Завершить Live
+LiveScene_Dialog_RetireConfirmMessage,"Вы не получите награду, если завершите Live сейчас. <br> Вернуться к Live и продолжить игру? <br> <br> <color=#C12424> Обратите внимание: в случае выхода LP не будет потрачено. </color>"
+LiveScene_Dialog_RetireConfirmMessage_EventChallenge,"Завершение Live не позволит получить награду. <br> Вернуться к Live и продолжить игру? <br> <br> <color=#C12424> В случае завершения, Miracle Star не будет использована. </color>"
+LiveScene_Dialog_SuspendButton,Завершить Live
+LiveScene_Dialog_CancelButton,Приостановить
+LiveScene_Dialog_ReheasalRetryConfirmMessage,Live сбросить и начать заново?
+LiveScene_Dialog_ReheasalRetireConfirmMessage,Завершить Live и вернуться к выбору песни?
+LiveScene_MultiWaitOtherPlayerLoading,Участница готовится…
+LiveScene_MultiWaitOtherPlayerPlaying,Участница в Live...
+LiveScene_MultiUserIntroduction_Vs,С этим игроком в Live
+LiveScene_MultiUserIntroduction_EventHomework,С этим игроком в Live
+LiveScene_SkillBoard_Trigger,Активировать навык
+LiveScene_VoltageGaugeLv1,(Дамми) Ур. 1
+LiveScene_VoltageGaugeLv2,(Дамми) УРОВЕНЬ 2
+LiveScene_VoltageGaugeLv3,(Дамми) УРОВЕНЬ 3
+LiveScene_VoltageGaugeLv4,(Дамми) УРОВЕНЬ 4
+LiveScene_VoltageGaugeLvMax_ClimaxReady,КЛИМАКС: Подготовка!
+LiveScene_VoltageGaugeLvMax_ClimaxPlaying,КЛИМАКС АКТИВИРОВАН!!
+LiveScene_VoltageGaugeLvMax_ClimaxEnd,КЛИМАКС ЗАВЕРШЕН
+LiveScene_VoltageGaugeLvMax_ClimaxPerfect,КЛАЙМАКС! ИДЕАЛЬНО!!
+LiveScene_AutoPlayComment,"Автовоспроизведение, будет применен высокий счет."
+LiveScene_Dialog_RestartConfirmTitle,Начать заново
+LiveScene_Dialog_RestartConfirmMessage,Вы хотите завершить Live и начать заново? <br> <br> <color=#C12424> В этом случае LP не будет потрачено. </color>
+LiveScene_Dialog_RestartConfirmMessage_EventSpirit,"Вы хотите завершить Live и начать заново? <br> <br> <color=#C12424> Если вы это сделаете, Miracle Star не будут потрачены. </color> <br> <br>"
+LiveScene_Dialog_ContinueSpiritShortageTitle,Недостаточно звёзд.
+LiveScene_Dialog_ContinueSpiritShortageMessage,"Недостаточно звёздных очков <br>. Звёздные очки можно получить, сыграв обычную песню <br><br><br><br>."
+CooperationLive_RoomRestriction,Ограничения Live
+CooperationLive_NormalRoom,Обычный
+CooperationLive_SpecialRoom,День недели
+CooperationLive_EventRoom,Событие
+Notice_DialogTitle,Добавлена песня!
+Notice_DialogSchool,(Дамми)
+Notice_DialogWordsDefault,Текст:
+Notice_DialogCompositionDefault,Композитор:
+Notice_DialogArrangerDefault,Аранжировка:
+MusicDetail_DialogTitle,Детали композиции
+MusicDetail_RecievedLabel,Получено
+MusicDetail_RemainLabel,Осталось {0} попыток
+MusicDetail_FirstLabel,Первая награда
+MusicDetail_ClearReward,Гарантированная награда за прохождение
+MusicDetail_RandomReward,Случайная награда за прохождение
+MusicDetail_DetailTab,Информация о песне
+MusicDetail_RewardTab,Награда за достижение
+MusicDetail_Reference,Источник: {0}
+MusicSelect_HighScore,Высший балл
+MusicSelect_MyRankingHighScore,Ваш<br>
+MusicSelect_ClearRamp,Статус прохождения
+MusicSelect_TeacherPoint,Рейтинг высоких очков
+MusicSelect_TeacherPointSum,Общий рейтинг высоких результатов
+MusicSelect_CategoryButton,Жанр
+MusicSelect_SortButton,Фильтр
+MusicSelect_ClearBonusButton,Награда за достижение
+MusicSelect_RandomButton,Автоподбор
+MusicSelect_SortApplyDataBar,Применяется
+MusicSelect_ObtainTypeShopMessage,Купить в музыкальном магазине
+MusicSelect_ObtainTypeShopButton,В магазин песен
+MusicSelect_ObtainTypeMissionMessage,Выполните миссию <br> «{0}» <br>.
+MusicSelect_ObtainTypeMissionButton,Миссии
+MusicSelect_ObtainTypeStoryMessage,Награда за просмотр главы <br> «{0}» <br> основной сюжетной линии
+MusicSelect_ObtainTypeStoryButton,В сюжет
+MusicSelect_ObtainTypePlayerRankMessage,Ранг: {0}
+MusicSelect_ObtainTypeNoneMessage,Условия открытия не заданы.
+MusicSelect_ObtainTypeNoneButton,Не задано
+MusicSelect_UnlockTitle,Условия разблокировки
+MusicSelect_SortDialogTitle,Сортировка
+MusicSelect_RefineDialogTitle,Фильтр
+MusicSelect_FilterCategoryTitle,Жанр
+MusicSelect_FilterOtherTitle,Другие
+MusicSelect_SortTitle,Сортировка
+MusicSelect_FilterCategoryAll,Все
+MusicSelect_FilterCategoryCharacterSong,(Дамми)
+MusicSelect_FilterCategoryCoupling,(Дамми)
+MusicSelect_FilterCategorySongWithinPlay,(Дамми)
+MusicSelect_FilterCategoryOther,Другие
+MusicSelect_FilteRefineNone,Не указано
+MusicSelect_FilterRefineFavorite,В избранное
+MusicSelect_FilterRefineNotClear,Не пройдено
+MusicSelect_FilterRefineNotScoreSS,Не SS ранг
+MusicSelect_FilterRefineNotFullCombo,Не пройден полностью
+MusicSelect_FilterRefineNotAllPerfect,Не все идеально
+MusicSelect_SortDefault,По умолчанию
+MusicSelect_SortMusicName,По названию
+MusicSelect_SortReleaseTime,По дате выхода
+MusicSelect_SortMusicLevel,По уровню
+MusicSelect_SortHighScore,По результатам
+MusicSelect_Ranking,Рейтинг
+MusicSelect_AllTab,Все
+MusicSelect_NoClearRate,--:--%
+MusicRanking_Score,ОЧКИ
+MusicRanking_Rank,РАНГ
+MusicRecommend_RecommendList,Рекомендуемый список
+MusicRecommend_RecommendListCancel,Отменить выбор списка
+MusicRecommend_UseThisList,Использовать этот список
+MusicFilterAutoSort_DialogTitle,Автоматический выбор
+MusicFilterAutoSort_Random,Случайно
+MusicFilterAutoSort_NonPlay,Неигранные песни
+MusicFilterAutoSort_RecentPlay,Недавно прослушанные треки
+MusicFilterAutoSort_RecentRelease,Недавно добавленные песни
+MusicGoal_DialogTitle,Цель игры
+MusicGoal_ScoreLabel,ОЧКИ |
+MusicGoal_HighScore,САМЫЙ ВЫСОКИЙ БАЛЛ
+MusicGoal_ComboLabel,КОМБО |
+MusicGoal_Combo,КОМБО
+MusicGoal_MaxCombo,МАКС. КОМБО
+MusicGoal_FullComboLabel,ПОЛНЫЙ КОМБО |
+MusicGoal_ClearLabel,ПОЛНОЕ ПРОХОЖДЕНИЕ |
+MusicGoal_ClearCount,Кол-во прохождений
+MusicGoal_Count,раз
+MusicGoal_Achievement,Достижение
+MusicGoal_AchievementRate,Среди всех игроков<br>процент прохождений
+MusicGoal_HighOrder,Топ
+MusicGoal_UnPlayed,Не пройдено
+CooperationLive_TotalPower,Общая сила основной группы:
+CooperationLive_NormaType,Обычный
+CooperationLive_SpecialType,День недели
+CooperationLive_StampSettingButton,Настройки стикеров
+CooperationLive_PrivateButton,Приватная комната
+CooperationLive_FriendsInviteButton,Пригласить друзей
+CooperationLive_DeckEditButton,Состав юнита
+CooperationLive_MatchingDialogTitle,Поиск игры
+CooperationLive_MatchingDialogMessage,Ищем Live.
+CooperationLive_CreateRoomDialogTitle,Создание Live
+CooperationLive_CreateRoomDialogMessage,Создаю Live.
+CooperationLive_MatchingDialogAnnotation,В часы пик подключение может занять больше времени.
+CooperationLive_PrivateSelectDialogTitle,Приватный Live
+CooperationLive_PrivateSelectDialogEnterMessage,Введите ID Live и <br>войдите.
+CooperationLive_PrivateSelectDialogEnterButton,Войти
+CooperationLive_PrivateSelectDialogCreateMessage,Укажите условия и создайте <br>Live.
+CooperationLive_PrivateSelectDialogCreateButton,Создать
+CooperationLive_RoomTypeRewardInfo,{0} повысить!
+CooperationLive_RoomTypeRewardWeekMonday,Понедельник
+CooperationLive_RoomTypeRewardWeekTuesday,Вторник ограничен
+CooperationLive_RoomTypeRewardWeekWednesday,"Среда, только сегодня"
+CooperationLive_RoomTypeRewardWeekThursday,Четверг (ограничено)
+CooperationLive_RoomTypeRewardWeekFriday,Пятничный бонус
+CooperationLive_RoomTypeRewardWeekSaturday,Субботний бонус
+CooperationLive_RoomTypeRewardWeekSunday,Воскресенье только
+FriendInviteItem_RoomCreater,Имя пользователя
+FriendInviteItem_RoomType,Тип Live
+FriendInviteItem_RoomCondition,Ограничения Live
+FriendInviteItem_RoomComment,Комментарий
+FriendInviteItem_RoomName,Название Live
+FriendInviteItem_RoomReward,Награда за Live
+FriendInviteItem_RoomSessionID,ID Live
+FriendInviteItem_JoinButton,Войти
+LiveMatching_PrivateRoomTitle,ID:
+LiveMatching_RoomConditionTitle,Название Live:
+LiveMatching_RoomTypeInfoTitle,Награда за Live:
+LiveMatching_PlayerTitle,{0} очков
+LiveMatching_Support,Поддержка
+LiveMatching_WaitMessage,"Поиск игроков... Пожалуйста, подождите, пока не соберётся команда."
+LiveMatching_WaitMessageInfo,Начните Live с двумя или более участниками.
+LiveMatching_RoomTypeNormal,Обычный
+LiveMatching_RoomTypeEvent,День недели
+LiveMatching_MatchedMessage,Участницы определены! Переход к выбору песни.
+LiveMatching_RoomOpenButton,Открыть Live
+LiveMatching_InviteFriendButton,Пригласить друзей
+LiveMatching_DecideButton,Участница подтверждена
+MatchingPlayer_Wait,Поиск игроков...
+LoginBonus_HoldingPeriod,Период проведения:
+LoginBouns_Season,{0} ~ {1} {2} {3}
+LoginBouns_Days,День {0}
+LoginBouns_EventBonusValue,+{0}
+MultiConfirm_LevelLabel,Уровень песни
+MultiConfirm_OptionButton,Различные настройки
+MultiConfirm_HealthyBoostButton,Настройки LP
+MultiConfirm_StartButton,Готово к старту
+MultiConfirm_Waiting,Ожидание
+CooperationLiveInfo_Title,Награда за Live
+CooperationLiveInfo_Message1,В «Ежедневном» Live вы можете легче получать фиксированные награды каждый день <br> <br> ※ В обычном Live будут обычные награды.
+CooperationLiveInfo_Message2,"{0} <br>, {1} <br>, {2} <br>, {3} <br>, {4} <br>, {5} <br>, {6}"
+CooperationLiveInfo_Message3,"※Количество получаемых предметов, не входящих в список с увеличенной наградой, скорректировано.<br>"
+CooperationLiveInfo_dailyEffect,Увеличение вероятности выпадения {0}!
+Stamp_FavoriteTitle,В избранное
+Stamp_RemoveButton,Удалить
+Stamp_ResetButton,Сброс
+Profile_RankFriend,Макс. кол-во друзей: {0} → {1}
+Profile_RankReward,{0} {1} шт.
+GachaTop_PickUpPhotoDetailTitle,Детали об Айдле
+GachaTop_PhotoDetailTitle,Детали об Айдле
+Ornament_OrnamentListTitle,Список предметов
+OrnamentShop_OrnamentReplaceTitle,Заменить на текущий предмет?
+GachaTop_PickUpPhotoDetailButton,Детали об Айдле
+GachaTop_InfoDetailButton,Набор — подробности
+GachaTop_ExchangeButton,Обмен
+Notice_GroupExpNoticeWindowTitle,Групповой ранг
+Button_Download,Загрузка
+Mission_AcceptAllButtonText,Принять всё
+MusicDecision_MusicLevelArea,{0} ~ {1}
+MusicDecision_RandomMusicTitle,Автоподбор
+MusicDecision_RandomMusicLevel,？？
+MusicDecision_LiveLevelReselectButton,Выбрать заново
+MusicDecision_ShuffleMessage,Выбираем песню.
+MusicDecision_DifficultySelectMessage,Выберите желаемую сложность.
+EventTop_ScoreRanking,Общий рейтинг очков
+EventTop_GroupScoreRanking,Групповой рейтинг очков
+EventTop_Season,До {0}
+EventTop_UntilRewardPoint,до {0} очков
+EventTop_NextEventPoint,Осталось
+EventTop_NextEventHomeworkPoint,До уровня
+EventTop_TotalEventPoint,Накопленные очки события
+EventTop_HasHomeworkPoint,Выполнено совместных миссий:
+EventTop_HasStamina,Содержит Миракул Стар
+EventTop_HasBadge,Имеющиеся пики:
+EventTop_HasMedal,Содержит Loveca:
+EventTop_HasTicket,Сохранено пустых билетов:
+EventTop_NextStory,★Следующая история
+EventTop_NextReward,★Следующая награда
+EventTop_NowHomework,★Текущее задание
+EventTop_AllGetReward,Все награды получены
+EventTop_AllGetStory,Все открыто
+EventTop_ExchangeButton,Обмен
+EventTop_BingoButton,БИНГО
+EventTop_BoxGachaButton,Набор (боксы)
+EventTop_ChangeHomeworkButton,Сменить задание
+EventTop_HomeworkMusicLevel,Уровень песни
+EventTop_HomeworkMusicLevelValue,Всего
+EventTop_CloseExchangeShopTerm,Магазин открыт до {0}.
+EventTop_CloseBoxGachaTerm,(Пример) до {0}
+EventTop_StoryButtonNextPoint,Осталось P
+EventTop_StoryButtonNextPointHomework,До уровня
+EventTop_TermTitle,Период проведения:
+EventTop_ResultTermTitle,Период объявления результатов:
+EventTop_EmotionalMemberSelectTermTitle,【Выбор участниц】
+EventTop_EmotionalBandSelectTermTitle,[Период выбора группы]
+EventTop_Multi_HelpterBonus,Награда за помощь
+EventTop_Multi_TodayHelpterCount,Сегодня вы уже помогали раз.
+EventTop_Multi_AlreadyPlayedHelper,Сегодня вы уже сыграли нужное количество раз.
+EventTop_Multi_UnitSettings,Событийный <br>состав
+EventTop_Multi_Live,Все вместе в Live!
+EventTop_Multi_LiveEx,Все вместе на Live!
+EventTop_Multi_FreeMatching,Свободный подбор
+EventTop_Multi_FreeMatching_Info,С другими игроками — легко и весело!
+EventTop_Multi_PrivateMatching,Приватный матч
+EventTop_Multi_PrivateMatching_Info,Пригласите друзей и играйте вместе!
+EventTop_Multi_Join,Войти
+EventTop_Multi_HelperJoin,Помочь в игре
+EventTop_Multi_HelperCondition,"Очистите уровень {0} или выше и наберите {1} очков, чтобы получить {2} очков для участия в качестве помощника."
+EventTop_Multi_Room,В комнату
+EventTop_Multi_Room2,В комнату
+EventTop_Multi_RoomCreate,Создать
+EventTop_Multi_RoomJoin,Войти
+EventTop_Multi_HelperToday,Сегодня
+EventTop_Multi_HelperCount,{0} / {1}
+EventTop_Multi_MatchingTitle,Выбор сложности
+EventTop_Multi_MatchingTitleHelper,Помощь участницы
+EventTop_Multi_RoomCreateDialog_Info,Выберите сложность.
+EventTop_Multi_RoomCreateDialog_Info2,"Можно выбрать несколько уровней сложности.<br>Если выбрано несколько, подбор будет случайным из выбранных."
+EventTop_Multi_RoomCreateDialog_Info3,Выберите один уровень сложности.
+EventTop_Multi_RoomCreateDialog_Info4,Вы можете играть Live на выбранном уровне сложности.
+EventTop_Multi_RoomCreateDialog_Error,Сложность не выбрана.
+EventTop_Multi_RoomCreateDialog_Start,Начать подбор игроков
+EventTop_Multi_RoomSearchDialog_Info,Введите ID комнаты.
+EventTop_Multi_RoomSearch_NotFindRoom,ID неверный или комната заполнена.
+EventTop_Multi_PenaltyInfo,Соединение прервано или обнаружено несколько случаев неправомерных действий.<br>Временно ограничим возможность участия в Live-выступлениях на данном мероприятии.
+EventTop_Multi_RemainPenalty,Ограничение снято через
+EventTop_Multi_Confirmation,Подтвердить
+EventTop_Multi_NotEnoughPower,Статы не соответствуют необходимому значению для помощи.
+EventLive__Multi_PointPenalty,Получение очков события уменьшено вдвое.
+EventLive__Multi_NotSelectedLevel,Сложность не выбрана.
+EventLive__Multi_Matching,Подключение ({0}/{1})
+EventLive__Multi_JoiningRoom,Вхожу в комнату
+EventLive__Multi_FailedToJoinRoom,Не удалось присоединиться к комнате.
+EventLive__Multi_NotFoundRoom,ID неверный или комната заполнена.
+EventLive__Multi_CreatingRoom,Ру́м создаётся
+EventLive__Multi_FailedToCreateRoom,"Создание комнаты не удалось. Пожалуйста, попробуйте ещё раз через некоторое время."
+EventLive__Multi_NotFoundHelperRoom,"Помочь не удалось, подходящих комнат нет."
+EventLive__Multi_ConnectingToMatchingServer,Подключение к серверу для поиска матча
+EventResult_Multi_Helper,Помощь
+EventResult_Multi_Disconnected,Соединение прервано.
+EventResult_Multi_ConfirmingResult,Live-результаты загружаются
+EventResult_Multi_LeaveRoom,Выйти...
+EventResult_Multi_Retry,Сыграть ещё раз
+EventMusicSelect_HighScore,Событие<br>Рекорд
+EventMusicSelect_ScoreRanking,Рейтинг очков
+EventMusicSelect_StaminaUseDialogTitle,Подтверждение использования звёздных очков
+EventMusicSelect_StaminaUseDialogMessage,Использовать {0} Миракл-звёзд и начать Live? <br> ※LP не используется.
+EventMusicSelect_StaminaUseDialogHasStamina,Миракул Стар {0} шт.
+EventMusicSelect_StaminaConfirmCheck,Больше не спрашивать подтверждение использования Miracle Star до конца события.
+EventStory_NextEventPoint,Евент. очки
+EventStory_NextEventHomework,Всего выполненных заданий
+EventStory_ReleaseInfoEventPoint,Соберите очки Live в этом мероприятии!
+EventStory_ReleaseInfoEventHomework,В событии выполняйте задания!
+EventStory_EndReleaseStory,Событие завершено <br> этот сценарий будет доступен {0}.
+EventRanking_TabScoreRanking,Рейтинг по песням
+EventRanking_TabGroupScoreRanking,Групповой рейтинг очков
+EventRanking_TabPointRanking,Рейтинг по очкам события
+EventRanking_TabEmotionalRanking,Топ-100 игроков
+EventRanking_TotalScore,Общий счёт
+EventRanking_ScoreRanking,Общий рейтинг очков
+EventRanking_ChangeButton,Сменить
+EventRanking_InfoMessage,Результаты будут отражены до {0}.
+EventRanking_TopRanking,Топ игроков
+EventRanking_YourRanking,Вы
+EventRanking_ScoreRankingTitle,Очки за песню
+EventRanking_PointRankingTitle,Накопленные очки события
+EventRanking_EmotionalRankingBandSelectTitle,Выбор группы
+EventRanking_EmotionalRankingMemberSelectTitle,Выбор участницы
+EventRanking_LookEmotionalRankingOtherBands,Другие группы
+EventRanking_LookEmotionalRankingOtherMembers,Других участниц посмотреть
+EventReward_TotalEventPointReward,Общая награда за очки события
+EventReward_ScoreRankingReward,Общий рейтинг очков
+EventReward_GroupScoreRankingReward,Групповой рейтинг очков
+EventReward_MusicScoreRankingReward,Счёт в песнях события<br>Рейтинг
+EventReward_EventPointRankingReward,Ивентные очки<br>Рейтинг
+EventReward_EmotionalRankingReward,Любимый участник<br>в рейтинге
+EventReward_TotalEventPoint,Накопленные очки события
+EventReward_YourRank,Ваш ранг
+EventReward_RankingButton,Смотреть рейтинг
+EventReward_EmotionalRankingJoinText,Участвует: {0}
+EventReward_RankingFromTo,{0}～{1}-е место
+EventReward_RankingFromToEnd,{0}-е место
+EventReward_RankingInfoMessage,Награда за место в рейтинге будет начислена после окончания события.
+EventReward_BingoReward,БИНГО
+EventReward_BingoSheetLineReward,Награда за {1} линий в [листе {0}]
+EventReward_BingoSheetCompleteReward,[Лист {0}] Награда за прохождение
+EventReward_BingoAllSheetCompleteReward,Полный комплект всех листов — Награда
+EventReward_RankingRewardDialogTitle,Награды
+EventReward_EventPointInfo,*Накопленные очки события имеют лимит.<br>*Лимит может быть увеличен вместе с получением награды.
+EventResult_BaseEventPoint,Базовые очки события
+EventResult_ScoreBonus,Бонус за счёт
+EventResult_EventBonus,Бонус события
+EventResult_ClearBonus,Бонус за прохождение
+EventResult_GetEventPoint,Получить очки события
+EventResult_GetStamina,Получить предмет события
+EventResult_GetBadge,Получить (демо)
+EventResult_GetMedal,Получить Loveca
+EventResult_TotalEventPoint,Накопленные очки события
+EventResult_TotalStamina,Всего предметов события
+EventResult_TotalBadge,Итого (пример)
+EventResult_TotalMedal,Купленные Loveca
+EventResult_NextStory,Следующая история
+EventResult_NextReward,Следующая награда
+EventResult_CompleteReward,Все награды получены.
+EventResult_EventStaminaBoostValue,{0}-кратно
+EventResult_MemberBonus,Участники события
+EventResult_MemberBonusInfoMessage,Бонус для участниц события
+EventResult_StaminaInfoMessage,Внимание: бонус от конфет
+EventResult_NextPoint,До уровня
+EventResult_RewardDialogTitleClearCell,Награда за прохождение BINGO
+EventResult_RewardDialogTitleBingo,Награда BINGO
+EventResult_RewardDialogSheetClear,Награда за прохождение этапа
+EventResult_RewardDialogAllSheetComplete,Награда за полное выполнение
+EventResult_RewardDialogInfoClearCell,Награда за прохождение ячейки BINGO.
+EventResult_RewardDialogInfoBingo,Награда за BINGO.
+EventResult_RewardDialogInfoSheetClear,Награда за прохождение листа.
+EventResult_RewardDialogInfoAllSheetComplete,Награда за полное выполнение.
+EventResult_BaseTicket,Кол-во полученных билетов для набора.
+EventResult_GetTicket,Получить билет для набора
+EventResult_TotalTicket,Всего наборов
+EventResult_ClearHomweork,Достигнуто заданий в этот раз
+EventResult_TotalHomework,Всего выполненных заданий
+EventResult_NextHomeworkPoint,Выполнено заданий
+EventResult_ReStartConfirmTitle,Сыграть ещё раз
+EventResult_ReStartConfirmSpiritMessage,Использовать Миракл-стар {0} и повторить Live ещё раз? <br>
+EventResult_ReStartConfirmSpiritAutoMessage,"Использовать Миракул Стар {0} и Авто-билет {1}, чтобы сыграть в Live ещё раз? <br>"
+EventResult_ReStartConfirmAutoMessage,"Использовать авто-билет {0} и <br>, чтобы сыграть в Live ещё раз?"
+EventBingoSheet_Title,БИНГО-лист ({0}/{1})
+EventBingoSheet_TotalOpend,Выполнено
+EventBingoSheet_TotalOpendValue,<color=#d73c55> {0} / {1} </color>
+EventBingoSheet_TotalSheet,Лист
+EventBingoSheet_TotalSheetValue,<color=#d73c55> {0} / {1} </color>
+EventBingoSheet_TotalSheetValueCurrent,<color=#d73c55> {0} / {1} </color>
+EventBingoSheet_BingoClearScore,"Набрать <color=#d73c55> {0} </color> очков, чтобы пройти {1} раза."
+EventBingoSheet_BingoClearLife,"Очков <color=#d73c55> не менее {0}, с результатом </color>, для {1} прохождений"
+EventBingoSheet_BingoClearJudge,"Получите {1} очка, выполнив задание <color=#d73c55> {0} </color> или меньше."
+EventBingoSheet_BingoClearCombo,"Макс. комбо <color=#d73c55>, {0} </color> и более, {1} раз."
+EventBingoSheet_BingoClearFullCombo,MAX COMBO {0} раз
+EventBingoSheet_BingoClearMultiScoreRank,"Выполните <color=#d73c55> Live с {0} </color> рангом и более, {1} раз."
+EventBingoSheet_BingoClearDeckCharacter,"Составьте <color=#d73c55>, используя {0} и </color>, и пройдите {1} раз."
+EventBingoSheet_BingoClearDeckType,"Составьте команду, включив в неё {0} или более персонажей типа <color=#d73c55>, и пройдите уровень </color> {1} раз, чтобы выполнить задание {2}."
+EventBingoSheet_BingoClearMusicName,Название песни: {0}
+EventBingoSheet_BingoClearEventMusicName,楽曲名：ランキングLive {0}
+EventBingoSheet_BingoClearMusicLevel,Уровень: {0}
+EventBingoSheet_BingoClearMusicLevelValue,{0} и выше
+EventBingoSheet_BingoRewardButton,Награда
+EventBingoSheet_BingoRewardDialogTitle,Награды
+EventBingoSheet_BingoSheetCompleteRewardNumber,{0}-я карта
+EventMemberBonus_TipsTitle,Об ивентовых бонусах
+BirthdayScene_PlayButtonNameText,Посмотреть поздравление
+BirthdayScene_AreaButtonNameText,Место празднования дня рождения
+EventHomework_HomeworkConfirmButton,Подтвердить задание
+EventHomework_MissionNormalText,Обычная миссия
+EventHomework_MissionRareText,Редкая миссия
+EventHomework_MissionSuperRareText,Супер-редкое задание
+EventHomework_LotteryDialogTitle,Выбор миссии для совместной игры
+EventHomework_LotteryDialogRareMissionText,Пример редкой миссии
+EventHomework_LotteryDialogRareMissionInfoText,"※ Совместные задания имеют 3 уровня редкости: обычный, редкий и сверхредкий.<br>Чем выше редкость, тем лучше награда."
+EventHomework_LotteryDialogLotteryButtonText,Выбрать
+EventHomework_MissionChangeDialogTitle,Сменить задание
+EventHomework_MissionChangeDialogChangeMessage,"Вы хотите изменить текущую совместную миссию? <br> ※После изменения вы не сможете изменить текущую совместную миссию до тех пор, пока не сыграете в неё один раз."
+EventHomework_MissionChangeDialogUnChangeMessage,Попробуйте выполнить текущую совместную миссию!<br>※После выполнения Live можно будет изменить текущую совместную миссию.
+EventHomework_GetMissionDialogTitle,Получить кооперативный квест
+EventHomework_GetMissionDialogMessage,*Текущая миссия установлена как активная.*
+EventHomework_MissionDetailDialogTitle,Совместная миссия
+EventHomeworkBoxGacha_Title,(Дамми)
+EventHomeworkBoxGacha_NowBox,(Демо) {0}-я коробка
+EventHomeworkBoxGacha_Remaining,Осталось {0}/{1}
+EventHomeworkBoxGacha_NextBoxButton,Следующий ящик
+EventHomeworkBoxGacha_PlayBoxGacha,Сделать {0} попыток
+EventHomeworkBoxGacha_UsedTicket,x{0}
+EventHomeworkBoxGacha_HasTicket,Имеющиеся билеты
+EventHomeworkBoxGacha_BoxInfoButton,Содержимое (демо)
+EventHomeworkBoxGachaInfo_Title,Содержимое (ящика №{0})
+EventHomeworkBoxGachaInfo_Page,{0} / {1}
+EventHomeworkBoxGachaResult_Title,Получено!
+EventHomeworkBoxGachaResult_Message,Можно получить в подарок.
+EventHomeworkRoomSelect_RoomTitleEvent,{0} Live
+EventHomeworkRoomSelect_RoomTitleEveryone,Событие (демо)
+EventHomeworkRoomSelect_RankingTarget,Входит в рейтинг высоких результатов
+EventHomeworkRoomSelect_RankingExcluded,Не участвует в рейтинге высоких результатов.
+EventHomeworkRoomSelect_RankingExcludedInfo,Не учитывается в рейтинге.
+EventHomeworkRoomSelect_EventHighScore,Рекорд события
+EventHomeworkRoomSelect_EventGroupRanking,Групповой рейтинг лучших результатов
+EventHomeworkMatching_HomeworkMusicLevel,Уровень песни
+EventHomeworkMatching_MusicLevel,{0} и выше
+EventHomeworkMatching_HomeworkInfo,Содержание задания
+EventHomeworkMatching_Reward,Награда
+EventHomeworkLiveResult_HomeworkResult,Результат задания
+EventHomeworkLiveResult_HomeworkResultReward,Получить награду
+EventHomeworkLiveResult_RewardBonus,Награда x{0}!
+EventHomeworkLiveResult_RewardBonusValue,x{0}
+EventHomeworkLiveResult_MyClear,Я сам(а) прошла(прошел).
+EventHomeworkLiveResult_OtherClear,Другой игрок достиг
+EventHomeworkLiveResult_NoClear,Не выполнено
+EventHomeworkLiveResultNewHomework_Title,Новое задание!
+EventHomeworkLiveResult_MusicLevel,Уровень песни: {0}
+EventHomeworkLiveResult_Homework,Задание: {0}
+EventHomeworkLiveResult_Reward,Награда:
+EventBonus_PointUpBonus,Бонус к очкам
+EventBonus_TotalPowerBonus,Общий бонус к характеристикам
+EventBonus_PickUpMemberBonus,Бонус для выбранных Айдл
+EventBonus_PointUpTotal,Общий бонус к очкам
+EventBonus_PowerUpTotal,Общая сила: бонус
+EventBonus_PowerUpAddValue,(Общая сила +{0})
+EventBonus_BonusPercentUp,+{0}%
+EventBonus_PowerUpTotalValue,+{0} повышение
+EventBonus_BonusCaution,"В Live-режиме бонус на увеличение общей силы не действует. <br> · Если несколько Айдлов подпадают под действие бонуса, активируется только один с самым высоким значением эффекта. <br> · Если в группе есть несколько Айдлов с бонусом «Айдл+», то может быть активирован бонус для одного из них, который дает наибольший эффект как по общей силе, так и по очкам события. <br> <color=#C12424> ※ </color> Бонус «Айдл+» на общую силу активируется только для того Айдла, у которого при умножении общей силы Айдла на значение бонуса «Айдл+» получается наибольшее значение. <br> <color=#C12424> ※ </color> Бонус «Айдл+» на очки события активируется только для одного Айдла с самым высоким эффектом увеличения очков события. <br> <color=#C12424> ※ </color> Бонусы общей силы и очков события «Айдл+» могут быть активированы разными Айдлами. <br> <color=#C12424> ※ </color> Если у Айдла есть бонус «Айдл+», но он не был активирован, этот Айдл может активировать другой бонус. <br> · Бонусы «Айдл» и «Айдл+» могут быть активированы одновременно."
+EventIncentive_CheckTicketTitle,Проверить билет для розыгрыша
+EventIncentive_CheckTicketMessage,Вы хотите проверить свои <br> билеты? <br> <br> {0} Всего: {1} шт.
+EventIncentive_CheckTicketWarning,"<color=#C12424>Внимание: билет для розыгрыша нельзя использовать частями. <br>Внимание: если вы не используете билет в течение указанного периода, он будет удален. </color>"
+EventIncentive_LostTitle,Результаты выбора
+EventIncentive_LostMessage,Утешительный приз добавлен в ваш инвентарь.<br>Спасибо за участие!
+EventIncentive_LostGoToPresentBoxScene,К подаркам
+EventIncentive_ApplicationTitle,Необходимая информация для участия
+EventIncentive_ApplicationId,ID:
+EventIncentive_ApplicationPassword,Пароль:
+EventIncentive_ApplicationUrlTitle,URL для участия:
+EventIncentive_ApplicationNote,*Примечание об участии (будет добавлено позже)
+EventIncentive_IdCopy,Скопировано
+EventIncentive_PasswordCopy,Скопировано
+EventIncentive_TermTitle,Правила мероприятия
+EventEmotionalSetting_SelectBand,Выберите группу для участия в рейтинге.
+EventEmotionalSetting_ChangeBand,Изменить группу для участия.
+EventEmotionalSetting_SelectMember,Выберите участницу для участия в рейтинге.
+EventEmotionalSetting_ChangeMember,Выберите участницу для изменения.
+LimitedLive_Name_1101001,限定ライブ名1
+LimitedLive_Name_1101002,Ограниченный Live 2
+LimitedLive_Name_1301001,Ограниченный Live 3
+LimitedLive_Name_1401001,Ограниченный Live 4
+LimitedLive_Name_1501001,Ограниченный Live 5
+LimitedLive_Name_1502001,限定ライブ名6
+LimitedLive_Name_1601001,Ограниченный Live 7
+LimitedLive_Name_1801001,Ограниченный Live 8
+LimitedLive_Name_1802001,Ограниченный Live 9
+LimitedLive_Name_1803001,Ограниченный Live 10
+LimitedLive_Name_1804001,Ограниченный Live 11
+LimitedLive_Name_1805001,Ограниченный Live 12
+LimitedLive_Name_1806001,限定ライブ名13
+LimitedLive_Name_1807001,限定ライブ名14
+LimitedLive_Name_1808001,限定ライブ名15
+LimitedLive_Name_1892001,限定ライブ名16
+LimitedLive_Name_1893001,限定ライブ名17
+LimitedLive_Name_1894001,限定ライブ名18
+LimitedLive_Name_1895001,限定ライブ名19
+LimitedLive_Name_1896001,限定ライブ名20
+LimitedLive_Name_1701001,限定ライブ名21
+LimitedLive_BonusEffect_1101001,Награда за прохождение увеличена!
+LimitedLive_Period,Период проведения: {0} ~ {1}
+LimitedLive_FreePlayLabel,Бесплатная игра
+LimitedLive_TicketLabel,Имеющиеся билеты
+LimitedLive_FreePlayCountLabel,До уровня
+LimitedLive_FreePlayCountValue,{0} раз
+LimitedLive_TicketAmountValue,{0} шт.
+LimitedLive_LiveIsChosen,Песня выбрана.
+LimitedLive_DetailDialog_RuleSection,◆Правила
+LimitedLive_DetailDialog_RuleSection_ResetDaily,В день {0} раз
+LimitedLive_DetailDialog_RuleSection_ResetWeekly,в неделю {0} раз
+LimitedLive_DetailDialog_RuleSection_Rule_1,"Это Live, в котором с определённой вероятностью можно {0}. Доступно {1} попыток. <br>. Можно также играть, используя купоны на еду. <br> Если сыграть песню-бонус, то <br> увеличится количество наград."
+LimitedLive_DetailDialog_RuleSection_Rule_2,"Можно играть {1}. <br>Также можно играть, используя билеты для еды. <br>Если выбрать удачную песню, награда увеличится."
+LimitedLive_DetailDialog_RewardSection,◆Награда
+LimitedLive_DetailDialog_BonusLiveSection,◆Удачные песни <br> {0}
+LimitedLive_DetailDialog_PeriodSection,◆Период проведения: <br> с {0} по {1}
+LimitedLive_UnlockDialog_NotEnouchTicketDaily,Не хватает билетов <color=#D73C55> </color> <br> Бесплатная игра станет доступна со следующего дня в 4 часа.
+LimitedLive_UnlockDialog_NotEnouchTicketWeekly,Не хватает билетов <color=#D73C55> </color> <br> Бесплатная игра станет доступна с 4 часов утра в понедельник.
+LiveCondition_Label,Условия участия в Live
+LiveCondition_CompareType_EQ,равно
+LiveCondition_CompareType_GE,Всего
+LiveCondition_CompareType_LE,Не менее
+LiveCondition_Detail_Character,"{0} {1} человек, {2} в составе"
+LiveCondition_Detail_Group,"{0} {1} человек, {2} в составе"
+LiveCondition_Detail_CardType,"{0} {1} человек, {2} в составе"
+LiveCondition_Detail_DeckRole,"{0} {1} человек, {2} в составе"
+LiveCondition_Detail_Card,(Временно) Составить из {0}
+LiveCondition_Detail_UserRank,(Временно) Пользовательский ранг {0} {1}
+LiveCondition_Detail_Title,"(Временно) Установить титул ""{0}"""
+LiveCondition_Detail_Item,"Использовать предмет ""{0}"""
+LiveCondition_CannotCreateMultiPlayRoomSinceNotSatisfy,"Нельзя создать комнату, т.к. не выполнены условия участия."
+LiveRule_Label,Правила Live
+LiveRule_Notes_Judgement_EQ,"(Временно) все, кроме {0}, — пропуск."
+LiveRule_Notes_Judgement_GE,(Временно) Меньше {0} промахов
+BeginnerMission_BingoTitle,Новичковская миссия ({0}/{1})
+BeginnerMission_BingoSheetClear,Награда за прохождение BINGO{0}
+BeginnerMission_BingoLineClear,Награда за прохождение линии
+BeginnerMission_BingoNotStarted,Есть невыполненные задания.
+BeginnerMission_BingoMissionDetailTitle,Детали задания
+BeginnerMission_BingoMissionReward,Награда за прохождение
+BeginnerMission_BingoMissionChallenge,Принять вызов
+BeginnerMission_BingoMissionAcheved,Прогресс
+BeginnerMission_BingoMissionOverview,Обзор миссии
+BeginnerMission_BingoMissionItemOverview,Обзор
+BeginnerMission_BingoMissionRewardItemNum,x{0}
+TeacherLiveTop_NowMission,Текущая миссия
+TeacherLiveTop_EndEvent,Это мероприятие завершено.
+TeacherLiveTop_ExchangeButton,Обмен
+TeacherLiveTop_LiveButton,В Live
+TeacherLiveTop_InfoButton,Подробнее
+TeacherLiveTop_LiveCondition,Условия для Live
+TeacherLiveTop_LiveRule,Правила Live
+TeacherLiveTop_RemainingMission,Оставшиеся миссии: <color=#D73C55> {0} </color> / {1}
+TeacherLiveTop_RemainingMissionValue,{0} / {1}
+TeacherLiveTop_GoGoTime,(Дамми)
+TeacherLiveTop_GoGoTimeRemainingCount,{0} раз
+TeacherLiveTop_ExchangeTerm,Магазин открыт до {0}.
+TeacherLiveTop_LiveConditionDialogTitle,Условия Live
+TeacherLiveTop_LiveConditionDialogCondition,Условия участия в Live
+TeacherLiveTop_LiveConditionDialogRule,Правила Live
+TeacherLiveLiveResult_GoGoTime,Дамми-текст
+TeacherLiveLiveResult_MissionClearTitle,(Дамми) Миссия выполнена!
+TeacherLiveLiveResult_CurrentMission,(Дамми) Текущая миссия
+TeacherLiveLiveResult_NextMission,Следующая миссия
+TeacherLiveLiveResult_RemainingMission,Оставшиеся миссии: {0}/{1}
+CharacterEpisodeLevel_TotalTabName,Итоги
+CharacterEpisodeLevel_TotalEpisodeStar,(Всего звёзд историй ★ × {0})
+CharacterEpisodeLevel_RemainingExp,★{0}
+ItemList_Tab_Enhancement,Улучшения
+ItemList_Tab_Boost,Восст. LP
+ItemList_Tab_Ticket,Билет
+ItemList_Tab_Stamp,Стикеры
+ItemList_Tab_Other,Другие
+ItemList_Empty,У вас нет предметов этого типа.
+ItemList_LimitDate,До {0}
+MusicVideo_Conform_title,Воспроизвести MV?
+MusicVideo_Conform_Message,Воспроизвести {0} музыкальное видео для <br>? В режиме MV нельзя получить награды за Live. <br>
+MusicVideo_Conform_Supplement,Больше не показывать это окно
+MusicShop_Title,Музыкальный магазин
+MusicShop_Exchange,Обмен
+MusicShop_Replaced,Уже приобретено
+MusicShop_Lack,Не хватает ресурсов
+MusicShop_ExchangeListEmpty,Обмениваемых песен нет.
+MusicShop_DetailTitle,Детали композиции
+MusicShop_ExchangeTitle,Обмен песен
+MusicShop_RequiredValue,Требуемое количество
+MusicShop_ExchangeMessage,Вы хотите обменять {0}?
+MusicShop_ExchangeResultTitle,Обмен треком выполнен.
+Announcement_DialogTitle,Объявление
+RankUp_UserRankUpDialogTitle,Ранг повышен!
+RankUp_BandRankUpDialogTitle,Групповой ранг повышен
+RankUp_BandRank,Групповой ранг
+RankUp_TotalBandRank,Общий групповой ранг
+RankUp_DeckPower,Сила колоды +
+RankUp_LpRecoverText,LP восстановлено на {0}.
+RankUp_LpMaxUpText,Макс. LP увеличен.
+Shop_ResetDaily,(Каждый день в 0:00)
+Shop_ResetWeekly,"(Еженедельно, с понедельника 0:00)"
+Shop_Monthly,(Ежедневно в 0:00)
+Shop_BuyRemain,Осталось: {0} шт.
+Shop_BuyLimit,До {0}
+Shop_AllBuy,Куплено
+Shop_ItemDetaiTitle,Детали товара
+Shop_AllItemDetaiTitle,Награда за полную распродажу
+Shop_AllItemCompleteTitle,Получить награду за полную продажу
+MovieCollection_TabMovieTypeShort,Короткое видео
+MovieCollection_TabMovieTypeLong,Длинные видео
+MovieCollection_TabMovieTypeSpPhoto,SP-фото
+MovieCollection_HomeSettings,Настройки экрана
+MovieCollection_EmptyMovie,Видео отсутствует.
+MovieCollection_EmptySpPhoto,SP-фото нет.
+MovieCollection_DetailTitle,Детали видео
+MovieCollection_DetailHomeSettings,Установить как фон для главного экрана
+MovieCollection_DetailHomeSettingsMessage,Включите видео для фона в настройках.
+MovieCollection_RefineBandTitle,Группа
+MovieCollection_RefineBandOther,ОСТАЛЬНОЕ
+MovieCollection_RefineMemberTitle,Участница
+MovieCollection_RefineGetCategoryTitle,Категория получения
+MovieCollection_RefineGetCategoryEvent,Событие
+MovieCollection_RefineGetCategoryCard,Айдл
+MovieCollection_RefineGetCategoryStory,История
+MovieCollection_RefineGetCategoryEtc,Другие
+LiveResult_FriendApplyButton,Отправить запрос
+LiveResult_FriendStatusRequest,Заявка отправлена
+LiveResult_FriendStatusFriend,Друзьями уже добавлены
+LiveResult_ScoreDetailButton,Подробности о счёте
+LiveResult_ScoreDetailTitle,Подробности о счёте
+LiveResult_SessionSelectButton,Live-выбор
+LiveResult_HomeButton,На главный экран
+LiveResult_MusicSelectButton,Выбрать песню
+LiveResult_RestartButton,Ещё раз с этой песней<br>Начать Live
+LiveResult_GuestSelectButton,С этой песней<br>начать Live
+LiveResult_RecommendLiveTitle,Вам может понравиться
+LiveResult_BackMusicSelectTitle,Другую песню
+LiveResult_BackMusicSelectButton,К выбору песен
+LiveResult_RestartDialogTitle,Повторить?
+LiveResult_RestartDialog_EventPtRewardGotAll,Все награды за достижение целей в событии уже <br>получены.
+LiveResult_RestartDialog_EventPtRewardTitle,Награда за выполнение заданий
+LiveResult_RestartDialog_EventScoreRank,Рейтинг по очкам в событии
+LiveResult_RestartDialog_EventTotalPtRank,Общий рейтинг по очкам события
+LiveResult_LiveClear,ЛИВЕ КЛЕАР!!
+LiveResult_LiveClear2,LIVE CLEAR!!
+LiveResult_TapScreen,Коснитесь экрана.
+LiveResult_Score,ОЧКИ
+LiveResult_Combo,КОМБО
+LiveResult_HighScore,САМЫЙ ВЫСОКИЙ БАЛЛ
+LiveResult_NewReacord,НОВЫЙ РЕКОРД!!
+LiveResult_PerfectCount,Кол-во PERFECT
+LiveResult_Perfect,ИДЕАЛЬНО
+LiveResult_Great,ОТЛИЧНО
+LiveResult_Good,ОТЛИЧНО
+LiveResult_Bad,СЛАБО
+LiveResult_Miss,МИСС
+LiveResult_Normal,Обычный
+LiveResult_SyncTap,Одновременное нажатие
+LiveResult_LongTap,Удерживайте
+LiveResult_Swing,Свинг
+LiveResult_GetExp,Получить опыт
+LiveResult_NextRank,До следующего ранга
+LiveResult_GetGold,Получить G
+LiveResult_GetFriendPoint,Получить Связь
+LiveResult_GetFriendPointWindow,Связь: подробности
+LiveResult_TotalScore,Итоговый счёт
+GuestSelect_Title,Выбор гостя
+BandEnrich_ItemEmpty,У вас нет предметов для улучшения группы.
+BandEnrich_All,Итоги
+BandEnrich_X,μ’s
+BandEnrich_L,Aqours
+BandEnrich_G,Нидзигасаки
+GemShort_NeedChargeGemLabel,Необходимые платные Loveca
+GemShort_HaveChargeGemLabel,Имеющиеся Loveca
+GemShort_NeedGemLabel,Необходимые Loveca
+GemShort_HaveGemLabel,Имеющиеся Loveca
+CollectionChara_Profile,Профиль
+CollectionChara_CardList,Список карт
+StorySort_TitleBand,Группа
+StorySort_TitleStory,История
+StorySort_StoryRead,Прочитано
+StorySort_StoryUnread,Непрочитано
+StoryList_EmptyText,Доступных историй нет.
+MemberList_EmptyText,Указанный Айдл не найден.
+CollectionReleaseConfirm_DialogTitle,Подтверждение разблокировки коллекции
+CollectionReleaseConfirm_Conditions,Условия для разблокировки: необходимо {0} пробуждений / всего {1}
+CollectionReleaseConfirm_Reward,Награда за освобождение
+CollectionReleaseReward_DialogTitle,Коллекция разблокирована
+CollectionReleaseReward_SpPhotoReleaseMessage,SP-фотография разблокирована<br>Её можно посмотреть в разделе с информацией об Айдле или в коллекции SP-фотографий.
+CollectionReleaseReward_MovieReleaseMessage,Видео «{0}» разблокировано <br>. Видео можно посмотреть в разделе с информацией об Айдл или в коллекции видео.
+CollectionReleaseReward_GetReward,Вы получили награду за открытие: {0}.
+CollectionReleaseReward_CardInfoButton,К Айдлу
+CollectionReleaseReward_CollectionButton,К коллекции
+GachaLotteryExchangeItemConfirm_Title,Набор очков в предметы
+GachaLotteryExchangeItemConfirm_Info,Истекшие «очки для набора» были конвертированы в «учебник навыков (средний)».
+Migration_TopTitle,Перенос данных и привязка аккаунта
+Migration_SnsLink,Связать аккаунт
+Migration_EnableSnsLink,Возможные аккаунты для привязки
+Migration_SelectSnsLink,Выберите учётную запись для привязки.
+Migration_Twitter,Связать с Twitter
+Migration_Apple,Войти через Apple
+Migration_Google,Войти через Google
+Migration_SignIn,Не задано
+Migration_SignOut,Связано
+Migration_CompleteSnsLink,Связь с аккаунтом установлена
+Migration_CompleteSnsSignOut,Отключить привязку аккаунта
+Migration_SnsLinkMessage,"Данные успешно синхронизированы <br>. После загрузки приложения на устройство, с которого вы хотите продолжить игру, выполните привязку аккаунта в разделе «Перенос данных» главного меню <br>."
+Migration_SignOutMessage,Связь с аккаунтом отменена.
+Migration_TakeOverButton,Перенос данных
+RewardDetailDialog_CanBeAcquired,Возможно получить
+RewardDetailDialog_Acquired,Получено
+RewardDetailDialog_Possession,Кол-во
+MusicSelect_NoData,Соответствующих песен не найдено.
+MusicSelect_NoDataAndResetFilter,"Соответствующих песен нет, фильтр сброшен."
+MusicSelect_ResetFilterToSelectData,"Выбранные песни удалены, фильтр сброшен."
+MusicSelect_FilterAttribute,Тип
+MusicSelect_FilterAttributeSmile,Smile
+MusicSelect_FilterAttributePure,Pure
+MusicSelect_FilterAttributeCool,Cool
+MusicSelect_FilterSelect,Условия
+MusicSelect_FilterGroup,Группа · Песня
+MusicSelect_FilterNotClear,Не пройдено
+MusicSelect_FilterScoreS,Оценка S не получена
+MusicSelect_FilterComboS,Комбо S не получено
+MusicSelect_FilterClearS,Не пройдено S
+MusicSelect_FilterCampaign1,Кампания
+MusicSelect_FilterCampaign2,Кампания
+MusicSelect_FilterUndo,Снять выделение
+MusicSelect_ButtonApply,Применить
+MusicSelect_RehearsalButton,Репетиция
+MusicSelect_LiveButton,Live
+MusicSelect_NoDifficulty,"Выбранной песне не хватает уровня MASTER, выберите другую песню."
+MusicSelect_NoAnyDifficulty,"Выбранной песне нет сложности {0}, выберите другую песню."
+HomePreset_ClearPresetButton,Вернуть настройки домашнего экрана {0} к значениям по умолчанию?
+PresentBox_Attention,Макс. хранение: 100 000. При превышении лимита старые подарки будут удалены. Истёкшие подарки удаляются автоматически. Одновременно можно получить макс. 100 подарков.
+PresentBox_Filter,Фильтр
+PresentBox_Filter_Title,Фильтр
+PresentBox_Filter_Button_AllSelect,Выбрать всё
+PresentBox_Filter_Button_AllRelease,Снять выделение
+PresentBox_Filter_Type_Title,Тип подарка
+PresentBox_Filter_Type_Member,Айдл
+PresentBox_Filter_Type_Gem,Loveca
+PresentBox_Filter_Type_Gold,Золото
+PresentBox_Filter_Type_Ticket,Билет для набора
+PresentBox_Filter_Type_Recovery,Восстановление LP
+PresentBox_Filter_Type_Other,Другие
+PresentBox_Filter_ExpireTime_Title,Срок действия
+PresentBox_Filter_ExpireTime_Limit,Срок действия есть
+PresentBox_Filter_ExpireTime_NoLimit,Без ограничений
+HomePreset_Set_Label,Набор {0}
+HomePreset_Multiple_Set_Label,Неск. наборов
+PresentBox_History_Attention,"Внимание: можно сохранить до 30 элементов. Если лимит превышен, старые элементы будут удалены. История получения автоматически удаляется через 30 дней после отображения."
+BeginnerMission_BingoLine,Линия {0}
+Mission_Filter,Фильтр
+Mission_Filter_Title,Фильтр
+Mission_Filter_Button_AllSelect,Выбрать всё
+Mission_Filter_Button_AllRelease,Снять выделение
+Mission_Filter_Content_Title_Reward,Награда
+Mission_Filter_Reward_Member,Айдл
+Mission_Filter_Reward_Gem,Loveca
+Mission_Filter_Reward_Gold,Золото
+Mission_Filter_Reward_Ticket,Билет для набора
+Mission_Filter_Reward_Recovery,Восстановление LP
+Mission_Filter_Reward_Exp,Предмет для тренировки
+Mission_Filter_Reward_SkillExp,Предмет для навыков
+Mission_Filter_Reward_Evolve,Пробуждение
+Mission_Filter_Reward_Title,Награда
+Mission_Filter_Reward_Other,Другие
+Mission_Achievement,Прогресс
+HomePreset_Edit_Dialog_Text,Сохранить текущую настройку домашнего экрана?
+GachaTop_Invitation_Bonus_Detail,Детали набора очков
+GachaTop_Invitation_Bonus,<size=29>Набор <br> <size=23> очков
+Adv_Log_NameSuffix_Telop,[Титры]
+EventTop_Button_Tips_Rule,Как играть
+EventTop_Button_Tips_Bonus,Бонусы
+EventTop_Button_Reward,Награда
+EventTop_Button_Story,Сюжет<br>события
+EventTop_Button_Ranking,Подробнее о рейтинге
+EventTop_Button_Exchange,Обмен
+EventTop_Button_Favorite,Избранное
+EventTop_Button_ToEvent,События
+EventTop_Button_ToGeneral,Обычные песни
+EventTop_Favorite_Ranking,Любимая участница
+EventTop_Point_Total,Накопленные очки события
+EventTop_Point_Next_Story,До следующей истории
+EventTop_Term_Title,Период проведения: с <size=20> до </size> {0} <size=20> </size>
+EventTop_Point,{0} очков
+EventTop_Rank,{0}-е место
+Tutorial_Group_Muse,"・Токийский Акихабара — центр деятельности школьной идол-группы Национальной академии Ононосака. <br>・Название группы происходит от «9 муз, поющих богинь». <br>・Группа стремится к победе в Love Live!"
+Tutorial_Group_Aqours,"・Сформирована для поднятия духа школы, действует в основном в городе Нумадзу префектуры Сидзуока. <br>・Участницы — школьные идолы частной женской академии Уранохоси. <br>・Активно участвуют в конкурсе Love Live! с целью победы."
+Tutorial_Group_Nijigaku,"・Токийский район Одайба — основное место деятельности школьной идол-группы частной академии Нидзигасаки. <br>・Каждый участник ценит свою индивидуальность и выступает как сольный школьный идол. <br>・Они не участвуют в Love Live!, а стремятся стать лучшими школьными идолами."
+Tutorial_Group_Liella,"・Токийский район Харадзюку — основное место деятельности школьной идол-группы частной женской средней школы Юйгаока.<br>•Юйгаока — недавно открытая школа, и клуб был основан в год её открытия.<br>•Одна из групп, за которой стоит следить на Love Live!"
+Tutorial_Group_SelectButton,Выбрать эту группу
+Tutorial_Member_SelectButton,Выбрать эту участницу
+Tutorial_Recommend_Lesson,Повышайте уровень Айдл на тренировках!
+Tutorial_Recommend_Gacha,Получите предметы для развития в наборе!
+Tutorial_Recommend_Live,Сначала попробуйте Live!
+EventRanking_Tab_MySelf,Мой рейтинг
+EventRanking_Tab_Rank,{0}-е место
+EventRanking_Tab_TotalPoint,Рейтинг по очкам события
+EventRanking_Tab_Score,Рейтинг по очкам в ивентовых песнях
+EventRanking_Tab_Favorite,Любимые участницы
+EventBonus_Tab_Point,Бонус за очки события
+EventBonus_Tab_Item,Получить бонус «Миракул Стар»
+EventBonus_MultiTab_Score,Бонус за счёт
+EventBonus_MultiTab_Item,Бонус за получение предметов при входе в игру
+EventBonus_Button_Disclaimer,Оговорка
+EventBonus_Point_Value,+{0}%
+EventBonus_Item_Value,+{0}
+EventBonus_Empty_List,Пусто.
+EventTop_Button_ToGeneral_Msg,Получите Миракл Стар!
+EventTop_Button_Favorite_Ranking,Любимые участницы
+EventTop_Button_Mission,Задание
+EventTop_Point_Next_Reward,До следующей награды
+EventTop_Point_Ranking,Рейтинг по очкам события
+EventBonus_Title,Бонусы
+EventRanking_Ranking_Not_Exists,Рейтинг отсутствует.
+GemShop_Footer_Special_Commercial_Code,Спецторг./<br>Закон о платежах
+GemShop_Footer_Precautions_Regarding_Use,Использование: <br>важные примечания
+EventRanking_Unaggregated,Данные рейтинга ещё не <br>собраны.
+EventReward_EmotionalMemberUnselected,"Нельзя отобразить, так как не выбрана любимая участница."
+EventReward_RequiredPoint,Необходимые очки
+LpBoost_LP_Count,Кол-во LP
+LpBoost_LP_Default_Amount,Базовая стоимость LP
+LpBoost_LP_Discount,Скидка LP!
+LpBoost_Min,МИН.
+LpBoost_EventPt,Евент. очки
+LpBoost_Get,Получить
+LpBoost_GetReward,Получить награду
+LpBoost_UseLpMessage,Количество используемых LP влияет на количество получаемой награды и типы доступных наград.
+LpBoost_UseLpSetting,Настройка расхода LP
+LpBoost_Count,Кол-во
+LpBoost_UseCount,Использовать
+LpBoost_Default,Базовый
+LpBoost_GetRewardMessage,"В зависимости от этого, количество получаемых наград изменится."
+LpBoost_Use,Использовать
+LpBoost_UseLp,Использовать LP
+LpBoost_Setting,Установить
+LpBoost_UseLPMessageShort,Количество полученных наград зависит от потраченного количества LP.
+Skip_Message,Вы получите все награды за пропущенные этапы сразу.<br>При пропуске используется ваш лучший результат в качестве итогового.
+Skip_Ticket_Count,Кол-во билетов для пропуска
+Skip_Ticket_UseCount,Укажите количество пропусков.
+Skip_Confirm,Подтверждение пропуска
+Skip_Lock_Message,Функция пропуска разблокируется после прохождения выбранного уровня сложности.
+Skip_Not_Enough_Ticket,Не хватает билетов для пропуска.
+LoginBouns_RewardAmountBonus,+{0}
+EventTop_Button_ToGeneral_2,В Live
+EventTop_Button_ToGeneral_2_Msg,Получите очки события!
+EventTipsDialog_Tips_Title,Как играть в событии
+EventTop_Aggregate,Рейтинг обрабатывается.
+EventTop_EventClose,Мероприятие завершено.
+BeginnerMission_Bingo,БИНГО
+TakeOver_DialogTitle,Синхронизация данных об игре
+TakeOver_DialogUserId,ID пользователя Love Live! School Idol Festival.
+TakeOver_DialogPassword,Пароль для связи с данными игры
+TakeOver_DialogPasswordSample,Введите
+TakeOver_DialogAccept,Синхронизация данных об игре
+TakeOver_DialogDescription,Введя свой ID в Love Live! School Idol Festival и пароль для синхронизации данных <br>вы сможете просмотреть альбом Love Live! School Idol Festival.
+TakeOver_DialogAttension,"*Если вы не связали данные игры в Love Live! School Idol Festival, вы не сможете просмотреть их.<br>*Связывание данных и получение бонуса за это можно выполнить только один раз, пожалуйста, обратите внимание."
+TakeOver_DialogUserError,Введите свой ID пользователя в Love Live! School Idol Festival.
+TakeOver_DialogPasswaordError,Введите пароль для синхронизации данных.
+TakeOver_DialogDone,"Связь с данными игры завершена, теперь вы можете просматривать «Альбом воспоминаний»<br>Получите бонус за связь данных в разделе «Подарки»."
+BeginnerMission_BingoPlayableBalloonTips,"Выполнив БИНГО {0}, вы сможете начать выполнение задания."
+Mission_ChallengeButton_Chat,В чат
+Mission_ChallengeButton_Home,На главный экран
+Common_Remain,До уровня
+Mission_Attention_Daily,Ежедневные задания обновляются каждый день в 0:00.
+Mission_Attention_ExpireTime,Срок действия истекает {0}.
+Mission_Attention_Subscription,Задания MIRACLE Pass учитываются с момента подписки.
+Mission_HeaderTabTotal,Всего заданий
+Mission_HeaderTabDaily,Ежедневно
+HomePreset_DropDownItem_Obtain,По порядку получения
+HomePreset_DropDownItem_Rare,Редкость
+HomePreset_DropDownItem_Anime,С аниме
+HomePreset_DropDownItem_Favorite,В избранное
+Event_CategoryName_1,Миракул Коллекшн
+Event_CategoryName_2,Фри-тур
+Event_CategoryName_3,Кооперативный Live
+Event_CategoryName_4,Звёздное событие
+Event_Favorite_Button_Home,На главную
+Event_Favorite_Button_Decide,Подтвердить
+Event_Favorite_Title,Выбери свою любимую участницу!
+Event_Favorite_Tips,Что такое «любимая участница»?
+Event_Favorite_Confirm_Title,Подтвердить
+Event_Favorite_Confirm_Desc,"Вы уверены, что хотите выбрать {0} в качестве своей любимой участницы <br>? <br> <br> <color=#C70F01> Обратите внимание: после подтверждения изменение будет невозможно до окончания события. </color>"
+EventBonus_PointBonus_Desc,"Бонус к очкам события активируется при создании состава!<br>Количество очков события, получаемых после завершения Live, увеличится!"
+EventBonus_PointBonus_Attention,※Бонус к очкам события применяется ко всем выбранным участницам в составе.
+EventBonus_ItemBonus_Desc,"Если в списке айдолов есть выбранные участницы, количество получаемых звёздных кристаллов в ежедневном бонусе увеличится!"
+EventBonus_ItemBonus_Attention,"※Бонус на получение звёзд применяется ко всем участницам из списка, включённым в состав.<br>※Бонус на получение звёзд действует только в дни, когда звёзды выдаются в качестве бонуса за вход."
+EventBonus_ScoreBonus_Desc,"Бонус к очкам активируется при создании состава из выбранных участниц!<br>Увеличение количества очков, получаемых после завершения Live!"
+EventBonus_ScoreBonus_Attention,※Бонус к очкам применяется ко всем выбранным участницам в составе.
+EventBonus_ItemBonusMulti_Desc,"При наличии выбранных участниц в списке, количество получаемых предметов в ежедневном бонусе увеличится!"
+EventBonus_ItemBonusBonusMulti_Attention,"*Бонус к получаемым при входе в игру предметам применяется ко всем участницам, находящимся в списке айдлов.<br>*Бонус к получаемым при входе в игру предметам не распространяется на золото."
+EventBonus_BeforeEvolve,До пробуждения
+EventBonus_AfterEvolve,Пробуждение (после)
+EventBonus_HaveCard,Получено
+MusicSelect_CanNotFocusMusic,По текущим условиям поиска музыка не найдена.
+Common_ContinueSpiritShortageShortMessage,Не хватает звёздных осколков.
+EventReward_Category_EventPoint,Накопленные очки события
+EventReward_Category_EventScore,Счёт
+EventRanking_Category_EventPoint,Накопленные очки события
+EventRanking_Category_EventScore,Счёт
+Common_Consumption,Использовать
+Common_Setting,Установить
+PresentBox_ReceivableItemCount,{0}/<size=-10> {1} шт. </size>
+HomePreset_Edit_EmptyPresetText,Настройки домашнего экрана не заданы.
+Header_Lp_TextTag,{0}/<size=25> {1}
+Adv_Button_Skip,Пропустить
+Adv_Button_Auto,Автовоспроизведение
+Adv_Button_Fast,Ускорить
+Adv_Button_Log,Лог
+Adv_Button_Deactive,Скрыть
+Adv_Button_MovieSkip,Пропустить
+Adv_Button_MoviePlay,Воспроизвести
+Adv_Button_MovieStop,Пауза
+Adv_Button_MoviePrevStep,Назад
+Adv_Button_MovieNextStep,Вперёд
+Adv_Button_MovieDeactive,Скрыть
+Header_Lp_Text,<size=21>LP
+StoryPart_NotLiveClearGroupMusicCount,"Сыграйте в {0} ещё {1} раз, чтобы открыть."
+StoryPart_NotLiveClearMusicCount,Откроется после {1} прохождений {0}
+Common_SeriesName_1,Love Live!
+Common_SeriesName_2,Love Live! Sunshine!!
+Common_SeriesName_3,Love Live! Nijigasaki Gakuen School Idol Club
+Common_SeriesName_4,Love Live! Superstar!!
+Common_SeriesName_5,Love Live! Luminous Girls Academy School Idol Club
+StoryPart_NotRelease_EventStory,Не хватает очков для участия в событии.
+Common_NoCapture,Скриншоты этого экрана запрещены.
+Common_EventCloseMessage,В настоящее время мероприятие не проводится.
+LiveResult_BonusText,Бонус {0}<size=-3>%</size>
+HomePreset_Title_HomeCustomEdit,Редактирование домашнего экрана
+HomePreset_Title_Preview,Предварительный просмотр
+HomePreset_Title_BackgroundSelection,Выбор фона
+HomePreset_Title_ForegroundSelection,Выбор переднего плана
+HomePreset_Title_MemberChange,Сменить Айдл
+HomePreset_HomeCustom,Домашний вид
+HomePreset_Save_HomeCustom,Сохранено!
+HomePreset_PhotoWarning,В настройках фото нельзя изменить фон и эффекты.
+TermsOfService_Credit,Информация об авторах
+TermsOfService_Button_InformationNotation,Информация
+TermsOfService_Button_Performance,Результаты
+TermsOfService_Button_StoneConfirmation,Проверка Loveca
+SubMenu_Button_Profile,Профиль
+SubMenu_Button_Friend,Друзья
+SubMenu_Button_ItemList,Список предметов
+SubMenu_Button_Exchange,Обмен
+SubMenu_Button_Album,Альбом
+SubMenu_Button_OnePanelComic,Один кадр манги
+SubMenu_Button_MemoryAlbum,Воспоминания
+SubMenu_Button_DataTransfer,Перенос данных
+SubMenu_Button_SerialCode,Серийный код
+SubMenu_Button_LocationCampaign,Походы<br>Подарки
+SubMenu_Button_MusicLibrary,Музыкальная библиотека
+GemShopItem_SubscriptionButton_Restore,Восстановить
+LiveResult_GetFriendPointSameMemberFormation,В данном составе используются одни и те же участницы.
+EventTop_RewardGotAll,Все награды за достижение целей в событии уже <br>получены.
+EventTop_StoryAllReleased,Все сюжетные эпизоды разблокированы.
+HomePreset_Cant_Clear_Last1,"Нельзя проходить, если пресет только один."
+EventTop_NotSetFavorite,Любимая участница: не выбрана
+StoryPart_NotRelease_ReadPrevious,Предыдущая часть ещё не прочитана
+SerialCode_InputDialogTitle,Серийный код
+SerialCode_InputDialogText,Введите серийный код.
+SerialCode_InputEmptyText,Серийный код
+SerialCode_InputDialogAttentionText,Полученные предметы будут отправлены в раздел «Подарки».<br>Каждую награду по коду можно получить только один раз на аккаунт.
+SerialCode_ConfirmDialogTitle,Подтвердить
+SerialCode_ConfirmDialogText,Вы хотите получить бонус для [{0}]?
+SerialCode_SuccessMessage,Получите бонусные предметы в разделе «Подарки».
+SerialCode_ErrorMessageAlreadyUsed,Этот серийный код уже использован.
+SerialCode_ErrorMessageNotUse,Введённый серийный код недействителен.
+SerialCode_ErrorMessageNotAvailable,Вы уже получили максимальное количество наград в рамках этой акции.
+SerialCode_ErrorMessageNotEnter,"Ввести сейчас невозможно, попробуйте позже {0}."
+SerialCode_InputButtonText,Серийный код<br>Ввести
+SerialCode_ConfirmButtonText,Серийный код<br>Подтвердить
+SerialCode_DisplayButtonText,Серийный код<br>Показать
+SerialCode_CopyMessage,Серийный код скопирован.
+SerialCode_NoCampaign,Акций нет
+SerialCode_DisplayDialogTitle,Серийный код
+SerialCode_DisplayDialogAttentionText,Каждый серийный код можно использовать только один раз на аккаунт.
+SerialCode_DisplayDialogText,Серийный код для {0}.
+SerialCode_FailedToCreateSerialCode,Не удалось получить серийный код. Попробуйте повторить попытку позже.
+SerialCode_NoAllocatableCode,Не удалось назначить серийный код. Обратитесь в службу поддержки.
+Common_EventPointDetail,{0} {1}
+EventTop_Multi_RoomIdCopy,ID комнаты скопирован.
+SerialCode_ErrorMessageExpired,Срок действия введенного серийного кода истек.
+SerialCode_ErrorMessageRankOutOfRange,"Введённый серийный код не соответствует требуемому уровню игрока, поэтому <br>его нельзя использовать."
+LocationInformation_Message,"Посетите указанное место до окончания срока, чтобы получить награду!"
+LocationInformation_Success,Получение данных о местоположении прошло успешно! Заберите свою награду в разделе «Подарки».
+LocationInformation_ConfirmDialogTitle,Подтверждение кампании
+LocationInformation_ConfirmDialogMessage,Отправляем данные о местоположении и получаем награду. Вы уверены? <br>※В целях безопасности не отправляйте данные во время движения.
+LocationInformation_ConfirmDialogGetReward,Получить награду
+LocationInformation_ConfirmDialogGetLocation,Получить данные о местоположении
+LocationInformation_NoCampaign,В данный момент активных событий с подарками нет.
+Common_OnlySecond,сек.
+MultiMatching_CannotMatching,Не удалось найти матч. Вернуться на страницу события?
+MultiMatching_Synchronization,Синхронизация с другими игроками.
+MultiMatching_MemberDecited,Участница выбрана.
+MultiMatching_LeaveByTimeLimit,"Время истекло, покидаю игру."
+DeckEdit_Score,Счёт
+MultiMatching_RecruitMembers,Повторный набор участниц.
+MultiMatching_WaitMembersOnResult,Ожидание участниц во время отображения результатов Live.
+MultiDeck_DefaultDeckName,Кооперативный Live
+MultiMatching_WaitingAnotherMembers,Ожидаем других игроков.
+MultiMatching_LiveWillStartSoon,Live скоро начнётся.
+MultiMatching_SongRequestLabel,Выбранная песня
+MultiMatching_DecideSongRequest,Выбрать эту песню
+MultiMatching_NoSongCandidate,Эту песню нельзя выбрать.
+MultiMatching_SongPickSecondsSuffix,сек
+MultiMatching_SongPickChosenLabel,Выбрано
+MultiMatching_SongPickWaiting,Ожидаем других игроков...
+MultiMatching_SongPickClosed,Выбор песни завершён.
+MultiRestart_LeaveButton,Выйти
+MultiResult_HighScoreNotUpdated,В кооперативном Live<br>рекорд не обновляется.
+SSAlignment_SubMenuButtonText,Синхронизация со Skusta
+SSAlignment_SubMenuButtonTextAlreadyCompleted,Связано
+SSAlignment_DialogTitle,Синхронизация со Skusta
+SSAlignment_DialogTextPlayerId,Идентификатор игрока в Skusta.
+SSAlignment_DialogTextPassword,Пароль для связи
+SSAlignment_DialogTextInfo,"Введите ID игрока и пароль, полученные в Skusta, чтобы <br>получить бонусы."
+SSAlignment_DialogTextAttension,"Нельзя использовать, если не настроена привязка к Skusta в Skufesu 2."
+SSAlignment_MessageSuccess,Связь со Skusta успешно установлена.<br>Получите бонус в разделе «Подарки».
+SSAlignment_ErrorMessageLock,"Ввести сейчас невозможно, попробуйте позже {0}."
+SSAlignment_ErrorMessageInput,"Убедитесь, что ID игрока в Skusta и пароль для связи введены правильно."
+Dialog_TitleConfirm,Подтвердить
+Event_EndMessage,Мероприятие завершено.
+Common_Search,Поиск
+Common_SearchPlaceholder,Введите запрос.
+MusicLibrary_SearchPlaceholder,"Ищите по названию песни, композитору, автору текста или аранжировщику."
+MusicLibrary_SearchWordsEmpty,Введите поисковый запрос.
+MusicLibrary_Live,Выполнить Live с этой песней!
+MusicLibrary_SortDefault,По умолчанию
+MusicLibrary_SortMusicName,По названию
+MusicLibrary_SortReleaseTime,По дате выхода
+MusicLibrary_MusicCount,"{0} из <size=-5>, выбрано {1}, сейчас </size>"
+MusicLibrary_MusicEmpty,Соответствующих песен не найдено.
+MusicLibrary_Button_MusicDetail,Детали композиции
+MusicLibrary_Button_Live,Live
+Multi_CannotSendStamp,В данный момент отправка стикеров недоступна.
+MusicLibrary_ReleaseDate,Дата выпуска: {0}
+Common_Refresh,Обновить
+SortDialog_SortRecommendedGuest,Рекомендованные гости
+MusicSelect_ChangeDifficulty,"Выбран {1}, так как {0} недоступен."
+Practice_CantUseItem,Автоматически использовать предметы невозможно.
+MusicSelect_NotFullCombo,Не пройден полностью
+RankUpDialog_LpMax,Достигнут максимальный предел LP.
+StarEvent_TabGroupStarLevelRanking,Рейтинг звёздного уровня
+StarEvent_TabGroupStarLevelReward,Награда за звёздный уровень
+StarEvent_TabGroupStarPointReward,Накопленные награды за участие в событии
+StarEvent_Get,Получить
+StarEvent_Share,Делитесь один раз в день.
+StarEvent_Assist,Стар-ассист
+StarEvent_ChangeMusic,Сменить песню
+StarEvent_ChangeMusicFirstPrice,Бесплатно при первом запуске
+StarEvent_SkippableStarMission,Можно пропустить и получить целевой счёт!
+StarEvent_Skippable,Можно пропустить
+StarEvent_MusicClearText,Выберите песню и наберите нужное количество очков в Live!
+StarEvent_PlayCount,Сегодня сыграно песен: {0}/{1}
+StarEvent_SkillPercentUp,Очки <color=#F93981> + {0}% </color>
+StarEvent_GotAllStarPointReward,Все награды за достижение целей в событии получены.
+StarEvent_NonPoint,--- очко
+StarEvent_NextStarPointReward,До следующей награды за накопленные очки события
+StarEvent_GotAllStarLevelReward,Все награды за достижение уровней получены.
+StarEvent_NextStarLevelReward,Следующая награда за уровень звезды
+StarEvent_Total,Всего
+StarEvent_StarLevel,Уровень звёзд
+StarEvent_BeforeLevel,Предыдущий<br>уровень Star Lv
+StarEvent_ClearCount,<size=36> {0} / </size> {1}
+StarEvent_StarLevelReward,Награда за уровень звёзд
+StarEvent_StarPointReward,Общая награда за очки события
+StarEvent_StarLevelRewardDialogTitle,Награда за звёздный уровень отправлена в подарок!
+StarEvent_ChangeMusicMessage,"Вы уверены, что хотите изменить «{0}» на «<br>»?"
+StarEvent_ChangeMusicButton,Сменить песню
+StarEvent_StarAssistTitle,Звёздная помощь: подтвердить?
+StarEvent_StarAssistInfo,Использовать 1 билет «Стар Ассист» для участия в Live? <br>При использовании билета «Стар Ассист» во время Live будут применены следующие эффекты:
+StarEvent_StarAssistBuffInfo,"・Бонус тренировки Айдл 【+{0}%】<br>※Бонус тренировки Айдл увеличивается при тренировке определённого числа Айдл<br>・Во время Live становится неуязвимой, HP не уменьшается<br>・Постоянно действует максимальное усиление оценки (ошибки BAD заменяются на PERFECT)<br>・Шанс срабатывания навыков +20%<br>・Эффект бонуса очков для выбранных Участниц удваивается"
+StarEvent_StarAssistAmount,Кол-во билетов Star Assist
+StarEvent_StarAssistButton,Использовать Стар-ассист в Live
+StarEvent_ShareMessage,#В #スクフェс 2 проходит мероприятие «Звёздный вызов»!#Мой звёздный уровень
+Event_PointRewardLoop,После этого получайте за каждые {0} очков.
+StarEvent_LevelRewardLoop,Получить за каждый уровень
+EventBonus_StarTab_Score,Бонус за счёт
+EventBonus_StarTab_Item,Бонус за получение предметов при входе в игру
+EventBonus_ItemBonusStar_Desc,"При наличии выбранных участниц в списке, количество получаемых предметов в ежедневном бонусе увеличится!"
+EventBonus_ItemBonusBonusStar_Attention,"※Бонус к получаемым предметам при входе зависит от общей суммы характеристик выбранных участниц в списке айдолов.<br>※Бонус к получаемым предметам при входе применяется только в дни, когда в качестве бонуса за вход установлено получение билета Star Assist."
+StarEvent_PlayBonus_AllGot,Все бонусы за сегодня получены.
+StarEvent_Remain_point,Осталось {0} очков
+EventBonus_StarScoreBonus_Attention,※Бонус к очкам применяется ко всем выбранным айдолам в списке участников.
+EventBonus_StarScoreBonus_Desc,Если в списке айдл есть выбранные участницы<br>то при прохождении песен события в режиме Live вы будете получать больше очков!
+Theater_DialogTitle,Ежедневный театр
+GemShop_ClosedGemShopMessage,Сейчас нельзя купить Loveca.
+GameClose_Payback,Возврат средств
+GameClose_Inquiry,Обращение в службу поддержки
+GameClose_InformationNote,Информация
+GameClose_UserId,ID
+GameClose_PaybackCode,Код возврата
+GameClose_PaidGem,Имеющиеся Loveca
+GameClose_Button_Information,Информация
+GameClose_Button_Album,Альбом
+GameClose_Button_TitleList,Награда
+GameClose_Payback_CopyMessage,"Скопировал ID, код для возврата и информацию о Loveca."
+GameClose_Payback_CopyText,"ID {0}, код возврата {1}, имеющиеся платные Loveca {2} <br> <br>"
+Auto_01abf2e45264,В помещении
+Auto_02724107c812,Применить бонус текущего события к общей силе.
+Auto_02b919ddcdf4,Назад
+Auto_03274bad099f,Награда увеличена!
+Auto_0328cfbe3899,Количество<br>
+Auto_033c8131ffca,Друзья<br>Запрос
+Auto_038bc41a7c6c,ДЕМО
+Auto_03dd9696f109,Звёздный ассист активен.
+Auto_05db19bd7579,МАСТЕР<br>
+Auto_0a462ba1ee08,Недавно использованные стикеры
+Auto_0b9c90355fa7,Ноты
+Auto_0cae74dd2ee6,Душа
+Auto_0ce873d68a35,x5
+Auto_0eb944667807,■Период подачи заявок на возврат средств
+Auto_0f7fa8f9a3bd,ОК<br>
+Auto_0f9511a417ab,Подмена Live-очков
+Auto_1075010ff27d,Ваши траты за этот месяц
+Auto_109f7d11a0d6,Счёт в событии
+Auto_123209ff77c4,Рекомендуем!
+Auto_12b2b7105fb3,ОСНОВНОЕ
+Auto_12d470debc6c,Подробнее
+Auto_1559210b6441,Другие условия
+Auto_1592365cb790,Использовать<br>
+Auto_1744ba8fe835,Нажмите для ввода
+Auto_1798815611ff,Список событий
+Auto_17c2e91f339d,Стар-ассист в использовании
+Auto_19682bdb9185,Инициализация
+Auto_19d41bf40aad,Обменять очки
+Auto_1aa6e8ca6610,Ур.
+Auto_1ada75706b1c,Google Play
+Auto_1b51bb0ac522,Общая сила участниц
+Auto_1d0659501e10,Доступных товаров нет.
+Auto_1d3921b31495,День 1
+Auto_1d97f9dcc3d6,Настройки загрузки
+Auto_1db118371c67,Итого
+Auto_1e5dd6092929,На главный экран
+Auto_1ebe6a8e14e1,Особая способность включена
+Auto_204ca2888aa0,Название события гача
+Auto_20946a364888,На главный экран
+Auto_20b77e71a816,ВСЕ<br>БЕЗ ОШИБОК
+Auto_21125a762c34,Вкл.
+Auto_2184ff8e15c8,Комната расформирована.
+Auto_252e0f7141ed,Задание выполнено!
+Auto_25f4e117dab6,Применить
+Auto_264ccbd4abf8,"Если вы не согласитесь, при игре могут быть введены ограничения, например, вы не сможете участвовать в розыгрыше реальных наград или подавать заявки <br> <br>."
+Auto_2850206c3c5a,Возрастное ограничение на покупки
+Auto_2a626ea9baf4,Бонус к общему счёту
+Auto_2c42bdbb8ded,"с 00:00, 1 апреля 2024 г. по 14:59, 17 июня 2024 г."
+Auto_2cff4f6ba8c2,Название карты (макс. 20 символов)
+Auto_3050c748c4fa,Удалить данные
+Auto_3091c8446f8d,Озвучка
+Auto_309200e20a10,Видео есть
+Auto_33906a7dfdec,ОТКРЫТЬ
+Auto_35d0f5fbca4b,Авторизация
+Auto_36680a92670b,Макс. комбо
+Auto_387d7a59dbaa,Вкл.
+Auto_38bfb0d36aee,Размер загрузки 9999.99 МБ
+Auto_3a3662973891,Медленно
+Auto_3b45ef3e2d04,Выйти без сохранения
+Auto_3cb25413e47f,Выбрать песню для события
+Auto_3d919fa4840b,Повтор.
+Auto_3da474537ac3,Пропустить
+Auto_408090253cc2,Сортировка
+Auto_41a07ce577b3,Выбрать количество обменов
+Auto_42672f9a37d1,Выбранные участницы
+Auto_42f76867ad2d,С эпизодом
+Auto_42f9f3c2d790,Сменить титул
+Auto_4315bc5cce32,Первая попытка:
+Auto_441030094524,Подтвердить выбор
+Auto_44e681a374ac,Прервать
+Auto_45bec89c0f50,Снять
+Auto_4693ee8bed24,Обмен завершен.
+Auto_482939397cb5,NexTone № <br>ID012345678<br>ID012345678
+Auto_5064a0f4ba98,Загрузка данных
+Auto_506f8b799c18,◆Принудительная активация спецэффектов◆
+Auto_5291c399b506,Только для билетов
+Auto_536a08d31bbb,БЫСТРО
+Auto_54ac68559d08,БОНУС
+Auto_576770016382,До следующего восстановления
+Auto_587eac1112fa,НАЗАД
+Auto_58a89456cac6,Выбрать несколько
+Auto_5b4f82050b5f,■Время окончания
+Auto_5bfa6380e816,Бонус за вход
+Auto_5c9f61d441b4,Японский<br>
+Auto_5db23947a6dc,ID события
+Auto_5e9276d98d7e,Бонус
+Auto_61f9b95b94af,При пропуске используется лучший результат в качестве итогового <br>счёта.
+Auto_622b0710d2c1,Аааааииииуууууу<br>Эээээээ
+Auto_6287420f60b0,<size=/32>Набор </size>бонус
+Auto_633a7785dc75,Подтвердить
+Auto_63651cf6d9f8,Live <i>! </i>
+Auto_649df08a448e,Английский
+Auto_64f71689e86e,Сохранить
+Auto_65f101b159a1,Как получить
+Auto_660f91b2b864,Список Айдлов<br>
+Auto_66fba5a6fa14,Сохранить настройки
+Auto_6740ed068754,Live Burst
+Auto_67a0c5e93888,Сбросить результаты оценки.
+Auto_6a72085653e4,Все
+Auto_6a9178a4932f,КЛИМАКС %
+Auto_6b268944e92c,Подтвердить обмен
+Auto_6b30feafd1f3,Добавить очки
+Auto_6d9a18833a5a,"Можно отменить и загрузить эпизоды по одному <br><br>Позже можно будет загрузить всё сразу в разделе «Все» в истории <br>Рекомендуется выполнять загрузку в месте с хорошим интернет-соединением, так как объём данных большой <br><br>Рекомендуем загружать при подключении к Wi-Fi."
+Auto_6dd5a42a94c0,Настройки<br>
+Auto_6e444147a521,Скачать все видео.
+Auto_6e6a6f2086bb,Другое
+Auto_719ea396ad92,Очистить
+Auto_71afae920481,Скидка LP
+Auto_74c545d169bf,Требуется {0}
+Auto_7548ab52c3d1,Сила
+Auto_77c6a8345db8,Прервать <br>текст<br>
+Auto_77dfd2135f4d,Отмена
+Auto_77f505b6262c,Аааааа иииииууууу <br> Еееееее <br>
+Auto_788a0043ef72,Выбрать префаб воспроизведения
+Auto_7c76cd4f10f6,Фильтр персонажей
+Auto_7cb690cac947,Бонус за игру
+Auto_7d8bbc065980,Бонус к очкам события (всего)
+Auto_7ed45871a39c,В наличии: 99
+Auto_7ef4a9de5c25,Камни
+Auto_7f450bbd899c,Использовать 3
+Auto_80212d3591fe,Искусственный
+Auto_8223fef77e91,Фильтр по группам
+Auto_8293da245b3b,Фильтр по редкости
+Auto_845ae4bff63e,Получить очки события
+Auto_848e23d86457,Ост. энергия
+Auto_85932094d554,Награда за достижение очков события
+Auto_88b79a43a5a2,Набор за <size=28>билеты
+Auto_89c6e6591da2,Состав
+Auto_8ac8a8695f8c,Условия разблокировки костюма<br>Условия разблокировки костюма
+Auto_8b587a7dbf54,Общий ранг группы
+Auto_8fb2690daca7,Закрыть
+Auto_8fc78aae68c7,Ранг группы
+Auto_8fe39d4e10b7,По возрастанию<br>
+Auto_9241dc943583,Использовать
+Auto_9273914e5109,Вернуть по умолчанию<br>
+Auto_959f794269e3,Фото
+Auto_98205d57bde6,X JAPAN
+Auto_98cb7f8b4243,Кол-во пропусков подряд
+Auto_9d2900c40ab7,Smile для тебя.
+Auto_9ebddc6b6669,LUNA SEA
+Auto_9f783ad4a18c,Настройки сцены
+Auto_a1477059aa3b,Настройки гостя
+Auto_a1dea8028b01,Том.
+Auto_a328a2d80d00,Отменить
+Auto_a338c21bfd26,Звёзды растут!
+Auto_a3c686e711e4,Категория
+Auto_a4911f7f372a,Громкость голоса
+Auto_a8dc0179d0a8,Ваш лимит покупок
+Auto_a9a279c07f10,Кол-во для обмена
+Auto_aa3fa7dd256b,"Для участия в мероприятии необходимо согласиться с <br>Пользовательским соглашением<br>. Пожалуйста, ознакомьтесь с ним и нажмите кнопку «Согласен»<br>."
+Auto_ac35bd4adf50,"«Love Live! School Idol Festival 2 MIRACLE LIVE!» прекращает работу с указанным ниже временем. <br> <br> Принимаем заявки на возврат неиспользованного остатка игровой валюты «Loveca» в приложении, начиная со следующей даты. <br> <br> <br>"
+Auto_ac7c161425e5,Использовать LP
+Auto_acca96a91aa4,Не разблокировано
+Auto_ad4d9cc1b087,На улице
+Auto_ad50489054dd,ВЫКЛ
+Auto_add22ce29a3d,Восстановление LP
+Auto_b07900dc57ed,очки
+Auto_b0e4ee23c952,Набор раз
+Auto_b13d33a52865,Фон
+Auto_b2f2b09e6e2d,Имеется {0}
+Auto_b31d5ea85dff,3-й раз:
+Auto_b68eb2cb5bf1,Срок действия
+Auto_b6e09f881f83,Личный счёт
+Auto_b6e3f5c3b4f2,Новая судьба...
+Auto_b72306f4e35d,ОБЫЧНЫЙ<br>
+Auto_b8143777066d,Второй раз:
+Auto_b8571eaa5763,КОСНИТЕСЬ ЭКРАНА
+Auto_b8a4ee600c4a,год
+Auto_b9fa67abcaf9,Выбрать
+Auto_bc811258ae9f,очки
+Auto_bd89f983989e,Подтвердить восстановление
+Auto_bf22940fda0d,Подтвердить количество обменов
+Auto_bf62b8f395bb,Результаты настройки синхронизации
+Auto_c25f358874d1,В свободный Live
+Auto_c28c25bf8e62,Детали предмета
+Auto_c401efeb943c,Повысить ранг
+Auto_c7eb0f35af72,ЦЕНТР
+Auto_c7f325f13f16,Вернуть исходное состояние
+Auto_c998d2ee5b08,Вкл. автопроигрывание
+Auto_cc5ea3852219,Нажмите на ритм-иконки в такт музыке.
+Auto_cd131363eae4,GLAY
+Auto_cde3eb972d17,Продолжить
+Auto_d00d84c15d3a,Live Burst<br>
+Auto_d47b6f2a9df1,<size=26>Текущий </size> <size=24> этап </size> <br>.
+Auto_d54d12f95c41,Имя
+Auto_d5ab84b435fb,класс
+Auto_d63f619942b9,Естественный
+Auto_d6b401a4b2ac,Миссия<br>Выполнена!
+Auto_d8cb03e33092,Апелляция
+Auto_d8ec9e35d2f2,Имя участницы
+Auto_db66ad7b9586,4-й раз:
+Auto_dcae5862b56f,Комбо
+Auto_dd48a1149548,Ранг
+Auto_df50ec2cd8cb,Кол-во предметов
+Auto_df6861322391,Карта: Макс. | Карточка: Макс.
+Auto_df6e6c5f5960,Общий счёт в мультиплеере
+Auto_e0491d31d0f7,В мульти-Live
+Auto_e11c09011cad,Благодарим за вашу поддержку.<br>
+Auto_e4d2bab524b4,"«Love Live! School Idol Festival 2 MIRACLE LIVE!» прекратила работу <br> 31 марта 2024 года. <br> Если вы хотите получить возврат неиспользованного остатка игровой валюты «Loveca», скопируйте <br> указанную ниже информацию и отправьте запрос через форму «Возврат». <br> Пожалуйста, свяжитесь с нами. <br>"
+Auto_e7a1f2b591d7,Использовать сначала бесплатные Loveca.
+Auto_e7ae8d0559ec,Имеющиеся медали
+Auto_e7e170510efe,"31 марта 2024 г., 15:00 (воскресенье)"
+Auto_eab6741c0f59,Текст
+Auto_eb1a2d429c58,Выполнить
+Auto_ebb93d3b53a4,Эффект
+Auto_ebcf18c786af,Техника
+Auto_ec828e93801a,Уровень<br>
+Auto_ed28cf13bde2,Главная
+Auto_edcb599b9885,"Загружается видео для выбранного гача <br> <br>. Отображаются карты, заданные в настройках, независимо от гача."
+Auto_edee9402d198,Далее
+Auto_ee3c38fe094f,Результат оценки
+Auto_ef3619115ff6,Необходимые очки для набора
+Auto_efd565d40ade,Повтор цикла
+Auto_f0d441f3dfff,Название костюма
+Auto_f12ab05bb974,По убыванию<br>
+Auto_f22f0eb3fa2b,Избранные группы
+Auto_f4cb18567198,Добавить карту<br>
+Auto_f5ecb4b9a22d,Текст <br> текст <br> текст <br> текст
+Auto_fe212fc5ce20,Пропустить
+Auto_fff655d2974f,ЦЕНТР<br>
+Auto_003c9447ae9b,Кнопка заголовка
+Auto_00b165f88921,Голос
+Auto_024500726b03,распр.
+Auto_029ebd875fdb,Текст<br>Текст
+Auto_044adfd9ed9d,ШАГ 4
+Auto_04b455ccba55,Временный обмен предметами
+Auto_057d38b205d3,Название группы
+Auto_05bf2aac7949,"При переносе данных, данные текущего устройства будут удалены и заменены данными из предыдущей версии. <br> При переносе между разными операционными системами, платные медали будут конвертированы в бесплатные. <br> При переносе внутри одной операционной системы, данные будут перенесены без изменений. <br> <br>"
+Auto_079bf11eeff3,Версия 0.0.1
+Auto_07a05e260d6b,Название центрального навыка
+Auto_07ddf136db16,16–17 лет:
+Auto_09ec0c5b620d,Текст текст текст
+Auto_0c6ca3b6cc0a,Эпитет
+Auto_0cb8722f43db,LP восстановлено на 99.
+Auto_0d57f9526844,Данных для воспроизведения песни нет.<br>Попробуйте воспроизвести песню!
+Auto_0e68b6445410,Больше нет предметов для обмена.
+Auto_0e8f4f23a65a,"Выполнив BINGO 1 и 2, вы сможете начать."
+Auto_0f04165846d6,Выбор
+Auto_0f16b706d0e6,Содержит от 8 до 32 символов (буквы и цифры).
+Auto_11412d0e8910,Гарантированная выдача
+Auto_121def961f9a,ID переноса данных<br>
+Auto_13e47abd10a7,Использовать и начать Live? <br>※Live Burst не используется.
+Auto_13fd30e09401,Сбрасывается каждое воскресенье.
+Auto_146927317e55,Евент. очки<br>Награда за достижение
+Auto_14bf1f14b527,"Использовать 〇〇 золота,<br>чтобы случайно заменить «〇〇〇〇〇〇〇〇〇〇 (название песни)» на другую? Вы уверены?"
+Auto_163d2f0d102b,5 000 иен
+Auto_1703cc1d1ab7,"Вы можете перенести данные при смене устройства, выполнив одно из следующих действий.<br>Это также можно использовать в качестве меры предосторожности против потери данных при удалении приложения."
+Auto_171264a7eb78,Юки аааааааааааа
+Auto_1738ae542173,Текст текст текст ааа
+Auto_17a21f8751b1,Хонока
+Auto_18ce79396792,Стажёр-менеджер
+Auto_193f0038f792,Использовать 3000 Loveca для 11 Набора? <br> <color=#C70F01> <size=30> Недостаточно платных Loveca. Купить? </color> </size>
+Auto_1996a5682af1,Уведомление о прекращении обслуживания.<br>
+Auto_1a355bfca80b,Использовать медалей (платные).<br>Вы уверены?
+Auto_1ba4c95c1b7e,"μ's, 4-й сингл, трек с альбома. В аниме Махиро Нисикино исполняла её в музыкальной комнате, и она также запомнилась во время хорового выступления на выпускном. Существует множество версий, но в оригинальной версии обратите внимание на басовую линию. <br>μ's, 4-й сингл, трек с альбома. В аниме Махиро Нисикино исполняла её в музыкальной комнате, и она также запомнилась во время хорового выступления на выпускном. Существует множество версий, но в оригинальной версии обратите внимание на басовую линию. <br>μ's, 4-й сингл, трек с альбома. В аниме Махиро Нисикино исполняла её в музыкальной комнате, и она также запомнилась во время хорового выступления на выпускном. Существует множество версий, но в оригинальной версии обратите внимание на басовую линию."
+Auto_1be7423211a5,Название предмета ааааааааааа<br>
+Auto_1e0e1976379b,9999999 мин.
+Auto_1e17ebb75b4d,Loveca-камень 100 шт. <br> <size=22> <color=#F93981> в подарок Loveca-камень 100 шт.
+Auto_1e531d5608ba,(Есть) 100
+Auto_1fd729e61328,Передача данных завершена.<br>
+Auto_21461c8ad16a,Серийный код для кампании .
+Auto_217db72fc82b,Уровень навыка
+Auto_2187f31d0823,Вероятность активации навыка <color=#F93981> +0.6 </color> увеличена.
+Auto_21a6013d6db7,"Имя1, Имя2"
+Auto_231660b3e9aa,юкиааааааааааааа
+Auto_2359a6bc9f8e,До 29.12 23:59
+Auto_2372659b2fa8,Персонаж1: Текст1<br>Персонаж1: Текст1
+Auto_23c425468cfa,Бонус за вход в игру
+Auto_23d692f07a3f,Родитель
+Auto_24331d4b3c4b,СЛОЖНОСТЬ 10
+Auto_24ef5199c19f,Скачать…
+Auto_265c145b1c11,Использовать авто-ускорение
+Auto_28578faf0062,Новый текст
+Auto_2910ca68352e,„Love Live! School Idol Festival 2 MIRACLE LIVE!“ прекратил работу 31 марта 2024 г. <br>. <br>■Период подачи заявок на возврат средств: с 0:00 1 апреля 2024 г. (понедельник) до 14:59 17 июня 2024 г. (понедельник). <br><br>Спасибо за вашу поддержку. <br>
+Auto_2991fd24eff8,КРУТО
+Auto_2a9e2a96f3a5,Внимание: дату рождения нельзя изменить позже.
+Auto_2ae6850cf007,ЭКСПЕРТ Ур. 11
+Auto_2db52bd8d99d,Сегодня вы сыграли эту песню / раз.
+Auto_2e84ab497270,Название карты (макс. 30 символов)
+Auto_30629014ffdf,1 000 000-й
+Auto_327896c958c6,Нита Эми
+Auto_32cca4a1edcd,Эксперт Ур. 11
+Auto_32f04a55794f,Повтор: Откл.
+Auto_349584413283,Макс. длина имени: 10 знаков
+Auto_3500bbd544a3,• Бонус развития Айдл <br> • Во время Live становится неуязвимой и HP не уменьшается <br> • Постоянно активируется максимальное усиление точности (все нажатия считаются PERFECT) <br> • Вероятность активации навыка увеличивается на 20% <br> • Эффект бонуса для выбранных Айдл увеличивается вдвое <br> ※Бонус развития Айдл увеличивается по мере улучшения характеристик Айдл.
+Auto_354fd93c17f2,Название историиНазвание историиНазвание истории
+Auto_3588a5b623b0,ШАГ 7
+Auto_360cb694c2ae,сек.
+Auto_36fc221e2e45,"Слова: Хата Аки, Музыка: Кодзима Рёта, Аранжировка: Куса Маото"
+Auto_3770af0c5c4e,1000 очков
+Auto_37900575e30d,Скорость:
+Auto_383617f9c339,Заголовок
+Auto_38bf4ac9d31b,123456789 очков
+Auto_38d63311e93b,ЧИСТЫЙ
+Auto_393d0282bf7d,Вы получили следующие предметы<br>
+Auto_399acfa696ba,Название юнита 6789012345
+Auto_3ae3222a8a7c,ID
+Auto_3b18e8e33250,Объём
+Auto_3bdd53e3c81d,УЛЫБКА
+Auto_3c153c60bc73,Название предмета/карты
+Auto_3cab1d5076f2,При переносе данных между разными ОС платные кристаллы будут конвертированы в бесплатные.<br>При переносе данных внутри одной и той же ОС платные кристаллы будут перенесены без изменений.
+Auto_3db8f0a8cb0d,<size=50>11</size> Набор
+Auto_3e252f2489fa,Серия запущена. <br> Серия запущена. <br> Серия запущена.
+Auto_3f5567240d61,Группа крови O
+Auto_3fed241ef790,Общее количество событий
+Auto_4002d1a146fa,"Посмотреть 3 эпизода из повседневной жизни μ's, Aqours, Nijigaku и Liella!"
+Auto_40e01c24654a,"Нидзигаку, школьный идол-клуб"
+Auto_414ee4134bd7,"Если в списке айдолов есть выбранные участницы, то <br> количество получаемых звёздных бонусов при ежедневном входе увеличится!"
+Auto_41b187f87bd2,157 см
+Auto_432849e0e729,Имя персонажа
+Auto_434ea13d1c5f,Ааааааааааатт
+Auto_439bd1f70732,Текстовое поле оставлено для подстраховки.
+Auto_451416850ad2,Режим Bluetooth
+Auto_458a25f3bc2b,aaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>12345678901234567890123456<br>26 символов × 3 строки
+Auto_45a309dcbdfa,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>12345678901234567890123456<br>26 символов × 3<br>
+Auto_463938856430,ID переноса:
+Auto_463dc0e2645f,Текст: Test<br>Музыка: test
+Auto_47b4753f220d,Заголовок
+Auto_486a5b286b90,Выполни все ежедневные задания.<br>Выполни все ежедневные задания.
+Auto_4ac93a41ce71,Композитор: -
+Auto_4b8ea9b1a845,"Возврат невозможен。<br>・MIRACLE Pass: первые 30 дней после подписки — пробный период。<br> После окончания пробного периода до отмены ежемесячно будет производиться оплата через ваш Store, а <br> срок действия автоматически продлевается。<br> Если вы хотите завершить использование только в пробный период без продления, <br> оформите отмену за 2 дня до окончания пробного периода。<br> Срок действия составляет 1 месяц с даты покупки или автоматического продления。<br> Срок действия автоматически продлевается каждые 30 дней。<br> Автоматическое продление влечет ежемесячный платеж в размере 980 иен。<br> Без отмены автоматического продления MIRACLE Pass срок действия обновляется автоматически。<br> В день обновления возможны задержки обработки。<br> Если эффект временно не активен, попробуйте перезагрузить через некоторое время。<br> Для отмены необходимо остановить автопродление за 48 часов до окончания срока действия。<br> Даже при досрочной отмене вы получаете бонусы в течение текущего срока действия。<br> MIRACLE Pass действует только на аккаунте данного приложения, с которого была оформлена подписка。<br> Обратите внимание: до окончания срока действия на текущем аккаунте до переноса данных <br> оформить новую подписку невозможно。<br> Также, если вы создадите новый аккаунт (например, после удаления приложения), <br> MIRACLE Pass не может быть перенесен。<br> При повторной подписке на один и тот же MIRACLE Pass <br> бонусы не начисляются повторно。<br> После окончания срока действия может потребоваться некоторое время, пока бонусы действительно перестанут действовать。<br> Даже при удалении приложения, если отмена не оформлена, <br> автопродление продолжается。<br> При смене устройства на другую ОС или переносе данных на другой аккаунт той же ОС <br> эффект MIRACLE Pass сохраняется в течение срока действия。<br> Поэтому перед оформлением новой подписки завершите отмену на предыдущей платформе (или <br> аккаунте)。<br> До окончания срока действия на старой платформе (или аккаунте) <br> новую подписку оформить нельзя。<br><br> ■ Как проверить срок действия и отменить подписку (остановить автопродление) <br> Отменить MIRACLE Pass можно по следующей инструкции：<br> После отмены и окончания срока действия подписка становится недействительной。<br> *Операции могут отличаться в зависимости от версии ОС и устройства。Просим понять。<br><br> 1． Нажмите кнопку «Отменить» внизу этого экрана。<br> 2． Нажмите «≡» в левом верхнем углу > «Подписки」。<br> 3． Если хотите отменить, нажмите на товар。<br>"
+Auto_4ca3fbc3f316,Фотостикер
+Auto_4de912463d5b,* Бесплатные Loveca-камни будут использованы первыми.
+Auto_4e8e36e11ba0,JASRAC лицензия<br>№123456789ABCDEFG
+Auto_4f3f313eb655,"Наши выступления, твоя жизнь."
+Auto_4f62ed577823,При переносе данных между разными ОС платные кристаллы будут конвертированы в бесплатные.<br>При переносе данных на той же ОС платные кристаллы будут перенесены без изменений.
+Auto_513968cec3d1,До 30.06.2023
+Auto_522175083f0b,Очистить кэш
+Auto_526b4090303d,"<br>Пожалуйста, не сообщайте эту информацию третьим лицам. <br>Сохраните её в заметках или сделайте скриншот. <br>Пароль можно будет изменить позже."
+Auto_5472f4068cb1,"Хоринаи Марина (роль: Цубаки Рурика), Асаи Нанами (роль: Коу Юдзуха), Ан Джулия (роль: Ходзё Юкино), Кояма Рина (роль: Амана Хикару), Сато Мива (роль: Микаса Майя)"
+Auto_55ee85cd4dcc,Фамилия Имя
+Auto_560dd21d26a8,Введите ID и пароль для переноса данных.<br>
+Auto_567ad1eee4be,Название награды
+Auto_56809f756f76,Вы хотите получить бонус <br>?
+Auto_572b0f9c1d1b,Текст текст текст текст текст то текст текст то текст текст
+Auto_572e68ce60da,10 очков Получить
+Auto_57859cb7238a,Имя персонажа
+Auto_586b09d35825,Количество: 9999999
+Auto_58c3db41d9fc,Выбрать видео для гача-механики
+Auto_58f52a673e60,Название предмета/карты (макс. 30 символов)
+Auto_595596e10b8b,Доступных карт для улучшения нет.
+Auto_5a6b54f04f20,9 999 999 очков
+Auto_5aa7dabc547e,(Макс. 2 строки по 26 символов)
+Auto_5b0e14341d79,Косака Хонока
+Auto_5d7171891b9e,Название истории
+Auto_5e2c3623f817,"Запас батареи низок <br>. Осталось <color=""red""> 7 % </color>. <br> Уведомление о низком заряде батареи может привести к прерыванию <br> Live <br>. Рекомендуется зарядить устройство."
+Auto_5e63c03e564f,Прервать просмотр MV<br>и вернуться к выбору песен?
+Auto_5e88baf24aea,Кэш успешно очищен.
+Auto_5f21648a666a,Осталось 999 дней
+Auto_6114d553d8a5,"Бонус за получение в журнале применяется ко всем выбранным айдолам из списка, суммарно.<br>Бонус за получение в журнале применяется только в дни, когда при ежедневном бонусе назначен ""Миракл-стар""."
+Auto_62933bba4c77,Источник:
+Auto_62b3c4231032,ОЧКИ ПОПЫТКИ<br>
+Auto_6311b5d2d37d,Ур. 000
+Auto_64e02dbe9ba6,ШАГ 1
+Auto_669d4fab42d5,Осталось (обновляется каждое воскресенье в 0:00).
+Auto_67c008e4fd30,Отображаемое имя
+Auto_67dbec9cc4e4,Лимит: ¥10 000
+Auto_6842c74c4d51,Ребёнок
+Auto_6b3f6985eb92,Маленький демон №1
+Auto_6bfa25be446d,Спортивный напиток
+Auto_6d17169b8845,Открыть сюжет
+Auto_6eee3369a6c0,XXXXX XXXXX XXXXX
+Auto_6f9b9af3cd6e,сообщение
+Auto_6fc69aae7ef1,20XX/99/99 99:99
+Auto_6fd05cc842c9,<color=#ff5500> <size=28>Один раз в день</color> </size> <br>Сбрасывается каждый день в 0:00.
+Auto_709a23220f2c,Название
+Auto_7123fcc9c635,Использование 345678901234567890123456789
+Auto_7171d9cb0cf3,Название предмета
+Auto_71cd10385774,"Предел лимита достигнут, видео разблокировано."
+Auto_71fd4dacfad1,1 августа
+Auto_737f138ed948,Сегодняшний лимит<br>Использовано
+Auto_75e1496591d4,Показать
+Auto_76fb59ce183d,Описание предмета и т. д. Описание предмета и т. д. Описание предмета и т. д. <br>Описание предмета и т. д. Описание предмета и т. д. Описание предмета и т. д.
+Auto_773a03413bdc,Название предмета (макс. 20 символов)
+Auto_78f1b4350a83,До 31.12.2021 12:00
+Auto_794145f030ff,Кнопка
+Auto_7a5db5a1f223,2 года
+Auto_7bf2e2580045,Глава воспоминаний
+Auto_7c1698e461f9,# Макс. длина имени участницы — 10 символов
+Auto_7c54bd6c4a3f,Параметры <br>карты повышены.
+Auto_7dee13bf0dd8,Йошики
+Auto_7f2b15f3359a,Осталось 16 дней
+Auto_7f91240a914e,Макс. длина названия обмениваемого предмета — 16 символов.
+Auto_82434dcead71,Вариант Б
+Auto_827ada3af78a,"При переносе данных игры, данные на текущем устройстве будут удалены и заменены данными из источника. <br> <br> <br> При переносе между разными операционными системами, платные кристаллы будут конвертированы в бесплатные. <color=#c70f01> При переносе между устройствами с одинаковой ОС, платные кристаллы будут перенесены без изменений. <br> </color>"
+Auto_8449eea355c4,Описание центрального навыка<br>Описание центрального навыка
+Auto_860981a8b394,Заголовок заголовок заголовок
+Auto_87c522a79361,Описание навыка <br> Описание навыка <br> Описание навыка
+Auto_8957ed473795,Аранжировка: -
+Auto_8b0bbe5fa2a0,Дата рождения не может быть изменена позднее.
+Auto_8bdd1e8256dd,Обычный 1
+Auto_8c3c5dc7add8,Действительно продолжить?<br>
+Auto_8d1308cd282c,Асака Карин
+Auto_8d54688f884e,Хэштег
+Auto_8d7f5abed4eb,Кэш успешно очищен.<br>
+Auto_8ec81c9e6bba,Получено званий нет.
+Auto_8ecd1842d6d5,Проверить заряд
+Auto_8eee6c561bb2,При переносе данных между разными ОС платные кристаллы будут конвертированы в бесплатные. <br> При переносе данных внутри одной и той же ОС платные кристаллы будут перенесены без изменений. <br>
+Auto_8f7124fb70a8,Спасибо за прохождение обучения.<br>Вы вернётесь на экран с названием игры.
+Auto_91152b56f991,Слой<br>
+Auto_920d74d2ff09,День 1
+Auto_920f67831677,Спецзадание
+Auto_940387049ad0,"Группа школьных идолов из частной женской средней школы, базирующаяся в районе Харадзюку, Токио. <br> Аааааааааааааааааааааааааааааааа <br> Аааааааааааааааааааааааааааааааа"
+Auto_94e6b092259d,"Кэш очищается.<br>Пожалуйста, подождите до завершения."
+Auto_953670412850,Подключение Bluetooth-наушников перевело устройство в режим Bluetooth <br> В режиме Bluetooth во время Live могут возникать задержки звуковых эффектов при касании <br> ※Применяются настройки для Bluetooth.
+Auto_957c2a10d823,Название группы — максимум 16 символов.
+Auto_965fb2ddf63d,Получить
+Auto_97855c87fb9b,ШАГ 6
+Auto_9850ea73a3e8,Текст текст текст текст текст
+Auto_98997bef6406,Подтвердить<br>
+Auto_99122787e954,Сообщение сообщение сообщение сообщение ●● <br> Сообщение сообщение сообщение сообщение <br> Два символа <br> Четыре строки
+Auto_99940a7d6018,"×<size=-3> раз, </size>"
+Auto_9a5e7fc5a514,Поэтому мы и играем!
+Auto_9bc6fb8cccfc,"*Можно сохранить до 30 сообщений. Если лимит превышен, старые сообщения будут удалены. Кроме того, история полученных сообщений будет автоматически удалена через 100 дней после отображения в истории."
+Auto_9d3cadaec013,При переносе данных между разными ОС платные кристаллы будут конвертированы в бесплатные.<br>При переносе данных внутри одной и той же ОС платные кристаллы будут перенесены без изменений.
+Auto_9d81b6cadd5c,Область отображения опыта
+Auto_9d86b9378453,99999-е место
+Auto_9daaa404b4c3,Название предмета/карты (не более 30 символов)
+Auto_a0685b910206,Поиск
+Auto_a08046709963,"Музыка: <br>, Слова: <br>, Аранжировка:"
+Auto_a0d95c9b62e6,Текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст
+Auto_a0ec88460069,Дата выпуска: 8888/88/88
+Auto_a1a8a57f247c,Live Burst восстановлен на 10.<br>Лимит друзей увеличен с 5 до 10.
+Auto_a45ad5596a9e,Фамилия Имя
+Auto_a50b3e2b4507,Макс. длина названия предмета: 12 символов.
+Auto_a65f3a8a2407,Ограничено 72 часами
+Auto_a69be1e057ef,Первокурсник
+Auto_a6a31e215fdd,Ивент P
+Auto_a7726b3f99f0,Ааааа (макс. 2 строки по 21 символ)
+Auto_a78153e9f407,ABCD EFGH IJKL MNOP
+Auto_a808eee2241b,"Получите самое длинное имя карты, получите самое длинное имя карты, получите самое длинное имя карты. <br> Если вы не получили его, попробуйте снова."
+Auto_a94d5d0c7027,Название билета
+Auto_aa1168393020,Введите дату рождения для подтверждения возраста.
+Auto_ac34920d91ed,Награда • Опыт
+Auto_ac6c98656ccc,LAWSON
+Auto_acb992ab8026,Без настройки
+Auto_ad9ec245bacb,СЛОЖНО <size=26>Ур. </size>
+Auto_adf974909200,Вы потратили более 100 000 иен в этом месяце. Продолжить покупку?
+Auto_afa7944cae4b,"1 строка, 21 символ<br>Макс. 2 строки"
+Auto_b067846ca702,До 31.12.2099 00:00
+Auto_b1181d44cd51,Описание предметов и т. д.
+Auto_b2ad896a1cb2,ШАГ 2
+Auto_b3361a468f26,До 30.11.2021 13:59
+Auto_b4ae1b9654fd,Здесь будет текст. <br> Здесь будет текст. <br> Здесь будет текст.
+Auto_b528c11750d0,Подарок
+Auto_b5414c090b1d,"Эффект бонуса очков события не суммируется, применяется только самый высокий эффект среди участниц в составе."
+Auto_b59e287feb4c,Осталось 99 попыток
+Auto_b78072c47e29,Описание центрального навыка <br> Описание центрального навыка <br> Описание центрального навыка
+Auto_b7dfc9785b79,Незавершённая мечта! (Версия для средней школы Цбаки Сака)
+Auto_b803c31897b9,Кэш очищен.<br>
+Auto_b8be7f2cb5de,Набор<br>Текст
+Auto_b95b73ebd08b,162 см
+Auto_ba5dc2cc4de4,Выбор участниц из клуба школьных идолов «Нидзигасаки»
+Auto_baed348504d9,(Без) -1000
+Auto_bc40521e5705,Название истории
+Auto_bccc54ef43f6,Получить любимую участницу
+Auto_be3bffb9fcbf,Ур. 99
+Auto_be60bc27fbf7,<size=50>10</size> Набор
+Auto_bef81964e6fa,Достигнут уровень сложности 1.
+Auto_bf4c732a9812,"Бонус к очкам события активируется при создании команды из избранных участниц!<br>Количество очков события, получаемых за прохождение Live, увеличится!"
+Auto_bf91f3a572ba,"Авто-взрыв используется в порядке убывания срока действия <br>. Авто-взрыв можно использовать только для песен, которые вы уже прошли <br>. Нельзя одновременно использовать ""Live Burst"" и ""Auto Burst"" <br>. <color=#D73C55> Можно играть даже если нет доступных взрывов. Однако награда, опыт и очки события будут увеличены в 1 раз </color>. <br>"
+Auto_c1fa719d598a,Подтверждение использования спирита
+Auto_c3a4f560ab26,Сообщение сообщение сообщение сообщение<br>Сообщение сообщение сообщение сообщение
+Auto_c4a400246fd1,Выберите аккаунт для подключения.
+Auto_c4c9a1fdfc9e,Введите отображаемый контент <br> Введите отображаемый контент <br>
+Auto_c6d374d72d7f,С улыбкой на сцене! (Версия «Школьный идол-клуб Нидзигасаки»)
+Auto_c6de9c87f72e,Ур. 9/9
+Auto_c76d98f6d9fb,«Сюжетный тип №○○»<br>Раздел «○○» открыт!
+Auto_c892f3e56f53,Купить премиум-пак?
+Auto_c9fac4d62211,Доведите общую сумму атрибутов в составе до 29000 или выше.
+Auto_ca61133f09ff,Сегодня вы сыграли эту песню / раз.
+Auto_ca635e2d27c2,asdfasdfgasdgf
+Auto_ca7ddec2aa05,"Сейчас доступного количества Live Burst недостаточно. Хотите использовать только имеющееся количество и начать Live, не восстанавливая его? <br> Использовать <br> для начала Live? <br>"
+Auto_cad73579d948,До 12.12.2022 12:12
+Auto_caeac8b0e507,Название песни
+Auto_cb3ba916e5a5,Повышение ранга группы
+Auto_cc5e60312e77,"Вы можете перенести данные при смене устройства, выполнив одно из следующих действий.<br>Также это можно использовать в качестве меры предосторожности против потери данных при удалении приложения."
+Auto_cd292cafcb22,Получена карта .<br>※ Полученные участницы будут добавлены напрямую.
+Auto_cefaf311b26d,"В многопользовательском режиме обнаружено поведение, мешающее другим игрокам <br>. Временно ограничены некоторые функции <br>. Пожалуйста, подождите до снятия ограничения."
+Auto_cff4d31a542a,В этом месяце осталось 9999 попыток.
+Auto_d109f177e1ca,"Эффект бонуса «Миракул Стар» не суммируется, применяется только самый высокий эффект из списка айдолов.<br>Количество увеличивается только в дни, когда действует бонус «Миракул Стар» за вход в игру."
+Auto_d13b8de51614,Использовать выбранные предметы для восстановления LP на 999?
+Auto_d26e16005b9b,Название юнита 67890123456
+Auto_d3956f3f07bd,Что такое центральный навык? <br> хоге <br> хоге
+Auto_d49438232a89,Приоритет — усилению очков.
+Auto_d49d030a4c41,Войдите в меню
+Auto_d514ddda1f2b,"Нидзигасаки Академия, клуб школьных идолов<br>"
+Auto_d5e65e858e9f,JASRAC<br>№123456789ABCDEFG
+Auto_d68606f69a20,Общий опыт:
+Auto_d7d50bd43ec5,123456 76gHH JGFDD
+Auto_d7d921bdbb52,Название области
+Auto_d95c4718456b,Введите название кампании здесь〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇
+Auto_da4223df6db9,Вы получили следующие предметы.<br>
+Auto_daf84f7c7d22,Первая половина
+Auto_dc7f77b4ccfc,Повтор
+Auto_e0bf83c834c3,— <size=30>-е место — </size>
+Auto_e11359efb14c,ROSIER
+Auto_e148ce3a95d1,Настройки потребления бастов.
+Auto_e1c8e6e7609b,"Настройки переноса данных завершены. <br> После загрузки приложения на устройство, куда вы хотите перенести данные, перейдите в меню: «Главный экран» > «Перенос данных», и введите <br> ID и пароль для переноса данных. <br> <br>"
+Auto_e1dfd8068c2c,Приостановка
+Auto_e2c1a45b20e9,Эпизод
+Auto_e2c3fd94c0d0,«<size=100>Юг<size=80>» «<size=100>Кото<size=80>» аааааа
+Auto_e2dd1dd4eff5,"Здесь будет название эпизода, не более 24 символов."
+Auto_e41a824f0330,"Аааааа (макс. 18 символов в строке, 2 строки)"
+Auto_e4fed19cc108,Использовать 1000 гемов для покупки набора предметов.<br>Этот товар можно приобрести только за платные гемы.
+Auto_e681a79dd251,"Описание <br>, описание <br>"
+Auto_e6a58fc3b7ed,ШАГ 5
+Auto_e734b3d49dce,Слова: Ямада Такахиро <br> Музыка: Ямада Такахиро <br> Аранжировка: Ямада Такахиро
+Auto_e760d2bb643b,Очистить кэш?<br>Вы уверены?
+Auto_e8a8b7c6038e,Требуется Loveca
+Auto_eb2d423b05fd,Очки для набора []
+Auto_eca4f8397ade,Ранг<br>
+Auto_ed19e903d580,Название навыка
+Auto_ee1a9acc0e95,Доступных записей об использовании нет.
+Auto_ee4c907f5db2,FPS
+Auto_eedc6a01343e,"До 17:00, 1 января 2020 г."
+Auto_ef900ac4aaaa,Имя исполнителя
+Auto_f082d04a8efb,Вена-Маргарете
+Auto_f08c587b54a5,Тексттексттексттексттексттексттексттексттексттексттексттекст <br> Тексттексттексттексттексттексттексттексттексттексттексттекст <br> Тексттексттексттексттексттексттексттексттексттексттексттекст <br> Тексттексттексттексттексттексттексттексттексттексттексттекст <br> Тексттексттексттексттексттексттексттексттексттексттексттекст <br> Тексттексттексттексттексттексттексттексттексттексттексттекст <br> Тексттексттексттексттексттексттексттексттексттексттексттекст <br> Тексттексттексттексттексттексттексттексттексттексттексттекст <br>
+Auto_f1399a500121,ШАГ 3<br>
+Auto_f23c1a3a61ab,"Ядзава Нико (озв. Токуи Аои), Хосизора Рин (озв. Иида Рихо), Коидзуми Ханаё (озв. Кубо Юрика)"
+Auto_f265c8f36b84,«<size=100>Юг<size=80>» <size=100>Ко<size=80>тори»
+Auto_f65f17e85292,Параметр А
+Auto_f660160beb91,Сообщение
+Auto_f66750e6a4d9,Политика конфиденциальности<br>
+Auto_f6f99b4fccd5,Заголовок
+Auto_fa4421e93912,"Сердце, крылья, лети к нему!"
+Auto_fc02722f2e79,Увеличение параметров
+Auto_fe1465b2f630,Очистить кэш.
+Auto_ff511e92f6a2,Скорость маркера = 6
+Auto_3deeeac74475,Новый текст_Новый текст<br>Новый текст_Новый текст
+Auto_316076ac0fd6,ХОНОКА КОСАКА
+Auto_e33d9b3310c8,Хобби:
+Auto_c3328c39b0e2,Текст
+Auto_b31a6165ed15,Участвует
+Auto_e08da1d02602,Выбор персонажей
+Auto_e59d7bc19c8f,Бонус к очкам события применяется только к айдолу с самым высоким эффектом в текущем составе.
+Auto_56284117f22b,Юнит<br>Подробности
+Auto_229ac5ad1902,ID:
+Auto_8f6f274bdbc6,"Пожалуйста, будьте любезны.<br>Не более 30 символов."
+Auto_d1eb1a8c785c,Последний вход: 1 час назад
+Auto_07ec0ce76690,Показывать <br>только избранных
+Auto_e6a697ba40c2,Список друзей
+Auto_ec7ae06b0999,Отменить
+Auto_d7831e09e2fa,Отклонить запрос в друзья
+Auto_9aebaee878f6,Текущий <size=32>ШАГ </size>
+Auto_ffdb97c8a723,Cool Empress
+Auto_861285cde494,"Cool P увеличивается на 12%, а у участниц Хоноки и Ханаё — ещё на <br>%. <br>"
+Auto_43965186bda1,"Cool P увеличивается на 12%, а у <br> участниц Хоноки и Ханаё Cool P дополнительно увеличивается на 9%. <br> <br>"
+Auto_82002e2fa49d,"Cool P увеличивается на 12%, а у участниц <br> Хоноки и Ханаё ещё больше увеличится Cool P — на 9%. <br> <br> <br>"
+Auto_8f430c44afa1,Ещё раз!
+Auto_8697160f7a00,При использовании «Звёздной помощи»<br>рекорд не обновляется
+Auto_1b92a8c61f66,При использовании звёздной помощи <br>MAX COMBO не обновляется
+Auto_119dada8743d,В этом событии рекорд не обновляется.<br>
+Auto_23a202742edc,Токийский сад-театр
+Auto_71e7b499f129,Название достопримечательности:
+Auto_6ef2337620d1,高坂穂乃果
+Auto_bca3582437f0,Получить
+Auto_5e09801739ed,Доступных карт нет.
+Auto_d0ce5c42a59a,Имя персонажа
+Auto_5d58d93e8bf4,Осталось 10 дней
+Auto_472aa5aec506,-ああああああああ
+Auto_11fcfa6991cb,-аааааааааааааааааа
+Auto_7cf81d1c765b,Участница определена
+Auto_e9f1544100ba,Имя будет здесь:
+Auto_1af14d2a65f8,ID комнаты:
+Auto_6a26632920e1,Все комбо
+Auto_3b73e212eeee,"Композитор: Накамура Аюми, Кикути Хирото <br> Аранжировка: Накамура Аюми, Кикути Хирото <br> Исполнители: Такауми Чика (озвучка: Ива Айки), Кохара Мари (озвучка: Судзуки Айна), Куросава Дайя (озвучка: Комия Юса), Мацуура Канан (озвучка: Сува Нанака), Тсусима Ёко (озвучка: Кобаяси Аика) <br>"
+Auto_fe933ad251ac,Введите имя здесь.
+Auto_4d395aee4ce0,Осталось 99 дней
+Auto_29f72241b091,"В зависимости от количества, изменяется количество получаемых наград и очков события."
+Auto_2e4df52b54d0,Использовать LP
+Auto_5521e368d87e,Предупреждение
+Auto_7e5716db83d2,"Обнаружено поведение, которое мешает другим игрокам. <br>Результаты этого Live будут аннулированы. <br>Если подобное поведение будет повторяться, <br>мы ограничим время вашей игры. <br>"
+Auto_58b0ee43d2aa,Сыграть Live с теми же участниками и той же сложностью?<br>
+Auto_40d132e9c3cd,Выйти из приватной комнаты?
+Auto_ef20caea634e,Соединение с хостом прервано.<br>Переход на страницу события.
+Auto_425e7dea4998,"Недостаточно участников. <br><br>Если играть вчетвером, вы можете получить на <br> меньше очков события. <br><br>Начать Live с текущим составом?"
+Auto_2dd929a3304a,Сегодня вы использовали все доступные приглашения для участия в событии.<br>Вы будете перенаправлены на главную страницу события.
+Auto_daa15114aa23,Специальный состав для события не создан.<br>Перейти на экран создания состава.
+Auto_377325e4d88d,Обнаружено несколько случаев разрыва соединения или неправомерных действий.<br>Временно ограничим возможность участия в Live-выступлениях в рамках данного события.
+Auto_e958b7cc8644,Ищем комнату...
+Auto_77a19778ce42,Новинки
+Auto_d55be023c2b2,Да
+Auto_f1671898c65b,Хёси Рин
+Auto_31eecb3ddc6d,Язык
+Auto_b0a4b7078dce,Различные настройки<br>
+SelectLanguage_ConfirmTitle,Изменить язык
+SelectLanguage_ConfirmMessage,"Язык будет изменён, и приложение перезапустится. Вы уверены?"
+Auto_343a26d4817b,Рекомендации
+Auto_217643d3311e,Массовый состав
+Auto_5712f746e026,Переместить
+Auto_c47bf7602f86,Основной<br>настрой
+Auto_17d151209dcb,Использовать
+Auto_eb321ace03b3,Имя игрока
+Custom_Option_Live3d_Title,Настройки 3D Live
+Custom_Option_Live3d_Info,Включите/выключите 3D-режим Live и настройте качество.<br>Изменения вступят в силу со следующего Live.
+Custom_Option_Live3d_Enable,Воспроизведение 3D Live
+Custom_Option_Live3d_Quality,Настройки качества
+Custom_Sifas_Live3d_Toggle,3D Live
+Custom_Sifas_3dMv_Cycle,Сменить
+Custom_Option_Keyboard_Title,Настройка клавиатуры
+Custom_Option_Keyboard_Info,Выберите линию и нажмите клавишу/кнопку (отмена — Esc)
+Custom_Option_Keyboard_Lane,Лейн {0}
+Custom_Option_Keyboard_Listening,Нажмите клавишу/кнопку для рейки {0}... Отмена — Esc.
+Custom_Option_Keyboard_Waiting,Ожидание ввода
+Custom_Option_Keyboard_None,Нет
+Custom_Option_Keyboard_Back,Назад / Пауза
+Custom_Option_Keyboard_BackListening,Нажмите кнопку «Назад/Пауза».
+Custom_Option_Download_Title,Настройки загрузки
+Custom_Option_Download_Info,"Загрузите треки заранее, чтобы сократить время ожидания перед началом Live."
+Custom_Option_Download_Used,Использовано: {0} (можно удалить: {1})
+Custom_Option_Download_UsedNone,Использовано: —
+Custom_Option_Download_Calculating,Используемое место: вычисляется...
+Custom_Option_Download_Deleting,Используемое место: удаляется...
+Custom_Option_Download_AllSongs,Скачать все песни
+Custom_Option_Download_AllMv,Скачать все 3D Live
+Custom_Option_Download_ClearCache,Кэш: удалить
+Custom_Option_Visual_Title,Настройки видео
+Custom_Option_Visual_Info,Выберите предустановку качества видео или настройте параметры отдельно.<br>Изменения будут применены к следующему Live.
+Custom_Option_Visual_Preset,Предустановка
+Custom_Option_Visual_Custom,Настройка
+Custom_Option_Visual_CustomInfo,Используется пользовательская настройка (применится со следующего Live).
+Custom_Option_Visual_GroupDisplay,Отображение
+Custom_Option_Visual_GroupLighting,Освещение
+Custom_Option_Visual_GroupStage,Этап
+Custom_Option_Visual_GroupEffect,Эффект
+Custom_Option_Visual_GroupPhysics,Физика
+Custom_Option_Visual_Resolution,Разрешение
+Custom_Option_Visual_Fps,Частота кадров
+Custom_Option_Visual_Aa,Сглаживание
+Custom_Option_Visual_BaseLight,Основной свет
+Custom_Option_Visual_Ambient,Окружающий свет
+Custom_Option_Visual_RimLight,Окантовочный свет
+Custom_Option_Visual_SpotLight,Сценический свет
+Custom_Option_Visual_Emissive,Эмиссионный свет
+Custom_Option_Visual_Display,Оформление сцены
+Custom_Option_Visual_StageFx,Сценические эффекты
+Custom_Option_Visual_Audience,Зрители
+Custom_Option_Visual_Cubemap,Отражение
+Custom_Option_Visual_PostEffect,Постэффекты
+Custom_Option_Visual_SwingBone,Колебание
+Custom_Option_Keyboard_TabTitle,Настройка клавиатуры
+Custom_Option_Download_TabTitle,Настройки загрузки
+Custom_Option_Visual_TabTitle,Настройки видео
+Custom_Option_Download_StoryMovies,Скачать все сюжетные ролики
+Custom_Option_Download_CardArt,Скачать все иллюстрации карт
+Custom_Sifas_MvDeck_Header,Настройка состава для MV
+Custom_Sifas_MvDeck_Entry,Настройка костюмов
+Custom_Sifas_MvDeck_UseDefault,Использовать стандартный состав
+Custom_Sifas_MvDeck_UseDeck,Использовать состав
+Custom_Sifas_MvDeck_Reset,Сброс
+Custom_Sifas_MvDeck_Save,Сохранить
+Custom_Sifas_MvDeck_PickMember,Выбор участницы
+Custom_Sifas_MvDeck_PickSuit,Выбрать костюм
+Custom_Sifas_MvDeck_DefaultSuit,Стандартный костюм
+Custom_Sifas_MvDeck_RinaBoard,Удалить доску Рины.
+Custom_Sifas_MvDeck_InFormation,(Состав)
+Custom_Sifas_MvDeck_PickGroup,Выбор группы
+Custom_Sifas_MvDeck_Back,Назад
+Custom_Sifas_MvDeck_CustomGroup,Настройка
+Custom_Sifas_MvDeck_Import,Импорт
+Custom_Sifas_MvDeck_DeleteMode,Режим удаления
+Custom_Sifas_MvDeck_DeleteModeExit,Выкл. режим удаления
+Custom_Sifas_MvDeck_DeletePrefix,Удалить:
+Custom_Sifas_MvDeck_ImportDone,Импорт завершён
+Custom_Sifas_MvDeck_ImportFailed,Импорт не удался
+Custom_Sifas_MvDeck_ImportDropHint,Поместите zip-файл в папку Import.
+Custom_Sifas_MvDeck_ImportBatch,Импорт из папки
+Custom_Sifas_MvDeck_ImportBatchResult,Результат пакетного импорта
+Custom_Sifas_MvDeck_ImportBatchKept,(Не удалось удалить исходный файл)
+Custom_Sifas_MvDeck_ImportUnsupported,Выбор файлов в этой среде не поддерживается.
+Custom_Sifas_MvDeck_ImportStageDonor,Загрузка модели-донора...
+Custom_Sifas_MvDeck_ImportStageConform,Модель конвертируется...
+Custom_Sifas_MvDeck_ImportStageBake,Текстуры обрабатываются...
+Custom_Sifas_MvDeck_ImportStageRegister,Регистрируется...
+Custom_Sifas_MvDeck_ImportErrDonor,"Модель донора не загружена (пожалуйста, сначала загрузите модель для 3D-Live)."
+Custom_Sifas_MvDeck_ImportErrVerify,Ошибка при создании модели (см. логи игрока).
+Custom_Option_Live_Sif1SwipeMode,Режим свайпов SIF1
+Custom_CardDetail_FriendshipPlaceholder,Уровень дружбы??? Не реализовано
+Custom_CardDetail_EvolveTentative,Пробуждение (временно): {0}
+Custom_CardDetail_TitlePlaceholder,Корона! Не реализовано.
+Custom_CardDetail_SchoolYear,{0}-й класс
+Custom_PurchaseAlert_UnitTenThousand,Десять тысяч
+Custom_PurchaseAlert_UnitThousand,тыс.
+Custom_PurchaseAlert_LimitMessage,Этот месяц вы потратили {0} иен. Продолжить покупку?
+Custom_SerialCode_Copied,Серийный код скопирован.
+Custom_SystemDialog_ErrorTitle,Ошибка
+Custom_SystemDialog_ErrorMessage,Произошла ошибка.
+Custom_ServerConfig_Title,Настройки сервера
+Custom_ServerConfig_ApiUrl,URL API-сервера
+Custom_ServerConfig_CdnUrl,URL CDN для ресурсов
+Custom_ServerConfig_ResetToDefault,Вернуть настройки по умолчанию
+Custom_ServerConfig_Save,Сохранить
+Custom_ServerConfig_UsingCustom,Использовать пользовательские настройки
+Custom_ServerConfig_Saved,Сохранено. Изменения вступят в силу после возврата на экран заголовка.
+Custom_ServerConfig_ConfirmChangeTitle,Смена сервера подтверждена
+Custom_ServerConfig_ConfirmChangeMessage,"При смене сервера все данные вашей учетной записи (сохраненные игры и информация для входа), хранящиеся на этом устройстве, будут удалены. <br>Загруженные ресурсы не будут удалены. <br><br>Вы уверены?"
+Custom_ServerConfig_ConfirmResetMessage,"Настройки будут сброшены до заводских, и текущие данные аккаунта (данные сохранения и аутентификации) для этого сервера будут удалены. <br>Загруженные ресурсы не будут удалены. <br><br>Вы уверены?"
+Custom_ServerConfig_SaveCancelled,Сохранение отменено.
+Custom_ServerConfig_ClearingAccount,Удаляем данные аккаунта...
+Custom_ServerConfig_ChangedTitle,Сервер изменён.
+Custom_ServerConfig_ChangedRestartMessage,"Настройки сохранены, данные учётной записи удалены.<br>Перезапустите приложение."
+Custom_ServerConfig_ResetDone,Настройки сброшены.
+Custom_ServerConfig_ResetCancelled,Изменения в настройках отменены.
+Custom_ServerConfig_Placeholder,Не задано
+Custom_Gacha_BonusSuffix,С бонусом!
+Custom_Common_ErrorCode,Код ошибки: {0}
+Custom_Common_None,Нет
+Custom_Exchange_TypeNone,Не указано
+Custom_Exchange_TypePhotoSticker,Фотостикер
+Custom_Exchange_TypePick,Выбрать
+Custom_Exchange_TypeTicket,Билет
+Custom_Notification_ChannelDescription,Уведомление
+Custom_Login_TransferTitle,Перенос данных на другое устройство
+Custom_Login_TransferConfirmMessage,"Устройство изменилось, вы хотите продолжить с этого устройства?"
+Custom_Login_TransferFailedMessage,"Не удалось выполнить, попробуйте использовать код переноса."
+Custom_Reward_StaminaName,Награда за выносливость
+Custom_Adventure_TabMain,Основное
+Custom_Adventure_TabSub,Подзаголовок
+Custom_Adventure_TabEvent,Событие
+Custom_Adventure_TabTutorial,Обучение
+Custom_PassContents_FreeGems,Бесплатные кристаллы
+Custom_Sifas_MvDeck_ImportBatchHeader,Успешно {0} / {1}
+Custom_SpineViewer_Empty,Пусто
+Arcade_Input_Info,Select a row then press a key or button (Esc to cancel)
+Arcade_Input_ListeningKey,{0} - press a key… (Esc to cancel)
+Arcade_Input_ListeningPad,{0} - press a gamepad button… (Esc to cancel)
+Arcade_Input_ListeningNoEscape,{0} - press a key
+Arcade_Input_SlotKeyboard,Keyboard
+Arcade_Input_SlotGamepad,Gamepad
+Arcade_Input_Decision,Decision
+Arcade_Input_Cancel,Cancel / Back / Pause
+Arcade_Input_Select,Select
+Arcade_Input_Test,Test
+Arcade_Input_Service,Service
+Arcade_Input_Coin,Coin
+Arcade_Hud_Credit,CREDIT {0}
+Arcade_Hud_FreePlay,FREE PLAY
+Arcade_Monitor_TestMode,TEST MODE
+Arcade_Monitor_TestPattern,TEST PATTERN
+Arcade_Title_MenuEntry,Arcade Mode
+Arcade_Enter_NameTitle,Machine Name
+Arcade_Enter_NameMessage,Enter a name for this cabinet.
+Arcade_Enter_NameNote,It is shown in the server's machine list.
+Arcade_Enter_NamePlaceholder,Machine name
+Arcade_Enter_DefaultName,Arcade Cabinet
+Arcade_Enter_ErrorDisabled,This server does not support arcade mode.
+Arcade_Enter_ErrorRegister,Failed to register this arcade cabinet.
+Arcade_TestMode_Title,TEST MODE
+Arcade_TestMode_Back,Back
+Arcade_TestMode_TabSystem,System
+Arcade_TestMode_TabCredits,Credits
+Arcade_TestMode_TabInput,Input
+Arcade_TestMode_TabMonitor,Monitor
+Arcade_TestMode_SystemHeader,System Information
+Arcade_TestMode_ClientVersion,Client Version
+Arcade_TestMode_AssetVersion,Asset Version
+Arcade_TestMode_MachineName,Machine Name
+Arcade_TestMode_MachineId,Machine ID
+Arcade_TestMode_ServerIdentifier,Server
+Arcade_TestMode_RegisteredAt,Registered
+Arcade_TestMode_Credits,Credits
+Arcade_TestMode_ServiceCredits,Service Credits
+Arcade_TestMode_ServerSettings,Server Settings
+Arcade_TestMode_BookkeepingHeader,Bookkeeping
+Arcade_TestMode_TotalCoins,Total Coins
+Arcade_TestMode_TotalService,Service Credits Given
+Arcade_TestMode_Plays,Plays
+Arcade_TestMode_Songs,Songs Played
+Arcade_TestMode_Aborts,Aborts
+Arcade_TestMode_SinceReset,Counting Since
+Arcade_TestMode_LastReset,Last Reset
+Arcade_TestMode_ResetBookkeeping,Reset Bookkeeping
+Arcade_TestMode_ExitArcade,Exit Arcade Mode
+Arcade_TestMode_CreditsHeader,Credit Settings
+Arcade_TestMode_FreePlay,Free Play
+Arcade_TestMode_CoinsPerCredit,Coins per Credit
+Arcade_TestMode_CreditsPerPlay,Credits per Play
+Arcade_TestMode_SongsPerCredit,Songs per Credit
+Arcade_TestMode_ShowCreditHud,Show Credit Counter
+Arcade_TestMode_InputHeader,Input Settings
+Arcade_TestMode_InputConfig,Button Assignment
+Arcade_TestMode_InputTestLanes,Rhythm Buttons
+Arcade_TestMode_InputTestActions,Control Buttons
+Arcade_TestMode_ActionDecision,DEC
+Arcade_TestMode_ActionCancel,CAN
+Arcade_TestMode_ActionSelect,SEL
+Arcade_TestMode_ActionTest,TST
+Arcade_TestMode_ActionService,SVC
+Arcade_TestMode_ActionCoin,COIN
+Arcade_TestMode_MonitorHeader,Monitor Settings
+Arcade_TestMode_SubMonitorEnabled,Use Second Monitor
+Arcade_TestMode_DisplayIndex,Display Index
+Arcade_TestMode_DisplayIndexNote,Display index changes take effect after a restart.
+Arcade_TestMode_TestPattern,Show Test Pattern
+Arcade_TestMode_NoSecondDisplay,No second display detected
+Arcade_TestMode_SecondDisplayReady,Second display active
+Arcade_Session_GetReady,GET READY
+Arcade_Session_Songs,This credit plays {0} songs
+Arcade_Session_Connecting,Connecting...
+Arcade_Session_ErrorDisabled,The server could not start a session.
+Arcade_Session_NotCleared,NO CLEAR
+Arcade_Session_Thanks,THANK YOU FOR PLAYING
+Arcade_Session_SeeYouAgain,See you again
+Arcade_Confirm_TimerRemaining,Remaining
+Arcade_Confirm_TimerSuffix,sec
+Arcade_Monitor_GetReady,GET READY
+Arcade_Monitor_SongCount,SONG {0}/{1}
+Arcade_Monitor_Level,Lv.{0}
+Arcade_Monitor_Result,RESULT
+Arcade_Select_SongLabel,SONG
+Arcade_Select_Locked,This song is not unlocked yet.
+Arcade_Select_LevelCapped,This machine only goes up to {0}.
+Arcade_Attract_InsertCoin,INSERT COIN
+Arcade_Attract_PressStart,PRESS DECISION
+Arcade_TestMode_TabGame,Game
+Arcade_TestMode_TabSound,Sound
+Arcade_TestMode_TabContent,Content
+Arcade_TestMode_TabBookkeeping,Bookkeeping
+Arcade_TestMode_SessionState,Session State
+Arcade_TestMode_SessionIdle,Idle
+Arcade_TestMode_InputLocks,Input Locks
+Arcade_TestMode_EditMachineName,Change Machine Name
+Arcade_TestMode_GameHeader,Game Settings
+Arcade_TestMode_DifficultyCap,Difficulty Cap
+Arcade_TestMode_SelectTimeout,Song Select Timeout (sec)
+Arcade_TestMode_DeckTimeout,Deck Confirm Timeout (sec)
+Arcade_TestMode_ResultTimeout,Result Auto-Advance (sec)
+Arcade_TestMode_ClosingTimeout,Closing Screen Time (sec)
+Arcade_TestMode_DialogTimeout,Idle Dialog Limit (sec)
+Arcade_TestMode_AttractHeader,Attract Settings
+Arcade_TestMode_TitleCardSeconds,Title Card Time (sec)
+Arcade_TestMode_DemoSelectSeconds,Demo Song Select Time (sec)
+Arcade_TestMode_DemoClipSeconds,Demo Live Length (sec)
+Arcade_TestMode_DemoSongsHeader,Demo Songs
+Arcade_TestMode_SoundHeader,Sound Settings
+Arcade_TestMode_BgmVolume,BGM Volume
+Arcade_TestMode_SeVolume,SE Volume
+Arcade_TestMode_VoiceVolume,Voice Volume
+Arcade_TestMode_AttractVolume,Attract Volume (%)
+Arcade_TestMode_AttractVolumeNote,Scales the BGM down to this percentage while attract runs. Applies from the next attract loop.
+Arcade_TestMode_SeTest,SE Test
+Arcade_TestMode_ContentHeader,Content
+Arcade_TestMode_PrefetchState,Background Prefetch
+Arcade_TestMode_PrefetchRunning,RUNNING   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchIdle,IDLE   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchNote,New assets are fetched in the background every session.
+Arcade_TestMode_DownloadAll,Download Everything Now
+Arcade_TestMode_DownloadAllNote,Downloads every category. The cabinet returns to the attract screen when it finishes.
+Arcade_TestMode_ClearCache,Clear Cache
+Arcade_TestMode_ClearCacheNote,Deletes the downloaded files and then reboots the cabinet automatically.
+Arcade_TestMode_PlayHourHeader,By Hour
+Arcade_TestMode_HourLabel,{0}:00
+Arcade_TestMode_PlayWeekDayHeader,By Weekday
+Arcade_TestMode_WeekDay0,Sunday
+Arcade_TestMode_WeekDay1,Monday
+Arcade_TestMode_WeekDay2,Tuesday
+Arcade_TestMode_WeekDay3,Wednesday
+Arcade_TestMode_WeekDay4,Thursday
+Arcade_TestMode_WeekDay5,Friday
+Arcade_TestMode_WeekDay6,Saturday
+Arcade_Input_SlotHeaderIo,CABINET
+Arcade_Input_IoNote,Cabinet I/O board buttons. ENTER is the service-panel decide button.
+Arcade_Input_ListeningIo,{0} - press a cabinet button… (Esc to cancel)
+Arcade_Card_ButtonNewPlayer,NEW PLAYER
+Arcade_Card_ButtonTakeOver,TRANSFER DATA
+Arcade_TestMode_TabLed,LED
+Arcade_TestMode_BoardHeader,I/O Board
+Arcade_TestMode_BoardLink,Link
+Arcade_TestMode_BoardLinkIdle,not present
+Arcade_TestMode_BoardLinkOpening,opening
+Arcade_TestMode_BoardLinkRunning,running
+Arcade_TestMode_BoardLinkDeviceLost,device lost
+Arcade_TestMode_BoardLinkVersionRefused,version refused
+Arcade_TestMode_BoardReconnects,reconnects {0}
+Arcade_TestMode_BoardId,Device
+Arcade_TestMode_BoardRaw,Input Bytes
+Arcade_TestMode_BoardDoors,Door switches and the service-panel ENTER button. A lit door indicator means OPEN.
+Arcade_TestMode_BoardCoin,Coin Counter
+Arcade_TestMode_BoardCoinValues,count {0}   request {1}   ack {2}
+Arcade_TestMode_BoardCoinFault,FAULT
+Arcade_TestMode_BoardReader,Card Reader Lit
+Arcade_TestMode_BoardScan,Card Scan
+Arcade_TestMode_BoardCard,Card Status
+Arcade_TestMode_BoardCardId,Card ID
+Arcade_TestMode_BoardCardUid,Card UID
+Arcade_TestMode_CardStateNone,no card
+Arcade_TestMode_CardStateWaiting,waiting for card
+Arcade_TestMode_CardStateDetecting,detecting
+Arcade_TestMode_CardStateOk,read OK
+Arcade_TestMode_CardStateWrongType,unsupported card type
+Arcade_TestMode_CardStateAbsent,card absent or aborted
+Arcade_TestMode_CardStateReaderError,reader error
+Arcade_TestMode_CardScanTest,Card Scan Test
+Arcade_TestMode_CardReaderTest,Card Reader Lamp Test
+Arcade_TestMode_StateOn,ON
+Arcade_TestMode_StateOff,OFF
+Arcade_TestMode_EmulatorPath,Emulator DLL
+Arcade_TestMode_EmulatorPathNone,(not set)
+Arcade_TestMode_EmulatorPathEdit,Set Emulator DLL Path
+Arcade_TestMode_EmulatorPathNote,Loads a winusb.dll shim instead of a board for bench testing. Blank clears it. Applied when Test Mode is closed.
+Arcade_TestMode_LedHeader,LED Test
+Arcade_TestMode_LedAll,All Outputs On
+Arcade_TestMode_LedRed,Pillars Red
+Arcade_TestMode_LedGreen,Pillars Green
+Arcade_TestMode_LedBlue,Pillars Blue
+Arcade_TestMode_LedPillar0,Pillar 1 White
+Arcade_TestMode_LedPillar1,Pillar 2 White
+Arcade_TestMode_LedPillar2,Pillar 3 White
+Arcade_TestMode_LedLamps,All Button Lamps
+Arcade_TestMode_LedLamp,Lamp
+Arcade_TestMode_LedLampConfirm,CONFIRM
+Arcade_TestMode_LedBrightness,Lamp Brightness
+Arcade_TestMode_LedBrightnessOff,OFF
+Arcade_TestMode_LedBrightnessDim,0x20
+Arcade_TestMode_LedBrightnessFull,0xFF
+Arcade_TestMode_LedPillarColor,Pillar Colour
+Arcade_TestMode_LedCoinCoil,Coin Accept Coil
+Arcade_TestMode_LedOut,Output Bytes
+Arcade_TestMode_LedDescAll,Lights every pillar and every button lamp at full.
+Arcade_TestMode_LedDescRed,Sets all three pillars to red.
+Arcade_TestMode_LedDescGreen,Sets all three pillars to green.
+Arcade_TestMode_LedDescBlue,Sets all three pillars to blue.
+Arcade_TestMode_LedDescPillar0,Lights pillar 1 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar1,Lights pillar 2 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar2,Lights pillar 3 white. The three pillar rows combine.
+Arcade_TestMode_LedDescLamps,Lights the nine button lamps and the confirm lamp at full.
+Arcade_TestMode_LedDescLamp,Picks the lamp the brightness row forces. 10 is the confirm lamp.
+Arcade_TestMode_LedDescBrightness,Forces the selected lamp to one of the board's three brightnesses. OFF leaves it to the rows above.
+Arcade_TestMode_LedDescPillarColor,The machine's own pillar colour. Used on the entrance and through a credit.
+Arcade_TestMode_LedDescCoinCoil,Forces the coin-accept coil while this page is open.
+Arcade_TestMode_MaxCredits,Credit Limit
+Arcade_TestMode_DemoBandsNote,The attract demo draws from the groups switched on.
+Arcade_TestMode_DemoIncludeCustomSongs,Include Custom Songs
+Arcade_Attract_NesicaUnavailable,NESiCA cannot be used right now
+Arcade_Attract_NesicaTap,Tap your NESiCA card
+Arcade_TestMode_DoorLeft,DR1
+Arcade_TestMode_DoorRight,DR2
+Arcade_TestMode_Enter,ENT
+Arcade_TestMode_WinUsbModule,Loaded winusb.dll
+Arcade_TestMode_WinUsbModuleNone,(not loaded yet)
+Arcade_TestMode_WinUsbOpenerFound,UsbioEmu_OpenBoard found
+Arcade_TestMode_WinUsbOpenerMissing,no UsbioEmu_OpenBoard export
+Arcade_TestMode_ShowAttractBanner,Show NESiCA Banner
+Arcade_TestMode_DemoRequire3dLive,Demo Lands on 3D Lives Only
+Arcade_TestMode_DemoRequire3dLiveNote,Switch on to have the demo song select stop only on songs with a 3D live.
+Arcade_Input_Reset,Reset (hold 1 s)
+Arcade_Input_ResetChord,TEST+SERVICE
+Arcade_TestMode_AccountHeader,Account Lock
+Arcade_TestMode_LockedAccount,Locked Account
+Arcade_TestMode_NotLocked,Not locked
+Arcade_TestMode_LockPending,Pending first credit
+Arcade_TestMode_LockedAccountFormat,{0}  (card ...{1})
+Arcade_TestMode_LockAccount,Lock to Account...
+Arcade_TestMode_UnlockAccount,Unlock Account
+Arcade_Session_ErrorOwnerGone,The account this device was locked to no longer exists.<br>The account lock has been removed.
+Arcade_TestMode_DemoWashPercent,Demo Live Wash (%)

@@ -1,0 +1,88 @@
+﻿_key,_text
+mst.scene_title.DeckTop._mainTitle,Opstelling
+mst.scene_title.DeckEdit._mainTitle,Opstelling
+mst.scene_title.DeckCharaSelect._mainTitle,Idol selectie
+mst.scene_title.Classmate._mainTitle,Idoloverzicht
+mst.scene_title.CostumeCharaList._mainTitle,Kostuum veranderen
+mst.scene_title.Practice._mainTitle,Les
+mst.scene_title.SkillPractice._mainTitle,Vaardigheidstraining
+mst.scene_title.Training._mainTitle,Ontgrendelen
+mst.scene_title.MemberList._mainTitle,Idollijst
+mst.scene_title.WaitingMemberList._mainTitle,Wachtkamer
+mst.scene_title.CardDetail._mainTitle,Idol details
+mst.scene_title.MemberIllustrateList._mainTitle,Album
+mst.scene_title.MemberCharaTop._mainTitle,Lid Details
+mst.scene_title.AreaTalkList._mainTitle,Dummy
+mst.scene_title.Album._mainTitle,Dummy
+mst.scene_title.MovieCollection._mainTitle,Collectie
+mst.scene_title.CardAlbum._mainTitle,Kaartenalbum
+mst.scene_title.DeckConfirm._mainTitle,Live voorbereiding
+mst.scene_title.Profile._mainTitle,プロフィール
+mst.scene_title.RecommendList._mainTitle,Favorieten kiezen
+mst.scene_title.Friend._mainTitle,Vriendenlijst
+mst.scene_title.LiveSelect._mainTitle,Live selectie
+mst.scene_title.MusicSelect._mainTitle,Muziekselectie
+mst.scene_title.CooperationLive._mainTitle,Sessie kiezen
+mst.scene_title.CooperationLiveMatching._mainTitle,Matchmaking
+mst.scene_title.MultiMusicSelect._mainTitle,Muziekselectie
+mst.scene_title.MusicDecision._mainTitle,Nummers willekeurig
+mst.scene_title.MusicDifficulty._mainTitle,Moeilijkheidsgraad
+mst.scene_title.MultiConfirm._mainTitle,Laatste bevestiging
+mst.scene_title.StampSetting._mainTitle,Favorieten instellen
+mst.scene_title.Warehouse._mainTitle,Ruimteonderdelen
+mst.scene_title.TitleListSelect._mainTitle,Titel selectie
+mst.scene_title.TitleListView._mainTitle,Titeloverzicht
+mst.scene_title.SealExchange._mainTitle,Wisselwinkel
+mst.scene_title.BadgeExchange._mainTitle,Wisselwinkel
+mst.scene_title.EventTop._mainTitle,Evenementen
+mst.scene_title.EventStoryTop._mainTitle,Evenementverhaal
+mst.scene_title.EventStory._mainTitle,Evenementenkiezer
+mst.scene_title.EventScoreRanking._mainTitle,Evenementenranglijst
+mst.scene_title.EventReward._mainTitle,Evenementbeloning
+mst.scene_title.ItemList._mainTitle,Itemlijst
+mst.scene_title.ExchangeTop._mainTitle,Wisselwinkel
+mst.scene_title.EventMusicSelect._mainTitle,Muziekselectie
+mst.scene_title.EventChallengeLiveMusicSelect._mainTitle,Muziekselectie
+mst.scene_title.EventLiveTryMusicSelect._mainTitle,Muziekselectie
+mst.scene_title.EventDeckConfirm._mainTitle,Dekkie voorbereiden
+mst.scene_title.EventChallengeLiveDeckConfirm._mainTitle,Dekkie voorbereiden
+mst.scene_title.EventLiveTryDeckConfirm._mainTitle,Dekkie voorbereiden
+mst.scene_title.ExchangeItemList._mainTitle,Wisselwinkel
+mst.scene_title.BirthdayTop._mainTitle,Verjaardag
+mst.scene_title.MapScene._mainTitle,Area selecteren
+mst.scene_title.MultiLiveEventCooperationLive._mainTitle,Ruimteselectie
+mst.scene_title.MultiLiveEventCooperationLiveMatching._mainTitle,Matchmaking
+mst.scene_title.MultiLiveEventMultiMusicSelect._mainTitle,Muziekselectie
+mst.scene_title.MultiLiveEventMusicDecision._mainTitle,Nummers willekeurig
+mst.scene_title.MultiLiveEventMusicDifficulty._mainTitle,Moeilijkheidsgraad
+mst.scene_title.MultiLiveEventMultiConfirm._mainTitle,Laatste bevestiging
+mst.scene_title.LimitedLiveTop._mainTitle,Event Live
+mst.scene_title.LimitedLiveLottery._mainTitle,Nummers willekeurig
+mst.scene_title.TeacherLiveMusicSelect._mainTitle,Muziekselectie
+mst.scene_title.TeacherLiveDeckConfirm._mainTitle,Dekkie voorbereiden
+mst.scene_title.TeacherLiveTop._mainTitle,Live selectie
+mst.scene_title.CharacterEpisodeLevel._mainTitle,Aflevering bekijken
+mst.scene_title.BoxGardenTop._mainTitle,Aanpassingsruimte
+mst.scene_title.GachaTop._mainTitle,Scouten
+mst.scene_title.GachaResult._mainTitle,Scoutresultaten
+mst.scene_title.BandEnrichTop._mainTitle,Bandversterking
+mst.scene_title.BandEnrich._mainTitle,Bandversterking
+mst.scene_title.StoryTop._mainTitle,VERHAAL
+mst.scene_title.StoryMainTop._mainTitle,VERHAAL
+mst.scene_title.StoryCardMemberTop._mainTitle,Lid selectie
+mst.scene_title.StoryCardEpisodeTop._mainTitle,Aflevering kiezen
+mst.scene_title.Shop._mainTitle,Winkel
+mst.scene_title.BeginnerMission._mainTitle,Beginnersmissie
+mst.scene_title.GuestSelect._mainTitle,Gastselectie
+mst.scene_title.MusicRanking._mainTitle,Muziekranglijst
+mst.scene_title.MusicRecommend._mainTitle,Aanbevolen nummers
+mst.scene_title.ComicList._mainTitle,Stripalbum
+mst.scene_title.PresentBox._mainTitle,Cadeaubox
+mst.scene_title.Mission._mainTitle,Missie
+mst.scene_title.ProfileMemberSelect._mainTitle,Profiel bewerken
+mst.scene_title.FriendGestDetail._mainTitle,Gastdetail
+mst.scene_title.FriendGestMemberSelect._mainTitle,Gast bewerken
+mst.scene_title.LocationInformation._mainTitle,Uitstapje-cadeau
+mst.scene_title.MusicLibrary._mainTitle,Muziekbibliotheek
+mst.scene_title.SerialCodeDisplay._mainTitle,Serienummer
+mst.scene_title.StarEventRanking._mainTitle,Sterren-ranking

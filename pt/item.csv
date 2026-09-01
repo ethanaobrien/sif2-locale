@@ -1,0 +1,405 @@
+﻿_key,_text
+mst.item.15010001._name,Ticket de Recrutamento (1 vez)
+mst.item.15010001._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo tipo de Recrutamento que um ticket individual.
+mst.item.15010002._name,Ticket de Recrutamento (10 vezes)
+mst.item.15010002._effectDetail,Ticket que permite realizar Recrutamentos<br>Permite realizar o mesmo tipo de Recrutamento que 10 Recrutamentos.
+mst.item.15010003._name,Ticket de Recrutamento (uso limitado)
+mst.item.15010003._effectDetail,Ticket que permite realizar Recrutamentos (com data de validade)<br>Permite realizar o mesmo tipo de Recrutamento que 10 vezes.
+mst.item.15010004._name,Ticket de Recrutamento (Bônus de Vinculação de Dados do School Festa)
+mst.item.15010004._effectDetail,"Ticket que permite realizar Recrutamentos<br>Em alguns Recrutamentos, oferece o mesmo conteúdo de um Recrutamento de 10 vezes."
+mst.item.15010005._name,Ticket de Recrutamento (Benefício da Sincronização de Dados)
+mst.item.15010005._effectDetail,"Ticket que permite realizar Recrutamentos<br>Em alguns Recrutamentos, oferece o mesmo conteúdo de um Recrutamento de 10 vezes."
+mst.item.15010006._name,Ingresso para Recrutamento Único (válido até 15/07/2023 11:59)
+mst.item.15010006._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010007._name,"Ticket para 10 Recrutamentos (válido até 15/07/2023, 11:59)"
+mst.item.15010007._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010008._name,Ticket de Recrutamento Único (válido até 31/07/2023 11:59)
+mst.item.15010008._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010009._name,10 Recrutamentos (até 31/07/2023 11:59)
+mst.item.15010009._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010010._name,"Ticket de Recrutamento Único (até 15/08/2023, 11:59)"
+mst.item.15010010._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010011._name,"10x Ticket de Recrutamento (até 15/08/2023, 11:59)"
+mst.item.15010011._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010012._name,"Ticket de Recrutamento Único (até 31/08/2023, 11:59)"
+mst.item.15010012._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010013._name,10 Recrutamentos (até 31/08/2023 11:59)
+mst.item.15010013._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010014._name,"Ticket de Recrutamento Único (até 15/09/2023, 11:59)"
+mst.item.15010014._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010015._name,10x Ticket de Recrutamento (até 15/09/2023 11:59)
+mst.item.15010015._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010016._name,"Ticket de Recrutamento Único (válido até 30/09/2023, 11:59)"
+mst.item.15010016._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010017._name,10x Ticket de Recrutamento (até 30/09/2023 11:59)
+mst.item.15010017._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010018._name,"Ticket de Recrutamento Único (até 15/10/2023, 11:59)"
+mst.item.15010018._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010019._name,10x Ticket de Recrutamento (até 15/10/2023 11:59)
+mst.item.15010019._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010020._name,"Ticket de Recrutamento Único (válido até 31/10/2023, 11:59)"
+mst.item.15010020._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010021._name,10x Ticket de Recrutamento (até 31/10/2023 11:59)
+mst.item.15010021._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010022._name,"Ingresso para Recrutamento Único (até 15/11/2023, 11:59)"
+mst.item.15010022._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010023._name,"Ingresso para Recrutamento Único (até 15/11/2023, 11:59)"
+mst.item.15010023._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010024._name,"10 Recrutamentos (até 15/11/2023, 11:59)"
+mst.item.15010024._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010025._name,"Ticket de Recrutamento Único (até 30/11/2023, 11:59)"
+mst.item.15010025._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010026._name,10x Ticket de Recrutamento (até 30/11/2023 11:59)
+mst.item.15010026._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010027._name,"Ingresso para Recrutamento Único (até 15/11/2023, 11:59)"
+mst.item.15010027._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010028._name,"Ingresso para Recrutamento Único (até 15/12/2023, 11:59)"
+mst.item.15010028._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010029._name,10 Recrutamentos (até 15/12/2023 11:59)
+mst.item.15010029._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010030._name,"Ticket de Recrutamento Único (válido até 31/12/2023, 11:59)"
+mst.item.15010030._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010031._name,"10x Ticket de Recrutamento (até 31/12/2023, 11:59)"
+mst.item.15010031._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010032._name,"Ticket de Recrutamento Único (válido até 31/12/2023, 11:59)"
+mst.item.15010032._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010033._name,"10x Ticket de Recrutamento (até 31/12/2023, 11:59)"
+mst.item.15010033._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010034._name,"Ticket de Recrutamento Único (até 15/01/2024, 11:59)"
+mst.item.15010034._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010035._name,"10 Recrutamentos (até 15/01/2024, 11:59)"
+mst.item.15010035._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010036._name,"Ticket de Recrutamento Único (até 31/01/2024, 11:59)"
+mst.item.15010036._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010037._name,10 Recrutamentos (até 31/1/2024 11:59)
+mst.item.15010037._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010038._name,"Ticket de Recrutamento Único (até 14/02/2024, 11:59)"
+mst.item.15010038._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010039._name,"10 Recrutamentos (até 14/02/2024, 11:59)"
+mst.item.15010039._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15010040._name,"Ticket de Recrutamento Único (até 31/03/2024, 11:59)"
+mst.item.15010040._effectDetail,Ticket que permite realizar um Recrutamento<br>Permite realizar o mesmo Recrutamento de 1 vez no Recrutamento normal.
+mst.item.15010041._name,10 Invocações Normais (válido até 31/03/2024 11:59)
+mst.item.15010041._effectDetail,Ticket que permite realizar o Recrutamento<br>Permite realizar o mesmo Recrutamento de 10 vezes no Recrutamento normal.
+mst.item.15020001._name,Bilhete de Recrutamento (10 vezes - Super Recrutamento do School Festa 2)
+mst.item.15020001._effectDetail,Ingresso para realizar o Recrutamento Especial de Agradecimento do School Idol Festival 2<br>Permite realizar um Recrutamento de 10 vezes.
+mst.item.15500001._name,Pontos de Recrutamento [Aniversário do Lançamento]
+mst.item.15500001._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário"". Podem ser trocados por diversas Idols e itens <br>. <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15500002._name,Pontos de Recrutamento [After School Harajuku Liella!♡]
+mst.item.15500002._effectDetail,"Pontos obtidos no ""Recrutamento Especial - After School Harajuku Liella!♡"" <br> Podem ser trocados por diversas Idols e itens <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15510004._name,Pontos de Recrutamento [Normal]
+mst.item.15510004._effectDetail,"Pontos obtidos no ""Recrutamento Normal"". Podem ser trocados por diversas Idols e itens. <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio). <br> O prazo para troca destes pontos termina em 15 de maio. <br>"
+mst.item.15510005._name,Pontos de Recrutamento [Normal]
+mst.item.15510005._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 31 de maio."
+mst.item.15510006._name,Pontos de Recrutamento [Normal]
+mst.item.15510006._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 19 de junho."
+mst.item.15510007._name,Pontos de Recrutamento [Normal]
+mst.item.15510007._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o término do prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 30 de junho."
+mst.item.15510008._name,Pontos de Recrutamento [Normal]
+mst.item.15510008._effectDetail,"Pontos obtidos no ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 15 de julho."
+mst.item.15510009._name,Pontos de Recrutamento [Normal]
+mst.item.15510009._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 31 de julho."
+mst.item.15510010._name,Pontos de Recrutamento [Normal]
+mst.item.15510010._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 15 de agosto."
+mst.item.15510011._name,Pontos de Recrutamento [Normal]
+mst.item.15510011._effectDetail,"Pontos obtidos no ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 31 de agosto."
+mst.item.15510012._name,Pontos de Recrutamento [Normal]
+mst.item.15510012._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 15 de setembro."
+mst.item.15510013._name,Pontos de Recrutamento [Normal]
+mst.item.15510013._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 30 de setembro."
+mst.item.15510014._name,Pontos de Recrutamento [Normal]
+mst.item.15510014._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 15 de outubro."
+mst.item.15510015._name,Pontos de Recrutamento [Normal]
+mst.item.15510015._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 31 de outubro."
+mst.item.15510016._name,Pontos de Recrutamento [Normal]
+mst.item.15510016._effectDetail,"Pontos obtidos no ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 15 de novembro."
+mst.item.15510017._name,Pontos de Recrutamento [Normal]
+mst.item.15510017._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 30 de novembro."
+mst.item.15510018._name,Pontos de Recrutamento [Normal]
+mst.item.15510018._effectDetail,"Pontos obtidos no ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 15 de dezembro."
+mst.item.15510019._name,Pontos de Recrutamento [Normal]
+mst.item.15510019._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 31 de dezembro."
+mst.item.15510020._name,Pontos de Recrutamento [Normal]
+mst.item.15510020._effectDetail,"Pontos obtidos no ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 15 de janeiro."
+mst.item.15510021._name,Pontos de Recrutamento [Normal]
+mst.item.15510021._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 31 de janeiro."
+mst.item.15510022._name,Pontos de Recrutamento [Normal]
+mst.item.15510022._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 14 de fevereiro."
+mst.item.15510023._name,Pontos de Recrutamento [Normal]
+mst.item.15510023._effectDetail,"Pontos obtidos em ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 1º de março."
+mst.item.15510024._name,Pontos de Recrutamento [Normal]
+mst.item.15510024._effectDetail,"Pontos obtidos no ""Recrutamento Normal"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o término do prazo, serão convertidos em Livro de Habilidades (Médio) <br> ※ O prazo para troca destes pontos é até 31 de março."
+mst.item.15520001._name,Ponto de Recrutamento [Nós e esta cidade]
+mst.item.15520001._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Nós e esta cidade"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520002._name,Ponto de Recrutamento [Vamos Promover a Área Comercial!]
+mst.item.15520002._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Vamos Promover a Área Comercial!"" <br> Podem ser trocados por diversas Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520003._name,Pontos de Recrutamento [Live in Nature]
+mst.item.15520003._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Live in Nature"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520004._name,Ponto de Recrutamento [Dançarina Radiante]
+mst.item.15520004._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Idols Radiantes""<br>Podem ser trocados por diversas Idols e itens<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520005._name,Ponto de Recrutamento [Acampamento de Verão Ensolarado]
+mst.item.15520005._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Acampamento de Verão Ensolarado"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520006._name,Pontos de Recrutamento [A Sereia do Verão]
+mst.item.15520006._effectDetail,"Pontos obtidos em ""Recrutamento Especial - A Pequena Sereia no Verão"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520007._name,Ponto de Recrutamento [Verão na Praia]
+mst.item.15520007._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Verão na Praia""<br>Podem ser trocados por diversas Idols e itens<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520008._name,Ponto de Recrutamento [Flores Desabrochando em uma Noite de Verão]
+mst.item.15520008._effectDetail,"Pontos obtidos em ""Recrutamento Especial ~Flores Desabrochando na Noite de Verão~"". Podem ser trocados por diversas Idols e itens. <br> <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520009._name,Ponto de Recrutamento [Oohana Brilhando ao Luar]
+mst.item.15520009._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Lua Brilhante"" <br> Podem ser trocados por diversas Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520010._name,Pontos de Recrutamento [Passeio pela Cidade em Yukata]
+mst.item.15520010._effectDetail,"Pontos obtidos em ""Recrutamento Especial ~Passeio pela cidade com yukata~"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520011._name,Pontos de Recrutamento [Truque ou Guloseima!]
+mst.item.15520011._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Trick or Treat!"" <br> Podem ser trocados por diversas Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520012._name,Pontos de Recrutamento [Banda Marcial Ensolarada]
+mst.item.15520012._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Hidamari Marching Band"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520013._name,Pontos de Recrutamento [Nyan Nyan 🐾 Maid-san]
+mst.item.15520013._effectDetail,"Pontos obtidos em ""Recrutamento Especial ~Nyan Nyan 🐾 Maidens~"". Podem ser trocados por várias Idols e itens. <br> <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520014._name,Pontos de Recrutamento [Feliz Natal a Todos!]
+mst.item.15520014._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Merry Christmas para Todos!"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520015._name,Pontos de Recrutamento [Festival de Neve e Papai Noel]
+mst.item.15520015._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Festival de Neve e Papai Noel"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520016._name,Pontos de Recrutamento [Feliz Ano Novo para Todos]
+mst.item.15520016._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Feliz Ano Novo para Todos"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520017._name,Pontos de Recrutamento [Fada no Gelo]
+mst.item.15520017._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Fada no Gelo"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520018._name,Ponto de Recrutamento [Garotas Apaixonadas]
+mst.item.15520018._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Donzelas Apaixonadas"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520019._name,Ponto de Recrutamento [Noite do Cortejo dos Cem Demônios]
+mst.item.15520019._effectDetail,"Pontos obtidos em ""Recrutamento Especial - Noite do Cortejo de Cem Fantasmas"". Podem ser trocados por diversas Idols e itens. <br> <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15520020._name,Ponto de Recrutamento [Y2K♡GALS]
+mst.item.15520020._effectDetail,"Pontos obtidos em ""Recrutamento Especial ~Y2K♡GALS~"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530001._name,Pontos de Recrutamento [Aniversário da Kanon]
+mst.item.15530001._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Kanon"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530002._name,Pontos de Recrutamento [Aniversário da Ai-chan]
+mst.item.15530002._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Ai"". Podem ser trocados por diversas Idols e itens <br> <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530003._name,Pontos de Recrutamento [Aniversário da Hoshi-chan]
+mst.item.15530003._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da "".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530004._name,Ponto de Recrutamento [Aniversário da Mari-chan]
+mst.item.15530004._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da "".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530005._name,Pontos de Recrutamento [Aniversário da Shiki]
+mst.item.15530005._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Shiki"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530006._name,Pontos de Recrutamento [Aniversário da Karin]
+mst.item.15530006._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Karin"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530007._name,Ponto de Recrutamento [Aniversário da Senko-chan]
+mst.item.15530007._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Senko"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530008._name,Ponto de Recrutamento [Aniversário da Koko]
+mst.item.15530008._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Koko"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530009._name,Pontos de Recrutamento [Aniversário da Nico]
+mst.item.15530009._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Nico"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530010._name,Pontos de Recrutamento [Aniversário da Chika]
+mst.item.15530010._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Chika""<br>Podem ser trocados por diversas Idols e itens<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530011._name,Ponto de Recrutamento [Aniversário da Hoshiko]
+mst.item.15530011._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Hoshino"" <br> Podem ser trocados por diversas Idols e itens <br> ※ Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530012._name,Pontos de Recrutamento [Aniversário da Summer-chan]
+mst.item.15530012._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Summer"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530013._name,Ponto de Recrutamento [Aniversário da Setsuna]
+mst.item.15530013._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Setsuna""<br>Podem ser trocados por várias Idols e itens<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530014._name,Pontos de Recrutamento [Aniversário da Kotori]
+mst.item.15530014._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Kotori"".<br>Podem ser trocados por vários Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530015._name,Pontos de Recrutamento [Aniversário da Riko-chan]
+mst.item.15530015._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Riko"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530016._name,Ponto de Recrutamento [Aniversário da Ruby]
+mst.item.15530016._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Rubi"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530017._name,Ponto de Recrutamento [Aniversário da Sumire]
+mst.item.15530017._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Sumire"".<br>Podem ser trocados por vários Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530018._name,Ponto de Recrutamento [Aniversário da Shizuko]
+mst.item.15530018._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Shizuko"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530019._name,Pontos de Recrutamento [Aniversário da Emi]
+mst.item.15530019._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Eiri"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530020._name,Ponto de Recrutamento [Aniversário da Mei-chan]
+mst.item.15530020._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Mei"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530021._name,Pontos de Recrutamento [Aniversário da Rin-chan]
+mst.item.15530021._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Rin"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530022._name,Pontos de Recrutamento [Aniversário da Rina]
+mst.item.15530022._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Rina"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530023._name,Pontos de Recrutamento [Aniversário da Koi-chan]
+mst.item.15530023._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da "".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530024._name,Ponto de Recrutamento [Aniversário da Mia]
+mst.item.15530024._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Mia"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530025._name,Pontos de Recrutamento [Aniversário da Himari]
+mst.item.15530025._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da "".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530026._name,Pontos de Recrutamento [Aniversário da Fuyumari]
+mst.item.15530026._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Fubuki"" <br> Podem ser trocados por várias Idols e itens <br> ※ Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530027._name,Pontos de Recrutamento [Aniversário da Dia-chan]
+mst.item.15530027._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Dia"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530028._name,Ponto de Recrutamento [Aniversário da Hanayo]
+mst.item.15530028._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Hanyou""<br>Podem ser trocados por diversas Idols e itens<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530029._name,Pontos de Recrutamento [Aniversário da Margarete]
+mst.item.15530029._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Margarete"".<br>Podem ser trocados por vários Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530030._name,Pontos de Recrutamento [Aniversário da Kasumi]
+mst.item.15530030._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Kasumi"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530031._name,Pontos de Recrutamento [Aniversário da Emma]
+mst.item.15530031._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Emma"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530032._name,Pontos de Recrutamento [Aniversário da Kanan]
+mst.item.15530032._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Karanan""<br>Podem ser trocados por várias Idols e itens<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530033._name,Pontos de Recrutamento [Aniversário da Aranjyu]
+mst.item.15530033._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Aranjiru"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530034._name,Pontos de Recrutamento [Aniversário da Chizuru]
+mst.item.15530034._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Chizuru"" <br> Podem ser trocados por várias Idols e itens <br> ※ Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530035._name,Pontos de Recrutamento [Aniversário da Ayumu]
+mst.item.15530035._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Ayumu"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530036._name,Pontos de Recrutamento [Aniversário da Hanaru-chan]
+mst.item.15530036._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Hanaru"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15530037._name,Pontos de Recrutamento [Aniversário da Hanamaru]
+mst.item.15530037._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário da Umi"". Podem ser trocados por diversas Idols e itens <br>. <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540001._name,Pontos de Recrutamento [Bônus da Conexão com o School Idol Festival]
+mst.item.15540001._effectDetail,"Pontos obtidos no “Recrutamento de Bônus para Dados do School Idol Festival”. Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540002._name,Pontos de Recrutamento [Atributo em Destaque]
+mst.item.15540002._effectDetail,"Pontos obtidos em ""Recrutamento com foco em Smile!"", <br> ""Recrutamento com foco em Pure!"", <br> e ""Recrutamento com foco em Cool!"" <br> Podem ser trocados por várias Idols e itens. <br> *Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540005._name,Pontos de Recrutamento [Love Song Carnival - Ayumu]
+mst.item.15540005._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo do Love Song Carnival - Arco de Ayumu"". Pode ser trocado por várias Idols e itens. <br> <br> Após o término do prazo, será convertido em Livro de Habilidades (Médio)."
+mst.item.15540006._name,Pontos de Recrutamento [Love Song Carnival - Arco Kasumi]
+mst.item.15540006._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival ~Kasumi~"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540007._name,Pontos de Recrutamento [Love Song Carnival - Arco Shizuku]
+mst.item.15540007._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival - Arco Shizuku"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540008._name,Pontos de Recrutamento [Love Song Carnival - Karin-hen]
+mst.item.15540008._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival ~Edição Karin"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540009._name,Pontos de Recrutamento [Love Song Carnival - Arco da Paixão]
+mst.item.15540009._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival - Arco da Amizade"". Podem ser trocados por diversas Idols e itens. <br> Pode ser trocado por um Livro de Habilidades (Médio) após o término do prazo. <br>"
+mst.item.15540010._name,Pontos de Recrutamento [Love Song Carnival - Capítulo Hikari]
+mst.item.15540010._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival ~Arco de Kaho~"". Podem ser trocados por diversas Idols e itens. <br> <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540011._name,Pontos de Recrutamento [Love Song Carnival - Arco Setsuna]
+mst.item.15540011._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival - Arco Setsuna"".<br>Podem ser trocados por várias Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540012._name,Pontos de Recrutamento [Love Song Carnival - Emma]
+mst.item.15540012._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival - Arco Emma"". Podem ser trocados por diversas Idols e itens. <br> <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540013._name,Pontos de Recrutamento [Love Song Carnival - Rina]
+mst.item.15540013._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival - Episódio Rina"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540014._name,Pontos de Recrutamento [Love Song Carnival - Episódio Shizuko]
+mst.item.15540014._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival ~Episódio Shizuko"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540015._name,Pontos de Recrutamento [Love Song Carnival - Mia]
+mst.item.15540015._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Lovesong Carnival - Arco Mia"" <br> Podem ser trocados por diversas Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540016._name,Pontos de Recrutamento [Love Song Carnival - Arashi Tama]
+mst.item.15540016._effectDetail,"Pontos obtidos em ""Recrutamento comemorativo Love Song Carnival - Arashi Tama"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540017._name,Pontos de Recrutamento [Aniversário]
+mst.item.15540017._effectDetail,"Pontos obtidos em ""1 vez por dia grátis! Recrutamento de Aniversário"", <br> ""Recrutamento com UR garantido - Aniversário"", <br> e ""Recrutamento especial - Boo! Boo! Halloween Land"". <br> Podem ser trocados por várias Idols e itens. <br> *Após o prazo, serão convertidos em Livro de Habilidades (Médio).*"
+mst.item.15540023._name,Pontos de Recrutamento [Minha Canção de Amor]
+mst.item.15540023._effectDetail,"Pontos obtidos em ""Recrutamento de Comemoração do Início de 'Minha Canção de Amor'"" <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540024._name,Pontos de Recrutamento [μ's - Destaque]
+mst.item.15540024._effectDetail,"Pontos obtidos no ""Recrutamento μ's""! <br> Podem ser trocados por várias Idols e itens. <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540025._name,Pontos de Recrutamento [Aqours]
+mst.item.15540025._effectDetail,"Pontos obtidos no ""Recrutamento de Destaque Aqours"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540027._name,Pontos de Recrutamento [Johane do Crepúsculo]
+mst.item.15540027._effectDetail,"Pontos obtidos no “Recrutamento de Comemoração do Evento ‘幻日のヨハネ -The Story of the Sound of Heart-’ ” <br>. Podem ser trocados por diversas Idols e itens <br>. ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio) <br>."
+mst.item.15540028._name,Pontos de Recrutamento [Promoção de Calouros]
+mst.item.15540028._effectDetail,"Pontos obtidos no “Recrutamento com foco nos alunos do 1º ano” <br> Podem ser trocados por várias Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540029._name,Pontos de Recrutamento [Promoção de 2º Ano]
+mst.item.15540029._effectDetail,"Pontos obtidos no ""Recrutamento com foco em alunos do 2º ano"".<br>Podem ser trocados por diversas Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540030._name,Pontos de Recrutamento [Promoção de 3º Ano]
+mst.item.15540030._effectDetail,"Pontos obtidos no “Recrutamento com foco em Idols de 3º ano” <br> Podem ser trocados por diversas Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540031._name,Pontos de Recrutamento [Fim/Ano Novo]
+mst.item.15540031._effectDetail,"Pontos obtidos em “Recrutamento Gratuito de Fim de Ano e Ano Novo (máx. 240 vezes)” e “Recrutamento de Fim de Ano e Ano Novo com UR garantido” <br>. Podem ser trocados por diversas Idols e itens <br>. ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio) <br>."
+mst.item.15540032._name,Ponto de Recrutamento [Ano Novo]
+mst.item.15540032._effectDetail,"Pontos obtidos em “Recrutamento de Ano Novo” e “Recrutamento de Ano Novo com UR garantido” <br> Podem ser trocados por diversas Idols e itens <br> ※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540033._name,Pontos de Recrutamento [Love Song Carnival]
+mst.item.15540033._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário do Festival de Canções de Amor"".<br>Podem ser trocados por vários Idols e itens.<br>※Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540034._name,Pontos de Recrutamento [Recrutamento Especial]
+mst.item.15540034._effectDetail,"Pontos obtidos no ""Recrutamento de Aniversário do School Festa 2"". Podem ser trocados por diversas Idols e itens <br> <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.15540035._name,Pontos de Recrutamento [Recrutamento Especial]
+mst.item.15540035._effectDetail,"Pontos obtidos no ""Recrutamento Especial"". Podem ser trocados por diversas Idols e itens <br> <br> Após o término do prazo, serão convertidos em Livro de Habilidades (Médio)."
+mst.item.30010001._name,Pedaço Memorial
+mst.item.30010001._effectDetail,Obtenha em eventos e bônus de login.<br>Colete peças para trocar por Idols comemorativas na loja.
+mst.item.30010002._name,Vale-Troca Weiss Schwarz
+mst.item.30010002._effectDetail,Usado na troca da campanha de lançamento do Weiß Schwarz.
+mst.item.30010003._name,Vale-Troca Natal Branco
+mst.item.30010003._effectDetail,Vale para a troca na campanha de Natal com tema da Branca de Neve.
+mst.item.30010004._name,Pontos do Pacote de Sorte
+mst.item.30010004._effectDetail,Vale para a troca no pacote de Ano Novo!
+mst.item.30010005._name,Vale-Presente do Dia dos Namorados
+mst.item.30010005._effectDetail,Vale para a troca na campanha Feliz Dia dos Namorados.
+mst.item.16005001._name,Caderno de Aula (P)
+mst.item.16005001._effectDetail,Usado em lições para obter experiência para a Idol.
+mst.item.16005002._name,Anotação de Aula (Médio)
+mst.item.16005002._effectDetail,Usado em lições para obter experiência para a Idol.
+mst.item.16005003._name,Caderno de Aula (G)
+mst.item.16005003._effectDetail,Usado em lições para obter experiência para a Idol.
+mst.item.17001001._name,Livro de Habilidades (P)
+mst.item.17001001._effectDetail,"Ao usar em aulas de habilidade, você pode obter experiência para as habilidades."
+mst.item.17001002._name,Livro de Habilidades (Médio)
+mst.item.17001002._effectDetail,"Ao usar em aulas de habilidade, você pode obter experiência para as habilidades."
+mst.item.17001003._name,Livro de Habilidades (Grande)
+mst.item.17001003._effectDetail,"Ao usar em aulas de habilidade, você pode obter experiência para as habilidades."
+mst.item.19100001._name,Bastão de luz
+mst.item.19100001._effectDetail,Permite o Despertar de uma Idol.
+mst.item.20000001._name,Doce de LP [Pequeno]
+mst.item.20000001._effectDetail,Item que recupera 10 de LP.
+mst.item.20000002._name,Bala de LP [Médio]
+mst.item.20000002._effectDetail,Item que recupera 50 de LP
+mst.item.20000003._name,Bala de LP [Grande]
+mst.item.20000003._effectDetail,Item que recupera 100 de LP.
+mst.item.20001001._name,Doce de LP com prazo [Pequeno]
+mst.item.20001001._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20002001._name,Doce de LP com Prazo [Médio]
+mst.item.20002001._effectDetail,Item que recupera 50 de LP (com prazo de validade)
+mst.item.20003001._name,Balas de LP com Prazo [Grande]
+mst.item.20003001._effectDetail,Item que recupera 100 de LP (com prazo de validade)
+mst.item.20001002._name,Doce de LP com prazo [Pequeno]
+mst.item.20001002._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001003._name,Doce de LP com prazo [Pequeno]
+mst.item.20001003._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001004._name,Doce de LP com prazo [Pequeno]
+mst.item.20001004._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001005._name,Doce de LP com prazo [Pequeno]
+mst.item.20001005._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001006._name,Doce de LP com prazo [Pequeno]
+mst.item.20001006._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001007._name,Doce de LP com prazo [Pequeno]
+mst.item.20001007._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001008._name,Doce de Halloween LP [Pequeno]
+mst.item.20001008._effectDetail,Item que recupera 10 de LP.
+mst.item.20001009._name,Doce de LP com prazo [Pequeno]
+mst.item.20001009._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001010._name,Doce de LP com prazo [Pequeno]
+mst.item.20001010._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001011._name,Doce de LP com prazo [Pequeno]
+mst.item.20001011._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001012._name,Doce de Natal (P)
+mst.item.20001012._effectDetail,Item que recupera 10 de LP.
+mst.item.20001013._name,LP Kagami Mochi
+mst.item.20001013._effectDetail,Item que recupera 10 de LP.
+mst.item.20001014._name,Doce de LP com prazo [Pequeno]
+mst.item.20001014._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001015._name,Doce de LP com prazo [Pequeno]
+mst.item.20001015._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.20001016._name,Mini Chocolate do Dia dos Namorados
+mst.item.20001016._effectDetail,Item que recupera 10 de LP.
+mst.item.20001017._name,Macaron de Dia Branco (P)
+mst.item.20001017._effectDetail,Item que recupera 10 de LP.
+mst.item.20001018._name,Doce de LP com prazo [Pequeno]
+mst.item.20001018._effectDetail,Item que recupera 10 de LP (tem prazo de validade)
+mst.item.21000001._name,Ticket de Avanço
+mst.item.21000001._effectDetail,Ticket necessário para pular a música.
+mst.item.21001001._name,Ticket de Skip com Prazo Limite
+mst.item.21001001._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001002._name,Ticket de Skip com Prazo Limite
+mst.item.21001002._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001003._name,Ticket de Skip com Prazo Limite
+mst.item.21001003._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001004._name,Ticket de Skip com Prazo Limite
+mst.item.21001004._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001005._name,Ticket de Skip com Prazo Limite
+mst.item.21001005._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001006._name,Ticket de Skip com Prazo Limite
+mst.item.21001006._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001007._name,Ticket de Skip com Prazo Limite
+mst.item.21001007._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001008._name,Ticket de Skip com Prazo Limite
+mst.item.21001008._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001009._name,Ticket de Skip com Prazo Limite
+mst.item.21001009._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001010._name,Ticket de Skip com Prazo Limite
+mst.item.21001010._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001011._name,Ticket de Skip com Prazo Limite
+mst.item.21001011._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001012._name,Ticket de Skip com Prazo Limite
+mst.item.21001012._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.21001013._name,Ticket de Skip com Prazo Limite
+mst.item.21001013._effectDetail,Ingresso necessário para pular (com data de validade)
+mst.item.22000001._name,Ticket de Assistência Estelar
+mst.item.22000001._effectDetail,Ticket necessário para usar o Star Assist.
+mst.item.22001001._name,Ticket de Assistência Estelar (Tempo Limitado)
+mst.item.22001001._effectDetail,Ingresso necessário para usar o Star Assist (com data de validade)
+mst.item.22001003._name,Ticket de Assistência Estelar (Tempo Limitado)
+mst.item.22001003._effectDetail,Ingresso necessário para usar o Star Assist (com data de validade)
+mst.item.22001004._name,Ticket de Assistência Estelar (Tempo Limitado)
+mst.item.22001004._effectDetail,Ingresso necessário para usar o Star Assist (com data de validade)

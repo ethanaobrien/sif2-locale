@@ -1,0 +1,88 @@
+﻿_key,_text
+mst.scene_title.DeckTop._mainTitle,유닛 편성
+mst.scene_title.DeckEdit._mainTitle,유닛 편성
+mst.scene_title.DeckCharaSelect._mainTitle,부원 선택
+mst.scene_title.Classmate._mainTitle,부원 목록
+mst.scene_title.CostumeCharaList._mainTitle,의상 변경
+mst.scene_title.Practice._mainTitle,레슨
+mst.scene_title.SkillPractice._mainTitle,스킬 레슨
+mst.scene_title.Training._mainTitle,각성
+mst.scene_title.MemberList._mainTitle,부원 목록
+mst.scene_title.WaitingMemberList._mainTitle,대기실
+mst.scene_title.CardDetail._mainTitle,부원 상세 정보
+mst.scene_title.MemberIllustrateList._mainTitle,앨범
+mst.scene_title.MemberCharaTop._mainTitle,멤버 상세
+mst.scene_title.AreaTalkList._mainTitle,더미
+mst.scene_title.Album._mainTitle,더미
+mst.scene_title.MovieCollection._mainTitle,컬렉션
+mst.scene_title.CardAlbum._mainTitle,카드 앨범
+mst.scene_title.DeckConfirm._mainTitle,라이브 준비
+mst.scene_title.Profile._mainTitle,프로필
+mst.scene_title.RecommendList._mainTitle,즐겨찾기 선택
+mst.scene_title.Friend._mainTitle,친구 목록
+mst.scene_title.LiveSelect._mainTitle,라이브 선택
+mst.scene_title.MusicSelect._mainTitle,음악 선택
+mst.scene_title.CooperationLive._mainTitle,세션 선택
+mst.scene_title.CooperationLiveMatching._mainTitle,매칭
+mst.scene_title.MultiMusicSelect._mainTitle,음악 선택
+mst.scene_title.MusicDecision._mainTitle,곡 섞기
+mst.scene_title.MusicDifficulty._mainTitle,난이도 선택
+mst.scene_title.MultiConfirm._mainTitle,최종 확인
+mst.scene_title.StampSetting._mainTitle,즐겨찾기 설정
+mst.scene_title.Warehouse._mainTitle,룸 파츠
+mst.scene_title.TitleListSelect._mainTitle,칭호 선택
+mst.scene_title.TitleListView._mainTitle,칭호 목록
+mst.scene_title.SealExchange._mainTitle,교환소
+mst.scene_title.BadgeExchange._mainTitle,교환소
+mst.scene_title.EventTop._mainTitle,이벤트
+mst.scene_title.EventStoryTop._mainTitle,이벤트 스토리 보기
+mst.scene_title.EventStory._mainTitle,이벤트 선택
+mst.scene_title.EventScoreRanking._mainTitle,이벤트 순위표
+mst.scene_title.EventReward._mainTitle,이벤트 보상
+mst.scene_title.ItemList._mainTitle,아이템 목록
+mst.scene_title.ExchangeTop._mainTitle,교환소
+mst.scene_title.EventMusicSelect._mainTitle,음악 선택
+mst.scene_title.EventChallengeLiveMusicSelect._mainTitle,음악 선택
+mst.scene_title.EventLiveTryMusicSelect._mainTitle,음악 선택
+mst.scene_title.EventDeckConfirm._mainTitle,덱 준비
+mst.scene_title.EventChallengeLiveDeckConfirm._mainTitle,덱 준비
+mst.scene_title.EventLiveTryDeckConfirm._mainTitle,덱 준비
+mst.scene_title.ExchangeItemList._mainTitle,교환소
+mst.scene_title.BirthdayTop._mainTitle,생일
+mst.scene_title.MapScene._mainTitle,지역 선택
+mst.scene_title.MultiLiveEventCooperationLive._mainTitle,룸 선택
+mst.scene_title.MultiLiveEventCooperationLiveMatching._mainTitle,매칭
+mst.scene_title.MultiLiveEventMultiMusicSelect._mainTitle,음악 선택
+mst.scene_title.MultiLiveEventMusicDecision._mainTitle,곡 섞기
+mst.scene_title.MultiLiveEventMusicDifficulty._mainTitle,난이도 선택
+mst.scene_title.MultiLiveEventMultiConfirm._mainTitle,최종 확인
+mst.scene_title.LimitedLiveTop._mainTitle,이벤트 라이브
+mst.scene_title.LimitedLiveLottery._mainTitle,곡 섞기
+mst.scene_title.TeacherLiveMusicSelect._mainTitle,음악 선택
+mst.scene_title.TeacherLiveDeckConfirm._mainTitle,덱 준비
+mst.scene_title.TeacherLiveTop._mainTitle,라이브 선택
+mst.scene_title.CharacterEpisodeLevel._mainTitle,에피소드 확인
+mst.scene_title.BoxGardenTop._mainTitle,커스터마이즈 룸
+mst.scene_title.GachaTop._mainTitle,스카우트
+mst.scene_title.GachaResult._mainTitle,스카우트 결과
+mst.scene_title.BandEnrichTop._mainTitle,밴드 강화
+mst.scene_title.BandEnrich._mainTitle,밴드 강화
+mst.scene_title.StoryTop._mainTitle,스토리 TOP
+mst.scene_title.StoryMainTop._mainTitle,스토리
+mst.scene_title.StoryCardMemberTop._mainTitle,멤버 선택
+mst.scene_title.StoryCardEpisodeTop._mainTitle,에피소드 선택
+mst.scene_title.Shop._mainTitle,상점
+mst.scene_title.BeginnerMission._mainTitle,초보자 미션
+mst.scene_title.GuestSelect._mainTitle,게스트 선택
+mst.scene_title.MusicRanking._mainTitle,곡별 순위
+mst.scene_title.MusicRecommend._mainTitle,추천 목록
+mst.scene_title.ComicList._mainTitle,단편 만화
+mst.scene_title.PresentBox._mainTitle,선물 상자
+mst.scene_title.Mission._mainTitle,미션
+mst.scene_title.ProfileMemberSelect._mainTitle,프로필 편집
+mst.scene_title.FriendGestDetail._mainTitle,게스트 상세 정보
+mst.scene_title.FriendGestMemberSelect._mainTitle,게스트 편집
+mst.scene_title.LocationInformation._mainTitle,외출 선물
+mst.scene_title.MusicLibrary._mainTitle,음악 라이브러리
+mst.scene_title.SerialCodeDisplay._mainTitle,시리얼 코드 확인
+mst.scene_title.StarEventRanking._mainTitle,스타 레벨 랭킹

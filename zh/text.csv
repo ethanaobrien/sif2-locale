@@ -1,0 +1,3349 @@
+﻿_key,_text
+Common_Amount,{0}×{1}
+Common_IconAmount,×{0}
+Common_IconAmountOverLimit,×{0}+
+Common_ItemHasAmount,持有数量：{0}
+Common_PossessionNumber,持有数量
+Common_Possession,持有
+Common_Lack,不足
+Common_Gem,Loveca
+Common_KizunaPoint,好感度
+Common_ChargeGem,Loveca（付费）
+Common_Point_Coin,金币
+Common_Point_Seal,招募点数
+Common_Point_LiveStamp,Live印章
+Common_OwnedAndCostAmount,{0}/{1}
+Common_Rank,等级
+Common_PlayerRank,玩家等级
+Common_GroupRank,组等级
+Common_GroupRankWithGroupName,{0}等级
+Common_ExpToNextRankLabel,还差
+Common_ExpMax,已满级
+Common_Exp,经验值
+Common_Level,等级
+Common_MusicLevel,歌曲等级
+Common_OrderBy,升序
+Common_OrderByDescending,降序
+Common_Day,{0}号
+Common_Month,{0}月
+Common_Year,{0}年
+Common_Hour,{0}小时
+Common_Minute,{0}分钟
+Common_Second,{0}秒
+Common_Until,至
+Common_ExpireDateFew,仅剩！
+Common_ExpireDateRemaining,剩余
+Common_ExpireDateInfinity,永久有效
+Common_ExpireDateExpired,已过期
+Common_Period,{0} 至 {1}
+Common_Remaining,剩余
+Common_Exchange,兑换
+Common_Filter,筛选
+Common_Sort,排序
+Common_AllSelect,全部
+Common_AllRelease,取消全选
+Common_Sunday,星期天
+Common_Monday,星期一
+Common_Tuesday,星期二
+Common_Wednesday,星期三
+Common_Thursday,木曜日
+Common_Friday,星期五
+Common_Saturday,星期六
+Common_Daily,每日
+Common_Weekly,每周
+Common_MusicArtistLabel,歌曲
+Common_MusicLyricistLabel,作词
+Common_MusicComposerLabel,作曲
+Common_MusicArrangerLabel,编曲
+Common_MusicArtistFormat,演唱：{0}
+Common_MusicLyricistFormat,作词：{0}
+Common_MusicComposerFormat,作曲：{0}
+Common_MusicArrangerFormat,编曲：{0}
+Common_MusicDetail,作词：{0} <br> 作曲：{1}
+Common_CardFullName,[{0}]{1}
+Common_CardFullName2Line,[{0}]<br>{1}
+Common_Rare2,SR
+Common_Rare3,UR
+Common_Rare4,UR
+Common_Present,礼物
+Common_Reward,奖励
+Common_Receive,已收到{0}
+Common_Nothing,无
+Common_RoleVocal,主唱
+Common_RoleGuitar,主唱
+Common_RoleBass,贝斯
+Common_RoleDrum,鼓点
+Common_RoleKeyboard,键盘
+Common_RoleSupport,支援
+Common_TypeHeart,Smile
+Common_TypeDiamond,Pure
+Common_TypeSpade,Cool
+Common_MainStory,主线剧情
+Common_SubStory,支线剧情
+Common_EventStory,活动剧情
+Common_EventPoint,{0}点
+Common_EventCurrency_ChallengeLive,{0}个
+Common_EventCurrency_LiveTry,{0}个
+Common_EventCurrency_VsLive,{0}人
+Common_EventCurrency_MultiLive,{0}人
+Common_RankingRank,第{0}名
+Common_RankingRankOut,未进入排行榜
+Common_CountBadgeOverLimit,{0}+
+Common_SkipUntilNextDay_Zero,明日0时起，不再显示此窗口
+Common_SkipUntilNextDay_Login,明日凌晨4点前，不显示此窗口
+Common_DoNotDisplayAfter,今后不再显示此窗口
+Common_Percent,{0}%
+Common_Piece,{0}个
+Common_All,全部
+Common_Other,Liella！
+Common_XJAPAN,μ’s
+Common_LUNASEA,Aqours
+Common_GLAY,虹ヶ咲
+Common_GroupOther,其他
+Common_Grade,{0}年级
+Common_DifficultyNormal,普通
+Common_DifficultyHard,难
+Common_DifficultyExpert,EXPERT
+Common_DifficultyMaster,大师
+Common_StatusOfAchievement,达成情况
+Common_Achieved,已达成
+Common_NotAchieved,未达成
+Common_ExpirationDate,有效期限
+Button_Close,关闭
+Button_Ok,確認
+Button_Next,下一步
+Button_Cancel,取消
+Button_Decide,确定
+Button_Update,更新
+Button_Retry,重试
+Button_Return,返回
+Button_VoiceOn,带声线
+Button_VoiceOff,无声
+Button_Resume,继续 Live
+Button_Suspend,结束 Live
+Button_Skip,跳过
+Button_Restart,重新开始 Live
+Button_Shop,商店
+Button_Home,返回主页
+Button_BuyGem,前往Loveca商店
+Button_PresentBox,前往礼物页面
+Button_Chat,前往聊天
+Button_Release,释放
+Button_Apply,应用
+Button_Edit,编辑
+DueDate_DialogTitle_PresentBox,领取截止日期
+DueDate_DialogCaution_PresentBox,如未在规定时间内领取，道具将消失。
+DueDate_Dialog_ItemNum,数量：{0}
+DueDate_DialogTitle_Item,即将到期的道具
+GachaTop_PeriodTime,剩余时间：{0} 至 {1}
+GachaTop_PriceTitle,招募{0}次
+GachaTop_PriceTitleChargeGem,招募{0}次（付费）
+GachaTop_PriceTitleFree,免费招募{0}次
+GachaTop_Price_Free,免费
+GachaTop_BuyButton_Balloon_Daily,<color=#f93981>1日{0}回</color><br>每日0点刷新
+GachaTop_BuyButton_Balloon_ReritySR,<color=#f93981>保底SR或以上</color><br>必出一人！
+GachaTop_BuyButton_Balloon_RerityUR,<color=#f93981>必得一张UR！</color>
+GachaTop_BuyButton_Balloon_BonusItem,含道具<br>额外赠送！
+GachaTop_BuyButton_Balloon_Free,{0}次免费！
+GachaTop_BuyButton_Balloon_Limit,活动期间仅限{0}次！
+GachaTop_LimitDailyOnce,每日一次
+GachaTop_LimitDailyAny,每日0点重置 <color=#FD8E18>，每天可抽 {0} 次 </color>。<br>
+GachaTop_LimitCountOnce,1次限定
+GachaTop_LimitCountAny,剩余{0}次
+GachaTop_LimitDailyOnceCountAny,还剩{0}次 <br> <color=#FD8E18>（每日限一次）</color>
+GachaTop_LimitDailyAnyCountAny,剩余{0}次<br><color=#FD8E18>（今日剩余{1}次）</color>
+GachaTop_EnsureRareOnly,确定获得{1}名 {0}！
+GachaTop_EnsureRareOverContains,至少{0}，保证获得{1}人！
+GachaTop_LimitOver,已达到次数上限
+GachaTop_LimitOverDailyRepeat,每天凌晨更新<br>
+GachaTop_LimitEnd,已抽取完毕
+GachaTop_LimitStepup,已达到阶梯次数上限
+GachaTop_MemberDetailCaution,※各项属性均为已觉醒并达到最高等级时的数值。<br>※技能效果为技能等级满级时的效果。
+GachaTop_MemberDetailPhotoButtonEvolveBefore,觉醒前修改
+GachaTop_MemberDetailPhotoButtonEvolveAfter,觉醒后更改
+GachaTop_BannerRemainTimeFormat,剩余时间：<size=85%><size=100%>{0}
+GachaTop_RateFormat,{0}%
+GachaTop_MemberRateFormat,f4
+GachaTop_RarityRateFormat,f2
+GachaTop_Step,抽取 {0}
+GachaTop_StepCount,<size=59> <color=#f93981> {0}/{1} </color> <size=32>
+GachaTop_HasAmount,（持有{0}）
+GachaTop_LimitDailyOnceChargeGem,付费 Loveca 限定！每天午夜刷新。
+GachaTop_BonusReward,{0}附赠礼品！
+GachaTop_RunButtonText,进行 <size=50> 次招募 {0} <size=32>
+GachaTop_RunButtonDialog_Title,招募券
+GachaTop_RunButtonDialog_TopButton,票
+GachaTop_RunButtonDialog_Caution,※如果优惠券已过期，则无法进行招募<br>※可以进行当前选择的招募<br>※与使用Loveca进行招募时相同（对于10次招募优惠券，将适用与10次招募相同的规则）
+GachaPlay_DialogOk,確認
+GachaPlay_DialogInfomation,※超出持有上限获得的道具将作为礼物发送。
+GachaConfirm_DialogTitle,确认
+GachaConfirm_Period,活动期间：
+GachaConfirm_Count,{0}次
+GachaConfirm_TicketText,“{0}”，消耗 {1} 个，在 <br> 进行 {2} 次，共招募 {3} 次吗？
+GachaConfirm_GemText,使用 {0}Loveca，消耗 <br>{1} 进行 {2} 次招募吗？
+GachaConfirm_InfoText,使用{1}×{0}进行<br>{2}回招募吗？
+GachaConfirm_ConsumeLackText,{0}不足。
+GachaConfirm_Buy,购买吗？
+GachaConfirm_Gem,Loveca
+GachaConfirm_ChargeGem,购买 Loveca
+GachaConfirm_BuyButton,购买
+GachaConfirm_GachaButton,招募
+GachaResult_RemainingAny,剩余 次
+GachaResult_RemainingDailyAny,今日剩余 次
+GachaResult_TutorialSelectPhoto,请选择你喜欢的偶像。
+GachaResult_GetPoint,"获取 {0} 点 <font=""FOT-TsukuGoPr5-M SDF"">，获得 </font>"
+GachaResult_ResultPoint,{0} → {1}
+GachaResult_Exchange,兑换处
+GachaResult_GetOverMemberMessage,如果已经加入了该偶像，则可获取应援棒。<br>
+GachaResult_LimitBreakNoteText,※新偶像已加入！
+GachaDetail_TabTitle,招募详情
+GachaDetail_DialogTitle,招募详情
+GachaDetail_Help,注意事项
+GachaDetail_GachaInfo,招募概要
+GachaDetail_Terms,活动期间
+GachaDetail_NewMember,新偶像介绍
+GachaDetail_Step,抽取 {0}
+GachaRateDetail_TabTitle,出现概率
+GachaRateDetail_DialogTitle,招募详情
+GachaRateDetail_Help,注意事项
+GachaRateDetail_RarityRate,稀有度별 등장 확률
+GachaRateDetail_RarityRateUnensure,出现概率{0}
+GachaRateDetail_RarityRateEnsure,确定出现概率{0}
+GachaRateDetail_Main,Live位置
+GachaRateDetail_Support,支援位置
+GachaRateDetail_RarityRateMember,出现偶像列表
+GachaRateDetail_RarityRateUnensureMember,出现偶像列表{0}
+GachaRateDetail_RarityRateEnsureMember,出现偶像列表{0}
+GachaFixedRateDetail_TabTitle,10次招募，第10个名额出现概率
+GachaFixedRateDetail_TabTitleStepup,10次招募，第10个名额出现概率
+GachaPickUpMemberDetail_TabTitle,偶像详情
+GachaPickUpMemberDetail_DialogTitle,偶像详情
+Consume_HasConsumeName,持有数量
+Consume_UseConsumeName,所需数量
+Consume_PriceTitleChargeGem,抽取 {0} 次 <br>（仅限付费）
+Consume_InfoOnConsumeMedal ,将优先消耗免费Loveca。
+WaitingMemberList_SealNumWordText,招募点数持有
+WaitingMemberList_SealReplacementShopButton,兑换处
+WaitingMemberList_AllSelectButton,全选
+WaitingMemberList_SelectCharaNumWord,已选择
+WaitingMemberList_SealChangeButton,转部
+WaitingMemberList_EmptyChara,没有可以转部的偶像。
+WaitingMemberList_ItemGetNum,获取数量
+WaitingMemberList_CanGetItem,可获取的道具
+WaitingMemberList_ChangeResultShortMessage,获得了{0}个应援棒
+WaitingMemberList_ChangeDialogTitle,确认
+WaitingMemberList_ChangeDialogConfirm,将{0}名偶像从候补席调到正式成员，并获得{1}个应援棒。
+WaitingMemberList_ChangeDialogCharaNumWord,个
+WaitingMemberList_ChangeDialogSealNumWord,个
+WaitingMemberList_ChangeDialogTotalSealWord,贴纸
+CardIcon_LvWord,等级。
+CardIcon_SkillLvWord,技能等级
+CardIcon_HpWord,生命值：
+CardIcon_EventBonusWord,奖励：
+CardIcon_EventBonusParam,+{0}%
+CardIcon_BonusParam,<size=20>+</size>{0}%
+CardIcon_UnlockNotJoin,未加入
+Practice_EmptyItem,未持有练习笔记<br>
+Practice_ExpWord,还差
+Practice_ResetButton,重置
+Practice_RecommendButton,随机推荐
+Practice_Max,已满级
+Practice_ItemSelect,选择道具
+Practice_NeedItem,所需道具
+Practice_ItemShortageAlert,所需道具不足
+Practice_LevelMaxAlert,等级已达上限
+SkillPractice_EmptyChara,是否将候场区的偶像{0}人与<br>支应援棒{1}进行交换<br>？
+SkillPractice_EmptyItem,没有技能书<br>
+SkillPractice_SamePhotoBonus,相同偶像加成
+SkillPractice_SameItemBonus,相同奖励
+SkillPractice_PhotoTab,备用室
+SkillPractice_ItemTab,券
+SkillPractice_HavingTextLavel,持有：{0}
+Training_ConfirmDialogTitle,确认
+Training_ItemConfirmDialogMessage,使用选定的应援棒进行觉醒<br>可以吗？
+Training_CardConfirmDialogMessage,使用选定的应援棒进行觉醒<br>可以吗？
+Training_LackCoinConfirmDialogMessage,[{0}]{1}觉醒所需<br><color=#D73C55>金币不足</color>
+Training_ItemSettingDialogTitle,消耗物品设置
+Training_ItemSettingDialogMessage,请设置所需消耗的道具数量。
+Training_NeedCount,所需数量
+Training_NeedItem,所需道具
+Training_NoSetting,未设置
+Training_MaxLevelAndStatus,最大等级与属性值
+Training_EmptyChara,没有可以觉醒的偶像
+Training_ItemConfirmDialogLimitNumNote,觉醒次数最多为{0}次。
+Training_ItemAmountOverLimit,{0}+
+Training_SelectThisWay,选择此方式
+Training_GoldLack,金币不足
+Training_LevelLack,等级未满
+Training_AwakeningBefore,觉醒前
+Training_AwakeningAfter,觉醒后
+Training_MaxLv,已满级
+Training_AwakenedMaxShortMessage,已觉醒至最高等级
+Training_CardEvolveItem,荧光棒
+Training_CardEvolveItemSub1,觉醒道具
+Training_CardEvolveItemSub2,觉醒道具
+Training_CardEvolveItemSub3,觉醒道具
+TrainingResult_TrainingTitle,觉醒完成
+TrainingResult_TrainingMessage,觉醒完成。
+TrainingResult_EpisodeTitle,剧情达成奖励
+TrainingResult_EpisodeMessage,成功解锁了{0}的{1}剧情<br>。
+StatusUpResult_EpisodeTitle,剧情达成奖励
+StatusUpResult_Message,{0}的<br>属性提升了。
+CardDetail_EpisodeUnlockConfirm,是否消耗以下道具来解锁剧情“{0}”？
+CardDetail_EpisodeUnlockLevel,解锁条件：偶像等级达到{0}或以上
+CardDetail_EpisodeUnlockNeedNum,所需数量：{0}
+CardDetail_EpisodeUnlockHaveNum,持有数量：{0}
+CardDetail_EpisodeUnlockLackMaterial,缺少 <color=#D73C55>材料道具 </color>。
+CardDetail_EpisodeUnlockLackLevel,<color=#D73C55>偶像等级不足<br>当前 Lv.{0} / 需要 Lv.{1}</color>
+CardDetail_EpisodeUnlockLackGold,所需金币不足 <color=#D73C55> </color>
+CardDetail_UnlockEpisodePlayConfirmDialogTitle,故事已解锁
+CardDetail_UnlockEpisodePlayConfirmDialogMessage,故事“{0}”已解锁，是否继续阅读？<br> <br>
+CardDetail_EpisodePlayConfirmDialogTitle,剧情
+CardDetail_EpisodePlayConfirmDialogMessage,是否要阅读故事「{0}」的<br>？
+CardDetail_ChangeIllustButton,更换插图
+CardDetail_ExpansionButton,放大
+CardDetail_LevelWord,等级
+CardDetail_ExpWord,还差
+CardDetail_Max,已满级
+CardDetail_MemberDetailButton,偶像详情
+CardDetail_PracticeButton,课程
+CardDetail_TrainingButton,觉醒
+CardDetail_SkillPracticeButton,技能练习
+CardDetail_CardNormal,普通
+CardDetail_Favorite,收藏
+CardDetail_Animation,动画
+CardDetail_Effect,特效
+CardDetail_Status,属性
+CardDetail_Profile,个人资料
+CardDetail_LevelStatus,等级属性值
+CardDetail_CenterSkill,中心技能
+CardDetail_Skill,技能
+CardDetail_SkillLv,技能等级
+CardDetail_GachaButton,招募
+CardDetail_SchoolYear,年级
+CardDetail_Birthday,生日
+CardDetail_BloodType,血型
+CardDetail_Height,身高
+CardDetail_CharaVoice,声优
+CardDetail_SchoolYearInput,{0}年级
+CardDetail_EpisodeUnlockConfirmDialogTitle,确认解锁剧情
+CardDetail_EpisodeRewardDialogTitle,剧情奖励
+CardDetail_SpecialEpisodeRewardDialogTitle,特别剧情奖励
+CardDetail_EpisodeRewardDialogMessage,已获取奖励！<br><color=#D73C55>可在礼物中领取奖励</color>
+CardDetail_EpisodePlayDialogUseVoiceButton,带声线
+CardDetail_EpisodePlayDialogNoVoiceButton,无声
+CardDetail_CharacterEpisodeLevel,剧情等级：{0}
+CardDetail_CardGetCategoryGacha,招募
+CardDetail_CardGetCategoryEvent,活动
+CardDetail_CardGetCategoryExchange,兑换处
+CardDetail_CardGetCategoryStory,剧情
+CardDetail_CardGetCategoryMission,任务
+CardDetail_CardGetDetailGacha,招募“{0}”即可获得！
+CardDetail_CardGetDetailEvent,活动“{0}”中可获得！
+CardDetail_CardGetDetailExchange,可在兑换处“{0}”获得！
+CardDetail_CardGetDetailStory,故事『{0}』可获得！
+CardDetail_CardGetDetailMission,任务中可获得！
+CardDetail_NoticeLevelMaxDisplay,显示觉醒阶段和等级达到最大值时的属性。
+Album_NotCanGet,当前无法加入
+Album_GachaCanGet,可通过<color=#DF4444>招募</color>获得偶像。
+Album_EventCanGet,可在 <color=#DF4444>活动</color> 中获得的偶像。
+Album_ExchangeCanGet,可在<color=#DF4444>兑换</color>中获得的偶像。
+Album_LoginbonusCanGet,通过<color=#DF4444>登录奖励</color>可获得的偶像。
+Album_StoryCanGet,可在<color=#DF4444>故事</color>中获得的偶像。
+Album_MissionCanGet,通过<color=#DF4444>任务</color>可获得的偶像。
+Album_BeginnerMissionCanGet,可在<color=#DF4444>新手任务</color>中获得的偶像。
+Album_GachaCanNotGet,「{0}」的新偶像，<br>当前活动中无法通过招募加入。
+Album_EventCanNotGet,活动“{0}”的新偶像，目前无法通过正在进行的活动或兑换处获得。<br>
+Album_CampaignCanNotGet,「{0}」的活动偶像，<br>目前无法加入。
+Album_GachaOkButton,招募
+Album_EventOkButton,返回活动页面
+Album_ExchangeOkButton,前往兑换处
+Album_StoryOkButton,前往剧情
+Album_TrainingOkButton,偶像详情
+Album_MissionOkButton,任务界面
+Album_DefaultOkButton,確認
+Album_Empty,没有相册。
+Album_DialogTitle,专辑排序
+Album_DialogGetTypeWord,已加入状态
+Album_DialogTrainingTypeWord,觉醒状态
+Album_DialogGetTypeAll,全部
+Album_DialogGetTypeTitle,持有
+Album_DialogGetTypeUnlock,持有
+Album_DialogGetTypeLock,未拥有
+Album_DialogMovieTypeTitle,视频
+Album_DialogMovieTypeHas,视频已解锁
+Album_DialogMovieTypeNot,无视频
+Album_DialogEpisodeTypeTitle,剧情
+Album_DialogEpisodeTypeHas,故事模式
+Album_DialogEpisodeTypeNot,无剧情
+Album_DialogSpPhotoTypeTitle,SP照片
+Album_DialogSpPhotoTypeHas,SP照片有
+Album_DialogSpPhotoTypeNot,无SP照片
+Album_DialogEvolveTypeAll,全部
+Album_DialogEvolveTypeNotEvolved,觉醒前
+Album_DialogEvolveTypeEvolved,觉醒后
+Album_DialogSortTypeId,默认
+Album_DialogSortTypeUnlock,获取顺序
+Album_DialogSortTypeRarity,稀有度
+Album_SIF1_CardSeries,系列
+Album_SIF1_CardOther,其他
+Album_SIF1_CardTypeNormal,普通
+Album_SIF1_CardTypeAwakening,觉醒
+Album_SIF1_HeightExt,{0}厘米
+Album_SIF2_AcquiredStatus,已获得状态
+Album_SIF2_AcquiredPercent,{0}%({1}/{2})
+Album_SIF2_MemberSummary,偶像列表
+Album_SIF2_Profile,个人资料
+Album_SIF2_NonJoining,未加入
+Album_SIF2_NonJoiningToCard,没有已加入的偶像
+Album_SIF2_NothingToCard,没有符合条件的偶像
+AreaTalkList_AreaOnly,发生地点
+AreaTalkList_AreaAndItem,触发条件
+AreaTalkList_Empty,没有迷你剧情。
+AreaTalkList_HaveAlbum,回顾已观看过的迷你剧情！
+AreaTalkList_PlayButton,查看
+CostumeSelect_DeckTitle,编队照片的服装
+CostumeSelect_DeckInfo,设置后，默认服装将变为<br>「{0}」。
+CostumeSelect_SetButton,设置
+CostumeSelect_SelectedButton,设置中
+CostumeSelect_UnLockInfoButton,解锁条件
+CostumeSelect_UnLockInfoByFot,获取 {1}，需要 {0}
+CostumeSelect_UnLockInfoByCampaign,获得{0}
+CostumeSelect_NotSelected,未设置
+OrnamentShop_EmptyData,没有可购买的物品。
+OrnamentShop_ScrollItemBuyText,购买
+OrnamentShop_ScrollItemLevelUpText,提升等级
+OrnamentShop_ScrollItemUnlockText,解锁条件
+OrnamentShop_BuyConfirmDialog_ConditionLabel,所需条件
+OrnamentShop_BuyResultDialogTitle_Buy,购买道具
+OrnamentShop_BuyResultDialogTitle_LevelUp,道具等级提升
+OrnamentShop_BuyResultDialogMessage_DoesNotPlace,已将购买的道具发送至储藏室。
+Chat_NoticeReceive,收到消息。
+Chat_TabChatSummary,摘要
+Chat_TabChatSolo,聊天
+Chat_TabChatGroup,群组聊天
+Chat_TabCollectionStamp,表情包
+Chat_TabCollectionAttachment,照片
+Chat_AvailableStamp,可使用已选表情的聊天
+Chat_AcquiredStamp,可在歌曲结算时随机获取。
+Chat_TalkTagVoice,语音
+Chat_TalkInputWait,{0}正在输入……
+Chat_TalkItemReceive,接收
+Chat_TalkItemReceived,已接收
+Chat_TalkItemGet,已获取{0}
+Chat_TalkLookback,查看对话记录
+Chat_OrderOfArrival,按接收顺序
+Chat_OrderOfPrecedence,排序方式
+Chat_NotYetOpen,未加入聊天<br>交换联系方式后即可加入聊天。
+Chat_NotYetAvailable,当前没有可使用的聊天室。
+MusicShop_EmptyData,没有可购买的歌曲。
+MusicShop_AlreadyBought,已购买
+MusicShop_DetailDialogTitle,歌曲详情
+MusicShop_BuyConfirmDialogTitle,购买确认
+MusicShop_BuyConfirmDialogMessage,购买这首歌曲吗？
+MusicShop_BuyConfirmDialogCostItem,★所需物品★
+MusicShop_BuyResultDialogTitle,购买完成
+Warehouse_BatchReplaceDialogDecideButton,确定
+Warehouse_BatchReplaceDialogTitle,推荐编队
+Warehouse_BatchReplaceDialogCardTypePriority,优先属性
+Warehouse_BatchReplaceDialogDeckRolePriority,优先乐器
+Help_DialogTitle,帮助
+Help_Faq,常见问题
+Help_GameProgress,游戏流程与操作说明
+Help_BuyGem,购买Loveca
+Help_TakeOver,进行账号转移
+Help_Opinions,意见与建议
+Help_ButtonFaq,常见问题
+Help_ButtonBuyGem,Loveca购买错误
+Help_ButtonRegardProblems,问题反馈<br>
+Help_ButtonDataRecovery,数据恢复的<br>咨询
+Help_ButtonOther,其他咨询
+Help_Notes,注意事项
+Help_JumpButton,跳转到网站
+Help_ContactFormCaution,・原则上不回复意见/诉求。<br>・根据问题内容，调查、回复及处理可能耗时。<br>・咨询前请查阅帮助中心、官方公告及常见问题。<br>・数据恢复相关问题请通过此表单联系。<br>・不介入用户间的纠纷等问题。<br>・本客服仅支持日语。<br>・游戏攻略信息恕不解答。<br>・若超24小时未收到受理邮件，请检查收件设置。<br>・请更改设置以接收来自[@bushimo.jp]的邮件。
+TermsOfService_DialogTitle,使用条款
+TermsOfService_Terms,使用条款
+TermsOfService_Rights,权利声明
+TermsOfService_PrivacyPolicy,隐私<br>政策
+TermsOfServiceAgree_Agree,同意
+TermsOfServiceAgree_NoAgree,不同意
+TermsOfServiceAgree_Terms,使用条款/隐私政策/版权声明
+TermsOfServiceAgree_PrivacyPolicy,隐私政策
+TermsOfServiceAgree_Title,使用条款确认
+TermsOfServiceAgree_Message,为了游玩本游戏，您需要同意<br>使用条款和隐私政策<br>。请确认后，点击“同意”<br><br>。
+TermsOfServiceAgree_DataCaution,请注意，如果因意外或疏忽导致从设备中删除应用程序或丢失应用程序数据，则可能难以恢复数据。<br>
+CacheClear_ConfirmTitle,清除缓存确认
+CacheClear_ClearingTitle,缓存清除中
+CacheClear_ResultTitle,缓存清除完成
+CacheClear_ConfirmMassage,清除缓存<br>确认吗？
+CacheClear_ClearingMassage,正在清除缓存<br>请稍候，直到完成。
+CacheClear_ResultMassage,缓存已清除。
+Tw_SelectLanguage_Button,选择语言
+Mission_Title,任务
+Mission_MainTitle,任务列表
+Mission_SubTitle,任务
+Mission_Progress,{0}/<size=-10> {1} </size>
+Mission_TabMain,总计
+Mission_TabDaily,每日
+Mission_TabLimited,限时
+Mission_MissionNotFound,当前没有可挑战的任务。
+Mission_MissionNotFoundDaily,当前，没有可挑战的<br>每日任务。
+Mission_MissionNotFoundLimited,当前，没有可挑战的<br>限时任务。
+Mission_ChallengeButton_AcceptReward,接收
+Mission_ChallengeButton_Challenge,挑战
+Mission_ChallengeButton_Ornament,前往仓库
+Mission_ChallengeButton_CardDetail,偶像详情
+Mission_ChallengeButton_CardDetail_NotHave,尚未拥有偶像
+Mission_ChallengeButton_CardReinforce,课程室
+Mission_ChallengeButton_CardReinforceSkill,技能课程
+Mission_ChallengeButton_CardEvolve,觉醒
+Mission_ChallengeButton_Costume,更换服装
+Mission_ChallengeButton_DeckEdit,编队设置
+Mission_ChallengeButton_DeckTop,小组主页
+Mission_ChallengeButton_EventTop,返回活动页面
+Mission_ChallengeButton_Friend,好友列表
+Mission_ChallengeButton_GachaTop,招募
+Mission_ChallengeButton_MainStory,前往主线剧情
+Mission_ChallengeButton_Migration,数据迁移
+Mission_ChallengeButton_MusicSelect,歌曲选择
+Mission_ChallengeButton_Line,添加好友
+Mission_ChallengeButton_LiveSelect,Live选择
+Mission_ChallengeButton_Photo,偶像列表
+Mission_ChallengeButton_Profile,查看资料
+Mission_ChallengeButton_Shop,前往商店
+Mission_ChallengeButton_SubStory,支线剧情
+Mission_ChallengeButton_TargetMission,前往目标任务
+Mission_ChallengeButton_Twitter,关注
+Mission_DetailDialog_NoTimeLimit,无时间限制
+Mission_CompleteMisssionGuide,请查看详细内容。
+Friend_MyFriendTab,好友列表
+Friend_RequestTab,待处理
+Friend_PendingTab,待审核
+Friend_FriendSearchTab,好友搜索
+Friend_LastLogin,上次登录
+Friend_RefineFavoriteFriendButton,仅显示常用好友
+Friend_DeleteButton,解除好友关系
+Friend_RequestCancelButton,取消申请
+Friend_PendingButton,同意
+Friend_RejectButton,拒绝
+Friend_MyFriendEmpty,没有好友玩家。
+Friend_RequestEmpty,没有待处理的申请。
+Friend_PendingEmpty,没有待批准的玩家
+Friend_FriendSearchEmpty,未找到玩家
+Friend_SearchButton,ID搜索
+Friend_SortLastLoginButton,上次登录
+Friend_SortRankButton,等级
+Friend_IconLeaderTypeButton,队长
+Friend_IconRecommendTypeButton,收藏
+Friend_SearchDialogTitle,ID搜索
+Friend_SearchDialogMassage,请输入ID。
+Friend_SearchDialogSearchButton,搜索
+Friend_Secret,不公开
+Friend_LastLoginMinutes,{0}分钟前
+Friend_LastLoginHour,{0}小时前
+Friend_LastLoginDay,{0}天前
+Friend_LastLoginOverMonth,31天前
+Friend_DialogTitle,ID搜索
+Friend_DialogMessage,请输入玩家ID。
+Friend_DialogLimitNum,最多12个字符
+Title_AppliVersion,版本 {0}
+Title_JasracApple,JASRAC许可<br>第9014302035Y45112号
+Title_JasracGoogle,JASRAC许可<br>第9014302036Y45112号
+Title_NexTone,NexTone
+Title_Company,©2013 Love Live! <br>©2017 Love Live! Sunshine!! <br>©2022 Love Live! Nijigasaki学园偶像同好会 <br>©2022 Love Live! Superstars!! ©bushiroad
+Title_UserId,ID：{0}
+Title_MenuTitle,菜单
+Title_MenuExternalSite,外部网站
+Title_MenuCacheClear,清除缓存
+Title_MenuGameDataDelete,删除游戏数据
+NameInput_Name,姓名
+NameInput_Ok,確認
+NameInput_Title,采访许可申请表
+NameInput_Permit1,奇迹Live执行委员会 敬启
+NameInput_Petmit2,我保证遵守奇迹演唱会的各项规定，并在此申请采访许可。<br>
+NameInput_Note1,※玩家名称最多为10个字符。
+NameInput_Note2,※此名称将向游戏内的其他玩家公开。
+NameInput_Note3,※玩家名之后可以更改。
+NameInput_ProfileNameInputTitle,玩家名输入
+NameInput_ProfileNameInputMessage,请输入玩家名称。
+NameInput_ProfileNameInputNote,玩家名最长为10个字符<br>，此名称将在游戏中向其他玩家公开<br>。玩家名之后可以更改。
+Profile_Secret,不公开
+Profile_SecretLong,设置为不公开
+Profile_DefaultComment,请多关照！
+Profile_RankTitle,等级：<size=24> </size>
+Profile_ExpTitle,<size=24>经验值</size>
+Profile_CommentTitle,评论
+Profile_RecommenderSelectButton,选择收藏
+Profile_TitleSelectButton,称号选择
+Profile_PublicSelectButton,公开设置
+Profile_CopyButton,复制
+Profile_CopyMessage,已复制ID
+Profile_PhotoButton,偶像展示
+Profile_FriendRequestButton,发送好友请求
+Profile_FriendCanNotRequestButton,无法申请
+Profile_FriendTitleListButton,称号列表
+Profile_LastLoginTime,上次登录时间：
+Profile_OpenDialogTitle,公开个人资料设置
+Profile_OpenDialogMainDeckParam,单位综合实力
+Profile_OpenDialogGroupRank,组等级
+Profile_OpenDialogClearLiveNumber,已通关歌曲数
+Profile_OpenDialogFullComboLiveNumber,全连歌曲数
+Profile_OpenDialogAllPerfectLiveNumber,全满分歌曲数
+Profile_OpenDialogHighScoreRate,高分率
+Profile_OpenDialogLastLoginDate,上次登录时间
+Profile_OpenDialogUserId,玩家ID
+Profile_OpenDialogGuestMember,访客偶像
+Profile_OpenDialogCaution,取消勾选将设置为非公开。
+Profile_OpenDialogOpenButton,公开
+Profile_OpenDialogSecretButton,不公开
+Profile_OpenDialogPendingButton,处理中
+Profile_OpenDialogRejectButton,拒绝
+Profile_RankDialogTitle,等级详情
+Profile_RankMax,等级已达上限。
+Profile_CommentSettingDialogTitle,评论设置
+Profile_CommentSettingDialogMassage,输入评论。
+Profile_CommentSettingDialogLimitNum,最多{0}字
+Profile_HighScoreRateDialogTitle,详细高分率
+Profile_HighScoreRateDialogTotalHighScore,总高分率
+Profile_HighScoreRateDialogValue,高分率
+Profile_HighScoreRateDialogEmpty,没有歌曲的游玩数据。
+Profile_RankListScrollItemGem,奖励：Loveca {0}
+Profile_RankListScrollItemNone,奖励：暂不支持 {0}
+Profile_ScoreTitle,达成歌曲数
+Profile_ClearMusicTitle,达成歌曲数
+Profile_FullComboTitle,全连COMBO
+Profile_ClimaxPerfectTitle,巅峰<br>完美
+Profile_AllPerfectTitle,全曲完美
+Profile_TeacherPointTitle,高分率
+Profile_ScoreConfirm,已完成歌曲
+Profile_GuestMember,访客偶像
+Profile_GuestDetail,嘉宾详情
+Profile_SettingMember,设置偶像
+Profile_Share,分享
+Profile_ShareMessage,要不要和我们一起开始校园偶像活动？
+Profile_CardEmpty,没有偶像
+Profile_Birthday,生日
+Profile_NoBirthday,未设置
+Profile_BirthdaySettingDialogTitle,生日设置
+Profile_BirthdaySettingDialogMessage,请输入您的生日。
+Profile_BirthdaySettingDialogNote,生日设置后不可更改<br>。您将收到生日特别聊天消息<br>。购买时使用的出生日期可以与此不同。
+TitleList_TitleChangeDialogTitle,确认
+TitleList_TitleChangeDialogText,设置此称号
+TitleList_TitleNoDetailText,无描述
+TitleList_TitleListTabNormal,普通
+TitleList_TitleListTabEvent,活动
+TitleList_TitleListTabMember,成员
+TitleList_TitleListTabMigration,数据同步
+TitleList_NoMigrationMessage,您尚未拥有数据同步称号。
+TitleList_TitleListEmpty,没有称号。
+Exchange_Tab_Main,主页
+Exchange_Tab_Tea,红茶
+Exchange_ExpireDateLabel,兑换截止日期
+Exchange_ExchangeSelectMessageText,请选择兑换项目。
+Exchange_SealExchangeHeaderMainTitle,招募点数兑换处
+Exchange_PickExchangeHeaderMainTitle,兑换处
+Exchange_TicketExchangeHeaderMainTitle,兑换券点数兑换处
+Exchange_SoldOutMessage,已达到交换上限
+Exchange_ExchangeLimitMessage,已达到持有上限，无法进行交换。
+Exchange_GetSeal,获取招募点数
+Exchange_ShopResetMessage_Daily,每日凌晨更新
+Exchange_ShopResetMessage_Weekly,每周{0}更新
+Exchange_ShopResetMessage_Monthly,每月日更新
+Exchange_ResetDayDaily,今天
+Exchange_ResetDayWeekly,本周
+Exchange_ResetDayMonthly,本月
+Exchange_RemainCount,剩余{0}次
+Exchange_ResultMesseage,已交换{1}个{0}！
+Exchange_ResultCardMesseage,已招募{0}个，共获得{1}个！{2}
+Exchange_FilterDialogTitle,兑换筛选
+Exchange_FilterDialogCategoryLabel,分类筛选
+Exchange_FilterDialogSoldOutLabel,已获取筛选
+Exchange_FilterDialogCategoryAll,全部
+Exchange_FilterDialogCategoryStamp,表情包
+Exchange_FilterDialogCategoryPrimaryItem,主要物品
+Exchange_FilterDialogCategoryPhotoSeal,偶像
+Exchange_FilterDialogCategoryTicket,票
+_FilterDialogDefaultButtonText,恢复默认<br>
+Exchange_Name_Exchange,兑换
+Exchange_Name_Purchase,购买
+Exchange_Name_LevelUp,提升等级
+Exchange_EmptyData,没有可供{0}的商品。
+Exchange_AmountLabel,{0}个
+Exchange_AmountDialogTitle,换多少个{0}？
+Exchange_AmountDialogMessage,首次加入的偶像之外，将转换为应援棒。
+Exchange_ConfirmDialogTitle_Countable,确认{0}数量
+Exchange_ConfirmDialogTitle_Uncountable,要{0}吗？
+Exchange_ResultDialogTitle,已{0}
+DeckEdit_RecommendDialogTitle,推荐编队
+DeckEdit_RecommendPriorityType,属性
+DeckEdit_RecommendPriorityGroup,组别
+DeckEdit_RecommendPrioritySkill,技能
+DeckEdit_RecommendTypeAll,不指定
+DeckEdit_RecommendGroupAll,不指定
+DeckEdit_RecommendGroupOther,其他
+DeckEdit_RecommendTypeBonus,属性加成
+DeckEdit_RecommendCharacterBonus,成员加成
+DeckEdit_RecommendEventBonus,活动加成
+DeckEdit_RecommendSkillAll,不指定
+DeckEdit_RecommendSkillScore,得分提升
+DeckEdit_RecommendSkillScoreCondition,条件：得分提升
+DeckEdit_RecommendSkillRecovery,生命回复
+DeckEdit_RecommendSkillEnhanced,判定强化
+DeckEdit_RecommendSkillOther,其他
+DeckEdit_RecommendCheckCenterFixed,固定中位成员
+DeckEdit_RecommendCheckBonusApply,优先选拔成员
+DeckEdit_RecommendGroupSelectDialogTitle,组别选择
+DeckEdit_DefaultBandName,组合{0}
+DeckEdit_TabName,组合{0}
+DeckEdit_StatusPower,LP
+DeckEdit_StatusTotal,单位综合实力
+DeckEdit_StatusSoul,Smile
+DeckEdit_StatusTechnic,Pure
+DeckEdit_StatusAppeal,Cool
+DeckEdit_StatusOrnamentBouns,道具
+DeckEdit_StatusEventBouns,活动
+DeckEdit_StatusTypetBouns,属性加成
+DeckEdit_MainUnitSetButton,主队设置
+DeckEdit_RecommendEditButton,推荐编队
+DeckEdit_ResetButton,重置
+DeckEdit_OrnamentButton,道具
+DeckEdit_TotalParamDetailButton,综合能力详情
+DeckEdit_EventNothing,活动期间已结束<br>没有额外奖励。
+DeckEdit_UnitNameDialogTitle,单位名称
+DeckEdit_UnitNameDialogMessage,请输入组合名称
+DeckEdit_UnitNameDialogLimitNum,最多8个字符
+DeckEdit_ClassmateButton,（示例）
+DeckEdit_ClassmateTotalParam,（示例）
+DeckEdit_PassiveSkillTotalParam,（示例）
+DeckEdit_EventBonusMessage,活动积分加成将应用于编队中所有选拔成员的合计值。
+DeckEdit_EventBonusEventPointUp_ChallengeLive,奇迹收藏，活动点数提升{0}%
+DeckEdit_EventBonusTotalPointUp_ChallengeLive,通过奇迹收藏<br>提升目标偶像的综合能力
+DeckEdit_EventBonusEventPointUp_LiveTry,奇迹收藏，活动点数提升{0}%
+DeckEdit_EventBonusTotalPointUp_LiveTry,通过奇迹收藏<br>提升目标偶像的综合能力
+DeckEdit_EventBonusTotalPointUp,成员加成 (偶像综合能力)
+DeckEdit_EventBonusEventPointUp,活动点数
+DeckEdit_EventBonusNoRate,---
+DeckEdit_EventBonusRate,{0}%x {1}人
+DeckEdit_EventBonusRateUp,提升！
+DeckEdit_EventBonusInvalidMessage1,活动加成
+DeckEdit_EventBonusInvalidMessage2,没有目标成员。
+DeckEdit_Passive,被动技能
+DeckEdit_LiveRole,（示例）
+DeckEdit_SupportRole,（示例）
+DeckEdit_SelectEventDialogTitle,选择活动
+DeckEdit_SelectEventDialogText,显示所选事件的<br>活动奖励信息。
+DeckEdit_SelectEventDialogCaution,不显示没有活动奖励的活动。
+DeckEdit_ClassmateDisp,显示所有偶像
+DeckEdit_TotalParamDetailDialogTitle,单位详情
+DeckEdit_CenterSkillRiseValue,中心技能提升值
+DeckEdit_EventBonusRiseValue,活动加成提升值
+DeckEdit_UpperArrowValue,↑{0}
+DeckEdit_SkillLvValue,等级 {0}
+DeckEdit_EventPt,活动点数
+DeckEdit_IconBonus,奇迹之星
+DeckEdit_StatusTotalAttention,综合数值已包含中心技能的提升值。
+DeckEdit_PositionEditMessage,拖动偶像来更改位置。
+DeckEditCharaSelect_PhotoTotalParam,偶像总值
+LiveMission_DialogTitle,{0} 的达成奖励列表
+LiveMission_DialogScoreRank,得分等级
+LiveMission_DialogComboCount,连击数
+LiveMission_DialogFullCombo,全连击
+LiveMission_DialogClearCount,完成次数
+ShopCommon_FreeGem,免费Loveca
+ShopCommon_ChargeGem,购买 Loveca
+ShopCommon_Price,价格
+GemShop_FundSettlement,资金结算法<br>に基づく表示
+GemShop_ServiceGuidelines,游戏币使用指南
+GemShop_MedalGuidelines,Loveca使用条款
+GemShop_SpecifiedCommercialTransactions,特定商取引法<br>に基づく表示
+GemShop_SpecifiedCommercialTransactions_DialogTitle,特定商取引法に基づく表示
+GemShop_FundSettlement_DialogTitle,资金结算法依据显示
+GemShop_SpecifiedCommercialTransactions_FundSettlement,特定商取引法/资金结算法依据的显示
+GemShop_BuyComplete,购买完成
+GemShop_BuyCompleteMessage,已购买 {0}，获得 {1}。
+GemShop_Confirm,确认
+GemShop_BuyStaminaMessage,消耗{0} Loveca，回复{1} LP，可以吗？<br>
+GemShop_BuyStaminaCompleteTitle,LP恢复窗口
+GemShop_BuyStaminaCompleteMessage,已恢复{0}点体力！
+GemShop_AgeConfirm,年龄确认
+GemShop_AgeMessage,请输入您的出生日期，以便进行年龄验证。
+GemShop_AgeNote,*出生日期一旦设置，就无法更改。
+GemShop_AgeMaxMessage,※16岁以下：每月限额5000日元（含税）<br>※16岁至17岁：每月限额10000日元（含税）<br>※18岁以上：无上限
+GemShop_AgeNote1617,16～17岁：
+GemShop_AgeNote16,16岁以下：
+GemShop_LimitOverMessage,已达到可用额度上限，本月无法购买。
+GemShop_LimitAlertOver,本月Loveca的购买额已超过<br>{0}日元。
+GemShop_LimitAlert,购买后，您的本月 Loveca 消费额将超过 {0} 日元，已达到每月上限 <br>。
+GemShop_PurchaseConfirm,购买{0}吗？
+GemShop_AgeSelectedTitle,年龄注册确认
+GemShop_AgeSelectedContents,您的出生日期是否为以下信息？
+GemShop_AgeSelectedConfirm,*出生日期一旦设置，就无法更改。
+GemShop_AgeDecisionContents,已确认年龄。
+GemShop_AgeDecisionContentsFormat,已确认年龄。
+GemShop_AgeDecisionLimitLabel,每月上限：¥{1}，当前已消费 {0}。
+GemShop_AgeDecision,设置已完成。
+GemShop_Monthly,月额
+GemShop_AlertMessage,本月消费已超过{0}日元，是否继续购买？
+GemShopItem_LimitBuyAmount,剩余{0}
+GemShopItem_LimitDate,剩余{0}
+GemShopItem_Amount,{0}个
+GemShopItem_LimitAmount,剩余{0}个
+GemShopItem_GemAmount,Loveca {0}个
+GemShopItem_Omake,<br> <size=22> <color=#F93981> + 无偿Loveca {0} 个
+GemShopItem_Charge,付费Loveca ×{0}
+GemShopItem_Free,免费Loveca ×{0}
+GemShopItem_Money,¥{0}
+GemShopItem_Increase,增加{0}
+GemShopItem_Period,销售期间
+GemShopItem_Season,{0} ~ {1}
+GemShopItem_TicketInfo,未登录的日期无法获得Loveca <br> Loveca以外的道具会发送到礼物箱 <br> 登录时直接发放，并计入持有数量 <br> 登录奖励可在购买日后的次日0:00开始领取。
+GemShopItem_TicketBuyInfo,<color=#D73C55>已购买</color><br>有效期限：{0}
+GemShopItem_TicketRemainPresent,每日赠礼<br><color=#D73C55>剩余{0}次</color>
+GemShopItem_ChargeGemComfirm,消耗 {0} 个 Loveca 来购买 {1}。此商品只能使用付费 Loveca 购买。<br>
+GemShopItem_FreeGemComfirm,消耗 {0} Loveca 来购买 {1}。<br> 将从免费 Loveca 中扣除。
+GemShopItem_SubscriptionButton_MembersCard,查看会员证
+GemShopItem_SubscriptionButton_Buy,购买
+GemShopItem_SubscriptionButton_Info,详情
+GemShopItem_Membership_CardNo,会员号
+GemShopItem_Membership_CardStart,加入日期
+GemShopItem_Membership_CardChangeButton,更改<br>设计
+GemShopItem_Membership_WallpaperTitle,会员卡设计更改
+GemShopItem_Membership_WallpaperAlert,请点击“确定”按钮以应用更改。
+GemShopItem_Membership_WallpaperSelected,已选择
+GemShopItem_Membership_WallpaperUsing,已使用
+GemShopItem_Membership_WallpaperDecide,确定
+GemShopItem_Membership_WallpaperNotice,已更改会员卡设计。
+GemShopItem_Membership_InfoTitle,详情
+GemShopItem_Membership_InfoTabSummary,概要
+GemShopItem_Membership_InfoTabLoginBonus,登录奖励
+GemShopItem_Membership_InfoTabMission,任务
+GemShopItem_Membership_InfoSummaryTitle,MIRACLE通行证 会员 概要
+GemShopItem_Membership_InfoSummaryUnsubscribe,取消订阅
+GemShopItem_Membership_InfoLoginBonusTitle,MIRACLE通行证会员 特别登录奖励！
+GemShopItem_Membership_InfoLoginBonusDescription,加入 MIRACLE Pass，登录 20 天即可获取最多 1000 Loveca！<br>※自加入之日起第二天开始可领取。
+GemShopItem_Membership_InfoLoginBonusDayCount,天数
+GemShopItem_Membership_InfoLoginBonusDayCountFormat,第{0}天
+GemShopItem_Membership_InfoLoginBonusGotItem,获取物品
+GemShopItem_Membership_InfoLoginBonusStatus,获取状态
+GemShopItem_Membership_InfoLoginBonusClear,已获取
+GemShopItem_Membership_InfoLoginBonusNotClear,未达成
+GemShopItem_Membership_InfoMissionTitle,奇迹通行证会员 特别任务！
+GemShopItem_Membership_InfoMissionDescription,完成所有任务，最多可获得1500 Loveca！<br>※请在活动结束前的48小时内完成。
+GemShopItem_Membership_InfoMissionClearCount,歌曲游玩次数
+GemShopItem_Membership_InfoMissionClearCountFormat,已完成 {0} 次
+GemShopItem_Membership_InfoMissionGotItem,获取物品
+GemShopItem_Membership_InfoMissionStatusProgress,进行中
+GemShopItem_Membership_InfoMissionStatusClear,已完成
+GemShopItem_Membership_InfoMissionStatusReceived,奖励已领取
+GemShopItem_Membership_InfoMissionButton,前往任务
+ConfirmMedal_Gem,确认Loveca持有情况
+ConfirmMedal_Log,Loveca详情
+ConfirmMedal_ChargeGemReason,已购买[{0}]。
+DeckConfirm_LiveStartWarning,要开始 Live，需要为队伍设置 9 名偶像。<br>请进行偶像编队。
+DeckConfirm_StaminaUse,消耗{0}
+DeckConfirm_AutoBurstDialogTitle,消耗自动门票设置
+DeckConfirm_LiveBurstDialogTitle,消耗体力设置
+DeckConfirm_UseBurstDialogTitle,使用爆发设置
+DeckConfirm_UseBurstDialogBurstSetting,默认爆发设置
+DeckConfirm_UseBurstDialogThisTimeBurst,本次使用的爆发技能
+DeckConfirm_UseBurstDialogAutoDescription,使用跳过票会进行跳过模式游戏。
+DeckConfirm_UseBurstDialogBurstWarning,※跳过券将从有效期最早的开始使用。<br>※跳过券只能用于已完成的歌曲和难度。
+DeckConfirm_UseBurstDialogAutoWarning,※跳过券将从有效期最早的开始使用。<br>※跳过券只能用于已完成的歌曲和难度。
+DeckConfirm_NoBurst,未拥有
+DeckConfirm_CanNotUsedNoBurst,未拥有，无法使用
+DeckConfirm_CanNotUsedNoClear,未通过关卡，无法使用。
+DeckConfirm_CanNotUsedNoClearShort,未通关时无法使用
+DeckConfirm_LiveParam,Live 用数值
+DeckConfirm_AutoParam,自动模式数值
+DeckConfirm_EventPointGet,活动点数
+DeckConfirm_EventGachaPointGet,招募（卡包）获取点数
+DeckConfirm_ItemAndExpGet,奖励·经验值
+DeckConfirm_Magni,倍数
+DeckConfirm_StaminaBoostNotSelect,设置
+DeckConfirm_StaminaBoostSelect,设置中
+DeckConfirm_StaminaBoostWarning,※如果消耗数量少于设置的消耗数量，则会消耗所有已持有数量。
+DeckConfirm_StaminaBoostAutoWarning,※自动模式下，不会记录高分和达成奖励。
+DeckConfirm_Note,LP为0，无法进行跳过。如需恢复LP，请选择<br>恢复方法。<br>跳过功能不可用。<br>
+DeckConfirm_OptionButton,选项
+DeckConfirm_HealthyBoostButton,LP
+DeckConfirm_StartButton,开始 Live
+DeckConfirm_AutoOn,自动：开启
+DeckConfirm_AutoOff,自动：关闭
+DeckConfirm_Passive,被动技能
+DeckConfirm_LiveRole,Live位置
+DeckConfirm_SupportRole,支援位置
+DeckConfirm_EventBonusTotalPointUp,成员加成 (偶像综合能力)
+DeckConfirm_EventBonusEventPointUp,活动点数
+DeckConfirm_EventBonusNoRate,---
+DeckConfirm_EventBonusRate,{0}%
+DeckConfirm_EventBonusRateUp,提升！
+DeckConfirm_EventBonusInvalidMessage1,活动加成
+DeckConfirm_EventBonusInvalidMessage2,没有目标成员。
+DeckConfirm_LiveBonusTypePointUp,属性加成 (偶像总能力值)
+DeckConfirm_LiveBonusRate,{0}%x {1}个
+DeckConfirm_LiveBonusRateUp,提升！
+DeckConfirm_EventCandyAmount,{0}/{1}
+DeckConfirm_LiveConditionButton,有 Live 条件
+DeckConfirm_LiveConditionDialogTitle,Live条件
+DeckConfirm_LiveConditionDialogCondition,Live参与条件
+DeckConfirm_LiveConditionDialogRule,Live规则
+DeckConfirm_LiveConditionDialogErrorMessage,由于未满足<color=#ff0000>Live参与条件</color>，因此无法参与<br>。
+Story_MainStoryFirstSeason,第一季
+Story_MainStorySecondSeason,第二季
+Story_SeasonChapterNumberFormat,第{0}章 - {1}
+Story_ChapterNumberFormat,第{0}章
+Story_TitleWithChapterNumberFormat,{0}第{1}章《{2}》
+Story_ReleaseTitleWithChapterNumberFormat,{0} <br> 第{1}话《{2}》
+Story_StoryTopHeaderMainTitle,剧情总览
+Story_StoryTopHeaderSubTitle,剧情
+Story_MainStoryListHeaderMainTitle,故事选择
+Story_MainStoryListHeaderSubTitle,主线剧情
+Story_SubStoryTopHeaderMainTitle,组别选择
+Story_SubStoryTopHeaderSubTitle,支线剧情
+Story_SubStoryListHeaderMainTitle,故事选择
+Story_SubStoryListHeaderSubTitle,支线剧情
+Story_EventStoryTopHeaderMainTitle,活动选择
+Story_EventStoryTopHeaderSubTitle,活动剧情
+Story_EventStoryListHeaderMainTitle,故事选择
+Story_EventStoryListHeaderSubTitle,活动剧情
+Story_CardStoryTopHeaderMainTitle,成员选择
+Story_CardStoryTopHeaderSubTitle,剧情
+Story_CardStoryListHeaderMainTitle,故事选择
+Story_CardStoryListHeaderSubTitle,剧情
+StoryPart_NumberFormat,第{0}话
+StoryPart_TitleWithNumberFormat,{0}话《{1}》
+StoryPart_TitleWithNumberTranslucentFormat,<color=#804B413C>第{0}章《{1}》</color>
+StoryPart_TitleListWithNumberFormat,{0}话～{1}话
+StoryPart_SeasonChapterNumberFormat,#{0}-{1}-{2}
+StoryPart_ChapterNumberFormat,第{0}章 - {1}
+StoryPart_TitleWithChapterNumberFormat,{0}话《{1}》
+StoryPart_RankReleaseDetailFormat,将等级提升至{0}
+StoryPart_GroupRankReleaseDetailFormat,将综合组别等级提升至{0}。
+StoryPart_LiveReleaseDetailFormat,达成 {0}，获得 <br> 分数，达到 {1} 以上。
+StoryPart_MissionReleaseDetailFormat,完成任务“{0}”
+StoryPart_ReleaseInfo,玩游戏提升等级吧！
+StoryPart_NotRelease,尚未解锁或未阅读之前的剧情。
+SubStory_GroupRankRewardDialogTitle,组队等级奖励列表
+SubStory_GroupRankRewardDialogUntilRankUp,升级至
+SubStory_GroupRankRewardDialogTotalExp,累计经验值
+SubStory_GroupRankRewardDialogRank,等级
+SubStory_GroupRankRewardDialogMax,已满级
+ConfirmMedal_DialogTitle,确认Loveca持有情况
+ConfirmMedal_ChargeMedal,付费
+ConfirmMedal_FreeMedal,免费
+ConfirmMedal_TotalMedal,总计 Loveca
+ConfirmMedal_Warning,将优先消耗无偿 Loveca。
+ConfirmMedal_UpdateHistory,更新
+ConfirmMedal_HistoryTitle,Loveca详情
+ConfirmMedal_UsedHistoryTitle,使用记录
+ConfirmMedal_AcquiredHistoryTitle,获取历史
+ConfirmMedal_HistoryDate,使用日期
+ConfirmMedal_HistoryReason,用途
+ConfirmMedal_HistoryNote,Loveca的获取/消耗记录最多显示3个月。
+ConfirmMedal_HistoryFreeMedal,免费
+ConfirmMedal_HistoryChargeMedal,付费
+Ornament_EffectValueFormat,<color=#D73C55> {0:0.##}% </color>
+Ornament_UnlockDetail_GroupLevelReward,于 {0}组队等级 {1} 中解锁。
+Ornament_UnlockDetail_StoryPartReward,通过观看剧情<br>{0}<br>解锁。
+Ornament_UnlockDetail_MissionReward,达成任务<br>{0}<br>即可解锁。
+Ornament_PlaceButton,放置
+Ornament_CannnotPlace,无法放置
+Ornament_TalkUnlockLevel,等级 <color=#D73C55> 时解锁，需要 {0} 个 </color>。
+Ornament_TeaSetLevelUpConditionLabel,▼升级条件
+Ornament_ReplaceDialog_OrnamentType,★{0}★
+Ornament_EventEffectDetail,在“{2}”的“{3}”游玩时，会发生{0}<br>（仅限非指定Live，否则{1}）。
+StaminaCharge_NoChargeItem,※没有持有LP糖果。
+StaminaCharge_RecoveryConfirmDialogTitle,确认LP恢复
+StaminaCharge_RecoveryConfirmDialogMessage,是否使用选定的道具回复{0}点LP？
+StaminaCharge_RecoveryConfirmDialogWarningNoItem,你没有LP恢复道具。
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit1,※当前LP已超过最大值，无法进行LP恢复。
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit2,※LP超过999时，将显示为999+
+StaminaCharge_Special_Commercial_Code,特定商取引法/资金结算法依据的显示
+StaminaCharge_RecoveryFrequency,恢复{0}
+StaminaCharge_StaminaLabel,LP
+StampTab_DefaultStamp,常用表情包
+StampTab_RareStamp,限定表情包
+StampTab_HistoryStamp,历史
+StampTab_FavoriteStamp,收藏
+NotExistsStamp_DefaultStamp,没有普通图章！
+NotExistsStamp_RareStamp,您没有拥有限定印章。
+NotExistsStamp_HistoryStamp,没有使用记录。
+NotExistsStamp_FavoriteStamp,没有收藏的图章
+NotExistsStamp_RareStampSub,可在活动中获得限定印章。
+NotExistsStamp_HistoryStampSub,使用表情包后，历史记录将被保存。
+NotExistsStamp_FavoriteStampSub,可以在 Live 模式选择界面设置喜欢用的表情。
+MemberIllustrateList_SelectCharaMessage,请选择成员。
+MemberCharaTop_CostumeChange,更换服装
+MemberCharaTop_Profile,个人资料
+MemberCharaTop_AriaTalk,迷你故事
+MemberCharaTop_Album,相册
+LiveSelect_UseStaminaBoost,使用{0}进行Live
+LiveSelect_NoneStaminaBoost,使用进行Live
+LiveSelect_Note,如需恢复LP，请选择<br>恢复方法。
+LiveSelect_Title,确认LP
+LiveSelect_SettingStaminaNum,消耗体力
+LiveSelect_HasStaminaNum,持有数量
+LiveSelect_NoItem,未拥有
+LiveSelect_PenaltyTitle,功能限制
+LiveSelect_PenaltyMessage,合作Live中，检测到您有妨碍其他玩家的行为<br>因此暂时限制了部分功能<br>请耐心等待解除。
+LiveSelect_PenaltyUnlockTime,等待解除
+LiveSelect_Belonging,携带物品
+LiveSelect_Medal,Loveca
+LiveSelect_ConsumEventStamina,消耗奇迹之星 {0} 个
+LiveSelect_EventTerm,活动期间：
+LiveSelect_EventRankingAll,全部
+LiveSelect_EventRankingGroup,组别
+LiveSelect_EventRank,排名
+LiveSelect_HasEventCandy,所持奇迹之星
+LiveSelect_HasEventPick,持有
+LiveSelect_HasEventTicket,持有
+LiveSelect_EventCurrencyCandy,个
+LiveSelect_EventCurrencyPick,个
+LiveSelect_EventCurrencyTicket,个
+LiveSelect_EventAcquisitionCandy,（模拟）可获得！
+LiveSelect_EventAcquisitionPick,（模拟）可获得！
+LiveSelect_EventAcquisitionTicket,（模拟）可获得！
+LiveSelect_EventCandyInfo,收集，一起玩活动 Live 吧！
+LiveSelect_EventPickInfo,收集，前往兑换处！
+LiveSelect_EventTopPickInfo,查看宾果卡！
+LiveSelect_EventTicketInfo,收集<0>，来玩老虎机吧！
+LiveSelect_EventTopTicketInfo,查看合作任务！
+LiveSelect_TeacherLive,（示例）Live
+LiveSelect_EventTermTitle,活动期间：
+LiveSelect_EventResultTermTitle,结果发布期间：
+LiveSelect_EventOpenLabel,活动进行中
+LiveSelect_EventCloseLabel,活动结束
+LiveSelect_EventRemainDay,活动剩余天数：{0}天
+LiveSelect_EventRemainTime,活动结束倒计时：{0}：{1:D2}
+LiveSelect_EventRankingAggregate,当前排行榜正在统计中……
+LiveSelect_Aggregate,集计中
+LiveSelect_NowRankingAgreegating,当前正在进行排行榜统计。
+LiveSelect_EventRewardGetTime,奖励领取期间：{0}
+LiveSelect_EventClose,活动已结束。
+LiveModeSelect_SoloLiveButton,自由Live
+LiveModeSelect_MultiLiveButton,合作Live
+LiveModeSelect_MultiUnitSettings,合作专用<br>编队设置
+Migration_TakeOver,数据迁移
+Migration_IssueInfo,完成以下数据迁移准备，以便在更换设备时进行数据迁移。<br>也可作为防止因删除应用而导致数据丢失的措施。
+Migration_IssueInfoNote,请务必在进行数据迁移前确认操作步骤。
+Migration_Details,迁移详情
+Migration_IssueNote,如果在不同操作系统之间进行数据迁移，有偿Loveca将转换为免费Loveca。<br>如果是在同一操作系统之间进行数据迁移，则直接迁移。<br>如果迁移到不同的操作系统或不同的商店账户，请提前自行取消MIRACLE通行证订阅。<br>如果对MIRACLE通行证进行了多次/重复订阅，则无法重复获得特典。
+Migration_IssueNote2,执行数据迁移后，本设备的游戏数据将被删除，并用迁移源的游戏数据进行覆盖。<br>如果是在不同操作系统之间进行迁移，则将有偿Loveca转换为免费Loveca。<br>如果在同一操作系统之间进行迁移，则可以按原样迁移。<br>在迁移到不同的操作系统或不同的商店账户时，请务必提前自行取消MIRACLE通行证的订阅。<br>如果对MIRACLE通行证进行了多次/重复订阅，则无法重复获得特典。
+Migration_Process,迁移详情
+Migration_Setting,数据迁移设置
+Migration_SettingsInfo,设置数据迁移密码。
+Migration_ID,迁移ID
+Migration_Password,密码
+Migration_PasswordNote,*请输入8到32个字符的半角英数字。
+Migration_DispPassword,显示正在输入的密码
+Migration_SettingsButton,设置
+Migration_Complete,数据迁移完成
+Migration_CompleteInfo,数据迁移准备完成 <br> 在目标设备上下载应用后，请从标题界面右上角的菜单中的 <br> “数据迁移”中输入迁移 ID 和密码。
+Migration_IDCopy,已复制
+Migration_CompleteNote,请勿向他人透露重要信息<br>请保存好备忘录或截图<br>密码之后也可以更改。
+Migration_Migration,执行数据迁移
+Migration_MigrationInfo,选择您设置的迁移方式。
+Migration_MigrationInfo2,输入迁移ID和密码
+Migration_MigrationInfo3,通过进行以下数据迁移设置，您可以在更换设备时迁移您的游戏数据。<br>它也可以用作防止因删除应用程序而导致数据丢失的措施。
+Migration_MigrationNote,<color=#C12424>跨OS迁移时，付费Loveca将转换为免费Loveca。<br>同OS内迁移时将原样继承。<br>迁移至不同OS或商店账号时，请提前自行取消MIRACLE Pass订阅。<br>若重复订阅MIRACLE Pass，将无法重复领取特典。</color>
+Migration_MigrationNote2,执行数据迁移后，本设备的游戏数据将被删除，并用迁移来源的游戏数据进行覆盖。<br><color=#C12424>如果是在不同操作系统之间进行迁移，则将有偿Loveca转换为无偿Loveca。<br>如果在同一操作系统中进行迁移，则保持不变。<br>如果在不同的操作系统或不同的商店账户之间进行迁移时，请事先自行取消MIRACLE通行证的订阅。<br>如果对MIRACLE通行证进行了多次/重复订阅，则无法重复获得特典。</color>
+Migration_MigrationNoteConfirm,执行数据迁移后，本设备的游戏数据将被删除，并用迁移来源的游戏数据进行覆盖。<br><color=#C12424>如果是在不同操作系统之间进行迁移，则将有偿Loveca转换为无偿Loveca。<br>如果在同一操作系统中进行迁移，则保持不变。<br>如果在不同的操作系统或不同的商店账户之间进行迁移时，请事先自行取消MIRACLE通行证的订阅。<br>如果对MIRACLE通行证进行了多次/重复订阅，则无法重复获得特典。</color>
+Migration_MigrationConfirm,确认迁移内容
+Migration_MigrationData,要迁移的游戏数据
+Migration_MigrationDeleteData,当前设备数据
+Migration_UserID,用户ID
+Migration_UserName,用户名
+Migration_Rank,用户等级
+Migration_ChargeMedal,购买 Loveca
+Migration_FreeMedal,免费Loveca
+Migration_MigrationButton,转移数据
+Migration_MigrationFinalConfirm,最终确认
+Migration_MigrationFinalConfirmInfo,执行数据继承后，本机游戏数据将被删除，<br>原存档的游戏数据将覆盖当前数据<size=29><br><br><color=#C12424>在不同OS间迁移时，付费Loveca将转换为免费Loveca<br>同一OS内迁移时将原样继承<br>若迁移至不同OS或不同商店账号，请提前自行取消MIRACLE Pass订阅<br>若重复订阅MIRACLE Pass，将无法获得重复特典</size></color>
+Migration_MigrationFinalConfirmNote,<color=#C12424>确认要进行数据迁移吗？</color>
+MemberList_DialogTitle,更改应援成员
+MemberList_DialogConfirm,要更改最喜欢的成员吗？
+MemberList_ChangeButton,是
+MemberList_PhotoBoxButton,备用室
+MemberList_TypeBonus,属性加成
+MemberList_MemberBonus,成员加成
+MemberList_TypeAndMemberBonus,属性/成员加成
+MemberList_FilteringButton,筛选
+MemberList_SortButton,排序
+MemberList_ThumbnailSize,缩略图大小
+MemberList_Change,更改
+MemberList_Small,小
+MemberList_Big,大
+MemberList_SizeChangeDialogTitle,缩略图大小调整
+MemberList_SizeChangeDialogMessage,选择您喜欢的缩略图大小显示。
+Option_ResetToDefaultButton,默认设置
+Option_LiveScreenPreview,Live 画面预览
+Option_Live_Title,Live设置
+Option_Live_ConfirmBeforeLive,显示 Live 前的选项确认
+Option_Live_RhythmIconSpeed_Title,节奏图标速度
+Option_Live_RhythmIconSize_Title,节奏图标大小
+Option_Live_LaneLength,节奏图标位置
+Option_Live_ComboPosition,连击显示位置
+Option_Live_InputResultPosition,判定位置
+Option_Live_SkillEffectTextView,显示技能效果
+Option_Live_CenterIcon,缩小中央图标
+Option_Live_PositonCenter,居中
+Option_Live_PosiionUpper,顶部
+Option_Live_BluetoothConnectionState_Title,蓝牙™
+Option_Live_BluetoothConnectionState_On,连接中
+Option_Live_BluetoothConnectionState_Off,未连接
+Option_Live_TapTiming_Title,判定调整
+Option_Live_TapTiming_Left_Title,屏幕左侧
+Option_Live_TapTiming_Right_Title,屏幕右侧
+Option_Live_TapTiming_Center_Title,中心图标
+Option_Live_TapTiming_Left_Button,左侧对齐
+Option_Live_TapTiming_Right_Button,对准右侧
+Option_Live_TapTiming_Normal_Title,普通时
+Option_Live_TapTiming_Bluetooth_Title,蓝牙连接时
+Option_Live_TapTiming_Button,调整点击时机
+Option_Live_TapTiming_TestLive,测试 Live
+Option_Live_LongPressLineDepth_Title,长按线粗细
+Option_Live_SameTimePressLine_Title,同时按压线显示
+Option_Live_SliderSameTimePressLine_Title,显示摇摆图标的同步按压线
+Option_Live_Skill_Effect_Title,特殊技能动画
+Option_Live_TapTiming_Effect_Title,时机显示
+Option_Live_RhythmIconMovePos_Title,节奏图标减速
+Option_Live_RhythmIconMovePos_Type1,最后减速
+Option_Live_RhythmIconMovePos_Type2,先减速
+Option_Live_ComboUITransparent_Type3,匀速
+Option_Live_ComboTransparent,连击显示透明度
+Option_Live_ComboSize,连击显示大小
+Option_Live_InputResultTransparent,判定显示透明度
+Option_Live_InputResultSize,判定显示大小
+Option_Live_RhythmIconPos,节奏图标高度
+Option_Live_RhythmIconStartPos,中心图标高度
+Option_Live_FpsSetting,Live中 FPS 设置
+Option_Live_Mirror_Title,音符布局反转
+Option_Live_LaneEffect_Title,音轨特效
+Option_Live_FillsUpLivePosition_Title,添加成员参与
+Option_Live_Bluetooth_Caution,Bluetooth™设备连接<br>请参照各终端设置
+Option_Live_Movie_Disp,Live视频
+Option_Live_Movie_Brightness,Live视频亮度
+Option_Live_Movie_Caution,默认设置为[开启]。
+Option_LiveSkin_Title,Live 图标设置
+Option_LiveSkin_Lane_Title,音符线/点击线
+Option_LiveSkin_LaneBrightness_Title,轨道亮度
+Option_LiveSkin_TapEffect_Title,点击效果
+Option_LiveSkin_RhythmIcon_Title,谱面设计
+Option_LiveSkin_SE_Title,点击音效
+Option_LiveSkin_SE_TapButton,点击音效测试
+Option_LiveSkin_SE_FlickButton,滑动音效测试
+Option_LiveProduction_Title,音量设置
+Option_LiveProduction_Production_Title,Live 演出
+Option_LiveProduction_ActionMode_Title,动作模式
+Option_LiveProduction_ActionMode_Regular,标准
+Option_LiveProduction_LiveEffect,Live特效
+Option_LiveProduction_ActionMode_Light,轻量
+Option_LiveProduction_ActionMode_Full,高品质
+Option_LiveProduction_LiveMonitor,Live 监视器
+Option_LiveProduction_TapEffectSize,点击特效大小
+Option_LiveProduction_MemberCutIn_Title,（示例）
+Option_LiveProduction_ShowSkillEffect_Title,显示技能效果
+Option_LiveProduction_PlayClimaxMovie_Title,（示例）演出
+Option_LiveProduction_Volume_Title,Live 音量
+Option_LiveProduction_Volume_Music,音乐
+Option_LiveProduction_Volume_SE,音效
+Option_LiveProduction_Volume_Tap,操作音
+Option_LiveProduction_Volume_Voice,语音
+Option_Volume_Title,音量设置
+Option_Volume_LiveSettings,Live 音量设置
+Option_Volume_MusicVolume,歌曲音量
+Option_Volume_SEVolume,音效音量
+Option_Volume_OtherSettings,其他音量设置
+Option_Volume_BGMVolume,背景音乐音量
+Option_System_Title,系统设置
+Option_System_Volume_Title,系统音量
+Option_System_Volume_BGM,歌曲音量
+Option_System_Volume_SE,音效音量
+Option_System_Volume_Voice,语音
+Option_System_Download_Title,下载
+Option_System_Download_Button,预先<br>下载
+Option_System_Download_LiveMember,Live 成员演出
+Option_System_Notification_Title,通知设置
+Option_System_Notification_Stamina_Full,完全恢复
+Option_System_Notification_Midnight,深夜通知
+Option_System_Notification_Detail,请注意，如果已在设备设置中关闭通知，则不会收到来自应用程序的通知。<br>深夜时段为（0:00～5:59）。
+Option_System_Alert_Title,警报设置
+Option_System_Alert_UseTooMuch,消费提醒
+Option_System_Alert_Detail,当月消费额超过10万日元时，将显示确认界面。
+Option_System_Others_Title,其他设置
+Option_System_FixScreenDirection,锁定屏幕方向
+Option_System_StaminaConfirm,体力不足确认
+Option_System_AutoBurstConfirm,跳过票不足确认
+Option_System_BatteryConfirm,电量提示
+Option_System_BluetoothConfirm,蓝牙连接确认
+Option_System_HomeSceneMoviePlay,主页视频播放
+Option_System_IgnoreGachaUrEffect,跳过仅限 UR 卡牌的动画
+Option_System_Live2D_Character_Title,显示成员
+Option_System_Live2D_Character_UseRecommend,最喜欢的成员
+Option_System_Live2D_Character_UseDeck,组内成员
+Option_System_Live2D_Character_Detail,成员会在切换屏幕时刷新。
+Option_System_FpsToggle,帧数
+PresentBox_Scroll_AcquiredDateTimeLabel,获取日期时间
+PresentBox_Scroll_ReceivedDateTimeLabel,受取日期
+PresentBox_Scroll_ExpireDateTimeLabel,领取截止
+PresentBox_Tab_Receivable,未领取
+PresentBox_Tab_Received,已领取
+PresentBox_Title,礼物
+PresentBox_MainTitle,礼物列表
+PresentBox_SubTitle,礼物
+PresentBox_Receive,接收
+PresentBox_AllReceive,全部领取
+PresentBox_EmptyReceivable,没有可显示的礼物。
+PresentBox_EmptyReceived,没有可显示的礼物。
+PrivateEnter_Title,查找Live
+PrivateEnter_ConfirmTitle,确认加入 Live
+PrivateEnter_Message,请输入6位数的Live ID。
+PrivateEnter_RoomID,Live ID
+PrivateEnter_EnterButton,加入
+PrivateEnter_SearchButton,搜索
+PrivateEnter_ConfirmRoom,合作Live {0}
+PrivateEnter_ConfirmEventRoom,活动（测试）Live
+PrivateEnter_ConfirmRoomID,房间ID：{0}
+PrivateEnter_ConfirmJoinMessage,已找到匹配的Live ID<br>是否要加入Live？
+PrivateEnter_ConfirmJoinNotConditionMessage,您不满足此 Live 的参与条件 <br> <br> Live 参与条件 <br> {0}
+PrivateEnter_ConfirmJoinNotTotalPowerMessage,综合力不足，无法参与。
+PrivateEnter_ConfirmUserName,用户名
+PrivateCreate_Title,创建Live
+PrivateCreate_RoomCompleteTitle,Live创建完成
+PrivateCreate_Message,最多输入{0}个字符！
+PrivateCreate_RoomTypeTitle,Live奖励
+PrivateCreate_RoomTypeNormal,普通
+PrivateCreate_RoomTypeSpecial,星期
+PrivateCreate_RoomConditionTitle,Live名称
+PrivateCreate_RoomConditionFree,自由通行
+PrivateCreate_RoomConditionBasic,普通通行证
+PrivateCreate_RoomConditionElite,高级通行证
+PrivateCreate_RoomConditionMaster,高级通行证
+PrivateCreate_RoomIDTitle,Live ID
+PrivateCreate_CommentTitle,简短留言
+PrivateCreate_CommentInput,最多输入10个字符。
+PrivateCreate_IDCopyButton,复制ID
+PrivateCreate_CreateButton,创建
+PrivateCreate_EnterButton,加入
+PrivateCreate_RoomIdCopy,已复制Live ID
+PrivateCreate_ConfirmMessage,已创建Live<br>是否要参加Live？
+FriendInviteReceive_Title,好友邀请
+FriendInviteReceive_Check,正在确认好友邀请…
+FriendInviteReceive_NotMessage,当前没有合作Live的邀请<br>可以创建私人Live来邀请朋友。
+FriendInviteSend_Title,好友邀请
+FriendInviteReceive_SubTitle,您收到了好友的合作 Live 邀请<br>请选择您想参与的 Live。
+FriendInviteSend_Message,发送给所有好友吗？
+FriendInviteSend_CheckMessage,仅发送给好友
+DeckTop_DeckEditTag,队伍<br>编队
+DeckTop_CostumeTag,更换服装
+DeckTop_PracticeTag,课程
+DeckTop_SkillPracticeTag,技能<br>练习
+DeckTop_TrainingTag,觉醒
+DeckTop_MemberListTag,偶像<br>列表
+DeckTop_ExchangeTag,兑换处
+DeckTop_CharacterIllustrateTag,成员图鉴
+DeckCharaSelect_LeaderChangeButton,设置队长
+DeckCharaSelect_ParamNothing,---
+DeckCharaSelect_SubDeckNoSkill,副队偶像不会发动技能。
+SortDialog_Title,偶像排序
+SortDialog_FilteringTitle,筛选
+SortDialog_SortTitle,排序
+SortDialog_DefaultButton,取消全选
+SortDialog_AllSelectButton,全选
+SortDialog_AllReleaseButton,取消全选
+SortDialog_LiveSkillWord,技能
+SortDialog_LiveSkillScoreUp,得分提升
+SortDialog_LiveSkillConditionalScoreUp,条件附加<br>得分提升
+SortDialog_LiveSkillScoreUpAndLifeHeal,得分提升与<br>体力回复
+SortDialog_LiveSkillScoreUpAndResultUp,得分提升<br>判定强化
+SortDialog_LiveSkillPowerHeal,生命回复
+SortDialog_LiveSkillEnhance,判定强化
+SortDialog_LiveSkillOther,其他
+SortDialog_LiveSkillConditionalOnlyScoreUp,仅限特定条件<br>提升分数
+SortDialog_LiveSkillEnergyConditionalLifeHealScoreUp,生命值条件<br>得分提升或回复
+SortDialog_FilterGroup,组别
+SortDialog_FilterType,属性
+SortDialog_FilterAwakening,觉醒
+SortDialog_AwakeningAll,全部
+SortDialog_Awakened,已觉醒
+SortDialog_Unawakened,未觉醒
+SortDialog_PassiveSkillWord,被动技能
+SortDialog_PassiveSkillEffectWord,效果对象
+SortDialog_PassiveSkillEffectPart,乐器位置
+SortDialog_PassiveSkillEffectPartRole,乐器位置
+SortDialog_PassiveSkillEffectPartAndPartRole,两者
+SortDialog_PassiveSkillPartWord,◆效果对象乐器组◆
+SortDialog_PassiveSkillSuitWord,◆效果对象偶像属性◆
+SortDialog_PassiveSkillMatchBothWord,◆复合条件◆
+SortDialog_PassiveSkillSubPartWord,◆其他◆
+SortDialog_PassiveSkillSubPartWordPowerUp,初始体力提升
+SortDialog_EpisodeReadAll,全部
+SortDialog_EpisodeReadNotEpisode,剧情未读
+SortDialog_EpisodeReadNotSpecialEpisode,特殊<br>剧情未读
+SortDialog_SortAllStatus,综合能力
+SortDialog_SortSoul,Smile
+SortDialog_SortTechnic,Pure
+SortDialog_SortAppeal,Cool
+SortDialog_SortUnlock,获取顺序
+SortDialog_SortRarity,稀有度
+SortDialog_SortLevel,等级
+SortDialog_SortSkillLevel,技能等级
+SortDialog_SortSkill,按技能排序
+SortDialog_SortMember,成员
+SortDialog_SortFavorite,收藏
+SortDialog_SortHp,HP
+SortDialog_Kizuna,好感度
+SortDialog_EventPtBonus,活动点数加成
+SortDialog_TypeAll,全部选择
+SortDialog_PassiveSkillMatchBothAnd,乐器类型和属性都匹配时生效
+SortDialog_PassiveSkillMatchBothOr,乐器类型或属性任一匹配时生效
+CostumeSelectPortrait_Top,点击此屏幕即可退出全屏模式。<br>
+CostumeSelectPortrait_Selected,已选择
+LocalNotification_Title,偶像祭2
+LocalNotification_Ticker,LP已完全恢复。
+LocalNotification_Message,LP已完全恢复。
+LocalNotification_Description,通知
+LiveDownload_State_Downloading,正在下载…
+LiveDownload_State_Complete,准备完毕！
+LiveScene_Dialog_ContinueTitle,继续 Live
+LiveScene_Dialog_ContinueMessage,是否消耗<color=#C12424>Loveca{0}个</color>，完全恢复HP并继续Live？
+LiveScene_Dialog_ContinueGemShortageTitle,Loveca不足
+LiveScene_Dialog_ContinueGemShortageMessage,由于缺少Loveca，因此无法继续<br>Live。
+LiveScene_Dialog_FailureTitle,Live失败
+LiveScene_Dialog_FailureMessage,HP已耗尽<br><br>消耗<color=#C12424>{0}个</color>Loveca，即可完全恢复HP并重新开始<br>。
+LiveScene_Dialog_FailureMessage_EventSpirit,HP已耗尽<br><br>消耗<color=#C12424>{0}个</color>Loveca，即可完全恢复HP并重新开始<br>。
+LiveScene_Dialog_PauseTitle,暂停
+LiveScene_Dialog_PauseMessage,要结束 Live 并返回歌曲选择界面吗？<br><br><color=#C12424>※如果结束，则不会消耗 LP </color>
+LiveScene_Dialog_PauseMessage_EventChallenge,要结束 Live 并返回歌曲选择界面吗？<br><br><color=#C12424>※如果结束，则不会消耗奇迹之星。</color>
+LiveScene_Dialog_RetireConfirmTitle,结束 Live
+LiveScene_Dialog_RetireConfirmMessage,结束 Live 后将无法获取奖励。 <br> 返回 Live 继续游戏吗？ <br> <br> <color=#C12424> ※如果选择退出，则不会消耗 LP。 </color>
+LiveScene_Dialog_RetireConfirmMessage_EventChallenge,结束 Live 将无法获取奖励。 <br> 返回 Live 继续游戏吗？ <br> <br> <color=#C12424> ※如果选择结束，则不会消耗 Miracle Star。 </color>
+LiveScene_Dialog_SuspendButton,结束 Live
+LiveScene_Dialog_CancelButton,暂停
+LiveScene_Dialog_ReheasalRetryConfirmMessage,结束 Live 并从头开始吗？
+LiveScene_Dialog_ReheasalRetireConfirmMessage,结束 Live 并返回歌曲选择界面吗？
+LiveScene_MultiWaitOtherPlayerLoading,成员准备中…
+LiveScene_MultiWaitOtherPlayerPlaying,成员 Live 中…
+LiveScene_MultiUserIntroduction_Vs,与该玩家一起 Live
+LiveScene_MultiUserIntroduction_EventHomework,与该玩家一起 Live
+LiveScene_SkillBoard_Trigger,技能发动
+LiveScene_VoltageGaugeLv1,(虚拟) LV 1
+LiveScene_VoltageGaugeLv2,(模拟) LV 2
+LiveScene_VoltageGaugeLv3,(模拟) LV 3
+LiveScene_VoltageGaugeLv4,(达米) LV 4
+LiveScene_VoltageGaugeLvMax_ClimaxReady,CLIMAX时间准备中
+LiveScene_VoltageGaugeLvMax_ClimaxPlaying,CLIMAX时间已激活！！
+LiveScene_VoltageGaugeLvMax_ClimaxEnd,CLIMAX结束
+LiveScene_VoltageGaugeLvMax_ClimaxPerfect,高潮完美！！
+LiveScene_AutoPlayComment,自动播放，将应用最高得分。
+LiveScene_Dialog_RestartConfirmTitle,重新开始
+LiveScene_Dialog_RestartConfirmMessage,要结束 Live 并从头开始重新进行吗？<br><br><color=#C12424>※如果结束，将不会消耗 LP。</color>
+LiveScene_Dialog_RestartConfirmMessage_EventSpirit,要结束 Live 并从头开始重新进行吗？<br><br><color=#C12424>如果选择结束，则不会消耗 Miracle Star。</color><br><br>
+LiveScene_Dialog_ContinueSpiritShortageTitle,奇迹之星不足
+LiveScene_Dialog_ContinueSpiritShortageMessage,奇迹之星不足<br>，可以通过游玩普通歌曲来获得<br>奇迹之星<br><br><br>。
+CooperationLive_RoomRestriction,Live限制
+CooperationLive_NormalRoom,普通
+CooperationLive_SpecialRoom,星期
+CooperationLive_EventRoom,活动
+Notice_DialogTitle,新增乐曲！
+Notice_DialogSchool,（示例）
+Notice_DialogWordsDefault,作词：
+Notice_DialogCompositionDefault,作曲：
+Notice_DialogArrangerDefault,编曲：
+MusicDetail_DialogTitle,歌曲详情
+MusicDetail_RecievedLabel,已获取
+MusicDetail_RemainLabel,剩余{0}次
+MusicDetail_FirstLabel,首次奖励
+MusicDetail_ClearReward,确定结算奖励
+MusicDetail_RandomReward,随机完成奖励
+MusicDetail_DetailTab,歌曲信息
+MusicDetail_RewardTab,达成奖励
+MusicDetail_Reference,来源：{0}
+MusicSelect_HighScore,最高分
+MusicSelect_MyRankingHighScore,你的<br>（示例）
+MusicSelect_ClearRamp,已完成情况
+MusicSelect_TeacherPoint,高分率
+MusicSelect_TeacherPointSum,总高分率
+MusicSelect_CategoryButton,类型
+MusicSelect_SortButton,筛选
+MusicSelect_ClearBonusButton,达成奖励
+MusicSelect_RandomButton,随机推荐
+MusicSelect_SortApplyDataBar,已应用
+MusicSelect_ObtainTypeShopMessage,前往歌曲商店购买
+MusicSelect_ObtainTypeShopButton,前往歌曲商店
+MusicSelect_ObtainTypeMissionMessage,达成任务<br>「{0}」<br>。
+MusicSelect_ObtainTypeMissionButton,任务界面
+MusicSelect_ObtainTypeStoryMessage,观看主线剧情<br>《{0}》<br>，即可获得奖励
+MusicSelect_ObtainTypeStoryButton,前往剧情
+MusicSelect_ObtainTypePlayerRankMessage,将等级提升至{0}
+MusicSelect_ObtainTypeNoneMessage,未设置解锁条件
+MusicSelect_ObtainTypeNoneButton,未定义
+MusicSelect_UnlockTitle,解锁条件
+MusicSelect_SortDialogTitle,排序
+MusicSelect_RefineDialogTitle,筛选
+MusicSelect_FilterCategoryTitle,类型
+MusicSelect_FilterOtherTitle,其他
+MusicSelect_SortTitle,排序方式
+MusicSelect_FilterCategoryAll,全部
+MusicSelect_FilterCategoryCharacterSong,（示例）
+MusicSelect_FilterCategoryCoupling,（示例）
+MusicSelect_FilterCategorySongWithinPlay,（示例）
+MusicSelect_FilterCategoryOther,其他
+MusicSelect_FilteRefineNone,不指定
+MusicSelect_FilterRefineFavorite,收藏
+MusicSelect_FilterRefineNotClear,未通关
+MusicSelect_FilterRefineNotScoreSS,非SS评分
+MusicSelect_FilterRefineNotFullCombo,未全连
+MusicSelect_FilterRefineNotAllPerfect,未全完美
+MusicSelect_SortDefault,默认
+MusicSelect_SortMusicName,歌曲名排序
+MusicSelect_SortReleaseTime,发布时间
+MusicSelect_SortMusicLevel,等级顺序
+MusicSelect_SortHighScore,高分排序
+MusicSelect_Ranking,排行榜
+MusicSelect_AllTab,全部
+MusicSelect_NoClearRate,--.--%
+MusicRanking_Score,得分
+MusicRanking_Rank,排名
+MusicRecommend_RecommendList,推荐列表
+MusicRecommend_RecommendListCancel,取消推荐列表
+MusicRecommend_UseThisList,使用此列表
+MusicFilterAutoSort_DialogTitle,自动筛选歌曲
+MusicFilterAutoSort_Random,随机
+MusicFilterAutoSort_NonPlay,未播放歌曲
+MusicFilterAutoSort_RecentPlay,最近播放的歌曲
+MusicFilterAutoSort_RecentRelease,最近发布歌曲
+MusicGoal_DialogTitle,歌曲目标
+MusicGoal_ScoreLabel,得分 |
+MusicGoal_HighScore,最高得分
+MusicGoal_ComboLabel,COMBO |
+MusicGoal_Combo,连击数
+MusicGoal_MaxCombo,最高连击
+MusicGoal_FullComboLabel,全连击 |
+MusicGoal_ClearLabel,通关 |
+MusicGoal_ClearCount,完成次数
+MusicGoal_Count,次
+MusicGoal_Achievement,达成
+MusicGoal_AchievementRate,全体玩家<br>通关率
+MusicGoal_HighOrder,前几名
+MusicGoal_UnPlayed,未游玩
+CooperationLive_TotalPower,主要队伍总实力：
+CooperationLive_NormaType,普通
+CooperationLive_SpecialType,星期
+CooperationLive_StampSettingButton,表情设置
+CooperationLive_PrivateButton,私有
+CooperationLive_FriendsInviteButton,好友邀请
+CooperationLive_DeckEditButton,编队设置
+CooperationLive_MatchingDialogTitle,匹配中
+CooperationLive_MatchingDialogMessage,正在搜索 Live。
+CooperationLive_CreateRoomDialogTitle,创建 Live 中
+CooperationLive_CreateRoomDialogMessage,正在创建 Live。
+CooperationLive_MatchingDialogAnnotation,高峰时段，可能需要较长时间。
+CooperationLive_PrivateSelectDialogTitle,私人 Live
+CooperationLive_PrivateSelectDialogEnterMessage,输入 Live ID<br>进入房间。
+CooperationLive_PrivateSelectDialogEnterButton,进入房间
+CooperationLive_PrivateSelectDialogCreateMessage,指定条件<br>创建 Live。
+CooperationLive_PrivateSelectDialogCreateButton,创建
+CooperationLive_RoomTypeRewardInfo,{0}助力！
+CooperationLive_RoomTypeRewardWeekMonday,周一限定
+CooperationLive_RoomTypeRewardWeekTuesday,周二限定
+CooperationLive_RoomTypeRewardWeekWednesday,周三限定
+CooperationLive_RoomTypeRewardWeekThursday,木曜限定
+CooperationLive_RoomTypeRewardWeekFriday,周五限定
+CooperationLive_RoomTypeRewardWeekSaturday,周六限定
+CooperationLive_RoomTypeRewardWeekSunday,周日限定
+FriendInviteItem_RoomCreater,用户名
+FriendInviteItem_RoomType,Live属性
+FriendInviteItem_RoomCondition,Live限制
+FriendInviteItem_RoomComment,简短留言
+FriendInviteItem_RoomName,Live名称
+FriendInviteItem_RoomReward,Live奖励
+FriendInviteItem_RoomSessionID,Live ID
+FriendInviteItem_JoinButton,进入房间
+LiveMatching_PrivateRoomTitle,ID：
+LiveMatching_RoomConditionTitle,直播名称：
+LiveMatching_RoomTypeInfoTitle,Live奖励：
+LiveMatching_PlayerTitle,{0}点
+LiveMatching_Support,支援
+LiveMatching_WaitMessage,正在匹配……请等待，直到所有成员准备就绪。
+LiveMatching_WaitMessageInfo,可与至少2名成员一起开始 Live。
+LiveMatching_RoomTypeNormal,普通
+LiveMatching_RoomTypeEvent,星期
+LiveMatching_MatchedMessage,成员已定！进入选歌界面。
+LiveMatching_RoomOpenButton,开启 Live
+LiveMatching_InviteFriendButton,好友邀请
+LiveMatching_DecideButton,成员确定
+MatchingPlayer_Wait,正在招募...
+LoginBonus_HoldingPeriod,活动期间：
+LoginBouns_Season,{0} 至 {1} ～ {2} {3}
+LoginBouns_Days,第{0}天
+LoginBouns_EventBonusValue,+{0}
+MultiConfirm_LevelLabel,歌曲等级
+MultiConfirm_OptionButton,各项设置
+MultiConfirm_HealthyBoostButton,LP设置
+MultiConfirm_StartButton,准备完毕
+MultiConfirm_Waiting,等待中
+CooperationLiveInfo_Title,Live奖励
+CooperationLiveInfo_Message1,在“每日”Live中，每天都可以更容易地获得固定的奖励<br>。※在“普通”Live中，将获得正常的奖励<br>。
+CooperationLiveInfo_Message2,{0}月 <br> {1}火 <br> {2}水 <br> {3}木 <br> {4}金 <br> {5}土 <br> {6}日
+CooperationLiveInfo_Message3,※奖励加成对象为特定道具<br>已调整获取量。
+CooperationLiveInfo_dailyEffect,{0}掉率提升！
+Stamp_FavoriteTitle,收藏
+Stamp_RemoveButton,移除
+Stamp_ResetButton,重置
+Profile_RankFriend,好友上限 {0} → {1}
+Profile_RankReward,{0} 个 {1}
+GachaTop_PickUpPhotoDetailTitle,偶像详情
+GachaTop_PhotoDetailTitle,偶像详情
+Ornament_OrnamentListTitle,物品列表
+OrnamentShop_OrnamentReplaceTitle,替换当前饰品吗？
+GachaTop_PickUpPhotoDetailButton,偶像详情
+GachaTop_InfoDetailButton,招募详情
+GachaTop_ExchangeButton,兑换处
+Notice_GroupExpNoticeWindowTitle,组等级
+Button_Download,下载
+Mission_AcceptAllButtonText,全部领取
+MusicDecision_MusicLevelArea,{0} ~ {1}
+MusicDecision_RandomMusicTitle,随机推荐
+MusicDecision_RandomMusicLevel,随机歌曲
+MusicDecision_LiveLevelReselectButton,重新选择
+MusicDecision_ShuffleMessage,开始抽卡。
+MusicDecision_DifficultySelectMessage,选择游玩难度。
+EventTop_ScoreRanking,全体得分排行榜
+EventTop_GroupScoreRanking,组别得分排行榜
+EventTop_Season,剩余{0}
+EventTop_UntilRewardPoint,剩余{0}点
+EventTop_NextEventPoint,剩余
+EventTop_NextEventHomeworkPoint,还差
+EventTop_TotalEventPoint,累计活动积分
+EventTop_HasHomeworkPoint,合作任务达成次数：
+EventTop_HasStamina,所持奇迹之星
+EventTop_HasBadge,持有卡牌：
+EventTop_HasMedal,所持Loveca：
+EventTop_HasTicket,所持空瓶票：
+EventTop_NextStory,★下一剧情
+EventTop_NextReward,★下一奖励
+EventTop_NowHomework,★当前任务
+EventTop_AllGetReward,全部已获取
+EventTop_AllGetStory,全部已解锁
+EventTop_ExchangeButton,兑换处
+EventTop_BingoButton,宾果游戏
+EventTop_BoxGachaButton,招募（卡池）
+EventTop_ChangeHomeworkButton,更改任务
+EventTop_HomeworkMusicLevel,歌曲难度
+EventTop_HomeworkMusicLevelValue,已完成
+EventTop_CloseExchangeShopTerm,兑换到{0}为止
+EventTop_CloseBoxGachaTerm,（示例）至{0}
+EventTop_StoryButtonNextPoint,剩余 P
+EventTop_StoryButtonNextPointHomework,还差
+EventTop_TermTitle,活动期间：
+EventTop_ResultTermTitle,结果发布期间：
+EventTop_EmotionalMemberSelectTermTitle,【成员选择期间】
+EventTop_EmotionalBandSelectTermTitle,【队伍选择期间】
+EventTop_Multi_HelpterBonus,协助奖励
+EventTop_Multi_TodayHelpterCount,今日协助次数
+EventTop_Multi_AlreadyPlayedHelper,已完成今日的协助次数
+EventTop_Multi_UnitSettings,活动专用<br>编队设置
+EventTop_Multi_Live,大家一起Live！
+EventTop_Multi_LiveEx,大家一起Live！
+EventTop_Multi_FreeMatching,自由匹配
+EventTop_Multi_FreeMatching_Info,与其他玩家轻松游玩！
+EventTop_Multi_PrivateMatching,私有匹配
+EventTop_Multi_PrivateMatching_Info,邀请好友一起愉快地玩吧！
+EventTop_Multi_Join,加入
+EventTop_Multi_HelperJoin,协助参与
+EventTop_Multi_HelperCondition,完成难度{0}的关卡，并获得{1}点，拥有{2}点或以上即可参与协助。
+EventTop_Multi_Room,进入房间
+EventTop_Multi_Room2,进入房间
+EventTop_Multi_RoomCreate,创建
+EventTop_Multi_RoomJoin,加入
+EventTop_Multi_HelperToday,今天
+EventTop_Multi_HelperCount,{0}/{1}
+EventTop_Multi_MatchingTitle,选择难度
+EventTop_Multi_MatchingTitleHelper,协助成员参与
+EventTop_Multi_RoomCreateDialog_Info,请选择难度。
+EventTop_Multi_RoomCreateDialog_Info2,可选择多个难度<br>如果选择了多个难度，则会从所选难度中随机匹配。
+EventTop_Multi_RoomCreateDialog_Info3,请选择一个难度。
+EventTop_Multi_RoomCreateDialog_Info4,可选择在选定的难度下进行Live。
+EventTop_Multi_RoomCreateDialog_Error,未选择难度。
+EventTop_Multi_RoomCreateDialog_Start,开始匹配
+EventTop_Multi_RoomSearchDialog_Info,请输入房间ID。
+EventTop_Multi_RoomSearch_NotFindRoom,房间ID错误或房间已满。
+EventTop_Multi_PenaltyInfo,因检测到连续的连接中断或作弊行为，因此将暂时限制您在本活动中的 Live 游玩。<br>
+EventTop_Multi_RemainPenalty,解除剩余时间
+EventTop_Multi_Confirmation,确认
+EventTop_Multi_NotEnoughPower,属性未达到所需值。
+EventLive__Multi_PointPenalty,获取活动点数减半
+EventLive__Multi_NotSelectedLevel,未选择难度。
+EventLive__Multi_Matching,匹配中（{0}/{1}）
+EventLive__Multi_JoiningRoom,加入房间中
+EventLive__Multi_FailedToJoinRoom,无法加入房间。
+EventLive__Multi_NotFoundRoom,房间ID错误或房间已满。
+EventLive__Multi_CreatingRoom,创建房间中
+EventLive__Multi_FailedToCreateRoom,创建房间失败。请稍后再试。
+EventLive__Multi_NotFoundHelperRoom,没有可以协助参与的房间。
+EventLive__Multi_ConnectingToMatchingServer,连接匹配服务器中
+EventResult_Multi_Helper,协助
+EventResult_Multi_Disconnected,连接中断。
+EventResult_Multi_ConfirmingResult,Live结果确认中
+EventResult_Multi_LeaveRoom,退出中…
+EventResult_Multi_Retry,再玩一次
+EventMusicSelect_HighScore,活动<br>高分
+EventMusicSelect_ScoreRanking,分数排行榜
+EventMusicSelect_StaminaUseDialogTitle,确认是否使用奇迹之星
+EventMusicSelect_StaminaUseDialogMessage,是否使用{0}个奇迹之星开始Live？<br>※不消耗体力。
+EventMusicSelect_StaminaUseDialogHasStamina,奇迹之星 {0} 个
+EventMusicSelect_StaminaConfirmCheck,本次活动期间，不再提示确认是否使用奇迹之星。
+EventStory_NextEventPoint,活动点数
+EventStory_NextEventHomework,累计完成任务数
+EventStory_ReleaseInfoEventPoint,在Live中收集活动点数吧！
+EventStory_ReleaseInfoEventHomework,玩活动，完成任务吧！
+EventStory_EndReleaseStory,活动已结束。该剧情将于{0}开放。<br>
+EventRanking_TabScoreRanking,歌曲得分排行榜
+EventRanking_TabGroupScoreRanking,组别得分排行榜
+EventRanking_TabPointRanking,活动积分排行榜
+EventRanking_TabEmotionalRanking,排行榜前100名
+EventRanking_TotalScore,合計分数
+EventRanking_ScoreRanking,总分排行榜
+EventRanking_ChangeButton,切换
+EventRanking_InfoMessage,将根据您在{0}之前游玩的结果进行更新。
+EventRanking_TopRanking,排行榜前列
+EventRanking_YourRanking,您
+EventRanking_ScoreRankingTitle,歌曲得分
+EventRanking_PointRankingTitle,累计活动积分
+EventRanking_EmotionalRankingBandSelectTitle,组别选择
+EventRanking_EmotionalRankingMemberSelectTitle,成员选择
+EventRanking_LookEmotionalRankingOtherBands,查看其他组
+EventRanking_LookEmotionalRankingOtherMembers,查看其他成员
+EventReward_TotalEventPointReward,累计活动积分奖励
+EventReward_ScoreRankingReward,全体得分排行榜
+EventReward_GroupScoreRankingReward,组别得分排行榜
+EventReward_MusicScoreRankingReward,活动歌曲得分<br>排行榜
+EventReward_EventPointRankingReward,活动点数<br>排行榜
+EventReward_EmotionalRankingReward,最爱偶像<br>排行榜
+EventReward_TotalEventPoint,累计活动积分
+EventReward_YourRank,您的排名
+EventReward_RankingButton,查看排名
+EventReward_EmotionalRankingJoinText,正在参与{0}
+EventReward_RankingFromTo,{0}～{1}名
+EventReward_RankingFromToEnd,{0}名～
+EventReward_RankingInfoMessage,排行榜奖励将在活动结束后发放。
+EventReward_BingoReward,宾果游戏
+EventReward_BingoSheetLineReward,[表格{0}]达成{1}条线奖励
+EventReward_BingoSheetCompleteReward,[卡片{0}]完成奖励
+EventReward_BingoAllSheetCompleteReward,全部卡片完成奖励
+EventReward_RankingRewardDialogTitle,奖励一览
+EventReward_EventPointInfo,*累计活动积分有上限。<br>*上限可能会随着奖励一起增加。
+EventResult_BaseEventPoint,基础活动点数
+EventResult_ScoreBonus,得分奖励
+EventResult_EventBonus,活动加成
+EventResult_ClearBonus,通关奖励
+EventResult_GetEventPoint,获取活动点数
+EventResult_GetStamina,获取活动道具
+EventResult_GetBadge,获取（示例）
+EventResult_GetMedal,获取Loveca
+EventResult_TotalEventPoint,累计活动积分
+EventResult_TotalStamina,累计活动道具
+EventResult_TotalBadge,累计（示例）
+EventResult_TotalMedal,累計Loveca
+EventResult_NextStory,下一剧情
+EventResult_NextReward,下一奖励
+EventResult_CompleteReward,已获取所有奖励
+EventResult_EventStaminaBoostValue,{0}倍
+EventResult_MemberBonus,活动偶像
+EventResult_MemberBonusInfoMessage,成员奖励信息
+EventResult_StaminaInfoMessage,注意提示糖果
+EventResult_NextPoint,还差
+EventResult_RewardDialogTitleClearCell,BINGO通关奖励
+EventResult_RewardDialogTitleBingo,BINGO奖励
+EventResult_RewardDialogSheetClear,格子图完成奖励
+EventResult_RewardDialogAllSheetComplete,完成奖励
+EventResult_RewardDialogInfoClearCell,BINGO格子奖励。
+EventResult_RewardDialogInfoBingo,这是BINGO的奖励。
+EventResult_RewardDialogInfoSheetClear,这是完成所有关卡的奖励。
+EventResult_RewardDialogInfoAllSheetComplete,完成奖励。
+EventResult_BaseTicket,招募票数量
+EventResult_GetTicket,获取招募券
+EventResult_TotalTicket,累计招募券
+EventResult_ClearHomweork,本次任务达成数
+EventResult_TotalHomework,累计完成任务数
+EventResult_NextHomeworkPoint,本次任务达成数
+EventResult_ReStartConfirmTitle,再玩一次
+EventResult_ReStartConfirmSpiritMessage,消耗奇迹之星 {0}，并使用 <br> 再玩一次 Live 吗？
+EventResult_ReStartConfirmSpiritAutoMessage,消耗奇迹之星{0}和自动门票{1}，再玩一次Live吗？<br>
+EventResult_ReStartConfirmAutoMessage,消耗自动票券{0}，再玩一次Live吗？<br>
+EventBingoSheet_Title,宾果卡（{0}/{1}）
+EventBingoSheet_TotalOpend,达成数量
+EventBingoSheet_TotalOpendValue,已完成{0}/总数{1}，共<color=#d73c55>个</color>。
+EventBingoSheet_TotalSheet,格子表
+EventBingoSheet_TotalSheetValue,已完成{0}/总数{1}，共<color=#d73c55>个</color>。
+EventBingoSheet_TotalSheetValueCurrent,已完成{0}/总数{1}，共<color=#d73c55>个</color>。
+EventBingoSheet_BingoClearScore,得分 <color=#d73c55> {0} </color> 以上，达成 {1} 次。
+EventBingoSheet_BingoClearLife,达到 <color=#d73c55> {0} </color>，完成 {1} 次。
+EventBingoSheet_BingoClearJudge,在<color=#d73c55>内，达到{0}或更高的水平，并以</color>或更低的次数完成{1}次。
+EventBingoSheet_BingoClearCombo,最大连击<color=#d73c55>{0}</color>以上通关{1}次
+EventBingoSheet_BingoClearFullCombo,全连{0}次
+EventBingoSheet_BingoClearMultiScoreRank,与大家一起在 Live 中达到 <color=#d73c55> {0} </color> 级别，并完成 {1} 次。
+EventBingoSheet_BingoClearDeckCharacter,编队包含<color=#d73c55>，{0}，</color>，并进行{1}次结算。
+EventBingoSheet_BingoClearDeckType,<color=#d73c55>{0}</color>属性编队人数≥{1}人，通关{2}次
+EventBingoSheet_BingoClearMusicName,歌曲名：{0}
+EventBingoSheet_BingoClearEventMusicName,歌曲名：排行榜Live {0}
+EventBingoSheet_BingoClearMusicLevel,等级：{0}
+EventBingoSheet_BingoClearMusicLevelValue,{0}或更高
+EventBingoSheet_BingoRewardButton,奖励
+EventBingoSheet_BingoRewardDialogTitle,奖励一览
+EventBingoSheet_BingoSheetCompleteRewardNumber,第{0}张
+EventMemberBonus_TipsTitle,活动成员奖励说明
+BirthdayScene_PlayButtonNameText,观看祝福
+BirthdayScene_AreaButtonNameText,生日会场
+EventHomework_HomeworkConfirmButton,确认任务
+EventHomework_MissionNormalText,普通任务
+EventHomework_MissionRareText,稀有任务
+EventHomework_MissionSuperRareText,超稀有任务
+EventHomework_LotteryDialogTitle,合作任务抽卡
+EventHomework_LotteryDialogRareMissionText,稀有任务示例
+EventHomework_LotteryDialogRareMissionInfoText,合作任务分为普通、稀有和超级稀有三种等级，等级越高获得的奖励越好。<br>
+EventHomework_LotteryDialogLotteryButtonText,抽卡
+EventHomework_MissionChangeDialogTitle,更换合作任务
+EventHomework_MissionChangeDialogChangeMessage,要更改当前的合作任务吗？<br>※更改后，在再次进行一次Live演出之前，将无法更改当前的合作任务。
+EventHomework_MissionChangeDialogUnChangeMessage,尝试当前的合作任务吧！<br>※Live结束后，可以更改当前的合作任务。
+EventHomework_GetMissionDialogTitle,获取合作任务
+EventHomework_GetMissionDialogMessage,已设置为当前合作任务。
+EventHomework_MissionDetailDialogTitle,合作任务
+EventHomeworkBoxGacha_Title,（示例）
+EventHomeworkBoxGacha_NowBox,（示例）第{0}个箱子
+EventHomeworkBoxGacha_Remaining,剩余 {0}/{1}
+EventHomeworkBoxGacha_NextBoxButton,下一轮抽奖
+EventHomeworkBoxGacha_PlayBoxGacha,抽取 {0} 次
+EventHomeworkBoxGacha_UsedTicket,x{0}
+EventHomeworkBoxGacha_HasTicket,剩余票数
+EventHomeworkBoxGacha_BoxInfoButton,(箱)内容
+EventHomeworkBoxGachaInfo_Title,（示例）内容（第{0}个）
+EventHomeworkBoxGachaInfo_Page,{0}/{1}
+EventHomeworkBoxGachaResult_Title,获取道具！
+EventHomeworkBoxGachaResult_Message,可从礼物中领取。
+EventHomeworkRoomSelect_RoomTitleEvent,{0} Live
+EventHomeworkRoomSelect_RoomTitleEveryone,活动（示例）
+EventHomeworkRoomSelect_RankingTarget,高分排行榜对象
+EventHomeworkRoomSelect_RankingExcluded,不参与高分排行榜
+EventHomeworkRoomSelect_RankingExcludedInfo,不参与排行榜说明
+EventHomeworkRoomSelect_EventHighScore,活动高分
+EventHomeworkRoomSelect_EventGroupRanking,组别最高分排行榜
+EventHomeworkMatching_HomeworkMusicLevel,歌曲难度
+EventHomeworkMatching_MusicLevel,{0}或更高
+EventHomeworkMatching_HomeworkInfo,任务内容
+EventHomeworkMatching_Reward,奖励
+EventHomeworkLiveResult_HomeworkResult,作业结果
+EventHomeworkLiveResult_HomeworkResultReward,获取奖励
+EventHomeworkLiveResult_RewardBonus,奖励 x{0}！
+EventHomeworkLiveResult_RewardBonusValue,x{0}
+EventHomeworkLiveResult_MyClear,自行达成
+EventHomeworkLiveResult_OtherClear,其他玩家已达成
+EventHomeworkLiveResult_NoClear,未达成
+EventHomeworkLiveResultNewHomework_Title,新增任务！
+EventHomeworkLiveResult_MusicLevel,歌曲难度：{0}
+EventHomeworkLiveResult_Homework,课题：{0}
+EventHomeworkLiveResult_Reward,奖励道具
+EventBonus_PointUpBonus,积分提升奖励
+EventBonus_TotalPowerBonus,综合能力提升加成
+EventBonus_PickUpMemberBonus,偶像加成
+EventBonus_PointUpTotal,积分提升总值
+EventBonus_PowerUpTotal,综合能力提升总值
+EventBonus_PowerUpAddValue,（综合力+{0}）
+EventBonus_BonusPercentUp,+{0}%
+EventBonus_PowerUpTotalValue,+{0}提升
+EventBonus_BonusCaution,·在Live中，综合力提升奖励不会生效。<br>·如果有多名偶像同时满足奖励条件，则只会激活效果值最高的单个奖励。<br>·如果队伍中有多个拥有“偶像+”奖励的偶像，则可以激活综合力和活动积分中效果最高的单个偶像的奖励。<br> <color=#C12424>※</color>综合力的“偶像+”奖励，仅会激活将偶像的综合力与“偶像+”奖励的效果值相乘后数值最高的单个偶像的奖励。<br> <color=#C12424>※</color>活动积分的“偶像+”奖励，仅会激活活动积分提升效果最高的单个偶像的奖励。<br> <color=#C12424>※</color>综合力和活动积分的“偶像奖励+”，可能会由不同的偶像分别触发。<br> <color=#C12424>※</color>即使拥有“偶像+”奖励但未能激活的偶像，也可以激活其他奖励。<br>·“偶像奖励”和“偶像奖励+”可以同时生效。
+EventIncentive_CheckTicketTitle,确认抽卡券
+EventIncentive_CheckTicketMessage,要确认活动奖励票吗？<br> <br> <br> {0}，共{1}张。
+EventIncentive_CheckTicketWarning,<color=#C12424>※抽卡券不能分次使用<br>※请注意，如果在活动期间未使用，抽卡券将被删除</color>
+EventIncentive_LostTitle,抽卡结果
+EventIncentive_LostMessage,已将安慰奖道具添加到您的礼物中。<br>期待您下次的参与。
+EventIncentive_LostGoToPresentBoxScene,前往礼物页面
+EventIncentive_ApplicationTitle,填写申请信息
+EventIncentive_ApplicationId,ID：
+EventIncentive_ApplicationPassword,密码：
+EventIncentive_ApplicationUrlTitle,申请链接：
+EventIncentive_ApplicationNote,*活动注意事项（后续将添加更多内容）
+EventIncentive_IdCopy,已复制
+EventIncentive_PasswordCopy,已复制
+EventIncentive_TermTitle,活动使用条款
+EventEmotionalSetting_SelectBand,选择参与排行榜的队伍。
+EventEmotionalSetting_ChangeBand,选择要更改的组合。
+EventEmotionalSetting_SelectMember,选择参加排行榜的成员。
+EventEmotionalSetting_ChangeMember,选择要更改的成员。
+LimitedLive_Name_1101001,限定直播名1
+LimitedLive_Name_1101002,限定直播名2
+LimitedLive_Name_1301001,限定直播名3
+LimitedLive_Name_1401001,限定直播名4
+LimitedLive_Name_1501001,限定直播名5
+LimitedLive_Name_1502001,限定直播名6
+LimitedLive_Name_1601001,限定直播名7
+LimitedLive_Name_1801001,限定直播名8
+LimitedLive_Name_1802001,限定直播名9
+LimitedLive_Name_1803001,限定 Live 名 10
+LimitedLive_Name_1804001,限定直播名11
+LimitedLive_Name_1805001,限定直播名12
+LimitedLive_Name_1806001,限定直播名13
+LimitedLive_Name_1807001,限定直播名14
+LimitedLive_Name_1808001,限定直播名15
+LimitedLive_Name_1892001,限定直播名16
+LimitedLive_Name_1893001,限定直播名17
+LimitedLive_Name_1894001,限定直播名18
+LimitedLive_Name_1895001,限定直播名19
+LimitedLive_Name_1896001,限定直播名20
+LimitedLive_Name_1701001,限定直播名21
+LimitedLive_BonusEffect_1101001,结算奖励提升！
+LimitedLive_Period,活动期间：{0} ~ {1}
+LimitedLive_FreePlayLabel,免费游玩
+LimitedLive_TicketLabel,剩余票数
+LimitedLive_FreePlayCountLabel,还差
+LimitedLive_FreePlayCountValue,{0}次
+LimitedLive_TicketAmountValue,{0}张
+LimitedLive_LiveIsChosen,歌曲已选定
+LimitedLive_DetailDialog_RuleSection,◆规则
+LimitedLive_DetailDialog_RuleSection_ResetDaily,每日{0}次
+LimitedLive_DetailDialog_RuleSection_ResetWeekly,每周{0}次
+LimitedLive_DetailDialog_RuleSection_Rule_1,这是一个有一定概率获得{0}的Live关卡，可以进行{1}次游玩<br>。※也可以消耗餐券进行游玩<br>。如果是奖励歌曲，则会增加奖励<br>。
+LimitedLive_DetailDialog_RuleSection_Rule_2,可进行{1}次游玩<br>※也可消耗餐券进行游玩<br>若为奖励歌曲，则增加奖励。
+LimitedLive_DetailDialog_RewardSection,◆奖励
+LimitedLive_DetailDialog_BonusLiveSection,◆必中歌曲 <br> {0}
+LimitedLive_DetailDialog_PeriodSection,◆活动期间<br> {0} ~ {1}
+LimitedLive_UnlockDialog_NotEnouchTicketDaily,<color=#D73C55>餐券不足</color><br>※次日凌晨4点后可免费游玩。
+LimitedLive_UnlockDialog_NotEnouchTicketWeekly,<color=#D73C55>餐券不足</color><br>※每周一的4点之后即可免费游玩。
+LiveCondition_Label,Live参与条件
+LiveCondition_CompareType_EQ,等于
+LiveCondition_CompareType_GE,已完成
+LiveCondition_CompareType_LE,低于
+LiveCondition_Detail_Character,编队：{0} {1}人 {2}
+LiveCondition_Detail_Group,编队：{0} {1}人 {2}
+LiveCondition_Detail_CardType,编队：{0} {1}人 {2}
+LiveCondition_Detail_DeckRole,编队：{0} {1}人 {2}
+LiveCondition_Detail_Card,(假){0}编队
+LiveCondition_Detail_UserRank,(假)用户等级{0}{1}
+LiveCondition_Detail_Title,设置称号“{0}”
+LiveCondition_Detail_Item,使用道具“{0}”
+LiveCondition_CannotCreateMultiPlayRoomSinceNotSatisfy,未满足参与条件，无法创建。
+LiveRule_Label,Live规则
+LiveRule_Notes_Judgement_EQ,(暂定)除{0}外全部MISS
+LiveRule_Notes_Judgement_GE,(暂){0}以下MISS
+BeginnerMission_BingoTitle,新手任务（{0}/{1}）
+BeginnerMission_BingoSheetClear,BINGO{0}完成奖励
+BeginnerMission_BingoLineClear,完成连线奖励
+BeginnerMission_BingoNotStarted,仍有未完成的格子。
+BeginnerMission_BingoMissionDetailTitle,任务详情
+BeginnerMission_BingoMissionReward,完成奖励
+BeginnerMission_BingoMissionChallenge,挑战
+BeginnerMission_BingoMissionAcheved,达成度
+BeginnerMission_BingoMissionOverview,任务简介
+BeginnerMission_BingoMissionItemOverview,概要
+BeginnerMission_BingoMissionRewardItemNum,x{0}
+TeacherLiveTop_NowMission,本次任务
+TeacherLiveTop_EndEvent,本活动已结束。
+TeacherLiveTop_ExchangeButton,兑换处
+TeacherLiveTop_LiveButton,前往 Live
+TeacherLiveTop_InfoButton,说明
+TeacherLiveTop_LiveCondition,有 Live 条件
+TeacherLiveTop_LiveRule,Live规则
+TeacherLiveTop_RemainingMission,剩余任务数量 <color=#D73C55>{0}</color>/{1}
+TeacherLiveTop_RemainingMissionValue,{0}/{1}
+TeacherLiveTop_GoGoTime,（示例）
+TeacherLiveTop_GoGoTimeRemainingCount,{0}次
+TeacherLiveTop_ExchangeTerm,兑换到{0}为止
+TeacherLiveTop_LiveConditionDialogTitle,Live条件
+TeacherLiveTop_LiveConditionDialogCondition,Live参与条件
+TeacherLiveTop_LiveConditionDialogRule,Live规则
+TeacherLiveLiveResult_GoGoTime,占位文本
+TeacherLiveLiveResult_MissionClearTitle,（示例）任务达成！
+TeacherLiveLiveResult_CurrentMission,（示例）本次任务
+TeacherLiveLiveResult_NextMission,下一个任务
+TeacherLiveLiveResult_RemainingMission,剩余任务 {0}/{1}
+CharacterEpisodeLevel_TotalTabName,总览
+CharacterEpisodeLevel_TotalEpisodeStar,累计故事星 ★x{0}
+CharacterEpisodeLevel_RemainingExp,★{0}
+ItemList_Tab_Enhancement,培养道具
+ItemList_Tab_Boost,恢复体力
+ItemList_Tab_Ticket,票
+ItemList_Tab_Stamp,表情包
+ItemList_Tab_Other,其他
+ItemList_Empty,当前您没有该物品。
+ItemList_LimitDate,剩余{0}
+MusicVideo_Conform_title,MV播放确认
+MusicVideo_Conform_Message,要播放 {0} 的音乐视频吗？在 MV 模式下，无法获取 Live 奖励 <br>。<br>
+MusicVideo_Conform_Supplement,以后不再显示此窗口
+MusicShop_Title,歌曲商店
+MusicShop_Exchange,兑换
+MusicShop_Replaced,已兑换
+MusicShop_Lack,资源不足
+MusicShop_ExchangeListEmpty,没有可交换的歌曲。
+MusicShop_DetailTitle,歌曲详情
+MusicShop_ExchangeTitle,歌曲兑换
+MusicShop_RequiredValue,所需数量
+MusicShop_ExchangeMessage,要交换{0}吗？
+MusicShop_ExchangeResultTitle,歌曲兑换完成
+Announcement_DialogTitle,公告
+RankUp_UserRankUpDialogTitle,等级提升！
+RankUp_BandRankUpDialogTitle,小组等级提升
+RankUp_BandRank,组等级
+RankUp_TotalBandRank,综合组别等级
+RankUp_DeckPower,卡组强度+
+RankUp_LpRecoverText,LP已恢复{0}。
+RankUp_LpMaxUpText,LP上限已提升
+Shop_ResetDaily,(每天0点更新)
+Shop_ResetWeekly,(每周一0点更新)
+Shop_Monthly,(每天0点更新)
+Shop_BuyRemain,剩余：{0}个
+Shop_BuyLimit,剩余{0}
+Shop_AllBuy,已购买
+Shop_ItemDetaiTitle,商品详情
+Shop_AllItemDetaiTitle,完售奖励
+Shop_AllItemCompleteTitle,获取完卖奖励
+MovieCollection_TabMovieTypeShort,短片
+MovieCollection_TabMovieTypeLong,长篇视频
+MovieCollection_TabMovieTypeSpPhoto,SP照片
+MovieCollection_HomeSettings,正在设置主页
+MovieCollection_EmptyMovie,没有视频。
+MovieCollection_EmptySpPhoto,没有SP照片
+MovieCollection_DetailTitle,视频详情
+MovieCollection_DetailHomeSettings,设置为首页背景
+MovieCollection_DetailHomeSettingsMessage,必须在选项界面中启用主页背景视频。
+MovieCollection_RefineBandTitle,组别
+MovieCollection_RefineBandOther,其他
+MovieCollection_RefineMemberTitle,成员
+MovieCollection_RefineGetCategoryTitle,获取类别
+MovieCollection_RefineGetCategoryEvent,活动
+MovieCollection_RefineGetCategoryCard,偶像
+MovieCollection_RefineGetCategoryStory,剧情
+MovieCollection_RefineGetCategoryEtc,其他
+LiveResult_FriendApplyButton,发送好友请求
+LiveResult_FriendStatusRequest,已申请好友
+LiveResult_FriendStatusFriend,已添加好友
+LiveResult_ScoreDetailButton,分数详情
+LiveResult_ScoreDetailTitle,分数详情
+LiveResult_SessionSelectButton,Live选择
+LiveResult_HomeButton,返回主页
+LiveResult_MusicSelectButton,歌曲选择
+LiveResult_RestartButton,再次以同一首歌曲<br>开始 Live
+LiveResult_GuestSelectButton,用这首歌<br>开始Live
+LiveResult_RecommendLiveTitle,为您推荐
+LiveResult_BackMusicSelectTitle,选择其他歌曲
+LiveResult_BackMusicSelectButton,返回歌曲选择
+LiveResult_RestartDialogTitle,重新开始确认
+LiveResult_RestartDialog_EventPtRewardGotAll,已获取所有事件积分奖励<br>
+LiveResult_RestartDialog_EventPtRewardTitle,活动达成奖励
+LiveResult_RestartDialog_EventScoreRank,活动分数排名
+LiveResult_RestartDialog_EventTotalPtRank,累计活动积分排名
+LiveResult_LiveClear,LIVE CLEAR!!
+LiveResult_LiveClear2,Live Clear!!
+LiveResult_TapScreen,请点击屏幕。
+LiveResult_Score,得分
+LiveResult_Combo,连击数
+LiveResult_HighScore,最高得分
+LiveResult_NewReacord,新纪录！！
+LiveResult_PerfectCount,完美次数
+LiveResult_Perfect,完美！
+LiveResult_Great,太棒了！
+LiveResult_Good,好
+LiveResult_Bad,差劲
+LiveResult_Miss,失误
+LiveResult_Normal,普通
+LiveResult_SyncTap,同时按下
+LiveResult_LongTap,长按
+LiveResult_Swing,摇摆
+LiveResult_GetExp,获取经验值
+LiveResult_NextRank,下一等级
+LiveResult_GetGold,获取金币
+LiveResult_GetFriendPoint,获取好感度
+LiveResult_GetFriendPointWindow,好感度详情
+LiveResult_TotalScore,总分
+GuestSelect_Title,嘉宾选择
+BandEnrich_ItemEmpty,未持有组合强化道具
+BandEnrich_All,总览
+BandEnrich_X,μ’s
+BandEnrich_L,Aqours
+BandEnrich_G,虹ヶ咲
+GemShort_NeedChargeGemLabel,所需付费Loveca
+GemShort_HaveChargeGemLabel,所持有偿Loveca
+GemShort_NeedGemLabel,所需Loveca
+GemShort_HaveGemLabel,所持有Loveca
+CollectionChara_Profile,个人资料
+CollectionChara_CardList,卡片列表
+StorySort_TitleBand,组别
+StorySort_TitleStory,剧情
+StorySort_StoryRead,已读
+StorySort_StoryUnread,未读
+StoryList_EmptyText,没有可阅读的故事。
+MemberList_EmptyText,没有符合条件的偶像。
+CollectionReleaseConfirm_DialogTitle,收藏解锁确认
+CollectionReleaseConfirm_Conditions,解放条件：所需觉醒次数 {0}/{1}
+CollectionReleaseConfirm_Reward,解放奖励
+CollectionReleaseReward_DialogTitle,卡面解锁
+CollectionReleaseReward_SpPhotoReleaseMessage,SP照片已解锁<br>可在偶像详情或SP照片收藏中查看。
+CollectionReleaseReward_MovieReleaseMessage,视频《{0}》已解锁，可在偶像详情或视频合集中查看。<br>
+CollectionReleaseReward_GetReward,已获得解放奖励 {0}
+CollectionReleaseReward_CardInfoButton,偶像详情
+CollectionReleaseReward_CollectionButton,查看收藏详情
+GachaLotteryExchangeItemConfirm_Title,招募点数兑换
+GachaLotteryExchangeItemConfirm_Info,已将过期的“招募点数”转换为“技能书（中）”。
+Migration_TopTitle,数据迁移与账号关联
+Migration_SnsLink,账号关联
+Migration_EnableSnsLink,可关联账户
+Migration_SelectSnsLink,选择要关联的账号
+Migration_Twitter,与 Twitter 关联
+Migration_Apple,使用Apple账号登录
+Migration_Google,使用Google账号登录
+Migration_SignIn,未设置
+Migration_SignOut,已关联
+Migration_CompleteSnsLink,账号已关联
+Migration_CompleteSnsSignOut,解除账户关联
+Migration_SnsLinkMessage,数据关联已完成<br>请在目标设备上下载游戏后，于<br>标题画面的【MENU】＞【数据继承】中完成账号关联
+Migration_SignOutMessage,已解除数据关联。
+Migration_TakeOverButton,迁移数据
+RewardDetailDialog_CanBeAcquired,可获取数量
+RewardDetailDialog_Acquired,获取数量
+RewardDetailDialog_Possession,持有数量
+MusicSelect_NoData,没有找到符合条件的歌曲。
+MusicSelect_NoDataAndResetFilter,没有歌曲，已取消筛选。
+MusicSelect_ResetFilterToSelectData,已解除筛选，以便选择指定的歌曲。
+MusicSelect_FilterAttribute,属性
+MusicSelect_FilterAttributeSmile,Smile
+MusicSelect_FilterAttributePure,Pure
+MusicSelect_FilterAttributeCool,Cool
+MusicSelect_FilterSelect,条件
+MusicSelect_FilterGroup,组 · 歌曲
+MusicSelect_FilterNotClear,未通关
+MusicSelect_FilterScoreS,分数S未达成
+MusicSelect_FilterComboS,连击S未达成
+MusicSelect_FilterClearS,已通关但未达成S级
+MusicSelect_FilterCampaign1,活动曲目
+MusicSelect_FilterCampaign2,筛选
+MusicSelect_FilterUndo,取消全选
+MusicSelect_ButtonApply,应用
+MusicSelect_RehearsalButton,彩排
+MusicSelect_LiveButton,Live
+MusicSelect_NoDifficulty,选择的歌曲没有MASTER难度，请选择其他歌曲
+MusicSelect_NoAnyDifficulty,选择的歌曲没有{0}难度，请选择其他歌曲。
+HomePreset_ClearPresetButton,是否恢复到未设置的首页自定义{0}状态？
+PresentBox_Attention,最多可保存10万条。超出上限后，将从最早的礼物开始删除。已过期的礼物也将自动删除。一次最多可领取100条。
+PresentBox_Filter,筛选
+PresentBox_Filter_Title,筛选
+PresentBox_Filter_Button_AllSelect,全选
+PresentBox_Filter_Button_AllRelease,取消全选
+PresentBox_Filter_Type_Title,礼物类型
+PresentBox_Filter_Type_Member,偶像
+PresentBox_Filter_Type_Gem,Loveca
+PresentBox_Filter_Type_Gold,金币
+PresentBox_Filter_Type_Ticket,招募券
+PresentBox_Filter_Type_Recovery,LP恢复道具
+PresentBox_Filter_Type_Other,其他
+PresentBox_Filter_ExpireTime_Title,期限
+PresentBox_Filter_ExpireTime_Limit,有期限
+PresentBox_Filter_ExpireTime_NoLimit,无期限
+HomePreset_Set_Label,套装{0}
+HomePreset_Multiple_Set_Label,多组设置
+PresentBox_History_Attention,最多可保存30条。超出上限后，将从最早的记录开始删除。此外，收到的礼物将在历史记录中显示30天后自动删除。
+BeginnerMission_BingoLine,{0}行
+Mission_Filter,筛选
+Mission_Filter_Title,筛选
+Mission_Filter_Button_AllSelect,全选
+Mission_Filter_Button_AllRelease,取消全选
+Mission_Filter_Content_Title_Reward,奖励
+Mission_Filter_Reward_Member,偶像
+Mission_Filter_Reward_Gem,Loveca
+Mission_Filter_Reward_Gold,金币
+Mission_Filter_Reward_Ticket,招募券
+Mission_Filter_Reward_Recovery,LP恢复道具
+Mission_Filter_Reward_Exp,技能点数道具
+Mission_Filter_Reward_SkillExp,技能经验值道具
+Mission_Filter_Reward_Evolve,觉醒道具
+Mission_Filter_Reward_Title,称号
+Mission_Filter_Reward_Other,其他
+Mission_Achievement,达成度
+HomePreset_Edit_Dialog_Text,是否保存已修改的首页自定义设置？
+GachaTop_Invitation_Bonus_Detail,招募点数详情
+GachaTop_Invitation_Bonus,<size=29>招募<br><size=23>点数
+Adv_Log_NameSuffix_Telop,滚动字幕
+EventTop_Button_Tips_Rule,操作方法
+EventTop_Button_Tips_Bonus,奖励详情
+EventTop_Button_Reward,奖励详情
+EventTop_Button_Story,活动<br>剧情
+EventTop_Button_Ranking,查看排名
+EventTop_Button_Exchange,兑换处
+EventTop_Button_Favorite,确认
+EventTop_Button_ToEvent,活动歌曲
+EventTop_Button_ToGeneral,普通歌曲
+EventTop_Favorite_Ranking,最喜欢的成员
+EventTop_Point_Total,累计活动积分
+EventTop_Point_Next_Story,下一剧情
+EventTop_Term_Title,<size=20>活动期间：</size> 至 {0} <size=20>。</size>
+EventTop_Point,{0} 点
+EventTop_Rank,第{0}名
+Tutorial_Group_Muse,・以东京秋叶原为中心活动的国立音之木坂学院的校园偶像组合。<br>·组合名称来源于“9位歌唱女神‘缪斯’”。<br>·目标是赢得Love Live！比赛。
+Tutorial_Group_Aqours,・以静冈县的沼津为中心活动的私立浦之星女子学院的校园偶像组合。<br>・为了活跃学校气氛而结成，目标是赢得Love Live！比赛。<br>
+Tutorial_Group_Nijigaku,·以东京的台场为中心活动的私立虹之咲学园的校园偶像。<br>·重视各自的个性，作为单独的校园偶像进行活动。<br>·她们的目标不是参加Love Live！，而是成为各自领域中最好的校园偶像。
+Tutorial_Group_Liella,・以东京原宿为中心活动的私立结之丘女子高中校园偶像组合。<br>・结之丘是一所新学校，社团也是在新校建立的当年成立的。<br>・在Love Live！中也不容错过的组合之一。
+Tutorial_Group_SelectButton,选择此组合
+Tutorial_Member_SelectButton,确定成员
+Tutorial_Recommend_Lesson,通过课程提升偶像等级！
+Tutorial_Recommend_Gacha,在道具招募中获得培养道具！
+Tutorial_Recommend_Live,先来试试Live吧！
+EventRanking_Tab_MySelf,我的排名
+EventRanking_Tab_Rank,第{0}名
+EventRanking_Tab_TotalPoint,活动积分排行榜
+EventRanking_Tab_Score,活动歌曲得分排行榜
+EventRanking_Tab_Favorite,最爱排行榜
+EventBonus_Tab_Point,活动点数奖励
+EventBonus_Tab_Item,获取奇迹之星奖励
+EventBonus_MultiTab_Score,得分奖励
+EventBonus_MultiTab_Item,登录道具获取奖励
+EventBonus_Button_Disclaimer,免责声明
+EventBonus_Point_Value,+{0}%
+EventBonus_Item_Value,+{0}
+EventBonus_Empty_List,无数据。
+EventTop_Button_ToGeneral_Msg,获取奇迹之星！
+EventTop_Button_Favorite_Ranking,最爱排行榜
+EventTop_Button_Mission,任务
+EventTop_Point_Next_Reward,下一奖励
+EventTop_Point_Ranking,活动积分排行榜
+EventBonus_Title,奖励详情
+EventRanking_Ranking_Not_Exists,排行榜尚未生成。
+GemShop_Footer_Special_Commercial_Code,特别交易法/<br>资金结算法
+GemShop_Footer_Precautions_Regarding_Use,使用须知<br>注意事项
+EventRanking_Unaggregated,排行榜数据<br>仍在统计中。
+EventReward_EmotionalMemberUnselected,未选择最喜欢的成员，无法显示。
+EventReward_RequiredPoint,所需点数
+LpBoost_LP_Count,LP持有数
+LpBoost_LP_Default_Amount,基本LP消耗量
+LpBoost_LP_Discount,LP折扣！
+LpBoost_Min,最少
+LpBoost_EventPt,活动点数
+LpBoost_Get,获取
+LpBoost_GetReward,获取奖励
+LpBoost_UseLpMessage,根据消耗的LP数量，获得的奖励和可获得的奖励数量会发生变化。
+LpBoost_UseLpSetting,消耗体力设置
+LpBoost_Count,持有数量
+LpBoost_UseCount,消耗量
+LpBoost_Default,基础
+LpBoost_GetRewardMessage,根据此设置，获取的奖励数量会发生变化。
+LpBoost_Use,消耗
+LpBoost_UseLp,消耗体力
+LpBoost_Setting,设置
+LpBoost_UseLPMessageShort,根据消耗的LP数量，获取的奖励会发生变化。
+Skip_Message,可一次性获取连续跳过次数的结算奖励。<br>跳过时，将参考最高得分作为Live结果的得分。
+Skip_Ticket_Count,跳过次数
+Skip_Ticket_UseCount,设置跳过次数
+Skip_Confirm,确认跳过
+Skip_Lock_Message,完成所选难度后将解锁跳过功能。
+Skip_Not_Enough_Ticket,没有跳过票。
+LoginBouns_RewardAmountBonus,+{0}
+EventTop_Button_ToGeneral_2,前往 Live
+EventTop_Button_ToGeneral_2_Msg,获取活动点数！
+EventTipsDialog_Tips_Title,活动玩法
+EventTop_Aggregate,排行榜统计中
+EventTop_EventClose,活动已结束。
+BeginnerMission_Bingo,宾果游戏
+TakeOver_DialogTitle,同步游戏数据
+TakeOver_DialogUserId,《Love Live! 学园偶像祭》的用户ID
+TakeOver_DialogPassword,游戏数据关联密码
+TakeOver_DialogPasswordSample,输入
+TakeOver_DialogAccept,同步游戏数据
+TakeOver_DialogDescription,输入《Love Live! 学园偶像祭》的账号和数据同步密码，即可查看《Love Live! 学园偶像祭》的相册。<br>
+TakeOver_DialogAttension,* 如果您尚未在《Love Live! 学园偶像祭》中进行游戏数据关联设置，则无法查看。<br>* 请注意，游戏数据关联和领取游戏数据关联奖励只能进行一次。
+TakeOver_DialogUserError,请输入《Love Live! 学园偶像祭》的账号。
+TakeOver_DialogPasswaordError,请输入游戏数据关联密码。
+TakeOver_DialogDone,已完成数据联动，现在可以查看“回忆相册”了。<br>请在礼物中领取数据联动奖励。
+BeginnerMission_BingoPlayableBalloonTips,完成 BINGO{0} 后即可挑战
+Mission_ChallengeButton_Chat,前往聊天
+Mission_ChallengeButton_Home,返回主页
+Common_Remain,还差
+Mission_Attention_Daily,每日任务将于每天0点更新。
+Mission_Attention_ExpireTime,有效期至{0}
+Mission_Attention_Subscription,※奇迹通行证的任务达成进度，从加入后开始计算。
+Mission_HeaderTabTotal,活动总览
+Mission_HeaderTabDaily,每日
+HomePreset_DropDownItem_Obtain,获取顺序
+HomePreset_DropDownItem_Rare,稀有度
+HomePreset_DropDownItem_Anime,带动画
+HomePreset_DropDownItem_Favorite,收藏
+Event_CategoryName_1,奇迹收集
+Event_CategoryName_2,巡游之旅
+Event_CategoryName_3,合作Live
+Event_CategoryName_4,明星活动
+Event_Favorite_Button_Home,返回主页
+Event_Favorite_Button_Decide,确定
+Event_Favorite_Title,选择你最喜欢的成员！
+Event_Favorite_Tips,什么是你最喜欢的成员？
+Event_Favorite_Confirm_Title,确认
+Event_Favorite_Confirm_Desc,确定将 <br> 设置为你的最爱成员 {0} 吗？<br><br><color=#C70F01>请注意：一旦确定，在活动结束前都无法更改。</color>
+EventBonus_PointBonus_Desc,通过编队选拔成员，即可发挥活动积分加成效果！<br>在Live中获得更高的活动积分！
+EventBonus_PointBonus_Attention,※活动积分加成将应用于编队中的所有选拔成员的数值总和。
+EventBonus_ItemBonus_Desc,如果偶像列表中有选拔成员，则登录奖励中可获得的奇迹之星数量将增加！
+EventBonus_ItemBonus_Attention,※奇迹之星获取加成会根据偶像列表中所有选拔成员的数值总和进行计算。<br>※奇迹之星获取加成仅在登录奖励中设置了奇迹之星的日子生效。
+EventBonus_ScoreBonus_Desc,通过编队选拔成员，即可发挥得分加成效果！<br>在Live中获得更高的分数！
+EventBonus_ScoreBonus_Attention,※得分加成效果将应用于当前编队中的所有成员。
+EventBonus_ItemBonusMulti_Desc,登录奖励中，如果成员列表中有选拔偶像，则可获得的道具数量将增加！
+EventBonus_ItemBonusBonusMulti_Attention,※登录道具获取加成会根据偶像列表中所有选拔成员的数值总和进行计算。<br>※登录道具获取加成不适用于金币。
+EventBonus_BeforeEvolve,觉醒前
+EventBonus_AfterEvolve,觉醒后
+EventBonus_HaveCard,已获取
+MusicSelect_CanNotFocusMusic,未找到符合当前搜索条件的歌曲。
+Common_ContinueSpiritShortageShortMessage,奇迹之星不足。
+EventReward_Category_EventPoint,累计活动积分
+EventReward_Category_EventScore,分数
+EventRanking_Category_EventPoint,累计活动积分
+EventRanking_Category_EventScore,分数
+Common_Consumption,消耗
+Common_Setting,设置
+PresentBox_ReceivableItemCount,{0}/<size=-10> {1} 件 </size>
+HomePreset_Edit_EmptyPresetText,未设置主屏幕自定义。
+Header_Lp_TextTag,{0}/<size=25>{1}
+Adv_Button_Skip,跳过
+Adv_Button_Auto,自动
+Adv_Button_Fast,快进
+Adv_Button_Log,日志
+Adv_Button_Deactive,隐藏
+Adv_Button_MovieSkip,跳过
+Adv_Button_MoviePlay,播放
+Adv_Button_MovieStop,暂停
+Adv_Button_MoviePrevStep,返回
+Adv_Button_MovieNextStep,前进
+Adv_Button_MovieDeactive,隐藏
+Header_Lp_Text,<size=21>LP
+StoryPart_NotLiveClearGroupMusicCount,再播放 {0} 中的歌曲 {1} 次即可解锁。
+StoryPart_NotLiveClearMusicCount,再完成 {0} 后，还需要完成 {1} 次才能解锁。
+Common_SeriesName_1,Love Live!
+Common_SeriesName_2,Love Live! Sunshine!!
+Common_SeriesName_3,LoveLive! 虹ヶ咲学園スクールアイドル同好会
+Common_SeriesName_4,《LoveLive! 超级巨星!!》
+Common_SeriesName_5,《LoveLive! 莲之空女学院校园偶像俱乐部》
+StoryPart_NotRelease_EventStory,所需活动点数不足。
+Common_NoCapture,禁止截屏此界面
+Common_EventCloseMessage,当前未举办活动。
+LiveResult_BonusText,奖励 {0} <size=-3>% </size>
+HomePreset_Title_HomeCustomEdit,主页自定义编辑
+HomePreset_Title_Preview,预览
+HomePreset_Title_BackgroundSelection,背景选择
+HomePreset_Title_ForegroundSelection,前景选择
+HomePreset_Title_MemberChange,偶像更换
+HomePreset_HomeCustom,首页自定义
+HomePreset_Save_HomeCustom,已保存主页自定义设置。
+HomePreset_PhotoWarning,照片设置中无法应用背景和特效。
+TermsOfService_Credit,鸣谢
+TermsOfService_Button_InformationNotation,信息说明
+TermsOfService_Button_Performance,成就
+TermsOfService_Button_StoneConfirmation,确认Loveca持有情况
+SubMenu_Button_Profile,个人资料
+SubMenu_Button_Friend,好友
+SubMenu_Button_ItemList,物品清单
+SubMenu_Button_Exchange,兑换处
+SubMenu_Button_Album,相册
+SubMenu_Button_OnePanelComic,单格漫画
+SubMenu_Button_MemoryAlbum,回忆相册
+SubMenu_Button_DataTransfer,数据迁移
+SubMenu_Button_SerialCode,序列码
+SubMenu_Button_LocationCampaign,外出<br>礼物
+SubMenu_Button_MusicLibrary,歌曲图鉴
+GemShopItem_SubscriptionButton_Restore,恢复
+LiveResult_GetFriendPointSameMemberFormation,已编入相同成员。
+EventTop_RewardGotAll,已获取所有事件积分奖励<br>
+EventTop_StoryAllReleased,所有剧情已解锁
+HomePreset_Cant_Clear_Last1,当预设只有一个时，无法完成。
+EventTop_NotSetFavorite,应援偶像：未设置
+StoryPart_NotRelease_ReadPrevious,未阅读前一章节剧情
+SerialCode_InputDialogTitle,序列码
+SerialCode_InputDialogText,请输入序列码
+SerialCode_InputEmptyText,序列码
+SerialCode_InputDialogAttentionText,您已获取的道具将发送至礼物箱。<br>每个序列码的奖励每个账号只能领取一次。
+SerialCode_ConfirmDialogTitle,确认
+SerialCode_ConfirmDialogText,确认要领取{0}的奖励吗？
+SerialCode_SuccessMessage,请在礼物中领取奖励道具。
+SerialCode_ErrorMessageAlreadyUsed,此序列号已使用。
+SerialCode_ErrorMessageNotUse,输入的序列号无法使用。
+SerialCode_ErrorMessageNotAvailable,您已达到本次活动的奖励领取次数上限。
+SerialCode_ErrorMessageNotEnter,当前无法输入，{0}后可再次尝试。
+SerialCode_InputButtonText,序列码<br>输入
+SerialCode_ConfirmButtonText,序列码<br>确认
+SerialCode_DisplayButtonText,序列码<br>显示
+SerialCode_CopyMessage,已复制序列码。
+SerialCode_NoCampaign,当前没有活动。
+SerialCode_DisplayDialogTitle,序列码显示
+SerialCode_DisplayDialogAttentionText,每个账号仅可使用一次序列码。
+SerialCode_DisplayDialogText,这是{0}的序列码。
+SerialCode_FailedToCreateSerialCode,无法获取序列码，请稍后再试。
+SerialCode_NoAllocatableCode,无法分配序列号，请联系客服。
+Common_EventPointDetail,{0}的{1}
+EventTop_Multi_RoomIdCopy,已复制房间ID。
+SerialCode_ErrorMessageExpired,输入的序列码已过期。
+SerialCode_ErrorMessageRankOutOfRange,输入的序列码所需的玩家等级不符合要求，因此无法使用该序列码。<br>
+LocationInformation_Message,在截止日期前到达指定地点，领取奖励吧！
+LocationInformation_Success,已成功获取位置信息！请领取礼物中的奖励。
+LocationInformation_ConfirmDialogTitle,活动确认
+LocationInformation_ConfirmDialogMessage,发送位置信息并领取奖励，可以吗？<br>※为了安全起见，请勿在移动中发送。
+LocationInformation_ConfirmDialogGetReward,获取奖励
+LocationInformation_ConfirmDialogGetLocation,获取位置信息
+LocationInformation_NoCampaign,当前没有可用的活动奖励。
+Common_OnlySecond,秒
+MultiMatching_CannotMatching,无法匹配。返回活动主页。
+MultiMatching_Synchronization,正在与其他玩家同步。
+MultiMatching_MemberDecited,成员已确定。
+MultiMatching_LeaveByTimeLimit,超时退出。
+DeckEdit_Score,分数
+MultiMatching_RecruitMembers,重新招募成员
+MultiMatching_WaitMembersOnResult,等待 Live 结果中的成员。
+MultiDeck_DefaultDeckName,合作Live
+MultiMatching_WaitingAnotherMembers,等待其他玩家
+MultiMatching_LiveWillStartSoon,Live即将开始
+MultiMatching_SongRequestLabel,已选歌曲
+MultiMatching_DecideSongRequest,选择这首歌
+MultiMatching_NoSongCandidate,无法选择这首歌曲。
+MultiMatching_SongPickSecondsSuffix,秒
+MultiMatching_SongPickChosenLabel,已选择
+MultiMatching_SongPickWaiting,等待其他玩家...
+MultiMatching_SongPickClosed,歌曲选择已结束。
+MultiRestart_LeaveButton,退出
+MultiResult_HighScoreNotUpdated,合作Live中，<br>最高得分不会更新。
+SSAlignment_SubMenuButtonText,联动Skusta账号
+SSAlignment_SubMenuButtonTextAlreadyCompleted,已关联
+SSAlignment_DialogTitle,联动Skusta账号
+SSAlignment_DialogTextPlayerId,スクスタ玩家ID
+SSAlignment_DialogTextPassword,关联密码
+SSAlignment_DialogTextInfo,输入您在《偶像梦幻祭！》中设置的玩家 ID 和连接密码，即可领取奖励。<br>
+SSAlignment_DialogTextAttension,若您尚未在《偶像梦幻祭！》中进行联动设置，则无法使用此功能。
+SSAlignment_MessageSuccess,已完成与《偶像梦幻祭》的联动。<br>请在礼物箱中领取奖励。
+SSAlignment_ErrorMessageLock,当前无法输入，{0}后可再次尝试。
+SSAlignment_ErrorMessageInput,请确认是否正确输入了《偶像梦幻祭！》玩家ID和关联密码。
+Dialog_TitleConfirm,确认
+Event_EndMessage,活动已结束。
+Common_Search,搜索
+Common_SearchPlaceholder,请输入
+MusicLibrary_SearchPlaceholder,可按歌曲名/作曲家名/作词家名/编曲家名搜索
+MusicLibrary_SearchWordsEmpty,请输入搜索词。
+MusicLibrary_Live,用这首歌进行Live演出！
+MusicLibrary_SortDefault,默认
+MusicLibrary_SortMusicName,歌曲名排序
+MusicLibrary_SortReleaseTime,按发行日期排序
+MusicLibrary_MusicCount,{0} / <size=-5> 首，共 {1} 首歌曲，已解锁 </size> 首
+MusicLibrary_MusicEmpty,没有找到符合条件的歌曲。
+MusicLibrary_Button_MusicDetail,歌曲详情
+MusicLibrary_Button_Live,Live
+Multi_CannotSendStamp,当前无法使用表情包
+MusicLibrary_ReleaseDate,歌曲发售日：{0}
+Common_Refresh,更新
+SortDialog_SortRecommendedGuest,推荐嘉宾
+MusicSelect_ChangeDifficulty,未找到{0}，已选择{1}。
+Practice_CantUseItem,没有可用的自动使用道具。
+MusicSelect_NotFullCombo,未全连
+RankUpDialog_LpMax,LP已达上限。
+StarEvent_TabGroupStarLevelRanking,星级排行榜
+StarEvent_TabGroupStarLevelReward,星级奖励详情
+StarEvent_TabGroupStarPointReward,累计活动积分奖励详情
+StarEvent_Get,获取
+StarEvent_Share,每日分享一次
+StarEvent_Assist,星之助力
+StarEvent_ChangeMusic,更换歌曲
+StarEvent_ChangeMusicFirstPrice,首次免费
+StarEvent_SkippableStarMission,可跳过，达成目标分数！
+StarEvent_Skippable,可跳过
+StarEvent_MusicClearText,选择歌曲，在Live中达成目标分数吧！
+StarEvent_PlayCount,今日已播放歌曲次数：{0}/{1}
+StarEvent_SkillPercentUp,得分 + {0}% (最高 <color=#F93981>，当前 </color>)
+StarEvent_GotAllStarPointReward,已获取所有活动积分奖励
+StarEvent_NonPoint,活动点数
+StarEvent_NextStarPointReward,下一个累计活动积分奖励
+StarEvent_GotAllStarLevelReward,已获取所有星级奖励
+StarEvent_NextStarLevelReward,下一个星级奖励
+StarEvent_Total,累计
+StarEvent_StarLevel,星之等级
+StarEvent_BeforeLevel,上次的<br>星级等级
+StarEvent_ClearCount,<size=36> {0} / </size> {1}
+StarEvent_StarLevelReward,星级奖励
+StarEvent_StarPointReward,累计活动积分奖励
+StarEvent_StarLevelRewardDialogTitle,已发送星级奖励！
+StarEvent_ChangeMusicMessage,是否要将“{0}”更改为其他歌曲？<br>
+StarEvent_ChangeMusicButton,更换歌曲
+StarEvent_StarAssistTitle,确认星之助力
+StarEvent_StarAssistInfo,是否消耗一张星之助力票进行Live？<br>使用星之助力票后，Live期间将适用以下效果。
+StarEvent_StarAssistBuffInfo,·偶像养成加成【+{0}%】<br>※通过对偶像进行一定程度的培养，可以提高偶像养成加成的数值。<br>·在Live中变为无敌状态，HP不会减少。<br>·始终激活判定强化极效果（将BAD以下的判定变更为PERFECT判定）。<br>·技能发动率提升20%。<br>·选拔成员的得分加成效果翻倍。
+StarEvent_StarAssistAmount,星之助力券持有数量
+StarEvent_StarAssistButton,使用星之助力进行Live
+StarEvent_ShareMessage,#现在在《偶像大师 百万现场》里举办星光挑战活动！#我的星光等级
+Event_PointRewardLoop,之后每获得 {0} 点
+StarEvent_LevelRewardLoop,之后每次达到星级1即可获取
+EventBonus_StarTab_Score,得分奖励
+EventBonus_StarTab_Item,登录道具获取奖励
+EventBonus_ItemBonusStar_Desc,登录奖励中，如果成员列表中有选拔偶像，则可获得的道具数量将增加！
+EventBonus_ItemBonusBonusStar_Attention,※登录道具获取奖励将根据偶像列表中所有选拔成员的总值进行计算。<br>※登录道具获取奖励仅在登录奖励中设置了星之助力券的日期生效。
+StarEvent_PlayBonus_AllGot,今日已全部获取。
+StarEvent_Remain_point,剩余{0}点
+EventBonus_StarScoreBonus_Attention,※得分加成将应用于偶像列表中所有选拔成员的总值。
+EventBonus_StarScoreBonus_Desc,如果偶像列表中有选拔成员<br>在Live中完成活动歌曲后，将获得更高的分数！
+Theater_DialogTitle,每日剧场
+GemShop_ClosedGemShopMessage,目前无法购买Loveca。
+GameClose_Payback,退款
+GameClose_Inquiry,咨询
+GameClose_InformationNote,信息说明
+GameClose_UserId,ID
+GameClose_PaybackCode,退款代码
+GameClose_PaidGem,所持有偿Loveca
+GameClose_Button_Information,信息
+GameClose_Button_Album,相册
+GameClose_Button_TitleList,称号
+GameClose_Payback_CopyMessage,已复制ID、返还码和持有的Loveca信息。
+GameClose_Payback_CopyText,ID {0} <br>，返还码 {1} <br>，已持有的付费 Loveca {2}。
+Auto_01abf2e45264,室内
+Auto_02724107c812,将当前活动奖励应用于总实力值。
+Auto_02b919ddcdf4,返回
+Auto_03274bad099f,奖励提升！
+Auto_0328cfbe3899,持有数量<br>
+Auto_033c8131ffca,朋友<br>申请
+Auto_038bc41a7c6c,演示
+Auto_03dd9696f109,星之助力已启动
+Auto_05db19bd7579,大师<br>
+Auto_0a462ba1ee08,最近使用的表情包
+Auto_0b9c90355fa7,音符
+Auto_0cae74dd2ee6,灵魂
+Auto_0ce873d68a35,五倍
+Auto_0eb944667807,■退款申请期限
+Auto_0f7fa8f9a3bd,好的<br>
+Auto_0f9511a417ab,Live分数作弊
+Auto_1075010ff27d,本月消费额
+Auto_109f7d11a0d6,活动分数
+Auto_123209ff77c4,推荐！
+Auto_12b2b7105fb3,主要
+Auto_12d470debc6c,详情
+Auto_1559210b6441,其他条件
+Auto_1592365cb790,消耗<br>
+Auto_1744ba8fe835,点击输入
+Auto_1798815611ff,活动列表
+Auto_17c2e91f339d,星之助力 已使用
+Auto_19682bdb9185,初始化
+Auto_19d41bf40aad,兑换点数
+Auto_1aa6e8ca6610,等级
+Auto_1ada75706b1c,Google商店
+Auto_1b51bb0ac522,成员总能力值
+Auto_1d0659501e10,没有可购买的商品。
+Auto_1d3921b31495,第一天
+Auto_1d97f9dcc3d6,下载确定
+Auto_1db118371c67,合计
+Auto_1e5dd6092929,返回主页
+Auto_1ebe6a8e14e1,特殊技能 开
+Auto_204ca2888aa0,活动扭蛋名称
+Auto_20946a364888,返回标题界面
+Auto_20b77e71a816,全<br>完美
+Auto_21125a762c34,开启
+Auto_2184ff8e15c8,房间已解散。
+Auto_252e0f7141ed,任务完成！
+Auto_25f4e117dab6,应用
+Auto_264ccbd4abf8,※若未同意即进行游戏<br>将无法参与实物奖励的抽卡或申请等活动<br>
+Auto_2850206c3c5a,年龄分级消费限制
+Auto_2a626ea9baf4,总分奖励
+Auto_2c42bdbb8ded,2024年4月1日（周一）00:00～2024年6月17日（周一）14:59
+Auto_2cff4f6ba8c2,卡片名称（最多二十个字符）
+Auto_3050c748c4fa,删除数据
+Auto_3091c8446f8d,语音
+Auto_309200e20a10,含视频
+Auto_33906a7dfdec,打开
+Auto_35d0f5fbca4b,验证
+Auto_36680a92670b,最高连击数
+Auto_387d7a59dbaa,开启
+Auto_38bfb0d36aee,下载大小 9999.99MB
+Auto_3a3662973891,慢速
+Auto_3b45ef3e2d04,不设置直接退出
+Auto_3cb25413e47f,选择活动歌曲
+Auto_3d919fa4840b,重新调整
+Auto_3da474537ac3,跳过
+Auto_408090253cc2,排序
+Auto_41a07ce577b3,选择交换次数
+Auto_42672f9a37d1,选拔成员
+Auto_42f76867ad2d,有剧情
+Auto_42f9f3c2d790,更改称号
+Auto_4315bc5cce32,第一次：
+Auto_441030094524,音量调整
+Auto_44e681a374ac,暂停
+Auto_45bec89c0f50,移除
+Auto_4693ee8bed24,交换完成
+Auto_482939397cb5,NexTone序列号<br>ID012345678<br>ID012345678
+Auto_5064a0f4ba98,数据下载
+Auto_506f8b799c18,◆强制期待动画指定◆
+Auto_5291c399b506,仅限票券
+Auto_536a08d31bbb,快速
+Auto_54ac68559d08,奖励
+Auto_576770016382,下次恢复前
+Auto_587eac1112fa,返回
+Auto_58a89456cac6,设置多个
+Auto_5b4f82050b5f,结束时间
+Auto_5bfa6380e816,连续奖励
+Auto_5c9f61d441b4,中文<br>
+Auto_5db23947a6dc,活动ID
+Auto_5e9276d98d7e,赠品
+Auto_61f9b95b94af,跳过时，最高分将作为结算时的<br>分数。
+Auto_622b0710d2c1,啊啊啊啊啊咿咿咿咿咿呜呜呜呜呜<br>咦咦咦咦咦
+Auto_6287420f60b0,<size=/32>招募</size>奖励
+Auto_633a7785dc75,确定招募
+Auto_63651cf6d9f8,Live <i>！</i>
+Auto_649df08a448e,英语
+Auto_64f71689e86e,保存
+Auto_65f101b159a1,获取方式
+Auto_660f91b2b864,偶像列表<br>
+Auto_66fba5a6fa14,保存设置
+Auto_6740ed068754,Live Burst
+Auto_67a0c5e93888,重置判定结果。
+Auto_6a72085653e4,全部
+Auto_6a9178a4932f,CLIMAX %
+Auto_6b268944e92c,确认交换
+Auto_6b30feafd1f3,添加分数
+Auto_6d9a18833a5a,即使选择取消，也可以逐集下载 <br> <br>。之后可以在剧情中的“一键下载”中进行下载 <br>。由于数据量较大，请在网络环境良好的地方执行 <br> <br>。建议在 Wi-Fi 环境下下载。
+Auto_6dd5a42a94c0,设置<br>
+Auto_6e444147a521,批量下载视频
+Auto_6e6a6f2086bb,其他
+Auto_719ea396ad92,清除
+Auto_71afae920481,LP折扣
+Auto_74c545d169bf,需要{0}
+Auto_7548ab52c3d1,力量
+Auto_77c6a8345db8,中断的<br>措辞<br>
+Auto_77dfd2135f4d,取消
+Auto_77f505b6262c,啊啊啊啊咿咿咿咿呜呜呜 <br> 嗯嗯嗯嗯嗯 <br>
+Auto_788a0043ef72,选择预制件
+Auto_7c76cd4f10f6,角色筛选
+Auto_7cb690cac947,游戏奖励
+Auto_7d8bbc065980,总活动点数奖励
+Auto_7ed45871a39c,持有：99
+Auto_7ef4a9de5c25,高级
+Auto_7f450bbd899c,消耗3
+Auto_80212d3591fe,人工
+Auto_8223fef77e91,乐队筛选
+Auto_8293da245b3b,稀有度筛选
+Auto_845ae4bff63e,获取活动积分
+Auto_848e23d86457,剩余体力
+Auto_85932094d554,活动积分达成奖励
+Auto_88b79a43a5a2,使用票券<size=28>招募
+Auto_89c6e6591da2,编队
+Auto_8ac8a8695f8c,服装解锁条件啊啊啊啊啊啊啊啊<br>服装解锁条件啊啊啊啊啊啊啊啊
+Auto_8b587a7dbf54,综合乐队等级
+Auto_8fb2690daca7,关闭
+Auto_8fc78aae68c7,乐队等级
+Auto_8fe39d4e10b7,升序<br>
+Auto_9241dc943583,消耗
+Auto_9273914e5109,恢复默认<br>设置
+Auto_959f794269e3,照片
+Auto_98205d57bde6,X JAPAN
+Auto_98cb7f8b4243,连续跳过次数
+Auto_9d2900c40ab7,Smile.为你。
+Auto_9ebddc6b6669,LUNA SEA
+Auto_9f783ad4a18c,调整设置
+Auto_a1477059aa3b,访客设置
+Auto_a1dea8028b01,集数
+Auto_a328a2d80d00,丢弃
+Auto_a338c21bfd26,星级提升！
+Auto_a3c686e711e4,类别
+Auto_a4911f7f372a,语音音量
+Auto_a8dc0179d0a8,购买上限
+Auto_a9a279c07f10,兑换数量
+Auto_aa3fa7dd256b,要参与活动，您需要同意<br>使用条款<br>。请确认后点击“同意”<br>。
+Auto_ac35bd4adf50,《Love Live! 学园偶像祭 2 MIRACLE LIVE!》将于以下时间停止服务：<br><br>关于未使用的应用内货币“有偿 Loveca”的退款，我们将在以下时间段内开始受理。<br><br><br>
+Auto_ac7c161425e5,消耗LP
+Auto_acca96a91aa4,未解锁
+Auto_ad4d9cc1b087,户外
+Auto_ad50489054dd,关闭
+Auto_add22ce29a3d,LP恢复量
+Auto_b07900dc57ed,点数
+Auto_b0e4ee23c952,招募 次
+Auto_b13d33a52865,背景
+Auto_b2f2b09e6e2d,持有{0}
+Auto_b31d5ea85dff,第三次：
+Auto_b68eb2cb5bf1,使用期限
+Auto_b6e09f881f83,个人得分
+Auto_b6e3f5c3b4f2,全新命运…
+Auto_b72306f4e35d,正常<br>
+Auto_b8143777066d,第二次：
+Auto_b8571eaa5763,点击屏幕
+Auto_b8a4ee600c4a,公元
+Auto_b9fa67abcaf9,选择
+Auto_bc811258ae9f,点按屏幕
+Auto_bd89f983989e,确认回复
+Auto_bf22940fda0d,确认交换次数
+Auto_bf62b8f395bb,判定调整结果
+Auto_c25f358874d1,前往自由Live
+Auto_c28c25bf8e62,物品详情
+Auto_c401efeb943c,提升等级
+Auto_c7eb0f35af72,中心
+Auto_c7f325f13f16,恢复
+Auto_c998d2ee5b08,继续
+Auto_cc5ea3852219,请配合节奏点击音符。
+Auto_cd131363eae4,GLAY
+Auto_cde3eb972d17,继续
+Auto_d00d84c15d3a,Live Burst<br>
+Auto_d47b6f2a9df1,<size=26>当前</size>的<size=24>第</size>阶段<br>
+Auto_d54d12f95c41,名称
+Auto_d5ab84b435fb,年级
+Auto_d63f619942b9,自然
+Auto_d6b401a4b2ac,任务<br>完成！
+Auto_d8cb03e33092,展示
+Auto_d8ec9e35d2f2,成员名称
+Auto_db66ad7b9586,第四次：
+Auto_dcae5862b56f,连击
+Auto_dd48a1149548,排名
+Auto_df50ec2cd8cb,道具持有数量
+Auto_df6861322391,卡片名称最多十个卡片名称最多十个
+Auto_df6e6c5f5960,总分
+Auto_e0491d31d0f7,前往多人Live
+Auto_e11c09011cad,感谢您一直以来的支持。<br>
+Auto_e4d2bab524b4,《Love Live! 学园偶像祭2 MIRACLE LIVE!》已于<br>2024年3月31日停止服务。如果您希望退还未使用的应用内货币“有偿 Loveca”余额，请复制显示的以下内容，并通过“退款”表格提交申请。<br><br><br><br>
+Auto_e7a1f2b591d7,消耗从免费Loveca开始。
+Auto_e7ae8d0559ec,已持有奖牌
+Auto_e7e170510efe,2024年3月31日（周日）15:00
+Auto_eab6741c0f59,文本
+Auto_eb1a2d429c58,执行
+Auto_ebb93d3b53a4,特效
+Auto_ebcf18c786af,技巧
+Auto_ec828e93801a,等级<br>
+Auto_ed28cf13bde2,主页
+Auto_edcb599b9885,将读取指定的扭蛋视频 <br> <br> 请注意，获得的卡牌与扭蛋无关，而是根据预设的规则进行抽取。
+Auto_edee9402d198,下一首
+Auto_ee3c38fe094f,判定结果
+Auto_ef3619115ff6,所需招募点数
+Auto_efd565d40ade,循环播放切换
+Auto_f0d441f3dfff,服装名称
+Auto_f12ab05bb974,降序<br>
+Auto_f22f0eb3fa2b,心仪乐队
+Auto_f4cb18567198,添加卡片<br>
+Auto_f5ecb4b9a22d,文本<br>文本<br>文本<br>文本
+Auto_fe212fc5ce20,跳过
+Auto_fff655d2974f,居中<br>
+Auto_003c9447ae9b,标题按钮
+Auto_00b165f88921,语音
+Auto_024500726b03,距离
+Auto_029ebd875fdb,文本<br>文本
+Auto_044adfd9ed9d,步骤4
+Auto_04b455ccba55,限时道具兑换处
+Auto_057d38b205d3,组标题
+Auto_05bf2aac7949,执行数据继承后，本机游戏数据将<br>删除，并被继承源数据覆盖。<br>跨系统继承时，付费勋章将转换为免费勋章。<br>同系统继承时，将原样继承。<br>
+Auto_079bf11eeff3,版本 0.0.1
+Auto_07a05e260d6b,中心技能名称
+Auto_07ddf136db16,16～17岁：
+Auto_09ec0c5b620d,文本文本文本
+Auto_0c6ca3b6cc0a,同名
+Auto_0cb8722f43db,恢复了99点LP
+Auto_0d57f9526844,没有该歌曲的播放数据。<br>开始播放歌曲吧！
+Auto_0e68b6445410,没有可兑换的物品。
+Auto_0e8f4f23a65a,完成 BINGO 1 和 2，即可挑战。
+Auto_0f04165846d6,精选
+Auto_0f16b706d0e6,*8个以上32个以下的英数字
+Auto_11412d0e8910,特别名额概率
+Auto_121def961f9a,继承ID<br>
+Auto_13e47abd10a7,是否使用进行Live？<br>※不会消耗Live Burst。
+Auto_13fd30e09401,每周X日重置
+Auto_146927317e55,活动点数<br>达成奖励
+Auto_14bf1f14b527,消耗〇〇金币<br>将「〇〇〇〇〇〇〇〇〇〇（曲名）」随机更换为其他曲目吗？
+Auto_163d2f0d102b,"¥5,000"
+Auto_1703cc1d1ab7,通过以下任一设置，可在更换设备时继承数据。<可作为应对因删除应用而导致数据丢失的措施。<br>
+Auto_171264a7eb78,雪啊啊啊啊啊啊啊啊
+Auto_1738ae542173,文本文本文本啊
+Auto_17a21f8751b1,穗乃果啊啊啊
+Auto_18ce79396792,见习经理
+Auto_193f0038f792,是否消耗3000个Loveca进行11次招募？<br><color=#C70F01><size=30> 有偿Loveca不足，需要购买吗？</color></size>
+Auto_1996a5682af1,服务终止通知<br>
+Auto_1a355bfca80b,消耗000付费勋章购买。<br>是否确认？
+Auto_1ba4c95c1b7e,μ's 第四张单曲收录曲。在TV动画中，西木野真姬曾在音乐室弹唱过这首歌，毕业典礼上的合唱场景也令人印象深刻。虽然有各种版本，但在原版中请务必关注一下贝斯旋律。<br>μ's 第四张单曲收录曲。在TV动画中，西木野真姬曾在音乐室弹唱过这首歌，毕业典礼上的合唱场景也令人印象深刻。虽然有各种版本，但在原版中请务必关注一下贝斯旋律。<br>μ's 第四张单曲收录曲。在TV动画中，西木野真姬曾在音乐室弹唱过这首歌，毕业典礼上的合唱场景也令人印象深刻。虽然有各种版本，但在原版中请务必关注一下贝斯旋律。
+Auto_1be7423211a5,道具名啊啊啊啊啊啊啊<br>
+Auto_1e0e1976379b,9999999分钟
+Auto_1e17ebb75b4d,Loveca石100个 <br> <size=22> <color=#F93981> 赠送 Loveca石100个
+Auto_1e531d5608ba,(有)100
+Auto_1fd729e61328,数据转移设置完成<br>
+Auto_21461c8ad16a,这是活动名称的序列码。
+Auto_217db72fc82b,技能等级
+Auto_2187f31d0823,技能发动几率<color=#F93981>+0.6</color>提升
+Auto_21a6013d6db7,名称1，名称2
+Auto_231660b3e9aa,Yuki啊啊啊啊啊啊啊啊啊
+Auto_2359a6bc9f8e,至12月31日23:59
+Auto_2372659b2fa8,角色1：文本1<br>角色1：文本1
+Auto_23c425468cfa,登录获取奖励
+Auto_23d692f07a3f,父
+Auto_24331d4b3c4b,EXPERT 10
+Auto_24ef5199c19f,下载…
+Auto_265c145b1c11,消耗自动爆发设置
+Auto_28578faf0062,新文本
+Auto_2910ca68352e,《Love Live! 学园偶像祭2 MIRACLE LIVE!》已于<br>2024年3月31日（周日）停止服务。<br>■退款受理期间：<br>2024年4月1日（周一）00:00～2024年6月17日（周一）14:59<br><br>感谢大家一直以来的支持。
+Auto_2991fd24eff8,酷炫
+Auto_2a9e2a96f3a5,*出生日期之后无法更改。
+Auto_2ae6850cf007,EXPERT 11级
+Auto_2db52bd8d99d,今日歌曲游玩次数：1/10
+Auto_2e84ab497270,卡片名称（最多三十个字符）
+Auto_30629014ffdf,"第1,000,000名"
+Auto_327896c958c6,新田惠海
+Auto_32cca4a1edcd,专家 Lv11
+Auto_32f04a55794f,循环：禁用
+Auto_349584413283,用户名最多十个字
+Auto_3500bbd544a3,·偶像养成奖励<br>·Live中变为无敌状态，HP不会减少<br>·始终激活判定强化效果（将BAD以下的判定变更为PERFECT判定）<br>·技能发动率提升20%<br>·选拔成员的得分奖励效果翻倍<br>※偶像养成奖励会随着偶像的进一步培养而增加
+Auto_354fd93c17f2,故事标题故事标题故事标题
+Auto_3588a5b623b0,第七步
+Auto_360cb694c2ae,秒
+Auto_36fc221e2e45,作词：畑亚贵 作曲：小岛良太 编曲：久下真音
+Auto_3770af0c5c4e,1000点
+Auto_37900575e30d,速度：
+Auto_383617f9c339,标题
+Auto_38bf4ac9d31b,123456789点
+Auto_38d63311e93b,纯粹
+Auto_393d0282bf7d,已获取以下道具<br>
+Auto_399acfa696ba,组合名6789012345
+Auto_3ae3222a8a7c,ID
+Auto_3b18e8e33250,音量
+Auto_3bdd53e3c81d,微笑
+Auto_3c153c60bc73,道具/卡牌名称
+Auto_3cab1d5076f2,不同操作系统之间进行数据转移时，付费宝石将转换为免费宝石。<br>在同一操作系统之间进行数据转移时，付费宝石将保持不变。
+Auto_3db8f0a8cb0d,<size=50>11</size>次招募
+Auto_3e252f2489fa,已进入结算。<br>已进入结算。<br>已进入结算。
+Auto_3f5567240d61,O型
+Auto_3fed241ef790,累计活动
+Auto_4002d1a146fa,μ's、Aqours、虹ヶ咲学園、Liella！的校园偶像的日常故事，共3集。
+Auto_40e01c24654a,虹之咲学园校园偶像俱乐部
+Auto_414ee4134bd7,部员列表中有选拔成员时，<br>登录奖励中可获得的奇迹之星数量将增加！
+Auto_41b187f87bd2,157厘米
+Auto_432849e0e729,角色名称
+Auto_434ea13d1c5f,啊啊啊啊啊啊啊
+Auto_439bd1f70732,为以防万一，保留了文本框的实现。
+Auto_451416850ad2,蓝牙模式
+Auto_458a25f3bc2b,啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊<br>12345678901234567890123456<br>26字×3行
+Auto_45a309dcbdfa,啊啊啊啊啊啊啊啊啊啊啊啊啊啊<br>12345678901234567890123456<br>26字×3行<br>
+Auto_463938856430,继承ID：
+Auto_463dc0e2645f,作词：Test<br>作曲/编曲：test
+Auto_47b4753f220d,标题
+Auto_486a5b286b90,完成所有每日任务。<br>完成所有每日任务。
+Auto_4ac93a41ce71,作曲：-
+Auto_4b8ea9b1a845,・不支持退货。<br>・MIRACLEパス自加入起首月为试用期。<br> 试用期结束后直至取消前每月在所用商店扣款，<br> 有效期自动续期。<br> 若不想续期仅用试用期结束，<br> 请在试用期结束前2天办理取消手续。<br>・有效期为购买日或自动续期日起1个月。<br>・有效期每月自动续期。<br>・自动续期将产生每月980日元费用。<br>・除非停止MIRACLEパス自动续期，否则有效期将自动更新。<br>・续费当日可能出现处理延迟。<br> 若效果暂未生效请稍后重试加载。<br>・取消时请在有效期结束前48小时停止自动续期。<br>・中途取消在有效期内仍可享受特权。<br>・MIRACLEパス仅在加入时使用的本应用账号有效。<br>・在转移前本应用账号有效期结束前，<br> 请注意无法重新加入。<br>・此外若因删除应用等创建了新账号，<br> 无法继承MIRACLEパス。<br>・若对同一MIRACLEパス重复/多次加入，<br> 无法重复享受特权。<br>・有效期结束后特权实际失效可能需要一点时间。<br>・即使删除应用若未办理取消手续，<br> 自动续期仍将继续请注意。<br>・更换不同OS设备或向同OS不同账号转移时<br> 有效期内MIRACLEパス效果仍可继承。<br> 因此新加入者请在原平台（或<br> 账号）完成取消后再加入。<br> 在原平台（或账号）有效期结束前<br> 无法重新加入。<br><br>■有效期确认及取消方法（停止自动续期）<br>MIRACLEパス可按以下步骤取消。<br> 取消后有效期结束后将失效。<br>※因系统版本或终端不同操作可能有所差异敬请谅解。<br><br>1．点击本画面底部的“取消”按钮<br>2．依次点击“左上角“≡”图标 > 订阅”<br>3．若需取消请点击商品<br>
+Auto_4ca3fbc3f316,照片贴纸
+Auto_4de912463d5b,* 将从免费 Loveca 石开始使用。
+Auto_4e8e36e11ba0,JASRAC授权<br>第123456789ABCDEFG号
+Auto_4f3f313eb655,我们的演唱会，与你的生活。
+Auto_4f62ed577823,跨操作系统转移时，付费宝石将转换为免费宝石。<br>在同一操作系统内转移时，付费宝石将保持不变。
+Auto_513968cec3d1,至2023/06/30
+Auto_522175083f0b,清除缓存
+Auto_526b4090303d,请不要告诉他人，因为这是重要信息<br>请保存好备忘录或截图<br>密码之后也可以更改<br>
+Auto_5472f4068cb1,堀内まり菜（椿ルリカ 饰），浅井七海（皇ユズハ 饰），杏ジュリア（北条ユキノ 饰），小山璃奈（天草ヒカル 饰），佐藤美波（三笠マーヤ 饰）
+Auto_55ee85cd4dcc,姓 名
+Auto_560dd21d26a8,请输入账号和密码<br>
+Auto_567ad1eee4be,奖励名称
+Auto_56809f756f76,是否要领取的奖励？<br>
+Auto_572b0f9c1d1b,文本文本文本文本文本文本文本文本文本
+Auto_572e68ce60da,获取10点
+Auto_57859cb7238a,角色名称
+Auto_586b09d35825,数量：9999999
+Auto_58c3db41d9fc,选择扭蛋视频指定信息
+Auto_58f52a673e60,道具/卡片名称，最多30个字符#####
+Auto_595596e10b8b,没有可以进行突破的卡片。
+Auto_5a6b54f04f20,9999999点
+Auto_5aa7dabc547e,(最多两行，每行26个字符)
+Auto_5b0e14341d79,高坂穗乃果
+Auto_5d7171891b9e,故事标题
+Auto_5e2c3623f817,"电池电量过低<br>，剩余电量为<color=""red"">7%</color>。系统会根据设备提示，可能会导致<br>Live中断<br>。建议您给设备充电<br>。"
+Auto_5e63c03e564f,是否中断MV观赏<br>并返回歌曲选择界面？
+Auto_5e88baf24aea,缓存已成功清除
+Auto_5f21648a666a,剩余999天
+Auto_6114d553d8a5,*登录奖励获取加成将应用于偶像列表中所有选定成员的总值。<br>*登录奖励获取加成仅适用于在登录奖励中设置了奇迹之星的日期。
+Auto_62933bba4c77,来源：
+Auto_62b3c4231032,完成次数<br>
+Auto_6311b5d2d37d,等级
+Auto_64e02dbe9ba6,步骤1
+Auto_669d4fab42d5,剩余9999个（每周一凌晨重置）
+Auto_67c008e4fd30,显示名称
+Auto_67dbec9cc4e4,上限10000日元
+Auto_6842c74c4d51,儿童
+Auto_6b3f6985eb92,小恶魔1号
+Auto_6bfa25be446d,运动饮料
+Auto_6d17169b8845,解锁剧情
+Auto_6eee3369a6c0,XXXXX XXXXX XXXXX
+Auto_6f9b9af3cd6e,消息
+Auto_6fc69aae7ef1,20XX/99/99 99:99
+Auto_6fd05cc842c9,每天重置 <color=#ff5500>，每日可抽 <size=28> 次，于 </color> 重置。</size> <br>
+Auto_709a23220f2c,名称
+Auto_7123fcc9c635,用途345678901234567890123456789
+Auto_7171d9cb0cf3,物品名称
+Auto_71cd10385774,达到上限后可解锁视频。
+Auto_71fd4dacfad1,8月1日
+Auto_737f138ed948,今日份<br>已使用
+Auto_75e1496591d4,查看
+Auto_76fb59ce183d,道具等说明道具等说明道具等说明。<br>道具等说明道具等说明道具等说明。
+Auto_773a03413bdc,物品名称最多二十个字符
+Auto_78f1b4350a83,至2021/12/31 12:00
+Auto_794145f030ff,按钮
+Auto_7a5db5a1f223,2年
+Auto_7bf2e2580045,回顾章节
+Auto_7c1698e461f9,成员名称（最多十个字符）
+Auto_7c54bd6c4a3f,卡牌的<br>参数已提升。
+Auto_7dee13bf0dd8,YOSHIKI
+Auto_7f2b15f3359a,剩余16天
+Auto_7f91240a914e,可交换道具名称最多16个字符。
+Auto_82434dcead71,选项B
+Auto_827ada3af78a,执行数据继承后，本机游戏数据将被删除，<br>继承源数据将覆盖当前数据。<br><br><color=#c70f01>跨系统继承时，付费宝石将转换为免费宝石。<br>同系统间继承时，付费宝石将原样保留。</color>
+Auto_8449eea355c4,中心技能说明<br>中心技能说明
+Auto_860981a8b394,标题标题标题标题
+Auto_87c522a79361,技能说明<br>技能说明<br>技能说明
+Auto_8957ed473795,编曲：-
+Auto_8b0bbe5fa2a0,生日不可更改。
+Auto_8bdd1e8256dd,普通1
+Auto_8c3c5dc7add8,确定要继承吗？<br>
+Auto_8d1308cd282c,朝香果林
+Auto_8d54688f884e,标签
+Auto_8d7f5abed4eb,缓存已成功清除。<br>
+Auto_8ec81c9e6bba,没有已获取的称号。
+Auto_8ecd1842d6d5,检查电池电量
+Auto_8eee6c561bb2,跨操作系统转移时，付费宝石将转换为免费宝石。<br>在同一操作系统内转移时，付费宝石将保持不变。<br>
+Auto_8f7124fb70a8,教程结束，返回标题界面。<br>
+Auto_91152b56f991,图层<br>
+Auto_920d74d2ff09,第一天
+Auto_920f67831677,特别任务
+Auto_940387049ad0,以东京涩谷为中心活动的私立结之丘女高的校园偶像组合。<0><br><1><br>
+Auto_94e6b092259d,正在清除缓存<br>请稍等片刻，直到完成。
+Auto_953670412850,已因蓝牙耳机连接而切换至蓝牙模式<br>在蓝牙模式下，Live演出期间可能会出现点击音效延迟的情况<br>※将应用蓝牙专用判定调整。
+Auto_957c2a10d823,组合名称最多为16个字符。
+Auto_965fb2ddf63d,接收
+Auto_97855c87fb9b,步骤6
+Auto_9850ea73a3e8,文本文本文本文本
+Auto_98997bef6406,确认<br>
+Auto_99122787e954,消息消息消息消息●●<br>消息消息消息消息<br>双字<br>四行
+Auto_99940a7d6018,<size=-3>倍</size>
+Auto_9a5e7fc5a514,所以我们要演奏！
+Auto_9bc6fb8cccfc,最多可保存30条。超出上限后，将从最早的记录中删除。此外，领取历史将在显示历史后的100天后自动删除。
+Auto_9d3cadaec013,不同操作系统之间进行数据转移时，付费宝石将转换为免费宝石。<br>在同一操作系统之间进行数据转移时，付费宝石将保持不变。
+Auto_9d81b6cadd5c,经验值显示区域
+Auto_9d86b9378453,99999名
+Auto_9daaa404b4c3,物品/卡片名称（全角30个字符以上）
+Auto_a0685b910206,搜索
+Auto_a08046709963,作曲：あぶらぜみ<br>作词：ひぐらし<br>编曲：みんみんぜみ
+Auto_a0d95c9b62e6,文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本
+Auto_a0ec88460069,歌曲发售日期：8888/88/88
+Auto_a1a8a57f247c,Live能量恢复了10点。<br>好友数量上限已提升，从5增加到10。
+Auto_a45ad5596a9e,姓 名
+Auto_a50b3e2b4507,物品名称最多十二个字符
+Auto_a65f3a8a2407,限时72小时
+Auto_a69be1e057ef,一年级
+Auto_a6a31e215fdd,活动点数
+Auto_a7726b3f99f0,啊啊啊啊（最多两行，每行21个字符）
+Auto_a78153e9f407,ABCD EFGH IJKL MNOP
+Auto_a808eee2241b,获取卡牌名称最长九个字符<br>如果已获得，则显示“已获得”菜单。
+Auto_a94d5d0c7027,票据名称
+Auto_aa1168393020,请输入您的出生日期，以便进行年龄验证。
+Auto_ac34920d91ed,奖励·经验值
+Auto_ac6c98656ccc,LAWSON
+Auto_acb992ab8026,无设置
+Auto_ad9ec245bacb,专家 <size=26>等级 </size>
+Auto_adf974909200,本月消费已超过10万，是否继续购买？
+Auto_afa7944cae4b,一行21字<br>最多两行
+Auto_b067846ca702,至2099/12/31 00:00
+Auto_b1181d44cd51,道具等说明道具等说明道具等说明
+Auto_b2ad896a1cb2,步骤2
+Auto_b3361a468f26,至2021年11月30日13:59
+Auto_b4ae1b9654fd,这里会显示台词。<br>这里会显示台词。<br>这里会显示台词。
+Auto_b528c11750d0,赠送礼物
+Auto_b5414c090b1d,“※活动积分奖励效果不叠加，仅以编队中最高数值为准。”
+Auto_b59e287feb4c,剩余99次
+Auto_b78072c47e29,中心技能说明<br>中心技能说明<br>中心技能说明
+Auto_b7dfc9785b79,未完成的梦想！(椿咲花女子高中版)
+Auto_b803c31897b9,缓存已清除。<br>
+Auto_b8be7f2cb5de,招募<br>文本
+Auto_b95b73ebd08b,162厘米
+Auto_ba5dc2cc4de4,虹之咲学园校园偶像俱乐部精选
+Auto_baed348504d9,-1000
+Auto_bc40521e5705,剧情标题
+Auto_bccc54ef43f6,获取心仪成员
+Auto_be3bffb9fcbf,等级99
+Auto_be60bc27fbf7,<size=50>10</size>次招募
+Auto_bef81964e6fa,达成试玩关卡1
+Auto_bf4c732a9812,选拔成员进行编队，可发挥活动积分加成效果！<br>Live结束后，可获取的活动积分将增加！
+Auto_bf91f3a572ba,※自动爆发会优先使用有效期较短的道具<br>※自动爆发只能用于已完成的歌曲<br>※不能同时使用Live爆发和自动爆发<br><color=#D73C55>即使没有可用的爆发道具，也可以进行游戏。但是奖励、经验值和活动点数将变为1倍</color><br>
+Auto_c1fa719d598a,确认是否使用精神力
+Auto_c3a4f560ab26,消息消息消息消息<br>消息消息消息消息
+Auto_c4a400246fd1,选择要关联的社交媒体账户。
+Auto_c4c9a1fdfc9e,输入要显示的内容<br>输入要显示的内容<br>
+Auto_c6d374d72d7f,带着微笑进行LIVE！(虹之咲学园校园偶像俱乐部Ver.)
+Auto_c6de9c87f72e,等级 9/9
+Auto_c76d98f6d9fb,「故事模式#」的<br>该「剧情片段……」已解锁！
+Auto_c892f3e56f53,购买高级礼包？
+Auto_c9fac4d62211,使用编队，将任意属性的数值总和提高到29000以上
+Auto_ca61133f09ff,今日歌曲游玩次数：1/5
+Auto_ca635e2d27c2,asdfasdfgasdgf
+Auto_ca7ddec2aa05,当前剩余的Live Burst低于设定值。是否要不进行Live Burst恢复，仅消耗 <br> 点可用的Live Burst来进行Live演出？<br> <br>
+Auto_cad73579d948,至2022/12/12 12:12
+Auto_caeac8b0e507,歌曲名称
+Auto_cb3ba916e5a5,乐队等级提升
+Auto_cc5e60312e77,通过以下任一设置，可在更换设备时转移数据。<br>也可作为应对因删除应用而导致的数据丢失的措施。
+Auto_cd292cafcb22,已获取卡牌 <br>※获得的成员将直接生效。
+Auto_cefaf311b26d,在多人游戏中，检测到您有妨碍其他玩家的行为<br>因此暂时限制了您的功能<br>请耐心等待解封。
+Auto_cff4d31a542a,本月剩余9999次
+Auto_d109f177e1ca,※奇迹之星获取奖励效果不叠加，仅应用偶像列表中最高的奖励。<br>※仅在设置了登录奖励的奇迹之星时才会增加。
+Auto_d13b8de51614,消耗所选道具，回复999点LP吗？
+Auto_d26e16005b9b,单位名67890123456
+Auto_d3956f3f07bd,中心技能是什么？<br><br>
+Auto_d49438232a89,优先攻击点数高的敌人
+Auto_d49d030a4c41,前往菜单获得奖励
+Auto_d514ddda1f2b,虹ヶ咲学園スクールアイドル同好会<br>
+Auto_d5e65e858e9f,JASRAC授权<br>第123456789ABCDEFG号
+Auto_d68606f69a20,总经验值：
+Auto_d7d50bd43ec5,123456 76gHH JGFDD
+Auto_d7d921bdbb52,区域名称
+Auto_d95c4718456b,在此处填写活动名称
+Auto_da4223df6db9,您已获取以下物品。<br>
+Auto_daf84f7c7d22,前半
+Auto_dc7f77b4ccfc,循环播放
+Auto_e0bf83c834c3,第<size=30>名</size>
+Auto_e11359efb14c,ROSIER
+Auto_e148ce3a95d1,消耗爆发设置
+Auto_e1c8e6e7609b,数据转移设置已完成。 <br> 请在目标设备上下载应用程序后，从标题画面的【菜单】>【数据转移】中输入 <br> 转移ID和密码 <br> 。<br>
+Auto_e1dfd8068c2c,暂停中
+Auto_e2c1a45b20e9,章节
+Auto_e2c3fd94c0d0,<size=100>南<size=80> <size=100>こ<size=80>和啊啊啊啊
+Auto_e2dd1dd4eff5,单格标题，最多24个字符。
+Auto_e41a824f0330,啊啊啊啊（最多两行，每行18个字符）
+Auto_e4fed19cc108,消耗1000宝石购买道具套装。<br>此商品仅可使用付费宝石购买。
+Auto_e681a79dd251,称号说明 <br> 称号说明 <br>
+Auto_e6a58fc3b7ed,步骤5
+Auto_e734b3d49dce,作词：山田高弘 <br> 作曲：山田高弘 <br> 编曲：山田高弘
+Auto_e760d2bb643b,清除缓存<br>确认？
+Auto_e8a8b7c6038e,需要购买 Loveca
+Auto_eb2d423b05fd,招募点数[]
+Auto_eca4f8397ade,等级<br>
+Auto_ed19e903d580,技能名称
+Auto_ee1a9acc0e95,没有可显示的使用记录。
+Auto_ee4c907f5db2,帧数
+Auto_eedc6a01343e,至2020年1月1日17点
+Auto_ef900ac4aaaa,艺术家名
+Auto_f082d04a8efb,维也纳·玛格丽特
+Auto_f08c587b54a5,文字文字文字文字文字文字文字文字文字文字文字文字文<br>文字文字文字文字文字文字文字文字文字文字文字文字文<br>文字文字文字文字文字文字文字文字文字文字文字文字文<br>文字文字文字文字文字文字文字文字文字文字文字文字文<br>文字文字文字文字文字文字文字文字文字文字文字文字文<br>文字文字文字文字文字文字文字文字文字文字文字文字文<br>文字文字文字文字文字文字文字文字文字文字文字文字文<br>文字文字文字文字文字文字文字文字文字文字文字文字文<br>
+Auto_f1399a500121,步骤3<br>
+Auto_f23c1a3a61ab,矢泽妮可（CV：德井青空），星空凛（CV：饭田里穗），小泉花阳（CV：久保尤莉卡）
+Auto_f265c8f36b84,<size=100>南<size=80> <size=100>小<size=80>鸟
+Auto_f65f17e85292,选项A
+Auto_f660160beb91,消息
+Auto_f66750e6a4d9,隐私政策<br>
+Auto_f6f99b4fccd5,标题
+Auto_fa4421e93912,让我的心意飞向你吧！
+Auto_fc02722f2e79,提升数值
+Auto_fe1465b2f630,清除缓存。
+Auto_ff511e92f6a2,标记速度 = 6
+Auto_3deeeac74475,新文本 新文本<br>新文本 新文本
+Auto_316076ac0fd6,小坂穗乃香
+Auto_e33d9b3310c8,爱好：
+Auto_c3328c39b0e2,文本
+Auto_b31a6165ed15,参与中
+Auto_e08da1d02602,选择状态
+Auto_e59d7bc19c8f,活动点数奖励仅适用于编队中效果最高的偶像。
+Auto_56284117f22b,成员<br>详情
+Auto_229ac5ad1902,ID：
+Auto_8f6f274bdbc6,よろしくお願いします文<br>字数は全角３０文字
+Auto_d1eb1a8c785c,上次登录：1小时前
+Auto_07ec0ce76690,仅显示<br>好友
+Auto_e6a697ba40c2,好友列表
+Auto_ec7ae06b0999,解除
+Auto_d7831e09e2fa,拒绝好友申请
+Auto_9aebaee878f6,当前 <size=32> 阶段 </size>
+Auto_ffdb97c8a723,酷炫女皇
+Auto_861285cde494,CoolP提升12%＋穗乃果、花阳的成员进一步获得Coo<br>lP提升9%。<br>
+Auto_43965186bda1,Cool属性提升12%，此外，如果队伍中有<br>穗乃香和花阳，则Cool属性再提升9%。<br><br>
+Auto_82002e2fa49d,Cool P提升12%，此外，如果成员中有<br>穗乃香和花阳，则Cool P还会额外提升<br>9%<br>。<br>
+Auto_8f430c44afa1,再来一次！
+Auto_8697160f7a00,使用星之助力时<br>HIGH SCORE将不会更新
+Auto_1b92a8c61f66,使用星之助力时<br>最高连击数将不会更新。
+Auto_119dada8743d,本次活动中，最高得分将不会更新。<br>
+Auto_23a202742edc,东京花园剧场
+Auto_71e7b499f129,设施等地标名称〇〇〇〇〇〇〇〇
+Auto_6ef2337620d1,高坂穗乃果
+Auto_bca3582437f0,获取情况
+Auto_5e09801739ed,没有目标卡牌。
+Auto_d0ce5c42a59a,角色名
+Auto_5d58d93e8bf4,剩余10天
+Auto_472aa5aec506,啊啊啊啊啊啊啊啊啊
+Auto_11fcfa6991cb,-啊啊啊啊啊啊啊啊
+Auto_7cf81d1c765b,成员确定
+Auto_e9f1544100ba,名字将在此处输入
+Auto_1af14d2a65f8,房间ID：
+Auto_6a26632920e1,总连击数
+Auto_3b73e212eeee,作曲：中村歩，菊池博人<br>编曲：中村步，菊池博人<br>演唱：高海千歌（CV.伊波杏树），小原鞠莉（CV.铃木爱奈），黑泽黛雅（CV.小宫有纱）<br>松浦果南（CV.诹访七香），津岛善子（CV.小林爱香）
+Auto_fe933ad251ac,点击输入名称
+Auto_4d395aee4ce0,剩余99天
+Auto_29f72241b091,根据数量，获取的奖励和活动积分会发生变化。
+Auto_2e4df52b54d0,消耗体力选择
+Auto_5521e368d87e,警告
+Auto_7e5716db83d2,检测到您正在进行可能对其他玩家造成干扰的行为。<br>本次 Live 的结果将被视为无效。<br><br>如果多次检测到此类行为，<br>我们将限制您的游戏时间。
+Auto_58b0ee43d2aa,再次以相同难度与之前的玩家一同进行 Live 吗？<br>
+Auto_40d132e9c3cd,离开私人房间吗？
+Auto_ef20caea634e,主机已断开连接。<br>将跳转至活动主页。
+Auto_425e7dea4998,参与人数不足。如果以当前人数进行 Live，可能会比 4 人时获得的活动积分 <br> 减少 <br>。是否要以当前人数开始 Live？<br><br><br>
+Auto_2dd929a3304a,今日可邀请的助力偶像次数已用完。<br>返回活动主页。
+Auto_daa15114aa23,未进行活动专用编队。<br>将移动到专用编队界面。
+Auto_377325e4d88d,由于连续检测到连接中断或作弊行为。<br>因此，我们将暂时限制您在本活动中的 Live 游戏。
+Auto_e958b7cc8644,正在搜索房间…
+Auto_77a19778ce42,最新消息
+Auto_d55be023c2b2,有
+Auto_f1671898c65b,星空凛
+Auto_31eecb3ddc6d,语言
+Auto_b0a4b7078dce,各种设置<br>
+SelectLanguage_ConfirmTitle,更改语言
+SelectLanguage_ConfirmMessage,更改语言后将重新启动应用，确认吗？
+Auto_343a26d4817b,推荐
+Auto_217643d3311e,批量编队
+Auto_5712f746e026,调整阵容
+Auto_c47bf7602f86,设为主要<br>配置
+Auto_17d151209dcb,使用
+Auto_eb321ace03b3,玩家名称
+Custom_Option_Live3d_Title,3D Live设置
+Custom_Option_Live3d_Info,设置3D Live的启用/禁用和品质模式。<br>更改将应用于下一个Live。
+Custom_Option_Live3d_Enable,启用3D Live
+Custom_Option_Live3d_Quality,质量设置
+Custom_Sifas_Live3d_Toggle,3D Live
+Custom_Sifas_3dMv_Cycle,切换
+Custom_Option_Keyboard_Title,键盘设置
+Custom_Option_Keyboard_Info,选择乐道并按下按键/按钮（按Esc取消）
+Custom_Option_Keyboard_Lane,轨道{0}
+Custom_Option_Keyboard_Listening,请按下通道{0}的按键……按Esc取消。
+Custom_Option_Keyboard_Waiting,等待输入
+Custom_Option_Keyboard_None,无
+Custom_Option_Keyboard_Back,返回/暂停
+Custom_Option_Keyboard_BackListening,请按下“返回/暂停”键。
+Custom_Option_Download_Title,下载设置
+Custom_Option_Download_Info,预先下载歌曲，以减少 Live 开始时的等待时间。
+Custom_Option_Download_Used,已用空间：{0}（可删除：{1}）
+Custom_Option_Download_UsedNone,已用容量：—
+Custom_Option_Download_Calculating,使用容量：计算中…
+Custom_Option_Download_Deleting,使用容量：删除中…
+Custom_Option_Download_AllSongs,下载所有歌曲
+Custom_Option_Download_AllMv,下载所有3D Live
+Custom_Option_Download_ClearCache,清除缓存
+Custom_Option_Visual_Title,画面设置
+Custom_Option_Visual_Info,选择画面质量预设，或单独调整各项设置。<br>更改将从下次Live开始生效。
+Custom_Option_Visual_Preset,预设
+Custom_Option_Visual_Custom,自定义
+Custom_Option_Visual_CustomInfo,正在使用自定义设置（下次Live生效）
+Custom_Option_Visual_GroupDisplay,显示
+Custom_Option_Visual_GroupLighting,光照
+Custom_Option_Visual_GroupStage,舞台
+Custom_Option_Visual_GroupEffect,特效
+Custom_Option_Visual_GroupPhysics,物理效果
+Custom_Option_Visual_Resolution,分辨率
+Custom_Option_Visual_Fps,帧率
+Custom_Option_Visual_Aa,抗锯齿
+Custom_Option_Visual_BaseLight,基础光照
+Custom_Option_Visual_Ambient,环境光照
+Custom_Option_Visual_RimLight,轮廓光
+Custom_Option_Visual_SpotLight,聚光灯
+Custom_Option_Visual_Emissive,发光效果
+Custom_Option_Visual_Display,舞台显示
+Custom_Option_Visual_StageFx,舞台效果
+Custom_Option_Visual_Audience,观众
+Custom_Option_Visual_Cubemap,反射
+Custom_Option_Visual_PostEffect,后期效果
+Custom_Option_Visual_SwingBone,摇摆幅度
+Custom_Option_Keyboard_TabTitle,键盘设置
+Custom_Option_Download_TabTitle,下载设置
+Custom_Option_Visual_TabTitle,画面设置
+Custom_Option_Download_StoryMovies,下载所有剧情视频
+Custom_Option_Download_CardArt,下载所有卡面图
+Custom_Sifas_MvDeck_Header,MV编队设置
+Custom_Sifas_MvDeck_Entry,服装设置
+Custom_Sifas_MvDeck_UseDefault,使用默认编队
+Custom_Sifas_MvDeck_UseDeck,使用编队
+Custom_Sifas_MvDeck_Reset,重置
+Custom_Sifas_MvDeck_Save,保存
+Custom_Sifas_MvDeck_PickMember,成员选择
+Custom_Sifas_MvDeck_PickSuit,选择服装
+Custom_Sifas_MvDeck_DefaultSuit,默认服装
+Custom_Sifas_MvDeck_RinaBoard,移除莉娜板
+Custom_Sifas_MvDeck_InFormation,编队中
+Custom_Sifas_MvDeck_PickGroup,组别选择
+Custom_Sifas_MvDeck_Back,返回
+Custom_Sifas_MvDeck_CustomGroup,自定义
+Custom_Sifas_MvDeck_Import,导入
+Custom_Sifas_MvDeck_DeleteMode,删除模式
+Custom_Sifas_MvDeck_DeleteModeExit,退出删除模式
+Custom_Sifas_MvDeck_DeletePrefix,删除：
+Custom_Sifas_MvDeck_ImportDone,导入完成
+Custom_Sifas_MvDeck_ImportFailed,导入失败
+Custom_Sifas_MvDeck_ImportDropHint,请将zip文件放入导入文件夹。
+Custom_Sifas_MvDeck_ImportBatch,从文件夹批量导入
+Custom_Sifas_MvDeck_ImportBatchResult,批量导入结果
+Custom_Sifas_MvDeck_ImportBatchKept,(删除原文件失败)
+Custom_Sifas_MvDeck_ImportUnsupported,此环境不支持文件选择。
+Custom_Sifas_MvDeck_ImportStageDonor,读取捐赠模型...
+Custom_Sifas_MvDeck_ImportStageConform,模型转换中…
+Custom_Sifas_MvDeck_ImportStageBake,纹理构建中…
+Custom_Sifas_MvDeck_ImportStageRegister,注册中…
+Custom_Sifas_MvDeck_ImportErrDonor,捐赠模型尚未下载（请先下载一次3D Live）。
+Custom_Sifas_MvDeck_ImportErrVerify,模型构建失败，请查看玩家日志。
+Custom_Option_Live_Sif1SwipeMode,SIF1滑动模式
+Custom_CardDetail_FriendshipPlaceholder,友好度？？？未实现
+Custom_CardDetail_EvolveTentative,（暂定）觉醒：{0}
+Custom_CardDetail_TitlePlaceholder,称号！未实现
+Custom_CardDetail_SchoolYear,{0}年级
+Custom_PurchaseAlert_UnitTenThousand,万
+Custom_PurchaseAlert_UnitThousand,千
+Custom_PurchaseAlert_LimitMessage,本月消费已超过{0}日元，是否继续购买？
+Custom_SerialCode_Copied,已复制序列码。
+Custom_SystemDialog_ErrorTitle,错误
+Custom_SystemDialog_ErrorMessage,发生错误。
+Custom_ServerConfig_Title,服务器设置
+Custom_ServerConfig_ApiUrl,API服务器地址
+Custom_ServerConfig_CdnUrl,资源 CDN 服务器 URL
+Custom_ServerConfig_ResetToDefault,恢复默认设置
+Custom_ServerConfig_Save,保存
+Custom_ServerConfig_UsingCustom,使用自定义设置
+Custom_ServerConfig_Saved,已保存。返回标题界面后生效。
+Custom_ServerConfig_ConfirmChangeTitle,确认服务器更改
+Custom_ServerConfig_ConfirmChangeMessage,更改连接服务器后，此设备上保存的当前服务器的所有账户数据（存档数据、身份验证信息）将被删除。<br>已下载的资源不会被删除。<br><br>可以吗？
+Custom_ServerConfig_ConfirmResetMessage,重置为初始设置会更改连接服务器，因此将删除此设备上保存的当前服务器的所有帐户数据（存档数据和身份验证信息）。<br>已下载的资源不会被删除。<br><br>您确定吗？
+Custom_ServerConfig_SaveCancelled,已取消保存。
+Custom_ServerConfig_ClearingAccount,正在删除账号数据…
+Custom_ServerConfig_ChangedTitle,已更改服务器。
+Custom_ServerConfig_ChangedRestartMessage,已保存设置并删除了账户数据。<br>请重启应用。
+Custom_ServerConfig_ResetDone,已恢复初始设置。
+Custom_ServerConfig_ResetCancelled,已取消更改为初始设置的操作。
+Custom_ServerConfig_Placeholder,(未设置)
+Custom_Gacha_BonusSuffix,附赠特典！
+Custom_Common_ErrorCode,错误代码：{0}
+Custom_Common_None,无
+Custom_Exchange_TypeNone,不指定
+Custom_Exchange_TypePhotoSticker,照片贴纸
+Custom_Exchange_TypePick,选择
+Custom_Exchange_TypeTicket,票
+Custom_Notification_ChannelDescription,通知
+Custom_Login_TransferTitle,设备转移
+Custom_Login_TransferConfirmMessage,检测到您已更换设备，是否要在此设备上继续进行账号转移？
+Custom_Login_TransferFailedMessage,请使用转移代码。
+Custom_Reward_StaminaName,体力奖励名称
+Custom_Adventure_TabMain,主页
+Custom_Adventure_TabSub,子项
+Custom_Adventure_TabEvent,活动
+Custom_Adventure_TabTutorial,教程
+Custom_PassContents_FreeGems,免费宝石
+Custom_Sifas_MvDeck_ImportBatchHeader,成功 {0} / {1}
+Custom_SpineViewer_Empty,空白
+Arcade_Input_Info,Select a row then press a key or button (Esc to cancel)
+Arcade_Input_ListeningKey,{0} - press a key… (Esc to cancel)
+Arcade_Input_ListeningPad,{0} - press a gamepad button… (Esc to cancel)
+Arcade_Input_ListeningNoEscape,{0} - press a key
+Arcade_Input_SlotKeyboard,Keyboard
+Arcade_Input_SlotGamepad,Gamepad
+Arcade_Input_Decision,Decision
+Arcade_Input_Cancel,Cancel / Back / Pause
+Arcade_Input_Select,Select
+Arcade_Input_Test,Test
+Arcade_Input_Service,Service
+Arcade_Input_Coin,Coin
+Arcade_Hud_Credit,CREDIT {0}
+Arcade_Hud_FreePlay,FREE PLAY
+Arcade_Monitor_TestMode,TEST MODE
+Arcade_Monitor_TestPattern,TEST PATTERN
+Arcade_Title_MenuEntry,Arcade Mode
+Arcade_Enter_NameTitle,Machine Name
+Arcade_Enter_NameMessage,Enter a name for this cabinet.
+Arcade_Enter_NameNote,It is shown in the server's machine list.
+Arcade_Enter_NamePlaceholder,Machine name
+Arcade_Enter_DefaultName,Arcade Cabinet
+Arcade_Enter_ErrorDisabled,This server does not support arcade mode.
+Arcade_Enter_ErrorRegister,Failed to register this arcade cabinet.
+Arcade_TestMode_Title,TEST MODE
+Arcade_TestMode_Back,Back
+Arcade_TestMode_TabSystem,System
+Arcade_TestMode_TabCredits,Credits
+Arcade_TestMode_TabInput,Input
+Arcade_TestMode_TabMonitor,Monitor
+Arcade_TestMode_SystemHeader,System Information
+Arcade_TestMode_ClientVersion,Client Version
+Arcade_TestMode_AssetVersion,Asset Version
+Arcade_TestMode_MachineName,Machine Name
+Arcade_TestMode_MachineId,Machine ID
+Arcade_TestMode_ServerIdentifier,Server
+Arcade_TestMode_RegisteredAt,Registered
+Arcade_TestMode_Credits,Credits
+Arcade_TestMode_ServiceCredits,Service Credits
+Arcade_TestMode_ServerSettings,Server Settings
+Arcade_TestMode_BookkeepingHeader,Bookkeeping
+Arcade_TestMode_TotalCoins,Total Coins
+Arcade_TestMode_TotalService,Service Credits Given
+Arcade_TestMode_Plays,Plays
+Arcade_TestMode_Songs,Songs Played
+Arcade_TestMode_Aborts,Aborts
+Arcade_TestMode_SinceReset,Counting Since
+Arcade_TestMode_LastReset,Last Reset
+Arcade_TestMode_ResetBookkeeping,Reset Bookkeeping
+Arcade_TestMode_ExitArcade,Exit Arcade Mode
+Arcade_TestMode_CreditsHeader,Credit Settings
+Arcade_TestMode_FreePlay,Free Play
+Arcade_TestMode_CoinsPerCredit,Coins per Credit
+Arcade_TestMode_CreditsPerPlay,Credits per Play
+Arcade_TestMode_SongsPerCredit,Songs per Credit
+Arcade_TestMode_ShowCreditHud,Show Credit Counter
+Arcade_TestMode_InputHeader,Input Settings
+Arcade_TestMode_InputConfig,Button Assignment
+Arcade_TestMode_InputTestLanes,Rhythm Buttons
+Arcade_TestMode_InputTestActions,Control Buttons
+Arcade_TestMode_ActionDecision,DEC
+Arcade_TestMode_ActionCancel,CAN
+Arcade_TestMode_ActionSelect,SEL
+Arcade_TestMode_ActionTest,TST
+Arcade_TestMode_ActionService,SVC
+Arcade_TestMode_ActionCoin,COIN
+Arcade_TestMode_MonitorHeader,Monitor Settings
+Arcade_TestMode_SubMonitorEnabled,Use Second Monitor
+Arcade_TestMode_DisplayIndex,Display Index
+Arcade_TestMode_DisplayIndexNote,Display index changes take effect after a restart.
+Arcade_TestMode_TestPattern,Show Test Pattern
+Arcade_TestMode_NoSecondDisplay,No second display detected
+Arcade_TestMode_SecondDisplayReady,Second display active
+Arcade_Session_GetReady,GET READY
+Arcade_Session_Songs,This credit plays {0} songs
+Arcade_Session_Connecting,Connecting...
+Arcade_Session_ErrorDisabled,The server could not start a session.
+Arcade_Session_NotCleared,NO CLEAR
+Arcade_Session_Thanks,THANK YOU FOR PLAYING
+Arcade_Session_SeeYouAgain,See you again
+Arcade_Confirm_TimerRemaining,Remaining
+Arcade_Confirm_TimerSuffix,sec
+Arcade_Monitor_GetReady,GET READY
+Arcade_Monitor_SongCount,SONG {0}/{1}
+Arcade_Monitor_Level,Lv.{0}
+Arcade_Monitor_Result,RESULT
+Arcade_Select_SongLabel,SONG
+Arcade_Select_Locked,This song is not unlocked yet.
+Arcade_Select_LevelCapped,This machine only goes up to {0}.
+Arcade_Attract_InsertCoin,INSERT COIN
+Arcade_Attract_PressStart,PRESS DECISION
+Arcade_TestMode_TabGame,Game
+Arcade_TestMode_TabSound,Sound
+Arcade_TestMode_TabContent,Content
+Arcade_TestMode_TabBookkeeping,Bookkeeping
+Arcade_TestMode_SessionState,Session State
+Arcade_TestMode_SessionIdle,Idle
+Arcade_TestMode_InputLocks,Input Locks
+Arcade_TestMode_EditMachineName,Change Machine Name
+Arcade_TestMode_GameHeader,Game Settings
+Arcade_TestMode_DifficultyCap,Difficulty Cap
+Arcade_TestMode_SelectTimeout,Song Select Timeout (sec)
+Arcade_TestMode_DeckTimeout,Deck Confirm Timeout (sec)
+Arcade_TestMode_ResultTimeout,Result Auto-Advance (sec)
+Arcade_TestMode_ClosingTimeout,Closing Screen Time (sec)
+Arcade_TestMode_DialogTimeout,Idle Dialog Limit (sec)
+Arcade_TestMode_AttractHeader,Attract Settings
+Arcade_TestMode_TitleCardSeconds,Title Card Time (sec)
+Arcade_TestMode_DemoSelectSeconds,Demo Song Select Time (sec)
+Arcade_TestMode_DemoClipSeconds,Demo Live Length (sec)
+Arcade_TestMode_DemoSongsHeader,Demo Songs
+Arcade_TestMode_SoundHeader,Sound Settings
+Arcade_TestMode_BgmVolume,BGM Volume
+Arcade_TestMode_SeVolume,SE Volume
+Arcade_TestMode_VoiceVolume,Voice Volume
+Arcade_TestMode_AttractVolume,Attract Volume (%)
+Arcade_TestMode_AttractVolumeNote,Scales the BGM down to this percentage while attract runs. Applies from the next attract loop.
+Arcade_TestMode_SeTest,SE Test
+Arcade_TestMode_ContentHeader,Content
+Arcade_TestMode_PrefetchState,Background Prefetch
+Arcade_TestMode_PrefetchRunning,RUNNING   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchIdle,IDLE   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchNote,New assets are fetched in the background every session.
+Arcade_TestMode_DownloadAll,Download Everything Now
+Arcade_TestMode_DownloadAllNote,Downloads every category. The cabinet returns to the attract screen when it finishes.
+Arcade_TestMode_ClearCache,Clear Cache
+Arcade_TestMode_ClearCacheNote,Deletes the downloaded files and then reboots the cabinet automatically.
+Arcade_TestMode_PlayHourHeader,By Hour
+Arcade_TestMode_HourLabel,{0}:00
+Arcade_TestMode_PlayWeekDayHeader,By Weekday
+Arcade_TestMode_WeekDay0,Sunday
+Arcade_TestMode_WeekDay1,Monday
+Arcade_TestMode_WeekDay2,Tuesday
+Arcade_TestMode_WeekDay3,Wednesday
+Arcade_TestMode_WeekDay4,Thursday
+Arcade_TestMode_WeekDay5,Friday
+Arcade_TestMode_WeekDay6,Saturday
+Arcade_Input_SlotHeaderIo,CABINET
+Arcade_Input_IoNote,Cabinet I/O board buttons. ENTER is the service-panel decide button.
+Arcade_Input_ListeningIo,{0} - press a cabinet button… (Esc to cancel)
+Arcade_Card_ButtonNewPlayer,NEW PLAYER
+Arcade_Card_ButtonTakeOver,TRANSFER DATA
+Arcade_TestMode_TabLed,LED
+Arcade_TestMode_BoardHeader,I/O Board
+Arcade_TestMode_BoardLink,Link
+Arcade_TestMode_BoardLinkIdle,not present
+Arcade_TestMode_BoardLinkOpening,opening
+Arcade_TestMode_BoardLinkRunning,running
+Arcade_TestMode_BoardLinkDeviceLost,device lost
+Arcade_TestMode_BoardLinkVersionRefused,version refused
+Arcade_TestMode_BoardReconnects,reconnects {0}
+Arcade_TestMode_BoardId,Device
+Arcade_TestMode_BoardRaw,Input Bytes
+Arcade_TestMode_BoardDoors,Door switches and the service-panel ENTER button. A lit door indicator means OPEN.
+Arcade_TestMode_BoardCoin,Coin Counter
+Arcade_TestMode_BoardCoinValues,count {0}   request {1}   ack {2}
+Arcade_TestMode_BoardCoinFault,FAULT
+Arcade_TestMode_BoardReader,Card Reader Lit
+Arcade_TestMode_BoardScan,Card Scan
+Arcade_TestMode_BoardCard,Card Status
+Arcade_TestMode_BoardCardId,Card ID
+Arcade_TestMode_BoardCardUid,Card UID
+Arcade_TestMode_CardStateNone,no card
+Arcade_TestMode_CardStateWaiting,waiting for card
+Arcade_TestMode_CardStateDetecting,detecting
+Arcade_TestMode_CardStateOk,read OK
+Arcade_TestMode_CardStateWrongType,unsupported card type
+Arcade_TestMode_CardStateAbsent,card absent or aborted
+Arcade_TestMode_CardStateReaderError,reader error
+Arcade_TestMode_CardScanTest,Card Scan Test
+Arcade_TestMode_CardReaderTest,Card Reader Lamp Test
+Arcade_TestMode_StateOn,ON
+Arcade_TestMode_StateOff,OFF
+Arcade_TestMode_EmulatorPath,Emulator DLL
+Arcade_TestMode_EmulatorPathNone,(not set)
+Arcade_TestMode_EmulatorPathEdit,Set Emulator DLL Path
+Arcade_TestMode_EmulatorPathNote,Loads a winusb.dll shim instead of a board for bench testing. Blank clears it. Applied when Test Mode is closed.
+Arcade_TestMode_LedHeader,LED Test
+Arcade_TestMode_LedAll,All Outputs On
+Arcade_TestMode_LedRed,Pillars Red
+Arcade_TestMode_LedGreen,Pillars Green
+Arcade_TestMode_LedBlue,Pillars Blue
+Arcade_TestMode_LedPillar0,Pillar 1 White
+Arcade_TestMode_LedPillar1,Pillar 2 White
+Arcade_TestMode_LedPillar2,Pillar 3 White
+Arcade_TestMode_LedLamps,All Button Lamps
+Arcade_TestMode_LedLamp,Lamp
+Arcade_TestMode_LedLampConfirm,CONFIRM
+Arcade_TestMode_LedBrightness,Lamp Brightness
+Arcade_TestMode_LedBrightnessOff,OFF
+Arcade_TestMode_LedBrightnessDim,0x20
+Arcade_TestMode_LedBrightnessFull,0xFF
+Arcade_TestMode_LedPillarColor,Pillar Colour
+Arcade_TestMode_LedCoinCoil,Coin Accept Coil
+Arcade_TestMode_LedOut,Output Bytes
+Arcade_TestMode_LedDescAll,Lights every pillar and every button lamp at full.
+Arcade_TestMode_LedDescRed,Sets all three pillars to red.
+Arcade_TestMode_LedDescGreen,Sets all three pillars to green.
+Arcade_TestMode_LedDescBlue,Sets all three pillars to blue.
+Arcade_TestMode_LedDescPillar0,Lights pillar 1 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar1,Lights pillar 2 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar2,Lights pillar 3 white. The three pillar rows combine.
+Arcade_TestMode_LedDescLamps,Lights the nine button lamps and the confirm lamp at full.
+Arcade_TestMode_LedDescLamp,Picks the lamp the brightness row forces. 10 is the confirm lamp.
+Arcade_TestMode_LedDescBrightness,Forces the selected lamp to one of the board's three brightnesses. OFF leaves it to the rows above.
+Arcade_TestMode_LedDescPillarColor,The machine's own pillar colour. Used on the entrance and through a credit.
+Arcade_TestMode_LedDescCoinCoil,Forces the coin-accept coil while this page is open.
+Arcade_TestMode_MaxCredits,Credit Limit
+Arcade_TestMode_DemoBandsNote,The attract demo draws from the groups switched on.
+Arcade_TestMode_DemoIncludeCustomSongs,Include Custom Songs
+Arcade_Attract_NesicaUnavailable,NESiCA cannot be used right now
+Arcade_Attract_NesicaTap,Tap your NESiCA card
+Arcade_TestMode_DoorLeft,DR1
+Arcade_TestMode_DoorRight,DR2
+Arcade_TestMode_Enter,ENT
+Arcade_TestMode_WinUsbModule,Loaded winusb.dll
+Arcade_TestMode_WinUsbModuleNone,(not loaded yet)
+Arcade_TestMode_WinUsbOpenerFound,UsbioEmu_OpenBoard found
+Arcade_TestMode_WinUsbOpenerMissing,no UsbioEmu_OpenBoard export
+Arcade_TestMode_ShowAttractBanner,Show NESiCA Banner
+Arcade_TestMode_DemoRequire3dLive,Demo Lands on 3D Lives Only
+Arcade_TestMode_DemoRequire3dLiveNote,Switch on to have the demo song select stop only on songs with a 3D live.
+Arcade_Input_Reset,Reset (hold 1 s)
+Arcade_Input_ResetChord,TEST+SERVICE
+Arcade_TestMode_AccountHeader,Account Lock
+Arcade_TestMode_LockedAccount,Locked Account
+Arcade_TestMode_NotLocked,Not locked
+Arcade_TestMode_LockPending,Pending first credit
+Arcade_TestMode_LockedAccountFormat,{0}  (card ...{1})
+Arcade_TestMode_LockAccount,Lock to Account...
+Arcade_TestMode_UnlockAccount,Unlock Account
+Arcade_Session_ErrorOwnerGone,The account this device was locked to no longer exists.<br>The account lock has been removed.
+Arcade_TestMode_DemoWashPercent,Demo Live Wash (%)

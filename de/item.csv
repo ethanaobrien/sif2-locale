@@ -1,0 +1,405 @@
+﻿_key,_text
+mst.item.15010001._name,Einzel-Rekrutierungs-Ticket
+mst.item.15010001._effectDetail,Ein Ticket für eine Rekrutierung.<br>Ermöglicht eine Rekrutierung wie bei einem Einzel-Ticket.
+mst.item.15010002._name,10x Rekrutierungs-Ticket
+mst.item.15010002._effectDetail,Ticket zum Rekrutieren<br>ermöglicht die gleiche Aktion wie 10-fache Rekrutierung.
+mst.item.15010003._name,Zeitlich begrenztes 10er-Rekrutierungs-Ticket
+mst.item.15010003._effectDetail,"Ticket, mit dem du rekrutieren kannst (mit Verfallsdatum)<br>Ermöglicht die gleiche Funktion wie eine 10-fache Rekrutierung."
+mst.item.15010004._name,10x Rekrutierungs-Ticket (Scufes-Datenverknüpfungsbonus)
+mst.item.15010004._effectDetail,Ticket zum Rekrutieren<br>Ermöglicht bei einigen Rekrutierungen die gleiche Funktion wie eine 10-fache Rekrutierung.
+mst.item.15010005._name,10x Rekrutierungs-Ticket (ScuFes-Datenverknüpfungsbonus)
+mst.item.15010005._effectDetail,Ticket zum Rekrutieren<br>Ermöglicht bei einigen Rekrutierungen die gleiche Funktion wie eine 10-fache Rekrutierung.
+mst.item.15010006._name,"1x Normal-Rekrutierungs-Ticket (bis 15.07.2023, 11:59 Uhr)"
+mst.item.15010006._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010007._name,"10x Normal-Rekrutierungs-Ticket (bis 15.07.2023, 11:59 Uhr)"
+mst.item.15010007._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010008._name,"1x Normal-Rekrutierungs-Ticket (bis 31.07.2023, 11:59 Uhr)"
+mst.item.15010008._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010009._name,"10x Rekrutierungs-Ticket (bis 31.07.2023, 11:59 Uhr)"
+mst.item.15010009._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010010._name,"1x Normal-Rekrutierungs-Ticket (bis 15.08.2023, 11:59 Uhr)"
+mst.item.15010010._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010011._name,"10x Rekrutierungs-Ticket (bis 15.08.2023, 11:59 Uhr)"
+mst.item.15010011._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010012._name,"1x Normal-Rekrutierungs-Ticket (bis 31.08.2023, 11:59 Uhr)"
+mst.item.15010012._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010013._name,10x Rekrutierungs-Ticket (bis 31.08.2023 11:59)
+mst.item.15010013._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010014._name,"1x Normal-Rekrutierungs-Ticket (bis 15.09.2023, 11:59 Uhr)"
+mst.item.15010014._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010015._name,"10x Rekrutierungs-Ticket (bis 15.09.2023, 11:59 Uhr)"
+mst.item.15010015._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010016._name,"1x Normal-Rekrutierungs-Ticket (bis 30.09.2023, 11:59 Uhr)"
+mst.item.15010016._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010017._name,10x Rekrutierungs-Ticket (bis 30.09.2023 11:59)
+mst.item.15010017._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010018._name,"1x Normal-Rekrutierungs-Ticket (bis 15.10.2023, 11:59 Uhr)"
+mst.item.15010018._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010019._name,"10x Rekrutierungs-Ticket (bis 15.10.2023, 11:59 Uhr)"
+mst.item.15010019._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010020._name,"1x Normal-Rekrutierungs-Ticket (bis 31.10.2023, 11:59 Uhr)"
+mst.item.15010020._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010021._name,"10x Normal-Rekrutierungs-Ticket (bis 31.10.2023, 11:59 Uhr)"
+mst.item.15010021._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010022._name,"1x Normal-Rekrutierungs-Ticket (bis 15.11.2023, 11:59 Uhr)"
+mst.item.15010022._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010023._name,"1x Normal-Rekrutierungs-Ticket (bis 15.11.2023, 11:59 Uhr)"
+mst.item.15010023._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010024._name,"10x Rekrutierungs-Ticket (bis 15.11.2023, 11:59 Uhr)"
+mst.item.15010024._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010025._name,"1x Normal-Rekrutierungs-Ticket (bis 30.11.2023, 11:59 Uhr)"
+mst.item.15010025._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010026._name,"10x Rekrutierungs-Ticket (bis 30.11.2023, 11:59 Uhr)"
+mst.item.15010026._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010027._name,"1x Normal-Rekrutierungs-Ticket (bis 15.11.2023, 11:59 Uhr)"
+mst.item.15010027._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010028._name,"1x Normal-Rekrutierungs-Ticket (bis 15.12.2023, 11:59 Uhr)"
+mst.item.15010028._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010029._name,"10x Normal-Rekrutierungs-Ticket (bis 15.12.2023, 11:59 Uhr)"
+mst.item.15010029._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010030._name,"1x Normal-Rekrutierungs-Ticket (bis 31.12.2023, 11:59 Uhr)"
+mst.item.15010030._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010031._name,"10x Rekrutierungs-Ticket (bis 31.12.2023, 11:59 Uhr)"
+mst.item.15010031._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010032._name,"1x Normal-Rekrutierungs-Ticket (bis 31.12.2023, 11:59 Uhr)"
+mst.item.15010032._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010033._name,"10x Rekrutierungs-Ticket (bis 31.12.2023, 11:59 Uhr)"
+mst.item.15010033._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010034._name,"1x Normal-Rekrutierungs-Ticket (bis 15.01.2024, 11:59 Uhr)"
+mst.item.15010034._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010035._name,"10x Normal-Rekrutierungs-Ticket (bis 15.01.2024, 11:59 Uhr)"
+mst.item.15010035._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010036._name,"1x Normal-Rekrutierungs-Ticket (bis 31.01.2024, 11:59 Uhr)"
+mst.item.15010036._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010037._name,"10x Rekrutierungs-Ticket (bis 31.01.2024, 11:59 Uhr)"
+mst.item.15010037._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010038._name,"1x Normal-Rekrutierungs-Ticket (bis 14.02.2024, 11:59 Uhr)"
+mst.item.15010038._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010039._name,"10x Normal-Rekrutierungs-Ticket (bis 14.02.2024, 11:59 Uhr)"
+mst.item.15010039._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15010040._name,"1x Normal-Rekrutierungs-Ticket (bis 31.03.2024, 11:59 Uhr)"
+mst.item.15010040._effectDetail,"Ticket zum Rekrutieren<br>Ermöglicht eine einmalige Rekrutierung, wie bei einer normalen Rekrutierung."
+mst.item.15010041._name,"10x Normal-Rekrutierungs-Ticket (bis 31.03.2024, 11:59 Uhr)"
+mst.item.15010041._effectDetail,"Ticket, mit dem du rekrutieren kannst.<br>Ermöglicht eine Rekrutierung wie bei einer normalen Rekrutierung (10-fach)."
+mst.item.15020001._name,10x Rekrutierungs-Ticket (Super Festival 2 Dankbarkeits-Rekrutierung)
+mst.item.15020001._effectDetail,Ticket für die „Super Festival 2 – Dankbarkeits-Rekrutierung“.<br>Ermöglicht eine einmalige Rekrutierung.
+mst.item.15500001._name,Rekrutierungspunkte [Jubiläumsaktion]
+mst.item.15500001._effectDetail,"Punkte, die bei „Release-Gedenk-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15500002._name,Rekrutierungspunkte [After-School Harajuku Liella!♡]
+mst.item.15500002._effectDetail,"Punkte, die bei „Pickup-Rekrutierung – After School Harajuku Liella!♡“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> Werden nach Ablauf der Frist in ein Skillbuch (M) umgewandelt."
+mst.item.15510004._name,Rekrutierungspunkte [Normal]
+mst.item.15510004._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 15. Mai."
+mst.item.15510005._name,Rekrutierungspunkte [Normal]
+mst.item.15510005._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 31. Mai."
+mst.item.15510006._name,Rekrutierungspunkte [Normal]
+mst.item.15510006._effectDetail,"Punkte, die durch „Normales Rekrutieren“ erhalten werden können <br>Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden <br>*Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt <br>*Die Austauschfrist für diese Punkte endet am 19. Juni."
+mst.item.15510007._name,Rekrutierungspunkte [Normal]
+mst.item.15510007._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 30. Juni."
+mst.item.15510008._name,Rekrutierungspunkte [Normal]
+mst.item.15510008._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 15. Juli."
+mst.item.15510009._name,Rekrutierungspunkte [Normal]
+mst.item.15510009._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 31. Juli."
+mst.item.15510010._name,Rekrutierungspunkte [Normal]
+mst.item.15510010._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 15. August."
+mst.item.15510011._name,Rekrutierungspunkte [Normal]
+mst.item.15510011._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 31. August."
+mst.item.15510012._name,Rekrutierungspunkte [Normal]
+mst.item.15510012._effectDetail,"Punkte, die durch „Normales Rekrutieren“ erhalten werden können <br>Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden <br>*Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt <br>*Die Austauschfrist für diese Punkte endet am 15. September."
+mst.item.15510013._name,Rekrutierungspunkte [Normal]
+mst.item.15510013._effectDetail,"Punkte, die durch „Normales Rekrutieren“ erhalten werden können <br>Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden <br>*Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt <br>*Die Austauschfrist für diese Punkte endet am 30. September."
+mst.item.15510014._name,Rekrutierungspunkte [Normal]
+mst.item.15510014._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 15. Oktober."
+mst.item.15510015._name,Rekrutierungspunkte [Normal]
+mst.item.15510015._effectDetail,"Punkte, die durch „Normales Rekrutieren“ erhalten werden können <br>Sie können gegen verschiedene Idols und Items eingetauscht werden <br>*Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt <br>*Die Austauschfrist für diese Punkte endet am 31. Oktober."
+mst.item.15510016._name,Rekrutierungspunkte [Normal]
+mst.item.15510016._effectDetail,"Punkte, die durch „Normales Rekrutieren“ erhalten werden können <br>Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden <br>*Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt <br>*Die Austauschfrist für diese Punkte endet am 15. November."
+mst.item.15510017._name,Rekrutierungspunkte [Normal]
+mst.item.15510017._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 30. November."
+mst.item.15510018._name,Rekrutierungspunkte [Normal]
+mst.item.15510018._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 15. Dezember."
+mst.item.15510019._name,Rekrutierungspunkte [Normal]
+mst.item.15510019._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 31. Dezember."
+mst.item.15510020._name,Rekrutierungspunkte [Normal]
+mst.item.15510020._effectDetail,"Punkte, die durch „Normales Rekrutieren“ erhalten werden können <br>Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden <br>*Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt <br>*Die Austauschfrist für diese Punkte endet am 15. Januar."
+mst.item.15510021._name,Rekrutierungspunkte [Normal]
+mst.item.15510021._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 31. Januar."
+mst.item.15510022._name,Rekrutierungspunkte [Normal]
+mst.item.15510022._effectDetail,"Punkte, die durch „Normales Rekrutieren“ erhalten werden können <br>Sie können gegen verschiedene Idols und Items eingetauscht werden <br>*Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt <br>*Die Austauschfrist für diese Punkte endet am 14. Februar."
+mst.item.15510023._name,Rekrutierungspunkte [Normal]
+mst.item.15510023._effectDetail,"Punkte, die durch „Normales Rekrutieren“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 1. März."
+mst.item.15510024._name,Rekrutierungspunkte [Normal]
+mst.item.15510024._effectDetail,"Punkte, die bei einer „normalen Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist werden sie in ein Skillbuch (M) umgewandelt. <br> ※Die Austauschfrist für diese Punkte endet am 31. März."
+mst.item.15520001._name,Rekrutierungspunkte [Wir und diese Stadt]
+mst.item.15520001._effectDetail,"Punkte, die bei „Pick-up-Rekrutierung – Wir und diese Stadt“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520002._name,Rekrutierungspunkte [Wir machen die Einkaufsstraße bekannt!]
+mst.item.15520002._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Lasst uns das Einkaufszentrum bewerben!“ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520003._name,Rekrutierungspunkte [Live in Nature]
+mst.item.15520003._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Live in Nature“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520004._name,Rekrutierungspunkte [Funkelnde Tänzerin]
+mst.item.15520004._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Strahlende Tänzerin“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520005._name,Rekrutierungspunkte [Sonnenverwöhntes Sommercamp]
+mst.item.15520005._effectDetail,"Punkte, die bei „Sonder-Rekrutierung – Sommercamp im Sonnenschein“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520006._name,Rekrutierungspunkte [Sommerliche Meerjungfrau]
+mst.item.15520006._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Sommerliche Meerjungfrau“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520007._name,Rekrutierungspunkte [Sommer am Strand]
+mst.item.15520007._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Sandstrand im Sommer“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520008._name,Rekrutierungspunkte [Sommernacht blühende Blumen]
+mst.item.15520008._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Sommerblüten in der Nacht“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520009._name,Rekrutierungspunkte [Blühende Tailflowers im Mondlicht]
+mst.item.15520009._effectDetail,"Punkte, die bei „Pick-up-Rekrutierung – Mondscheinblühende Ohtana“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520010._name,Rekrutierungspunkte [Sommerlicher Stadtbummel]
+mst.item.15520010._effectDetail,"Punkte, die bei „Spezial-Rekrutierung ~Sommerlicher Stadtbummel im Yukata~“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520011._name,Rekrutierungspunkte [Trick or Treat!]
+mst.item.15520011._effectDetail,"Punkte, die bei „Spezial-Rekrutierung ~Trick or Treat!~“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520012._name,Rekrutierungspunkte [Hidamari Marching Band]
+mst.item.15520012._effectDetail,"Punkte, die bei „Sonder-Rekrutierung – Hida Mari Marching Band“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520013._name,Rekrutierungspunkte [Nyan Nyan 🐾 Maid-san]
+mst.item.15520013._effectDetail,"Punkte, die bei „Sonder-Rekrutierung ~Nyan Nyan🐾 Maid~“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520014._name,Rekrutierungspunkte [Gemeinsames Frohes Weihnachtsfest!]
+mst.item.15520014._effectDetail,"Punkte, die bei „Sonder-Rekrutierung ~Fröhliches Weihnachten mit allen!~“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520015._name,Rekrutierungspunkte [Schneefest-Weihnachtsmann]
+mst.item.15520015._effectDetail,"Punkte, die durch „Spezial-Rekrutierung – Schneefestlicher Weihnachtsmann“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520016._name,Rekrutierungspunkte [Frohes Neues Jahr für alle]
+mst.item.15520016._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Frohes neues Jahr für alle“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520017._name,Rekrutierungspunkte [Eisfee]
+mst.item.15520017._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Eisige Fee“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520018._name,Rekrutierungspunkte [Verliebte Jungfrau]
+mst.item.15520018._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Verliebte Jungfrauen“ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520019._name,Rekrutierungspunkte [Nacht der hundert Geister]
+mst.item.15520019._effectDetail,"Punkte, die bei „Spezial-Rekrutierung – Nacht der hundert Geister“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15520020._name,Rekrutierungspunkte [Y2K♡GALS]
+mst.item.15520020._effectDetail,"Punkte, die bei „Pick-up-Rekrutierung ~Y2K♡GALS~“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530001._name,Rekrutierungspunkte [Kanon-Geburtstagsfeier]
+mst.item.15530001._effectDetail,"Punkte, die bei „Kanon-chan Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530002._name,Rekrutierungspunkte [Ais Geburtstagsfeier]
+mst.item.15530002._effectDetail,"Punkte, die durch „Rekrutierung zum Geburtstag von Ai“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530003._name,Rekrutierungspunkte [Chi-chan Geburtstagsfeier]
+mst.item.15530003._effectDetail,„Rekrutieren zum Kikis Geburtstag“ Punkte zum Erhalten<br>können mit verschiedenen Idols und Items getauscht werden<br>※Nach Ablauf der Frist werden sie in Skillbücher (Mittel) umgewandelt
+mst.item.15530004._name,Rekrutierungspunkte [Marli-Geburtstagsfeier]
+mst.item.15530004._effectDetail,Punkte zum Erhalten beim Mari-Geburtstag-Rekrutieren<br>Können mit verschiedenen Idols und Items getauscht werden<br>*Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt.
+mst.item.15530005._name,Rekrutierungspunkte [Shikis Geburtstagsfeier]
+mst.item.15530005._effectDetail,"Punkte, die bei der „Shiki-Geburtstagsjubiläum-Rekrutieren“ erhalten werden können<br>Mit verschiedenen Idol- und Gegenständen austauschbar<br>※Nach Fristablauf werden sie in Skillbuch (Mittel) umgewandelt."
+mst.item.15530006._name,Rekrutierungspunkte [Kaorin-Geburtstagsfeier]
+mst.item.15530006._effectDetail,"Punkte, die durch das „Geburtstags-Event für Karin“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530007._name,Rekrutierungspunkte [Zenko-chan Geburtstagsfeier]
+mst.item.15530007._effectDetail,"Punkte, die bei der „Geburtstags-Rekrutierung für Senko“ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530008._name,Rekrutierungspunkte [Koko-chan Geburtstagsfeier]
+mst.item.15530008._effectDetail,"Punkte, die du beim „Koko-Geburtstags-Rekrutieren"" erhältst<br>Kann für verschiedene Idol und Items eingetauscht werden<br>*Nach Ablauf der Frist in Skillbuch (Mittel) umgewandelt"
+mst.item.15530009._name,Rekrutierungspunkte [Niko-Geburtstagsfeier]
+mst.item.15530009._effectDetail,"Punkte, die durch das „Nico-Geburtstags-Event“ <br> erhalten werden können, können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530010._name,Rekrutierungspunkte [Chika-Geburtstagsfeier]
+mst.item.15530010._effectDetail,"Punkte, die durch das „Chika-Geburtstags-Event“ <br> erhalten werden können, können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530011._name,Rekrutierungspunkte [Hōnokas Geburtstagsfeier]
+mst.item.15530011._effectDetail,"Punkte, die bei der „Hoshino-chan Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530012._name,Rekrutierungspunkte [Somimi-chan Geburtstagsfeier]
+mst.item.15530012._effectDetail,Erhaltene Punkte aus dem „Natsumi-chan-Geburtstags-Rekrutieren“<br>können für verschiedene Idol und Items eingetauscht werden<br>※Nach Ablauf der Frist werden sie in Skillbücher (Mittel) umgewandelt
+mst.item.15530013._name,Rekrutierungspunkte [Setsuna-Geburtstagsfeier]
+mst.item.15530013._effectDetail,"Punkte, die bei der „Settsuna-Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530014._name,Rekrutierungspunkte [Kotori-Geburtstagsfeier]
+mst.item.15530014._effectDetail,"Punkte, die durch das „Kotori-Geburtstags-Event“ <br> erhalten werden können, können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530015._name,Rekrutierungspunkte [Riko-chan Geburtstagsfeier]
+mst.item.15530015._effectDetail,"Punkte, die durch das „Ririko-Geburtstags-Event“ im Rekrutieren erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530016._name,Rekrutierungspunkte [Rubys Geburtstagsfeier]
+mst.item.15530016._effectDetail,"Punkte, die bei der „Rubi-Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530017._name,Rekrutierungspunkte [Sumire-chan Geburtstagsfeier]
+mst.item.15530017._effectDetail,"Punkte, die bei der „Sumire-chan Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530018._name,Rekrutierungspunkte [Shikoko-chan Geburtstagsfeier]
+mst.item.15530018._effectDetail,"Punkte, die bei der „Shikoko-chan Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittelstufe) umgewandelt."
+mst.item.15530019._name,Rekrutierungspunkte [Eri-chan Geburtstagsfeier]
+mst.item.15530019._effectDetail,"Punkte, die bei der „Eri-chan Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530020._name,Rekrutierungspunkte [Mei-Geburtstagsfeier]
+mst.item.15530020._effectDetail,"Punkte, die bei der „Mai-Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530021._name,Rekrutierungspunkte [Rin-chan Geburtstagsfeier]
+mst.item.15530021._effectDetail,"Punkte, die bei der „Rin-Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530022._name,Rekrutierungspunkte [Rina-Geburtstagsfeier]
+mst.item.15530022._effectDetail,"Punkte, die bei der „Geburtstags-Rekrutierung für Rina“ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530023._name,Rekrutierungspunkte [Koi-chan Geburtstagsfeier]
+mst.item.15530023._effectDetail,Punkte zum Erhalten bei der „Koi-chan-Geburtstags-Rekrutieren“<br> Mit verschiedenen Idols und Items eintauschbar<br>※Nach Fristende in Skillbuch (Mittel) umwandelbar
+mst.item.15530024._name,Rekrutierungspunkte [Mia-Geburtstagsfeier]
+mst.item.15530024._effectDetail,"Punkte, die durch das „Mia-Geburtstags-Event“ <br> erhalten werden können, können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530025._name,Rekrutierungspunkte [Kihata-chan Geburtstagsfeier]
+mst.item.15530025._effectDetail,"Punkte, die bei der „Geburtstags-Rekrutierung für “ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530026._name,Rekrutierungspunkte [Fuyumari-Geburtstagsfeier]
+mst.item.15530026._effectDetail,„Umiri-Geburtstagsgedenken-Rekrutieren“ erhaltene Punkte<br> können für verschiedene Idolen und Items eingetauscht werden<br> *Nach Ablauf der Frist werden sie in Skillbuch (Mittel) umgewandelt.
+mst.item.15530027._name,Rekrutierungspunkte [Diamas Geburtstagsfeier]
+mst.item.15530027._effectDetail,"Punkte, die bei der „Diamas Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530028._name,Rekrutierungspunkte [Hana-chan Geburtstagsfeier]
+mst.item.15530028._effectDetail,"Punkte, die bei der „Hana-chan Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530029._name,Rekrutierungspunkte [Margarethe-Geburtstagsfeier]
+mst.item.15530029._effectDetail,"Punkte, die bei der „Margarete-Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530030._name,Rekrutierungspunkte [Kasumi-Geburtstagsfeier]
+mst.item.15530030._effectDetail,"Punkte, die durch das „Kasumi-Geburtstags-Event“ <br> erhalten werden können, können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530031._name,Rekrutierungspunkte [Emma-Geburtstagsfeier]
+mst.item.15530031._effectDetail,"Punkte, die bei der „Ema-Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530032._name,Rekrutierungspunkte [Kanan-Geburtstagsfeier]
+mst.item.15530032._effectDetail,"Punkte, die bei der „Rekrutierung zum Geburtstag von Kanon“ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530033._name,Rekrutierungspunkte [Aran-chan Geburtstagsfeier]
+mst.item.15530033._effectDetail,"Punkte, die bei der „嵐珠-Geburtstags-Rekrutierung“ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530034._name,Rekrutierungspunkte [Chi-Sandu-chan Geburtstagsfeier]
+mst.item.15530034._effectDetail,"Punkte, die bei der „Geburtstags-Rekrutierung für Chisato“ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530035._name,Rekrutierungspunkte [Ayumu-Geburtstagsfeier]
+mst.item.15530035._effectDetail,"Punkte, die bei der „Geburtstags-Rekrutierung für Ayumu“ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15530036._name,Rekrutierungspunkte [Hanaru-chan Geburtstagsfeier]
+mst.item.15530036._effectDetail,„花丸ちゃん-Geburtstags-Jubiläum-Rekrutieren“ erhaltene Punkte<br>Können für verschiedene Idols und Items eingetauscht werden<br>※Nach Ablauf der Frist in Skillbuch (Mittel) umgewandelt.
+mst.item.15530037._name,Rekrutierungspunkte [Hanamis Geburtstagsfeier]
+mst.item.15530037._effectDetail,"Punkte, die bei der „Haiumi-Geburtstags-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540001._name,Rekrutierungspunkte [Scufes-Datenverknüpfungsbonus]
+mst.item.15540001._effectDetail,"Punkte, die bei der „Superfest-Datenverknüpfungsaktion“ erhalten werden können.<br>Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden."
+mst.item.15540002._name,Rekrutierungspunkte [Attribut-Pick-up]
+mst.item.15540002._effectDetail,"Punkte, die bei „Smile-exklusiv! Pick-up-Rekrutierung“, <br> „Pure-exklusiv! Pick-up-Rekrutierung“ und <br> „Cool-exklusiv! Pick-up-Rekrutierung“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540005._name,Rekrutierungspunkte [Love Song Carnival Ayumu-Edition]
+mst.item.15540005._effectDetail,"Punkte, die bei „Love Song Carnival Gedenk-Rekrutierung – Ayumu-Edition“ <br> erhalten werden können. Können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540006._name,Rekrutierungspunkte [Love Song Carnival – Kasumi-Arc]
+mst.item.15540006._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung – Kasumi-Edition“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540007._name,Rekrutierungspunkte [Love Song Carnival - Shizuku-Arc]
+mst.item.15540007._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung – Shizuku-Arc“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540008._name,Rekrutierungspunkte [Love Song Carnival Karin-Arc]
+mst.item.15540008._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung – Karin-Arc“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540009._name,Rekrutierungspunkte [Love Song Carnival – Ai-Hen]
+mst.item.15540009._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung ~Ai-Hen~“ erhalten werden können <br> Können gegen verschiedene Idols und Items eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540010._name,Rekrutierungspunkte [Love Song Carnival - Kapitel Himazora]
+mst.item.15540010._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung – Hikari-Edition“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540011._name,"Rekrutierungspunkte [Liebeslied-Karneval, Setsuna-Arc]"
+mst.item.15540011._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung – Setsuna-Arc“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540012._name,Rekrutierungspunkte [Love Song Carnival – Emma-Arc]
+mst.item.15540012._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung – Emma-Edition“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540013._name,Rekrutierungspunkte [Love Song Carnival Rina-Edition]
+mst.item.15540013._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung – Rina-Edition“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittelstufe) umgewandelt."
+mst.item.15540014._name,Rekrutierungspunkte [Love Song Carnival – Shizuko-Arc]
+mst.item.15540014._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung – Shizuko-Arc“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540015._name,Rekrutierungspunkte [Love Song Carnival – Mia-Arc]
+mst.item.15540015._effectDetail,"Punkte, die bei „Love Song Carnival – Mia-Edition“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittelstufe) umgewandelt."
+mst.item.15540016._name,Rekrutierungspunkte [Love Song Carnival - Arashi Tama-Edition]
+mst.item.15540016._effectDetail,"Punkte, die bei „Love Song Carnival Memorial Rekrutierung ~Arashi Tama Edition~“ erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540017._name,Rekrutierungspunkte [Half Anniversary]
+mst.item.15540017._effectDetail,"Punkte, die bei „1x täglich kostenlos! Half Anniversary-Rekrutierung“, <br> „UR garantiert – Half Anniversary-Rekrutierung“ und <br> „Sonder-Rekrutierung ~Boo! Boo! Halloweenland~“ erhalten werden können. <br> Können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist werden sie in Skillbücher (M) umgewandelt."
+mst.item.15540023._name,Rekrutierungspunkte [Meine Liebeslied-Edition]
+mst.item.15540023._effectDetail,"Punkte, die bei „Meine Liebeslied-Edition – Eröffnungs-Rekrutierung“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540024._name,Rekrutierungspunkte [μ's-Auswahl]
+mst.item.15540024._effectDetail,"Punkte, die bei „μ's Limited! Pick-up Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittel) umgewandelt."
+mst.item.15540025._name,Rekrutierungspunkte [Aqours-Auswahl]
+mst.item.15540025._effectDetail,"Punkte, die durch „Aqours-exklusives Pick-up-Rekrutierungs“-Event <br> erhalten werden können. Sie können gegen verschiedene Idols und Items eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540027._name,Rekrutierungspunkte [Phantom-Sonnen-Yohane]
+mst.item.15540027._effectDetail,"Punkte, die bei „Phantom der Sonne -The Story of the Sound of Heart- Jubiläums-Rekrutierung“ <br> erhalten werden können <br>. Können gegen verschiedene Idols und Items eingetauscht werden <br>. ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540028._name,Rekrutierungspunkte [1. Jahrgang]
+mst.item.15540028._effectDetail,"Punkte, die bei „1-Jahres-Limit! Pick-up-Rekrutierung“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540029._name,Rekrutierungspunkte [2. Jahrgang Fokus]
+mst.item.15540029._effectDetail,"Punkte, die durch „2-Jahres-Limitierte! Pick-Up-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (Mittelstufe) umgewandelt."
+mst.item.15540030._name,Rekrutierungspunkte [3. Jahrgang]
+mst.item.15540030._effectDetail,"Punkte, die durch „3-Jahres-Limitierte! Pick-up-Rekrutierung“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540031._name,Rekrutierungspunkte [Neujahrs-Event]
+mst.item.15540031._effectDetail,"Punkte, die bei „Neujahrs-Sonderaktion! Bis zu 240 kostenlose Rekrutierungen“ und „Neujahrs-Sonderaktion! UR-garantierte Rekrutierung“ <br> erhalten werden können. <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> ※Nach Ablauf der Frist werden sie in ein Skillbuch (M) umgewandelt."
+mst.item.15540032._name,Rekrutierungspunkte [Neujahr]
+mst.item.15540032._effectDetail,"Punkte, die bei „Neujahrs-Eröffnungsaktion“ und „Neujahrs-Eröffnungsaktion! UR garantiert“ <br> erhalten werden können. Können gegen verschiedene Idols und Items eingetauscht werden. <br> Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540033._name,Rekrutierungspunkte [Love Song Carnival]
+mst.item.15540033._effectDetail,"Punkte, die bei der „Love Song Carnival“-Rekrutierung erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist werden sie in ein Skillbuch (M) umgewandelt."
+mst.item.15540034._name,Rekrutierungspunkte [Große Dankbarkeits-Rekrutierung]
+mst.item.15540034._effectDetail,"Punkte, die bei der „Großen Dankesfeier von School Idol Festival 2“-Rekrutierung erhalten werden können <br> Können gegen verschiedene Idols und Gegenstände eingetauscht werden <br> ※Nach Ablauf der Frist wird es in ein Skillbuch (M) umgewandelt."
+mst.item.15540035._name,Rekrutierungspunkte [Spezial-Rekrutierung]
+mst.item.15540035._effectDetail,"Punkte, die durch „Spezial-Rekrutierung“ <br> erhalten werden können. Sie können gegen verschiedene Idols und Gegenstände eingetauscht werden. <br> Nach Ablauf der Frist werden sie in ein Skillbuch (M) umgewandelt."
+mst.item.30010001._name,Gedenk-Token
+mst.item.30010001._effectDetail,"Kann durch Teilnahme an Events oder täglichen Login-Boni werden.<br>Sammle Puzzleteile, um sie im Austausch gegen neue Idols einzutauschen."
+mst.item.30010002._name,Weiss Schwarz-Tauschschein
+mst.item.30010002._effectDetail,Kann im Weiß Schwarz-Ereignis eingelöst werden.
+mst.item.30010003._name,Schneewittchen-Weihnachts-Tauschschein
+mst.item.30010003._effectDetail,Kann im Schneeweiß-Weihnachts-Event eingelöst werden.
+mst.item.30010004._name,Glückspaket-Punkte
+mst.item.30010004._effectDetail,Kann im Neujahrs-Glückspaket gegen einen Gegenstand eingetauscht werden.
+mst.item.30010005._name,Valentinstag-Gutschein
+mst.item.30010005._effectDetail,Kann im Valentinstags-Event gegen Gegenstände eingetauscht werden.
+mst.item.16005001._name,Lernnotiz (klein)
+mst.item.16005001._effectDetail,Beim Training erhalten Idols Erfahrungspunkte.
+mst.item.16005002._name,Lernnotiz (M)
+mst.item.16005002._effectDetail,Beim Training erhalten Idols Erfahrungspunkte.
+mst.item.16005003._name,Lernnotiz (Groß)
+mst.item.16005003._effectDetail,Beim Training erhalten Idols Erfahrungspunkte.
+mst.item.17001001._name,Skillbuch (Klein)
+mst.item.17001001._effectDetail,Durch die Verwendung im Skill-Training können Talentpunkte erhalten werden.
+mst.item.17001002._name,Skillbuch (Mittel)
+mst.item.17001002._effectDetail,Durch die Verwendung im Skill-Training können Talentpunkte erhalten werden.
+mst.item.17001003._name,Fähigkeitsbuch (Groß)
+mst.item.17001003._effectDetail,Durch die Verwendung im Skill-Training können Talentpunkte erhalten werden.
+mst.item.19100001._name,Leuchtstab
+mst.item.19100001._effectDetail,Kann Idols erwecken.
+mst.item.20000001._name,LP-Bonbon [Klein]
+mst.item.20000001._effectDetail,LP um 10 wiederherstellen
+mst.item.20000002._name,LP-Bonbon [Mittel]
+mst.item.20000002._effectDetail,LP um 50 wiederherstellen
+mst.item.20000003._name,LP-Bonbon [Groß]
+mst.item.20000003._effectDetail,"Ein Item, das LP um 100 wiederherstellt."
+mst.item.20001001._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001001._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20002001._name,Zeitlich begrenztes LP-Bonbon [Mittel]
+mst.item.20002001._effectDetail,"Ein Item, das LP um 50 wiederherstellt (mit Verfallsdatum)."
+mst.item.20003001._name,Zeitlich begrenztes LP-Bonbon [Groß]
+mst.item.20003001._effectDetail,"Ein Item, das LP um 100 wiederherstellt (mit Verfallsdatum)."
+mst.item.20001002._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001002._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001003._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001003._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001004._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001004._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001005._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001005._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001006._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001006._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001007._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001007._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001008._name,Halloween-LP-Candy[Klein]
+mst.item.20001008._effectDetail,LP um 10 wiederherstellen
+mst.item.20001009._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001009._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001010._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001010._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001011._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001011._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001012._name,Weihnachts-LP-Bonbon [klein]
+mst.item.20001012._effectDetail,LP um 10 wiederherstellen
+mst.item.20001013._name,LP-Mochi
+mst.item.20001013._effectDetail,LP um 10 wiederherstellen
+mst.item.20001014._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001014._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001015._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001015._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.20001016._name,LP-Valentinstäfelchen [klein]
+mst.item.20001016._effectDetail,LP um 10 wiederherstellen
+mst.item.20001017._name,LP-Weißer-Tag-Macaron [Klein]
+mst.item.20001017._effectDetail,LP um 10 wiederherstellen
+mst.item.20001018._name,Zeitlich begrenztes LP-Bonbon [Klein]
+mst.item.20001018._effectDetail,"Ein Item, das LP um 10 erhöht (begrenzte Nutzungsdauer)."
+mst.item.21000001._name,Skip-Ticket
+mst.item.21000001._effectDetail,"Ticket, das zum Überspringen benötigt wird."
+mst.item.21001001._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001001._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001002._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001002._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001003._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001003._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001004._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001004._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001005._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001005._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001006._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001006._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001007._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001007._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001008._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001008._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001009._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001009._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001010._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001010._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001011._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001011._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001012._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001012._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.21001013._name,Zeitlich begrenztes Skip-Ticket
+mst.item.21001013._effectDetail,"Ticket, das für einen Übersprung benötigt wird (mit Verfallsdatum)"
+mst.item.22000001._name,Stern-Assist-Ticket
+mst.item.22000001._effectDetail,Ticket für die Verwendung von Star Assist.
+mst.item.22001001._name,Zeitlich begrenztes Star-Assist-Ticket
+mst.item.22001001._effectDetail,"Ticket, das für die Nutzung von Star Assist benötigt wird (mit Verfallsdatum)"
+mst.item.22001003._name,Zeitlich begrenztes Star-Assist-Ticket
+mst.item.22001003._effectDetail,"Ticket, das für die Nutzung von Star Assist benötigt wird (mit Verfallsdatum)"
+mst.item.22001004._name,Zeitlich begrenztes Star-Assist-Ticket
+mst.item.22001004._effectDetail,"Ticket, das für die Nutzung von Star Assist benötigt wird (mit Verfallsdatum)"

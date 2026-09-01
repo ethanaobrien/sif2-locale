@@ -1,0 +1,3349 @@
+﻿_key,_text
+Common_Amount,{0} × {1}
+Common_IconAmount,x{0}
+Common_IconAmountOverLimit,×{0}+
+Common_ItemHasAmount,Aantal: {0}
+Common_PossessionNumber,Aantal
+Common_Possession,In bezit
+Common_Lack,Onvoldoende
+Common_Gem,Loveca
+Common_KizunaPoint,Band
+Common_ChargeGem,Loveca (betaald)
+Common_Point_Coin,Goud
+Common_Point_Seal,Scoutpunten
+Common_Point_LiveStamp,Live-stempel
+Common_OwnedAndCostAmount,{0} / {1}
+Common_Rank,Rang
+Common_PlayerRank,Spelersrang
+Common_GroupRank,Groepsrang
+Common_GroupRankWithGroupName,{0} rang
+Common_ExpToNextRankLabel,Nog
+Common_ExpMax,MAX
+Common_Exp,EXP
+Common_Level,Niveau
+Common_MusicLevel,Muzieklevel
+Common_OrderBy,Stijgend
+Common_OrderByDescending,Aflopend
+Common_Day,{0} dag
+Common_Month,{0} maand
+Common_Year,{0} jaar
+Common_Hour,{0} uur
+Common_Minute,{0} minuten
+Common_Second,{0} seconden
+Common_Until,tot
+Common_ExpireDateFew,weinig!
+Common_ExpireDateRemaining,残
+Common_ExpireDateInfinity,onbeperkt
+Common_ExpireDateExpired,Verlopen
+Common_Period,{0} tot {1}
+Common_Remaining,残
+Common_Exchange,Wisselen
+Common_Filter,Filteren
+Common_Sort,Sorteren
+Common_AllSelect,Alles
+Common_AllRelease,Alles deselecteren
+Common_Sunday,Zondag
+Common_Monday,maandag
+Common_Tuesday,Dinsdag
+Common_Wednesday,Woensdag
+Common_Thursday,Donderdag
+Common_Friday,Vrijdag
+Common_Saturday,Zaterdag
+Common_Daily,Dagelijks
+Common_Weekly,Wekelijks
+Common_MusicArtistLabel,Lied
+Common_MusicLyricistLabel,Tekstschrijver
+Common_MusicComposerLabel,Componist
+Common_MusicArrangerLabel,編曲
+Common_MusicArtistFormat,Zang: {0}
+Common_MusicLyricistFormat,Tekstschrijver: {0}
+Common_MusicComposerFormat,Componist: {0}
+Common_MusicArrangerFormat,Arrangement: {0}
+Common_MusicDetail,Tekstschrijver: {0} <br>Componist: {1}
+Common_CardFullName,[{0}] {1}
+Common_CardFullName2Line,[{0}]<br>{1}
+Common_Rare2,SR
+Common_Rare3,UR
+Common_Rare4,UR
+Common_Present,Cadeau
+Common_Reward,Beloning
+Common_Receive,Je hebt {0} ontvangen.
+Common_Nothing,Niets
+Common_RoleVocal,ボーカル
+Common_RoleGuitar,ボーカル
+Common_RoleBass,Bas
+Common_RoleDrum,ドラム
+Common_RoleKeyboard,Keyboard
+Common_RoleSupport,サポート
+Common_TypeHeart,Smile
+Common_TypeDiamond,Pure
+Common_TypeSpade,Cool
+Common_MainStory,Hoofdverhaal
+Common_SubStory,nevenverhaal
+Common_EventStory,Evenementverhaal
+Common_EventPoint,{0} pt
+Common_EventCurrency_ChallengeLive,{0} stuks
+Common_EventCurrency_LiveTry,{0} stuks
+Common_EventCurrency_VsLive,{0} personen
+Common_EventCurrency_MultiLive,{0} personen
+Common_RankingRank,{0}e plaats
+Common_RankingRankOut,Buiten de top
+Common_CountBadgeOverLimit,{0}+
+Common_SkipUntilNextDay_Zero,"Morgen 0:00, dit venster niet meer weergeven"
+Common_SkipUntilNextDay_Login,Toon dit venster niet meer tot morgen 4 uur.
+Common_DoNotDisplayAfter,Vanaf nu niet meer weergeven
+Common_Percent,{0}%
+Common_Piece,{0} stuks
+Common_All,ALLES
+Common_Other,Liella!
+Common_XJAPAN,μ’s
+Common_LUNASEA,Aqours
+Common_GLAY,Nijigasaki
+Common_GroupOther,Anders
+Common_Grade,{0}-klas
+Common_DifficultyNormal,NORMAAL
+Common_DifficultyHard,MOEILIJK
+Common_DifficultyExpert,EXPERT
+Common_DifficultyMaster,MASTER
+Common_StatusOfAchievement,Voortgang
+Common_Achieved,Gehaald
+Common_NotAchieved,Niet gehaald
+Common_ExpirationDate,Vervaldatum
+Button_Close,Sluiten
+Button_Ok,OK
+Button_Next,Volgende
+Button_Cancel,Annuleren
+Button_Decide,Beslissen
+Button_Update,Bijwerken
+Button_Retry,Opnieuw proberen
+Button_Return,Terug
+Button_VoiceOn,Geluid aan
+Button_VoiceOff,Geen voice-over
+Button_Resume,Live hervatten
+Button_Suspend,Live beëindigen
+Button_Skip,Overslaan
+Button_Restart,Live opnieuw starten
+Button_Shop,Winkel
+Button_Home,Naar home
+Button_BuyGem,Loveca kopen
+Button_PresentBox,Naar cadeaus
+Button_Chat,Naar chat
+Button_Release,Vrijgeven
+Button_Apply,Toepassen
+Button_Edit,Bewerken
+DueDate_DialogTitle_PresentBox,Ontvangstperiode
+DueDate_DialogCaution_PresentBox,"Let op: als je het niet ophaalt, verdwijnt het item."
+DueDate_Dialog_ItemNum,Aantal: {0}
+DueDate_DialogTitle_Item,Items die binnenkort verlopen
+GachaTop_PeriodTime,tot {1} {0}
+GachaTop_PriceTitle,{0} keer scouten
+GachaTop_PriceTitleChargeGem,{0} keer scouten (betaald)
+GachaTop_PriceTitleFree,Gratis {0} keer scouten
+GachaTop_Price_Free,Gratis
+GachaTop_BuyButton_Balloon_Daily,"Elke dag <color=#f93981>1 keer {0}, wordt het om 0:00 uur vernieuwd </color><br>."
+GachaTop_BuyButton_Balloon_ReritySR,<color=#f93981>Minimaal SR</color> <br>garandeert 1 person!
+GachaTop_BuyButton_Balloon_RerityUR,<color=#f93981>Eén UR gegarandeerd! </color>
+GachaTop_BuyButton_Balloon_BonusItem,Item<br>met bonus!
+GachaTop_BuyButton_Balloon_Free,{0} keer gratis!
+GachaTop_BuyButton_Balloon_Limit,Tijdens de periode slechts {0} keer!
+GachaTop_LimitDailyOnce,"1 dag, 1 keer"
+GachaTop_LimitDailyAny,"Elke dag om 0:00 uur <color=#FD8E18>, maximaal {0} keer per dag </color> <br>."
+GachaTop_LimitCountOnce,1 keer beperkt
+GachaTop_LimitCountAny,Nog {0} keer
+GachaTop_LimitDailyOnceCountAny,Nog {0} keer <br> <color=#FD8E18> (één keer per dag) </color>
+GachaTop_LimitDailyAnyCountAny,Nog {0} keer <br> <color=#FD8E18> (vandaag nog {1} keer) </color>
+GachaTop_EnsureRareOnly,Gegarandeerd {0} en {1} person(en)!
+GachaTop_EnsureRareOverContains,"Minimaal {0}, gegarandeerd {1} personen!"
+GachaTop_LimitOver,Stapelimiet bereikt
+GachaTop_LimitOverDailyRepeat,Wordt om 0:00 bijgewerkt<br>
+GachaTop_LimitEnd,Alle pogingen zijn gebruikt.
+GachaTop_LimitStepup,Stappenlimiet bereikt
+GachaTop_MemberDetailCaution,*Elke statistiek toont de waarde bij maximale Ontgrendeling en niveau.<br>*De speciale vaardigheid toont het effect bij maximaal vaardigheidsniveau.
+GachaTop_MemberDetailPhotoButtonEvolveBefore,Wijzig voor Ontgrendelen
+GachaTop_MemberDetailPhotoButtonEvolveAfter,Na ontgrendelen wijzigen
+GachaTop_BannerRemainTimeFormat,Over <size=85%> nog <size=100%> {0}
+GachaTop_RateFormat,{0}%
+GachaTop_MemberRateFormat,zeldzaam
+GachaTop_RarityRateFormat,f2
+GachaTop_Step,RONDE {0}
+GachaTop_StepCount,<size=59> <color=#f93981> {0} / </color> <size=32> {1}
+GachaTop_HasAmount,(Je hebt {0})
+GachaTop_LimitDailyOnceChargeGem,"Betaalde Loveca, beperkt! Wordt dagelijks om 0:00 vernieuwd."
+GachaTop_BonusReward,Met bonus {0}!
+GachaTop_RunButtonText,<size=50> {0} keer scouten <size=32>
+GachaTop_RunButtonDialog_Title,Scout-ticket
+GachaTop_RunButtonDialog_TopButton,Ticket
+GachaTop_RunButtonDialog_Caution,"Als de geldigheidsduur van het ticket is verstreken, kan er geen scouting worden uitgevoerd <br> De momenteel geselecteerde scouting kan worden uitgevoerd <br> Het voert dezelfde actie uit als bij het gebruik van Loveca om te scouten (bij een ticket voor 10 keer scouten, wordt hetzelfde toegepast als bij 10 keer scouten)."
+GachaPlay_DialogOk,OK
+GachaPlay_DialogInfomation,"Items die je in grotere hoeveelheden ontvangt dan de maximale opslag, worden als cadeau verzonden."
+GachaConfirm_DialogTitle,Bevestigen
+GachaConfirm_Period,Periode:
+GachaConfirm_Count,{0} keer
+GachaConfirm_TicketText,"Gebruik {0}, verbruik {1} en scout {3} keer met <br> in {2}?"
+GachaConfirm_GemText,{0}Loveca en <br>{1} inzetten om {2} keer te scouten?
+GachaConfirm_InfoText,Wil je {1} {0} gebruiken om {2} keer te scouten met <br>?
+GachaConfirm_ConsumeLackText,Er is onvoldoende {0}.
+GachaConfirm_Buy,Kopen?
+GachaConfirm_Gem,Loveca
+GachaConfirm_ChargeGem,Betaalde Loveca
+GachaConfirm_BuyButton,Kopen
+GachaConfirm_GachaButton,Scouten
+GachaResult_RemainingAny,Nog keer
+GachaResult_RemainingDailyAny,Vandaag nog keer
+GachaResult_TutorialSelectPhoto,Tik op je favoriete idol.
+GachaResult_GetPoint,"{0} pt <font=""FOT-TsukuGoPr5-M SDF""> ontvingen </font>"
+GachaResult_ResultPoint,{0} → {1}
+GachaResult_Exchange,Wisselen
+GachaResult_GetOverMemberMessage,"Als je al een idol hebt, ontvang je in plaats daarvan een lichtgevende stick.<br>"
+GachaResult_LimitBreakNoteText,*Nieuwe idol toegevoegd!*
+GachaDetail_TabTitle,Scouten
+GachaDetail_DialogTitle,Scouten
+GachaDetail_Help,Let op
+GachaDetail_GachaInfo,Scoutoverzicht
+GachaDetail_Terms,Periode
+GachaDetail_NewMember,Nieuwe idol
+GachaDetail_Step,RONDE {0}
+GachaRateDetail_TabTitle,Verschijningskans
+GachaRateDetail_DialogTitle,Scouten
+GachaRateDetail_Help,Let op
+GachaRateDetail_RarityRate,Zeldzaamheidskans
+GachaRateDetail_RarityRateUnensure,Verschijningskans {0}
+GachaRateDetail_RarityRateEnsure,Gegarandeerde verschijningskans {0}
+GachaRateDetail_Main,Live positie
+GachaRateDetail_Support,Supportpositie
+GachaRateDetail_RarityRateMember,Lijst van idols
+GachaRateDetail_RarityRateUnensureMember,Idols die verschijnen{0}
+GachaRateDetail_RarityRateEnsureMember,Idols die verschijnen{0}
+GachaFixedRateDetail_TabTitle,"10e beurt, kans op verschijnen in de laatste ronde"
+GachaFixedRateDetail_TabTitleStepup,"10e beurt, kans op verschijnen in de laatste ronde"
+GachaPickUpMemberDetail_TabTitle,Idolgegevens
+GachaPickUpMemberDetail_DialogTitle,Idol-details
+Consume_HasConsumeName,Aantal
+Consume_UseConsumeName,Benodigde hoeveelheid
+Consume_PriceTitleChargeGem,{0} trekken <br> (alleen met betaling)
+Consume_InfoOnConsumeMedal ,*Eerst gratis Loveca verbruiken.*
+WaitingMemberList_SealNumWordText,Scoutpunten beschikbaar
+WaitingMemberList_SealReplacementShopButton,Wisselen
+WaitingMemberList_AllSelectButton,Alles selecteren
+WaitingMemberList_SelectCharaNumWord,Geselecteerd
+WaitingMemberList_SealChangeButton,転部
+WaitingMemberList_EmptyChara,Er zijn geen idols om over te plaatsen.
+WaitingMemberList_ItemGetNum,Ontvangen aantal
+WaitingMemberList_CanGetItem,Ontvangen items
+WaitingMemberList_ChangeResultShortMessage,Je hebt {0} lichtgevende staafjes ontvangen.
+WaitingMemberList_ChangeDialogTitle,Bevestigen
+WaitingMemberList_ChangeDialogConfirm,Verplaats {0} idol(s) naar de wachtkamer en ontvang {1} penlichten.
+WaitingMemberList_ChangeDialogCharaNumWord,stuks
+WaitingMemberList_ChangeDialogSealNumWord,stuks
+WaitingMemberList_ChangeDialogTotalSealWord,Sticker
+CardIcon_LvWord,Lv.
+CardIcon_SkillLvWord,Vaardigheid Lv.
+CardIcon_HpWord,HP:
+CardIcon_EventBonusWord,Bonus:
+CardIcon_EventBonusParam,+{0}%
+CardIcon_BonusParam,<size=20>+</size>{0}%
+CardIcon_UnlockNotJoin,Niet toegevoegd
+Practice_EmptyItem,Je hebt geen lesnotities.<br>
+Practice_ExpWord,Nog
+Practice_ResetButton,Reset
+Practice_RecommendButton,Aanbevolen
+Practice_Max,MAX
+Practice_ItemSelect,Items selecteren
+Practice_NeedItem,Vereiste items
+Practice_ItemShortageAlert,Er zijn niet genoeg items beschikbaar.
+Practice_LevelMaxAlert,Level is maximaal.
+SkillPractice_EmptyChara,Wil je {0} idols en <br> penlights ruilen voor {1}? <br>
+SkillPractice_EmptyItem,Je hebt geen skillboek.<br>
+SkillPractice_SamePhotoBonus,Idoolbonus
+SkillPractice_SameItemBonus,Identieke bonus
+SkillPractice_PhotoTab,Rustruimte
+SkillPractice_ItemTab,Ticket
+SkillPractice_HavingTextLavel,In bezit: {0}
+Training_ConfirmDialogTitle,Bevestigen
+Training_ItemConfirmDialogMessage,Je gebruikt de geselecteerde lichtstick om te ontgrendelen.<br>Gaat dat goed?
+Training_CardConfirmDialogMessage,Je gebruikt de geselecteerde lichtstick om te ontgrendelen.<br>Gaat dat goed?
+Training_LackCoinConfirmDialogMessage,"Er is niet genoeg goud om [{0}] [{1}] te ontgrendelen, je hebt nog [<br>] [<color=#D73C55>] nodig [</color>]."
+Training_ItemSettingDialogTitle,Verbruik items instellen
+Training_ItemSettingDialogMessage,Stel het aantal te verbruiken items in.
+Training_NeedCount,Benodigde hoeveelheid
+Training_NeedItem,Vereiste items
+Training_NoSetting,Niet ingesteld
+Training_MaxLevelAndStatus,Maximum niveau en statistieken
+Training_EmptyChara,Er zijn geen idols om te ontgrendelen.
+Training_ItemConfirmDialogLimitNumNote,Je kunt dit maximaal {0} keer doen.
+Training_ItemAmountOverLimit,{0}+
+Training_SelectThisWay,Selecteer deze methode
+Training_GoldLack,Er is niet genoeg goud.
+Training_LevelLack,Niveau is niet maximaal
+Training_AwakeningBefore,Voor ontgrendelen
+Training_AwakeningAfter,Ontgrendeld
+Training_MaxLv,MAX niveau
+Training_AwakenedMaxShortMessage,Volledig ontgrendeld.
+Training_CardEvolveItem,lichtstaaf
+Training_CardEvolveItemSub1,Ontgrendel-item
+Training_CardEvolveItemSub2,Ontgrendel-item
+Training_CardEvolveItemSub3,Ontgrendel-item
+TrainingResult_TrainingTitle,Ontgrendeld
+TrainingResult_TrainingMessage,Ontgrendelen voltooid
+TrainingResult_EpisodeTitle,Verhaalbonus
+TrainingResult_EpisodeMessage,Je hebt het {0}-verhaal van {1} succesvol vrijgespeeld met <br>.
+StatusUpResult_EpisodeTitle,Verhaalbonus
+StatusUpResult_Message,De {0} en <br> statistieken zijn verbeterd.
+CardDetail_EpisodeUnlockConfirm,"Wil je de volgende items verbruiken om het verhaal ""{0}"" te ontgrendelen?"
+CardDetail_EpisodeUnlockLevel,Vereiste niveau: Idol Lv {0}+
+CardDetail_EpisodeUnlockNeedNum,Benodigde hoeveelheid: {0}
+CardDetail_EpisodeUnlockHaveNum,Aantal: {0}
+CardDetail_EpisodeUnlockLackMaterial,Er zijn onvoldoende <color=#D73C55>materiaalitems</color>.
+CardDetail_EpisodeUnlockLackLevel,<color=#D73C55>Idollevel onvoldoende<br>Huidig Lv.{0} / Benodigd Lv.{1}</color>
+CardDetail_EpisodeUnlockLackGold,<color=#D73C55>Onvoldoende goud</color>
+CardDetail_UnlockEpisodePlayConfirmDialogTitle,Verhaal vrijgespeeld
+CardDetail_UnlockEpisodePlayConfirmDialogMessage,"Verhaal ‘{0}’ is <br> vrijgespeeld, wil je het nu lezen? <br>"
+CardDetail_EpisodePlayConfirmDialogTitle,Verhaal
+CardDetail_EpisodePlayConfirmDialogMessage,Lees je het verhaal “{0}”? <br>
+CardDetail_ChangeIllustButton,Illustratie wijzigen
+CardDetail_ExpansionButton,Vergroot
+CardDetail_LevelWord,Niveau
+CardDetail_ExpWord,Nog
+CardDetail_Max,MAX
+CardDetail_MemberDetailButton,Idolgegevens
+CardDetail_PracticeButton,Les
+CardDetail_TrainingButton,Ontgrendelen
+CardDetail_SkillPracticeButton,Skillesoefening
+CardDetail_CardNormal,Normaal
+CardDetail_Favorite,Favoriet
+CardDetail_Animation,Animatie
+CardDetail_Effect,Effect
+CardDetail_Status,Statistieken
+CardDetail_Profile,Profiel
+CardDetail_LevelStatus,Levelstatistieken
+CardDetail_CenterSkill,Centerskill
+CardDetail_Skill,Vaardigheid
+CardDetail_SkillLv,Vaardigheidsniveau
+CardDetail_GachaButton,Ga naar scouten
+CardDetail_SchoolYear,Leerjaar
+CardDetail_Birthday,Verjaardag
+CardDetail_BloodType,Bloedgroep
+CardDetail_Height,Lengte
+CardDetail_CharaVoice,CV
+CardDetail_SchoolYearInput,{0}-klas
+CardDetail_EpisodeUnlockConfirmDialogTitle,Verhaal vrijspelen?
+CardDetail_EpisodeRewardDialogTitle,Verhaalbeloning
+CardDetail_SpecialEpisodeRewardDialogTitle,Speciale verhaalbeloning
+CardDetail_EpisodeRewardDialogMessage,Je hebt een beloning ontvangen! <br> <color=#D73C55> Je kunt de beloning ophalen via het cadeaugedeelte. </color>
+CardDetail_EpisodePlayDialogUseVoiceButton,Geluid aan
+CardDetail_EpisodePlayDialogNoVoiceButton,Geen voice-over
+CardDetail_CharacterEpisodeLevel,Verhaal Lv. {0}
+CardDetail_CardGetCategoryGacha,scouten
+CardDetail_CardGetCategoryEvent,Event
+CardDetail_CardGetCategoryExchange,Wisselen
+CardDetail_CardGetCategoryStory,Verhaal
+CardDetail_CardGetCategoryMission,ミッション
+CardDetail_CardGetDetailGacha,Scouten „{0}” verkrijgbaar!
+CardDetail_CardGetDetailEvent,Event „{0}” geeft toegang!
+CardDetail_CardGetDetailExchange,Wisselshop „{0}”: verkrijgbaar!
+CardDetail_CardGetDetailStory,Verhaal „{0}” geeft toegang!
+CardDetail_CardGetDetailMission,Missie: verkrijgbaar!
+CardDetail_NoticeLevelMaxDisplay,Statistieken bij maximale Ontgrendelings- en niveaustatus worden hier weergegeven
+Album_NotCanGet,Kan nu niet krijgen.
+Album_GachaCanGet,Je kunt deze <color=#DF4444>idol</color> krijgen via scouten.
+Album_EventCanGet,Je kunt deze idol krijgen via <color=#DF4444>evenementen</color>.
+Album_ExchangeCanGet,In de <color=#DF4444>winkel</color> kun je deze idol krijgen.
+Album_LoginbonusCanGet,Je kunt deze idol krijgen via de <color=#DF4444>loginbonus</color>.
+Album_StoryCanGet,Je kunt deze <color=#DF4444>idols</color> krijgen via het verhaal.
+Album_MissionCanGet,Idols die je kunt rekruteren via <color=#DF4444>missies</color>
+Album_BeginnerMissionCanGet,<color=#DF4444>Beginnermissie</color>: hier kun je idols vinden die je kunt rekruteren
+Album_GachaCanNotGet,Nieuwe idol van “{0}”. Kan momenteel niet via de gacha worden gescout <br>.
+Album_EventCanNotGet,Nieuwe idol van evenement {0}<br> Momenteel niet toe te voegen via het huidige evenement of de uitwisselingswinkel.
+Album_CampaignCanNotGet,Dit is een campagne-idol van {0}. <br> Kan momenteel niet worden toegevoegd.
+Album_GachaOkButton,Ga naar scouten
+Album_EventOkButton,Naar evenementen
+Album_ExchangeOkButton,Naar de winkel
+Album_StoryOkButton,Verhaal
+Album_TrainingOkButton,Naar idolgegevens
+Album_MissionOkButton,Missies
+Album_DefaultOkButton,OK
+Album_Empty,Er zijn geen albums.
+Album_DialogTitle,Albums sorteren
+Album_DialogGetTypeWord,Aangeschaft
+Album_DialogTrainingTypeWord,Ontgrendelstatus
+Album_DialogGetTypeAll,Alles
+Album_DialogGetTypeTitle,In bezit
+Album_DialogGetTypeUnlock,In bezit
+Album_DialogGetTypeLock,Niet in bezit
+Album_DialogMovieTypeTitle,Video
+Album_DialogMovieTypeHas,Video aanwezig
+Album_DialogMovieTypeNot,Video loos
+Album_DialogEpisodeTypeTitle,Verhaal
+Album_DialogEpisodeTypeHas,ストーリーあり
+Album_DialogEpisodeTypeNot,Geen verhaal
+Album_DialogSpPhotoTypeTitle,SP-foto
+Album_DialogSpPhotoTypeHas,SP-foto aanwezig
+Album_DialogSpPhotoTypeNot,Geen SP-foto
+Album_DialogEvolveTypeAll,Alles
+Album_DialogEvolveTypeNotEvolved,Voor ontgrendelen
+Album_DialogEvolveTypeEvolved,Ontgrendeld
+Album_DialogSortTypeId,Standaard
+Album_DialogSortTypeUnlock,Verkregen in volgorde
+Album_DialogSortTypeRarity,Zeldzaamheid
+Album_SIF1_CardSeries,Serie
+Album_SIF1_CardOther,Anders
+Album_SIF1_CardTypeNormal,Normaal
+Album_SIF1_CardTypeAwakening,Ontgrendelen
+Album_SIF1_HeightExt,{0} cm
+Album_SIF2_AcquiredStatus,Lidmaatschap
+Album_SIF2_AcquiredPercent,{0}% ( {1} / {2} )
+Album_SIF2_MemberSummary,Idoloverzicht
+Album_SIF2_Profile,Profiel
+Album_SIF2_NonJoining,Niet toegevoegd
+Album_SIF2_NonJoiningToCard,Er zijn geen idols om te selecteren.
+Album_SIF2_NothingToCard,Geen idols gevonden.
+AreaTalkList_AreaOnly,Locatie
+AreaTalkList_AreaAndItem,Voorwaarden
+AreaTalkList_Empty,Geen mini-verhaal gevonden.
+AreaTalkList_HaveAlbum,Bekijk de mini-verhalen die je al hebt gezien!
+AreaTalkList_PlayButton,Bekijken
+CostumeSelect_DeckTitle,★Opstelling-kostuum★
+CostumeSelect_DeckInfo,"Let op: als je dit instelt, wordt de standaardkostuum <br> «{0}»."
+CostumeSelect_SetButton,Instellen
+CostumeSelect_SelectedButton,Installeer nu
+CostumeSelect_UnLockInfoButton,Vereisten
+CostumeSelect_UnLockInfoByFot,{0} {1} ontvangen
+CostumeSelect_UnLockInfoByCampaign,{0} ontvangen
+CostumeSelect_NotSelected,Niet ingesteld
+OrnamentShop_EmptyData,Er zijn geen items beschikbaar om te kopen.
+OrnamentShop_ScrollItemBuyText,Kopen
+OrnamentShop_ScrollItemLevelUpText,Verbeteren
+OrnamentShop_ScrollItemUnlockText,Vereisten
+OrnamentShop_BuyConfirmDialog_ConditionLabel,Vereiste voorwaarden
+OrnamentShop_BuyResultDialogTitle_Buy,Item gekocht
+OrnamentShop_BuyResultDialogTitle_LevelUp,Item level verhogen
+OrnamentShop_BuyResultDialogMessage_DoesNotPlace,De gekochte items zijn naar de opslag gestuurd.
+Chat_NoticeReceive,Bericht ontvangen
+Chat_TabChatSummary,Samenvatting
+Chat_TabChatSolo,Chat
+Chat_TabChatGroup,Groepschat
+Chat_TabCollectionStamp,Stempels
+Chat_TabCollectionAttachment,Foto
+Chat_AvailableStamp,Geselecteerde stempels zijn beschikbaar in deze chat
+Chat_AcquiredStamp,Je ontvangt dit willekeurig na het uitspelen van een nummer.
+Chat_TalkTagVoice,Stem
+Chat_TalkInputWait,{0} wordt ingevoerd...
+Chat_TalkItemReceive,Ontvangen
+Chat_TalkItemReceived,Al ontvangen
+Chat_TalkItemGet,Je hebt {0} ontvangen.
+Chat_TalkLookback,Deze chat bekijken
+Chat_OrderOfArrival,Ontvangstvolgorde
+Chat_OrderOfPrecedence,Sorteeropdracht
+Chat_NotYetOpen,Je neemt niet deel aan de chat.<br>Wissel contactgegevens uit om deel te nemen aan de chat.
+Chat_NotYetAvailable,Er is nog geen chat waarin je deze sticker kunt gebruiken.
+MusicShop_EmptyData,Er zijn geen nummers beschikbaar om te kopen.
+MusicShop_AlreadyBought,Al gekocht
+MusicShop_DetailDialogTitle,Nummerdetails
+MusicShop_BuyConfirmDialogTitle,Aankoop bevestigen
+MusicShop_BuyConfirmDialogMessage,Deze song kopen?
+MusicShop_BuyConfirmDialogCostItem,★Benodigde items★
+MusicShop_BuyResultDialogTitle,Aankoop voltooid
+Warehouse_BatchReplaceDialogDecideButton,Beslissen
+Warehouse_BatchReplaceDialogTitle,Aanbevolen opstelling
+Warehouse_BatchReplaceDialogCardTypePriority,Prioriteitstype
+Warehouse_BatchReplaceDialogDeckRolePriority,Prioriteit instrumenten
+Help_DialogTitle,Hulp
+Help_Faq,Veelgestelde vragen
+Help_GameProgress,Spelvoortgang en algemene werking
+Help_BuyGem,Loveca kopen
+Help_TakeOver,Account overzetten
+Help_Opinions,Uw mening/suggesties
+Help_ButtonFaq,Veelgestelde vragen
+Help_ButtonBuyGem,Loveca-aankoopfout
+Help_ButtonRegardProblems,Problemen?<br>Neem contact op
+Help_ButtonDataRecovery,Dataherstel<br>vragen
+Help_ButtonOther,Andere vragen
+Help_Notes,Let op
+Help_JumpButton,Ga naar site
+Help_ContactFormCaution,"• We beantwoorden in principe geen feedback/verzoeken. <br> • Afhankelijk van de inhoud van uw vraag, kan het enige tijd duren voordat we kunnen onderzoeken, antwoorden of actie ondernemen. <br> • Raadpleeg eerst de helpsectie, mededelingen en veelgestelde vragen voordat u contact met ons opneemt. <br> • Neem voor vragen over gegevensherstel contact met ons op via het contactformulier. <br> • We zijn niet betrokken bij geschillen tussen gebruikers. <br> • Deze ondersteuning is alleen beschikbaar in het Japans. <br> • We kunnen geen informatie geven over spelstrategieën. <br> • Als u na 24 uur nog geen ontvangstbevestiging heeft ontvangen, controleer dan uw e-mailinstellingen. <br> • Pas uw instellingen aan zodat u e-mails van [@bushimo.jp] kunt ontvangen."
+TermsOfService_DialogTitle,Gebruiksvoorwaarden
+TermsOfService_Terms,Gebruiksvoorwaarden
+TermsOfService_Rights,Rechtenvermelding
+TermsOfService_PrivacyPolicy,Privacy<br>beleid
+TermsOfServiceAgree_Agree,Akkoord
+TermsOfServiceAgree_NoAgree,Niet akkoord
+TermsOfServiceAgree_Terms,Gebruiksvoorwaarden / Privacybeleid / Copyrightinformatie
+TermsOfServiceAgree_PrivacyPolicy,Privacybeleid
+TermsOfServiceAgree_Title,Gebruiksvoorwaarden bevestigen
+TermsOfServiceAgree_Message,"Om dit spel te spelen, moet u <br> akkoord gaan met de Gebruiksvoorwaarden en het Privacybeleid <br>. Lees ze door en tik op ""Akkoord"" <br> <br>."
+TermsOfServiceAgree_DataCaution,"Houd er rekening mee dat het moeilijk kan zijn om gegevens te herstellen als de app per ongeluk of door nalatigheid van uw apparaat wordt verwijderd, of als de app-gegevens verloren gaan.<br>"
+CacheClear_ConfirmTitle,Cache wissen?
+CacheClear_ClearingTitle,Cache wordt gewist.
+CacheClear_ResultTitle,Cache gewist
+CacheClear_ConfirmMassage,Cache wissen?<br>Is dat goed?
+CacheClear_ClearingMassage,Cache wordt gewist<br>Even geduld.
+CacheClear_ResultMassage,Cache is geleegd.
+Tw_SelectLanguage_Button,Taal kiezen
+Mission_Title,Uitdagingen
+Mission_MainTitle,Missielijst
+Mission_SubTitle,Uitdagingen
+Mission_Progress,{0} van <size=-10> / {1} totaal </size>
+Mission_TabMain,Totaal
+Mission_TabDaily,Dagelijks
+Mission_TabLimited,Tijdelijk
+Mission_MissionNotFound,Er zijn momenteel geen uitdagingen beschikbaar.
+Mission_MissionNotFoundDaily,Momenteel geen beschikbare <br>dagelijkse missies.
+Mission_MissionNotFoundLimited,Momenteel geen beschikbare <br>tijdelijke missies.
+Mission_ChallengeButton_AcceptReward,Ontvangen
+Mission_ChallengeButton_Challenge,Uitdaging
+Mission_ChallengeButton_Ornament,Naar opslag
+Mission_ChallengeButton_CardDetail,Naar idolgegevens
+Mission_ChallengeButton_CardDetail_NotHave,Idol niet in bezit
+Mission_ChallengeButton_CardReinforce,Les naar
+Mission_ChallengeButton_CardReinforceSkill,Naar skillles
+Mission_ChallengeButton_CardEvolve,Ontgrendelen
+Mission_ChallengeButton_Costume,Naar kostuum
+Mission_ChallengeButton_DeckEdit,Groep opstellen
+Mission_ChallengeButton_DeckTop,Naar groep
+Mission_ChallengeButton_EventTop,Naar evenementen
+Mission_ChallengeButton_Friend,Naar vriendenlijst
+Mission_ChallengeButton_GachaTop,Ga naar scouten
+Mission_ChallengeButton_MainStory,Naar het hoofdverhaal
+Mission_ChallengeButton_Migration,Gegevens overzetten
+Mission_ChallengeButton_MusicSelect,Ga naar muziekselectie
+Mission_ChallengeButton_Line,Vrienden toevoegen
+Mission_ChallengeButton_LiveSelect,Live selectie
+Mission_ChallengeButton_Photo,Naar de idollijst
+Mission_ChallengeButton_Profile,Naar profiel
+Mission_ChallengeButton_Shop,Naar winkel
+Mission_ChallengeButton_SubStory,Naar nevenverhaal
+Mission_ChallengeButton_TargetMission,Naar doelmissie
+Mission_ChallengeButton_Twitter,Volgen
+Mission_DetailDialog_NoTimeLimit,Geen tijdslimiet
+Mission_CompleteMisssionGuide,Controleer de details.
+Friend_MyFriendTab,Naar vriendenlijst
+Friend_RequestTab,In behandeling
+Friend_PendingTab,In behandeling
+Friend_FriendSearchTab,Vrienden zoeken
+Friend_LastLogin,Laatste login
+Friend_RefineFavoriteFriendButton,Alleen favoriete vrienden weergeven
+Friend_DeleteButton,Vriend verwijderen
+Friend_RequestCancelButton,Verzoek annuleren
+Friend_PendingButton,Accepteren
+Friend_RejectButton,Weigeren
+Friend_MyFriendEmpty,Er zijn geen vrienden gevonden.
+Friend_RequestEmpty,Er zijn geen aanvragen in behandeling.
+Friend_PendingEmpty,Er zijn geen wachtende vriendschapsverzoeken.
+Friend_FriendSearchEmpty,Geen spelers gevonden.
+Friend_SearchButton,ID zoeken
+Friend_SortLastLoginButton,Laatste login
+Friend_SortRankButton,Rang
+Friend_IconLeaderTypeButton,Leader
+Friend_IconRecommendTypeButton,Favoriet
+Friend_SearchDialogTitle,ID zoeken
+Friend_SearchDialogMassage,Voer de ID in.
+Friend_SearchDialogSearchButton,Zoeken
+Friend_Secret,Privé
+Friend_LastLoginMinutes,{0} minuten geleden
+Friend_LastLoginHour,{0} uur geleden
+Friend_LastLoginDay,{0} dagen geleden
+Friend_LastLoginOverMonth,Meer dan 30 dagen geleden
+Friend_DialogTitle,ID zoeken
+Friend_DialogMessage,Voer de ID van de speler in.
+Friend_DialogLimitNum,max. 12 tekens
+Title_AppliVersion,Versie {0}
+Title_JasracApple,JASRAC-licentie<br>Nr. 9014302035Y45112
+Title_JasracGoogle,JASRAC-licentie<br>Nr. 9014302036Y45112
+Title_NexTone,NexTone
+Title_Company,©2013 Love Live! <br>©2017 Love Live! Sunshine!! <br>©2022 Love Live! Nijigasaki High School Idol Club <br>©2022 Love Live! Superstar!! ©bushiroad
+Title_UserId,ID: {0}
+Title_MenuTitle,Menu
+Title_MenuExternalSite,Externe site
+Title_MenuCacheClear,Cache wissen
+Title_MenuGameDataDelete,Gamegegevens verwijderen
+NameInput_Name,Naam
+NameInput_Ok,OK
+NameInput_Title,Aanvraag voor persaccreditatie
+NameInput_Permit1,Miracle Live uitvoerend comité
+NameInput_Petmit2,Ik beloof dat ik de voorwaarden in het interviewverslag zal respecteren tijdens de Miracle Live en dien hierbij een aanvraag in voor toestemming om te filmen.<br>
+NameInput_Note1,*De spelernaam mag maximaal 10 tekens lang zijn.*
+NameInput_Note2,Deze naam wordt ook aan andere spelers in het spel getoond.
+NameInput_Note3,Je kunt je spelernaam later nog wijzigen.
+NameInput_ProfileNameInputTitle,Spelernaam invoeren
+NameInput_ProfileNameInputMessage,Voer je spelersnaam in.
+NameInput_ProfileNameInputNote,Spelernaam mag maximaal 10 tekens zijn <br> Dit is de naam die aan andere spelers in het spel wordt getoond <br> Je kunt je spelernaam later nog wijzigen.
+Profile_Secret,Privé
+Profile_SecretLong,Wordt niet weergegeven
+Profile_DefaultComment,Graag!
+Profile_RankTitle,Rang <size=24>R</size>
+Profile_ExpTitle,<size=24>E</size>xp
+Profile_CommentTitle,Commentaar
+Profile_RecommenderSelectButton,Favorieten selecteren
+Profile_TitleSelectButton,Titel selecteren
+Profile_PublicSelectButton,Publieke instellingen
+Profile_CopyButton,Kopiëren
+Profile_CopyMessage,ID gekopieerd.
+Profile_PhotoButton,Idol weergeven
+Profile_FriendRequestButton,Vriendverzoek
+Profile_FriendCanNotRequestButton,Kan niet aanvragen
+Profile_FriendTitleListButton,Titels
+Profile_LastLoginTime,Laatste login:
+Profile_OpenDialogTitle,Profiel zichtbaarheid
+Profile_OpenDialogMainDeckParam,Totale unit-kracht
+Profile_OpenDialogGroupRank,Groepsrang
+Profile_OpenDialogClearLiveNumber,Voltooide nummers
+Profile_OpenDialogFullComboLiveNumber,Volledige combo's
+Profile_OpenDialogAllPerfectLiveNumber,ALLEEN PERFECTE nummers
+Profile_OpenDialogHighScoreRate,Hoge score ratio
+Profile_OpenDialogLastLoginDate,Laatste aanmelddatum
+Profile_OpenDialogUserId,Speler-ID
+Profile_OpenDialogGuestMember,Gast-idol
+Profile_OpenDialogCaution,Vink uit om niet-openbaar te maken
+Profile_OpenDialogOpenButton,Publiek
+Profile_OpenDialogSecretButton,Privé
+Profile_OpenDialogPendingButton,In behandeling
+Profile_OpenDialogRejectButton,Weigeren
+Profile_RankDialogTitle,Rangdetails
+Profile_RankMax,Je rank is maximaal.
+Profile_CommentSettingDialogTitle,Comment instellen
+Profile_CommentSettingDialogMassage,Voer een commentaar in.
+Profile_CommentSettingDialogLimitNum,Maximaal {0} tekens
+Profile_HighScoreRateDialogTitle,Gedetailleerde Highscore-ratio
+Profile_HighScoreRateDialogTotalHighScore,Totale Highscore-ratio
+Profile_HighScoreRateDialogValue,Hoge score ratio
+Profile_HighScoreRateDialogEmpty,Er zijn geen speelgegevens voor dit nummer gevonden.
+Profile_RankListScrollItemGem,Beloning: Loveca {0}
+Profile_RankListScrollItemNone,Beloning: niet beschikbaar {0}
+Profile_ScoreTitle,Voltooide nummers
+Profile_ClearMusicTitle,Voltooide nummers
+Profile_FullComboTitle,VOLLEDIGE COMBO
+Profile_ClimaxPerfectTitle,CLIMAX<br>PERFEKT
+Profile_AllPerfectTitle,ALLEEN PERFECT
+Profile_TeacherPointTitle,Hoge score ratio
+Profile_ScoreConfirm,Voltooide nummers
+Profile_GuestMember,Gast-idol
+Profile_GuestDetail,Gastdetails
+Profile_SettingMember,Stel idol in
+Profile_Share,Delen
+Profile_ShareMessage,Zullen we samen als schoolidols beginnen?
+Profile_CardEmpty,Er zijn geen idols.
+Profile_Birthday,Verjaardag
+Profile_NoBirthday,Niet ingesteld
+Profile_BirthdaySettingDialogTitle,Verjaardag instellen
+Profile_BirthdaySettingDialogMessage,Voer je geboortedatum in.
+Profile_BirthdaySettingDialogNote,Let op: je kunt je verjaardag later niet meer wijzigen <br>. Op je verjaardag ontvang je een speciale chat <br>. Het hoeft niet hetzelfde te zijn als de geboortedatum die je hebt opgegeven bij het kopen van items.
+TitleList_TitleChangeDialogTitle,Bevestigen
+TitleList_TitleChangeDialogText,Deze titel instellen
+TitleList_TitleNoDetailText,Geen beschrijving
+TitleList_TitleListTabNormal,Normaal
+TitleList_TitleListTabEvent,Event
+TitleList_TitleListTabMember,Lid
+TitleList_TitleListTabMigration,データ連携
+TitleList_NoMigrationMessage,Je hebt geen gegevensmigratie-trofeeën.
+TitleList_TitleListEmpty,Geen titels gevonden
+Exchange_Tab_Main,Hoofd
+Exchange_Tab_Tea,Thee
+Exchange_ExpireDateLabel,Uitwisselingsdatum
+Exchange_ExchangeSelectMessageText,Selecteer een uitwisselingspunt.
+Exchange_SealExchangeHeaderMainTitle,Scouten-puntenwisselaar
+Exchange_PickExchangeHeaderMainTitle,Wisselen
+Exchange_TicketExchangeHeaderMainTitle,Ticket Exchange
+Exchange_SoldOutMessage,De uitwisselbare hoeveelheid is bereikt.
+Exchange_ExchangeLimitMessage,"Je hebt de maximale hoeveelheid bereikt, je kunt het niet inwisselen."
+Exchange_GetSeal,Scoutpunten ontvangen
+Exchange_ShopResetMessage_Daily,Elke dag om 0:00 vernieuwd
+Exchange_ShopResetMessage_Weekly,Elke week op {0} vernieuwd.
+Exchange_ShopResetMessage_Monthly,Elke maand op de 1e.
+Exchange_ResetDayDaily,Vandaag
+Exchange_ResetDayWeekly,Deze week
+Exchange_ResetDayMonthly,Deze maand
+Exchange_RemainCount,Nog {0} keer
+Exchange_ResultMesseage,Je hebt {0} {1} items verwisseld!
+Exchange_ResultCardMesseage,Je hebt {1} {0} gescout en er zijn nu {2} nieuwe!
+Exchange_FilterDialogTitle,Wissel items filteren
+Exchange_FilterDialogCategoryLabel,Categorieën filteren
+Exchange_FilterDialogSoldOutLabel,Ontvangen items
+Exchange_FilterDialogCategoryAll,Alles
+Exchange_FilterDialogCategoryStamp,Stempels
+Exchange_FilterDialogCategoryPrimaryItem,Hoofditem
+Exchange_FilterDialogCategoryPhotoSeal,idol
+Exchange_FilterDialogCategoryTicket,Ticket
+_FilterDialogDefaultButtonText,Standaardinstellingen<br>herstellen
+Exchange_Name_Exchange,Wisselen
+Exchange_Name_Purchase,Kopen
+Exchange_Name_LevelUp,Verbeteren
+Exchange_EmptyData,Er zijn geen {0} beschikbaar.
+Exchange_AmountLabel,Aantal {0}
+Exchange_AmountDialogTitle,Hoeveel {0} wilt u?
+Exchange_AmountDialogMessage,Nieuwe leden worden niet omgezet in lichtgevende staafjes.
+Exchange_ConfirmDialogTitle_Countable,Bevestig aantal {0}
+Exchange_ConfirmDialogTitle_Uncountable,{0} wilt u?
+Exchange_ResultDialogTitle,Je hebt {0} gedaan.
+DeckEdit_RecommendDialogTitle,Aanbevolen opstelling
+DeckEdit_RecommendPriorityType,type
+DeckEdit_RecommendPriorityGroup,Groep
+DeckEdit_RecommendPrioritySkill,Vaardigheid
+DeckEdit_RecommendTypeAll,Geen voorkeur
+DeckEdit_RecommendGroupAll,Geen voorkeur
+DeckEdit_RecommendGroupOther,Anders
+DeckEdit_RecommendTypeBonus,Typebonus
+DeckEdit_RecommendCharacterBonus,Lid-bonus
+DeckEdit_RecommendEventBonus,Eventbonus
+DeckEdit_RecommendSkillAll,Geen voorkeur
+DeckEdit_RecommendSkillScore,Score verhogen
+DeckEdit_RecommendSkillScoreCondition,Voorwaardelijke scoreboost
+DeckEdit_RecommendSkillRecovery,HP herstel
+DeckEdit_RecommendSkillEnhanced,Beoordeling verhogen
+DeckEdit_RecommendSkillOther,Anders
+DeckEdit_RecommendCheckCenterFixed,Centerpositie vastzetten
+DeckEdit_RecommendCheckBonusApply,Kies de beste leden
+DeckEdit_RecommendGroupSelectDialogTitle,Groep selecteren
+DeckEdit_DefaultBandName,Unit {0}
+DeckEdit_TabName,Unit {0}
+DeckEdit_StatusPower,LP
+DeckEdit_StatusTotal,Totale unit-kracht
+DeckEdit_StatusSoul,Smile
+DeckEdit_StatusTechnic,Pure
+DeckEdit_StatusAppeal,Cool
+DeckEdit_StatusOrnamentBouns,Items
+DeckEdit_StatusEventBouns,Event
+DeckEdit_StatusTypetBouns,Typebonus
+DeckEdit_MainUnitSetButton,Hoofdeenheid instellen
+DeckEdit_RecommendEditButton,Aanbevolen opstelling
+DeckEdit_ResetButton,Reset
+DeckEdit_OrnamentButton,Items
+DeckEdit_TotalParamDetailButton,Totale stats
+DeckEdit_EventNothing,Er zijn geen bonussen beschikbaar omdat de periode van het evenement voorbij is.<br>
+DeckEdit_UnitNameDialogTitle,Eenheidsnaam
+DeckEdit_UnitNameDialogMessage,Voer een unitnaam in.
+DeckEdit_UnitNameDialogLimitNum,Maximaal 8 tekens
+DeckEdit_ClassmateButton,(Dummy)
+DeckEdit_ClassmateTotalParam,(Dummy)
+DeckEdit_PassiveSkillTotalParam,(Dummy)
+DeckEdit_EventBonusMessage,De evenementpuntenbonus wordt toegepast op de totale waarde van alle geselecteerde leden in je team.
+DeckEdit_EventBonusEventPointUp_ChallengeLive,Verhoog event-punten met {0}% in de Miracle Collection
+DeckEdit_EventBonusTotalPointUp_ChallengeLive,"Met Miracle Collection, de totale kracht van geselecteerde <br>idols wordt verhoogd."
+DeckEdit_EventBonusEventPointUp_LiveTry,Verhoog event-punten met {0}% in de Miracle Collection
+DeckEdit_EventBonusTotalPointUp_LiveTry,"Met Miracle Collection, de totale kracht van geselecteerde <br>idols wordt verhoogd."
+DeckEdit_EventBonusTotalPointUp,Lidbonus (totale idol-waarde)
+DeckEdit_EventBonusEventPointUp,(evenement-pts)
+DeckEdit_EventBonusNoRate,---
+DeckEdit_EventBonusRate,{0}%x {1} personen
+DeckEdit_EventBonusRateUp,Omhoog!
+DeckEdit_EventBonusInvalidMessage1,Eventbonus
+DeckEdit_EventBonusInvalidMessage2,Geen geschikte leden.
+DeckEdit_Passive,Passieve vaardigheid
+DeckEdit_LiveRole,(Dummy)
+DeckEdit_SupportRole,(Dummy)
+DeckEdit_SelectEventDialogTitle,Evenement selecteren
+DeckEdit_SelectEventDialogText,Toont de eventbonusinformatie van het geselecteerde event.<br>
+DeckEdit_SelectEventDialogCaution,Evenementen zonder evenementbonus worden niet weergegeven.
+DeckEdit_ClassmateDisp,Alle idols weergeven
+DeckEdit_TotalParamDetailDialogTitle,Eenheidsdetails
+DeckEdit_CenterSkillRiseValue,Centervaardigheid-stijging
+DeckEdit_EventBonusRiseValue,Evenementbonuswaarde
+DeckEdit_UpperArrowValue,Omhoog {0}
+DeckEdit_SkillLvValue,Lv. {0}
+DeckEdit_EventPt,Eventpunten
+DeckEdit_IconBonus,Mirakelster
+DeckEdit_StatusTotalAttention,De totale eenheidswaarde wordt berekend door de bonus van de centrale vaardigheid toe te voegen.
+DeckEdit_PositionEditMessage,Sleep de idol en verplaats om de opstelling te wijzigen
+DeckEditCharaSelect_PhotoTotalParam,Idol totale waarde
+LiveMission_DialogTitle,Beloningen voor het voltooien van {0}.
+LiveMission_DialogScoreRank,Score rang
+LiveMission_DialogComboCount,Combos
+LiveMission_DialogFullCombo,Perfect combo
+LiveMission_DialogClearCount,Aantal voltooiingen
+ShopCommon_FreeGem,Gratis Loveca
+ShopCommon_ChargeGem,Betaalde Loveca
+ShopCommon_Price,Prijs
+GemShop_FundSettlement,Betalingswetgeving<br>gebaseerd op de weergave
+GemShop_ServiceGuidelines,Servicevaluta-richtlijnen
+GemShop_MedalGuidelines,Loveca Gebruiksvoorwaarden
+GemShop_SpecifiedCommercialTransactions,Speciale handelswetgeving<br>gebaseerd op de wet
+GemShop_SpecifiedCommercialTransactions_DialogTitle,Specifieke handelswetgeving
+GemShop_FundSettlement_DialogTitle,Financiële transactiewetgeving
+GemShop_SpecifiedCommercialTransactions_FundSettlement,Specifieke handelswetgeving / wet op de betaling van fondsen
+GemShop_BuyComplete,Aankoop voltooid
+GemShop_BuyCompleteMessage,Je hebt {0} gekocht voor {1}.
+GemShop_Confirm,Bevestigen
+GemShop_BuyStaminaMessage,Loveca {0} verbruiken om LP met {1} te herstellen. Gaat dat goed? <br>
+GemShop_BuyStaminaCompleteTitle,LP-herstelvenster
+GemShop_BuyStaminaCompleteMessage,LP is hersteld tot {0}!
+GemShop_AgeConfirm,Leeftijdsverificatie
+GemShop_AgeMessage,Voer je geboortedatum in voor leeftijdsverificatie.
+GemShop_AgeNote,*Geboortedatum kan achteraf niet meer worden gewijzigd.*
+GemShop_AgeMaxMessage,Let op: voor spelers onder de 16 jaar geldt een maandelijks limiet van 5000 yen (inclusief belasting). <br> Voor spelers tussen de 16 en 18 jaar geldt een maandelijks limiet van 10.000 yen (inclusief belasting). <br> Vanaf 18 jaar is er geen limiet.
+GemShop_AgeNote1617,16-17 jaar:
+GemShop_AgeNote16,Onder de 16 jaar:
+GemShop_LimitOverMessage,De maximale aankooplimiet voor deze maand is bereikt.
+GemShop_LimitAlertOver,Je hebt deze maand al voor <br>{0} yen aan Loveca gekocht.
+GemShop_LimitAlert,Met deze aankoop overschrijdt je maandelijkse <br> Loveca-aankoop het bedrag van {0} yen.
+GemShop_PurchaseConfirm,Wilt u {0} kopen?
+GemShop_AgeSelectedTitle,Leeftijdsregistratie bevestigen
+GemShop_AgeSelectedContents,Is dit de juiste geboortedatum?
+GemShop_AgeSelectedConfirm,*Geboortedatum kan achteraf niet meer worden gewijzigd.*
+GemShop_AgeDecisionContents,Leeftijd bevestigd
+GemShop_AgeDecisionContentsFormat,Leeftijd bevestigd
+GemShop_AgeDecisionLimitLabel,Maandelijks: tot ¥{1} per {0}
+GemShop_AgeDecision,Instellingen voltooid.
+GemShop_Monthly,Maandelijks
+GemShop_AlertMessage,"De huidige maandelijkse uitgaven overschrijden {0} yen, wilt u toch doorgaan met de aankoop?"
+GemShopItem_LimitBuyAmount,Nog {0}
+GemShopItem_LimitDate,Nog {0}
+GemShopItem_Amount,{0} stuks
+GemShopItem_LimitAmount,Nog {0}
+GemShopItem_GemAmount,Loveca {0} stuks
+GemShopItem_Omake,<br> <size=22> <color=#F93981> + Gratis Loveca {0}
+GemShopItem_Charge,Betaalde Loveca ×{0}
+GemShopItem_Free,Gratis Loveca ×{0}
+GemShopItem_Money,¥{0}
+GemShopItem_Increase,Verhoog {0}
+GemShopItem_Period,Verkoopperiode
+GemShopItem_Season,{0} tot {1}
+GemShopItem_TicketInfo,Je ontvangt geen Loveca als je niet inlogt <br> Andere items worden naar je cadeaubox gestuurd <br> Ze worden direct aan je tegoed toegevoegd wanneer je inlogt <br> Je kunt de loginbonus vanaf 0:00 uur de dag na aankoop ontvangen.
+GemShopItem_TicketBuyInfo,<color=#D73C55>Gekocht</color><br>Geldig tot: {0}
+GemShopItem_TicketRemainPresent,Dagelijks cadeau: <br> <color=#D73C55> nog {0} keer </color>
+GemShopItem_ChargeGemComfirm,Je verbruikt {0} Loveca om {1} te kopen. <br> Dit item kan alleen met betaalde Loveca worden gekocht.
+GemShopItem_FreeGemComfirm,Je verbruikt {0} Loveca om {1} te kopen. <br> Er wordt eerst gratis Loveca gebruikt.
+GemShopItem_SubscriptionButton_MembersCard,Ledenpas bekijken
+GemShopItem_SubscriptionButton_Buy,Kopen
+GemShopItem_SubscriptionButton_Info,Details
+GemShopItem_Membership_CardNo,Lidmaatschapnr.
+GemShopItem_Membership_CardStart,Aanmeldingsdatum
+GemShopItem_Membership_CardChangeButton,Ontwerp<br>Wijzigen
+GemShopItem_Membership_WallpaperTitle,Ledenpas ontwerp wijzigen
+GemShopItem_Membership_WallpaperAlert,"Tik niet per ongeluk op de knop ""Bevestigen""."
+GemShopItem_Membership_WallpaperSelected,Geselecteerd
+GemShopItem_Membership_WallpaperUsing,In gebruik
+GemShopItem_Membership_WallpaperDecide,Beslissen
+GemShopItem_Membership_WallpaperNotice,Ledenpasontwerp gewijzigd.
+GemShopItem_Membership_InfoTitle,Details
+GemShopItem_Membership_InfoTabSummary,Overzicht
+GemShopItem_Membership_InfoTabLoginBonus,Inlogbonus
+GemShopItem_Membership_InfoTabMission,Uitdagingen
+GemShopItem_Membership_InfoSummaryTitle,MIRACLE-paslidmaad Overzicht
+GemShopItem_Membership_InfoSummaryUnsubscribe,Opzeggen
+GemShopItem_Membership_InfoLoginBonusTitle,MIRACLE-paslidmaatschap: speciale dagelijkse bonus!
+GemShopItem_Membership_InfoLoginBonusDescription,Ontvang Loveca door MIRACLE Pass-lid te worden! Log gedurende 20 dagen in en ontvang maximaal 1000 gratis Loveca!<br>Je kunt het vanaf de dag na je aanmelding ophalen.
+GemShopItem_Membership_InfoLoginBonusDayCount,Dag
+GemShopItem_Membership_InfoLoginBonusDayCountFormat,Dag {0}
+GemShopItem_Membership_InfoLoginBonusGotItem,Ontvangen items
+GemShopItem_Membership_InfoLoginBonusStatus,Ontvangen items
+GemShopItem_Membership_InfoLoginBonusClear,Ontvangen
+GemShopItem_Membership_InfoLoginBonusNotClear,Niet gehaald
+GemShopItem_Membership_InfoMissionTitle,"MIRACLE-pasleden, speciale missie!"
+GemShopItem_Membership_InfoMissionDescription,Voltooi alle uitdagingen en ontvang maximaal 1500 Loveca!<br>Let op: voltooi ze binnen 48 uur voor het einde van de periode.
+GemShopItem_Membership_InfoMissionClearCount,Aantal voltooide nummers
+GemShopItem_Membership_InfoMissionClearCountFormat,{0} keer voltooid
+GemShopItem_Membership_InfoMissionGotItem,Ontvangen items
+GemShopItem_Membership_InfoMissionStatusProgress,In behandeling
+GemShopItem_Membership_InfoMissionStatusClear,Voltooid
+GemShopItem_Membership_InfoMissionStatusReceived,Beloning ontvangen
+GemShopItem_Membership_InfoMissionButton,Ga naar taak
+ConfirmMedal_Gem,Loveca-overzicht
+ConfirmMedal_Log,Loveca-gegevens
+ConfirmMedal_ChargeGemReason,Je hebt [{0}] gekocht.
+DeckConfirm_LiveStartWarning,"Om een Live te starten, moet je 9 idols in de unit opstellen.<br>Stel de idols op."
+DeckConfirm_StaminaUse,{0} verbruiken
+DeckConfirm_AutoBurstDialogTitle,Verbruik auto-tickets instellen
+DeckConfirm_LiveBurstDialogTitle,Verbruik LP-instelling
+DeckConfirm_UseBurstDialogTitle,Gebruik Burst-instellingen
+DeckConfirm_UseBurstDialogBurstSetting,Standaard burstinstellingen
+DeckConfirm_UseBurstDialogThisTimeBurst,Deze keer te gebruiken burst
+DeckConfirm_UseBurstDialogAutoDescription,"Als je een skip-ticket gebruikt, wordt het een skip-spel."
+DeckConfirm_UseBurstDialogBurstWarning,*Skip-tickets worden gebruikt in volgorde van hun vervaldatum.<br>*Skip-tickets kunnen alleen worden gebruikt voor nummers en moeilijkheidsgraden die je al hebt uitgespeeld.
+DeckConfirm_UseBurstDialogAutoWarning,*Skip-tickets worden gebruikt in volgorde van hun vervaldatum.<br>*Skip-tickets kunnen alleen worden gebruikt voor nummers en moeilijkheidsgraden die je al hebt uitgespeeld.
+DeckConfirm_NoBurst,Niet in bezit
+DeckConfirm_CanNotUsedNoBurst,"Niet in bezit, kan niet worden gebruikt"
+DeckConfirm_CanNotUsedNoClear,Niet beschikbaar voor niet-geclearde nummers
+DeckConfirm_CanNotUsedNoClearShort,Niet beschikbaar zonder voltooiing
+DeckConfirm_LiveParam,Live-waarden
+DeckConfirm_AutoParam,Automatische waarden
+DeckConfirm_EventPointGet,Eventpunten
+DeckConfirm_EventGachaPointGet,Scouten (box) ontvangen
+DeckConfirm_ItemAndExpGet,Beloning · EXP
+DeckConfirm_Magni,x
+DeckConfirm_StaminaBoostNotSelect,Instellen
+DeckConfirm_StaminaBoostSelect,Installeer nu
+DeckConfirm_StaminaBoostWarning,"*Als het aantal dat je wilt verbruiken lager is dan het ingestelde aantal, wordt het volledige aantal verbruikt.*"
+DeckConfirm_StaminaBoostAutoWarning,※Bij automatisch spelen worden geen hoge scores of beloningen geregistreerd.
+DeckConfirm_Note,"Er is geen LP meer, dus het overslaan van deze ronde is niet mogelijk. Als je LP wilt herstellen, kies dan een methode: <br> <br> <br>"
+DeckConfirm_OptionButton,Opties
+DeckConfirm_HealthyBoostButton,LP
+DeckConfirm_StartButton,Live starten
+DeckConfirm_AutoOn,Auto: AAN
+DeckConfirm_AutoOff,Auto: UIT
+DeckConfirm_Passive,Passieve vaardigheid
+DeckConfirm_LiveRole,Live positie
+DeckConfirm_SupportRole,Supportpositie
+DeckConfirm_EventBonusTotalPointUp,Lidbonus (totale idol-waarde)
+DeckConfirm_EventBonusEventPointUp,(evenement-pts)
+DeckConfirm_EventBonusNoRate,---
+DeckConfirm_EventBonusRate,{0}%
+DeckConfirm_EventBonusRateUp,Omhoog!
+DeckConfirm_EventBonusInvalidMessage1,Eventbonus
+DeckConfirm_EventBonusInvalidMessage2,Geen geschikte leden.
+DeckConfirm_LiveBonusTypePointUp,Typebonus (totale idolwaarde)
+DeckConfirm_LiveBonusRate,{0}% {1} stuks
+DeckConfirm_LiveBonusRateUp,Omhoog!
+DeckConfirm_EventCandyAmount,{0} / {1}
+DeckConfirm_LiveConditionButton,Live-voorwaarden actief
+DeckConfirm_LiveConditionDialogTitle,Live-voorwaarden
+DeckConfirm_LiveConditionDialogCondition,Live-vereisten
+DeckConfirm_LiveConditionDialogRule,Live-regels
+DeckConfirm_LiveConditionDialogErrorMessage,Je kunt niet deelnemen omdat je niet aan de <color=#ff0000>live-vereisten</color> voldoet<br>.
+Story_MainStoryFirstSeason,Eerste seizoen
+Story_MainStorySecondSeason,Tweede seizoen
+Story_SeasonChapterNumberFormat,#{0} - {1}
+Story_ChapterNumberFormat,Hoofdstuk {0}
+Story_TitleWithChapterNumberFormat,"{0}, Aflevering {1}: ""{2}"""
+Story_ReleaseTitleWithChapterNumberFormat,"{0} <br>, aflevering {1}: ""{2}"""
+Story_StoryTopHeaderMainTitle,Verhaaloverzicht
+Story_StoryTopHeaderSubTitle,Verhaal
+Story_MainStoryListHeaderMainTitle,Verhaalselectie
+Story_MainStoryListHeaderSubTitle,Hoofdverhaal
+Story_SubStoryTopHeaderMainTitle,Groep selecteren
+Story_SubStoryTopHeaderSubTitle,nevenverhaal
+Story_SubStoryListHeaderMainTitle,Verhaalselectie
+Story_SubStoryListHeaderSubTitle,nevenverhaal
+Story_EventStoryTopHeaderMainTitle,Evenement selecteren
+Story_EventStoryTopHeaderSubTitle,Evenementverhaal
+Story_EventStoryListHeaderMainTitle,Verhaalselectie
+Story_EventStoryListHeaderSubTitle,Evenementverhaal
+Story_CardStoryTopHeaderMainTitle,Lid selecteren
+Story_CardStoryTopHeaderSubTitle,Verhaal
+Story_CardStoryListHeaderMainTitle,Verhaalselectie
+Story_CardStoryListHeaderSubTitle,Verhaal
+StoryPart_NumberFormat,Aflevering {0}
+StoryPart_TitleWithNumberFormat,"{0}, ""{1}"""
+StoryPart_TitleWithNumberTranslucentFormat,"<color=#804B413C> Aflevering {0}, ""{1}"" </color>"
+StoryPart_TitleListWithNumberFormat,{0} tot {1}
+StoryPart_SeasonChapterNumberFormat,#{0} - {1} - {2}
+StoryPart_ChapterNumberFormat,#{0} - {1}
+StoryPart_TitleWithChapterNumberFormat,"{0}, ""{1}"""
+StoryPart_RankReleaseDetailFormat,Rank naar {0} brengen
+StoryPart_GroupRankReleaseDetailFormat,Groepsrang naar {0} verhogen
+StoryPart_LiveReleaseDetailFormat,"{0} met een score van {1} of hoger halen, om <br> te voltooien."
+StoryPart_MissionReleaseDetailFormat,"Missie ""{0}"" voltooien"
+StoryPart_ReleaseInfo,Speel het spel en verhoog je rang!
+StoryPart_NotRelease,Nog niet vrijgespeeld of eerdere verhaaldelen niet gelezen.
+SubStory_GroupRankRewardDialogTitle,Groepsrangbeloningen
+SubStory_GroupRankRewardDialogUntilRankUp,Tot volgende rang
+SubStory_GroupRankRewardDialogTotalExp,Totale EXP
+SubStory_GroupRankRewardDialogRank,Rang
+SubStory_GroupRankRewardDialogMax,MAX
+ConfirmMedal_DialogTitle,Loveca-overzicht
+ConfirmMedal_ChargeMedal,Betaald
+ConfirmMedal_FreeMedal,Gratis
+ConfirmMedal_TotalMedal,Totaal Loveca
+ConfirmMedal_Warning,Gratis Loveca wordt eerst verbruikt.
+ConfirmMedal_UpdateHistory,Bijwerken
+ConfirmMedal_HistoryTitle,Loveca-gegevens
+ConfirmMedal_UsedHistoryTitle,Gebruikshistorie
+ConfirmMedal_AcquiredHistoryTitle,Ontvangen geschiedenis
+ConfirmMedal_HistoryDate,Gebruiksdatum
+ConfirmMedal_HistoryReason,Doel
+ConfirmMedal_HistoryNote,De Loveca-geschiedenis van ontvangen en verbruikte items wordt maximaal 3 maanden weergegeven.
+ConfirmMedal_HistoryFreeMedal,Gratis
+ConfirmMedal_HistoryChargeMedal,Betaald
+Ornament_EffectValueFormat,<color=#D73C55> {0:0.##}% </color>
+Ornament_UnlockDetail_GroupLevelReward,Wordt vrijgespeeld bij {0}groepsrang{1}.
+Ornament_UnlockDetail_StoryPartReward,Wordt vrijgespeeld door <br> {0} <br> te bekijken.
+Ornament_UnlockDetail_MissionReward,Wordt vrijgespeeld bij het voltooien van missie <br> {0} <br>.
+Ornament_PlaceButton,Plaatsen
+Ornament_CannnotPlace,Kan niet plaatsen.
+Ornament_TalkUnlockLevel,Niveau <color=#D73C55> wordt vrijgespeeld bij {0} en </color>
+Ornament_TeaSetLevelUpConditionLabel,▼Levelvereiste
+Ornament_ReplaceDialog_OrnamentType,★{0}★
+Ornament_EventEffectDetail,"Bij het spelen van ""{3}"" in ""{2}"", gebeurt {0}<br> (behalve bij andere Live-evenementen {1})."
+StaminaCharge_NoChargeItem,Je hebt geen LP-snoepjes.
+StaminaCharge_RecoveryConfirmDialogTitle,LP herstel bevestigen
+StaminaCharge_RecoveryConfirmDialogMessage,Gebruik je het geselecteerde item om je LP met {0} te herstellen?
+StaminaCharge_RecoveryConfirmDialogWarningNoItem,Je hebt geen LP-herstelpunt.
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit1,Let op: LP kan niet worden hersteld als de huidige LP hoger is dan de maximale LP.
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit2,"Let op: als LP 999 overschrijdt, wordt het weergegeven als 999+."
+StaminaCharge_Special_Commercial_Code,Specifieke handelswetgeving / wet op de betaling van fondsen
+StaminaCharge_RecoveryFrequency,{0} herstellen
+StaminaCharge_StaminaLabel,LP
+StampTab_DefaultStamp,Basis-stickers
+StampTab_RareStamp,Speciale stempels
+StampTab_HistoryStamp,Geschiedenis
+StampTab_FavoriteStamp,Favoriet
+NotExistsStamp_DefaultStamp,Geen standaardstempels gevonden!
+NotExistsStamp_RareStamp,Je hebt geen zeldzame stempel.
+NotExistsStamp_HistoryStamp,Geen stempelgeschiedenis gevonden
+NotExistsStamp_FavoriteStamp,Je hebt geen favoriete stempel ingesteld.
+NotExistsStamp_RareStampSub,"Zeldzame stempels kunnen worden verkregen via evenementen, enz."
+NotExistsStamp_HistoryStampSub,Stempels worden opgeslagen.
+NotExistsStamp_FavoriteStampSub,Je kunt je favoriete stempel instellen op het Live-selectiescherm.
+MemberIllustrateList_SelectCharaMessage,Selecteer een lid.
+MemberCharaTop_CostumeChange,Kostuum wijzigen
+MemberCharaTop_Profile,Profiel
+MemberCharaTop_AriaTalk,Mini-verhaal
+MemberCharaTop_Album,Album
+LiveSelect_UseStaminaBoost,Met {0} spelen
+LiveSelect_NoneStaminaBoost,met Live
+LiveSelect_Note,"Als je LP wilt herstellen, kies dan een methode.<br>Selecteer de manier waarop je het wilt herstellen."
+LiveSelect_Title,LP controleren
+LiveSelect_SettingStaminaNum,Verbruikte LP
+LiveSelect_HasStaminaNum,Aantal
+LiveSelect_NoItem,Je hebt er geen.
+LiveSelect_PenaltyTitle,Functiebeperking
+LiveSelect_PenaltyMessage,In de coöperatieve Live-modus is er gedrag vastgesteld dat hinderlijk is voor andere spelers <br>. Daarom zijn tijdelijk bepaalde functies beperkt <br>. Gelieve te wachten tot deze beperkingen worden opgeheven.
+LiveSelect_PenaltyUnlockTime,解除までお待ちください
+LiveSelect_Belonging,Items
+LiveSelect_Medal,Loveca
+LiveSelect_ConsumEventStamina,Mirakelster verbruiken {0} stuks
+LiveSelect_EventTerm,Periode:
+LiveSelect_EventRankingAll,Totaal
+LiveSelect_EventRankingGroup,Groep
+LiveSelect_EventRank,Rang
+LiveSelect_HasEventCandy,Heeft Miracle Star
+LiveSelect_HasEventPick,In bezit
+LiveSelect_HasEventTicket,In bezit
+LiveSelect_EventCurrencyCandy,stuks
+LiveSelect_EventCurrencyPick,stuks
+LiveSelect_EventCurrencyTicket,stuks
+LiveSelect_EventAcquisitionCandy,(Dummy) Verkrijgbaar!
+LiveSelect_EventAcquisitionPick,(Dummy) Verkrijgbaar!
+LiveSelect_EventAcquisitionTicket,(Dummy) Verkrijgbaar!
+LiveSelect_EventCandyInfo,Verzamel en speel de evenement-Live!
+LiveSelect_EventPickInfo,Verzamel en ga naar de winkel!
+LiveSelect_EventTopPickInfo,Bekijk het bingokaart!
+LiveSelect_EventTicketInfo,（ダミー）を集めてイベントをプレイしよう！
+LiveSelect_EventTopTicketInfo,Bekijk de samenwerkingsmissie!
+LiveSelect_TeacherLive,(Dummy) Live
+LiveSelect_EventTermTitle,Periode:
+LiveSelect_EventResultTermTitle,Resultaat bekendmaking:
+LiveSelect_EventOpenLabel,Evenement loopt nu
+LiveSelect_EventCloseLabel,Event eindigt
+LiveSelect_EventRemainDay,Nog {0} dagen tot het einde van het evenement
+LiveSelect_EventRemainTime,Nog {0} tot het einde van het evenement: {1:D2}
+LiveSelect_EventRankingAggregate,Rankings worden samengesteld...
+LiveSelect_Aggregate,Wordt verwerkt
+LiveSelect_NowRankingAgreegating,Rankings worden nu samengesteld
+LiveSelect_EventRewardGetTime,Beloningsperiode: {0}
+LiveSelect_EventClose,Het evenement is afgelopen.
+LiveModeSelect_SoloLiveButton,Vrije Live
+LiveModeSelect_MultiLiveButton,Coöperatieve Live
+LiveModeSelect_MultiUnitSettings,Coöperatieve<br>opstelling
+Migration_TakeOver,Gegevens overzetten
+Migration_IssueInfo,"Volg deze stappen om je gegevens voor te bereiden op een overdracht, zodat je ze kunt behouden bij het wisselen van apparaat.<br>Je kunt dit ook gebruiken als back-up voor het geval je de app verwijdert en je gegevens verliest."
+Migration_IssueInfoNote,*Controleer eerst de stappen voor de migratie.*
+Migration_Details,Migratiedetails
+Migration_IssueNote,"Bij overzetten naar een ander besturingssysteem worden betaalde Loveca omgezet in gratis Loveca. <br> Bij overzetten binnen hetzelfde besturingssysteem blijven ze zoals ze zijn. <br> Als je naar een ander besturingssysteem of een andere winkelaccount overzet, annuleer dan vooraf zelf je MIRACLE-abonnement. <br> Als je meerdere keren/dubbel bent ingeschreven voor het MIRACLE-abonnement, kun je de voordelen niet dubbel ontvangen."
+Migration_IssueNote2,"Data-overdracht zal de gamegegevens op dit apparaat verwijderen en overschrijven met de gegevens van het originele account. <br>Bij overdracht tussen verschillende besturingssystemen worden betaalde Loveca omgezet in gratis Loveca. <br>Bij overdracht binnen hetzelfde besturingssysteem blijven ze zoals ze zijn. <br>Als je naar een ander besturingssysteem of een ander winkelaccount wilt overdragen, annuleer dan eerst zelf je MIRACLE-abonnement. <br>Als je meerdere keren/dubbel bent ingeschreven voor het MIRACLE-abonnement, kun je de voordelen niet dubbel ontvangen."
+Migration_Process,Migratiedetails
+Migration_Setting,Data-overdracht instellingen
+Migration_SettingsInfo,Stel een wachtwoord in voor de data-overdracht.
+Migration_ID,Migratie-ID
+Migration_Password,Wachtwoord
+Migration_PasswordNote,"* Minimaal 8, maximaal 32 tekens (alleen letters en cijfers)"
+Migration_DispPassword,Ingevoerde wachtwoord weergeven
+Migration_SettingsButton,Instellen
+Migration_Complete,Migratie voltooid
+Migration_CompleteInfo,"De voorbereidingen voor de data-overdracht zijn voltooid. <br> Nadat u de app op het doelapparaat hebt gedownload, voert u de overdrachts-ID en het wachtwoord in via ""Data-overdracht"" in het menu rechtsboven op het titel scherm. <br>"
+Migration_IDCopy,ID gekopieerd
+Migration_CompleteNote,"Let op, dit zijn belangrijke gegevens, deel ze niet met anderen <br>. Bewaar een notitie of maak een screenshot <br>. Het wachtwoord kan later worden gewijzigd."
+Migration_Migration,Gegevensmigratie uitvoeren
+Migration_MigrationInfo,Kies de ingestelde migratiemethode.
+Migration_MigrationInfo2,Voer je overdracht-ID en wachtwoord in.
+Migration_MigrationInfo3,"Door de volgende instellingen voor gegevensoverdracht in te stellen, kun je je gegevens overzetten bij een apparaatwissel.<br>Je kunt dit ook gebruiken als back-up om gegevensverlies door het verwijderen van de app te voorkomen."
+Migration_MigrationNote,"Bij overzetten naar een ander besturingssysteem worden betaalde Loveca omgezet in gratis Loveca. <color=#C12424> Bij overzetten binnen hetzelfde besturingssysteem blijven ze zoals ze zijn. <br> Als je wilt overzetten naar een ander besturingssysteem of een andere winkelaccount, annuleer dan eerst zelf je MIRACLE-abonnement. <br> MIRACLE-abonnement: bij meerdere/dubbele inschrijvingen kun je de voordelen niet dubbel ontvangen. <br> </color>"
+Migration_MigrationNote2,"Door de data over te zetten, worden de gamegegevens op dit apparaat verwijderd en vervangen door de gegevens van het vorige account. <br> <color=#C12424> Als je tussen verschillende besturingssystemen overzet, worden betaalde Loveca omgezet in gratis Loveca. <br> Bij een overdracht binnen hetzelfde besturingssysteem blijven ze zoals ze zijn. <br> Zorg ervoor dat je je MIRACLE-abonnement opzegt voordat je naar een ander besturingssysteem of een ander winkelaccount overstapt. <br> Als je meerdere keren/dubbel bent ingeschreven voor het MIRACLE-abonnement, kun je de voordelen niet dubbel ontvangen. </color>"
+Migration_MigrationNoteConfirm,"Door de data over te zetten, worden de gamegegevens op dit apparaat verwijderd en vervangen door de gegevens van het vorige account. <br> <color=#C12424> Als je tussen verschillende besturingssystemen overzet, worden betaalde Loveca omgezet in gratis Loveca. <br> Bij een overdracht binnen hetzelfde besturingssysteem blijven ze zoals ze zijn. <br> Zorg ervoor dat je je MIRACLE-abonnement opzegt voordat je naar een ander besturingssysteem of een ander winkelaccount overstapt. <br> Als je meerdere keren/dubbel bent ingeschreven voor het MIRACLE-abonnement, kun je de voordelen niet dubbel ontvangen. </color>"
+Migration_MigrationConfirm,Bevestig overdracht
+Migration_MigrationData,Te migreren spelgegevens
+Migration_MigrationDeleteData,Gegevens van dit apparaat
+Migration_UserID,Gebruikers-ID
+Migration_UserName,Gebruikersnaam
+Migration_Rank,Gebruikersrang
+Migration_ChargeMedal,Betaalde Loveca
+Migration_FreeMedal,Gratis Loveca
+Migration_MigrationButton,Gegevens overzetten
+Migration_MigrationFinalConfirm,Eindbevestiging
+Migration_MigrationFinalConfirmInfo,"Door de data-overdracht worden de gamegegevens op dit apparaat verwijderd en overschreven met de gegevens van het originele account <br>. <size=29> <br> <br> <color=#C12424> Als je tussen verschillende besturingssystemen overstapt, worden betaalde Loveca omgezet in gratis Loveca <br>. Bij een overdracht binnen hetzelfde besturingssysteem blijven ze zoals ze zijn <br>. Zorg ervoor dat je je MIRACLE-abonnement opzegt voordat je naar een ander besturingssysteem of een ander winkelaccount overstapt <br>. Als je meerdere/dubbele MIRACLE-abonnementen hebt, kun je de voordelen niet dubbel ontvangen </size>. </color>"
+Migration_MigrationFinalConfirmNote,<color=#C12424>Weet u zeker dat u wilt overdragen?</color>
+MemberList_DialogTitle,Favoriete lid wijzigen?
+MemberList_DialogConfirm,Wilt u uw favoriete lid wijzigen?
+MemberList_ChangeButton,Ja
+MemberList_PhotoBoxButton,Rustruimte
+MemberList_TypeBonus,Typebonus
+MemberList_MemberBonus,Lid-bonus
+MemberList_TypeAndMemberBonus,type- en lidbonussen
+MemberList_FilteringButton,Filteren
+MemberList_SortButton,Sorteren
+MemberList_ThumbnailSize,Thumbnailgrootte
+MemberList_Change,Wijzigen
+MemberList_Small,Klein
+MemberList_Big,Groot
+MemberList_SizeChangeDialogTitle,Thumbnailgrootte wijzigen
+MemberList_SizeChangeDialogMessage,Selecteer de gewenste thumbnailgrootte.
+Option_ResetToDefaultButton,Standaardinstellingen
+Option_LiveScreenPreview,Live-schermvoorbeeld
+Option_Live_Title,Live-instellingen
+Option_Live_ConfirmBeforeLive,Opties voor Live weergeven
+Option_Live_RhythmIconSpeed_Title,Ritme-icoonsnelheid
+Option_Live_RhythmIconSize_Title,Grootte ritme-icoon
+Option_Live_LaneLength,Ritme-icoonpositie
+Option_Live_ComboPosition,Combo positie
+Option_Live_InputResultPosition,Positie beoordelingsweergave
+Option_Live_SkillEffectTextView,Vaardigheidseffect weergeven
+Option_Live_CenterIcon,Middenicoon verkleinen
+Option_Live_PositonCenter,Centrum
+Option_Live_PosiionUpper,Bovenkant
+Option_Live_BluetoothConnectionState_Title,Bluetooth™
+Option_Live_BluetoothConnectionState_On,Verbinden
+Option_Live_BluetoothConnectionState_Off,Niet verbonden
+Option_Live_TapTiming_Title,Tik-aanpassing
+Option_Live_TapTiming_Left_Title,Scherm links
+Option_Live_TapTiming_Right_Title,Scherm rechts
+Option_Live_TapTiming_Center_Title,Centrale icoon
+Option_Live_TapTiming_Left_Button,Links uitlijnen
+Option_Live_TapTiming_Right_Button,Rechts uitlijnen
+Option_Live_TapTiming_Normal_Title,Normaal
+Option_Live_TapTiming_Bluetooth_Title,Bij Bluetooth-verbinding
+Option_Live_TapTiming_Button,Tik aanpassen
+Option_Live_TapTiming_TestLive,Test Live
+Option_Live_LongPressLineDepth_Title,Dikte langdruklijn
+Option_Live_SameTimePressLine_Title,Gelijktijdige druklijnen weergeven
+Option_Live_SliderSameTimePressLine_Title,Gelijktijdige druklijnen voor swing-iconen weergeven
+Option_Live_Skill_Effect_Title,Speciale aanval-animatie
+Option_Live_TapTiming_Effect_Title,Timingweergave
+Option_Live_RhythmIconMovePos_Title,Ritme-icoon vertraging
+Option_Live_RhythmIconMovePos_Type1,Laatst vertragen
+Option_Live_RhythmIconMovePos_Type2,Eerst vertragen
+Option_Live_ComboUITransparent_Type3,Constante snelheid
+Option_Live_ComboTransparent,Combo-weergave transparantie
+Option_Live_ComboSize,Combo-weergave grootte
+Option_Live_InputResultTransparent,Helderheid beoordeling
+Option_Live_InputResultSize,Grootte weergave beoordeling
+Option_Live_RhythmIconPos,Hoogte ritme-icoon
+Option_Live_RhythmIconStartPos,Hoogte midden-icoon
+Option_Live_FpsSetting,Live FPS
+Option_Live_Mirror_Title,Noten weergave omdraaien
+Option_Live_LaneEffect_Title,Lane-effecten
+Option_Live_FillsUpLivePosition_Title,Extra lid toevoegen
+Option_Live_Bluetooth_Caution,Bluetooth™-apparaat verbinding volgt de instellingen van elk apparaat.<br>
+Option_Live_Movie_Disp,Live video
+Option_Live_Movie_Brightness,Live videohelderheid
+Option_Live_Movie_Caution,Standaard is [AAN].
+Option_LiveSkin_Title,Live-icoon instellingen
+Option_LiveSkin_Lane_Title,Lane/taplijn
+Option_LiveSkin_LaneBrightness_Title,Helderheid lijnen
+Option_LiveSkin_TapEffect_Title,Tikgeluidseffecten
+Option_LiveSkin_RhythmIcon_Title,Notenontwerp
+Option_LiveSkin_SE_Title,Tikgeluid
+Option_LiveSkin_SE_TapButton,Tikgeluidstest
+Option_LiveSkin_SE_FlickButton,Flickgeluidstest
+Option_LiveProduction_Title,Volume-instellingen
+Option_LiveProduction_Production_Title,Live-effect
+Option_LiveProduction_ActionMode_Title,Modus
+Option_LiveProduction_ActionMode_Regular,Standaard
+Option_LiveProduction_LiveEffect,Live-effect
+Option_LiveProduction_ActionMode_Light,Licht
+Option_LiveProduction_ActionMode_Full,Hoog kwaliteit
+Option_LiveProduction_LiveMonitor,Live-monitor
+Option_LiveProduction_TapEffectSize,Tik-effectgrootte
+Option_LiveProduction_MemberCutIn_Title,(Dummy)
+Option_LiveProduction_ShowSkillEffect_Title,Vaardigheidseffecten weergeven
+Option_LiveProduction_PlayClimaxMovie_Title,(Dummy) effect
+Option_LiveProduction_Volume_Title,Live-volume
+Option_LiveProduction_Volume_Music,Muziek
+Option_LiveProduction_Volume_SE,Effecten
+Option_LiveProduction_Volume_Tap,Effecten
+Option_LiveProduction_Volume_Voice,音声
+Option_Volume_Title,Volume-instellingen
+Option_Volume_LiveSettings,Live-volume instellingen
+Option_Volume_MusicVolume,Muziekvolume
+Option_Volume_SEVolume,Effectgeluid
+Option_Volume_OtherSettings,Andere geluidsinstellingen
+Option_Volume_BGMVolume,BGM-volume
+Option_System_Title,Systeeminstellingen
+Option_System_Volume_Title,Systeemvolume
+Option_System_Volume_BGM,Muziekvolume
+Option_System_Volume_SE,Effectgeluid
+Option_System_Volume_Voice,音声
+Option_System_Download_Title,Downloaden
+Option_System_Download_Button,Vooraf <br>downloaden
+Option_System_Download_LiveMember,Live-leden animaties
+Option_System_Notification_Title,Meldingen
+Option_System_Notification_Stamina_Full,Volledig hersteld
+Option_System_Notification_Midnight,Nachtelijke meldingen
+Option_System_Notification_Detail,"Houd er rekening mee dat als meldingen zijn uitgeschakeld in de instellingen van uw apparaat, u geen meldingen van de app ontvangt.<br>De nachtperiode is (0:00–5:59)."
+Option_System_Alert_Title,Waarschuwingen
+Option_System_Alert_UseTooMuch,Gebruiksbedrag melding
+Option_System_Alert_Detail,Een bevestigingsscherm verschijnt als uw totale uitgaven voor de afgelopen maand €100.000 overschrijden.
+Option_System_Others_Title,Overige instellingen
+Option_System_FixScreenDirection,Schermrotatie vastzetten
+Option_System_StaminaConfirm,LP-waarschuwing
+Option_System_AutoBurstConfirm,Skip-ticketwaarschuwing
+Option_System_BatteryConfirm,Batterijwaarschuwing
+Option_System_BluetoothConfirm,Bluetooth-verbinding bevestigen
+Option_System_HomeSceneMoviePlay,Startschermvideo
+Option_System_IgnoreGachaUrEffect,UR-animaties niet overslaan
+Option_System_Live2D_Character_Title,Weergaveleden
+Option_System_Live2D_Character_UseRecommend,Favoriete lid
+Option_System_Live2D_Character_UseDeck,Groepslid
+Option_System_Live2D_Character_Detail,De weergegeven leden worden bijgewerkt wanneer je van scherm wisselt.
+Option_System_FpsToggle,FPS
+PresentBox_Scroll_AcquiredDateTimeLabel,Ontvangstdatum
+PresentBox_Scroll_ReceivedDateTimeLabel,Ontvangstdatum
+PresentBox_Scroll_ExpireDateTimeLabel,Vervaldatum
+PresentBox_Tab_Receivable,Nog niet geclaimd
+PresentBox_Tab_Received,Ontvangen
+PresentBox_Title,Cadeau
+PresentBox_MainTitle,Cadeaulijst
+PresentBox_SubTitle,Cadeau
+PresentBox_Receive,Ontvangen
+PresentBox_AllReceive,Alles ontvangen
+PresentBox_EmptyReceivable,Er zijn geen cadeaus om weer te geven.
+PresentBox_EmptyReceived,Er zijn geen cadeaus om weer te geven.
+PrivateEnter_Title,Live zoeken
+PrivateEnter_ConfirmTitle,Live deelnemen?
+PrivateEnter_Message,Voer een 6-cijferige Live ID in.
+PrivateEnter_RoomID,Live-ID
+PrivateEnter_EnterButton,Deelnemen
+PrivateEnter_SearchButton,Zoeken
+PrivateEnter_ConfirmRoom,Coöperatieve Live {0}
+PrivateEnter_ConfirmEventRoom,Evenement (demo) Live
+PrivateEnter_ConfirmRoomID,Ruimte-ID {0}
+PrivateEnter_ConfirmJoinMessage,Een Live met dezelfde ID is gevonden.<br>Wil je deelnemen aan de Live?
+PrivateEnter_ConfirmJoinNotConditionMessage,Je voldoet niet aan de deelnamevoorwaarden voor deze Live <br> <br> Deelnamevoorwaarden voor Live <br> {0}
+PrivateEnter_ConfirmJoinNotTotalPowerMessage,Je hebt niet genoeg totale kracht om deel te nemen.
+PrivateEnter_ConfirmUserName,Gebruikersnaam
+PrivateCreate_Title,Live aanmaken
+PrivateCreate_RoomCompleteTitle,Live aanmaken voltooid
+PrivateCreate_Message,Voer maximaal {0} tekens in!
+PrivateCreate_RoomTypeTitle,Live-beloning
+PrivateCreate_RoomTypeNormal,Normaal
+PrivateCreate_RoomTypeSpecial,Dag
+PrivateCreate_RoomConditionTitle,Live-naam
+PrivateCreate_RoomConditionFree,GRATIS PAS
+PrivateCreate_RoomConditionBasic,BASIC PAS
+PrivateCreate_RoomConditionElite,ELITE PAS
+PrivateCreate_RoomConditionMaster,MASTER PASS
+PrivateCreate_RoomIDTitle,Live-ID
+PrivateCreate_CommentTitle,Korte beschrijving
+PrivateCreate_CommentInput,Voer max. 10 tekens in
+PrivateCreate_IDCopyButton,ID kopiëren
+PrivateCreate_CreateButton,Maken
+PrivateCreate_EnterButton,Deelnemen
+PrivateCreate_RoomIdCopy,Live-ID gekopieerd
+PrivateCreate_ConfirmMessage,Live is gemaakt.<br>Wil je deelnemen aan de Live?
+FriendInviteReceive_Title,Vriend uitnodigen
+FriendInviteReceive_Check,We controleren de vrienduitnodiging...
+FriendInviteReceive_NotMessage,Er zijn momenteel geen vrienduitnodigingen voor samenwerkings-Live's.<br>Je kunt vrienden uitnodigen door een privé-Live te maken.
+FriendInviteSend_Title,Vriend uitnodigen
+FriendInviteReceive_SubTitle,Je hebt een uitnodiging voor een coöperatieve Live ontvangen.<br>Selecteer de Live waarin je wilt deelnemen.
+FriendInviteSend_Message,Alle vrienden uitnodigen?
+FriendInviteSend_CheckMessage,Alleen naar favoriete vrienden sturen
+DeckTop_DeckEditTag,Unit<br>opstellen
+DeckTop_CostumeTag,Kostuum wijzigen
+DeckTop_PracticeTag,Les
+DeckTop_SkillPracticeTag,スキル<br>レッスン
+DeckTop_TrainingTag,Ontgrendelen
+DeckTop_MemberListTag,Idol<br>lijst
+DeckTop_ExchangeTag,Wisselen
+DeckTop_CharacterIllustrateTag,Lid-encyclopedie
+DeckCharaSelect_LeaderChangeButton,Leader instellen
+DeckCharaSelect_ParamNothing,---
+DeckCharaSelect_SubDeckNoSkill,Sub-unit idols activeren geen vaardigheden.
+SortDialog_Title,Idol sorteren
+SortDialog_FilteringTitle,Filteren
+SortDialog_SortTitle,Sorteren
+SortDialog_DefaultButton,Alles deselecteren
+SortDialog_AllSelectButton,Alles selecteren
+SortDialog_AllReleaseButton,Alles deselecteren
+SortDialog_LiveSkillWord,Vaardigheid
+SortDialog_LiveSkillScoreUp,Score verhogen
+SortDialog_LiveSkillConditionalScoreUp,Voorwaardelijk<br>scoreboost
+SortDialog_LiveSkillScoreUpAndLifeHeal,Score-up <br>levensherstel
+SortDialog_LiveSkillScoreUpAndResultUp,Score-up <br>beoordelingsverbetering
+SortDialog_LiveSkillPowerHeal,HP herstel
+SortDialog_LiveSkillEnhance,Beoordeling verhogen
+SortDialog_LiveSkillOther,Anders
+SortDialog_LiveSkillConditionalOnlyScoreUp,Specifieke voorwaarde<br>score verhogen
+SortDialog_LiveSkillEnergyConditionalLifeHealScoreUp,HP-conditie<br>Score of herstel
+SortDialog_FilterGroup,Groep
+SortDialog_FilterType,type
+SortDialog_FilterAwakening,Ontgrendelen
+SortDialog_AwakeningAll,Alles
+SortDialog_Awakened,Ontgrendeld
+SortDialog_Unawakened,Niet ontgrendeld
+SortDialog_PassiveSkillWord,Passieve vaardigheid
+SortDialog_PassiveSkillEffectWord,Effectdoel
+SortDialog_PassiveSkillEffectPart,Instrumentpositie
+SortDialog_PassiveSkillEffectPartRole,positie
+SortDialog_PassiveSkillEffectPartAndPartRole,Beide
+SortDialog_PassiveSkillPartWord,◆Effectieve instrumentpart◆
+SortDialog_PassiveSkillSuitWord,◆Effectieve idol-type◆
+SortDialog_PassiveSkillMatchBothWord,◆Gecombineerde criteria◆
+SortDialog_PassiveSkillSubPartWord,◆Overig◆
+SortDialog_PassiveSkillSubPartWordPowerUp,Begin-HP verhogen
+SortDialog_EpisodeReadAll,Alles
+SortDialog_EpisodeReadNotEpisode,Nog niet gelezen
+SortDialog_EpisodeReadNotSpecialEpisode,Speciaal<br>Niet gelezen
+SortDialog_SortAllStatus,Totale score
+SortDialog_SortSoul,Smile
+SortDialog_SortTechnic,Pure
+SortDialog_SortAppeal,Cool
+SortDialog_SortUnlock,Verkregen in volgorde
+SortDialog_SortRarity,Zeldzaamheid
+SortDialog_SortLevel,Niveau
+SortDialog_SortSkillLevel,Vaardigheidsniveau
+SortDialog_SortSkill,Vaardigheid
+SortDialog_SortMember,Lid
+SortDialog_SortFavorite,Favoriet
+SortDialog_SortHp,HP
+SortDialog_Kizuna,Band
+SortDialog_EventPtBonus,Evenement-pt bonus
+SortDialog_TypeAll,Alle selecteren
+SortDialog_PassiveSkillMatchBothAnd,Instrumentpartij en type komen allebei overeen
+SortDialog_PassiveSkillMatchBothOr,Instrumentpart of type komt overeen
+CostumeSelectPortrait_Top,Tik op dit scherm om <br>de volledig schermmodus af te sluiten.
+CostumeSelectPortrait_Selected,Geselecteerd
+LocalNotification_Title,SchFes 2
+LocalNotification_Ticker,Je LP is volledig hersteld.
+LocalNotification_Message,Je LP is volledig hersteld.
+LocalNotification_Description,Notificatie
+LiveDownload_State_Downloading,Bezig met laden...
+LiveDownload_State_Complete,Klaar!
+LiveScene_Dialog_ContinueTitle,Live hervatten
+LiveScene_Dialog_ContinueMessage,Wil je <color=#C12424> {0} Loveca verbruiken om je HP volledig te herstellen en de Live voort te zetten? </color>
+LiveScene_Dialog_ContinueGemShortageTitle,Loveca-tekort
+LiveScene_Dialog_ContinueGemShortageMessage,Onvoldoende Loveca om<br>de Live te hervatten.
+LiveScene_Dialog_FailureTitle,Live mislukt
+LiveScene_Dialog_FailureMessage,HP is op<br><br> Loveca verbruiken om HP volledig te herstellen en opnieuw te beginnen<color=#C12424>{0}個</color><br>
+LiveScene_Dialog_FailureMessage_EventSpirit,HP is op<br><br> Loveca verbruiken om HP volledig te herstellen en opnieuw te beginnen<color=#C12424>{0}個</color><br>
+LiveScene_Dialog_PauseTitle,Pauzeer
+LiveScene_Dialog_PauseMessage,"Wil je de Live beëindigen en terugkeren naar het liedjesselectiescherm? <br> <br> <color=#C12424> Let op: als je dit doet, worden er geen LP's verbruikt. </color>"
+LiveScene_Dialog_PauseMessage_EventChallenge,Wil je de Live beëindigen en terugkeren naar het liedjesselectiescherm? <br> <br> <color=#C12424> Miracle Stars worden niet verbruikt als je beëindigt. </color>
+LiveScene_Dialog_RetireConfirmTitle,Live beëindigen
+LiveScene_Dialog_RetireConfirmMessage,"Live beëindigen betekent dat je geen beloning ontvangt. <br> Wil je terugkeren naar Live en verder spelen? <br> <br> <color=#C12424> Let op: als je stopt, worden er geen LP verbruikt. </color>"
+LiveScene_Dialog_RetireConfirmMessage_EventChallenge,Je ontvangt geen beloning als je de Live beëindigt. <br> Wil je terugkeren naar de Live en verder spelen? <br> <br> <color=#C12424> Houd er rekening mee dat Miracle Stars niet worden verbruikt als je stopt. </color>
+LiveScene_Dialog_SuspendButton,Live beëindigen
+LiveScene_Dialog_CancelButton,Pauzeer
+LiveScene_Dialog_ReheasalRetryConfirmMessage,Ga je de Live opnieuw beginnen?
+LiveScene_Dialog_ReheasalRetireConfirmMessage,Live beëindigen en terug naar selectie?
+LiveScene_MultiWaitOtherPlayerLoading,Lid wordt voorbereid...
+LiveScene_MultiWaitOtherPlayerPlaying,Lid is bezig met een Live
+LiveScene_MultiUserIntroduction_Vs,Live met deze speler
+LiveScene_MultiUserIntroduction_EventHomework,Live met deze speler
+LiveScene_SkillBoard_Trigger,Vaardigheid activeren
+LiveScene_VoltageGaugeLv1,(dummy) LV 1
+LiveScene_VoltageGaugeLv2,(Dummy) LV 2
+LiveScene_VoltageGaugeLv3,(Dummy) LV 3
+LiveScene_VoltageGaugeLv4,(Dummy) LV 4
+LiveScene_VoltageGaugeLvMax_ClimaxReady,CLIMAX-tijd wordt voorbereid
+LiveScene_VoltageGaugeLvMax_ClimaxPlaying,CLIMAX-TIJD IS ACTIEF!!
+LiveScene_VoltageGaugeLvMax_ClimaxEnd,CLIMAX-tijd voorbij
+LiveScene_VoltageGaugeLvMax_ClimaxPerfect,CLIMAX PERFECT!!
+LiveScene_AutoPlayComment,"Automatische weergave, hoge score wordt toegepast."
+LiveScene_Dialog_RestartConfirmTitle,Opnieuw beginnen
+LiveScene_Dialog_RestartConfirmMessage,"Wil je de Live beëindigen en opnieuw beginnen? <br> <br> <color=#C12424> Als je dat doet, worden er geen LP's verbruikt. </color>"
+LiveScene_Dialog_RestartConfirmMessage_EventSpirit,"Wil je de Live beëindigen en opnieuw beginnen? <br> <br> <color=#C12424> Als je dat doet, worden er geen Miracle Stars verbruikt. </color> <br> <br>"
+LiveScene_Dialog_ContinueSpiritShortageTitle,Mirakelsteren onvoldoende
+LiveScene_Dialog_ContinueSpiritShortageMessage,Er zijn niet genoeg Miracle Stars <br>. Miracle Stars kunnen worden <br> verkregen door normale nummers te spelen <br> <br> <br>.
+CooperationLive_RoomRestriction,Live-beperking
+CooperationLive_NormalRoom,Normaal
+CooperationLive_SpecialRoom,Dag
+CooperationLive_EventRoom,Event
+Notice_DialogTitle,Nieuwe nummers!
+Notice_DialogSchool,(Dummy)
+Notice_DialogWordsDefault,Tekstschrijver:
+Notice_DialogCompositionDefault,Componist:
+Notice_DialogArrangerDefault,Arrangement:
+MusicDetail_DialogTitle,Nummerdetails
+MusicDetail_RecievedLabel,Ontvangen
+MusicDetail_RemainLabel,Nog {0} keer
+MusicDetail_FirstLabel,Eerste beloning
+MusicDetail_ClearReward,Vaste beloning
+MusicDetail_RandomReward,Willekeurige beloning
+MusicDetail_DetailTab,Nummerinfo
+MusicDetail_RewardTab,Beloningen
+MusicDetail_Reference,Bron: {0}
+MusicSelect_HighScore,Hoogste score
+MusicSelect_MyRankingHighScore,Jouw<br>(dummy)
+MusicSelect_ClearRamp,Voltooide nummers
+MusicSelect_TeacherPoint,Hoge score ratio
+MusicSelect_TeacherPointSum,Totale Highscore-ratio
+MusicSelect_CategoryButton,Genre
+MusicSelect_SortButton,Filteren
+MusicSelect_ClearBonusButton,Beloningen
+MusicSelect_RandomButton,Aanbevolen
+MusicSelect_SortApplyDataBar,Geactiveerd
+MusicSelect_ObtainTypeShopMessage,Ga naar de muziekshop
+MusicSelect_ObtainTypeShopButton,Naar de winkel
+MusicSelect_ObtainTypeMissionMessage,Voltooi missie <br> «{0}» <br>
+MusicSelect_ObtainTypeMissionButton,Missies
+MusicSelect_ObtainTypeStoryMessage,Bekijk <br>«{0}» en ontvang een <br>beloning.
+MusicSelect_ObtainTypeStoryButton,Verhaal
+MusicSelect_ObtainTypePlayerRankMessage,Rank naar {0} brengen
+MusicSelect_ObtainTypeNoneMessage,Geen voorwaarden ingesteld.
+MusicSelect_ObtainTypeNoneButton,Niet ingesteld
+MusicSelect_UnlockTitle,Vereisten
+MusicSelect_SortDialogTitle,Sorteren
+MusicSelect_RefineDialogTitle,Filteren
+MusicSelect_FilterCategoryTitle,Genre
+MusicSelect_FilterOtherTitle,Anders
+MusicSelect_SortTitle,Sorteer op
+MusicSelect_FilterCategoryAll,Alles
+MusicSelect_FilterCategoryCharacterSong,(Dummy)
+MusicSelect_FilterCategoryCoupling,(Dummy)
+MusicSelect_FilterCategorySongWithinPlay,(Dummy)
+MusicSelect_FilterCategoryOther,Anders
+MusicSelect_FilteRefineNone,Geen voorkeur
+MusicSelect_FilterRefineFavorite,Favoriet
+MusicSelect_FilterRefineNotClear,Niet uitgespeeld
+MusicSelect_FilterRefineNotScoreSS,Nog geen SS-score
+MusicSelect_FilterRefineNotFullCombo,Niet volledig gespeeld
+MusicSelect_FilterRefineNotAllPerfect,Niet alle perfect
+MusicSelect_SortDefault,Standaard
+MusicSelect_SortMusicName,Naamvolgorde
+MusicSelect_SortReleaseTime,Release datum
+MusicSelect_SortMusicLevel,Niveauvolgorde
+MusicSelect_SortHighScore,Hoogste score
+MusicSelect_Ranking,Ranglijst
+MusicSelect_AllTab,Alles
+MusicSelect_NoClearRate,--.--%
+MusicRanking_Score,SCORE
+MusicRanking_Rank,POSITIE
+MusicRecommend_RecommendList,Aanbevolen lijst
+MusicRecommend_RecommendListCancel,Aanbevolen lijst annuleren
+MusicRecommend_UseThisList,Gebruik deze lijst
+MusicFilterAutoSort_DialogTitle,Automatische selectie
+MusicFilterAutoSort_Random,Willekeurig
+MusicFilterAutoSort_NonPlay,Nog niet gespeelde nummers
+MusicFilterAutoSort_RecentPlay,Recente nummers
+MusicFilterAutoSort_RecentRelease,Recente releases
+MusicGoal_DialogTitle,Muziekdoelen
+MusicGoal_ScoreLabel,SCORE |
+MusicGoal_HighScore,HOOGSTE SCORE
+MusicGoal_ComboLabel,COMBO |
+MusicGoal_Combo,COMBO
+MusicGoal_MaxCombo,MAX COMBO
+MusicGoal_FullComboLabel,PERFECT COMBO |
+MusicGoal_ClearLabel,CLEAR |
+MusicGoal_ClearCount,Aantal voltooiingen
+MusicGoal_Count,回
+MusicGoal_Achievement,Bereikt
+MusicGoal_AchievementRate,Alle spelers<br>Voltooiingspercentage
+MusicGoal_HighOrder,Top
+MusicGoal_UnPlayed,Nog niet gespeeld
+CooperationLive_TotalPower,Hoofdunit totale kracht:
+CooperationLive_NormaType,Normaal
+CooperationLive_SpecialType,Dag
+CooperationLive_StampSettingButton,Stempel instellen
+CooperationLive_PrivateButton,Privé
+CooperationLive_FriendsInviteButton,Vriend uitnodigen
+CooperationLive_DeckEditButton,Opstellen unit
+CooperationLive_MatchingDialogTitle,Zoeken naar live-sessie
+CooperationLive_MatchingDialogMessage,Zoek een Live-sessie
+CooperationLive_CreateRoomDialogTitle,Live aanmaken
+CooperationLive_CreateRoomDialogMessage,Live wordt aangemaakt
+CooperationLive_MatchingDialogAnnotation,Let op: tijdens drukke periodes kan het even duren.
+CooperationLive_PrivateSelectDialogTitle,Privé Live
+CooperationLive_PrivateSelectDialogEnterMessage,Voer de Live-ID in en <br>ga naar binnen.
+CooperationLive_PrivateSelectDialogEnterButton,Binnengaan
+CooperationLive_PrivateSelectDialogCreateMessage,Voorwaarden instellen en <br>Live aanmaken.
+CooperationLive_PrivateSelectDialogCreateButton,Maken
+CooperationLive_RoomTypeRewardInfo,{0} verhogen!
+CooperationLive_RoomTypeRewardWeekMonday,Maandag beperkt
+CooperationLive_RoomTypeRewardWeekTuesday,Dinsdag beperkt
+CooperationLive_RoomTypeRewardWeekWednesday,Woensdag beperkt
+CooperationLive_RoomTypeRewardWeekThursday,Donderdagbeperkt
+CooperationLive_RoomTypeRewardWeekFriday,Vrijdagbeperkt
+CooperationLive_RoomTypeRewardWeekSaturday,Zaterdagbeperkt
+CooperationLive_RoomTypeRewardWeekSunday,Zondag beperkt
+FriendInviteItem_RoomCreater,Gebruikersnaam
+FriendInviteItem_RoomType,Live type
+FriendInviteItem_RoomCondition,Live-beperking
+FriendInviteItem_RoomComment,Korte beschrijving
+FriendInviteItem_RoomName,Live-naam
+FriendInviteItem_RoomReward,Live-beloning
+FriendInviteItem_RoomSessionID,Live-ID
+FriendInviteItem_JoinButton,Binnengaan
+LiveMatching_PrivateRoomTitle,ID:
+LiveMatching_RoomConditionTitle,Live naam:
+LiveMatching_RoomTypeInfoTitle,Live-beloning:
+LiveMatching_PlayerTitle,{0} P
+LiveMatching_Support,サポート
+LiveMatching_WaitMessage,Wacht even tot alle leden zijn aangesloten.
+LiveMatching_WaitMessageInfo,Je kunt een Live starten met minimaal 2 personen.
+LiveMatching_RoomTypeNormal,Normaal
+LiveMatching_RoomTypeEvent,Dag
+LiveMatching_MatchedMessage,Leden gekozen! We gaan nu naar het selectiescherm.
+LiveMatching_RoomOpenButton,Live starten
+LiveMatching_InviteFriendButton,Vriend uitnodigen
+LiveMatching_DecideButton,Lid bevestigen
+MatchingPlayer_Wait,Zoeken...
+LoginBonus_HoldingPeriod,Periode:
+LoginBouns_Season,{0} tot {1} — {2} {3}
+LoginBouns_Days,Dag {0}
+LoginBouns_EventBonusValue,+{0}
+MultiConfirm_LevelLabel,Muzieklevel
+MultiConfirm_OptionButton,Diverse instellingen
+MultiConfirm_HealthyBoostButton,LP instellen
+MultiConfirm_StartButton,Klaar voor vertrek
+MultiConfirm_Waiting,Wachten
+CooperationLiveInfo_Title,Live-beloning
+CooperationLiveInfo_Message1,"In de ""Dagelijkse"" Live-modus kun je per dag een vaste <br>beloning ontvangen<br>. *Let op: in de ""Normale"" Live-modus ontvang je de gebruikelijke beloning.*"
+CooperationLiveInfo_Message2,"{0} <br>, {1} <br>, {2} <br>, {3} <br>, {4} <br>, {5} <br>, {6}"
+CooperationLiveInfo_Message3,Let op: de hoeveelheid beloningen voor andere items dan die waarvoor de bonus geldt is aangepast.<br>
+CooperationLiveInfo_dailyEffect,Verhoogt de kans op {0}!
+Stamp_FavoriteTitle,Favoriet
+Stamp_RemoveButton,Verwijderen
+Stamp_ResetButton,Reset
+Profile_RankFriend,Maximaal aantal vrienden: {0} → {1}
+Profile_RankReward,{0} {1} stuks
+GachaTop_PickUpPhotoDetailTitle,Idolgegevens
+GachaTop_PhotoDetailTitle,Idolgegevens
+Ornament_OrnamentListTitle,Items
+OrnamentShop_OrnamentReplaceTitle,Vervang het huidige item?
+GachaTop_PickUpPhotoDetailButton,Idolgegevens
+GachaTop_InfoDetailButton,Scouten
+GachaTop_ExchangeButton,Wisselen
+Notice_GroupExpNoticeWindowTitle,Groepsrang
+Button_Download,Downloaden
+Mission_AcceptAllButtonText,Alles accepteren
+MusicDecision_MusicLevelArea,{0} ~ {1}
+MusicDecision_RandomMusicTitle,Aanbevolen
+MusicDecision_RandomMusicLevel,??
+MusicDecision_LiveLevelReselectButton,Opnieuw kiezen
+MusicDecision_ShuffleMessage,We select een nummer via trekking.
+MusicDecision_DifficultySelectMessage,Selecteer de moeilijkheidsgraad om te spelen.
+EventTop_ScoreRanking,Algemene score ranglijst
+EventTop_GroupScoreRanking,Groeps-score ranking
+EventTop_Season,Nog {0}
+EventTop_UntilRewardPoint,tot {0} pt
+EventTop_NextEventPoint,Nog
+EventTop_NextEventHomeworkPoint,Nog
+EventTop_TotalEventPoint,Totaal event-punten
+EventTop_HasHomeworkPoint,Voltooide coöpmissies:
+EventTop_HasStamina,Heeft Miracle Star
+EventTop_HasBadge,Beschikbare tickets:
+EventTop_HasMedal,Beschikbare Loveca:
+EventTop_HasTicket,Beschikbare lege tickets:
+EventTop_NextStory,★Volgende verhaal
+EventTop_NextReward,★Volgende beloning
+EventTop_NowHomework,★Huidige opdracht
+EventTop_AllGetReward,Alle beloningen ontvanven
+EventTop_AllGetStory,Alles vrijgespeeld
+EventTop_ExchangeButton,Wisselen
+EventTop_BingoButton,BINGO
+EventTop_BoxGachaButton,Scouten (box)
+EventTop_ChangeHomeworkButton,Opdracht wijzigen
+EventTop_HomeworkMusicLevel,Nummer moeilijkheidsgraad
+EventTop_HomeworkMusicLevelValue,Dat is alles
+EventTop_CloseExchangeShopTerm,De winkel is tot {0}.
+EventTop_CloseBoxGachaTerm,(Dummy) tot {0}
+EventTop_StoryButtonNextPoint,Nog
+EventTop_StoryButtonNextPointHomework,Nog
+EventTop_TermTitle,Periode:
+EventTop_ResultTermTitle,Resultaat bekendmaking:
+EventTop_EmotionalMemberSelectTermTitle,[Lidselectieperiode]
+EventTop_EmotionalBandSelectTermTitle,[Groepsselectieperiode]
+EventTop_Multi_HelpterBonus,Beloning voor hulp
+EventTop_Multi_TodayHelpterCount,Vandaag geholpen
+EventTop_Multi_AlreadyPlayedHelper,Vandaag al keer geholpen
+EventTop_Multi_UnitSettings,Evenement<br>opstelling
+EventTop_Multi_Live,Iedereen Live
+EventTop_Multi_LiveEx,Live met iedereen!
+EventTop_Multi_FreeMatching,Vrije matchmaking
+EventTop_Multi_FreeMatching_Info,Speel samen met andere spelers!
+EventTop_Multi_PrivateMatching,Privé matchmaking
+EventTop_Multi_PrivateMatching_Info,Vrienden uitnodigen en samen spelen!
+EventTop_Multi_Join,Deelnemen
+EventTop_Multi_HelperJoin,Help spelen
+EventTop_Multi_HelperCondition,"Heeft een moeilijkheidsgraad van {0} of hoger en heeft {1} punten, met minstens {2} punten om te helpen."
+EventTop_Multi_Room,Naar de ruimte
+EventTop_Multi_Room2,Naar de ruimte
+EventTop_Multi_RoomCreate,Maken
+EventTop_Multi_RoomJoin,Deelnemen
+EventTop_Multi_HelperToday,Vandaag
+EventTop_Multi_HelperCount,{0} / {1}
+EventTop_Multi_MatchingTitle,Moeilijkheidsgraad kiezen
+EventTop_Multi_MatchingTitleHelper,Hulp-lid deelnemen
+EventTop_Multi_RoomCreateDialog_Info,Selecteer een moeilijkheidsgraad.
+EventTop_Multi_RoomCreateDialog_Info2,"Je kunt meerdere moeilijkheidsgraden selecteren.<br>Als je meerdere moeilijkheidsgraden selecteert, wordt er willekeurig een gekozen uit de geselecteerde om mee te matchen."
+EventTop_Multi_RoomCreateDialog_Info3,Selecteer één moeilijkheidsgraad.
+EventTop_Multi_RoomCreateDialog_Info4,Je kunt Live spelen met de geselecteerde moeilijkheidsgraad.
+EventTop_Multi_RoomCreateDialog_Error,Er is geen moeilijkheidsgraad geselecteerd.
+EventTop_Multi_RoomCreateDialog_Start,Match starten
+EventTop_Multi_RoomSearchDialog_Info,Voer de ruimte-ID in.
+EventTop_Multi_RoomSearch_NotFindRoom,De ruimte-ID is onjuist of de ruimte is vol.
+EventTop_Multi_PenaltyInfo,"De verbinding is verbroken of er is herhaaldelijk valsspelen gedetecteerd, dus het spelen van Live-evenementen wordt tijdelijk beperkt.<br>"
+EventTop_Multi_RemainPenalty,解除まで
+EventTop_Multi_Confirmation,Bevestigen
+EventTop_Multi_NotEnoughPower,Statistieken overschrijden niet de vereiste waarde voor hulp.
+EventLive__Multi_PointPenalty,Ontvangen eventpunten -50%
+EventLive__Multi_NotSelectedLevel,Er is geen moeilijkheidsgraad geselecteerd.
+EventLive__Multi_Matching,Wacht op verbinding ({0}/{1})
+EventLive__Multi_JoiningRoom,Ruimte wordt betreden
+EventLive__Multi_FailedToJoinRoom,Kon de kamer niet betreden.
+EventLive__Multi_NotFoundRoom,De ruimte-ID is onjuist of de ruimte is vol.
+EventLive__Multi_CreatingRoom,Ruimte wordt gemaakt
+EventLive__Multi_FailedToCreateRoom,Kon de ruimte niet aanmaken. Probeer het later nog eens.
+EventLive__Multi_NotFoundHelperRoom,Er zijn geen beschikbare ruimtes om als helper deel te nemen.
+EventLive__Multi_ConnectingToMatchingServer,Server zoeken...
+EventResult_Multi_Helper,Hulp vragen
+EventResult_Multi_Disconnected,Verbinding verbroken.
+EventResult_Multi_ConfirmingResult,Live result wordt weergegeven
+EventResult_Multi_LeaveRoom,Verlaten...
+EventResult_Multi_Retry,再度プレイ
+EventMusicSelect_HighScore,Event<br>Hoogste score
+EventMusicSelect_ScoreRanking,Score ranglijst
+EventMusicSelect_StaminaUseDialogTitle,Mirakelster gebruik bevestigen
+EventMusicSelect_StaminaUseDialogMessage,Gebruik je {0} Miracle Stars om Live te starten? <br> *Er worden geen LP's verbruikt.*
+EventMusicSelect_StaminaUseDialogHasStamina,Mirakelsterren {0}
+EventMusicSelect_StaminaConfirmCheck,Vraag niet meer of je Miracle Stars wilt gebruiken tot het einde van dit evenement.
+EventStory_NextEventPoint,Eventpunten
+EventStory_NextEventHomework,Totale voltooide taken
+EventStory_ReleaseInfoEventPoint,Verzamel Live-punten!
+EventStory_ReleaseInfoEventHomework,Speel het event en voltooi de opdrachten!
+EventStory_EndReleaseStory,Het evenement is afgelopen <br> dit scenario wordt op {0} vrijgegeven.
+EventRanking_TabScoreRanking,Nummerranglijst
+EventRanking_TabGroupScoreRanking,Groeps-score ranking
+EventRanking_TabPointRanking,Eventpuntenranglijst
+EventRanking_TabEmotionalRanking,Top 100
+EventRanking_TotalScore,Totaalscore
+EventRanking_ScoreRanking,Totaalscore ranglijst
+EventRanking_ChangeButton,Wijzigen
+EventRanking_InfoMessage,De resultaten van het spelen tot {0} worden weergegeven.
+EventRanking_TopRanking,Topspelers
+EventRanking_YourRanking,Jij
+EventRanking_ScoreRankingTitle,Nummer score
+EventRanking_PointRankingTitle,Totaal event-punten
+EventRanking_EmotionalRankingBandSelectTitle,Groep selecteren
+EventRanking_EmotionalRankingMemberSelectTitle,Lid selecteren
+EventRanking_LookEmotionalRankingOtherBands,Andere groepen bekijken
+EventRanking_LookEmotionalRankingOtherMembers,Andere leden bekijken
+EventReward_TotalEventPointReward,Totaal eventpuntenbeloning
+EventReward_ScoreRankingReward,Algemene score ranglijst
+EventReward_GroupScoreRankingReward,Groeps-score ranking
+EventReward_MusicScoreRankingReward,Evenement-nummer score<br>ranglijst
+EventReward_EventPointRankingReward,イベントpt<br>ランキング
+EventReward_EmotionalRankingReward,一番人気<br>ランキング
+EventReward_TotalEventPoint,Totaal event-punten
+EventReward_YourRank,Jouw positie
+EventReward_RankingButton,Ranglijst bekijken
+EventReward_EmotionalRankingJoinText,{0} deelnemers
+EventReward_RankingFromTo,{0} tot {1}
+EventReward_RankingFromToEnd,{0}e t/m
+EventReward_RankingInfoMessage,Rankingbeloningen worden na afloop van het evenement toegekend.
+EventReward_BingoReward,BINGO
+EventReward_BingoSheetLineReward,Beloning voor het voltooien van [Sheet {0}] {1} rij
+EventReward_BingoSheetCompleteReward,[Sheet {0}] Compleet Beloning
+EventReward_BingoAllSheetCompleteReward,Alle sheets voltooid – Beloning
+EventReward_RankingRewardDialogTitle,Beloningen
+EventReward_EventPointInfo,*De totale hoeveelheid event-punten heeft een limiet.<br>*De limiet kan samen met de beloning worden verhoogd.
+EventResult_BaseEventPoint,Basis-eventpunten
+EventResult_ScoreBonus,Scorebonus
+EventResult_EventBonus,Eventbonus
+EventResult_ClearBonus,Clearbonus
+EventResult_GetEventPoint,Ontvangen event-punten
+EventResult_GetStamina,Ontvangen eventitem
+EventResult_GetBadge,Ontvangen (dummy)
+EventResult_GetMedal,ontvangen Loveca
+EventResult_TotalEventPoint,Totaal event-punten
+EventResult_TotalStamina,Totaal eventitem
+EventResult_TotalBadge,Totaal (demo)
+EventResult_TotalMedal,Totaal Loveca
+EventResult_NextStory,Volgende verhaal
+EventResult_NextReward,Volgende beloning
+EventResult_CompleteReward,Alle beloningen ontvangen.
+EventResult_EventStaminaBoostValue,{0}-voudig
+EventResult_MemberBonus,Evenement-idols
+EventResult_MemberBonusInfoMessage,Lid-bonus
+EventResult_StaminaInfoMessage,Let op: Candy-bonus
+EventResult_NextPoint,Nog
+EventResult_RewardDialogTitleClearCell,BINGO-beloning
+EventResult_RewardDialogTitleBingo,BINGO-beloning
+EventResult_RewardDialogSheetClear,Beloning voor voltooide reeks
+EventResult_RewardDialogAllSheetComplete,Volledige beloning
+EventResult_RewardDialogInfoClearCell,BINGO-vakje beloning
+EventResult_RewardDialogInfoBingo,BINGO-beloning
+EventResult_RewardDialogInfoSheetClear,Beloning voor het voltooien van een sheet.
+EventResult_RewardDialogInfoAllSheetComplete,Beloning voor het voltooien van alles.
+EventResult_BaseTicket,Aantal scouttickets
+EventResult_GetTicket,Ontvangen scouttickets
+EventResult_TotalTicket,Totaal aantal scout-tickets
+EventResult_ClearHomweork,Aantal voltooide taken deze keer
+EventResult_TotalHomework,Totale voltooide taken
+EventResult_NextHomeworkPoint,Uitvoering voltooid
+EventResult_ReStartConfirmTitle,再度プレイ
+EventResult_ReStartConfirmSpiritMessage,"Wil je nog een keer Live spelen en daarbij {0} verbruiken, samen met <br>?"
+EventResult_ReStartConfirmSpiritAutoMessage,Verbruik je {0} Miracle Stars en {1} Auto Tickets om nog een keer Live te spelen? <br>
+EventResult_ReStartConfirmAutoMessage,Autoticket {0} verbruiken en nog een keer Live spelen? <br>
+EventBingoSheet_Title,Bingo-kaart ({0}/{1})
+EventBingoSheet_TotalOpend,Voltooide aantal
+EventBingoSheet_TotalOpendValue,<color=#d73c55> {0}/{1} </color>
+EventBingoSheet_TotalSheet,Blad
+EventBingoSheet_TotalSheetValue,<color=#d73c55> {0}/{1} </color>
+EventBingoSheet_TotalSheetValueCurrent,<color=#d73c55> {0}/{1} </color>
+EventBingoSheet_BingoClearScore,"Score <color=#d73c55> {0} </color> of meer, {1} keer halen"
+EventBingoSheet_BingoClearLife,"SCORE <color=#d73c55>, {0} of </color> of meer, {1} keer halen"
+EventBingoSheet_BingoClearJudge,"CLEAR {1} keer met een score van GREAT of hoger, binnen <color=#d73c55> pogingen en met {0} energie/POWER en </color> combo's."
+EventBingoSheet_BingoClearCombo,"Max combo <color=#d73c55>, {0} </color> of meer, {1} keer halen"
+EventBingoSheet_BingoClearFullCombo,"MAX combo, {0} keer halen"
+EventBingoSheet_BingoClearMultiScoreRank,Speel Live met iedereen en haal {1} keer een score van rang {0} of hoger in <color=#d73c55> </color>.
+EventBingoSheet_BingoClearDeckCharacter,Stel <color=#d73c55> met {0} en </color> op en speel het {1} keer uit.
+EventBingoSheet_BingoClearDeckType,Stel een team samen met minstens {1} leden van het type {0} en speel het {2} keer uit. <color=#d73c55> </color>
+EventBingoSheet_BingoClearMusicName,Nummer: {0}
+EventBingoSheet_BingoClearEventMusicName,Muzieknaam: Ranking Live {0}
+EventBingoSheet_BingoClearMusicLevel,Niveau: {0}
+EventBingoSheet_BingoClearMusicLevelValue,{0}+
+EventBingoSheet_BingoRewardButton,Beloning
+EventBingoSheet_BingoRewardDialogTitle,Beloningen
+EventBingoSheet_BingoSheetCompleteRewardNumber,{0}-de kaart
+EventMemberBonus_TipsTitle,Evenementbonus info
+BirthdayScene_PlayButtonNameText,Verjaardag bekijken
+BirthdayScene_AreaButtonNameText,Verjaardagslocatie
+EventHomework_HomeworkConfirmButton,Opdracht controleren
+EventHomework_MissionNormalText,Normale missie
+EventHomework_MissionRareText,Rare missie
+EventHomework_MissionSuperRareText,Super Rare-missie
+EventHomework_LotteryDialogTitle,Coöperatieve missie trekking
+EventHomework_LotteryDialogRareMissionText,Voorbeeld van een zeldzame missie
+EventHomework_LotteryDialogRareMissionInfoText,"Er zijn drie soorten missies: normaal, zeldzaam en superzeldzaam. <br>Hoe hoger de zeldzaamheid, hoe beter de beloning."
+EventHomework_LotteryDialogLotteryButtonText,Trekken
+EventHomework_MissionChangeDialogTitle,Coöperatie-missie wijzigen
+EventHomework_MissionChangeDialogChangeMessage,"Wil je de huidige coöpmissie wijzigen?<br>※Als je dit doet, kun je de huidige coöpmissie niet meer wijzigen totdat je een keer hebt gespeeld."
+EventHomework_MissionChangeDialogUnChangeMessage,Probeer de huidige coöperatieve missie! <br> ※Na het spelen van een Live-optreden kun je de huidige coöperatieve missie wijzigen.
+EventHomework_GetMissionDialogTitle,Ontvang samenwerkingsmissie
+EventHomework_GetMissionDialogMessage,Wordt nu ingesteld als je huidige coöpmissie.
+EventHomework_MissionDetailDialogTitle,Samenwerkingsmissie
+EventHomeworkBoxGacha_Title,(Dummy)
+EventHomeworkBoxGacha_NowBox,(Dummy) Doos {0}
+EventHomeworkBoxGacha_Remaining,Overige: {0}/{1}
+EventHomeworkBoxGacha_NextBoxButton,Volgende kist
+EventHomeworkBoxGacha_PlayBoxGacha,Draai {0} keer
+EventHomeworkBoxGacha_UsedTicket,x{0}
+EventHomeworkBoxGacha_HasTicket,Beschikbare tickets
+EventHomeworkBoxGacha_BoxInfoButton,Inhoud ()
+EventHomeworkBoxGachaInfo_Title,Inhoud ({0}e doos)
+EventHomeworkBoxGachaInfo_Page,{0} / {1}
+EventHomeworkBoxGachaResult_Title,Item ontvangen!
+EventHomeworkBoxGachaResult_Message,Je kunt het als cadeau ontvangen.
+EventHomeworkRoomSelect_RoomTitleEvent,{0} Live
+EventHomeworkRoomSelect_RoomTitleEveryone,Evenement (demo)
+EventHomeworkRoomSelect_RankingTarget,Hoogste score ranking
+EventHomeworkRoomSelect_RankingExcluded,Niet inbegrepen in de highscore-ranking
+EventHomeworkRoomSelect_RankingExcludedInfo,Niet inbegrepen in de ranglijst
+EventHomeworkRoomSelect_EventHighScore,Evenement - Hoogste score
+EventHomeworkRoomSelect_EventGroupRanking,Groeps-hoogscore ranglijst
+EventHomeworkMatching_HomeworkMusicLevel,Nummer moeilijkheidsgraad
+EventHomeworkMatching_MusicLevel,{0}+
+EventHomeworkMatching_HomeworkInfo,Opdrachtdetails
+EventHomeworkMatching_Reward,Beloning
+EventHomeworkLiveResult_HomeworkResult,Huiswerkresultaat
+EventHomeworkLiveResult_HomeworkResultReward,Ontvangen beloning
+EventHomeworkLiveResult_RewardBonus,Beloning x{0}!
+EventHomeworkLiveResult_RewardBonusValue,x{0}
+EventHomeworkLiveResult_MyClear,Zelf gehaald
+EventHomeworkLiveResult_OtherClear,Andere speler heeft het gehaald
+EventHomeworkLiveResult_NoClear,Niet gehaald
+EventHomeworkLiveResultNewHomework_Title,Nieuwe opdracht beschikbaar!
+EventHomeworkLiveResult_MusicLevel,Muziekmoeilijkheid: {0}
+EventHomeworkLiveResult_Homework,Opdracht: {0}
+EventHomeworkLiveResult_Reward,Beloningsitem
+EventBonus_PointUpBonus,Puntenbonus
+EventBonus_TotalPowerBonus,Totaal krachtbonus
+EventBonus_PickUpMemberBonus,Uitgelichte idol-bonus
+EventBonus_PointUpTotal,Totaal bonuspunten
+EventBonus_PowerUpTotal,Totaal bonus kracht
+EventBonus_PowerUpAddValue,(Totaal +{0})
+EventBonus_BonusPercentUp,+{0}%
+EventBonus_PowerUpTotalValue,+{0} extra
+EventBonus_BonusCaution,"Live-bonussen verhogen de totale waarde niet. <br> Meerdere idols die in aanmerking komen voor bonussen activeren slechts één bonus met het hoogste effect. <br> Als er meerdere idols in een groep zitten met een ""Idol+""-bonus, kan de idol met het hoogste effect op zowel de totale waarde als de evenementpunten de bonus activeren. <br> <color=#C12424> ※ </color> De ""Idol+""-bonus voor de totale waarde activeert alleen bij één idol waarbij de vermenigvuldiging van de totale waarde van de idol en de waarde van de ""Idol+""-bonus het hoogste resultaat oplevert. <br> <color=#C12424> ※ </color> De ""Idol+""-bonus voor evenementpunten activeert alleen bij één idol met het hoogste effect op de evenementpunten. <br> <color=#C12424> ※ </color> Het is mogelijk dat verschillende idols de bonus voor totale waarde en de bonus voor evenementpunten activeren. <br> <color=#C12424> ※ </color> Idols die een ""Idol+""-bonus hebben, maar deze niet konden activeren, kunnen andere bonussen activeren. <br> De ""Idol""-bonus en de ""Idol+ ""-bonus kunnen tegelijkertijd worden geactiveerd."
+EventIncentive_CheckTicketTitle,Trekking-ticket controleren
+EventIncentive_CheckTicketMessage,Wil je je <br>-ticket controleren? <br> <br> {0} Je hebt er {1}.
+EventIncentive_CheckTicketWarning,"<color=#C12424>Let op: de trekkingticket kan niet in delen worden gebruikt. <br>Let op: als je de trekkingticket niet binnen de periode gebruikt, wordt deze verwijderd. </color>"
+EventIncentive_LostTitle,Trekkingresultaat
+EventIncentive_LostMessage,De troostprijs is aan je cadeaubox toegevoegd.<br>We hopen je bij een volgend evenement te zien!
+EventIncentive_LostGoToPresentBoxScene,Naar cadeaus
+EventIncentive_ApplicationTitle,Benodigde info voor deelname
+EventIncentive_ApplicationId,ID:
+EventIncentive_ApplicationPassword,Wachtwoord:
+EventIncentive_ApplicationUrlTitle,Aanmeld-URL:
+EventIncentive_ApplicationNote,*Aanmeldnotities (wordt later nog aangevuld)
+EventIncentive_IdCopy,ID gekopieerd
+EventIncentive_PasswordCopy,ID gekopieerd
+EventIncentive_TermTitle,Evenementvoorwaarden
+EventEmotionalSetting_SelectBand,Selecteer de groep om aan de ranglijst deel te nemen
+EventEmotionalSetting_ChangeBand,Wijzig het groepslid dat je wilt veranderen
+EventEmotionalSetting_SelectMember,Selecteer de leden die aan de ranglijst deelnemen.
+EventEmotionalSetting_ChangeMember,Selecteer de leden die je wilt wijzigen.
+LimitedLive_Name_1101001,Limited Live naam 1
+LimitedLive_Name_1101002,限定ライブ名2
+LimitedLive_Name_1301001,Limited Live naam 3
+LimitedLive_Name_1401001,Limited Live naam 4
+LimitedLive_Name_1501001,Limited Live naam 5
+LimitedLive_Name_1502001,Limited Live naam 6
+LimitedLive_Name_1601001,Limited Live naam 7
+LimitedLive_Name_1801001,Limited Live naam 8
+LimitedLive_Name_1802001,Limited Live naam 9
+LimitedLive_Name_1803001,Limited Live naam 10
+LimitedLive_Name_1804001,Limited Live naam 11
+LimitedLive_Name_1805001,Limited Live naam 12
+LimitedLive_Name_1806001,限定ライブ名13
+LimitedLive_Name_1807001,限定ライブ名14
+LimitedLive_Name_1808001,限定ライブ名15
+LimitedLive_Name_1892001,限定ライブ名16
+LimitedLive_Name_1893001,限定ライブ名17
+LimitedLive_Name_1894001,限定ライブ名18
+LimitedLive_Name_1895001,限定ライブ名19
+LimitedLive_Name_1896001,限定ライブ名20
+LimitedLive_Name_1701001,限定ライブ名21
+LimitedLive_BonusEffect_1101001,Beloning bij voltooiing verhoogd!
+LimitedLive_Period,Periode: {0} tot {1}
+LimitedLive_FreePlayLabel,Gratis spelen
+LimitedLive_TicketLabel,Beschikbare tickets
+LimitedLive_FreePlayCountLabel,Nog
+LimitedLive_FreePlayCountValue,{0} keer
+LimitedLive_TicketAmountValue,{0} stuks
+LimitedLive_LiveIsChosen,Nummer gekozen
+LimitedLive_DetailDialog_RuleSection,◆Regels
+LimitedLive_DetailDialog_RuleSection_ResetDaily,Dagelijks {0} keer
+LimitedLive_DetailDialog_RuleSection_ResetWeekly,Per week {0} keer
+LimitedLive_DetailDialog_RuleSection_Rule_1,"Een Live waarin je met een bepaalde kans {0} kunt ontvangen. Je kunt het {1} keer spelen. <br> <br> Je kunt het ook spelen door maaltijdkaarten te verbruiken. <br> Als je een 'gelukszanger' speelt, krijg je meer beloningen."
+LimitedLive_DetailDialog_RuleSection_Rule_2,"Je kunt {1} spelen. <br> Je kunt ook spelen door maaltijdkaarten te verbruiken. <br> Als je een gelukssong speelt, krijg je meer beloningen."
+LimitedLive_DetailDialog_RewardSection,◆Beloning
+LimitedLive_DetailDialog_BonusLiveSection,◆Gelukssong <br> {0}
+LimitedLive_DetailDialog_PeriodSection,◆Periode: <br> {0} ~ {1}
+LimitedLive_UnlockDialog_NotEnouchTicketDaily,Je hebt niet genoeg tickets <color=#D73C55>. Vanaf morgen 4 uur kun je gratis spelen </color> <br>.
+LimitedLive_UnlockDialog_NotEnouchTicketWeekly,Je hebt niet genoeg tickets <color=#D73C55> </color> <br> Vanaf maandag 4 uur 's ochtends kun je gratis spelen.
+LiveCondition_Label,Live-vereisten
+LiveCondition_CompareType_EQ,is
+LiveCondition_CompareType_GE,Dat is alles
+LiveCondition_CompareType_LE,Onder
+LiveCondition_Detail_Character,{0} {1} personen {2} opstellen
+LiveCondition_Detail_Group,{0} {1} personen {2} opstellen
+LiveCondition_Detail_CardType,{0} {1} personen {2} opstellen
+LiveCondition_Detail_DeckRole,{0} {1} personen {2} opstellen
+LiveCondition_Detail_Card,(tijdelijk) Stel {0} op.
+LiveCondition_Detail_UserRank,Gebruikersrang {0} {1}
+LiveCondition_Detail_Title,(仮)titel「{0}」instellen
+LiveCondition_Detail_Item,"Gebruik item ""{0}"""
+LiveCondition_CannotCreateMultiPlayRoomSinceNotSatisfy,Kan niet worden aangemaakt omdat de voorwaarden niet zijn voldaan.
+LiveRule_Label,Live-regels
+LiveRule_Notes_Judgement_EQ,(Voorlopig) alles behalve {0} is een miss.
+LiveRule_Notes_Judgement_GE,(tijdelijk) minder dan {0} missen
+BeginnerMission_BingoTitle,Beginnermissie ({0}/{1})
+BeginnerMission_BingoSheetClear,BINGO {0} Beloning
+BeginnerMission_BingoLineClear,Rij-beloning
+BeginnerMission_BingoNotStarted,Er zijn nog niet alle velden ingevuld.
+BeginnerMission_BingoMissionDetailTitle,Missiegegevens
+BeginnerMission_BingoMissionReward,Voltooingsbeloning
+BeginnerMission_BingoMissionChallenge,Uitdagen
+BeginnerMission_BingoMissionAcheved,Voortgang
+BeginnerMission_BingoMissionOverview,Missieoverzicht
+BeginnerMission_BingoMissionItemOverview,Overzicht
+BeginnerMission_BingoMissionRewardItemNum,x{0}
+TeacherLiveTop_NowMission,Deze missie
+TeacherLiveTop_EndEvent,Dit evenement is afgelopen.
+TeacherLiveTop_ExchangeButton,Wisselen
+TeacherLiveTop_LiveButton,Ga naar Live
+TeacherLiveTop_InfoButton,Info
+TeacherLiveTop_LiveCondition,Live-voorwaarden actief
+TeacherLiveTop_LiveRule,Live-regels
+TeacherLiveTop_RemainingMission,Overige missies: <color=#D73C55> {0} </color> / {1}
+TeacherLiveTop_RemainingMissionValue,{0} / {1}
+TeacherLiveTop_GoGoTime,(Dummy)
+TeacherLiveTop_GoGoTimeRemainingCount,{0} keer
+TeacherLiveTop_ExchangeTerm,De winkel is tot {0}.
+TeacherLiveTop_LiveConditionDialogTitle,Live-voorwaarden
+TeacherLiveTop_LiveConditionDialogCondition,Live-vereisten
+TeacherLiveTop_LiveConditionDialogRule,Live-regels
+TeacherLiveLiveResult_GoGoTime,Dummytekst
+TeacherLiveLiveResult_MissionClearTitle,Missie voltooid!
+TeacherLiveLiveResult_CurrentMission,Huidige missie
+TeacherLiveLiveResult_NextMission,Volgende missie
+TeacherLiveLiveResult_RemainingMission,Overige missies: {0}/{1}
+CharacterEpisodeLevel_TotalTabName,Totaal
+CharacterEpisodeLevel_TotalEpisodeStar,(Totaal aantal verhaalsterren ★ x {0})
+CharacterEpisodeLevel_RemainingExp,★{0}
+ItemList_Tab_Enhancement,Verbeteringsitems
+ItemList_Tab_Boost,HP herstel
+ItemList_Tab_Ticket,Ticket
+ItemList_Tab_Stamp,Stempels
+ItemList_Tab_Other,Anders
+ItemList_Empty,Je hebt momenteel geen items van dit type.
+ItemList_LimitDate,Nog {0}
+MusicVideo_Conform_title,MV afspelen?
+MusicVideo_Conform_Message,Speel je de muziekvideo van {0} <br> af? In de MV-modus kun je geen Live-beloningen <br> ontvangen.
+MusicVideo_Conform_Supplement,Vanaf nu niet meer weergeven
+MusicShop_Title,Muziekshop
+MusicShop_Exchange,Wisselen
+MusicShop_Replaced,Al uitgewisseld
+MusicShop_Lack,Onvoldoende materialen
+MusicShop_ExchangeListEmpty,Er zijn geen nummers om te ruilen.
+MusicShop_DetailTitle,Nummerdetails
+MusicShop_ExchangeTitle,Nummer inwisselen
+MusicShop_RequiredValue,Benodigde hoeveelheid
+MusicShop_ExchangeMessage,Wil je {0} inruilen?
+MusicShop_ExchangeResultTitle,Muziek uitwisselen voltooid
+Announcement_DialogTitle,Mededeling
+RankUp_UserRankUpDialogTitle,Rang omhoog!
+RankUp_BandRankUpDialogTitle,Groepsrank verhoogd
+RankUp_BandRank,Groepsrang
+RankUp_TotalBandRank,Totale groepsrang
+RankUp_DeckPower,Deck-kracht +
+RankUp_LpRecoverText,LP is met {0} hersteld.
+RankUp_LpMaxUpText,Maximale LP verhoogd
+Shop_ResetDaily,(Elke dag om 0:00 vernieuwd)
+Shop_ResetWeekly,(Maandag 0:00 vernieuwd)
+Shop_Monthly,(Dagelijks om 0:00 vernieuwd)
+Shop_BuyRemain,Over: {0} stuks
+Shop_BuyLimit,Nog {0}
+Shop_AllBuy,Al gekocht
+Shop_ItemDetaiTitle,Productdetails
+Shop_AllItemDetaiTitle,Beloning bij uitverkoop
+Shop_AllItemCompleteTitle,Beloning ontvangen
+MovieCollection_TabMovieTypeShort,Korte video
+MovieCollection_TabMovieTypeLong,Lange video
+MovieCollection_TabMovieTypeSpPhoto,SP-foto
+MovieCollection_HomeSettings,Instellingen wijzigen
+MovieCollection_EmptyMovie,Geen video's gevonden.
+MovieCollection_EmptySpPhoto,Geen SP-foto's gevonden.
+MovieCollection_DetailTitle,Videodetails
+MovieCollection_DetailHomeSettings,Als achtergrond instellen
+MovieCollection_DetailHomeSettingsMessage,Je moet de functie voor achtergrondvideo's inschakelen in het optiemenu.
+MovieCollection_RefineBandTitle,Groep
+MovieCollection_RefineBandOther,その他
+MovieCollection_RefineMemberTitle,Lid
+MovieCollection_RefineGetCategoryTitle,入手カテゴリ
+MovieCollection_RefineGetCategoryEvent,Event
+MovieCollection_RefineGetCategoryCard,idol
+MovieCollection_RefineGetCategoryStory,Verhaal
+MovieCollection_RefineGetCategoryEtc,Anders
+LiveResult_FriendApplyButton,Vriendverzoek
+LiveResult_FriendStatusRequest,Vriend aanvraag verzonden
+LiveResult_FriendStatusFriend,Vriend toegevoegd
+LiveResult_ScoreDetailButton,Scoreoverzicht
+LiveResult_ScoreDetailTitle,Scoreoverzicht
+LiveResult_SessionSelectButton,Live selectie
+LiveResult_HomeButton,Naar home
+LiveResult_MusicSelectButton,Ga naar muziekselectie
+LiveResult_RestartButton,Opnieuw met hetzelfde nummer<br>Live starten
+LiveResult_GuestSelectButton,Met dit nummer<br>live starten
+LiveResult_RecommendLiveTitle,Aanbevolen voor jou
+LiveResult_BackMusicSelectTitle,Ander nummer spelen
+LiveResult_BackMusicSelectButton,Terug naar muziekkeuze
+LiveResult_RestartDialogTitle,Opnieuw spelen?
+LiveResult_RestartDialog_EventPtRewardGotAll,Alle evenement-puntbeloningen zijn <br>ontvangen.
+LiveResult_RestartDialog_EventPtRewardTitle,Evenementbeloning
+LiveResult_RestartDialog_EventScoreRank,Evenement-score rang
+LiveResult_RestartDialog_EventTotalPtRank,Totale evenement-puntpositie
+LiveResult_LiveClear,LIVE GESLAAGD!!
+LiveResult_LiveClear2,LIVE GEHAALD!!
+LiveResult_TapScreen,Tik op het scherm.
+LiveResult_Score,SCORE
+LiveResult_Combo,COMBO
+LiveResult_HighScore,HOOGSTE SCORE
+LiveResult_NewReacord,NIEUW RECORD!!
+LiveResult_PerfectCount,Aantal PERFECT
+LiveResult_Perfect,PERFEKT
+LiveResult_Great,FANTASTISCH
+LiveResult_Good,GOED
+LiveResult_Bad,SLECHT
+LiveResult_Miss,MISSED
+LiveResult_Normal,Normaal
+LiveResult_SyncTap,Gelijktijdig tikken
+LiveResult_LongTap,Lang aanhouden
+LiveResult_Swing,Swing
+LiveResult_GetExp,Ontvangen EXP
+LiveResult_NextRank,Volgende rang
+LiveResult_GetGold,Ontvangen G
+LiveResult_GetFriendPoint,ontvangen band
+LiveResult_GetFriendPointWindow,Banddetails
+LiveResult_TotalScore,Totaalscore
+GuestSelect_Title,Gastselectie
+BandEnrich_ItemEmpty,Je hebt geen groepversterkingsitems.
+BandEnrich_All,Totaal
+BandEnrich_X,μ’s
+BandEnrich_L,Aqours
+BandEnrich_G,Nijigasaki
+GemShort_NeedChargeGemLabel,Nodig Loveca
+GemShort_HaveChargeGemLabel,Beschikbare Loveca
+GemShort_NeedGemLabel,Nodig Loveca
+GemShort_HaveGemLabel,Beschikbare Loveca
+CollectionChara_Profile,Profiel
+CollectionChara_CardList,Kaartenlijst
+StorySort_TitleBand,Groep
+StorySort_TitleStory,Verhaal
+StorySort_StoryRead,Gelezen
+StorySort_StoryUnread,Niet gelezen
+StoryList_EmptyText,Er zijn geen beschikbare verhalen.
+MemberList_EmptyText,Geen idols gevonden.
+CollectionReleaseConfirm_DialogTitle,Collectie vrijgeven?
+CollectionReleaseConfirm_Conditions,Ontgrendelingsvoorwaarden: Vereiste aantal ontgrendelingen {0}/{1}
+CollectionReleaseConfirm_Reward,Beloning
+CollectionReleaseReward_DialogTitle,Collectie vrijgespeeld
+CollectionReleaseReward_SpPhotoReleaseMessage,SP-foto is vrijgegeven<br>Je kunt de SP-foto bekijken in het overzicht van de idol of in de SP-fotocollectie.
+CollectionReleaseReward_MovieReleaseMessage,"De video ""{0}"" is nu beschikbaar. Je kunt de video bekijken in het overzicht van de idol of in de videocollectie. <br>"
+CollectionReleaseReward_GetReward,Je hebt de beloning {0} ontvangen.
+CollectionReleaseReward_CardInfoButton,Naar idolgegevens
+CollectionReleaseReward_CollectionButton,Naar collectie details
+GachaLotteryExchangeItemConfirm_Title,Scoutpunten omwisselen
+GachaLotteryExchangeItemConfirm_Info,De verlopen “scoutpunten” zijn omgezet in een “vaardigheidsboek (M)”.
+Migration_TopTitle,Data-overdracht / Accountkoppeling
+Migration_SnsLink,Account koppelen
+Migration_EnableSnsLink,Beschikbare accounts
+Migration_SelectSnsLink,Selecteer een account om te koppelen.
+Migration_Twitter,Koppel met Twitter
+Migration_Apple,Sign in with Apple
+Migration_Google,Sign in with Google
+Migration_SignIn,Niet ingesteld
+Migration_SignOut,Gekoppeld
+Migration_CompleteSnsLink,Accountkoppeling voltooid
+Migration_CompleteSnsSignOut,Account loskoppelen
+Migration_SnsLinkMessage,"De data-integratie is voltooid. <br> Nadat je de app op het apparaat hebt gedownload waarmee je wilt doorspelen, ga je naar het titelmenu en kies je voor [MENU] > [Data overzetten] om de accountkoppeling te voltooien. <br>"
+Migration_SignOutMessage,Accountkoppeling ongedaan gemaakt.
+Migration_TakeOverButton,Overzetten
+RewardDetailDialog_CanBeAcquired,Ontvangen aantal
+RewardDetailDialog_Acquired,Ontvangen aantal
+RewardDetailDialog_Possession,Aantal
+MusicSelect_NoData,Er zijn geen bijbehorende nummers gevonden.
+MusicSelect_NoDataAndResetFilter,"Geen nummers gevonden, filter verwijderd."
+MusicSelect_ResetFilterToSelectData,"Geselecteerde nummers weergeven, filter verwijderd."
+MusicSelect_FilterAttribute,type
+MusicSelect_FilterAttributeSmile,Smile
+MusicSelect_FilterAttributePure,Pure
+MusicSelect_FilterAttributeCool,Cool
+MusicSelect_FilterSelect,Criteria
+MusicSelect_FilterGroup,Groep · Liedjes
+MusicSelect_FilterNotClear,Niet uitgespeeld
+MusicSelect_FilterScoreS,Score S niet gehaald
+MusicSelect_FilterComboS,Combo S niet gehaald
+MusicSelect_FilterClearS,Clear S niet gehaald
+MusicSelect_FilterCampaign1,Campagne
+MusicSelect_FilterCampaign2,Campagne
+MusicSelect_FilterUndo,Alles deselecteren
+MusicSelect_ButtonApply,Toepassen
+MusicSelect_RehearsalButton,Oefenen
+MusicSelect_LiveButton,Live
+MusicSelect_NoDifficulty,"De geselecteerde song heeft geen MASTER-moeilijkheidsgraad, dus selecteer een andere song."
+MusicSelect_NoAnyDifficulty,"De geselecteerde track heeft geen moeilijkheidsgraad {0}, dus selecteer een andere track."
+HomePreset_ClearPresetButton,Wil je de aangepaste instellingen voor het startscherm {0} ongedaan maken?
+PresentBox_Attention,"Let op: maximaal 100.000 items kunnen worden opgeslagen. Als dit aantal wordt overschreden, worden de oudste items verwijderd. Items waarvan de ontvangsttermijn is verstreken, worden automatisch verwijderd. U kunt tegelijkertijd maximaal 100 items ontvangen."
+PresentBox_Filter,Filteren
+PresentBox_Filter_Title,Filteren
+PresentBox_Filter_Button_AllSelect,Alles selecteren
+PresentBox_Filter_Button_AllRelease,Alles deselecteren
+PresentBox_Filter_Type_Title,Geschenktype
+PresentBox_Filter_Type_Member,idol
+PresentBox_Filter_Type_Gem,Loveca
+PresentBox_Filter_Type_Gold,Goud
+PresentBox_Filter_Type_Ticket,Scout-ticket
+PresentBox_Filter_Type_Recovery,LP-herstelitems
+PresentBox_Filter_Type_Other,Anders
+PresentBox_Filter_ExpireTime_Title,Geen limiet
+PresentBox_Filter_ExpireTime_Limit,期限あり
+PresentBox_Filter_ExpireTime_NoLimit,Geen limiet
+HomePreset_Set_Label,Set {0}
+HomePreset_Multiple_Set_Label,Meerdere sets
+PresentBox_History_Attention,"Let op: er kunnen maximaal 30 items worden opgeslagen. Als dit aantal wordt overschreden, worden de oudste items verwijderd. Bovendien worden ontvangen items na 30 dagen automatisch uit de geschiedenis verwijderd."
+BeginnerMission_BingoLine,{0}-rij
+Mission_Filter,Filteren
+Mission_Filter_Title,Filteren
+Mission_Filter_Button_AllSelect,Alles selecteren
+Mission_Filter_Button_AllRelease,Alles deselecteren
+Mission_Filter_Content_Title_Reward,Beloning
+Mission_Filter_Reward_Member,idol
+Mission_Filter_Reward_Gem,Loveca
+Mission_Filter_Reward_Gold,Goud
+Mission_Filter_Reward_Ticket,Scout-ticket
+Mission_Filter_Reward_Recovery,LP-herstelitems
+Mission_Filter_Reward_Exp,lesmateriaal
+Mission_Filter_Reward_SkillExp,Vaardigheidstraining-item
+Mission_Filter_Reward_Evolve,Ontgrendel-item
+Mission_Filter_Reward_Title,Titel
+Mission_Filter_Reward_Other,Anders
+Mission_Achievement,Voortgang
+HomePreset_Edit_Dialog_Text,Wil je deze aangepaste startpagina opslaan?
+GachaTop_Invitation_Bonus_Detail,Scoutpunten details
+GachaTop_Invitation_Bonus,<size=29>Scouten<br><size=23>punten
+Adv_Log_NameSuffix_Telop,[Ondertitels]
+EventTop_Button_Tips_Rule,Hoe spelen?
+EventTop_Button_Tips_Bonus,Bonusinfo
+EventTop_Button_Reward,Beloningen
+EventTop_Button_Story,Evenement<br>Verhaal
+EventTop_Button_Ranking,Bekijk ranking
+EventTop_Button_Exchange,Wisselen
+EventTop_Button_Favorite,Favorieten
+EventTop_Button_ToEvent,Eventnummers
+EventTop_Button_ToGeneral,Normale nummers
+EventTop_Favorite_Ranking,Favoriete lid
+EventTop_Point_Total,Totaal event-punten
+EventTop_Point_Next_Story,Volgende verhaal
+EventTop_Term_Title,"Van <size=20> tot </size>, nog {0} dagen en <size=20> uur! </size>"
+EventTop_Point,{0} ptn
+EventTop_Rank,{0}e positie
+Tutorial_Group_Muse,"• Een schoolidolgroep van de Nationale Otonokizaka Academie, actief in Akihabara, Tokio. <br> • De naam van de groep is afgeleid van ""de negen zanggodinnen, de Muzen"". <br> • Ze zijn actief met als doel om te winnen bij Love Live!"
+Tutorial_Group_Aqours,"・Shizuoka, Numazu gevestigde schoolidolgroep van de privéschool Ura no Hoshi Jogakuin. <br>・Opgericht om de school te promoten. <br>・Doet mee aan Love Live! met als doel te winnen."
+Tutorial_Group_Nijigaku,"・Tokyo, Odaiba is hun belangrijkste activiteitencentrum voor deze schoolidols van de particuliere Nijigasaki Gakuen.<br>・Ze waarderen ieders individualiteit en zijn actief als solo-schoolidols.<br>・In plaats van deel te nemen aan Love Live!, streven ze ernaar om allemaal de beste schoolidol te worden."
+Tutorial_Group_Liella,"・Tokyo, Harajuku is hun belangrijkste activiteitengebied; het is een schoolidolgroep van de particuliere Yukioka-meisjesschool. <br>・Yukioka is een nieuwe school en de club werd opgericht in het jaar dat deze werd gesticht. <br>・Een groep die je niet mag missen, ook al doen ze niet mee aan Love Live!"
+Tutorial_Group_SelectButton,Kies deze groep
+Tutorial_Member_SelectButton,Kies deze leden
+Tutorial_Recommend_Lesson,Verhoog het niveau van je idols met lessen!
+Tutorial_Recommend_Gacha,Scout items om trainingsitems te krijgen!
+Tutorial_Recommend_Live,Laten we eerst een Live proberen!
+EventRanking_Tab_MySelf,Mijn positie
+EventRanking_Tab_Rank,{0}e positie
+EventRanking_Tab_TotalPoint,Eventpuntenranglijst
+EventRanking_Tab_Score,Evenement-score ranglijst
+EventRanking_Tab_Favorite,Favorieten
+EventBonus_Tab_Point,Evenement-puntenbonus
+EventBonus_Tab_Item,Miracle Star-beloningen
+EventBonus_MultiTab_Score,Scorebonus
+EventBonus_MultiTab_Item,Inlogbonus voor items ontvangen
+EventBonus_Button_Disclaimer,Voorwaarden
+EventBonus_Point_Value,+{0}%
+EventBonus_Item_Value,+{0}
+EventBonus_Empty_List,Geen items gevonden
+EventTop_Button_ToGeneral_Msg,Mirakelster ontvangen!
+EventTop_Button_Favorite_Ranking,Favorieten
+EventTop_Button_Mission,Uitdagingen
+EventTop_Point_Next_Reward,Volgende beloning
+EventTop_Point_Ranking,Eventpuntenranglijst
+EventBonus_Title,Bonusinfo
+EventRanking_Ranking_Not_Exists,Er is geen ranglijst.
+GemShop_Footer_Special_Commercial_Code,Speciale aanbieding /<br>Betalingswet
+GemShop_Footer_Precautions_Regarding_Use,Gebruiks- <br> voorwaarden
+EventRanking_Unaggregated,De rankinggegevens worden nog niet <br>samengesteld.
+EventReward_EmotionalMemberUnselected,"Je hebt geen favoriete lid geselecteerd, dus het kan niet worden weergegeven."
+EventReward_RequiredPoint,Vereiste punten
+LpBoost_LP_Count,LP-hoeveelheid
+LpBoost_LP_Default_Amount,Standaard LP-verbruik
+LpBoost_LP_Discount,LP-korting!
+LpBoost_Min,MINIMUM
+LpBoost_EventPt,Eventpunten
+LpBoost_Get,ontvangen
+LpBoost_GetReward,Ontvangen beloning
+LpBoost_UseLpMessage,"Hoe meer LP je verbruikt, hoe groter de beloning."
+LpBoost_UseLpSetting,Verbruik LP-instelling
+LpBoost_Count,Aantal
+LpBoost_UseCount,Verbruikshoeveelheid
+LpBoost_Default,Basis
+LpBoost_GetRewardMessage,De hoeveelheid beloning varieert hierdoor.
+LpBoost_Use,Verbruiken
+LpBoost_UseLp,Verbruikte LP
+LpBoost_Setting,Instellen
+LpBoost_UseLPMessageShort,De hoeveelheid ontvangen beloning verandert afhankelijk van de verbruikte LP.
+Skip_Message,Je ontvangt alle beloningen voor het aantal opeenvolgende keer dat je de scène hebt overgeslagen.<br>De hoogste score wordt gebruikt als de score van de Live-sessie wanneer je een scène overslaat.
+Skip_Ticket_Count,Aantal skip-tickets
+Skip_Ticket_UseCount,Stel het aantal skips in.
+Skip_Confirm,Skippen?
+Skip_Lock_Message,"Als je de geselecteerde moeilijkheidsgraad hebt uitgespeeld, wordt de skipfunctie beschikbaar."
+Skip_Not_Enough_Ticket,Geen skip-tickets meer.
+LoginBouns_RewardAmountBonus,(+{0})
+EventTop_Button_ToGeneral_2,Ga naar Live
+EventTop_Button_ToGeneral_2_Msg,Evenementpunten ontvangen!
+EventTipsDialog_Tips_Title,Evenement uitleg
+EventTop_Aggregate,Ranglijst wordt samengesteld
+EventTop_EventClose,Het evenement is afgelopen.
+BeginnerMission_Bingo,BINGO
+TakeOver_DialogTitle,Speelgegevens koppelen
+TakeOver_DialogUserId,Love Live! School Idol Festival gebruikers-ID
+TakeOver_DialogPassword,Playdata-koppeling wachtwoord
+TakeOver_DialogPasswordSample,Invoeren
+TakeOver_DialogAccept,Speelgegevens koppelen
+TakeOver_DialogDescription,Voer je Love Live! School Idol Festival-gebruikers-ID en de wachtwoordzin voor gegevenssynchronisatie in om <br>het Love Live! School Idol Festival-album te bekijken.
+TakeOver_DialogAttension,"Let op: als je geen account hebt gekoppeld in Love Live! School Idol Festival, kun je de functie niet gebruiken.<br>Je kunt de accountkoppeling en het ontvangen van de bijbehorende beloning slechts één keer doen."
+TakeOver_DialogUserError,Voer je Love Live! School Idol Festival-gebruikers-ID in.
+TakeOver_DialogPasswaordError,Voer je wachtwoord voor de speldatalink in.
+TakeOver_DialogDone,De koppeling met je spelgegevens is voltooid en je kunt nu het ‘Herinneringenalbum’ bekijken.<br>Ontvang je beloning voor de gekoppelde spelgegevens in het cadeaugedeelte.
+BeginnerMission_BingoPlayableBalloonTips,BINGO {0} uitspelen om te beginnen
+Mission_ChallengeButton_Chat,Naar chat
+Mission_ChallengeButton_Home,Naar home
+Common_Remain,Nog
+Mission_Attention_Daily,De dagelijkse missies worden elke dag om 0:00 vernieuwd.
+Mission_Attention_ExpireTime,Geldig tot {0}.
+Mission_Attention_Subscription,Let op: de voortgang van MIRACLE Pass-missies wordt vanaf het moment van aanmelding geteld.
+Mission_HeaderTabTotal,Totaal aantal evenementen
+Mission_HeaderTabDaily,Dagelijks
+HomePreset_DropDownItem_Obtain,Verkregen in volgorde
+HomePreset_DropDownItem_Rare,Zeldzaamheid
+HomePreset_DropDownItem_Anime,Met anime
+HomePreset_DropDownItem_Favorite,Favoriet
+Event_CategoryName_1,Mirakelcollectie
+Event_CategoryName_2,Vrije tour
+Event_CategoryName_3,Coöperatieve Live
+Event_CategoryName_4,Sterevenement
+Event_Favorite_Button_Home,Naar start
+Event_Favorite_Button_Decide,Beslissen
+Event_Favorite_Title,Kies je favoriete lid!
+Event_Favorite_Tips,Je favoriete lid
+Event_Favorite_Confirm_Title,Bevestigen
+Event_Favorite_Confirm_Desc,Wil je <br> instellen als je favoriete lid {0}? <br> <br> <color=#C70F01> Let op: na de bevestiging kun je dit niet meer wijzigen tot het einde van het evenement. </color>
+EventBonus_PointBonus_Desc,Event-puntenbonus wordt geactiveerd door een team samen te stellen!<br>Je ontvangt meer event-punten na het voltooien van een Live!
+EventBonus_PointBonus_Attention,Let op: het event-puntenbonus effect is gebaseerd op de totale waarde van alle geselecteerde leden in je team.
+EventBonus_ItemBonus_Desc,"Als er geselecteerde idols in de lijst staan, krijg je meer Mirakelsterren via de dagelijkse beloning!"
+EventBonus_ItemBonus_Attention,※Het aantal ontvangen Mirakelsterren wordt bepaald door de totale waarde van alle leden in je lijst.<br>※De bonus voor het ontvangen van Mirakelsterren geldt alleen op dagen dat er Mirakelsterren beschikbaar zijn als loginbonus.
+EventBonus_ScoreBonus_Desc,Scoremultibonus wordt geactiveerd door een team van leden op te stellen!<br>Je ontvangt meer score bij het voltooien van een Live!
+EventBonus_ScoreBonus_Attention,※De scorebonus is van toepassing op de totale waarde van alle geselecteerde leden in je team.
+EventBonus_ItemBonusMulti_Desc,"Als er leden in de lijst staan, krijg je meer items via de dagelijkse beloning!"
+EventBonus_ItemBonusBonusMulti_Attention,*De bonus voor het ontvangen van inlogitems is gebaseerd op de totale waarde van alle leden uit je team die in de lijst staan.<br>*De bonus voor het ontvangen van inlogitems geldt niet voor goud.
+EventBonus_BeforeEvolve,Voor ontgrendelen
+EventBonus_AfterEvolve,Ontgrendeld
+EventBonus_HaveCard,Ontvangen
+MusicSelect_CanNotFocusMusic,Er zijn geen nummers gevonden met de huidige zoekcriteria.
+Common_ContinueSpiritShortageShortMessage,Er zijn niet genoeg Miracle Stars.
+EventReward_Category_EventPoint,Totaal event-punten
+EventReward_Category_EventScore,Score
+EventRanking_Category_EventPoint,Totaal event-punten
+EventRanking_Category_EventScore,Score
+Common_Consumption,Verbruiken
+Common_Setting,Instellen
+PresentBox_ReceivableItemCount,{0}/<size=-10> {1} items </size>
+HomePreset_Edit_EmptyPresetText,Home-schermaanpassing is niet ingesteld.
+Header_Lp_TextTag,{0}/<size=25> {1}
+Adv_Button_Skip,Overslaan
+Adv_Button_Auto,Automatisch
+Adv_Button_Fast,Snel vooruit
+Adv_Button_Log,Logboek
+Adv_Button_Deactive,Verbergen
+Adv_Button_MovieSkip,Overslaan
+Adv_Button_MoviePlay,Afspelen
+Adv_Button_MovieStop,Pauzeer
+Adv_Button_MoviePrevStep,Terug
+Adv_Button_MovieNextStep,Vooruit
+Adv_Button_MovieDeactive,Verbergen
+Header_Lp_Text,L<size=21>P
+StoryPart_NotLiveClearGroupMusicCount,Speel nog {1} keer {0} nummers in Live om te ontgrendelen
+StoryPart_NotLiveClearMusicCount,Nog {1} keer spelen om {0} vrij te spelen
+Common_SeriesName_1,Love Live!
+Common_SeriesName_2,Love Live! Sunshine!!
+Common_SeriesName_3,Love Live! Nijigasaki Gakuen School Idol Club
+Common_SeriesName_4,Love Live! Superstar!!
+Common_SeriesName_5,Love Live! Luminous Girls Academy School Idol Club
+StoryPart_NotRelease_EventStory,Er zijn niet genoeg eventpunten.
+Common_NoCapture,Het maken van een screenshot van dit scherm is niet toegestaan.
+Common_EventCloseMessage,Er is momenteel geen evenement actief.
+LiveResult_BonusText,Bonus {0}<size=-3>%</size>
+HomePreset_Title_HomeCustomEdit,Home-aanpassing bewerken
+HomePreset_Title_Preview,Voorbeeld
+HomePreset_Title_BackgroundSelection,Achtergrondselectie
+HomePreset_Title_ForegroundSelection,Voorgrondselectie
+HomePreset_Title_MemberChange,Idol wijzigen
+HomePreset_HomeCustom,Home-instelling
+HomePreset_Save_HomeCustom,Home-instelling opgeslagen.
+HomePreset_PhotoWarning,Foto-instellingen staan geen achtergrond- of effectwijzigingen toe.
+TermsOfService_Credit,Credits
+TermsOfService_Button_InformationNotation,Informatie
+TermsOfService_Button_Performance,Prestaties
+TermsOfService_Button_StoneConfirmation,Loveca-overzicht
+SubMenu_Button_Profile,Profiel
+SubMenu_Button_Friend,Vrienden
+SubMenu_Button_ItemList,Itemlijst
+SubMenu_Button_Exchange,Wisselen
+SubMenu_Button_Album,Album
+SubMenu_Button_OnePanelComic,1-panel strip
+SubMenu_Button_MemoryAlbum,Herinneringen
+SubMenu_Button_DataTransfer,Gegevens overzetten
+SubMenu_Button_SerialCode,Serienummer
+SubMenu_Button_LocationCampaign,Uitje<br>Cadeaus
+SubMenu_Button_MusicLibrary,Muziekbibliotheek
+GemShopItem_SubscriptionButton_Restore,Herstel
+LiveResult_GetFriendPointSameMemberFormation,Dezelfde leden zijn opgesteld.
+EventTop_RewardGotAll,Alle evenement-puntbeloningen zijn <br>ontvangen.
+EventTop_StoryAllReleased,Alle verhalen zijn vrijgespeeld
+HomePreset_Cant_Clear_Last1,Preset moet meer dan één bevatten om te voltooien.
+EventTop_NotSetFavorite,Favoriete lid: niet ingesteld
+StoryPart_NotRelease_ReadPrevious,Vorige verhaal nog niet gelezen
+SerialCode_InputDialogTitle,Serienummer
+SerialCode_InputDialogText,Voer de serienummercode in.
+SerialCode_InputEmptyText,Serienummer
+SerialCode_InputDialogAttentionText,De ontvangen items worden naar je cadeaus verzonden.<br>Elke beloning van een serienummer kan slechts één keer per account worden ontvangen.
+SerialCode_ConfirmDialogTitle,Bevestigen
+SerialCode_ConfirmDialogText,Wilt u de bonus voor [{0}] ontvangen?
+SerialCode_SuccessMessage,Ontvang je bonusitems in het cadeaugedeelte.
+SerialCode_ErrorMessageAlreadyUsed,Deze code is al gebruikt.
+SerialCode_ErrorMessageNotUse,De ingevoerde code is ongeldig.
+SerialCode_ErrorMessageNotAvailable,Je hebt het maximale aantal beloningen voor deze campagne al ontvangen.
+SerialCode_ErrorMessageNotEnter,Kan nu niet ingevoerd worden. Probeer het over {0} opnieuw.
+SerialCode_InputButtonText,Serielecode<br>invoeren
+SerialCode_ConfirmButtonText,Serielecode<br>Bevestigen
+SerialCode_DisplayButtonText,Serielecode<br>weergeven
+SerialCode_CopyMessage,Serienummer gekopieerd.
+SerialCode_NoCampaign,Er is geen campagne beschikbaar.
+SerialCode_DisplayDialogTitle,Serienummer weergeven
+SerialCode_DisplayDialogAttentionText,Elk serienummer kan slechts één keer per account worden gebruikt.
+SerialCode_DisplayDialogText,Dit is de serienummercode voor {0}.
+SerialCode_FailedToCreateSerialCode,Kon er geen seriekode op te halen. Probeer het later nog eens.
+SerialCode_NoAllocatableCode,Kon er geen code aan toewijzen. Neem contact op.
+Common_EventPointDetail,{0} van {1}
+EventTop_Multi_RoomIdCopy,Ruim-ID gekopieerd.
+SerialCode_ErrorMessageExpired,De ingevoerde serienummercode is verlopen.
+SerialCode_ErrorMessageRankOutOfRange,"De ingevoerde serienummercode voldoet niet aan de vereiste speler-rank, waardoor deze niet kan worden gebruikt.<br>"
+LocationInformation_Message,Bezoek de aangegeven locatie voor de deadline en ontvang je beloning!
+LocationInformation_Success,Locatiegegevens succesvol verkregen! Ontvang je beloning in het cadeaugedeelte.
+LocationInformation_ConfirmDialogTitle,Campagne bevestigen
+LocationInformation_ConfirmDialogMessage,"Bevestig de locatie en ontvang je beloning. Ga hiermee akkoord? <br> ※Om veiligheidsredenen, verstuur geen gegevens tijdens het reizen."
+LocationInformation_ConfirmDialogGetReward,Ontvangen beloning
+LocationInformation_ConfirmDialogGetLocation,Locatie ophalen
+LocationInformation_NoCampaign,Er zijn momenteel geen actieve evenementen voor beloningen in de buurt.
+Common_OnlySecond,sec.
+MultiMatching_CannotMatching,Kan geen match vinden. We keren terug naar het evenementenoverzicht.
+MultiMatching_Synchronization,Synchroniseer met andere spelers
+MultiMatching_MemberDecited,Leden zijn gekozen.
+MultiMatching_LeaveByTimeLimit,Verlaat vanwege tijdslimiet.
+DeckEdit_Score,Score
+MultiMatching_RecruitMembers,Leden opnieuw zoeken
+MultiMatching_WaitMembersOnResult,Wacht op leden terwijl de Live-resultaten worden weergegeven
+MultiDeck_DefaultDeckName,Coöperatieve Live
+MultiMatching_WaitingAnotherMembers,Wacht op andere spelers.
+MultiMatching_LiveWillStartSoon,Live start binnenkort.
+MultiMatching_SongRequestLabel,Gekozen nummer
+MultiMatching_DecideSongRequest,Dit nummer kiezen
+MultiMatching_NoSongCandidate,Dit nummer kan niet worden gekozen.
+MultiMatching_SongPickSecondsSuffix,sec
+MultiMatching_SongPickChosenLabel,Gekozen
+MultiMatching_SongPickWaiting,Wacht op andere spelers...
+MultiMatching_SongPickClosed,De nummerkeuze is afgelopen.
+MultiRestart_LeaveButton,Verlaten
+MultiResult_HighScoreNotUpdated,Bij een Coöperatieve Live wordt<br>de HIGH SCORE niet bijgewerkt
+SSAlignment_SubMenuButtonText,Skusta-koppeling
+SSAlignment_SubMenuButtonTextAlreadyCompleted,Gekoppeld
+SSAlignment_DialogTitle,Skusta-koppeling
+SSAlignment_DialogTextPlayerId,Skusta-speler-ID
+SSAlignment_DialogTextPassword,Koppelingswachtwoord
+SSAlignment_DialogTextInfo,Voer je Skusta-speler-ID en koppelwachtwoord in om <br>beloningen te ontvangen.
+SSAlignment_DialogTextAttension,Kan niet worden gebruikt als je geen koppeling hebt ingesteld in Skusta!
+SSAlignment_MessageSuccess,De koppeling met Skusta is voltooid.<br>Ontvang je beloning in de cadeaubox.
+SSAlignment_ErrorMessageLock,Kan nu niet ingevoerd worden. Probeer het over {0} opnieuw.
+SSAlignment_ErrorMessageInput,Controleer of je School Idol Festival ALL STARS-speler-ID en koppelingwachtwoord correct zijn ingevoerd.
+Dialog_TitleConfirm,Bevestigen
+Event_EndMessage,Het evenement is afgelopen.
+Common_Search,Zoeken
+Common_SearchPlaceholder,Voer in.
+MusicLibrary_SearchPlaceholder,"Zoek op nummer, componist, tekstschrijver of arrangeur."
+MusicLibrary_SearchWordsEmpty,Voer zoekterm in.
+MusicLibrary_Live,Deze song in Live!
+MusicLibrary_SortDefault,Standaard
+MusicLibrary_SortMusicName,Naamvolgorde
+MusicLibrary_SortReleaseTime,Releasedatum
+MusicLibrary_MusicCount,"{0} van de <size=-5> nummers, {1} geselecteerd, </size> totaal"
+MusicLibrary_MusicEmpty,Er zijn geen bijbehorende nummers gevonden.
+MusicLibrary_Button_MusicDetail,Nummerdetails
+MusicLibrary_Button_Live,Live
+Multi_CannotSendStamp,Stempels kunnen nu niet worden verzonden.
+MusicLibrary_ReleaseDate,Releasedatum: {0}
+Common_Refresh,Bijwerken
+SortDialog_SortRecommendedGuest,Aanbevolen gast
+MusicSelect_ChangeDifficulty,"Er is geen {0}, dus ik heb {1} geselecteerd."
+Practice_CantUseItem,Er zijn geen items beschikbaar voor de automatische modus.
+MusicSelect_NotFullCombo,Niet perfect gespeeld
+RankUpDialog_LpMax,De LP-limiet is bereikt.
+StarEvent_TabGroupStarLevelRanking,Sterren-niveau ranglijst
+StarEvent_TabGroupStarLevelReward,Ster-niveau beloningen
+StarEvent_TabGroupStarPointReward,Totaal evenement-puntbeloningen
+StarEvent_Get,Bekijken
+StarEvent_Share,Deel het één keer per dag.
+StarEvent_Assist,Sterassistentie
+StarEvent_ChangeMusic,Ander nummer
+StarEvent_ChangeMusicFirstPrice,Eerste keer gratis
+StarEvent_SkippableStarMission,Kan de missie worden overgeslagen om het doel te halen?
+StarEvent_Skippable,Kan worden overgeslagen
+StarEvent_MusicClearText,Kies een nummer en haal de doelscore in Live!
+StarEvent_PlayCount,Vandaag gespeeld: {0}/{1}
+StarEvent_SkillPercentUp,Score <color=#F93981> + {0} % </color>
+StarEvent_GotAllStarPointReward,Alle evenement-puntbeloningen ontvangen
+StarEvent_NonPoint,--- pt
+StarEvent_NextStarPointReward,Volgende totale event-puntbeloning
+StarEvent_GotAllStarLevelReward,Alle Star Lv-beloningen ontvangen
+StarEvent_NextStarLevelReward,Volgende Star Lv beloning
+StarEvent_Total,Totaal
+StarEvent_StarLevel,Ster Lv
+StarEvent_BeforeLevel,Vorige<br>sterlevel
+StarEvent_ClearCount,<size=36> {0} / </size> {1}
+StarEvent_StarLevelReward,Ster-niveau beloning
+StarEvent_StarPointReward,Totaal eventpuntenbeloning
+StarEvent_StarLevelRewardDialogTitle,De Star Level-beloning is naar je verzonden!
+StarEvent_ChangeMusicMessage,Wil je {0} wijzigen naar een ander nummer? <br>
+StarEvent_ChangeMusicButton,Ander nummer kiezen
+StarEvent_StarAssistTitle,Sterassistent bevestigen
+StarEvent_StarAssistInfo,"Gebruik je een Star Assist-ticket en start je de Live? <br>Als je een Star Assist-ticket gebruikt, worden tijdens de Live de volgende effecten toegepast."
+StarEvent_StarAssistBuffInfo,"• Idol-trainingsbonus [+{0}%] <br> *De idol-trainingsbonus stijgt als je de idols tot een bepaald niveau traint.* <br> • Tijdens de Live onoverwinnelijk, HP daalt niet. <br> • Constante activering van het maximale beoordelingsversterkings effect (maakt slechte beoordelingen perfect). <br> • 20% verhoogde vaardigheidskans. <br> • Het scorebonus-effect voor de geselecteerde leden wordt verdubbeld."
+StarEvent_StarAssistAmount,Aantal Star Assist-tickets
+StarEvent_StarAssistButton,Gebruik Star Assist voor de Live optreden
+StarEvent_ShareMessage,#Speciële Star Challenge-evenement in #S쿠페스2!#Mijn Star Lv
+Event_PointRewardLoop,Na elke {0} punten ontvangen
+StarEvent_LevelRewardLoop,"Vanaf nu, ontvang je per Star Lv 1."
+EventBonus_StarTab_Score,Scorebonus
+EventBonus_StarTab_Item,Inlogbonus voor items ontvangen
+EventBonus_ItemBonusStar_Desc,"Als er leden in de lijst staan, krijg je meer items via de dagelijkse beloning!"
+EventBonus_ItemBonusBonusStar_Attention,Let op: de bonus voor het ontvangen van inlogitems is gebaseerd op de totale waarde van alle geselecteerde leden in je lijst met idols.<br>Let op: de bonus voor het ontvangen van inlogitems geldt alleen op dagen dat er een Star Assist-ticket beschikbaar is als inlogbeloning.
+StarEvent_PlayBonus_AllGot,Vandaag alle beloningen ontvangen
+StarEvent_Remain_point,Nog {0} punten
+EventBonus_StarScoreBonus_Attention,※De scorebonus wordt berekend op basis van de totale waarde van alle geselecteerde idols in je idol-lijst.
+EventBonus_StarScoreBonus_Desc,"Als er leden in de lijst staan, krijg je bij het uitspelen van een evenementnummer meer score!<br>"
+Theater_DialogTitle,Dagelijks theater
+GemShop_ClosedGemShopMessage,Loveca kan nu niet worden gekocht.
+GameClose_Payback,Terugbetaling
+GameClose_Inquiry,Contact opnemen
+GameClose_InformationNote,Informatie
+GameClose_UserId,ID
+GameClose_PaybackCode,Terugbetalingscode
+GameClose_PaidGem,Beschikbare Loveca
+GameClose_Button_Information,Informatie
+GameClose_Button_Album,Album
+GameClose_Button_TitleList,Titel
+GameClose_Payback_CopyMessage,"ID, terugbetalingscode en Loveca-gegevens zijn gekopieerd."
+GameClose_Payback_CopyText,"ID {0}, terugbetalingscode {1}, bezit van betaalde Loveca {2} <br> <br>"
+Auto_01abf2e45264,Binnen
+Auto_02724107c812,Pas huidige evenementbonus toe op totale waarde.
+Auto_02b919ddcdf4,Terug
+Auto_03274bad099f,Beloning ↑
+Auto_0328cfbe3899,Aantal in bezit<br>
+Auto_033c8131ffca,Vrienden<br>aanvraag
+Auto_038bc41a7c6c,DEMO
+Auto_03dd9696f109,Ster-assistent actief
+Auto_05db19bd7579,MASTER<br>
+Auto_0a462ba1ee08,Recent stickers
+Auto_0b9c90355fa7,Nootnaam
+Auto_0cae74dd2ee6,Ziel
+Auto_0ce873d68a35,x5
+Auto_0eb944667807,■Terugbetalingsperiode
+Auto_0f7fa8f9a3bd,OK<br>
+Auto_0f9511a417ab,Live-score manipulatie
+Auto_1075010ff27d,Uw huidige maandelijkse verbruik
+Auto_109f7d11a0d6,Evenement-score
+Auto_123209ff77c4,Aanbevolen!
+Auto_12b2b7105fb3,HOOFD
+Auto_12d470debc6c,Details
+Auto_1559210b6441,Overige voorwaarden
+Auto_1592365cb790,Verbruiken<br>
+Auto_1744ba8fe835,Tik om in te voeren
+Auto_1798815611ff,Evenementenlijst
+Auto_17c2e91f339d,Sterassistent in gebruik
+Auto_19682bdb9185,Initialiseren
+Auto_19d41bf40aad,Wisselpunten
+Auto_1aa6e8ca6610,Lv
+Auto_1ada75706b1c,Google Play
+Auto_1b51bb0ac522,Totale lid-kracht
+Auto_1d0659501e10,Er zijn geen items beschikbaar om te kopen.
+Auto_1d3921b31495,Dag 1
+Auto_1d97f9dcc3d6,Download instellen
+Auto_1db118371c67,Totaal
+Auto_1e5dd6092929,Naar titel
+Auto_1ebe6a8e14e1,Speciaalvaardigheid AAN
+Auto_204ca2888aa0,Evenement-gacha naam
+Auto_20946a364888,Naar titel
+Auto_20b77e71a816,ALLEEN<br>PERFEKT
+Auto_21125a762c34,Aan
+Auto_2184ff8e15c8,De groep is opgeheven.
+Auto_252e0f7141ed,Uitdaging voltooid!
+Auto_25f4e117dab6,Toepassen
+Auto_264ccbd4abf8,"Let op: als je niet akkoord gaat en het spel speelt, zijn er beperkingen, zoals geen deelname aan de trekking voor echte beloningen of andere acties <br> <br>."
+Auto_2850206c3c5a,Leeftijdsgebonden uitgavenlimiet
+Auto_2a626ea9baf4,Totale scorebonus
+Auto_2c42bdbb8ded,"1 april 2024, 00:00 - 17 juni 2024, 14:59"
+Auto_2cff4f6ba8c2,Kaartnaam (max. twintig tekens)
+Auto_3050c748c4fa,Gegevens wissen
+Auto_3091c8446f8d,Stem
+Auto_309200e20a10,Video beschikbaar
+Auto_33906a7dfdec,OPEN
+Auto_35d0f5fbca4b,Authenticeren
+Auto_36680a92670b,Hoogste combo
+Auto_387d7a59dbaa,AAN
+Auto_38bfb0d36aee,Downloadgrootte 9999.99 MB
+Auto_3a3662973891,Langzaam
+Auto_3b45ef3e2d04,Sluiten zonder instellingen
+Auto_3cb25413e47f,Selecteer evenementnummer
+Auto_3d919fa4840b,Aanpassen
+Auto_3da474537ac3,Overslaan
+Auto_408090253cc2,Sorteren
+Auto_41a07ce577b3,Aantal selecteren
+Auto_42672f9a37d1,Geselecteerde leden
+Auto_42f76867ad2d,Met verhaal
+Auto_42f9f3c2d790,Titel wijzigen
+Auto_4315bc5cce32,Eerste poging:
+Auto_441030094524,Muziek instellen
+Auto_44e681a374ac,Onderbreken
+Auto_45bec89c0f50,Verwijderen
+Auto_4693ee8bed24,Uitwisseling voltooid
+Auto_482939397cb5,NexTone-account <br> ID012345678 <br> ID012345678
+Auto_5064a0f4ba98,Gegevens downloaden
+Auto_506f8b799c18,◆Geforceerde speciale scène◆
+Auto_5291c399b506,Alleen tickets
+Auto_536a08d31bbb,SNEL
+Auto_54ac68559d08,BONUS
+Auto_576770016382,Volgende herstel:
+Auto_587eac1112fa,TERUG
+Auto_58a89456cac6,Meerdere selecteren
+Auto_5b4f82050b5f,Einddatum
+Auto_5bfa6380e816,Bonuspunten
+Auto_5c9f61d441b4,Nederlands<br>
+Auto_5db23947a6dc,Evenement-ID
+Auto_5e9276d98d7e,Bonus
+Auto_61f9b95b94af,Bij overslaan wordt de hoogste score gebruikt als <br>resultaatscore.
+Auto_622b0710d2c1,Aaaaaa iiii uuuuuu<br>Eeeeeee
+Auto_6287420f60b0,<size=/32>Scoutenbonus</size>
+Auto_633a7785dc75,Keuze bevestigen
+Auto_63651cf6d9f8,Live <i>! </i>
+Auto_649df08a448e,Engels
+Auto_64f71689e86e,Opslaan
+Auto_65f101b159a1,Hoe te verkrijgen
+Auto_660f91b2b864,Idoloverzicht<br>
+Auto_66fba5a6fa14,Instellingen opslaan
+Auto_6740ed068754,Live Burst
+Auto_67a0c5e93888,Beoordelingsresultaten resetten
+Auto_6a72085653e4,Alles
+Auto_6a9178a4932f,CLIMAX %
+Auto_6b268944e92c,Ruil bevestigen
+Auto_6b30feafd1f3,Score toevoegen
+Auto_6d9a18833a5a,"Je kunt nog steeds afleveringen apart downloaden, zelfs als je annuleert <br><br>. Je kunt ze later ook allemaal tegelijk downloaden via de optie 'Alles' in het verhaal <br>. Vanwege de grote hoeveelheid data raden we aan dit te doen op een plek met een goede internetverbinding <br><br>. We raden aan om te downloaden via Wi-Fi."
+Auto_6dd5a42a94c0,Instellingen<br>
+Auto_6e444147a521,Alle video's in één keer downloaden
+Auto_6e6a6f2086bb,Ander
+Auto_719ea396ad92,Wis alles
+Auto_71afae920481,LP-korting
+Auto_74c545d169bf,Vereist {0}
+Auto_7548ab52c3d1,Kracht
+Auto_77c6a8345db8,Onderbreking <br>tekst<br>
+Auto_77dfd2135f4d,Annuleren
+Auto_77f505b6262c,Aaaaaa iiii uuuuu <br> eeeeee <br>
+Auto_788a0043ef72,Prefab selecteren
+Auto_7c76cd4f10f6,Karakterfilter
+Auto_7cb690cac947,Speelbonus
+Auto_7d8bbc065980,Totaal evenement-pt bonus
+Auto_7ed45871a39c,In bezit: 99
+Auto_7ef4a9de5c25,Kansen
+Auto_7f450bbd899c,3 verbruiken
+Auto_80212d3591fe,Kunstmatig
+Auto_8223fef77e91,Bandfilter
+Auto_8293da245b3b,Zeldzaamheidsfilter
+Auto_845ae4bff63e,Eventpunten ontvangen
+Auto_848e23d86457,Resterende POWER
+Auto_85932094d554,Beloning voor evenementspunten
+Auto_88b79a43a5a2,Ticket <size=28>scouten
+Auto_89c6e6591da2,Opstellen
+Auto_8ac8a8695f8c,Kostuumvereiste aaaaaaaaaaaaaaaa<br>Kostuumvereiste aaaaaaaaaaaaaaaa
+Auto_8b587a7dbf54,Totale bandrang
+Auto_8fb2690daca7,Sluiten
+Auto_8fc78aae68c7,Bandrang
+Auto_8fe39d4e10b7,Oplopend<br>
+Auto_9241dc943583,Verbruiken
+Auto_9273914e5109,Standaardinstellingen<br>herstellen
+Auto_959f794269e3,Foto
+Auto_98205d57bde6,X JAPAN
+Auto_98cb7f8b4243,Aantal opeenvolgende skips
+Auto_9d2900c40ab7,Smile voor jou
+Auto_9ebddc6b6669,LUNA SEA
+Auto_9f783ad4a18c,Live-instellingen
+Auto_a1477059aa3b,Gastinstellingen
+Auto_a1dea8028b01,Vol.
+Auto_a328a2d80d00,Verwijderen
+Auto_a338c21bfd26,Ster-niveau verhogen!
+Auto_a3c686e711e4,Categorie
+Auto_a4911f7f372a,Voice volume
+Auto_a8dc0179d0a8,Uw maximale aankoop
+Auto_a9a279c07f10,Aantal te ruilen
+Auto_aa3fa7dd256b,"Om deel te nemen aan het evenement moet u akkoord gaan met de <br>Gebruiksvoorwaarden<br>. Lees deze en tik op ""Akkoord"" om verder te gaan<br>."
+Auto_ac35bd4adf50,"""Love Live! School Idol Festival 2 MIRACLE LIVE!"" is beëindigd op <br> <br> de volgende datum. We accepteren verzoeken voor terugbetaling van ongebruikte ""Loveca""-valuta vanaf de onderstaande datum via de app. <br> <br> <br>"
+Auto_ac7c161425e5,Verbruik LP
+Auto_acca96a91aa4,Nog niet vrijgespeeld
+Auto_ad4d9cc1b087,Buiten
+Auto_ad50489054dd,UIT
+Auto_add22ce29a3d,LP-herstel
+Auto_b07900dc57ed,pt
+Auto_b0e4ee23c952,Scout keer
+Auto_b13d33a52865,Achtergrond
+Auto_b2f2b09e6e2d,In bezit: {0}
+Auto_b31d5ea85dff,3e poging:
+Auto_b68eb2cb5bf1,Gebruiksperiode
+Auto_b6e09f881f83,Persoonlijke score
+Auto_b6e3f5c3b4f2,Een nieuw begin...
+Auto_b72306f4e35d,NORMAAL<br>
+Auto_b8143777066d,Tweede poging:
+Auto_b8571eaa5763,TIK OP HET SCHERM
+Auto_b8a4ee600c4a,Jaartal
+Auto_b9fa67abcaf9,Selecteer
+Auto_bc811258ae9f,Tik
+Auto_bd89f983989e,Herstel bevestigen
+Auto_bf22940fda0d,Wissel aantal
+Auto_bf62b8f395bb,Beoordelingsaanpassing
+Auto_c25f358874d1,Ga naar Live
+Auto_c28c25bf8e62,Itemdetails
+Auto_c401efeb943c,Rang verhogen
+Auto_c7eb0f35af72,CENTRUM
+Auto_c7f325f13f16,Ongedaan maken
+Auto_c998d2ee5b08,Volgende
+Auto_cc5ea3852219,Tik op de ritme-iconen in het ritme van de muziek.
+Auto_cd131363eae4,GLAY
+Auto_cde3eb972d17,Hervatten
+Auto_d00d84c15d3a,Live Burst<br>
+Auto_d47b6f2a9df1,Huidige <size=26></size> <size=24> van </size> <br> stap
+Auto_d54d12f95c41,Naam
+Auto_d5ab84b435fb,Jaar
+Auto_d63f619942b9,Natuur
+Auto_d6b401a4b2ac,Missie<br>voltooid!
+Auto_d8cb03e33092,Aanvallen
+Auto_d8ec9e35d2f2,Lidnaam
+Auto_db66ad7b9586,4e keer:
+Auto_dcae5862b56f,Combo
+Auto_dd48a1149548,Rang
+Auto_df50ec2cd8cb,Aantal items
+Auto_df6861322391,Kaartnaam max. tien Kaartnaam max. tien
+Auto_df6e6c5f5960,Totale score
+Auto_e0491d31d0f7,Ga naar Multi Live
+Auto_e11c09011cad,"Lang was uw steun, hartelijk dank.<br>"
+Auto_e4d2bab524b4,"„Love Live! School Idol Festival 2 MIRACLE LIVE!“ is op <br>31 maart 2024 beëindigd. Als u een terugbetaling wilt voor het ongebruikte saldo van de in-app valuta „betaalde Loveca“, kopieert u de onderstaande informatie en neemt u contact met ons op via het formulier „Terugbetaling“: <br><br><br><br>"
+Auto_e7a1f2b591d7,Let op: er wordt eerst gratis Loveca verbruikt.
+Auto_e7ae8d0559ec,Beschikbare medailles
+Auto_e7e170510efe,"31 maart 2024, 15:00 uur"
+Auto_eab6741c0f59,Tekst
+Auto_eb1a2d429c58,Uitvoeren
+Auto_ebb93d3b53a4,Effect
+Auto_ebcf18c786af,Techniek
+Auto_ec828e93801a,Niveau<br>
+Auto_ed28cf13bde2,Home
+Auto_edcb599b9885,"De video van de geselecteerde gacha wordt afgespeeld <br><br>. De kaarten die verschijnen, zijn niet gerelateerd aan de gacha zelf."
+Auto_edee9402d198,Volgende
+Auto_ee3c38fe094f,Beoordelingsresultaat
+Auto_ef3619115ff6,Benodigde scoutpunten
+Auto_efd565d40ade,Herhaal afspelen
+Auto_f0d441f3dfff,Kostuumnaam
+Auto_f12ab05bb974,Aflopend<br>
+Auto_f22f0eb3fa2b,Favoriete bands
+Auto_f4cb18567198,Kaart toevoegen<br>
+Auto_f5ecb4b9a22d,Tekst <br> tekst <br> tekst <br> tekst
+Auto_fe212fc5ce20,Overslaan
+Auto_fff655d2974f,CENTRUM<br>
+Auto_003c9447ae9b,Knop
+Auto_00b165f88921,Stem
+Auto_024500726b03,afstand
+Auto_029ebd875fdb,Tekst<br>Tekst
+Auto_044adfd9ed9d,STAP 4
+Auto_04b455ccba55,Tijdelijke itemwinkel
+Auto_057d38b205d3,Groepstitel
+Auto_05bf2aac7949,"Door data-overdracht uit te voeren, worden de gamegegevens op dit apparaat verwijderd en overschreven met de gegevens van het andere apparaat. <br> Als u tussen verschillende besturingssystemen overzet, worden betaalde medailles omgezet in gratis medailles. <br> Bij een overdracht binnen hetzelfde besturingssysteem blijven de gegevens ongewijzigd. <br> <br>"
+Auto_079bf11eeff3,Versie 0.0.1
+Auto_07a05e260d6b,Centervaardigheid
+Auto_07ddf136db16,16-17 jaar:
+Auto_09ec0c5b620d,Tekst tekst tekst
+Auto_0c6ca3b6cc0a,Naam
+Auto_0cb8722f43db,LP is met 99 hersteld.
+Auto_0d57f9526844,Er is geen speelgegevens voor dit nummer.<br>Probeer het nummer te spelen!
+Auto_0e68b6445410,Er zijn geen items om te ruilen.
+Auto_0e8f4f23a65a,Kan worden gespeeld na het voltooien van BINGO 1 en 2.
+Auto_0f04165846d6,Selectie
+Auto_0f16b706d0e6,"*Alfanumeriek, 8-32 tekens"
+Auto_11412d0e8910,Speciale kansverdeling
+Auto_121def961f9a,Overdracht-ID<br>
+Auto_13e47abd10a7,Gebruik je en start een Live? <br> *Live Burst wordt niet verbruikt.
+Auto_13fd30e09401,Reset elke week op .
+Auto_146927317e55,Event-punten<br>Beloning bij voltooiing
+Auto_14bf1f14b527,"Verbruik om willekeurig een ander nummer dan """" te selecteren? <br>"
+Auto_163d2f0d102b,€5.000
+Auto_1703cc1d1ab7,Kies een van de volgende instellingen om je gegevens over te zetten bij het wisselen van apparaat.<br>Je kunt dit ook gebruiken als voorbereiding op mogelijk gegevensverlies door verwijdering van de app.
+Auto_171264a7eb78,Yuki aaaaaaaaaaa
+Auto_1738ae542173,Tekst tekst tekst aaa
+Auto_17a21f8751b1,Hoonoka
+Auto_18ce79396792,Leerling-manager
+Auto_193f0038f792,Wil je <br> Loveca verbruiken om <color=#C70F01> keer te scouten? Je hebt niet genoeg betaalde Loveca. Wil je er kopen? <size=30> </color> </size>
+Auto_1996a5682af1,Servicebeëindiging<br>
+Auto_1a355bfca80b,medailles (betaald) verbruiken om te kopen.<br>Gaat u akkoord?
+Auto_1ba4c95c1b7e,"μ's 4e single, B-kant. In de tv-anime zong Nishikino Maki het in de muziekruimte en bleef het hangen tijdens een optreden bij de diploma-uitreiking. Er zijn verschillende versies, maar luister vooral naar de baslijn van de originele versie. <br>μ's 4e single, B-kant. In de tv-anime zong Nishikino Maki het in de muziekruimte en bleef het hangen tijdens een optreden bij de diploma-uitreiking. Er zijn verschillende versies, maar luister vooral naar de baslijn van de originele versie. <br>μ's 4e single, B-kant. In de tv-anime zong Nishikino Maki het in de muziekruimte en bleef het hangen tijdens een optreden bij de diploma-uitreiking. Er zijn verschillende versies, maar luister vooral naar de baslijn van de originele versie."
+Auto_1be7423211a5,Itemnaam aaaaaaaaaaa<br>
+Auto_1e0e1976379b,9.999.999 minuten
+Auto_1e17ebb75b4d,Loveca-stenen (100 stuks) <br> <size=22> <color=#F93981> bonus Loveca-stenen (100 stuks)
+Auto_1e531d5608ba,100
+Auto_1fd729e61328,Overdracht voltooid<br>
+Auto_21461c8ad16a,"Dit is de serienummercode voor de campagne """"."
+Auto_217db72fc82b,Vaardigheidsniveau
+Auto_2187f31d0823,Vaardigheidskans <color=#F93981> +0.6 </color> verhoogd
+Auto_21a6013d6db7,"Naam1, Naam2"
+Auto_231660b3e9aa,Yuki ah ah ah ah ah ah
+Auto_2359a6bc9f8e,Tot 2999/12/31 23:59
+Auto_2372659b2fa8,Personage1: Tekst1<br>Personage1: Tekst1
+Auto_23c425468cfa,Inlogbonus ontvangen
+Auto_23d692f07a3f,Ouder
+Auto_24331d4b3c4b,EXPERT 10
+Auto_24ef5199c19f,Downloaden…
+Auto_265c145b1c11,Verbruik Auto Burst-instelling
+Auto_28578faf0062,Nieuwe tekst
+Auto_2910ca68352e,"„Love Live! School Idol Festival 2 MIRACLE LIVE!“ is op 31 maart 2024 beëindigd. De periode voor terugbetalingsaanvragen loopt van 1 april 2024, 00:00 tot 17 juni 2024, 14:59. <br> <br> <br> Hartelijk dank voor uw steun. <br> <br>"
+Auto_2991fd24eff8,KOEL
+Auto_2a9e2a96f3a5,Let op: je kunt de geboortedatum achteraf niet meer wijzigen.
+Auto_2ae6850cf007,EXPERT Nv. 11
+Auto_2db52bd8d99d,Vandaag gespeeld: /
+Auto_2e84ab497270,Kaartnaam (maximaal dertig tekens)
+Auto_30629014ffdf,1.000.000ste plaats
+Auto_327896c958c6,Nitta Emi
+Auto_32cca4a1edcd,Expert Nv. 11
+Auto_32f04a55794f,Herhaling: uitgeschakeld
+Auto_349584413283,Gebruikersnaam (max. 10 tekens)
+Auto_3500bbd544a3,"• Idol-trainingsbonus <br> • Tijdens een Live onoverwinnelijk en geen HP-verlies <br> • Constante, maximale beoordelingsverbetering (maakt slechte beoordelingen perfect) <br> • 20% hogere vaardigheidskans <br> • Scorebonus van geselecteerde leden is verdubbeld <br>"
+Auto_354fd93c17f2,Verhaal titel verhaal titel verhaal titel
+Auto_3588a5b623b0,STAP 7
+Auto_360cb694c2ae,seconden
+Auto_36fc221e2e45,"Tekst: Hata Aki, muziek: Koijima Ryota, arrangement: Kusashita Maoto"
+Auto_3770af0c5c4e,1000 pt
+Auto_37900575e30d,Snelheid
+Auto_383617f9c339,Titel
+Auto_38bf4ac9d31b,123456789 pt
+Auto_38d63311e93b,PUUR
+Auto_393d0282bf7d,Je hebt de volgende items <br>ontvangen
+Auto_399acfa696ba,Eenheid 6789012345
+Auto_3ae3222a8a7c,ID
+Auto_3b18e8e33250,Volume
+Auto_3bdd53e3c81d,Glimlach
+Auto_3c153c60bc73,Item- of kaartnaam
+Auto_3cab1d5076f2,Bij overzetten naar een ander besturingssysteem worden betaalde edelstenen omgezet in gratis edelstenen.<br>Bij overzetten binnen hetzelfde besturingssysteem blijven de betaalde edelstenen behouden.
+Auto_3db8f0a8cb0d,<size=50>11</size> keer scouten
+Auto_3e252f2489fa,De selectie is voltooid. <br> De selectie is voltooid. <br> De selectie is voltooid.
+Auto_3f5567240d61,Type O
+Auto_3fed241ef790,Totaal aantal evenementen
+Auto_4002d1a146fa,"Bekijk de dagelijkse verhalen van μ's, Aqours, Nijigaku en Liella!"
+Auto_40e01c24654a,Nijigasaki Gakuen School Idol Club
+Auto_414ee4134bd7,Met geselecteerde lid in de idollist <br>stijgt het aantal Miracle Stars dat je via de inlogbonus ontvangt!
+Auto_41b187f87bd2,157 cm
+Auto_432849e0e729,Naam personage
+Auto_434ea13d1c5f,aaaaaaaaaaaaaa
+Auto_439bd1f70732,Tekstvak nog behouden.
+Auto_451416850ad2,Bluetooth-modus
+Auto_458a25f3bc2b,aaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>12345678901234567890123456<br>26 tekens × 3 regels
+Auto_45a309dcbdfa,aaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>12345678901234567890123456<br>26 tekens × 3<br>
+Auto_463938856430,Overdrachtscode:
+Auto_463dc0e2645f,Tekst: Test<br>Muziek: test
+Auto_47b4753f220d,Titel
+Auto_486a5b286b90,Voltooi alle dagelijkse missies.<br>Voltooi alle dagelijkse missies.
+Auto_4ac93a41ce71,Componist: -
+Auto_4b8ea9b1a845,"・Retourneren is niet mogelijk。<br>・MIRACLEパス inschrijving vanaf de eerste keer gedurende één maand een proefperiode。<br> Na afloop van de proefperiode wordt er maandelijks via de Store waar u bent ingeschreven betaald totdat u opzegt, en<br> wordt de geldigheidsduur automatisch verlengd。<br> Als u de geldigheidsduur niet wilt verlengen en alleen de proefperiode wilt gebruiken,<br> dient u vóór twee dagen voor het einde van de proefperiode uw opzegging te voltooien。<br>・De geldigheidsduur is één maand vanaf de aankoopdatum of datum van automatische vernieuwing。<br>・De geldigheidsduur wordt elke maand automatisch verlengd。<br>・Automatische vernieuwing leidt tot een maandelijkse betaling van 980 yen。<br>・Zolang u de automatische vernieuwing van MIRACLEパス niet stopt, wordt de geldigheidsduur automatisch verlengd。<br>・Op de datum van vernieuwing kan er vertraging optreden in het verwerkingsproces。<br> Als de effecten tijdelijk niet actief zijn, wacht dan even en probeer opnieuw te laden。<br>・Bij opzegging dient u de automatische vernieuwing te stoppen vóór 48 uur voordat de geldigheidsduur afloopt。<br>・Zelfs bij tussentijdse opzegging kunt u tijdens de geldigheidsduur nog van voordelen genieten。<br>・MIRACLEパス is alleen geldig voor het account van deze app dat op het moment van inschrijving wordt gebruikt。<br>・Tot het einde van de geldigheidsduur op het account vóór overdracht,<br> kunt u zich niet opnieuw inschrijven, dus let hierop。<br>・Bovendien, als u een nieuw account voor deze app maakt door de app te verwijderen,<br> kunt u MIRACLEパス niet overnemen。<br>・Bij meervoudige/dubbele inschrijving op dezelfde MIRACLEパス,<br> kunt u de voordelen niet dubbel ontvangen。<br>・Na afloop van de geldigheidsduur kan het soms even duren voordat de voordelen daadwerkelijk ongeldig worden。<br>・Zelfs als u de app verwijdert, als u geen opzegging voltooit,<br> gaat de automatische vernieuwing door, dus let hierop。<br>・Bij een toestelwissel met een ander OS, of bij overdracht naar een ander account met hetzelfde OS<br> blijven de effecten van MIRACLEパス gedurende de geldigheidsduur behouden。<br> Daarom dienen nieuwe inschrijvers eerst hun opzegging af te ronden op het vorige platform (of<br> account) voordat ze zich inschrijven。<br> Tot het einde van de geldigheidsduur op het vorige platform (of account)<br> kunt u zich niet opnieuw inschrijven。<br> <br>■Hoe de geldigheidsduur te controleren en hoe op te zeggen (automatische vernieuwing stoppen)<br> MIRACLEパス kan als volgt worden opgezegd:<br> Na opzegging en afloop van de geldigheidsduur wordt het ongeldig。<br> ※De bediening kan verschillen per OS-versie of apparaat. Alvast bedankt voor uw begrip。<br> <br>1．Tik op de knop ""Opzeggen"" onderaan dit scherm<br> 2．Tik achtereenvolgens op ""≡ linksboven > Abonnementen""<br> 3．Als u wilt opzeggen, tikt u op het product<br> 4．Tik op ""Abonnement opzeggen"" en volg de opzeggingsprocedure"
+Auto_4ca3fbc3f316,Fotosticker
+Auto_4de912463d5b,Word count: 17/20
+Auto_4e8e36e11ba0,JASRAC-licentie<br>Nr. 123456789ABCDEFG
+Auto_4f3f313eb655,"Onze shows, jouw leven."
+Auto_4f62ed577823,Bij overzetten naar een ander besturingssysteem worden betaalde edelstenen omgezet in gratis edelstenen.<br>Bij overzetten binnen hetzelfde besturingssysteem blijven de betaalde edelstenen behouden.
+Auto_513968cec3d1,Tot 30-06-2023
+Auto_522175083f0b,Cache wissen
+Auto_526b4090303d,"Dit zijn belangrijke gegevens, deel ze niet met anderen <br>. Bewaar een notitie of maak een screenshot <br>. U kunt het wachtwoord later wijzigen <br>."
+Auto_5472f4068cb1,"Horiuchi Marina (Tsubaki Rurika), Asai Nanami (Kou Yuzuka), An Julia (Hojo Yukino), Koyama Rina (Amakusa Hikaru), Sato Minami (Mikasa Maya)"
+Auto_55ee85cd4dcc,Achternaam voornaam
+Auto_560dd21d26a8,Voer je overdracht-ID en wachtwoord in.<br>
+Auto_567ad1eee4be,Beloningsnaam
+Auto_56809f756f76,Ontvang je graag de bonus voor ? <br>
+Auto_572b0f9c1d1b,tekst tekst tekst tekst tekst tekst tekst tekst tekst
+Auto_572e68ce60da,10 punten ontvangen
+Auto_57859cb7238a,Personage naam
+Auto_586b09d35825,Aantal: 9999999
+Auto_58c3db41d9fc,Selecteer gacha-video-instellingen
+Auto_58f52a673e60,Item-/kaartnaam (max. 30 tekens)
+Auto_595596e10b8b,Er zijn geen kaarten die verbeterd kunnen worden.
+Auto_5a6b54f04f20,9.999.999 pt
+Auto_5aa7dabc547e,(max. 2 regels van 26 tekens)
+Auto_5b0e14341d79,Hoshizora Hōnoka
+Auto_5d7171891b9e,Verhaal titel
+Auto_5e2c3623f817,"Batterijniveau is laag <br> Het resterende batterijniveau is <color=""red""> 7 % </color> <br> Vanwege batterijmeldingen van het apparaat kan <br> Live mogelijk worden onderbroken <br> Opladen van het apparaat wordt aanbevolen."
+Auto_5e63c03e564f,MV-weergave onderbreken en<br>terugkeren naar het scherm voor nummerselectie?
+Auto_5e88baf24aea,Cache succesvol gewist
+Auto_5f21648a666a,Nog 999 dagen
+Auto_6114d553d8a5,De bonus voor het ontvangen van beloningen is gebaseerd op de totale waarde van alle geselecteerde leden in je lijst met idols.<br>De bonus wordt alleen toegekend op dagen dat er een Miracle Star-beloning beschikbaar is bij het inloggen.
+Auto_62933bba4c77,Bron: hohogehoge
+Auto_62b3c4231032,VOLTOOI AANTAL<br>
+Auto_6311b5d2d37d,Lv.
+Auto_64e02dbe9ba6,STAP 1
+Auto_669d4fab42d5,Nog (reset elke maandag om 0:00)
+Auto_67c008e4fd30,Weergavenaam
+Auto_67dbec9cc4e4,Max. ¥10.000
+Auto_6842c74c4d51,Kind
+Auto_6b3f6985eb92,Kleine Demon 1
+Auto_6bfa25be446d,sportdrank
+Auto_6d17169b8845,Verhaal vrijspelen
+Auto_6eee3369a6c0,XXXXX XXXXX XXXXX
+Auto_6f9b9af3cd6e,bericht
+Auto_6fc69aae7ef1,20XX/99/99 99:99
+Auto_6fd05cc842c9,<color=#ff5500> <size=28>1 keer per dag </color> </size> <br>Reset om 0:00 uur elke dag
+Auto_709a23220f2c,Naam
+Auto_7123fcc9c635,Gebruik 345678901234567890123456789
+Auto_7171d9cb0cf3,Itemnaam
+Auto_71cd10385774,Volledige limietverhoging maakt video vrij.
+Auto_71fd4dacfad1,1 augustus
+Auto_737f138ed948,Vandaag<br>Gebruikt
+Auto_75e1496591d4,Bekijken
+Auto_76fb59ce183d,Itembeschrijving itembeschrijving itembeschrijving ○<br>Itembeschrijving itembeschrijving itembeschrijving ○
+Auto_773a03413bdc,Itemnaam (max. twintig tekens)
+Auto_78f1b4350a83,Tot 31/12/2021 12:00
+Auto_794145f030ff,Knop
+Auto_7a5db5a1f223,2 jaar
+Auto_7bf2e2580045,Terugblik Hoofdstuk
+Auto_7c1698e461f9,Naam lid (max. 10 tekens)
+Auto_7c54bd6c4a3f,De parameters van de <br>kaartnaam zijn verbeterd.
+Auto_7dee13bf0dd8,YOSHIKI
+Auto_7f2b15f3359a,Nog 16 dagen
+Auto_7f91240a914e,Maximale lengte uitwisselitemnaam is zestien tekens.
+Auto_82434dcead71,Optie B
+Auto_827ada3af78a,"Door data over te zetten, worden de gamegegevens op dit apparaat verwijderd en vervangen door de gegevens van het originele account. <br> Als je tussen verschillende besturingssystemen overzet, worden betaalde edelstenen omgezet in gratis edelstenen. <br> <br> <color=#c70f01> Bij een overdracht binnen hetzelfde besturingssysteem blijven de betaalde edelstenen behouden. <br> </color>"
+Auto_8449eea355c4,Centervaardigheid uitleg<br>Centervaardigheid uitleg
+Auto_860981a8b394,Titel Titel Titel Titel
+Auto_87c522a79361,Vaardigheidsbeschrijving <br> Vaardigheidsbeschrijving <br> Vaardigheidsbeschrijving
+Auto_8957ed473795,Arrangement: -
+Auto_8b0bbe5fa2a0,Geboortedatum kan later niet meer worden gewijzigd.
+Auto_8bdd1e8256dd,Normaal 1
+Auto_8c3c5dc7add8,Wil je echt overzetten? <br>
+Auto_8d1308cd282c,Asaka Karin
+Auto_8d54688f884e,Hashtag
+Auto_8d7f5abed4eb,Cache is succesvol gewist.<br>
+Auto_8ec81c9e6bba,Er zijn geen ontvangen titels.
+Auto_8ecd1842d6d5,Batterijstatus
+Auto_8eee6c561bb2,Bij overzetten naar een ander besturingssysteem worden betaalde edelstenen omgezet in gratis edelstenen. <br> Bij overzetten binnen hetzelfde besturingssysteem blijven de betaalde edelstenen behouden. <br>
+Auto_8f7124fb70a8,Tutorial voltooid.<br>Terug naar het titelscherm.
+Auto_91152b56f991,laag<br>
+Auto_920d74d2ff09,Dag 1
+Auto_920f67831677,Speciale opdracht
+Auto_940387049ad0,"Een schoolidolgroep van de privéschool Shiyukigaoka in het centrum van Harajuku, Tokio. <br>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+Auto_94e6b092259d,Cache wordt gewist.<br>Even geduld tot het klaar is.
+Auto_953670412850,Je bent overgeschakeld naar de Bluetooth-modus vanwege de verbinding met een Bluetooth-headset <br> In de Bluetooth-modus kan er vertraging optreden bij het afspelen van tikgeluiden tijdens een Live-optreden <br> *De instellingen voor timingcorrectie voor Bluetooth zijn actief.
+Auto_957c2a10d823,De eenheidsnaam mag maximaal 16 tekens lang zijn.
+Auto_965fb2ddf63d,Ontvangen
+Auto_97855c87fb9b,STAP 6
+Auto_9850ea73a3e8,Tekst tekst tekst tekst tekst
+Auto_98997bef6406,Bevestigen<br>
+Auto_99122787e954,Berichtberichtberichtbericht ●● <br> berichtberichtberichtbericht <br> twee tekens <br> vier regels
+Auto_99940a7d6018,x <size=-3> keer </size>
+Auto_9a5e7fc5a514,Daarom spelen we!
+Auto_9bc6fb8cccfc,"Let op: maximaal 30 items kunnen worden opgeslagen. Als de limiet wordt overschreden, worden oudere items verwijderd. Ontvangen items worden bovendien automatisch na 100 dagen uit de geschiedenis verwijderd."
+Auto_9d3cadaec013,Bij overzetten naar een ander besturingssysteem worden betaalde edelstenen omgezet in gratis edelstenen.<br>Bij overzetten binnen hetzelfde besturingssysteem blijven de betaalde edelstenen behouden.
+Auto_9d81b6cadd5c,Ervaringsweergave
+Auto_9d86b9378453,99999e positie
+Auto_9daaa404b4c3,Item-/kaartnaam (max. 30 tekens)
+Auto_a0685b910206,Zoeken
+Auto_a08046709963,Componist: <br> Tekstschrijver: <br> Arrangeur:
+Auto_a0d95c9b62e6,tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst tekst
+Auto_a0ec88460069,Releasedatum nummer: 8888/88/88
+Auto_a1a8a57f247c,Live Burst is hersteld tot 10.<br>Het maximum aantal vrienden is verhoogd van 5 naar 10.
+Auto_a45ad5596a9e,Voornaam achternaam
+Auto_a50b3e2b4507,"Itemnaam, max. 12 tekens"
+Auto_a65f3a8a2407,72 uur geldig
+Auto_a69be1e057ef,Eerstejaars
+Auto_a6a31e215fdd,Evenement P
+Auto_a7726b3f99f0,Aaaaaaa (max. 2 regels van 21 tekens)
+Auto_a78153e9f407,ABCD EFGH IJKL MNOP
+Auto_a808eee2241b,"Ontvang de kaart met de langste naam, ontvang de kaart met de langste naam, ontvang de kaart met de langste naam<br>Deze menu-item is alleen beschikbaar als je een abonnement hebt."
+Auto_a94d5d0c7027,Ticketnaam
+Auto_aa1168393020,Voer je geboortedatum in voor de leeftijdsverificatie.
+Auto_ac34920d91ed,Beloning • EXP
+Auto_ac6c98656ccc,LAWSON
+Auto_acb992ab8026,Geen instellingen
+Auto_ad9ec245bacb,EXPERT <size=26>Lv</size>
+Auto_adf974909200,"Gaat u door met de aankoop, ook al overschrijdt uw huidige maandelijkse uitgave de 100.000?"
+Auto_afa7944cae4b,"1 regel, 21 tekens<br>Max. 2 regels"
+Auto_b067846ca702,tot 31/12/2099 00:00
+Auto_b1181d44cd51,Itembeschrijving
+Auto_b2ad896a1cb2,STAP 2
+Auto_b3361a468f26,tot 30-11-2021 13:59
+Auto_b4ae1b9654fd,Hier komt een tekstregel. <br> Hier komt een tekstregel. <br> Hier komt een tekstregel.
+Auto_b528c11750d0,Geef een cadeau
+Auto_b5414c090b1d,De effecten van de evenementpuntenbonus worden niet gecombineerd; alleen het hoogste effect van de leden in je opstelling wordt toegepast.
+Auto_b59e287feb4c,Nog 99 keer
+Auto_b78072c47e29,Centervaardigheid uitleg <br> Centervaardigheid uitleg <br> Centervaardigheid uitleg
+Auto_b7dfc9785b79,Onvoltooide droom! (Tsubaki Sakurajo Joshi Koko Ver.)
+Auto_b803c31897b9,Cache gewist.<br>
+Auto_b8be7f2cb5de,Scouten<br>Tekst
+Auto_b95b73ebd08b,162 cm
+Auto_ba5dc2cc4de4,Nijigasaki Gakuen School Idol Club Selectie
+Auto_baed348504d9,-1000
+Auto_bc40521e5705,Verhaaltitel
+Auto_bccc54ef43f6,Favoriete lid ontvangen
+Auto_be3bffb9fcbf,Lv. 99
+Auto_be60bc27fbf7,<size=50>10</size> keer scouten
+Auto_bef81964e6fa,Probeer niveau 1
+Auto_bf4c732a9812,Event-puntenbonus is van kracht wanneer je een selectieleden opstelt!<br>Je ontvangt meer event-punten bij het voltooien van een Live!
+Auto_bf91f3a572ba,"• Auto Burst wordt gebruikt, beginnend met de items die het snelst verlopen <br> • Auto Burst kan alleen worden gebruikt voor nummers die je hebt uitgespeeld <br> • Je kunt Live Burst en Auto Burst niet tegelijkertijd gebruiken <br> <color=#D73C55> Zelfs als er geen beschikbare Bursts zijn, kun je spelen. De beloning, EXP en eventpunten zijn echter slechts 1x </color> <br>"
+Auto_c1fa719d598a,Spirits gebruiken?
+Auto_c3a4f560ab26,Berichtberichtberichtbericht<br>Berichtberichtberichtbericht
+Auto_c4a400246fd1,Selecteer een SNS-account om te koppelen.
+Auto_c4c9a1fdfc9e,Voer de weer te geven inhoud <br> in Voer de weer te geven inhoud <br> in
+Auto_c6d374d72d7f,Lach met het leven!
+Auto_c6de9c87f72e,Lv 9/9
+Auto_c76d98f6d9fb,“Verhaaltype #”<br>Deel # van het verhaal is vrijgespeeld!
+Auto_c892f3e56f53,Premium-pakket kopen?
+Auto_c9fac4d62211,Zorg ervoor dat het totale aantal van een bepaald type in je opstelling hoger is dan 29000.
+Auto_ca61133f09ff,Vandaag gespeeld: 1/5
+Auto_ca635e2d27c2,asdfasdfgasdgf
+Auto_ca7ddec2aa05,"Er zijn momenteel te weinig Live Bursts ingesteld. Wilt u de resterende Live Bursts niet aanvullen en in plaats daarvan alleen het beschikbare aantal gebruiken om <br> een Live-optreden te starten, waarbij <br> wordt verbruikt? <br>"
+Auto_cad73579d948,tot 12/12/2022 12:12
+Auto_caeac8b0e507,Nummer
+Auto_cb3ba916e5a5,Bandrang verhogen
+Auto_cc5e60312e77,Je kunt je gegevens overzetten naar een nieuw apparaat door één van de volgende instellingen te gebruiken.<br>Dit kan ook worden gebruikt als back-up voor het geval je de app verwijdert en gegevens verliest.
+Auto_cd292cafcb22,Je hebt de kaart ontvangen.<br>De ontvangen lid wordt direct toegevoegd.
+Auto_cefaf311b26d,Bij het spelen met anderen is er gedrag vastgesteld dat hinderlijk is voor andere spelers <br>. We hebben tijdelijk de functie beperkt <br>. Gelieve te wachten tot deze weer beschikbaar is.
+Auto_cff4d31a542a,Nog 9999 keer deze maand
+Auto_d109f177e1ca,*Miracle Star-bonus wordt niet gecombineerd; alleen de hoogste bonus van je idol-lijst telt.<br>*De hoeveelheid Miracle Stars neemt alleen toe op dagen dat er een login-bonus is ingesteld.
+Auto_d13b8de51614,Verbruik je de geselecteerde items om 999 LP te herstellen?
+Auto_d26e16005b9b,Eenheidsnaam 67890123456
+Auto_d3956f3f07bd,Wat is een centerskill? <br> hoge <br> hoge
+Auto_d49438232a89,Puntenbonus prioriteren
+Auto_d49d030a4c41,Ga naar menu
+Auto_d514ddda1f2b,Nijigasaki Gakuen School Idol Club<br>
+Auto_d5e65e858e9f,JASRAC-licentie<br>Nr. 123456789ABCDEFG
+Auto_d68606f69a20,Totaal Exp:
+Auto_d7d50bd43ec5,123456 76gHH JGFDD
+Auto_d7d921bdbb52,Regionaam
+Auto_d95c4718456b,Campagnenaam hier invullen
+Auto_da4223df6db9,Je hebt de volgende items <br>ontvangen.
+Auto_daf84f7c7d22,Eerste helft
+Auto_dc7f77b4ccfc,Herhalen
+Auto_e0bf83c834c3,--- <size=30>e </size>
+Auto_e11359efb14c,ROSIER
+Auto_e148ce3a95d1,Verbruik Burst-instelling
+Auto_e1c8e6e7609b,De data-overdracht is voltooid. <br> Download de app op het apparaat waar je naar wilt overzetten en ga vervolgens via <br> het hoofdmenu naar <br> 'Data-overdracht' om de overdrachts-ID en het wachtwoord in te voeren. <br>
+Auto_e1dfd8068c2c,Pauze
+Auto_e2c1a45b20e9,Aflevering
+Auto_e2c3fd94c0d0,<size=100>Zuid<size=80> <size=100>Ko<size=80>to
+Auto_e2dd1dd4eff5,"De titel van de scène wordt hier ingevoegd, maximaal 24 tekens."
+Auto_e41a824f0330,"Ahhhhh (max. 18 tekens per regel, max. 2 regels)"
+Auto_e4fed19cc108,Je verbruikt 1000 edelstenen om dit itempakket te kopen.<br>Dit product kan alleen met betaalde edelstenen worden gekocht.
+Auto_e681a79dd251,Beschrijving van de titel <br> Beschrijving van de titel <br>
+Auto_e6a58fc3b7ed,STAP 5
+Auto_e734b3d49dce,Tekst: Yamada Takahiro <br> Muziek: Yamada Takahiro <br> Arrangement: Yamada Takahiro
+Auto_e760d2bb643b,Cache legen? <br> Is dat goed?
+Auto_e8a8b7c6038e,Vereist Loveca-aankoop
+Auto_eb2d423b05fd,Scoutpunten []
+Auto_eca4f8397ade,Rang<br>
+Auto_ed19e903d580,Vaardigheidsnaam
+Auto_ee1a9acc0e95,Er is geen beschikbare gebruiksgeschiedenis.
+Auto_ee4c907f5db2,fps
+Auto_eedc6a01343e,"Tot 1 januari 2020, 17:00 uur"
+Auto_ef900ac4aaaa,Artiestnaam
+Auto_f082d04a8efb,Wenen-Margarethe
+Auto_f08c587b54a5,Teksttekstteksttekstteksttekstteksttekstteksttekstteksttekst <br> tekstteksttekstteksttekstteksttekstteksttekstteksttekst <br> tekstteksttekstteksttekstteksttekstteksttekstteksttekst <br> tekstteksttekstteksttekstteksttekstteksttekstteksttekst <br> tekstteksttekstteksttekstteksttekstteksttekstteksttekst <br> tekstteksttekstteksttekstteksttekstteksttekstteksttekst <br> tekstteksttekstteksttekstteksttekstteksttekstteksttekst <br> tekstteksttekstteksttekstteksttekstteksttekstteksttekst <br>
+Auto_f1399a500121,STAP 3<br>
+Auto_f23c1a3a61ab,"Yazawa Nico (stem: Tokui Aoi), Hoshizora Rin (stem: Iida Riho), Koizumi Hanayo (stem: Kubo Yurika)"
+Auto_f265c8f36b84,<size=100>Zuid<size=80> <size=100>Niko<size=80>tori
+Auto_f65f17e85292,Optie A
+Auto_f660160beb91,Bericht
+Auto_f66750e6a4d9,Privacybeleid<br>
+Auto_f6f99b4fccd5,Titel
+Auto_fa4421e93912,"Vlieg, mijn hart, naar jou!"
+Auto_fc02722f2e79,Parameters verhogen
+Auto_fe1465b2f630,Cache wissen.
+Auto_ff511e92f6a2,Markersnelheid = 6
+Auto_3deeeac74475,Nieuwe tekst_Nieuwe tekst<br>Nieuwe tekst_Nieuwe tekst
+Auto_316076ac0fd6,HONOKA KOSAKA
+Auto_e33d9b3310c8,Hobby:
+Auto_c3328c39b0e2,Tekst
+Auto_b31a6165ed15,Deelnemend
+Auto_e08da1d02602,Selectiestatus
+Auto_e59d7bc19c8f,Event-puntenbonussen worden alleen toegekend aan de idol met het hoogste effect in de huidige opstelling.
+Auto_56284117f22b,Unit<br>Details
+Auto_229ac5ad1902,ID:
+Auto_8f6f274bdbc6,Vriendenlijst<br>
+Auto_d1eb1a8c785c,Laatste login: 1 uur geleden
+Auto_07ec0ce76690,Alleen <br>favoriete vrienden weergeven
+Auto_e6a697ba40c2,Vriendenlijst
+Auto_ec7ae06b0999,Verwijderen
+Auto_d7831e09e2fa,Vriendschapsverzoek weigeren
+Auto_9aebaee878f6,Huidige <size=32>STEP</size>
+Auto_ffdb97c8a723,Cool Empress
+Auto_861285cde494,Cool-stat verhoogt met 12% + de Cool-stat van Hono en Hanayo als lid verhoogt deze verder met <br>9%<br>.
+Auto_43965186bda1,"Cool-waarde +12%, plus leden van Hoshino en Hanayo verhogen de Cool-waarde met nog eens 9% <br>. <br> <br>"
+Auto_82002e2fa49d,"Cool-waarde +12%, plus extra Cool-waarde +9% voor de leden <br> <br> <br> <br>."
+Auto_8f430c44afa1,Nog een keer!
+Auto_8697160f7a00,Bij gebruik van Star Assist wordt de <br>HIGH SCORE niet bijgewerkt
+Auto_1b92a8c61f66,Bij gebruik van Star Assist wordt de <br>MAX COMBO niet bijgewerkt
+Auto_119dada8743d,Bij dit evenement wordt <br>de HIGH SCORE niet bijgewerkt
+Auto_23a202742edc,Tokyo Garden Theater
+Auto_71e7b499f129,Locatie:
+Auto_6ef2337620d1,Hoshino Hoka
+Auto_bca3582437f0,Ontvangen items
+Auto_5e09801739ed,Er zijn geen kaarten beschikbaar.
+Auto_d0ce5c42a59a,Naam
+Auto_5d58d93e8bf4,Nog 10 dagen
+Auto_472aa5aec506,aaaaaaaaaaaaaaaaaaaaa
+Auto_11fcfa6991cb,-aaaaaaaaaaaaaa
+Auto_7cf81d1c765b,Lid(den) bepalen
+Auto_e9f1544100ba,Naam komt hier:
+Auto_1af14d2a65f8,Ruim-ID:
+Auto_6a26632920e1,Totaal aantal combo's
+Auto_3b73e212eeee,"Componist: Ayumu Nakamura, Hiroto Kikuchi <br> Arrangement: Ayumu Nakamura, Hiroto Kikuchi <br> Zang: Chika Kohae (stem van Ayumi Iba), Mari Ohara (stem van Aina Suzuki), Dia Kurosawa (stem van Ayasa Komiya) <br> Kanata Matsuura (stem van Nanaka Suwa), Yoshiko Tsushima (stem van Aika Kobayashi)"
+Auto_fe933ad251ac,Tik om een naam in te voeren
+Auto_4d395aee4ce0,Nog 99 dagen
+Auto_29f72241b091,"Afhankelijk van de hoeveelheid, veranderen de ontvangen beloningen en eventpunten."
+Auto_2e4df52b54d0,Verbruik LP selecteren
+Auto_5521e368d87e,Waarschuwing
+Auto_7e5716db83d2,"Er is gedrag geconstateerd dat hinderlijk is voor andere spelers. <br>De resultaten van deze Live-sessie zijn ongeldig. <br>Als dergelijk gedrag herhaaldelijk wordt geconstateerd, <br>wordt uw speeltijd tijdelijk beperkt. <br>"
+Auto_58b0ee43d2aa,Speel je nog een keer Live met dezelfde spelers en moeilijkheidsgraad? <br>
+Auto_40d132e9c3cd,Verlaat je de privéruimte?
+Auto_ef20caea634e,De hostverbinding is verbroken.<br>Ga naar de event-startpagina.
+Auto_425e7dea4998,"Er zijn niet genoeg deelnemers. <br> Als je met minder dan <br> 4 spelers speelt, kan het aantal evenementpunten dat je <br> ontvangt lager zijn. <br> Wil je de Live-sessie starten met het huidige aantal spelers? <br>"
+Auto_2dd929a3304a,Vandaag zijn alle gastoptredens opgebruikt.<br>We keren terug naar het event-hoofdscherm.
+Auto_daa15114aa23,Er is geen speciale opstelling voor het evenement gemaakt.<br>Ga naar het scherm voor de speciale opstelling.
+Auto_377325e4d88d,De verbinding is verbroken of er is herhaaldelijk valsspelen gedetecteerd.<br>Daarom wordt het Live-spel in dit evenement tijdelijk beperkt.
+Auto_e958b7cc8644,Zoek een kamer...
+Auto_77a19778ce42,Nieuw
+Auto_d55be023c2b2,Aan
+Auto_f1671898c65b,Hoshizora Rin
+Auto_31eecb3ddc6d,Taal
+Auto_b0a4b7078dce,Diverse instellingen<br>
+SelectLanguage_ConfirmTitle,Taal wijzigen
+SelectLanguage_ConfirmMessage,Weet je zeker dat je de taal wilt wijzigen en de app opnieuw wilt starten?
+Auto_343a26d4817b,Aanbevolen
+Auto_217643d3311e,Team samenstellen
+Auto_5712f746e026,Herschikken
+Auto_c47bf7602f86,Hoofd <br> instellen
+Auto_17d151209dcb,Gebruik
+Auto_eb321ace03b3,Spelernaam
+Custom_Option_Live3d_Title,3D Live-instellingen
+Custom_Option_Live3d_Info,Stel 3D Live in/uit en pas de kwaliteit aan.<br>De wijzigingen worden toegepast vanaf het volgende Live-optreden.
+Custom_Option_Live3d_Enable,3D Live afspelen
+Custom_Option_Live3d_Quality,Kwaliteitsinstellingen
+Custom_Sifas_Live3d_Toggle,3D Live
+Custom_Sifas_3dMv_Cycle,Wisselen
+Custom_Option_Keyboard_Title,Toetsenbordinstellingen
+Custom_Option_Keyboard_Info,Kies een lane en druk op een toets/knop (druk op Esc om te annuleren)
+Custom_Option_Keyboard_Lane,Lane {0}
+Custom_Option_Keyboard_Listening,Druk op de toets/knop voor lane {0}... Druk op Esc om te annuleren.
+Custom_Option_Keyboard_Waiting,Wacht op invoer
+Custom_Option_Keyboard_None,Niets
+Custom_Option_Keyboard_Back,Terug / Pauzeer
+Custom_Option_Keyboard_BackListening,Druk op Terug / Pauze.
+Custom_Option_Download_Title,Downloadinstellingen
+Custom_Option_Download_Info,Download nummers vooraf om wachttijd bij aanvang van de Live te vermijden.
+Custom_Option_Download_Used,Gebruikte ruimte: {0} (kan verwijderd worden: {1})
+Custom_Option_Download_UsedNone,Gebruikte ruimte: —
+Custom_Option_Download_Calculating,Gebruikte ruimte: wordt berekend...
+Custom_Option_Download_Deleting,Gebruikte ruimte: Wordt verwijderd...
+Custom_Option_Download_AllSongs,Alle nummers downloaden
+Custom_Option_Download_AllMv,Alle 3D-lives downloaden
+Custom_Option_Download_ClearCache,Cache wissen
+Custom_Option_Visual_Title,Visuele instellingen
+Custom_Option_Visual_Info,Kies een visuele preset of pas individuele instellingen aan.<br>Wijzigingen worden toegepast vanaf de volgende Live-sessie.
+Custom_Option_Visual_Preset,Preset
+Custom_Option_Visual_Custom,Aangepast
+Custom_Option_Visual_CustomInfo,Aangepaste instellingen in gebruik (worden toegepast vanaf de volgende Live)
+Custom_Option_Visual_GroupDisplay,Weergave
+Custom_Option_Visual_GroupLighting,ライティング
+Custom_Option_Visual_GroupStage,Fase
+Custom_Option_Visual_GroupEffect,Effect
+Custom_Option_Visual_GroupPhysics,Fysica
+Custom_Option_Visual_Resolution,Resolutie
+Custom_Option_Visual_Fps,FPS
+Custom_Option_Visual_Aa,Antialiasing
+Custom_Option_Visual_BaseLight,Basislamp
+Custom_Option_Visual_Ambient,Omgevingslicht
+Custom_Option_Visual_RimLight,Randlicht
+Custom_Option_Visual_SpotLight,Spotlight
+Custom_Option_Visual_Emissive,エミッシブ
+Custom_Option_Visual_Display,Stage-weergave
+Custom_Option_Visual_StageFx,Stage-effecten
+Custom_Option_Visual_Audience,Publiek
+Custom_Option_Visual_Cubemap,Reflectie
+Custom_Option_Visual_PostEffect,Posteffect
+Custom_Option_Visual_SwingBone,Beweging
+Custom_Option_Keyboard_TabTitle,Toetsenbordinstellingen
+Custom_Option_Download_TabTitle,Downloadinstellingen
+Custom_Option_Visual_TabTitle,Visuele instellingen
+Custom_Option_Download_StoryMovies,Alle verhaalvideo's downloaden
+Custom_Option_Download_CardArt,Alle kaartafbeeldingen downloaden
+Custom_Sifas_MvDeck_Header,MV-opstelling
+Custom_Sifas_MvDeck_Entry,Kostuuminstellingen
+Custom_Sifas_MvDeck_UseDefault,Standaardopstelling gebruiken
+Custom_Sifas_MvDeck_UseDeck,Opstelling gebruiken
+Custom_Sifas_MvDeck_Reset,Reset
+Custom_Sifas_MvDeck_Save,Opslaan
+Custom_Sifas_MvDeck_PickMember,Lid selecteren
+Custom_Sifas_MvDeck_PickSuit,Kostuum kiezen
+Custom_Sifas_MvDeck_DefaultSuit,Standaardkostuum
+Custom_Sifas_MvDeck_RinaBoard,Rina-bord verwijderen
+Custom_Sifas_MvDeck_InFormation,Opstellen
+Custom_Sifas_MvDeck_PickGroup,Groep selecteren
+Custom_Sifas_MvDeck_Back,Terug
+Custom_Sifas_MvDeck_CustomGroup,Aangepast
+Custom_Sifas_MvDeck_Import,Importeren
+Custom_Sifas_MvDeck_DeleteMode,Verwijderingsmodus
+Custom_Sifas_MvDeck_DeleteModeExit,Verlaat verwijdermodus
+Custom_Sifas_MvDeck_DeletePrefix,Verwijderen:
+Custom_Sifas_MvDeck_ImportDone,Importeren voltooid
+Custom_Sifas_MvDeck_ImportFailed,Importeren mislukt
+Custom_Sifas_MvDeck_ImportDropHint,Plaats de zip in de Import-map.
+Custom_Sifas_MvDeck_ImportBatch,Importeer vanuit map
+Custom_Sifas_MvDeck_ImportBatchResult,Batch-importresultaat
+Custom_Sifas_MvDeck_ImportBatchKept,Origineel kon niet verwijderd worden
+Custom_Sifas_MvDeck_ImportUnsupported,Bestandselectie wordt in deze omgeving niet ondersteund.
+Custom_Sifas_MvDeck_ImportStageDonor,Donor-model wordt ingeladen...
+Custom_Sifas_MvDeck_ImportStageConform,Model wordt verwerkt...
+Custom_Sifas_MvDeck_ImportStageBake,Texturen worden samengesteld...
+Custom_Sifas_MvDeck_ImportStageRegister,Wordt geregistreerd...
+Custom_Sifas_MvDeck_ImportErrDonor,De donormodel is niet gedownload (download eerst de 3D-liveversie).
+Custom_Sifas_MvDeck_ImportErrVerify,Modelconstructie mislukt (zie spelerlogboek).
+Custom_Option_Live_Sif1SwipeMode,SIF1-swipe modus
+Custom_CardDetail_FriendshipPlaceholder,Vriendschap??? Niet geïmpl.
+Custom_CardDetail_EvolveTentative,Voorlopig Ontgrendelen: {0}
+Custom_CardDetail_TitlePlaceholder,Nog niet beschikbaar
+Custom_CardDetail_SchoolYear,{0}-klas
+Custom_PurchaseAlert_UnitTenThousand,Tien
+Custom_PurchaseAlert_UnitThousand,duizend
+Custom_PurchaseAlert_LimitMessage,"De huidige maandelijkse uitgaven overschrijden {0} yen, wilt u toch doorgaan met de aankoop?"
+Custom_SerialCode_Copied,Serienummer gekopieerd.
+Custom_SystemDialog_ErrorTitle,Fout
+Custom_SystemDialog_ErrorMessage,Er is een fout opgetreden.
+Custom_ServerConfig_Title,Serverinstellingen
+Custom_ServerConfig_ApiUrl,API-server URL
+Custom_ServerConfig_CdnUrl,Asset CDN-server URL
+Custom_ServerConfig_ResetToDefault,Standaardinstellingen
+Custom_ServerConfig_Save,Opslaan
+Custom_ServerConfig_UsingCustom,Aangepaste instellingen in gebruik
+Custom_ServerConfig_Saved,Opgeslagen. De wijzigingen worden weergegeven wanneer je naar het hoofdscherm terugkeert.
+Custom_ServerConfig_ConfirmChangeTitle,Serverwijziging bevestigen
+Custom_ServerConfig_ConfirmChangeMessage,De huidige accountgegevens (opgeslagen gegevens en authenticatie-informatie) op dit apparaat worden verwijderd als je de server wijzigt. <br> Gedownloade assets worden niet verwijderd. <br> <br> Gaat u akkoord?
+Custom_ServerConfig_ConfirmResetMessage,"Als je terugkeert naar de standaardinstellingen, verandert de server waarmee je verbonden bent en alle accountgegevens (opgeslagen gegevens en authenticatie-informatie) voor die server op dit apparaat worden verwijderd. <br> Gedownloade assets worden niet verwijderd. <br> <br> Gaat dat goed?"
+Custom_ServerConfig_SaveCancelled,Opslaan geannuleerd.
+Custom_ServerConfig_ClearingAccount,Accountgegevens worden verwijderd...
+Custom_ServerConfig_ChangedTitle,Server gewijzigd.
+Custom_ServerConfig_ChangedRestartMessage,Instellingen opgeslagen en accountgegevens verwijderd.<br>Start de app opnieuw op.
+Custom_ServerConfig_ResetDone,Teruggezet naar de standaardinstellingen.
+Custom_ServerConfig_ResetCancelled,Wijzigingen in de standaardinstellingen zijn geannuleerd.
+Custom_ServerConfig_Placeholder,Niet ingesteld
+Custom_Gacha_BonusSuffix,Bonus!
+Custom_Common_ErrorCode,Foutcode: {0}
+Custom_Common_None,Niets
+Custom_Exchange_TypeNone,Geen voorkeur
+Custom_Exchange_TypePhotoSticker,Fotosticker
+Custom_Exchange_TypePick,Kies
+Custom_Exchange_TypeTicket,Ticket
+Custom_Notification_ChannelDescription,Notificatie
+Custom_Login_TransferTitle,Apparaatoverdracht
+Custom_Login_TransferConfirmMessage,Het lijkt erop dat je een ander apparaat gebruikt. Wil je de voortgang naar dit apparaat overzetten?
+Custom_Login_TransferFailedMessage,"De overdracht is mislukt, gebruik de overdrachtscode."
+Custom_Reward_StaminaName,Stamina-beloning
+Custom_Adventure_TabMain,Hoofd
+Custom_Adventure_TabSub,Sub
+Custom_Adventure_TabEvent,Event
+Custom_Adventure_TabTutorial,Tutorial
+Custom_PassContents_FreeGems,Gratis edelstenen
+Custom_Sifas_MvDeck_ImportBatchHeader,Succesvol {0} / {1}
+Custom_SpineViewer_Empty,LEEG
+Arcade_Input_Info,Select a row then press a key or button (Esc to cancel)
+Arcade_Input_ListeningKey,{0} - press a key… (Esc to cancel)
+Arcade_Input_ListeningPad,{0} - press a gamepad button… (Esc to cancel)
+Arcade_Input_ListeningNoEscape,{0} - press a key
+Arcade_Input_SlotKeyboard,Keyboard
+Arcade_Input_SlotGamepad,Gamepad
+Arcade_Input_Decision,Decision
+Arcade_Input_Cancel,Cancel / Back / Pause
+Arcade_Input_Select,Select
+Arcade_Input_Test,Test
+Arcade_Input_Service,Service
+Arcade_Input_Coin,Coin
+Arcade_Hud_Credit,CREDIT {0}
+Arcade_Hud_FreePlay,FREE PLAY
+Arcade_Monitor_TestMode,TEST MODE
+Arcade_Monitor_TestPattern,TEST PATTERN
+Arcade_Title_MenuEntry,Arcade Mode
+Arcade_Enter_NameTitle,Machine Name
+Arcade_Enter_NameMessage,Enter a name for this cabinet.
+Arcade_Enter_NameNote,It is shown in the server's machine list.
+Arcade_Enter_NamePlaceholder,Machine name
+Arcade_Enter_DefaultName,Arcade Cabinet
+Arcade_Enter_ErrorDisabled,This server does not support arcade mode.
+Arcade_Enter_ErrorRegister,Failed to register this arcade cabinet.
+Arcade_TestMode_Title,TEST MODE
+Arcade_TestMode_Back,Back
+Arcade_TestMode_TabSystem,System
+Arcade_TestMode_TabCredits,Credits
+Arcade_TestMode_TabInput,Input
+Arcade_TestMode_TabMonitor,Monitor
+Arcade_TestMode_SystemHeader,System Information
+Arcade_TestMode_ClientVersion,Client Version
+Arcade_TestMode_AssetVersion,Asset Version
+Arcade_TestMode_MachineName,Machine Name
+Arcade_TestMode_MachineId,Machine ID
+Arcade_TestMode_ServerIdentifier,Server
+Arcade_TestMode_RegisteredAt,Registered
+Arcade_TestMode_Credits,Credits
+Arcade_TestMode_ServiceCredits,Service Credits
+Arcade_TestMode_ServerSettings,Server Settings
+Arcade_TestMode_BookkeepingHeader,Bookkeeping
+Arcade_TestMode_TotalCoins,Total Coins
+Arcade_TestMode_TotalService,Service Credits Given
+Arcade_TestMode_Plays,Plays
+Arcade_TestMode_Songs,Songs Played
+Arcade_TestMode_Aborts,Aborts
+Arcade_TestMode_SinceReset,Counting Since
+Arcade_TestMode_LastReset,Last Reset
+Arcade_TestMode_ResetBookkeeping,Reset Bookkeeping
+Arcade_TestMode_ExitArcade,Exit Arcade Mode
+Arcade_TestMode_CreditsHeader,Credit Settings
+Arcade_TestMode_FreePlay,Free Play
+Arcade_TestMode_CoinsPerCredit,Coins per Credit
+Arcade_TestMode_CreditsPerPlay,Credits per Play
+Arcade_TestMode_SongsPerCredit,Songs per Credit
+Arcade_TestMode_ShowCreditHud,Show Credit Counter
+Arcade_TestMode_InputHeader,Input Settings
+Arcade_TestMode_InputConfig,Button Assignment
+Arcade_TestMode_InputTestLanes,Rhythm Buttons
+Arcade_TestMode_InputTestActions,Control Buttons
+Arcade_TestMode_ActionDecision,DEC
+Arcade_TestMode_ActionCancel,CAN
+Arcade_TestMode_ActionSelect,SEL
+Arcade_TestMode_ActionTest,TST
+Arcade_TestMode_ActionService,SVC
+Arcade_TestMode_ActionCoin,COIN
+Arcade_TestMode_MonitorHeader,Monitor Settings
+Arcade_TestMode_SubMonitorEnabled,Use Second Monitor
+Arcade_TestMode_DisplayIndex,Display Index
+Arcade_TestMode_DisplayIndexNote,Display index changes take effect after a restart.
+Arcade_TestMode_TestPattern,Show Test Pattern
+Arcade_TestMode_NoSecondDisplay,No second display detected
+Arcade_TestMode_SecondDisplayReady,Second display active
+Arcade_Session_GetReady,GET READY
+Arcade_Session_Songs,This credit plays {0} songs
+Arcade_Session_Connecting,Connecting...
+Arcade_Session_ErrorDisabled,The server could not start a session.
+Arcade_Session_NotCleared,NO CLEAR
+Arcade_Session_Thanks,THANK YOU FOR PLAYING
+Arcade_Session_SeeYouAgain,See you again
+Arcade_Confirm_TimerRemaining,Remaining
+Arcade_Confirm_TimerSuffix,sec
+Arcade_Monitor_GetReady,GET READY
+Arcade_Monitor_SongCount,SONG {0}/{1}
+Arcade_Monitor_Level,Lv.{0}
+Arcade_Monitor_Result,RESULT
+Arcade_Select_SongLabel,SONG
+Arcade_Select_Locked,This song is not unlocked yet.
+Arcade_Select_LevelCapped,This machine only goes up to {0}.
+Arcade_Attract_InsertCoin,INSERT COIN
+Arcade_Attract_PressStart,PRESS DECISION
+Arcade_TestMode_TabGame,Game
+Arcade_TestMode_TabSound,Sound
+Arcade_TestMode_TabContent,Content
+Arcade_TestMode_TabBookkeeping,Bookkeeping
+Arcade_TestMode_SessionState,Session State
+Arcade_TestMode_SessionIdle,Idle
+Arcade_TestMode_InputLocks,Input Locks
+Arcade_TestMode_EditMachineName,Change Machine Name
+Arcade_TestMode_GameHeader,Game Settings
+Arcade_TestMode_DifficultyCap,Difficulty Cap
+Arcade_TestMode_SelectTimeout,Song Select Timeout (sec)
+Arcade_TestMode_DeckTimeout,Deck Confirm Timeout (sec)
+Arcade_TestMode_ResultTimeout,Result Auto-Advance (sec)
+Arcade_TestMode_ClosingTimeout,Closing Screen Time (sec)
+Arcade_TestMode_DialogTimeout,Idle Dialog Limit (sec)
+Arcade_TestMode_AttractHeader,Attract Settings
+Arcade_TestMode_TitleCardSeconds,Title Card Time (sec)
+Arcade_TestMode_DemoSelectSeconds,Demo Song Select Time (sec)
+Arcade_TestMode_DemoClipSeconds,Demo Live Length (sec)
+Arcade_TestMode_DemoSongsHeader,Demo Songs
+Arcade_TestMode_SoundHeader,Sound Settings
+Arcade_TestMode_BgmVolume,BGM Volume
+Arcade_TestMode_SeVolume,SE Volume
+Arcade_TestMode_VoiceVolume,Voice Volume
+Arcade_TestMode_AttractVolume,Attract Volume (%)
+Arcade_TestMode_AttractVolumeNote,Scales the BGM down to this percentage while attract runs. Applies from the next attract loop.
+Arcade_TestMode_SeTest,SE Test
+Arcade_TestMode_ContentHeader,Content
+Arcade_TestMode_PrefetchState,Background Prefetch
+Arcade_TestMode_PrefetchRunning,RUNNING   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchIdle,IDLE   waiting {0} / in flight {1} / done {2} / failed {3}
+Arcade_TestMode_PrefetchNote,New assets are fetched in the background every session.
+Arcade_TestMode_DownloadAll,Download Everything Now
+Arcade_TestMode_DownloadAllNote,Downloads every category. The cabinet returns to the attract screen when it finishes.
+Arcade_TestMode_ClearCache,Clear Cache
+Arcade_TestMode_ClearCacheNote,Deletes the downloaded files and then reboots the cabinet automatically.
+Arcade_TestMode_PlayHourHeader,By Hour
+Arcade_TestMode_HourLabel,{0}:00
+Arcade_TestMode_PlayWeekDayHeader,By Weekday
+Arcade_TestMode_WeekDay0,Sunday
+Arcade_TestMode_WeekDay1,Monday
+Arcade_TestMode_WeekDay2,Tuesday
+Arcade_TestMode_WeekDay3,Wednesday
+Arcade_TestMode_WeekDay4,Thursday
+Arcade_TestMode_WeekDay5,Friday
+Arcade_TestMode_WeekDay6,Saturday
+Arcade_Input_SlotHeaderIo,CABINET
+Arcade_Input_IoNote,Cabinet I/O board buttons. ENTER is the service-panel decide button.
+Arcade_Input_ListeningIo,{0} - press a cabinet button… (Esc to cancel)
+Arcade_Card_ButtonNewPlayer,NEW PLAYER
+Arcade_Card_ButtonTakeOver,TRANSFER DATA
+Arcade_TestMode_TabLed,LED
+Arcade_TestMode_BoardHeader,I/O Board
+Arcade_TestMode_BoardLink,Link
+Arcade_TestMode_BoardLinkIdle,not present
+Arcade_TestMode_BoardLinkOpening,opening
+Arcade_TestMode_BoardLinkRunning,running
+Arcade_TestMode_BoardLinkDeviceLost,device lost
+Arcade_TestMode_BoardLinkVersionRefused,version refused
+Arcade_TestMode_BoardReconnects,reconnects {0}
+Arcade_TestMode_BoardId,Device
+Arcade_TestMode_BoardRaw,Input Bytes
+Arcade_TestMode_BoardDoors,Door switches and the service-panel ENTER button. A lit door indicator means OPEN.
+Arcade_TestMode_BoardCoin,Coin Counter
+Arcade_TestMode_BoardCoinValues,count {0}   request {1}   ack {2}
+Arcade_TestMode_BoardCoinFault,FAULT
+Arcade_TestMode_BoardReader,Card Reader Lit
+Arcade_TestMode_BoardScan,Card Scan
+Arcade_TestMode_BoardCard,Card Status
+Arcade_TestMode_BoardCardId,Card ID
+Arcade_TestMode_BoardCardUid,Card UID
+Arcade_TestMode_CardStateNone,no card
+Arcade_TestMode_CardStateWaiting,waiting for card
+Arcade_TestMode_CardStateDetecting,detecting
+Arcade_TestMode_CardStateOk,read OK
+Arcade_TestMode_CardStateWrongType,unsupported card type
+Arcade_TestMode_CardStateAbsent,card absent or aborted
+Arcade_TestMode_CardStateReaderError,reader error
+Arcade_TestMode_CardScanTest,Card Scan Test
+Arcade_TestMode_CardReaderTest,Card Reader Lamp Test
+Arcade_TestMode_StateOn,ON
+Arcade_TestMode_StateOff,OFF
+Arcade_TestMode_EmulatorPath,Emulator DLL
+Arcade_TestMode_EmulatorPathNone,(not set)
+Arcade_TestMode_EmulatorPathEdit,Set Emulator DLL Path
+Arcade_TestMode_EmulatorPathNote,Loads a winusb.dll shim instead of a board for bench testing. Blank clears it. Applied when Test Mode is closed.
+Arcade_TestMode_LedHeader,LED Test
+Arcade_TestMode_LedAll,All Outputs On
+Arcade_TestMode_LedRed,Pillars Red
+Arcade_TestMode_LedGreen,Pillars Green
+Arcade_TestMode_LedBlue,Pillars Blue
+Arcade_TestMode_LedPillar0,Pillar 1 White
+Arcade_TestMode_LedPillar1,Pillar 2 White
+Arcade_TestMode_LedPillar2,Pillar 3 White
+Arcade_TestMode_LedLamps,All Button Lamps
+Arcade_TestMode_LedLamp,Lamp
+Arcade_TestMode_LedLampConfirm,CONFIRM
+Arcade_TestMode_LedBrightness,Lamp Brightness
+Arcade_TestMode_LedBrightnessOff,OFF
+Arcade_TestMode_LedBrightnessDim,0x20
+Arcade_TestMode_LedBrightnessFull,0xFF
+Arcade_TestMode_LedPillarColor,Pillar Colour
+Arcade_TestMode_LedCoinCoil,Coin Accept Coil
+Arcade_TestMode_LedOut,Output Bytes
+Arcade_TestMode_LedDescAll,Lights every pillar and every button lamp at full.
+Arcade_TestMode_LedDescRed,Sets all three pillars to red.
+Arcade_TestMode_LedDescGreen,Sets all three pillars to green.
+Arcade_TestMode_LedDescBlue,Sets all three pillars to blue.
+Arcade_TestMode_LedDescPillar0,Lights pillar 1 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar1,Lights pillar 2 white. The three pillar rows combine.
+Arcade_TestMode_LedDescPillar2,Lights pillar 3 white. The three pillar rows combine.
+Arcade_TestMode_LedDescLamps,Lights the nine button lamps and the confirm lamp at full.
+Arcade_TestMode_LedDescLamp,Picks the lamp the brightness row forces. 10 is the confirm lamp.
+Arcade_TestMode_LedDescBrightness,Forces the selected lamp to one of the board's three brightnesses. OFF leaves it to the rows above.
+Arcade_TestMode_LedDescPillarColor,The machine's own pillar colour. Used on the entrance and through a credit.
+Arcade_TestMode_LedDescCoinCoil,Forces the coin-accept coil while this page is open.
+Arcade_TestMode_MaxCredits,Credit Limit
+Arcade_TestMode_DemoBandsNote,The attract demo draws from the groups switched on.
+Arcade_TestMode_DemoIncludeCustomSongs,Include Custom Songs
+Arcade_Attract_NesicaUnavailable,NESiCA cannot be used right now
+Arcade_Attract_NesicaTap,Tap your NESiCA card
+Arcade_TestMode_DoorLeft,DR1
+Arcade_TestMode_DoorRight,DR2
+Arcade_TestMode_Enter,ENT
+Arcade_TestMode_WinUsbModule,Loaded winusb.dll
+Arcade_TestMode_WinUsbModuleNone,(not loaded yet)
+Arcade_TestMode_WinUsbOpenerFound,UsbioEmu_OpenBoard found
+Arcade_TestMode_WinUsbOpenerMissing,no UsbioEmu_OpenBoard export
+Arcade_TestMode_ShowAttractBanner,Show NESiCA Banner
+Arcade_TestMode_DemoRequire3dLive,Demo Lands on 3D Lives Only
+Arcade_TestMode_DemoRequire3dLiveNote,Switch on to have the demo song select stop only on songs with a 3D live.
+Arcade_Input_Reset,Reset (hold 1 s)
+Arcade_Input_ResetChord,TEST+SERVICE
+Arcade_TestMode_AccountHeader,Account Lock
+Arcade_TestMode_LockedAccount,Locked Account
+Arcade_TestMode_NotLocked,Not locked
+Arcade_TestMode_LockPending,Pending first credit
+Arcade_TestMode_LockedAccountFormat,{0}  (card ...{1})
+Arcade_TestMode_LockAccount,Lock to Account...
+Arcade_TestMode_UnlockAccount,Unlock Account
+Arcade_Session_ErrorOwnerGone,The account this device was locked to no longer exists.<br>The account lock has been removed.
+Arcade_TestMode_DemoWashPercent,Demo Live Wash (%)

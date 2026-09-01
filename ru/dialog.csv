@@ -1,0 +1,676 @@
+﻿_key,_text
+mst.dialog.ErrorStay._title,Ошибка
+mst.dialog.ErrorStay._message,Произошла ошибка <br> <br> {0}
+mst.dialog.ErrorTitle._title,Ошибка
+mst.dialog.ErrorTitle._message,Произошла ошибка <br>. Вернуться в главное меню? <br> <br> {0}
+mst.dialog.NetworkError_Retry._title,Ошибка связи
+mst.dialog.NetworkError_Retry._message,"Не удалось подключиться к сети.<br>Пожалуйста, попробуйте снова в месте с хорошим уровнем сигнала."
+mst.dialog.NetworkError_Title._title,Ошибка связи
+mst.dialog.NetworkError_Title._message,Во время подключения произошла ошибка <br>. Вернитесь в главное меню <br>. <br> {0}
+mst.dialog.NetworkError_ResourceUpdated._title,Ошибка связи
+mst.dialog.NetworkError_ResourceUpdated._message,Необходимо обновить данные.<br>Возврат в главное меню.
+mst.dialog.NetworkError_NotReachable_Retry._title,Ошибка связи
+mst.dialog.NetworkError_NotReachable_Retry._message,Невозможно подключиться к сети.<br>Проверьте сетевое соединение и попробуйте снова.
+mst.dialog.ApplicationQuitConfirm._title,Подтвердить
+mst.dialog.ApplicationQuitConfirm._message,"Вы уверены, что хотите выйти из игры?<br>Действительно?"
+mst.dialog.AreaUnlock._title,Область открыта
+mst.dialog.AreaUnlock._message,Новая область открыта! {0} <br>
+mst.dialog.AreaUnlockDetail_StoryRead._title,Условия открытия
+mst.dialog.AreaUnlockDetail_StoryRead._message,Открывается после просмотра сюжета <br> {0} <br>.
+mst.dialog.AreaUnlockDetail_UserRank._title,Условия открытия
+mst.dialog.AreaUnlockDetail_UserRank._message,Открывается при достижении игрового ранга {0} и выше <br>.
+mst.dialog.ChatTalkSkip._title,Пропустить
+mst.dialog.ChatTalkSkip._message,Пропустить этот диалог и закончить?
+mst.dialog.Chat_EncountStoryPlayback._title,Воспроизвести сюжет встречи
+mst.dialog.Chat_EncountStoryPlayback._message,Воспроизвести историю встречи с {0}.
+mst.dialog.OrnamentLevelRelease._title,Разблокировка уровня аксессуара
+mst.dialog.OrnamentLevelRelease._message,Теперь можно повысить уровень {0} <br> до уровня {1}!
+mst.dialog.DeckNameChangeSuccess._title,Название юнита изменено
+mst.dialog.DeckNameChangeSuccess._message,Название юнита успешно изменено.
+mst.dialog.DeckNameChangeEmpty._title,Ошибка ввода
+mst.dialog.DeckNameChangeEmpty._message,Введите хотя бы один символ.
+mst.dialog.DeckNameChangeNg._title,Ошибка
+mst.dialog.DeckNameChangeNg._message,"Содержит недопустимые слова.<br>Пожалуйста, введите ещё раз."
+mst.dialog.MainDeckChangeSuccess._title,Основной юнит изменён
+mst.dialog.MainDeckChangeSuccess._message,Основная команда изменена.
+mst.dialog.PracticeConfirm._title,Подтвердить
+mst.dialog.PracticeConfirm._message,"Вы хотите улучшить навыки, используя выбранную книгу уроков и <br> {0} G? <br>"
+mst.dialog.SkillPracticeConfirmByItem._title,Подтвердить
+mst.dialog.SkillPracticeConfirmByItem._message,"Вы хотите улучшить навыки, используя выбранную книгу навыков и <br> {0} G? <br>"
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._title,Подтвердить
+mst.dialog.SkillPracticeConfirmCanAlsoTraining._message,Этот Айдл также можно использовать для Пробуждения <br> Хотите прекратить выбор в качестве материала и перейти к Пробуждению <br>?
+mst.dialog.SkillPracticeConfirmByPhoto._title,Подтвердить
+mst.dialog.SkillPracticeConfirmByPhoto._message,"Выбранный Айдл исчезнет из комнаты отдыха <br>, хотите продолжить улучшение навыков? <br> ※Айдл не будет удален из списка. <br>"
+mst.dialog.TrainingConfirm._title,Подтвердить
+mst.dialog.TrainingConfirm._message,Выполнить Пробуждение с выбранным светящимся браслетом?<br>Хорошо?
+mst.dialog.StaminaChargeConfirm._title,Восстановление LP
+mst.dialog.StaminaChargeConfirm._message,Восстановить LP <br> <br>?
+mst.dialog.StaminaChargeSuccess._title,Восстановление LP
+mst.dialog.StaminaChargeSuccess._message,LP восстановлен на {0}!
+mst.dialog.StaminaChargeOver._title,Восстановление LP ограничено
+mst.dialog.StaminaChargeOver._message,"Невозможно восстановить LP, так как текущее значение превышает максимальное <br><br>."
+mst.dialog.ShopBuySuccess._title,Покупка предмета
+mst.dialog.ShopBuySuccess._message,Вы приобрели {0}!
+mst.dialog.GachaExec._title,Подтвердить
+mst.dialog.GachaExec._message,"Вы хотите потратить {0} и использовать {1}, чтобы получить {2}? <br> Вы уверены?"
+mst.dialog.GachaLackMedal._title,{0} не хватает
+mst.dialog.GachaLackMedal._message,Не хватает {0}. Купить Loveca?
+mst.dialog.GachaLackItem._title,{0} не хватает
+mst.dialog.GachaLackItem._message,Не хватает {0}.
+mst.dialog.GachaResultGetBonus._title,Получение бонуса
+mst.dialog.GachaResultGetBonus._message,Набор бонуса выполнен!
+mst.dialog.GachaResultGetMovie._title,Получение Айдла
+mst.dialog.GachaErrorExpired._title,Ошибка
+mst.dialog.GachaErrorExpired._message,Срок действия истек.
+mst.dialog.GachaTicketExpired._title,Ошибка
+mst.dialog.GachaTicketExpired._message,Срок действия выбранного билета истек.
+mst.dialog.GachaSelectedExpired._title,Завершено
+mst.dialog.GachaSelectedExpired._message,Это мероприятие завершено.
+mst.dialog.DeckResetConfirm._title,Сброс
+mst.dialog.DeckResetConfirm._message,"Вы уверены, что хотите сбросить текущий состав?<br>Это действие необратимо."
+mst.dialog.RecommendSuccess._title,Рекомендуемые юниты
+mst.dialog.RecommendSuccess._message,Рекомендованный состав сформирован.
+mst.dialog.NoticePlayerRankUp._title,Повышение ранга
+mst.dialog.NoticePlayerRankUp._message,LP восстановлено на {0}.
+mst.dialog.NoticePlayerRankAndFriendMaxUp._title,Повышение ранга
+mst.dialog.NoticePlayerRankAndFriendMaxUp._message,"LP восстановлено на {0}, лимит друзей увеличен до {1} → {2} <br>"
+mst.dialog.NoticeGroupRankUp._title,Групповой ранг повышен
+mst.dialog.NoticeGroupRankMax._title,Групповой ранг повышен
+mst.dialog.NoticeGroupRankMax._message,Групповой ранг достиг максимума <color=#D73C55> <b> </b> </color>.
+mst.dialog.DeckMemberChangeConfirm._title,Заменить?
+mst.dialog.DeckMemberChangeConfirm._message,У вас уже есть такой же <br> в составе. Вы хотите заменить текущий состав «{0}» на этот? <br>
+mst.dialog.StoryRelease._title,Сюжет разблокирован
+mst.dialog.StoryRelease._message,{0} {1} была разблокирована.
+mst.dialog.FriendSearchError._title,Ошибка поиска
+mst.dialog.FriendSearchError._message,"Игрок не найден <br>. Возможно, вы неправильно ввели ID <br> или настройки приватности этого игрока запрещают добавление в друзья <br>."
+mst.dialog.FriendDeleteConfirm._title,Подтвердить
+mst.dialog.FriendDeleteConfirm._message,Этот контакт будет удалён?
+mst.dialog.FriendDeleteSuccess._title,Удаление из друзей завершено
+mst.dialog.FriendDeleteSuccess._message,Друг удалён.
+mst.dialog.FriendDeleteError._title,Отмена удаления друга не удалась
+mst.dialog.FriendDeleteError._message,Не удалось удалить из друзей.
+mst.dialog.FriendRequestCancelConfirm._title,Подтвердить
+mst.dialog.FriendRequestCancelConfirm._message,"Вы уверены, что хотите отменить запрос в друзья?"
+mst.dialog.FriendRequestCancelSuccess._title,Отмена запроса в друзья выполнена.
+mst.dialog.FriendRequestCancelSuccess._message,Запрос на добавление в друзья отменён.
+mst.dialog.FriendRequestCancelError._title,Отмена запроса в друзья не удалась
+mst.dialog.FriendRequestCancelError._message,Не удалось отменить запрос в друзья.
+mst.dialog.FriendPendingConfirm._title,Подтвердить
+mst.dialog.FriendPendingConfirm._message,Подтвердить запрос в друзья?<br>Вы уверены?
+mst.dialog.FriendPendingSuccess._title,Заявка в друзья одобрена
+mst.dialog.FriendPendingSuccess._message,Заявка в друзья одобрена.
+mst.dialog.FriendPendingError._title,Ошибка при одобрении заявки в друзья
+mst.dialog.FriendPendingError._message,Не удалось подтвердить запрос в друзья.
+mst.dialog.FriendRejectConfirm._title,Подтвердить
+mst.dialog.FriendRejectConfirm._message,Вы хотите отклонить эту заявку в друзья?
+mst.dialog.FriendRejectSuccess._title,Запрос в друзья отклонён.
+mst.dialog.FriendRejectSuccess._message,Запрос в друзья отклонен.
+mst.dialog.FriendRejectError._title,Ошибка при отклонении запроса в друзья
+mst.dialog.FriendRejectError._message,Не удалось отклонить запрос в друзья.
+mst.dialog.FriendRequestSuccess._title,Запрос на добавление в друзья отправлен.
+mst.dialog.FriendRequestSuccess._message,Отправлен запрос в друзья.
+mst.dialog.FriendRequestError._title,Ошибка при отправке запроса в друзья
+mst.dialog.FriendRequestError._message,Не удалось отправить запрос в друзья.
+mst.dialog.FriendCanNotRequest._title,Запрос невозможен
+mst.dialog.FriendCanNotRequest._message,Соперник отклонил запросы в друзья.<br>
+mst.dialog.OptionSettingChangeCancelConfirm._title,Подтвердить
+mst.dialog.OptionSettingChangeCancelConfirm._message,Отменить изменения настроек и вернуться<br>к предыдущему состоянию?
+mst.dialog.OptionTestLivePauseDialog._title,Пауза
+mst.dialog.OptionTestLivePauseDialog._message,Прервать тестовый Live<br>и вернуться к настройкам?
+mst.dialog.LiveContinue._title,Продолжить Live
+mst.dialog.LiveContinue._message,"Использовать {0} Loveca, полностью восстановить <br> HP и продолжить Live? <br> ※Loveca будет использована из бесплатного количества. <br> <br> Loveca {1} → {2}"
+mst.dialog.LiveContinueGemShortage._title,Недостаточно Loveca
+mst.dialog.LiveContinueGemShortage._message,"Не хватает Loveca, поэтому <br>нельзя продолжить Live."
+mst.dialog.LiveFailure._title,Провал в Live
+mst.dialog.LiveFailure._message,"У вас закончились HP. Вы можете полностью восстановить HP и продолжить, потратив {0} Loveca. <br> Хотите это сделать? <br>"
+mst.dialog.LivePause._title,Приостановить
+mst.dialog.LivePause._message,Вы хотите прервать Live и вернуться к выбору песни? <br> ※В случае прерывания LP не будет потрачено.
+mst.dialog.LiveRetireConfirm._title,Прервать Live
+mst.dialog.LiveRetireConfirm._message,"Вы уверены, что хотите прервать Live? В этом случае вы не получите <br>награду за Live <br>. <br>Обратите внимание: LP при этом не будет потрачено."
+mst.dialog.LiveRestartConfirm._title,Перезапуск
+mst.dialog.LiveRestartConfirm._message,Перезапустить? <br> Вы уверены? <br> LP и билеты для пропуска не будут использованы.
+mst.dialog.TeacherPointDetail._title,Что такое ранг высоких баллов?
+mst.dialog.TeacherPointDetail._message,"Рейтинг высоких баллов рассчитывается на основе ваших лучших результатов в Live <br>. Чтобы получить высокие баллы, попробуйте улучшить характеристики своих Айдл <br>! <br> Для этого <br> укрепите их навыки."
+mst.dialog.GemPackBuyComplete._title,Покупка завершена
+mst.dialog.GemPackBuyComplete._message,Вы приобрели {0}.
+mst.dialog.GemBuyCancel._title,Отмена
+mst.dialog.GemBuyCancel._message,Покупка отменена.
+mst.dialog.GemBuyComplete._title,Покупка завершена
+mst.dialog.GemBuyComplete._message,Вы приобрели {0}.
+mst.dialog.GemBuyStamina._title,Подтвердить
+mst.dialog.GemBuyStamina._message,"{0}, используя {1}, восстановит <br> LP до {3}. Вы согласны? <br>"
+mst.dialog.GemBuyItem._title,Подтвердить
+mst.dialog.GemBuyItem._message,"{0}, используя {1}, восстановит <br> LP до {3}. Вы согласны? <br>"
+mst.dialog.GemBuyItemPack._title,Подтвердить
+mst.dialog.GemBuyItemPack._message,"Вы хотите приобрести <br>, потратив {0} и {1}?"
+mst.dialog.GemInsufficientMedal._title,Недостаточно Loveca
+mst.dialog.GemInsufficientMedal._message,Недостаточно Loveca.
+mst.dialog.GemAgeError._title,Ошибка
+mst.dialog.GemAgeError._message,Дата рождения указана неверно.
+mst.dialog.GemAgeComplete._title,Ввод завершен
+mst.dialog.GemAgeComplete._message,Возраст подтверждён <br> {0}
+mst.dialog.GemAgeConfirm._title,Подтвердить
+mst.dialog.GemAgeConfirm._message,"Вы уверены, что хотите это сделать? Настройки нельзя будет изменить до удаления приложения."
+mst.dialog.GemAskToBuy._title,Подтвердить
+mst.dialog.GemAskToBuy._message,"Чтобы купить внутриигровую валюту, требуется <br>согласие родителей или опекунов<br>Вы получили такое согласие?"
+mst.dialog.GemBuyLimitError._title,Лимит покупок
+mst.dialog.GemBuyLimitError._message,"Покупка невозможна, так как вы превысили лимит на месяц <br>{0}."
+mst.dialog.GemBuyLimitAlert._title,Подтвердить
+mst.dialog.GemBuyLimitAlert._message,Вы хотите приобрести {0} за <br>?
+mst.dialog.GemBuyLimitAlertConfirm._title,Подтверждение превышения лимита покупок
+mst.dialog.GemBuyLimitAlertConfirm._message,"Сумма покупок за этот месяц превысит 100 000 иен <br> Продолжить покупку? <br> <br> Чтобы отключить уведомления, измените настройки: <br> <color=#D73C55> Настройки > Системные настройки > Уведомления > Уведомление об объёме покупок </color>"
+mst.dialog.GemBuyError._title,Ошибка
+mst.dialog.GemBuyError._message,Покупка не удалась.
+mst.dialog.GemShopError._title,Ошибка
+mst.dialog.GemShopError._message,Не удалось получить информацию о магазине.
+mst.dialog.GemShopTicketInfo._message,"▼Внимание <color=#D73C55>※Обязательно к прочтению!※</color><br>※Купленные платные Loveca напрямую добавляются к вашему балансу Loveca.<br>※Другие предметы отправляются в подарок.<br>※Loveca не начисляются за дни, когда вы не вошли в игру.<br>※Бонусы за вход начисляются при входе в игру и добавляются к вашему балансу Loveca.<br>※Бонусы за вход можно получить с 0:00 следующего дня после покупки.<br>※Бонусы за вход — это бесплатные Loveca.<br>※В течение {1} дней, начиная со следующего дня после покупки, вы будете получать Loveca в качестве бонуса за вход в игру {2}.<br><br>▼Содержимое набора<br>{3}<br>Loveca {4}x{5} день Итого {6}<br><br>Цена {7}"
+mst.dialog.GemBuyErrorExpired._title,Срок действия истек
+mst.dialog.GemBuyErrorExpired._message,"Покупка невозможна, так как срок продажи истек."
+mst.dialog.SingleReward_OrnamentGet._title,Получено!
+mst.dialog.SingleReward_OrnamentGetTeaSet._title,Предмет получен
+mst.dialog.SingleReward_OrnamentGetTeaSet._message,Получено! <br>Теперь можно изменить в хранилище.
+mst.dialog.SingleReward_OrnamentLevelUp._title,Награда получена
+mst.dialog.SingleReward_OrnamentLevelUp._message,Уровень повышен!
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._title,Награда получена
+mst.dialog.SingleReward_OrnamentLevelUpTeaSet._message,Уровень повышен!
+mst.dialog.SingleReward_OrnamentRelease._title,Предмет (временно) получен.
+mst.dialog.SingleReward_OrnamentRelease._message,В пользовательском магазине появилось в продаже.
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._title,Предмет получен
+mst.dialog.SingleReward_OrnamentReleaseTeaSet._message,В магазине {0} появилось <br> {1}!
+mst.dialog.SingleReward_CommonDirectly._title,Награда получена
+mst.dialog.SingleReward_CommonDirectly._message,Получено!
+mst.dialog.SingleReward_CommonPresentBox._title,Награда получена
+mst.dialog.SingleReward_CommonPresentBox._message,Вы можете получить <color=#C12424>награду</color> в разделе «Подарки».
+mst.dialog.SingleReward_CommonView._title,Награда за достижение
+mst.dialog.SingleReward_EventDirectly._title,Награда получена
+mst.dialog.SingleReward_EventDirectly._message,Вы получили награду за достижение {0}!
+mst.dialog.SingleReward_EventPresentBox._title,Награда получена
+mst.dialog.SingleReward_EventPresentBox._message,Вы можете получить <color=#C12424> награду за достижение {0} в разделе «Подарки»! </color>
+mst.dialog.SingleReward_Costume._title,Получение костюма
+mst.dialog.SingleReward_Costume._message,Вы получили новый костюм!
+mst.dialog.SingleReward_Music._title,Разблокирована музыка
+mst.dialog.SingleReward_Music._message,Новая песня разблокирована!
+mst.dialog.SingleReward_Title._title,Получение титула
+mst.dialog.SingleReward_Title._message,Вы получили !
+mst.dialog.SingleReward_IntoPresentBox._title,Предел владения
+mst.dialog.SingleReward_IntoPresentBox._message,"Достигнут лимит хранения, поэтому <color=#C12424> предмет был добавлен в список подарков </color>."
+mst.dialog.MultiReward_CommonDirectly._title,Награда получена
+mst.dialog.MultiReward_CommonDirectly._message,Получено!
+mst.dialog.MultiReward_CommonPresentBox._title,Награда получена
+mst.dialog.MultiReward_CommonPresentBox._message,Вы можете получить <color=#C12424>награду</color> в разделе «Подарки».
+mst.dialog.MultiReward_EventDirectly._title,Награда получена
+mst.dialog.MultiReward_EventDirectly._message,Вы получили награду за достижение {0}!
+mst.dialog.MultiReward_EventPresentBox._title,Награда получена
+mst.dialog.MultiReward_EventPresentBox._message,Вы можете получить <color=#C12424> награду за достижение {0} в разделе «Подарки»! </color>
+mst.dialog.MultiReward_CommonView._title,Награда за достижение
+mst.dialog.MultiReward_IntoPresentBox._title,Предел владения
+mst.dialog.MultiReward_IntoPresentBox._message,"Достигнут лимит хранения, поэтому <color=#C12424> предмет был добавлен в список подарков </color>."
+mst.dialog.Multi_Private_MasterRoomLeave._title,Live завершен
+mst.dialog.Multi_Private_MasterRoomLeave._message,{0} завершил(а) Live. Возвращаемся к экрану выбора Live <br>.
+mst.dialog.LiveResult_ContinueMultiRoom._title,Подтвердить продолжение
+mst.dialog.LiveResult_ContinueMultiRoom._message,Хотите начать Live ещё раз?
+mst.dialog.LoginBonus_Check._title,Обновление даты
+mst.dialog.LoginBonus_Check._message,"Дата обновлена,<br>выполните повторный вход."
+mst.dialog.LoginBonus_Common._title,Бонус за вход
+mst.dialog.LoginBonus_Common._message,Награда {0} × {1} <br> <color=#D73C55> доступна в разделе «Подарки» </color>
+mst.dialog.LoginBonus_Multi._title,Бонус за вход
+mst.dialog.LoginBonus_Multi._message,Награда {0} × {1} <br> <color=#D73C55> доступна в разделе «Подарки» </color>
+mst.dialog.MultiRoomType._title,Награда за Live
+mst.dialog.MultiRoomType._message,"В «Ежедневных» Live проще получать фиксированные награды в зависимости от дня недели <br>. *В обычных Live вы получаете стандартные награды <br>.* <br>Понедельник: Награда A <br>, Вторник: Награда B <br>, Среда: Награда C <br>, Четверг: Награда D <br>, Пятница: Награда E <br>, Суббота: Награда F <br>, Воскресенье: Награда G <br>. <br>*Количество получаемых наград за предметы, не входящие в список с повышенными наградами, было скорректировано.*"
+mst.dialog.VoiceDownloadConfirm._title,Загрузка озвучки
+mst.dialog.VoiceDownloadConfirm._message,"Вы хотите заранее загрузить все голоса, кроме голосов для сюжета? <br> Размер загрузки: <br> <br> <color=#D73C55> <br> {0:0.00} МБ <br> <br> Рекомендуется загружать в сети Wi-Fi. <br> </color>"
+mst.dialog.LiveProductionDownloadConfirm._title,Загрузка данных для выступлений участниц Live
+mst.dialog.LiveProductionDownloadConfirm._message,"Вы хотите заранее загрузить данные, необходимые для отображения во время Live? <br> Это может сократить время загрузки перед началом Live. <br> Размер загружаемых данных: <br> <br> <br> <color=#D73C55> <br> {0:0.00} МБ <br> <br> Рекомендуется загружать в сети Wi-Fi. <br> </color>"
+mst.dialog.GameLibErrorCode_1._title,Ошибка
+mst.dialog.GameLibErrorCode_1._message,Введённые аргументы неверны <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_14._title,Ошибка
+mst.dialog.GameLibErrorCode_14._message,Пользователь заблокирован <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_20._title,Ошибка
+mst.dialog.GameLibErrorCode_20._message,"Невозможно использовать на устройстве, где уже есть данные об аккаунте <br> Код ошибки: {0}"
+mst.dialog.GameLibErrorCode_1000._title,Ошибка
+mst.dialog.GameLibErrorCode_1000._message,Произошла ошибка связи <br> Код ошибки: {0}
+mst.dialog.GameLibErrorCode_17219._title,Ошибка
+mst.dialog.GameLibErrorCode_17219._message,Операция уже в процессе <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_10001._title,Ошибка
+mst.dialog.GameLibErrorCode_10001._message,Введённые аргументы неверны <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_10006._title,Ошибка
+mst.dialog.GameLibErrorCode_10006._message,Система оплаты временно не работает <br> Код ошибки: {0}
+mst.dialog.GameLibErrorCode_10007._title,Ошибка
+mst.dialog.GameLibErrorCode_10007._message,Пользователь заблокирован <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_7002._title,Ошибка
+mst.dialog.GameLibErrorCode_7002._message,Код переноса не зарегистрирован <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_7003._title,Ошибка
+mst.dialog.GameLibErrorCode_7003._message,Пароль для переноса данных не зарегистрирован <br> Код ошибки: {0}
+mst.dialog.GameLibErrorCode_7004._title,Ошибка
+mst.dialog.GameLibErrorCode_7004._message,Не удалось проверить код восстановления и пароль <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_7005._title,Ошибка
+mst.dialog.GameLibErrorCode_7005._message,Превышено допустимое количество попыток проверки кода переноса и пароля <br> Код ошибки: {0}
+mst.dialog.GameLibErrorCode_7012._title,Ошибка
+mst.dialog.GameLibErrorCode_7012._message,Указанный вами аккаунт или пароль неверны <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_7013._title,Ошибка
+mst.dialog.GameLibErrorCode_7013._message,Превышено допустимое количество попыток проверки учётной записи и пароля <br> Код ошибки: {0}
+mst.dialog.GameLibErrorCode_8004._title,Ошибка
+mst.dialog.GameLibErrorCode_8004._message,Передача данных заблокирована <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_8022._title,Ошибка
+mst.dialog.GameLibErrorCode_8022._message,Формат учётной записи неверен <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_16002._title,Ошибка
+mst.dialog.GameLibErrorCode_16002._message,"Превышен лимит покупок, поэтому приобрести товар невозможно <br> Код ошибки: {0}"
+mst.dialog.GameLibErrorCode_16005._title,Ошибка
+mst.dialog.GameLibErrorCode_16005._message,"Невозможно совершить покупку, так как баланс Loveca недостаточен <br> Код ошибки: {0}"
+mst.dialog.GameLibErrorCode_16007._title,Ошибка
+mst.dialog.GameLibErrorCode_16007._message,Неподдерживаемая страна или валюта <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_16008._title,Ошибка
+mst.dialog.GameLibErrorCode_16008._message,"Невозможно приобрести билет, так как у вас уже есть активный билет с аналогичными привилегиями <br>Код ошибки: {0}"
+mst.dialog.GameLibErrorCode_16009._title,Ошибка
+mst.dialog.GameLibErrorCode_16009._message,"Невозможно приобрести билет, так как общий срок действия билетов превышает 180 дней <br> Код ошибки: {0}"
+mst.dialog.GameLibErrorCode_17002._title,Ошибка
+mst.dialog.GameLibErrorCode_17002._message,Этот Loveca уже был выдан <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_17007._title,Ошибка
+mst.dialog.GameLibErrorCode_17007._message,Эта покупка ожидает подтверждения от родительского аккаунта <br> Код ошибки: {0}
+mst.dialog.GameLibErrorCode_17100._title,Ошибка
+mst.dialog.GameLibErrorCode_17100._message,Платеж отменен <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_17214._title,Ошибка
+mst.dialog.GameLibErrorCode_17214._message,Функция оплаты на устройстве недоступна <br> Код ошибки: {0}
+mst.dialog.GameLibErrorCode_20001._title,Ошибка
+mst.dialog.GameLibErrorCode_20001._message,Указанный возраст не соответствует дате рождения <br>. Код ошибки: {0}
+mst.dialog.GameLibErrorCode_21001._title,Ошибка
+mst.dialog.GameLibErrorCode_21001._message,Указанный возраст не соответствует дате рождения <br>. Код ошибки: {0}
+mst.dialog.CanNotAutoPlayWithoutStamina._title,Не хватает LP
+mst.dialog.CanNotAutoPlayWithoutStamina._message,"LP недостаточно, <br>автовоспроизведение невозможно."
+mst.dialog.Migration_CheckDeviceChanged._title,Перенос данных на устройство
+mst.dialog.Migration_CheckDeviceChanged._message,"Обнаружено изменение устройства. Восстановить данные игры? <br> <br> <br> Обратите внимание: после восстановления данных на этом устройстве, играть на старом устройстве станет невозможно. <br>"
+mst.dialog.Migration_ErrorRegisterNewDevice._title,Ошибка
+mst.dialog.Migration_ErrorRegisterNewDevice._message,"Восстановление игровых данных не удалось. Попробуйте восстановить данные, используя ID и пароль для переноса <br> <br>."
+mst.dialog.Migration_IdCopy._title,Копирование завершено
+mst.dialog.Migration_IdCopy._message,Идентификатор для переноса данных скопирован.
+mst.dialog.Migration_Complet._title,Перенос данных завершен
+mst.dialog.Migration_Complet._message,Данные игры успешно перенесены.<br>Продолжайте играть в «School Idol Festival 2»!
+mst.dialog.Migration_Completed._title,Перенос данных завершен.
+mst.dialog.Migration_Completed._message,"Данные игры с этого устройства уже были успешно перенесены на другое устройство <br> Хотите начать игру сначала? <br> <br> Если вы не инициировали перенос данных, выберите «Отмена» и обратитесь в службу поддержки через «Меню» > «Помощь» на главном экране. <br> <br>"
+mst.dialog.Migration_RetryPassword._title,Ошибка ввода
+mst.dialog.Migration_RetryPassword._message,Идентификатор или<br>пароль для переноса данных неверны.
+mst.dialog.Migration_InputPasswordError._title,Ошибка ввода
+mst.dialog.Migration_InputPasswordError._message,"Допустимая длина пароля — от 8 до 32 символов, только латинские буквы и цифры.<br>"
+mst.dialog.Error_Maintenance._title,Тех. работы
+mst.dialog.Error_Maintenance._message,"{0} <br> <br> Обратите внимание, что время проведения технического обслуживания может быть изменено без предварительного уведомления. <br> <br> Пожалуйста, ознакомьтесь с последней информацией на официальном сайте. <br> <br> <u> <link={1}> <color=blue> Официальный сайт: </color> </link> </u>"
+mst.dialog.Error_ResultCodeMaintenance._title,Тех. работы
+mst.dialog.Error_Game_Version_Updated._title,Обновление
+mst.dialog.Error_Game_Version_Updated._message,"Необходимо обновить приложение.<br>Пожалуйста, установите последнюю версию из магазина."
+mst.dialog.Tutorial_CardSelectConfirm._title,Подтвердить
+mst.dialog.Tutorial_CardSelectConfirm._message,"Вы уверены, что хотите выбрать {0} и {1}? <br> <br> ※Изменить это позже будет невозможно."
+mst.dialog.Tutorial_DeleteGameDataConfirm._title,Удаление данных (подтверждение)
+mst.dialog.Tutorial_DeleteGameDataConfirm._message,"Вы действительно хотите удалить данные игры и начать с самого начала? <br> Обратите внимание, удалённые данные восстановить невозможно. <br> Вы уверены, что хотите это сделать? <br> <br>"
+mst.dialog.Tutorial_DeleteGameDataReconfirm._title,Финальное подтверждение удаления данных
+mst.dialog.Tutorial_DeleteGameDataReconfirm._message,Удалённые данные игры не могут быть восстановлены <br><br> Вы действительно хотите удалить данные игры?
+mst.dialog.Tutorial_DeleteGameDataComplete._title,Удаление данных завершено
+mst.dialog.Tutorial_DeleteGameDataComplete._message,Данные игры удалены.
+mst.dialog.Tutorial_SkipFirstHalf._title,Подтвердить
+mst.dialog.Tutorial_SkipFirstHalf._message,"Вы хотите пропустить первую часть основного игрового руководства (обучение)? <br> <br> Если вы это сделаете, пробный Live будет автоматически пройден."
+mst.dialog.Tutorial_SkipLatterHalf._title,Подтвердить
+mst.dialog.Tutorial_SkipLatterHalf._message,Вы хотите пропустить и вторую часть игрового руководства?
+mst.dialog.DownloadConfirm._title,Подтверждение загрузки
+mst.dialog.DownloadConfirm._message,<color=#D73C55>Загрузка {0} МБ</color> данных. Продолжить? <br>Вы уверены? <br><br>※В зависимости от условий сети загрузка может занять время. <br><br><color=#D73C55>Рекомендуется использовать Wi-Fi. </color>
+mst.dialog.DownloadNotEnoughFreeSpace._title,Недостаточно места
+mst.dialog.DownloadNotEnoughFreeSpace._message,"Недостаточно свободного места на устройстве <br><br> Пожалуйста, освободите место и попробуйте загрузить ещё раз."
+mst.dialog.GooglePlayLogined._title,Подтвердить
+mst.dialog.GooglePlayLogined._message,Вы уже вошли в Google Play.
+mst.dialog.AdditionalDownloadConfirm._title,Доп. загрузка: подтверждение
+mst.dialog.AdditionalDownloadConfirm._message,Дополнительные данные будут загружены <br> <br> <color=#D73C55> Размер загрузки: {0:0.00} МБ <br> <br> Рекомендуется загружать в сети Wi-Fi <br> </color>
+mst.dialog.SongCacheClearConfirm._title,Кэш очистить?
+mst.dialog.SongCacheClearConfirm._message,Скачать и удалить загруженные песни?<br>Вы уверены?
+mst.dialog.StoryDownloadConfirm._title,Воспроизведение озвучки
+mst.dialog.StoryDownloadConfirm._message,Вы хотите скачать голосовые данные и воспроизвести <br> сюжет? <br> <br> <color=#D73C55> Размер загрузки: {0:0.00} МБ <br> <br> Рекомендуется скачивать в сети Wi-Fi <br> </color>
+mst.dialog.AdditionalMovieDownloadConfirm._title,Загрузка данных
+mst.dialog.AdditionalMovieDownloadConfirm._message,Загружаем видео <br> <br> <color=#D73C55> Размер загрузки: {0:0.00} МБ <br> <br> Рекомендуем загружать в сети Wi-Fi <br> </color>
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._title,Загрузка данных
+mst.dialog.AllAdditionalStoryMovieDownloadConfirm._message,"Видео будут загружены сразу <br> <br> <color=#D73C55> Размер загрузки: {0:0.00} МБ </color> <br> <br> Даже если вы отмените, видео будут загружаться по одному <br> Позже их можно будет загрузить опцией «Загрузить все» в разделе историй <br> Так как объем данных большой, рекомендуется выполнять загрузку при хорошем качестве связи <br> <color=#D73C55> Рекомендуется загружать через Wi-Fi </color>"
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._title,Загрузка данных
+mst.dialog.AllOpendCollectionMovieDownloadConfirm._message,"Видео будут загружены сразу <br><br><color=#D73C55>Размер загрузки: {0:0.00} МБ </color><br><br>Обратите внимание, что даже если вы отмените операцию, отдельные видео всё равно будут загружаться <br>В дальнейшем их можно будет загрузить опцией «Загрузить все» в разделе коллекции <br>Пожалуйста, выполняйте загрузку в месте с хорошим интернет-соединением, так как объём данных большой <br><color=#D73C55>Рекомендуется загружать видео через Wi-Fi </color>"
+mst.dialog.NoNeedAdditionalMovieDownload._title,Загрузка данных
+mst.dialog.NoNeedAdditionalMovieDownload._message,Дополнительные данные для скачивания отсутствуют.
+mst.dialog.DownloadComplete_Restart._title,Подтвердить
+mst.dialog.DownloadComplete_Restart._message,Загрузка данных завершена.<br>Перезапустите приложение.
+mst.dialog.AlbumDownloadNoticeOnce._title,Подтвердить
+mst.dialog.AlbumDownloadNoticeOnce._message,"При просмотре альбома фотографий будут загружены данные изображений.<br>Пожалуйста, убедитесь, что на устройстве достаточно свободного места."
+mst.dialog.PresentBox_ReceiveSingleSuccess._title,Получено!
+mst.dialog.PresentBox_ReceiveSingleSuccess._message,Вы получили подарок!
+mst.dialog.PresentBox_ReceiveMultiSuccess._title,Получено!
+mst.dialog.PresentBox_ReceiveMultiSuccess._message,Вы получили подарок!
+mst.dialog.PresentBox_ReceiveSingleFailure._title,Предел владения
+mst.dialog.PresentBox_ReceiveSingleFailure._message,"Не удалось получить, так как достигнут лимит предметов."
+mst.dialog.PresentBox_ReceiveMultiFailure._title,Предел владения
+mst.dialog.PresentBox_ReceiveMultiFailure._message,"Не удалось получить, так как достигнут лимит предметов."
+mst.dialog.PresentBox_ReceiveOutOfTerm._title,Срок получения истек
+mst.dialog.PresentBox_ReceiveOutOfTerm._message,"Период получения истек, поэтому вы не можете получить предмет."
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._title,Срок получения истек
+mst.dialog.PresentBox_ReceiveSingleOutOfTerm._message,"Период получения истек, поэтому вы не можете получить предмет."
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._title,Срок получения истек
+mst.dialog.PresentBox_ReceiveMultiOutOfTerm._message,"Период получения истек, поэтому вы не можете получить предмет."
+mst.dialog.PresentBox_ReceiveSingleExpireReward._title,Срок действия истек
+mst.dialog.PresentBox_ReceiveSingleExpireReward._message,"Срок действия истек, поэтому вы не можете получить награду."
+mst.dialog.PresentBox_ReceiveMultiExpireReward._title,Срок действия истек
+mst.dialog.PresentBox_ReceiveMultiExpireReward._message,"Срок действия истек, поэтому вы не можете получить награду."
+mst.dialog.Multi_StampReset._title,Сброс стампов
+mst.dialog.Multi_StampReset._message,Вы хотите удалить все установленные стикеры?
+mst.dialog.Multi_PrivateRoom_Done._title,Создание Live не удалось
+mst.dialog.Multi_PrivateRoom_Done._message,"Невозможно создать Live, так как уже существует Live с таким же ID."
+mst.dialog.Multi_Room_Failed._title,Создание Live не удалось
+mst.dialog.Multi_Room_Failed._message,Не удалось создать Live.
+mst.dialog.Multi_Disconnect_Scene_2._title,Подтвердить
+mst.dialog.Multi_Disconnect_Scene_2._message,Соединение прервано.<br>Завершаем совместный Live и возвращаемся на главный экран.
+mst.dialog.Multi_Disconnect_Warning._title,Подтвердить
+mst.dialog.Multi_Disconnect_Warning._message,Соединение прервано.<br>Завершаем совместный Live и возвращаемся на главный экран.
+mst.dialog.Multi_Result_Playing_Caution._title,Подтвердить
+mst.dialog.Multi_Result_Playing_Caution._message,"Если количество PERFECT и GREAT мало, количество получаемых очков события уменьшится.<br>Выберите уровень сложности, соответствующий вашим навыкам."
+mst.dialog.Function_Lock_Multi._title,Подтвердить
+mst.dialog.Function_Lock_Multi._message,"В совместном Live-режиме обнаружено поведение, мешающее другим игрокам <br>. Временно ограничены некоторые функции <br>. Пожалуйста, дождитесь снятия ограничения."
+mst.dialog.NgWord._title,Ошибка
+mst.dialog.NgWord._message,"Сообщение содержит недопустимые слова.<br>Пожалуйста, введите текст ещё раз."
+mst.dialog.AndroidPermission._title,Разрешения
+mst.dialog.AndroidPermission._message,Для игры необходимо разрешить доступ к хранилищу.
+mst.dialog.AndroidPermissionDetail._title,Разрешения
+mst.dialog.AndroidPermissionDetail._message,Для игры необходимо разрешить доступ к хранилищу.<br>Откройте страницу с информацией о приложении.
+mst.dialog.Adventure_Skip._title,Пропустить
+mst.dialog.Adventure_Skip._message,Пропустить эту историю и выйти?
+mst.dialog.DeviceCompromised._title,Ошибка
+mst.dialog.DeviceCompromised._message,"Невозможно играть, так как устройство взломано."
+mst.dialog.CanNotMainDeckReset._title,Нельзя сбросить
+mst.dialog.CanNotMainDeckReset._message,Основную группу <br>нельзя сбросить.
+mst.dialog.CanNotAutoPlayNotClear._title,Автовоспроизведение недоступно
+mst.dialog.CanNotAutoPlayNotClear._message,"Live ещё не пройден, поэтому <br>пропустить нельзя."
+mst.dialog.Error_Friend_Max_Self._title,Предел друзей
+mst.dialog.Error_Friend_Max_Self._message,"Предел друзей достигнут <br><br>Пожалуйста, удалите других друзей."
+mst.dialog.Error_Friend_Max_Other._title,Предел друзей
+mst.dialog.Error_Friend_Max_Other._message,У этого пользователя достигнут лимит друзей.
+mst.dialog.Error_Friend_Request_Max_Self._title,Нельзя отправить запрос в друзья.
+mst.dialog.Error_Friend_Request_Max_Self._message,"Вы достигли максимального количества отправленных запросов в друзья, поэтому не смогли отправить запрос <br> для игрока <br>."
+mst.dialog.Error_Friend_Request_Max_Other._title,Нельзя отправить запрос в друзья.
+mst.dialog.Error_Friend_Request_Max_Other._message,У этого пользователя нет свободных мест для заявок в друзья.
+mst.dialog.Error_Friend_Pending_Max_Self._title,Нельзя отправить запрос в друзья.
+mst.dialog.Error_Friend_Pending_Max_Self._message,У вас достигнут лимит на ожидающие подтверждения запросы в друзья.
+mst.dialog.Error_Friend_Pending_Max_Other._title,Нельзя отправить запрос в друзья.
+mst.dialog.Error_Friend_Pending_Max_Other._message,У этого пользователя нет свободных мест для запросов в друзья.
+mst.dialog.Error_Friend_Already_Request._title,Нельзя отправить запрос в друзья.
+mst.dialog.Error_Friend_Already_Request._message,Запрос уже отправлен.
+mst.dialog.Error_Friend_Already_Pending._title,Нельзя отправить запрос в друзья.
+mst.dialog.Error_Friend_Already_Pending._message,Запрос от этого пользователя уже в обработке.
+mst.dialog.Error_Friend_Already_Friend._title,Нельзя отправить запрос в друзья.
+mst.dialog.Error_Friend_Already_Friend._message,Уже друзья.
+mst.dialog.Error_Friend_Request_Reject._title,Нельзя отправить запрос в друзья.
+mst.dialog.Error_Friend_Request_Reject._message,"Невозможно отправить запрос на добавление в друзья, так как <br> пользователь <br> отклонил запросы от других пользователей <br><br>."
+mst.dialog.PrivateEnter_NotJoin._title,Не удалось присоединиться к Live.
+mst.dialog.PrivateEnter_NotJoin._message,Не удалось присоединиться к Live.
+mst.dialog.PrivateEnter_HostPreparation._title,Не удалось присоединиться к Live.
+mst.dialog.PrivateEnter_HostPreparation._message,"Невозможно присоединиться к Live, так как ведущий готовится."
+mst.dialog.PrivateEnter_NotCondition._title,Не удалось присоединиться к Live.
+mst.dialog.PrivateEnter_NotCondition._message,Вы не соответствуете условиям для участия в этом Live <br> <br> Условия участия в Live <br> {0}
+mst.dialog.PrivateEnter_NotRoom._title,Проверка Live ID
+mst.dialog.PrivateEnter_NotRoom._message,"Не удалось найти Live с указанным ID.<br>Пожалуйста, проверьте введенный ID Live."
+mst.dialog.PrivateEnter_NotTotalPower._title,Не удалось присоединиться к Live.
+mst.dialog.PrivateEnter_NotTotalPower._message,"Недостаточно общей силы основной группы, поэтому вы не можете участвовать в Live."
+mst.dialog.Photo_Box_Change_Result._title,Обмен завершен
+mst.dialog.Photo_Box_Change_Result._message,Обмен завершен.
+mst.dialog.ChipsterErrorCode_0._title,Ошибка загрузки
+mst.dialog.ChipsterErrorCode_0._message,Произошла ошибка при загрузке.<br>Возврат в главное меню.
+mst.dialog.ChipsterErrorCode_100000._title,Ошибка связи
+mst.dialog.ChipsterErrorCode_100000._message,Не удалось загрузить файл<br>Возврат в главное меню
+mst.dialog.ChipsterErrorCode_100404._title,Ошибка связи
+mst.dialog.ChipsterErrorCode_100404._message,Не удалось найти подключение.<br>Возврат в главное меню.
+mst.dialog.ChipsterErrorCode_100408._title,Ошибка загрузки
+mst.dialog.ChipsterErrorCode_100408._message,Не удалось подключиться.<br>Возврат в главное меню.
+mst.dialog.ChipsterErrorCode_100500._title,Ошибка загрузки
+mst.dialog.ChipsterErrorCode_100500._message,Возникла проблема с подключением.<br>Вернуться в главное меню.
+mst.dialog.ChipsterErrorCode_200000._title,Ошибка загрузки
+mst.dialog.ChipsterErrorCode_200000._message,Не удалось загрузить данные.<br>Возврат в главное меню.
+mst.dialog.ChipsterErrorCode_200100._title,Ошибка загрузки
+mst.dialog.ChipsterErrorCode_200100._message,Нет ответа при подключении.<br>Возврат в главное меню.
+mst.dialog.ChipsterErrorCode_200200._title,Ошибка загрузки
+mst.dialog.ChipsterErrorCode_200200._message,Не удалось загрузить данные.<br>Возврат в главное меню.
+mst.dialog.ChipsterErrorCode_999999._title,Ошибка загрузки
+mst.dialog.ChipsterErrorCode_999999._message,При загрузке данных произошла ошибка.<br>Возврат в главное меню.
+mst.dialog.Error_Forbidden._title,Ошибка
+mst.dialog.Error_Forbidden._message,"Аккаунт заблокирован.<br>Если вы не знаете, почему, обратитесь в службу поддержки через ""Меню"" > ""Помощь"" > ""Другие вопросы""."
+mst.dialog.Event_ErrorNotSession._title,Не время для события
+mst.dialog.Event_ErrorNotSession._message,В данный момент мероприятие не проводится.
+mst.dialog.Event_ErrorEnded._title,Завершено
+mst.dialog.Event_ErrorEnded._message,Событие завершено.<br>Переход на главную страницу.
+mst.dialog.Event_ErrorEndedNotPolicy._title,Завершено
+mst.dialog.Event_ErrorEndedNotPolicy._message,"Вы не согласились с условиями проведения мероприятия, <br>поэтому главная страница мероприятия не может быть отображена."
+mst.dialog.Event_ResultAnnouncement._title,Объявление об итогах события
+mst.dialog.Event_ResultAnnouncement._message,"Спасибо за участие в «{0}»! Мы отправили вам <br> в качестве приза и награду по итогам рейтинга, пожалуйста, не забудьте получить их. Вы можете посмотреть результаты рейтинга на странице мероприятия. <br>"
+mst.dialog.ShopLackMedal._title,{0} не хватает
+mst.dialog.ShopLackMedal._message,Не хватает {0}. Купить Loveca?
+mst.dialog.Mission_ErrorEnded._title,Не время для события
+mst.dialog.Mission_ErrorEnded._message,Задание больше не активно.
+mst.dialog.BoxGacha_NextBoxConfirm._title,Подтвердить
+mst.dialog.BoxGacha_NextBoxConfirm._message,Вы хотите отказаться от текущего набора и перейти к <br>следующему? <br>
+mst.dialog.Error_Gift_Expired._title,Срок получения истек
+mst.dialog.Error_Gift_Expired._message,Подарок больше недоступен для получения.
+mst.dialog.Error_Mission_Expired._title,Срок получения истек
+mst.dialog.Error_Mission_Expired._message,Срок получения награды за задание истек.<br>Неполученные награды будут отправлены в раздел «Подарки».
+mst.dialog.Error_Item_Expired._title,Срок истёк
+mst.dialog.Error_Item_Expired._message,Предмет больше недействителен.
+mst.dialog.Function_Lock_Gacha._title,Функция недоступна
+mst.dialog.Function_Lock_Gacha._message,Сейчас функция набора <br> ограничена и недоступна <br>. <br> <br>Планируемое время начала: {0} <br>Планируемое время окончания: {1} <br> <br> <color=#D73C55> </color>
+mst.dialog.Function_Lock_Shop._title,Функция недоступна
+mst.dialog.Function_Lock_Shop._message,"Сейчас функция магазина <br> ограничена, и вы не можете ею пользоваться <br> <br> <br> Планируемое время начала: {0} <br> Планируемое время окончания: {1} <br> <br> <color=#D73C55> </color>"
+mst.dialog.Function_Lock_Exchange._title,Функция недоступна
+mst.dialog.Function_Lock_Exchange._message,"В настоящее время функция обмена ограничена и недоступна. Начало: {0}, окончание: {1}. <br> <br> <br> <br> <br> <br> <br> <color=#D73C55> </color>"
+mst.dialog.RecommendConfirm._title,(Временно) Уведомление
+mst.dialog.RecommendConfirm._message,Новое уведомление.
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._title,Не удалось присоединиться к Live.
+mst.dialog.LiveCannotPlay_NotSatisfyCondition._message,"Невозможно начать, так как не выполнены условия для участия в Live <br> <br> Условия участия в Live <br> {0}"
+mst.dialog.Live_BluetoothAudioMode._title,Режим Bluetooth
+mst.dialog.Live_BluetoothAudioMode._message,Включён режим Bluetooth из-за подключения наушников Bluetooth <br> В режиме Bluetooth во время Live могут возникать задержки при воспроизведении звуков касания <br> ※Применяются настройки для устройств Bluetooth.
+mst.dialog.Live_BatteryQuantityCheck._title,Предупреждение о низком заряде батареи
+mst.dialog.Live_BatteryQuantityCheck._message,"Запас батареи низок <br> Текущий уровень заряда: <color=#D73C55> {0} % </color>. <br> Если уровень заряда опустится ниже, это может привести к прерыванию <br> Live <br>. Рекомендуем зарядить устройство."
+mst.dialog.MusicVideo_ReleaseCondition._title,Условия разблокировки MV
+mst.dialog.MusicVideo_ReleaseCondition._message,"Любой уровень сложности Live должен быть пройден хотя бы раз, чтобы открыть просмотр MV."
+mst.dialog.MusicVideo_Pause._title,Пауза
+mst.dialog.MusicVideo_Pause._message,Прервать просмотр MV<br>и вернуться на экран выбора песен?
+mst.dialog.Adventure_Movie_Skip._title,Пауза
+mst.dialog.Adventure_Movie_Skip._message,Пропустить видео?
+mst.dialog.StaminaConfirm._title,Подтверждение LP
+mst.dialog.StaminaConfirm._message,"Сейчас у вас осталось меньше LP, чем необходимо <br> Вы хотите использовать доступное количество LP для участия в Live? <br> ※Если оставшееся количество LP равно 0, оно не будет потрачено."
+mst.dialog.AutoBoostConfirm._title,Пропуск билетов
+mst.dialog.AutoBoostConfirm._message,"Сейчас у вас меньше доступных билетов для пропуска, чем указано в настройках.<br>Вы хотите использовать имеющиеся билеты и начать Live?"
+mst.dialog.NoAutoBoostConfirm._title,Пропуск билетов
+mst.dialog.NoAutoBoostConfirm._message,"У вас нет доступных билетов для пропуска или вы ещё не прошли эту песню, поэтому использовать их невозможно <br>Вы хотите потратить 1 LP и начать Live? <br>Обратите внимание: если у вас осталось 0 LP, они использоваться не будут."
+mst.dialog.NoAutoBoostForSpiritConfirm._title,Пропуск билетов
+mst.dialog.NoAutoBoostForSpiritConfirm._message,"У вас нет билетов для пропуска или вы ещё не прошли эту песню, поэтому их нельзя использовать.<br>Использовать звёздный билет и начать Live?"
+mst.dialog.LiveResultRestartConfirm._title,Подтверждение перезапуска
+mst.dialog.LiveResultRestartConfirm._message,"Сыграть в Live ещё раз, потратив {0} LP?"
+mst.dialog.LiveResultRestartAutoConfirm._title,Подтверждение перезапуска
+mst.dialog.LiveResultRestartAutoConfirm._message,Использовать {0} билетов и начать Live?
+mst.dialog.CardMovie_Pause._title,Пауза
+mst.dialog.CardMovie_Pause._message,Прервать воспроизведение видео и вернуться на экран с подробностями? <br>
+mst.dialog.OrnamentShop_LackGem._title,Loveca проверка
+mst.dialog.OrnamentShop_LackGem._message,"Не хватает Loveca, поэтому купить невозможно."
+mst.dialog.OrnamentShop_Lack._title,Проверка {0}
+mst.dialog.OrnamentShop_Lack._message,"Недостаточно {0}, поэтому покупка невозможна."
+mst.dialog.StoryReleaseDetail._title,Условия открытия
+mst.dialog.StoryPlay._title,Воспроизвести сюжет
+mst.dialog.StoryPlay._message,«{0}» <br> воспроизвести? <br> Вы уверены?
+mst.dialog.StoryPlayAfterDownload._title,Воспроизвести сюжет
+mst.dialog.StoryPlayAfterDownload._message,«{1}»<br> будет загружен и воспроизведён<br><br><color=#D73C55>Размер загрузки: {0:0.00} МБ</color><br>Вы уверены?<br><br><color=#D73C55>※Для загрузки рекомендуется использовать Wi-Fi<br></color>
+mst.dialog.EpisodePlay._title,Воспроизвести сюжет
+mst.dialog.EpisodePlay._message,Воспроизвести «{0}»? <br> Вы уверены?
+mst.dialog.Tutorial_GroupSelect._title,Подтверждение любимой группы
+mst.dialog.Tutorial_GroupSelect._message,"Из выбранной группы вы получите участницу с максимальной редкостью «UR» в следующем наборе <br>. Хотите, чтобы вас провели по этой группе? <br>"
+mst.dialog.Tutorial_MemberSelect._title,Выбор участницы
+mst.dialog.Tutorial_MemberSelect._message,"Вы точно хотите выбрать эту участницу, так как в следующем наборе вы гарантированно получите её карту максимальной редкости «UR» <br>? <br>"
+mst.dialog.Tutorial_Movie_Skip._title,Пропустить ролик?
+mst.dialog.Tutorial_Movie_Skip._message,Пропустить видео?
+mst.dialog.Tutorial_Live_Skip._title,Подтверждение пропуска Live
+mst.dialog.Tutorial_Live_Skip._message,Пропустить Live?
+mst.dialog.Tutorial_GetMember._title,Получена участница в избранное
+mst.dialog.Tutorial_GetMember._message,Вы получили {0}. <br> ※Полученные айдолы будут добавлены в ваш состав напрямую.
+mst.dialog.Tutorial_HomeGacha._title,Завершение обучения
+mst.dialog.Tutorial_HomeGacha._message,В честь завершения обучения вы можете бесплатно выполнить 10 наборов.
+mst.dialog.Tutorial_Complete._title,Подтвердить
+mst.dialog.Tutorial_Complete._message,Поздравляем с завершением обучения!
+mst.dialog.BandEnrich._title,Подтвердить
+mst.dialog.BandEnrich._message,"Вы уверены, что хотите улучшить группу с помощью выбранного предмета улучшения и <br> {0} G? <br>"
+mst.dialog.SubTutorial_EndConfirm._title,Подтвердить
+mst.dialog.SubTutorial_EndConfirm._message,Сыграть Live?
+mst.dialog.SubTutorial_SkipConfirm._title,Подтвердить
+mst.dialog.SubTutorial_SkipConfirm._message,Пропустить?
+mst.dialog.EmotionalMemberSelect._title,Выбор [{0}]
+mst.dialog.EmotionalMemberSelect._message,"Вы уверены, что хотите выбрать эту участницу? <br><br>Обратите внимание: выбранную любимую участницу нельзя будет изменить."
+mst.dialog.EmotionalBandSelect._title,Выбор [{0}]
+mst.dialog.EmotionalBandSelect._message,"Вы уверены, что хотите выбрать эту группу? <br> <br> В течение периода выбора вы можете менять группы сколько угодно. <br> Обратите внимание: при смене группы временные очки события будут сброшены. <br> Временные очки событий начисляются после окончательного выбора группы."
+mst.dialog.ShopAttentionWording._title,Важные примечания к использованию
+mst.dialog.ShopAttentionWording._message,"Возврат невозможен.<br>Если пользователю меньше 18 лет, для покупки товара требуется согласие законного представителя."
+mst.dialog.Notice_Movie_Skip._title,Пропустить ролик?
+mst.dialog.Notice_Movie_Skip._message,Пропустить видео?
+mst.dialog.GameLibErrorCode_17101._title,Покупка не завершена
+mst.dialog.GameLibErrorCode_17101._message,"Есть незавершённые платежи в магазине <br> Пожалуйста, завершите оплату в магазине или отмените её в истории покупок Google Play Store <br> <br> После этого <br> повторно откройте страницу магазина, чтобы увидеть приобретённый товар <br> Код ошибки: {0}"
+mst.dialog.GameLibErrorCode_16010._title,Покупка не завершена
+mst.dialog.GameLibErrorCode_16010._message,"Есть незавершённые платежи в магазине <br> Пожалуйста, завершите оплату в магазине или отмените её в истории покупок Google Play Store <br> <br> После этого <br> повторно откройте страницу магазина, чтобы увидеть приобретённый товар <br> Код ошибки: {0}"
+mst.dialog.GachaConfirmFree._title,Подтвердить
+mst.dialog.GachaConfirmFree._message,Вы хотите совершить {1} наборов за {0}?
+mst.dialog.GachaConfirmFreeDaily._title,Подтвердить
+mst.dialog.GachaConfirmFreeDaily._message,Вы хотите совершить {1} наборов за {0}? Сброс произойдет в <br>.
+mst.dialog.GachaConfirmTutorial._title,Подтвердить
+mst.dialog.GachaConfirmTutorial._message,Вы хотите совершить {1} наборов за {0}?
+mst.dialog.GameLibErrorCode_1100._title,Ошибка привязки учётной записи
+mst.dialog.GameLibErrorCode_1100._message,Ошибка привязки аккаунта.
+mst.dialog.DataTakeOver_SNSSignOutConfirm._title,Отключить учётную запись
+mst.dialog.DataTakeOver_SNSSignOutConfirm._message,Вы хотите отвязать текущую учетную запись?
+mst.dialog.ChatOpen._title,Чат открыт!
+mst.dialog.ChatOpen._message,Новое сообщение в чате!<br>Хотите его посмотреть?
+mst.dialog.ReturnToTitleConfirm._title,Подтвердить
+mst.dialog.ReturnToTitleConfirm._message,Вернуться на экран заголовка?
+mst.dialog.GoToRehearsalConfirm._title,Подтверждение репетиции
+mst.dialog.GoToRehearsalConfirm._message,"В репетиции LP не используется <br>, но при завершении ваши результаты и данные не будут учтены <br>, вы не получите награду. Вы уверены?"
+mst.dialog.GoToEventRehearsalConfirm._title,Подтверждение репетиции
+mst.dialog.GoToEventRehearsalConfirm._message,"В репетиции вы не будете использовать Миракл Стар <br> Однако данные, такие как очки, не будут учтены при завершении <br> Вы уверены, что хотите продолжить, так как вы не получите награду?"
+mst.dialog.MigrateError_WrongParam._title,Подтвердить
+mst.dialog.MigrateError_WrongParam._message,"Данные для переноса не найдены.<br>Пожалуйста, проверьте правильность ввода ID пользователя и пароля."
+mst.dialog.MigrateError_AlreadyCompleted._title,Подтвердить
+mst.dialog.MigrateError_AlreadyCompleted._message,Этот ID пользователя уже использовался для переноса данных.
+mst.dialog.TermsOfService_UpDate._title,Обновление пользовательского соглашения
+mst.dialog.TermsOfService_UpDate._message,"Пользовательское соглашение обновлено.<br>Чтобы продолжить игру, вам необходимо снова согласиться с ним."
+mst.dialog.Subscription_Restore_Ok._title,Восстановление подписки
+mst.dialog.Subscription_Restore_Ok._message,Восстановлено.
+mst.dialog.Subscription_Restore_0_Have._title,Восстановление подписки
+mst.dialog.Subscription_Restore_0_Have._message,Не удалось подтвердить наличие покупки.
+mst.dialog.Subscription_Restore_Error._title,Восстановление подписки
+mst.dialog.Subscription_Restore_Error._message,Восстановление не удалось.
+mst.dialog.GameLibErrorCode_37003._title,Ошибка
+mst.dialog.GameLibErrorCode_37003._message,"Невозможно приобрести, так как превышен лимит покупок."
+mst.dialog.GameLibErrorCode_37004._title,Ошибка
+mst.dialog.GameLibErrorCode_37004._message,"Невозможно приобрести, так как превышен лимит доступного количества кристаллов."
+mst.dialog.GameLibErrorCode_37006._title,Ошибка
+mst.dialog.GameLibErrorCode_37006._message,"Вы уже оформили подписку, поэтому приобрести её повторно невозможно."
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._title,Подтвердить
+mst.dialog.Register3rdPartyAccountAlreadyRegistedAcountConfirm._message,Эта учётная запись уже связана с данными другого пользователя <br>. Хотите отвязать её от данных другого пользователя <br> и связать с текущими данными <br>? <br>
+mst.dialog.GameLibOrder_IsPending._title,Покупка не завершена
+mst.dialog.GameLibOrder_IsPending._message,"У вас есть незавершённые покупки, оплачиваемые в магазине <br>. Пожалуйста, завершите оплату этих покупок <br> или отмените их в истории Google Play Store <br>. После завершения оплаты повторно откройте страницу магазина, чтобы увидеть приобретённые товары <br>."
+mst.dialog.MusicRecommendErrorExpired._title,Ошибка
+mst.dialog.MusicRecommendErrorExpired._message,Срок действия этого списка рекомендаций истек.
+mst.dialog.MultiDeckErrorUnorganized._title,Ошибка: нет состава
+mst.dialog.MultiDeckErrorUnorganized._message,"Пожалуйста, создайте отряд для совместного Live."
+mst.dialog.MultiCanNotMatching._title,Ошибка подбора
+mst.dialog.MultiCanNotMatching._message,Не удалось найти матч. Вернуться на страницу события?
+mst.dialog.LocationInformationConfirmingDialog._title,Подтверждение местоположения
+mst.dialog.LocationInformationConfirmingDialog._message,"Получаем данные о местоположении <br> получение данных может занять некоторое время <br> нажатие кнопки ""Отмена"" прервёт процесс."
+mst.dialog.LocationFailedDialogOutofArea._title,За пределами зоны получения наград
+mst.dialog.LocationFailedDialogOutofArea._message,"Вы находитесь за пределами зоны, где можно получить награду.<br>Награда не была получена."
+mst.dialog.LocationFailedDialogNotAllow._title,Подтвердить
+mst.dialog.LocationFailedDialogNotAllow._message,"Если режим определения местоположения установлен в «Выкл.» или «Только GPS», функция обмена данными о местоположении не будет работать <br>. Измените настройки, чтобы включить определение местоположения <br>. Проверьте настройки вашего устройства."
+mst.dialog.LocationFailedDialogTimeout._title,Подтвердить
+mst.dialog.LocationFailedDialogTimeout._message,Время ожидания истекло.
+mst.dialog.LocationFailedDialogNone._title,Подтвердить
+mst.dialog.LocationFailedDialogNone._message,Не удалось получить награду.
+mst.dialog.LocationFailedDialogReceived._title,Подтвердить
+mst.dialog.LocationFailedDialogReceived._message,Это уже полученная кампания.
+mst.dialog.LocationFailedDialogOutOfTerm._title,Подтвердить
+mst.dialog.LocationFailedDialogOutOfTerm._message,Срок действия кампании истек.
+mst.dialog.MultiConfirmStartLive._title,Подтвердить
+mst.dialog.MultiConfirmStartLive._message,"Не хватает участников. При игре вчетвером вы можете получить меньше очков для события. <br> Это может привести к тому, что количество очков, которое вы получите, будет на <br> меньше. <br> Хотите начать Live с текущим количеством участников? <br> <br>"
+mst.dialog.MultiConfirmStartLivePermanent._title,Подтвердить
+mst.dialog.MultiConfirmStartLivePermanent._message,Не хватает участников.<br><br>Всё равно начать Live?
+mst.dialog.MultiLeaveRoomOnSongPick._title,Выход из Live
+mst.dialog.MultiLeaveRoomOnSongPick._message,"Если выйти сейчас, вы не сможете участвовать в этом Live.<br><br>Всё равно выйти?"
+mst.dialog.MultiPenalty._title,Подтвердить
+mst.dialog.MultiPenalty._message,"В связи с тем, что в совместном Live было обнаружено несколько случаев разрыва соединения, <br> мы временно ограничили функциональность <br> Пожалуйста, подождите до снятия ограничения <br> <br> <color=#D73C55> До снятия ограничения осталось <br> {0} </color>"
+mst.dialog.MultiPenaltyWarning._title,Подтвердить
+mst.dialog.MultiPenaltyWarning._message,Во время совместного Live-выступления произошла отмена связи и т. д.<br>Результаты Live-выступления недействительны.
+mst.dialog.MultiLiveInterruption._title,Подтвердить
+mst.dialog.MultiLiveInterruption._message,Во время совместного Live-выступления произошла отмена связи и т. д.<br>Результаты Live-выступления недействительны.
+mst.dialog.MultiRematchAllUsersLeft._title,Подтвердить
+mst.dialog.MultiRematchAllUsersLeft._message,Все остальные игроки покинули комнату.
+mst.dialog.MultiDisconnectedError._title,Подтвердить
+mst.dialog.MultiDisconnectedError._message,Соединение прервано.
+mst.dialog.MultiHelperCountEmpty._title,Подтвердить
+mst.dialog.MultiHelperCountEmpty._message,Сегодня вы использовали все доступные попытки помощи.<br>Вы будете перенаправлены на страницу события.
+mst.dialog.SS_AlignmentError_WrongParam._title,Ошибка
+mst.dialog.SS_AlignmentError_WrongParam._message,"Не удалось найти данные для связывания. <br>Пожалуйста, проверьте, правильно ли введены ID игрока в SSS и пароль для связывания.<br>"
+mst.dialog.SS_AlignmentError_AlreadyCompleted._title,Ошибка
+mst.dialog.SS_AlignmentError_AlreadyCompleted._message,Связь с аккаунтом School Festa уже завершена.
+mst.dialog.SS_AlignmentError_UsedCode._title,Ошибка
+mst.dialog.SS_AlignmentError_UsedCode._message,Связь с этим идентификатором игрока School Star уже установлена.
+mst.dialog.SS_AlignmentError_Expired._title,Ошибка
+mst.dialog.SS_AlignmentError_Expired._message,"Срок действия истек, использовать невозможно."
+mst.dialog.EventEndConfirmDialog._title,Подтвердить
+mst.dialog.EventEndConfirmDialog._message,Событие завершено.
+mst.dialog.LiveLoadError._title,Обновление музыки
+mst.dialog.LiveLoadError._message,Данные о песне обновлены.
+mst.dialog.StartEventLive._title,Подтвердить
+mst.dialog.StartEventLive._message,Началось мероприятие.
+mst.dialog.SerialCcode_ExcludedItem._title,Подтвердить
+mst.dialog.SerialCcode_ExcludedItem._message,Этот чат уже разблокирован.
+mst.dialog.UseExpiredItem._title,Ошибка
+mst.dialog.UseExpiredItem._message,"Срок действия {0}, который вы пытались использовать, истек."
+mst.dialog.LiveSkipConfirm._title,Подтвердить
+mst.dialog.LiveSkipConfirm._message,"Уже пройденные песни можно пропускать на любой сложности.<br>Однако, если вы пропустите сложность, которую еще не прошли, это не будет считаться прохождением."
+mst.dialog.GameClose_AnnouncePaybackNotice._title,Уведомление о прекращении обслуживания
+mst.dialog.GameClose_AnnouncePaybackNotice._message,«Love Live! School Idol Festival 2 MIRACLE LIVE!» завершил свою работу <br>2024 года 31 марта (воскресенье). <br><br>■Период приема заявок на возврат средств: с 1 апреля 2024 г. (понедельник) 0:00 до 17 июня 2024 г. (понедельник) 14:59. <br><br>Благодарим вас за поддержку.
+mst.dialog.GameClose_AnnouncePayback._title,Уведомление о возврате средств за Loveca
+mst.dialog.GameClose_AnnouncePayback._message,"„Love Live! School Idol Festival 2 MIRACLE LIVE!“ прекращает обслуживание <br>с 31 марта 2024 г. (воскресенье). Если вы хотите получить возврат неиспользованного остатка игровой валюты «Loveca», пожалуйста, свяжитесь с нами через форму <br>«Возврат». <br>■Компания-эмитент предоплаченных платежных средств, осуществляющая возврат: Bushiroad Inc. <br><br>■Срок подачи заявок на возврат: с 0:00 1 апреля 2024 г. (понедельник) до 15:00 17 июня 2024 г. (понедельник). <br>※Заявки, поданные после указанного периода, не будут рассмотрены. <br>"
+mst.dialog.GameClose_AnnounceNoPayback._title,Уведомление о прекращении обслуживания
+mst.dialog.GameClose_AnnounceNoPayback._message,"„Love Live! School Idol Festival 2 MIRACLE LIVE!“ прекращает свою работу <br>с <br>марта 2024 года. <br>У вас нет неиспользованных платных Loveca, подлежащих возврату. <br>Если у вас возникнут вопросы, пожалуйста, свяжитесь с нами по указанному ниже адресу. <br><br>Спасибо за вашу поддержку."
+mst.dialog.GameClose_Announce._title,Уведомление о прекращении обслуживания
+mst.dialog.GameClose_Announce._message,«Love Live! School Idol Festival 2 MIRACLE LIVE!» прекращает свою работу с <br>31 марта 2024 г. (воскресенье). <br><br> Спасибо за вашу поддержку.
+mst.dialog.GameClose_Information_Terms._title,Пользовательское соглашение
+mst.dialog.GameClose_Information_Terms._message,"Условия использования сервиса <br> Настоящие Условия использования (далее — «настоящие Условия») регулируют порядок использования сервиса, предоставляемого компанией Bushiroad (далее — «Компания») через приложение «Love Live! School Idol Festival 2 MIRACLE LIVE!» (далее — «Приложение»). Они применяются ко всем пользователям (далее — «Пользователи»), использующим данный сервис. <br><br> Статья 1. Определения <br> «Контент» означает текст, символы, аудио, музыку, другие звуки, изображения, видео, значки, программное обеспечение, программы, код и другую информацию. <br> «Контент сервиса» означает контент, к которому можно получить доступ через сервис. <br> «Пользовательский контент» означает контент, размещенный или отправленный Пользователем в сервисе. <br> «Внутриигровая валюта» означает виртуальную валюту, которая может быть обменена на платные услуги или контент в сервисе. <br> «Официальный сайт» означает официальный веб-сайт сервиса. <br> «Дополнительные условия использования» означают документы, определяющие дополнительные условия использования, которые Компания публикует в Приложении или на Официальном сайте (под любым названием), отличные от настоящих Условий, в отношении данного сервиса. Настоящие Условия и Дополнительные условия использования вместе называются «Условиями». <br> Статья 2. Согласие с условиями <br> Пользователи должны использовать сервис в соответствии с положениями настоящих Условий и не могут использовать его, если не согласны с ними. <br> Когда пользователь начинает пользоваться сервисом и проходит процедуру согласия с Условиями, между пользователем и Компанией заключается договор об использовании (далее — «Договор»), который регулируется положениями настоящих Условий. <br> Если в сервисе есть дополнительные условия использования, пользователи должны использовать сервис в соответствии как с настоящими Условиями, так и с дополнительными условиями использования. Если положения настоящих Условий и дополнительных условий использования отличаются друг от друга, применяются положения дополнительных условий использования. <br> Использование сервиса пользователем считается действительным и безоговорочным согласием с настоящими Условиями. <br> Статья 3. Изменение Условий <br> Компания может в любое время изменять настоящие Условия по своему усмотрению, при этом уведомляя пользователей об изменениях. <br> В соответствии со статьей 548-4 Гражданского кодекса Японии, Компания может изменять настоящие Условия в следующих случаях: <br> Изменение соответствует интересам пользователей. <br> Изменение не противоречит цели договора и является разумным с учетом необходимости изменения, содержания изменений и других обстоятельств, связанных с изменением. <br> Если Компания изменяет настоящие Условия в соответствии с вышеуказанным, она уведомляет об этом на веб-сайте Компании не позднее чем за 1 месяц до даты вступления изменений в силу, указывая содержание изменений и дату их вступления в силу. Если Компания уведомит пользователя об изменениях в новых Условиях, и пользователь продолжит использовать сервис после вступления в силу измененных Условий, считается, что он согласился с ними. Если пользователь не согласен с измененными Условиями, он не может больше пользоваться сервисом. <br> Статья 4. Использование сервиса несовершеннолетними <br> Если пользователь является несовершеннолетним, он должен получить предварительное согласие законного представителя (родителя или опекуна) на использование сервиса (включая согласие с настоящими Условиями). <br> Если пользователь был несовершеннолетним на момент согласия с настоящими Условиями и впоследствии достиг совершеннолетия, считается, что он подтверждает свои действия, совершенные в период несовершеннолетия. <br> Статья 5. Аккаунт <br> При использовании сервиса пользователи должны предоставлять правдивую и точную информацию о себе и постоянно обновлять ее. Компания не несет ответственности за любой ущерб, причиненный пользователю из-за предоставления ложной или неполной информации. <br> При использовании сервиса, если пользователю выдаются или устанавливаются учетные данные (например, идентификатор пользователя и пароль), пользователь должен хранить их в безопасности и не допускать несанкционированного использования. Компания может считать все действия, совершенные с использованием этих учетных данных, действиями самого пользователя. Компания не несет ответственности за любой ущерб, причиненный пользователю или третьим лицам в результате таких действий. <br> Если Компания обнаружит, что пользователь нарушает настоящие Условия или есть основания полагать, что он может их нарушить, она может приостановить или удалить учетную запись пользователя без предварительного уведомления. <br> Если пользователь не использует сервис в течение одного года, Компания может удалить его учетную запись без предварительного уведомления. Дата использования определяется на основе записей доступа к серверу. <br> Права пользователя на использование сервиса прекращаются с момента удаления учетной записи, независимо от причины. Обратите внимание, что удаленная учетная запись не может быть восстановлена. <br> Учетная запись в сервисе принадлежит исключительно пользователю. Пользователь не может передавать, давать в аренду или завещать свои права на использование сервиса третьим лицам. <br> Если пользователь узнает, что его учетные данные были украдены, раскрыты третьим лицам или используются третьими лицами, он должен немедленно сообщить об этом Компании и следовать ее указаниям. <br> Если в результате несанкционированного использования учетных данных Компания или третьи лица понесут убытки, пользователь должен возместить эти убытки Компании и третьим лицам. <br> Статья 6. Обработка информации о пользователе <br> Компания обрабатывает информацию о пользователях, информацию об устройствах и другую информацию, собираемую от пользователей при использовании сервиса, в соответствии с «Политикой конфиденциальности» и «Политикой конфиденциальности приложений», установленными Компанией. <br><br> Статья 7. Предоставление сервиса <br> Пользователи используют сервис в соответствии с правилами, установленными Компанией. <br> Для использования сервиса пользователи должны самостоятельно приобретать и поддерживать все необходимое оборудование, включая смартфоны, устройства связи, операционные системы, программное обеспечение и интернет-соединение, а также нести все связанные с этим расходы. <br> Компания может ограничить доступ к сервису определенным пользователям на основе таких критериев, как возраст, подтверждение личности пользователя, наличие зарегистрированной учетной записи или другие критерии, которые Компания считает необходимыми, и пользователи соглашаются с этим заранее. <br> Компания может в любое время изменять или прекращать предоставление всего или части сервиса без предварительного уведомления пользователей, если это необходимо по усмотрению Компании. <br> Сервис предназначен только для личного использования пользователями, и пользователи не могут использовать его для любых коммерческих целей, включая продажу, распространение или разработку. Любая деятельность с целью получения прибыли запрещена. <br> Статья 8. Платный контент <br> Если пользователь использует платные услуги или контент, предоставляемые Компанией (включая обмен на внутриигровую валюту), он должен оплатить соответствующую сумму в соответствии с условиями оплаты, установленными Компанией. <br> Сумма, способ оплаты и другие детали платного контента будут указаны Компанией в Приложении или на Официальном сайте. <br> Компания может изменять цены на контент, который ранее был бесплатным или платным, по своему усмотрению. <br> Компания не осуществляет возврат средств за платный контент ни при каких обстоятельствах, если это не предусмотрено законом. <br> Пользователь соглашается с тем, что оператор магазина, в котором можно загрузить Приложение (далее — «Оператор магазина»), будет собирать соответствующие платежи от имени Компании. Однако, если возникнут какие-либо споры или разногласия относительно платы, пользователи должны разрешить их непосредственно с Компанией и не могут предъявлять претензии Оператору магазина. <br> Статья 9. Реклама <br> Компания может размещать рекламу себя или третьих лиц в сервисе. <br> Сервис может содержать услуги или контент, предоставляемые другими поставщиками услуг. Ответственность за такие услуги или контент несет поставщик услуг. Кроме того, к таким услугам или контенту могут применяться другие условия использования, установленные поставщиком услуг. <br> Статья 10. Контент, предоставляемый Компанией <br> Все права, включая авторские права, патентные права и другие права интеллектуальной собственности на контент, предоставляемый Компанией в сервисе, принадлежат Компании или третьим лицам, получившим от нее соответствующие права. <br> Компания предоставляет пользователю неисключительное право использовать контент, предоставляемый ею, в рамках сервиса, которое не может быть передано или переуступлено. <br> Если условия использования контента, за который взимается плата, определены отдельно, пользователи должны соблюдать эти условия при использовании такого контента. Даже если на экране сервиса отображаются надписи «Купить» или «Продать», права интеллектуальной собственности и другие права на контент, предоставляемый Компанией, не передаются пользователю, а предоставляется только право использования, указанное выше. <br> В принципе, пользователи могут использовать контент, полученный в сервисе, только на устройстве, с которого он был загружен. Кроме того, пользователи не должны использовать этот контент способом, который выходит за рамки предполагаемого способа использования сервиса, без разрешения Компании, и не должны совершать действия, которые нарушают или могут нарушить права Компании. <br> Если в результате нарушения положений настоящей статьи возникнут какие-либо проблемы между пользователем и правообладателем, пользователь должен решить эти проблемы на свой страх и риск, и Компания не несет ответственности. <br> Статья 11. Пользовательский контент <br> Пользователи гарантируют Компании, что они имеют законное право размещать или отправлять контент в сервисе и что их пользовательский контент не нарушает права интеллектуальной собственности (включая авторские права, патентные права, права на полезные модели, товарные знаки, права на дизайн), права собственности или другие права третьих лиц, а также является законным. <br> Пользователи сохраняют все права на свой пользовательский контент, и Компания не приобретает эти права. Однако в отношении пользовательского контента, который является общедоступным, пользователи предоставляют Компании безвозмездную, бессрочную и неограниченную по территории право использовать его для сервиса или продвижения (включая право изменять или сокращать его по мере необходимости), а также право передавать это право своим партнерам. <br> Пользователи не осуществляют моральные права автора или права исполнителя в отношении своего пользовательского контента и не требуют этого от Компании или лиц, получивших права от Компании. <br> Если сервис содержит функции, позволяющие нескольким пользователям редактировать, изменять или удалять контент, пользователи соглашаются с тем, что другие пользователи могут редактировать их пользовательский контент. <br> Компания может просматривать пользовательский контент для проверки соблюдения законодательства и настоящих Условий, но не обязана это делать. <br> Если Компания обнаружит, что пользовательский контент нарушает закон, настоящие Условия или может нарушить их, она может удалить или ограничить доступ к такому контенту в сервисе без предварительного уведомления пользователя. <br> Пользователи должны самостоятельно создавать резервные копии своего пользовательского контента, и Компания не обязана это делать. <br> Статья 12. Внутриигровая валюта <br> Внутриигровая валюта предоставляется пользователям в обмен на платные услуги или контент в сервисе, а также другими способами, определенными Компанией. Единицы покупки внутриигровой валюты, способы оплаты и другие условия предоставления определяются Компанией и отображаются в сервисе. <br> Внутриигровую валюту нельзя обменивать на наличные деньги, товары или другие материальные ценности, кроме услуг или контента, определенных Компанией. Количество внутриигровой валюты, необходимой для обмена на услуги или контент, и другие условия определяются Компанией и отображаются в сервисе. <br> Внутриигровая валюта может использоваться только в учетной записи, в которой она была получена. Кроме того, даже если внутриигровая валюта имеет одинаковое название, она не может быть перенесена или объединена между устройствами с разными операционными системами. <br> Пользователи не могут делиться своей внутриигровой валютой с другими учетными записями, передавать ее, сдавать в аренду, закладывать или иным образом уступать третьим лицам. <br> Если Компания удалит учетную запись пользователя в соответствии с настоящими Условиями или если пользователь удалит ее самостоятельно, внутриигровая валюта в этой учетной записи станет недействительной. <br> Внутриигровая валюта не подлежит возврату ни при каких обстоятельствах, за исключением случаев, предусмотренных законом. <br> Если существует платная и бесплатная внутриигровая валюта, сначала используется бесплатная внутриигровая валюта. <br> Статья 13. Запрещенные действия <br> При использовании сервиса пользователи не должны совершать или допускать следующие действия: <br> Действия, нарушающие законы, постановления суда или другие обязательные правовые акты. <br> Действия, нарушающие общественный порядок и мораль. <br> Действия, связанные с преступной деятельностью или подстрекающие к ней. <br> Предоставление преимуществ или иное сотрудничество антиобщественным силам. <br> Нарушение авторских прав, товарных знаков, патентных прав или других прав интеллектуальной собственности Компании или третьих лиц, а также нарушение права на неприкосновенность частной жизни или других прав, предусмотренных законом или договором. <br> Использование сервиса, учетной записи или контента для любых целей, кроме личного использования, включая продажу, распространение или разработку (включая так называемые реальные денежные транзакции). Любая деятельность с целью получения прибыли запрещена. <br> Размещение рекламы, продвижение или приглашение к участию в религиозных мероприятиях или организациях, действия сексуального характера или непристойного содержания, действия, направленные на установление контактов или отношений с незнакомыми людьми противоположного пола, размещение информации, содержащей детскую порнографию или материалы, связанные с жестоким обращением с детьми, преследование или клевета в отношении третьих лиц, а также любые другие действия, которые могут быть неприятны другим пользователям. <br> Размещение контента, содержащего чрезмерное насилие, откровенные сексуальные сцены, дискриминацию по признаку расы, национальности, вероисповедания, пола, социального происхождения или других признаков, подстрекательство к самоубийству или членовредительству, пропаганду наркотиков или другие действия, которые могут нанести вред другим. <br> Действия, направленные на издевательства над другими пользователями или преследование их. <br> Размещение ссылок на сайты для взрослых, сайты, собирающие личную информацию, коммерческие сайты (включая партнерские программы). <br> Любые действия, связанные с продажей, обменом, рекламой или продвижением товаров и услуг в коммерческих или некоммерческих целях. <br> Размещение личной информации о себе или третьих лицах, такой как адреса электронной почты, номера телефонов и т. д. <br> Отправка одного и того же сообщения большому количеству пользователей (за исключением случаев, разрешенных Компанией), добавление других пользователей в список друзей или групп без их согласия, а также любые другие действия, которые Компания считает спамом. <br> Выдача себя за Компанию или третье лицо или распространение ложной информации. <br> Незаконный сбор, раскрытие или предоставление личной информации, регистрационной информации или информации об использовании другим пользователям. <br> Несанкционированный доступ к сервису, использование учетной записи другого пользователя или любые другие аналогичные действия. <br> Действия, нарушающие работу серверов или сетевых систем сервиса, неправомерное использование технических средств для изменения сервиса или любое другое поведение, которое может нанести вред сервису. <br> Декомпиляция, дизассемблирование, реверс-инжиниринг или анализ исходного кода, структуры или идей сервиса. <br> Предъявление необоснованных требований или жалоб Компании. <br> Действия, которые мешают работе сервиса или другим пользователям. <br> Содействие или подстрекательство к любым из вышеперечисленных действий. <br> Любые другие действия, которые Компания считает неуместными. <br> Определение того, нарушает ли действие пользователя какие-либо из вышеуказанных пунктов, находится в усмотрении Компании. <br> Если пользователь обнаружит какое-либо нарушение настоящих Условий, он должен немедленно сообщить об этом Компании. <br> Статья 14. Меры при нарушении условий <br> Компания может принять следующие меры (включая приостановку или удаление учетной записи) в отношении пользователя без предварительного уведомления, если обнаружит, что пользователь совершает какие-либо из следующих действий или есть основания полагать, что он может их совершить: <br> Нарушение настоящих Условий. <br> Предоставление ложной информации о себе или других. <br> Неспособность оплатить счета или начало процедуры банкротства, реорганизации или аналогичной процедуры. <br> Смерть пользователя или назначение ему попечителя, куратора или помощника. <br> Пользователь является несовершеннолетним, и он не получил согласия законного представителя. <br> Компания не получила ответа на свой запрос в течение 30 дней. <br> Пользователь является членом антиобщественной группы или сотрудничает с ней. <br> Компания считает это необходимым для обслуживания сервиса. <br> Любые другие обстоятельства, аналогичные вышеперечисленным. <br> Даже после принятия мер по приостановке или удалению учетной записи пользователь остается обязанным выполнять все свои обязательства и нести ответственность за убытки, понесенные Компанией или третьими лицами в результате его действий. <br> Компания не несет ответственности за любой ущерб, причиненный пользователю в результате мер, принятых в соответствии с настоящей статьей. <br> Если Компания считает, что пользователь нарушает настоящие Условия или может их нарушить, она может потребовать от пользователя прекратить нарушение, удалить или исправить размещенный контент и т. д., и пользователь должен выполнить это требование в течение срока, установленного Компанией. <br> Компания не несет ответственности за любой ущерб, причиненный пользователю в результате мер, принятых в соответствии с настоящей статьей. <br> Статья 15. Прекращение использования сервиса <br> Пользователь может прекратить использование сервиса в любое время путем удаления Приложения, удаления учетной записи или другим способом, предусмотренным Компанией. <br> Если пользователь случайно удалил свою учетную запись или по каким-либо причинам потерял доступ к ней, он не сможет восстановить ее. <br> Даже после прекращения использования сервиса пользователь остается обязанным выполнять все свои обязательства и нести ответственность за убытки, понесенные Компанией или третьими лицами в результате его действий. <br> После того как пользователь прекратил использование Приложения и сервиса, Компания может хранить предоставленную им информацию, но не обязана это делать. <br> Если пользователь прекращает использовать сервис, Компания может удалить его учетную запись по своему усмотрению без предварительного уведомления. Компания не несет ответственности за последствия удаления учетной записи. <br> В случае смерти пользователя учетная запись, информация о пользователе и другой контент, накопленный в сервисе, удаляются и не могут быть переданы по наследству. <br> Статья 16. Изменение, прекращение или приостановка работы сервиса <br> Компания может изменять или дополнять сервис в любое время без предварительного уведомления пользователей. <br> Компания может прекратить предоставление всего или части сервиса, разместив соответствующее объявление в Приложении или на Официальном сайте или другим способом, который она сочтет подходящим. <br> Компания может прекратить выпуск внутриигровой валюты одновременно с объявлением о прекращении предоставления сервиса, и пользователи соглашаются с этим заранее. <br> В следующих случаях Компания может временно приостановить работу всего или части сервиса без предварительного уведомления пользователей: <br> Регулярное или экстренное техническое обслуживание оборудования и систем, используемых для работы Приложения и сервиса. <br> Перегрузка системы или другие непредвиденные обстоятельства. <br> Необходимость обеспечения безопасности пользователей. <br> Отсутствие услуг связи от поставщиков телекоммуникационных услуг. <br> Стихийные бедствия, такие как землетрясения и наводнения, пожары, отключения электроэнергии или другие непредвиденные обстоятельства, а также войны, конфликты, беспорядки или трудовые споры. <br> Сервис не может работать в соответствии с законом или другими обязательными правовыми актами. <br> Любые другие обстоятельства, аналогичные вышеперечисленным, которые Компания считает необходимыми. <br> Компания не несет ответственности за любой ущерб, причиненный пользователю в результате мер, принятых в соответствии с настоящей статьей. <br> Статья 17. Ответственность пользователя <br> Пользователи используют сервис на свой страх и риск и несут полную ответственность за все свои действия и их последствия при использовании сервиса. <br> Если Компания обнаружит, что пользователь нарушает настоящие Условия, она может принять меры по приостановке или удалению учетной записи в соответствии со статьей 14. Однако Компания не обязана предотвращать или исправлять такие нарушения. <br> Если действия пользователя, нарушающие настоящие Условия или связанные с использованием сервиса, причинят прямой или косвенный ущерб Компании (включая случаи, когда Компания получает претензии от третьих лиц), пользователь должен возместить весь такой ущерб по требованию Компании. <br> Если между пользователями или между пользователем и третьим лицом возникнет спор в связи с сервисом, пользователи должны разрешить его самостоятельно и нести все связанные с этим расходы. Компания не участвует в этом споре и не несет ответственности за него. <br> Статья 18. Отказ от ответственности <br> Если только у Компании нет умысла или грубой неосторожности, она не несет ответственности за любой ущерб, причиненный пользователю из-за сбоев в работе сети связи или компьютеров, потери данных или других проблем, связанных с сервисом. <br> Даже если Компания несет ответственность перед пользователем за нарушение договорных обязательств или деликты, ее ответственность ограничивается прямым и обычным ущербом, который пользователь фактически понес, при условии, что у Компании нет умысла или грубой неосторожности, и максимальная сумма компенсации равна сумме платежей, полученных от пользователя в течение месяца, когда произошел ущерб. <br> Статья 19. Способ связи <br> Компания будет связываться с пользователями относительно сервиса путем размещения информации в Приложении или на Официальном сайте или другими способами, которые она сочтет подходящими. <br> Если Компания отправляет уведомление по электронной почте, считается, что уведомление было получено, когда электронное письмо было отправлено на адрес электронной почты пользователя и должно было быть доставлено в обычном порядке. <br> Пользователи должны связываться с Компанией относительно сервиса путем отправки запроса через форму обратной связи, размещенную в Приложении или на Официальном сайте, или другим способом, указанным Компанией. Компания не обязана отвечать на запросы, полученные другими способами. <br> Статья 20. Запрет на передачу прав и обязанностей <br> Пользователь не может передавать свои права или обязанности по Договору или свое положение в рамках Договора третьим лицам без предварительного письменного согласия Компании. <br><br> Статья 21. Передача бизнеса и т. д. <br> Если Компания передаст бизнес, связанный с сервисом, третьему лицу или объединится с другой компанией или проведет реорганизацию, она может передать права и обязанности по Договору, а также информацию о пользователе получателю передачи. <br><br> Статья 22. Разделимость <br> Если какое-либо положение настоящих Условий будет признано недействительным в соответствии с законом, это не повлияет на действительность остальных положений и настоящих Условий в целом. <br> Если какое-либо положение настоящих Условий будет признано недействительным или отменено в отношении одного пользователя, это не повлияет на его действительность в отношении других пользователей. <br> Статья 23. Применимое право и юрисдикция <br> Настоящие Условия регулируются законодательством Японии. Любые споры между пользователем и Компанией, связанные с настоящими Условиями или сервисом, подлежат рассмотрению в Токийском окружном суде или Токийском районном суде в качестве суда первой инстанции."
+mst.dialog.GameClose_Information_PrivacyPolicy._title,Конфиденциальность
+mst.dialog.GameClose_Information_PrivacyPolicy._message,"Приложение — Политика конфиденциальности <br> Настоящая политика конфиденциальности приложений (далее — «настоящая Политика») определяет порядок обработки пользовательских данных, предоставляемых компанией Bushiroad (далее — «Компания») в мобильном приложении для смартфонов «Love Live! School Idol Festival 2 MIRACLE LIVE!» (далее — «Приложение»), а также в сервисах, связанных с этим Приложением (далее — «Сервис»). <br><br> Статья 1. (Согласие) <br> Пользователи должны ознакомиться с настоящей Политикой и «Политикой защиты персональных данных», установленной Компанией (https://bushiroad.com/company/privacy.html, далее — «Наша Политика защиты персональных данных»), и согласиться с ними при использовании Приложения и Сервиса. Если пользователи не согласны с этими положениями, они не смогут использовать Приложение и Сервис. <br><br> Статья 2. (Получаемые данные, цели использования, методы получения) <br> В связи с предоставлением Приложения и Сервиса Компания автоматически получает следующую информацию о пользователях через Приложение для достижения следующих целей. <br> Цель Элементы получаемой информации <br> ■ Для идентификации пользовательского устройства, используемого в Сервисе ① Информация об устройстве пользователя, включая идентификационный номер устройства. <br> ■ Для понимания ситуации с использованием Сервиса на пользовательском устройстве и предоставления сервисов, адаптированных к этой ситуации ② IP-адрес <br> ③ Тип и версия операционной системы <br> ④ Информация о местоположении пользовательского устройства (только для устройств, для которых включена передача информации о местоположении через GPS или Bluetooth). <br> ■ Для отправки push-уведомлений на пользовательское устройство (только для устройств, для которых настрочено получение push-уведомлений) ⑤ Идентификатор, выдаваемый Приложению, загруженному на устройство (токен устройства). <br> ■ Для показа рекламы Компании или третьих лиц. <br> ■ Для использования в целях улучшения и исправления ошибок в Приложении и Сервисе. <br> ■ Для использования в маркетинговых целях и при разработке новых продуктов. <br> ■ Для создания обезличенных данных и статистической информации, которые могут быть раскрыты или предоставлены третьим лицам ①～⑤ вся информация. <br> ■ Для обработки запросов пользователей и оказания другой поддержки пользователям ① Информация об устройстве пользователя, включая идентификационный номер устройства. <br> ③ Тип и версия операционной системы. <br> ■ Для показа подходящей рекламы пользователю и измерения эффективности рекламных кампаний ① Информация об устройстве пользователя, включая идентификационный номер устройства. <br> В связи с предоставлением Приложения и Сервиса Компания получает следующую информацию от пользователей путем ввода данных в Приложение для достижения следующих целей. <br> Цель Элементы получаемой информации <br> ■ Для отправки электронной почты с информацией о Сервисе ① Адрес электронной почты. <br> ■ Для обработки запросов пользователей и оказания другой поддержки пользователям ① Адрес электронной почты. <br> ■ Для отправки призов и т. д. пользователям в рамках мероприятий и кампаний ① Адрес электронной почты. <br> ② Имя. <br> ③ Адрес. <br> ④ Номер телефона. <br> Если пользователь разрешает взаимодействие с внешними сервисами, такими как Twitter, при использовании Сервиса, Компания собирает и получает следующую информацию о пользователе из этих внешних сервисов в соответствии с соглашением, достигнутым на момент разрешения взаимодействия. <br> Цель Элементы получаемой информации <br> Для обмена информацией между пользователями Идентификатор пользователя во внешнем сервисе и другая информация, которую пользователь разрешил раскрыть во внешнем сервисе в настройках конфиденциальности этого сервиса. <br> Статья 3. (Передача данных) <br> Информация, полученная на основании пункта 2 статьи 2, передается на серверы, управляемые Компанией, и используется в рамках установленных целей, за исключением случаев, когда модуль сбора информации предоставляет информацию автоматически, как указано в пункте 5 статьи 2. <br><br> Статья 4. (Предоставление третьим лицам/передача на аутсорсинг) <br> Компания не предоставляет информацию о пользователях третьим лицам без предварительного согласия пользователя, за исключением случаев, когда это разрешено законом об охране персональных данных или другими применимыми законами. Однако это не относится к следующим случаям: <br> Когда Компания передает обработку всей или части обработки информации о пользователях подрядчику в рамках, необходимых для достижения целей использования, заключив с ним договор, включающий положения об обеспечении конфиденциальности. <br> Когда информация о пользователях предоставляется третьим лицам в связи с передачей бизнеса в результате слияния или других событий. <br> В случае предоставления информации поставщику модуля сбора информации в соответствии с пунктом 5 статьи 2. <br> Когда необходимо сотрудничать с государственными органами или местными органами власти, либо организациями, которым они делегировали полномочия, для выполнения задач, установленных законом. <br> Компания может передавать информацию о пользователях подрядчику, заключив с ним договор, включающий положения об обеспечении конфиденциальности и других необходимых мерах по надлежащей обработке информации, в рамках необходимого объема для выполнения задач, связанных с обработкой информации о пользователях. В этом случае Компания выбирает подрядчика, который, по ее мнению, обеспечивает надлежащую обработку информации, и устанавливает соответствующие меры контроля в договоре и т. д. с этим подрядчиком. <br> Компания может предоставлять или раскрывать третьим лицам обезличенные данные или статистическую информацию, полученную из информации о пользователях, связанной с Сервисом, поэтому просим учитывать это заранее. <br> Компания может совместно использовать информацию о пользователях, полученную через Приложение, между компаниями группы для предоставления комплексных услуг. <br> Статья 5. (Модуль сбора информации) <br> Для показа целевой рекламы на основе информации о пользователе в Сервисе могут быть интегрированы модули сбора информации. Эти поставщики автоматически получают информацию о пользователях через эти модули. Подробную информацию об полученной информации, целях использования и предоставлении третьим лицам можно найти по ссылкам на политику конфиденциальности приложений этих поставщиков. <br><br> Название SDK: Firebase <br> Поставщик: Google LLC <br> Цель использования: Отправка push-уведомлений в Приложении, сбор журналов для Приложения и анализ эффективности продвижения Приложения. <br> Политика конфиденциальности: https://firebase.google.com/terms/data-processing-terms <br> Название SDK: Adjust <br> Поставщик: Adjust Co., Ltd. <br> Цель использования: Анализ эффективности продвижения Приложения. <br> Политика конфиденциальности: https://www.adjust.com/ja/terms/privacy-policy/ <br> Статья 6. (Способы участия пользователя) <br> Автоматический сбор информации, указанный в пункте 1 статьи 2, можно остановить следующими способами: <br> Выключение устройства. <br> Отключение функции связи на устройстве. <br> Удаление Приложения с устройства. <br> Автоматический сбор информации, указанный в пункте 3 статьи 2, можно остановить следующими способами: <br> Выключение устройства. <br> Отключение функции связи на устройстве. <br> Перевод устройства и приложений внешних сервисов в состояние, когда они не запущены. <br> Удаление Приложения с устройства. <br> Изменение настроек приложения во внешнем сервисе так, чтобы взаимодействие с ним было запрещено. <br> Даже после остановки, как указано выше, Компания будет продолжать использовать информацию о пользователях в рамках установленных целей, если пользователь не запросит прекращение использования и предоставление информации третьим лицам, как это предусмотрено далее, и предоставит ее в соответствии с пунктом 4. <br> Запросы на уведомление об использовании информации о пользователе, раскрытие, изменение, удаление, приостановку использования или прекращение передачи данных третьим лицам направляются Компании по методу и процедуре, указанным в «Политике защиты персональных данных», после подтверждения личности пользователя. <br> Статья 7. (Ссылка на «Политику защиты персональных данных» Компании) <br> Самая последняя версия «Политики защиты персональных данных» и настоящей Политики конфиденциальности доступна по следующим ссылкам. Если «Наша Политика защиты персональных данных» и настоящая Политика конфиденциальности отличаются, приоритет имеет настоящая Политика конфиденциальности. <br><br> «Наша политика защиты персональных данных» <br> Ссылка: https://bushiroad.co.jp/privacy <br> Настоящая политика конфиденциальности <br> Ссылка: https://bushiroad.co.jp/privacy <br> Статья 8. (Раскрытие и совместное использование полученной информации) <br> Если пользователь использует функцию обмена информацией и связи с друзьями и знакомыми в Сервисе, информация о местоположении пользователя (если включена функция определения местоположения), текст, фотографии, видео, аудио и ссылки URL, содержащиеся в сообщениях, могут быть отправлены или предоставлены друзьям и знакомым. Кроме того, если все эти функции настроены для публичного доступа, все пользователи Сервиса могут просматривать их. Область видимости может быть изменена в настройках Сервиса или Приложения. <br><br> Статья 9. (Контактное лицо) <br> По вопросам обработки информации о пользователях в Приложении и Сервисе обращайтесь по следующему адресу: <br><br> Название отдела: Отдел поддержки Love Live! School Idol Festival 2, компания Bushiroad <br> Способ обращения: https://lovelive-sif2.bushimo.jp/contact/ <br> Статья 10. (Изменения) <br> Настоящая Политика конфиденциальности может быть пересмотрена. <br><br> Если при обновлении Приложения произойдут изменения в элементах получаемой информации о пользователях, целях использования, предоставлении третьим лицам и т. д., об этом будет сообщено пользователям до загрузки, а в случае важных изменений — перед установкой или во время установки будет запрошено повторное согласие. <br> Кроме того, если произойдут другие изменения в элементах получаемой информации о пользователях, целях использования, предоставлении третьим лицам и т. д., об этом будет сообщено пользователям через функцию обмена сообщениями и по зарегистрированному адресу электронной почты, а в случае важных изменений — будет запрошено повторное согласие."
+mst.dialog.GameClose_Information_Rights._title,Правовая информация
+mst.dialog.DataTakeOver_SnsNotSupported._title,SNS-связь
+mst.dialog.DataTakeOver_SnsNotSupported._message,SNS連携はこのバージョンでは<br>ご利用いただけません。
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._title,Подтвердить
+mst.dialog.Custom_Sifas_ModelDeleteConfirm._message,Удалить «{0}»? <br> Сохранённые настройки MV будут сброшены к значениям по умолчанию.
+mst.dialog.Arcade_Enter_Confirm._title,Arcade Mode
+mst.dialog.Arcade_Enter_Confirm._message,Register this device as an arcade cabinet.<br>From then on every launch goes straight to the attract loop and the normal game is no longer reachable (Test Mode can undo this).<br>All content is downloaded right after registration.<br><br>Continue?
+mst.dialog.Arcade_Enter_Failed._title,Registration Failed
+mst.dialog.Arcade_Enter_Failed._message,{0}
+mst.dialog.Arcade_TestMode_ExitConfirm._title,Exit Arcade Mode
+mst.dialog.Arcade_TestMode_ExitConfirm._message,"Leave arcade mode.<br>All save data on this device (machine registration, credits, bookkeeping) is deleted and it returns to a first-launch install.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_ExitReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ExitReconfirm._message,Deleted data cannot be recovered.<br>Really exit arcade mode?
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,Reset Bookkeeping
+mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,Set the counted coins and plays back to zero.<br>Credits and the machine registration are not changed.<br><br>Continue?
+mst.dialog.Arcade_Session_Failed._title,Cannot Start Session
+mst.dialog.Arcade_Session_Failed._message,{0}<br><br>Your credit has been returned.
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,Download All Content
+mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,Downloads every asset category.<br>This takes time and bandwidth. The cabinet returns to the attract screen when it is done.<br><br>Continue?
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,The counted data cannot be recovered.<br>Really reset it?
+mst.dialog.Arcade_Card_NewCard._title,A New Card
+mst.dialog.Arcade_Card_NewCard._message,This card has not been used here before.<br>Choose NEW PLAYER to start a new account on it.<br>Choose TRANSFER DATA to move the account you already play on your phone onto this card.
+mst.dialog.Arcade_Card_BindFailed._title,Transfer Failed
+mst.dialog.Arcade_Card_BindFailed._message,No account matches that transfer code and password.<br>Check them and try again.
+mst.dialog.Arcade_TestMode_UnlockConfirm._title,Unlock Account
+mst.dialog.Arcade_TestMode_UnlockConfirm._message,"Remove this device's account lock.<br>From the next credit on, Decision plays as the guest. The card binding on the server is kept.<br><br>Continue?"
+mst.dialog.Arcade_TestMode_UnlockReconfirm._title,Final Confirmation
+mst.dialog.Arcade_TestMode_UnlockReconfirm._message,A removed lock cannot be restored; the next lock draws a new device card ID.<br>Really unlock?
+mst.dialog.Arcade_TestMode_LockFailed._title,Lock Failed
+mst.dialog.Arcade_TestMode_LockFailed._message,No account matches that transfer code and password.<br>The lock stays pending until the first credit.
+mst.dialog.Arcade_Enter_WipeConfirm._title,Удаление данных (подтверждение)
+mst.dialog.Arcade_Enter_WipeConfirm._message,"На этом устройстве уже есть игровые данные.<br>При переходе в аркадный режим ВСЕ данные на этом устройстве (аккаунт, карты, песни и прогресс) будут удалены без возможности восстановления.<br><br>Продолжить?"
+mst.dialog.Arcade_Enter_WipeFinal._title,Финальное подтверждение удаления данных
+mst.dialog.Arcade_Enter_WipeFinal._message,Удалённые данные игры не могут быть восстановлены.<br><br>Вы действительно хотите удалить все данные и перейти в аркадный режим?
+mst.dialog.Arcade_Enter_KeyboardWarning._title,Требуется клавиатура
+mst.dialog.Arcade_Enter_KeyboardWarning._message,"После перехода этого устройства в аркадный режим изменить настройки или вернуться к обычной игре с экрана уже нельзя.<br>Тестовый режим (все настройки автомата) и выход из аркадного режима открываются только кнопкой TEST на автомате: на клавиатуре это клавиша F1 по умолчанию (для геймпада привязки нет).<br>Выход выполняется через TEST → Система → Выход из аркадного режима: все сохранённые данные на этом устройстве удаляются, и оно возвращается к состоянию первого запуска.<br><br>Клавиатура готова?"
