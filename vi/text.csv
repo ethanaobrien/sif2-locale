@@ -1,0 +1,3349 @@
+_key,_text
+Common_Amount,{0} x {1}
+Common_IconAmount,× {0}
+Common_IconAmountOverLimit,x {0}+
+Common_ItemHasAmount,Đang có: {0}
+Common_PossessionNumber,Đang sở hữu
+Common_Possession,Đang sở hữu
+Common_Lack,Không đủ
+Common_Gem,Loveca
+Common_KizunaPoint,Kizuna
+Common_ChargeGem,Loveca (trả phí)
+Common_Point_Coin,Gold
+Common_Point_Seal,Điểm Scout
+Common_Point_LiveStamp,(Dummy) Stamp Live
+Common_OwnedAndCostAmount,{0}/{1}
+Common_Rank,Hạng
+Common_PlayerRank,Hạng người chơi
+Common_GroupRank,Hạng nhóm
+Common_GroupRankWithGroupName,{0} Rank
+Common_ExpToNextRankLabel,Còn lại
+Common_ExpMax,MAX
+Common_Exp,EXP
+Common_Level,Cấp
+Common_MusicLevel,Cấp bài hát
+Common_OrderBy,Tăng dần
+Common_OrderByDescending,Giảm dần
+Common_Day,{0} ngày
+Common_Month,{0} tháng
+Common_Year,{0} năm
+Common_Hour,{0} giờ
+Common_Minute,{0} phút
+Common_Second,{0} giây
+Common_Until,đến
+Common_ExpireDateFew,Sắp hết hạn!
+Common_ExpireDateRemaining,Còn lại
+Common_ExpireDateInfinity,Không giới hạn
+Common_ExpireDateExpired,Đã hết hạn
+Common_Period,{0} to {1}
+Common_Remaining,Còn lại
+Common_Exchange,Đổi vật phẩm
+Common_Filter,Bộ lọc
+Common_Sort,Sắp xếp
+Common_AllSelect,Tất cả
+Common_AllRelease,Bỏ chọn
+Common_Sunday,Chủ nhật
+Common_Monday,Thứ hai
+Common_Tuesday,Thứ ba
+Common_Wednesday,Thứ tư
+Common_Thursday,Thứ năm
+Common_Friday,Thứ sáu
+Common_Saturday,Thứ bảy
+Common_Daily,Hằng ngày
+Common_Weekly,Hằng tuần
+Common_MusicArtistLabel,Giọng hát
+Common_MusicLyricistLabel,Lời bài hát
+Common_MusicComposerLabel,Sáng tác
+Common_MusicArrangerLabel,Phối khí
+Common_MusicArtistFormat,Giọng hát: {0}
+Common_MusicLyricistFormat,Lời: {0}
+Common_MusicComposerFormat,Sáng tác: {0}
+Common_MusicArrangerFormat,Phối khí: {0}
+Common_MusicDetail,Lời: {0}<br>Sáng tác: {1}
+Common_CardFullName,[{0}] {1}
+Common_CardFullName2Line,[{0}] <br> {1}
+Common_Rare2,Sr
+Common_Rare3,UR
+Common_Rare4,UR
+Common_Present,Quà
+Common_Reward,Phần thưởng
+Common_Receive,Đã nhận {0}.
+Common_Nothing,Không có
+Common_RoleVocal,Giọng hát
+Common_RoleGuitar,Giọng hát
+Common_RoleBass,Bass
+Common_RoleDrum,Trống
+Common_RoleKeyboard,Bàn phím
+Common_RoleSupport,Hỗ trợ
+Common_TypeHeart,Smile
+Common_TypeDiamond,Pure
+Common_TypeSpade,Cool
+Common_MainStory,Cốt truyện chính
+Common_SubStory,Cốt truyện phụ
+Common_EventStory,Cốt truyện sự kiện
+Common_EventPoint,{0} điểm
+Common_EventCurrency_ChallengeLive,{0} cái
+Common_EventCurrency_LiveTry,{0} cái
+Common_EventCurrency_VsLive,{0} người
+Common_EventCurrency_MultiLive,{0} người
+Common_RankingRank,Hạng {0}
+Common_RankingRankOut,Chưa xếp hạng
+Common_CountBadgeOverLimit,{0}+
+Common_SkipUntilNextDay_Zero,Không hiện lại cho đến nửa đêm
+Common_SkipUntilNextDay_Login,Không hiện lại cho đến 4:00 sáng mai
+Common_DoNotDisplayAfter,Không hiện lại cửa sổ này
+Common_Percent,{0}%
+Common_Piece,{0} cái
+Common_All,Tất cả
+Common_Other,Liella!
+Common_XJAPAN,μ's
+Common_LUNASEA,Aqours
+Common_GLAY,Nijigasaki
+Common_GroupOther,Khác
+Common_Grade,Năm {0}
+Common_DifficultyNormal,NORMAL
+Common_DifficultyHard,Khó
+Common_DifficultyExpert,Chuyên gia
+Common_DifficultyMaster,Master
+Common_StatusOfAchievement,Tiến độ
+Common_Achieved,Đã đạt
+Common_NotAchieved,Chưa đạt
+Common_ExpirationDate,Ngày hết hạn
+Button_Close,Đóng
+Button_Ok,OK
+Button_Next,Tiếp theo
+Button_Cancel,Hủy
+Button_Decide,Xác nhận
+Button_Update,Cập nhật
+Button_Retry,Thử lại
+Button_Return,Quay lại
+Button_VoiceOn,Bật giọng nói
+Button_VoiceOff,Tắt giọng nói
+Button_Resume,Tiếp tục Live
+Button_Suspend,Kết thúc Live
+Button_Skip,Bỏ qua
+Button_Restart,Chơi lại Live
+Button_Shop,Cửa hàng
+Button_Home,Trang chủ
+Button_BuyGem,Mua Loveca
+Button_PresentBox,Đến Hộp quà
+Button_Chat,Đến Trò chuyện
+Button_Release,Mở khóa
+Button_Apply,Áp dụng
+Button_Edit,Chỉnh sửa
+DueDate_DialogTitle_PresentBox,Hạn nhận
+DueDate_DialogCaution_PresentBox,* Vật phẩm sẽ mất nếu không nhận kịp thời.
+DueDate_Dialog_ItemNum,SL: {0}
+DueDate_DialogTitle_Item,Vật phẩm sắp hết hạn
+GachaTop_PeriodTime,Đến {0} {1}
+GachaTop_PriceTitle,Chiêu mộ ×{0}
+GachaTop_PriceTitleChargeGem,Scout ×{0} (trả phí)
+GachaTop_PriceTitleFree,Scout miễn phí ×{0}
+GachaTop_Price_Free,Miễn phí
+GachaTop_BuyButton_Balloon_Daily,<color=#f93981>{0}×/ngày</color><br>Đặt lại mỗi ngày lúc 0:00
+GachaTop_BuyButton_Balloon_ReritySR,<color=#f93981>SR+</color><br>Đảm bảo 1!
+GachaTop_BuyButton_Balloon_RerityUR,<color=#f93981>Đảm bảo 1 UR!</color>
+GachaTop_BuyButton_Balloon_BonusItem,Vật phẩm<br>+ Thưởng!
+GachaTop_BuyButton_Balloon_Free,{0} lượt miễn phí!
+GachaTop_BuyButton_Balloon_Limit,Chỉ {0}× trong đợt này!
+GachaTop_LimitDailyOnce,Chỉ 1 lần mỗi ngày
+GachaTop_LimitDailyAny,<color=#FD8E18>{0}×/ngày</color><br>Đặt lại mỗi ngày lúc 0:00
+GachaTop_LimitCountOnce,Chỉ 1 lần
+GachaTop_LimitCountAny,Còn {0}
+GachaTop_LimitDailyOnceCountAny,Còn {0}<br><color=#FD8E18>(1 lần mỗi ngày)</color>
+GachaTop_LimitDailyAnyCountAny,Còn {0}<br><color=#FD8E18>(hôm nay còn {1})</color>
+GachaTop_EnsureRareOnly,Đảm bảo {0} {1}!
+GachaTop_EnsureRareOverContains,Đảm bảo {0}+ {1}!
+GachaTop_LimitOver,Bạn đã đạt giới hạn.
+GachaTop_LimitOverDailyRepeat,Đặt lại vào<br>nửa đêm.
+GachaTop_LimitEnd,Đã dùng hết lượt.
+GachaTop_LimitStepup,Bạn đã đạt giới hạn STEP.
+GachaTop_MemberDetailCaution,* Chỉ số hiển thị ở Thức tỉnh tối đa và Cấp tối đa.<br>* Hiệu ứng kỹ năng hiển thị ở Cấp kỹ năng tối đa.
+GachaTop_MemberDetailPhotoButtonEvolveBefore,Hiện trước Thức tỉnh
+GachaTop_MemberDetailPhotoButtonEvolveAfter,Hiện sau Thức tỉnh
+GachaTop_BannerRemainTimeFormat,<size=85%>Kết thúc sau <size=100%>{0}
+GachaTop_RateFormat,{0}%
+GachaTop_MemberRateFormat,f4
+GachaTop_RarityRateFormat,f2
+GachaTop_Step,STEP {0}
+GachaTop_StepCount,<size=59><color=#f93981>{0}</color><size=32>/{1}
+GachaTop_HasAmount,(Đang có {0})
+GachaTop_LimitDailyOnceChargeGem,Chỉ Loveca trả phí! Đặt lại mỗi ngày lúc 0:00
+GachaTop_BonusReward,{0} + Thưởng!
+GachaTop_RunButtonText,<size=50>{0}<size=32>× Chiêu mộ
+GachaTop_RunButtonDialog_Title,Vé Scout
+GachaTop_RunButtonDialog_TopButton,Vé
+GachaTop_RunButtonDialog_Caution,"* Nếu vé đã hết hạn, bạn không thể chiêu mộ.<br>* Bạn có thể thực hiện Scout đã chọn.<br>* Scout này hoạt động tương tự khi dùng Loveca (Vé Scout 10 lần tương ứng với Scout 10 lần)."
+GachaPlay_DialogOk,OK
+GachaPlay_DialogInfomation,* Vật phẩm vượt quá giới hạn sẽ được gửi vào Hộp quà.
+GachaConfirm_DialogTitle,Xác nhận
+GachaConfirm_Period,Thời gian:
+GachaConfirm_Count,{0}×
+GachaConfirm_TicketText,Dùng {1}× “{0}”<br>để Scout {3}× bằng {2}?
+GachaConfirm_GemText,Dùng {0} Loveca<br>để Scout {2}× ở {1}?
+GachaConfirm_InfoText,Dùng {1} {0}<br>để Scout {2}×?
+GachaConfirm_ConsumeLackText,Không đủ {0}.
+GachaConfirm_Buy,Mua chứ?
+GachaConfirm_Gem,Loveca
+GachaConfirm_ChargeGem,Loveca trả phí
+GachaConfirm_BuyButton,Mua
+GachaConfirm_GachaButton,Chiêu mộ
+GachaResult_RemainingAny,Còn lại
+GachaResult_RemainingDailyAny,Còn lại hôm nay
+GachaResult_TutorialSelectPhoto,Chạm vào thành viên bạn thích.
+GachaResult_GetPoint,"Nhận được {0}pt<font=""FOT-TsukuGoPr5-M SDF""></font>"
+GachaResult_ResultPoint,{0} → {1}
+GachaResult_Exchange,Đổi vật phẩm
+GachaResult_GetOverMemberMessage,"Nếu đã sở hữu thành viên này,<br>bạn sẽ nhận penlight thay thế."
+GachaResult_LimitBreakNoteText,* Một thành viên mới đã tham gia!
+GachaDetail_TabTitle,Chi tiết Scout
+GachaDetail_DialogTitle,Chi tiết Scout
+GachaDetail_Help,Lưu ý
+GachaDetail_GachaInfo,Tổng quan Scout
+GachaDetail_Terms,Period
+GachaDetail_NewMember,Thành viên mới
+GachaDetail_Step,STEP {0}
+GachaRateDetail_TabTitle,Tỷ lệ xuất hiện
+GachaRateDetail_DialogTitle,Chi tiết Scout
+GachaRateDetail_Help,Lưu ý
+GachaRateDetail_RarityRate,Tỷ lệ xuất hiện theo độ hiếm
+GachaRateDetail_RarityRateUnensure,Tỷ lệ xuất hiện {0}
+GachaRateDetail_RarityRateEnsure,Tỷ lệ đảm bảo {0}
+GachaRateDetail_Main,Thành viên chính
+GachaRateDetail_Support,Thành viên hỗ trợ
+GachaRateDetail_RarityRateMember,Thành viên nổi bật
+GachaRateDetail_RarityRateUnensureMember,Thành viên nổi bật {0}
+GachaRateDetail_RarityRateEnsureMember,Thành viên nổi bật {0}
+GachaFixedRateDetail_TabTitle,Tỷ lệ ô thứ 10 (Scout 10×)
+GachaFixedRateDetail_TabTitleStepup,Tỷ lệ ô thứ 10 (Step Scout 10×)
+GachaPickUpMemberDetail_TabTitle,Chi tiết thành viên
+GachaPickUpMemberDetail_DialogTitle,Chi tiết thành viên Pickup
+Consume_HasConsumeName,Đang sở hữu
+Consume_UseConsumeName,Cần
+Consume_PriceTitleChargeGem,Scout {0}×<br>(Chỉ trả phí)
+Consume_InfoOnConsumeMedal ,* Loveca miễn phí sẽ được dùng trước.
+WaitingMemberList_SealNumWordText,Điểm Scout
+WaitingMemberList_SealReplacementShopButton,Đổi vật phẩm
+WaitingMemberList_AllSelectButton,Tất cả
+WaitingMemberList_SelectCharaNumWord,Đã chọn
+WaitingMemberList_SealChangeButton,Chuyển đổi
+WaitingMemberList_EmptyChara,Không có thành viên nào có thể chuyển đổi.
+WaitingMemberList_ItemGetNum,Số lượng nhận được
+WaitingMemberList_CanGetItem,Vật phẩm có thể nhận
+WaitingMemberList_ChangeResultShortMessage,Đã nhận {0} Penlight.
+WaitingMemberList_ChangeDialogTitle,Xác nhận
+WaitingMemberList_ChangeDialogConfirm,Chuyển đổi {0} thành viên trong phòng chờ để nhận {1} Penlight.
+WaitingMemberList_ChangeDialogCharaNumWord,Thành viên
+WaitingMemberList_ChangeDialogSealNumWord,cái
+WaitingMemberList_ChangeDialogTotalSealWord,♪ Seal
+CardIcon_LvWord,Lv.
+CardIcon_SkillLvWord,Skill Lv.
+CardIcon_HpWord,HP:
+CardIcon_EventBonusWord,Bonus:
+CardIcon_EventBonusParam,+{0}%
+CardIcon_BonusParam,<size=20>+</size>{0}%
+CardIcon_UnlockNotJoin,Đã khóa
+Practice_EmptyItem,Bạn không có<br>Lesson Note nào.
+Practice_ExpWord,Còn lại
+Practice_ResetButton,Đặt lại
+Practice_RecommendButton,Auto
+Practice_Max,MAX
+Practice_ItemSelect,Chọn vật phẩm
+Practice_NeedItem,Vật phẩm cần thiết
+Practice_ItemShortageAlert,Bạn không có đủ vật phẩm.
+Practice_LevelMaxAlert,Cấp đã đạt tối đa.
+SkillPractice_EmptyChara,Thao tác này sẽ đổi {0} thành viên dự bị và<br>{1} Penlight.<br>Bạn có chắc không?
+SkillPractice_EmptyItem,Bạn không có<br>Skill Book nào.
+SkillPractice_SamePhotoBonus,Thưởng cùng thành viên
+SkillPractice_SameItemBonus,Thưởng trùng khớp
+SkillPractice_PhotoTab,Phòng chờ
+SkillPractice_ItemTab,Vé
+SkillPractice_HavingTextLavel,Đang có: {0}
+Training_ConfirmDialogTitle,Xác nhận
+Training_ItemConfirmDialogMessage,Thức tỉnh bằng Penlight đã chọn.<br>Bạn chắc chắn chứ?
+Training_CardConfirmDialogMessage,Thức tỉnh bằng Penlight đã chọn.<br>Bạn chắc chắn chứ?
+Training_LackCoinConfirmDialogMessage,[{0}]{1}<br><color=#D73C55>Không đủ Gold để Thức tỉnh</color>
+Training_ItemSettingDialogTitle,Cài đặt vật phẩm tiêu hao
+Training_ItemSettingDialogMessage,Đặt số lượng vật phẩm sẽ dùng.
+Training_NeedCount,Cần
+Training_NeedItem,Vật phẩm cần thiết
+Training_NoSetting,Chưa đặt
+Training_MaxLevelAndStatus,Cấp & chỉ số tối đa
+Training_EmptyChara,Không có thành viên nào có thể Thức tỉnh.
+Training_ItemConfirmDialogLimitNumNote,* Có thể Thức tỉnh tối đa {0} lần.
+Training_ItemAmountOverLimit,{0}+
+Training_SelectThisWay,Chọn cách này
+Training_GoldLack,Không đủ Gold.
+Training_LevelLack,Cấp chưa đạt tối đa.
+Training_AwakeningBefore,Trước Thức tỉnh
+Training_AwakeningAfter,Sau Thức tỉnh
+Training_MaxLv,Cấp tối đa
+Training_AwakenedMaxShortMessage,Đã Thức tỉnh tối đa
+Training_CardEvolveItem,Penlight
+Training_CardEvolveItemSub1,Vật phẩm Thức tỉnh
+Training_CardEvolveItemSub2,Vật phẩm Thức tỉnh
+Training_CardEvolveItemSub3,Vật phẩm Thức tỉnh
+TrainingResult_TrainingTitle,Thức tỉnh hoàn tất
+TrainingResult_TrainingMessage,Đã Thức tỉnh hoàn tất.
+TrainingResult_EpisodeTitle,Thưởng hoàn thành cốt truyện
+TrainingResult_EpisodeMessage,Đã mở khóa cốt truyện của<br>[{0}]{1}.
+StatusUpResult_EpisodeTitle,Thưởng hoàn thành cốt truyện
+StatusUpResult_Message,Chỉ số của {0}<br>đã tăng.
+CardDetail_EpisodeUnlockConfirm,Dùng các vật phẩm sau để mở khóa cốt truyện “{0}”?
+CardDetail_EpisodeUnlockLevel,Điều kiện mở: Cấp thành viên {0}+
+CardDetail_EpisodeUnlockNeedNum,Cần: {0}
+CardDetail_EpisodeUnlockHaveNum,Đang có: {0}
+CardDetail_EpisodeUnlockLackMaterial,<color=#D73C55>Bạn không có đủ nguyên liệu</color>
+CardDetail_EpisodeUnlockLackLevel,<color=#D73C55>Level thành viên quá thấp<br>Hiện tại Lv.{0} / Yêu cầu Lv.{1}</color>
+CardDetail_EpisodeUnlockLackGold,<color=#D73C55>Không đủ Gold</color>
+CardDetail_UnlockEpisodePlayConfirmDialogTitle,Đã mở cốt truyện
+CardDetail_UnlockEpisodePlayConfirmDialogMessage,"Cốt truyện ""{0}"" đã được<br>mở khóa.<br>Bạn có muốn đọc ngay không?"
+CardDetail_EpisodePlayConfirmDialogTitle,Cốt truyện
+CardDetail_EpisodePlayConfirmDialogMessage,Đọc cốt truyện<br>“{0}”?
+CardDetail_ChangeIllustButton,Đổi hình minh họa
+CardDetail_ExpansionButton,Phóng to
+CardDetail_LevelWord,Cấp
+CardDetail_ExpWord,Còn lại
+CardDetail_Max,MAX
+CardDetail_MemberDetailButton,Chi tiết
+CardDetail_PracticeButton,Luyện tập
+CardDetail_TrainingButton,Thức tỉnh
+CardDetail_SkillPracticeButton,Luyện kỹ năng
+CardDetail_CardNormal,Thường
+CardDetail_Favorite,Yêu thích
+CardDetail_Animation,Anime
+CardDetail_Effect,Hiệu ứng
+CardDetail_Status,Chỉ số
+CardDetail_Profile,Hồ sơ
+CardDetail_LevelStatus,Chỉ số cấp độ
+CardDetail_CenterSkill,Center Skill
+CardDetail_Skill,Kỹ năng đặc biệt
+CardDetail_SkillLv,Cấp kỹ năng
+CardDetail_GachaButton,Đến Scout
+CardDetail_SchoolYear,Năm
+CardDetail_Birthday,Sinh nhật
+CardDetail_BloodType,Nhóm máu
+CardDetail_Height,Chiều cao
+CardDetail_CharaVoice,CV
+CardDetail_SchoolYearInput,Năm {0}
+CardDetail_EpisodeUnlockConfirmDialogTitle,Xác nhận mở cốt truyện
+CardDetail_EpisodeRewardDialogTitle,Phần thưởng cốt truyện
+CardDetail_SpecialEpisodeRewardDialogTitle,Phần thưởng cốt truyện đặc biệt
+CardDetail_EpisodeRewardDialogMessage,Bạn đã nhận phần thưởng!<br><color=#D73C55>Có thể nhận phần thưởng từ Hộp quà</color>
+CardDetail_EpisodePlayDialogUseVoiceButton,Có giọng nói
+CardDetail_EpisodePlayDialogNoVoiceButton,Không giọng nói
+CardDetail_CharacterEpisodeLevel,Cốt truyện Lv.{0}
+CardDetail_CardGetCategoryGacha,Scout
+CardDetail_CardGetCategoryEvent,Sự kiện
+CardDetail_CardGetCategoryExchange,Đổi vật phẩm
+CardDetail_CardGetCategoryStory,Cốt truyện
+CardDetail_CardGetCategoryMission,Nhiệm vụ
+CardDetail_CardGetDetailGacha,Có thể nhận trong Scout “{0}”!
+CardDetail_CardGetDetailEvent,Có thể nhận trong sự kiện “{0}”!
+CardDetail_CardGetDetailExchange,Có thể nhận tại Đổi thưởng “{0}”!
+CardDetail_CardGetDetailStory,Có thể nhận trong cốt truyện “{0}”!
+CardDetail_CardGetDetailMission,Có thể nhận qua nhiệm vụ!
+CardDetail_NoticeLevelMaxDisplay,Đang hiển thị chỉ số ở bậc Thức tỉnh và cấp tối đa.
+Album_NotCanGet,Hiện không thể nhận được.
+Album_GachaCanGet,Thành viên có thể nhận qua <color=#DF4444>Scout</color>.
+Album_EventCanGet,Thành viên có thể nhận qua <color=#DF4444>Sự kiện</color>.
+Album_ExchangeCanGet,Thành viên có thể nhận qua <color=#DF4444>Đổi thưởng</color>.
+Album_LoginbonusCanGet,Thành viên có thể nhận qua <color=#DF4444>Thưởng đăng nhập</color>.
+Album_StoryCanGet,Thành viên có thể nhận qua <color=#DF4444>Cốt truyện</color>.
+Album_MissionCanGet,Thành viên có thể nhận qua <color=#DF4444>Nhiệm vụ</color>.
+Album_BeginnerMissionCanGet,Thành viên có thể nhận qua <color=#DF4444>Nhiệm vụ người mới</color>.
+Album_GachaCanNotGet,"Thành viên mới từ ""{0}"".<br>Hiện không thể chiêu mộ trong chiến dịch đang diễn ra."
+Album_EventCanNotGet,"Thành viên mới từ sự kiện ""{0}"".<br>Hiện không thể nhận từ sự kiện hoặc Cửa hàng trao đổi."
+Album_CampaignCanNotGet,Thành viên chiến dịch từ “{0}”.<br>Hiện không thể nhận.
+Album_GachaOkButton,Đến Scout
+Album_EventOkButton,Đến trang Sự kiện
+Album_ExchangeOkButton,Đến Đổi thưởng
+Album_StoryOkButton,Đến Cốt truyện
+Album_TrainingOkButton,Đến Chi tiết thành viên
+Album_MissionOkButton,Đến Nhiệm vụ
+Album_DefaultOkButton,OK
+Album_Empty,Không có album.
+Album_DialogTitle,Sắp xếp Album
+Album_DialogGetTypeWord,Trạng thái sở hữu
+Album_DialogTrainingTypeWord,Trạng thái Thức tỉnh
+Album_DialogGetTypeAll,Tất cả
+Album_DialogGetTypeTitle,Đang sở hữu
+Album_DialogGetTypeUnlock,Đang sở hữu
+Album_DialogGetTypeLock,Chưa sở hữu
+Album_DialogMovieTypeTitle,Video
+Album_DialogMovieTypeHas,Có video
+Album_DialogMovieTypeNot,Không video
+Album_DialogEpisodeTypeTitle,Cốt truyện
+Album_DialogEpisodeTypeHas,Có cốt truyện
+Album_DialogEpisodeTypeNot,Không cốt truyện
+Album_DialogSpPhotoTypeTitle,Ảnh SP
+Album_DialogSpPhotoTypeHas,Có ảnh SP
+Album_DialogSpPhotoTypeNot,Không có ảnh SP
+Album_DialogEvolveTypeAll,Tất cả
+Album_DialogEvolveTypeNotEvolved,Trước Thức tỉnh
+Album_DialogEvolveTypeEvolved,Sau Thức tỉnh
+Album_DialogSortTypeId,Mặc định
+Album_DialogSortTypeUnlock,Theo thời gian nhận
+Album_DialogSortTypeRarity,Độ hiếm
+Album_SIF1_CardSeries,Series
+Album_SIF1_CardOther,Khác
+Album_SIF1_CardTypeNormal,Thường
+Album_SIF1_CardTypeAwakening,Đã Thức tỉnh
+Album_SIF1_HeightExt,{0} cm
+Album_SIF2_AcquiredStatus,Trạng thái sở hữu
+Album_SIF2_AcquiredPercent,{0}%({1}/{2})
+Album_SIF2_MemberSummary,Danh sách thành viên
+Album_SIF2_Profile,Hồ sơ
+Album_SIF2_NonJoining,Chưa sở hữu
+Album_SIF2_NonJoiningToCard,Chưa có thành viên nào tham gia.
+Album_SIF2_NothingToCard,Không có thành viên phù hợp.
+AreaTalkList_AreaOnly,Địa điểm
+AreaTalkList_AreaAndItem,Điều kiện
+AreaTalkList_Empty,Không có Mini Story.
+AreaTalkList_HaveAlbum,Xem lại các Mini Story bạn đã xem!
+AreaTalkList_PlayButton,Xem
+CostumeSelect_DeckTitle,★Trang phục ảnh đội★
+CostumeSelect_DeckInfo,* Đặt mục này sẽ chọn “{0}”<br>làm trang phục mặc định.
+CostumeSelect_SetButton,Đặt
+CostumeSelect_SelectedButton,Đang dùng
+CostumeSelect_UnLockInfoButton,Điều kiện mở khóa
+CostumeSelect_UnLockInfoByFot,Nhận [{0}]{1}
+CostumeSelect_UnLockInfoByCampaign,Nhận {0}
+CostumeSelect_NotSelected,Chưa đặt
+OrnamentShop_EmptyData,Không có vật phẩm nào để mua.
+OrnamentShop_ScrollItemBuyText,Mua
+OrnamentShop_ScrollItemLevelUpText,Tăng cấp
+OrnamentShop_ScrollItemUnlockText,Điều kiện mở khóa
+OrnamentShop_BuyConfirmDialog_ConditionLabel,Yêu cầu
+OrnamentShop_BuyResultDialogTitle_Buy,Mua vật phẩm
+OrnamentShop_BuyResultDialogTitle_LevelUp,Tăng cấp vật phẩm
+OrnamentShop_BuyResultDialogMessage_DoesNotPlace,* Vật phẩm đã mua được gửi vào Kho.
+Chat_NoticeReceive,Bạn đã nhận được tin nhắn.
+Chat_TabChatSummary,Tóm tắt
+Chat_TabChatSolo,Trò chuyện
+Chat_TabChatGroup,Chat nhóm
+Chat_TabCollectionStamp,Sticker
+Chat_TabCollectionAttachment,Ảnh
+Chat_AvailableStamp,Các chat có thể dùng sticker đã chọn
+Chat_AcquiredStamp,Nhận ngẫu nhiên khi hoàn thành bài hát.
+Chat_TalkTagVoice,#Giọng nói
+Chat_TalkInputWait,{0} đang nhập…
+Chat_TalkItemReceive,Nhận
+Chat_TalkItemReceived,Đã nhận
+Chat_TalkItemGet,Bạn đã nhận {0}.
+Chat_TalkLookback,Xem lại cuộc trò chuyện này
+Chat_OrderOfArrival,Gần đây
+Chat_OrderOfPrecedence,Thứ tự sắp xếp
+Chat_NotYetOpen,Chưa có trong chat này.<br>Trao đổi liên hệ để tham gia.
+Chat_NotYetAvailable,Chưa có chat nào có thể dùng sticker này.
+MusicShop_EmptyData,Không có bài hát nào để mua.
+MusicShop_AlreadyBought,Đã mua.
+MusicShop_DetailDialogTitle,Chi tiết bài hát
+MusicShop_BuyConfirmDialogTitle,Xác nhận mua
+MusicShop_BuyConfirmDialogMessage,Mua bài hát này?
+MusicShop_BuyConfirmDialogCostItem,★Vật phẩm cần thiết★
+MusicShop_BuyResultDialogTitle,Mua thành công
+Warehouse_BatchReplaceDialogDecideButton,Xác nhận
+Warehouse_BatchReplaceDialogTitle,Đội hình đề xuất
+Warehouse_BatchReplaceDialogCardTypePriority,Ưu tiên Attribute
+Warehouse_BatchReplaceDialogDeckRolePriority,Ưu tiên nhạc cụ
+Help_DialogTitle,Trợ giúp
+Help_Faq,FAQ
+Help_GameProgress,Cách chơi & thao tác
+Help_BuyGem,Mua Loveca
+Help_TakeOver,Chuyển dữ liệu
+Help_Opinions,Góp ý & yêu cầu
+Help_ButtonFaq,FAQ
+Help_ButtonBuyGem,Lỗi mua Loveca
+Help_ButtonRegardProblems,Liên hệ về<br>lỗi
+Help_ButtonDataRecovery,Liên hệ khôi phục<br>dữ liệu
+Help_ButtonOther,Liên hệ khác
+Help_Notes,Lưu ý
+Help_JumpButton,Mở trang web
+Help_ContactFormCaution,"・Thông thường chúng tôi không trả lời các ý kiến hoặc yêu cầu.<br>・Tùy nội dung câu hỏi, việc điều tra, phản hồi và hỗ trợ có thể mất một thời gian.<br>・Vui lòng kiểm tra mục Trợ giúp, Thông báo và FAQ trước khi liên hệ.<br>・Nếu cần khôi phục dữ liệu, vui lòng liên hệ qua biểu mẫu hỗ trợ.<br>・Chúng tôi không can thiệp vào tranh chấp giữa người chơi.<br>・Bộ phận hỗ trợ này chỉ cung cấp bằng tiếng Nhật.<br>・Chúng tôi không thể cung cấp thông tin hướng dẫn chiến thuật trong game.<br>・Nếu sau 24 giờ bạn chưa nhận được email xác nhận yêu cầu, vui lòng kiểm tra cài đặt email.<br>・Vui lòng cho phép nhận email từ [@bushimo.jp]."
+TermsOfService_DialogTitle,Điều khoản sử dụng
+TermsOfService_Terms,Điều khoản
+TermsOfService_Rights,Bản quyền
+TermsOfService_PrivacyPolicy,Chính sách<br>quyền riêng tư
+TermsOfServiceAgree_Agree,Đồng ý
+TermsOfServiceAgree_NoAgree,Không đồng ý
+TermsOfServiceAgree_Terms,Điều khoản sử dụng / Chính sách quyền riêng tư / Bản quyền & thông báo pháp lý
+TermsOfServiceAgree_PrivacyPolicy,Chính sách quyền riêng tư
+TermsOfServiceAgree_Title,Đồng ý điều khoản dịch vụ
+TermsOfServiceAgree_Message,"Để chơi game, bạn phải<br>đồng ý với Điều khoản sử dụng và<br>Chính sách quyền riêng tư.<br><br>Vui lòng đọc và nhấn ""Đồng ý""."
+TermsOfServiceAgree_DataCaution,"Lưu ý rằng việc khôi phục dữ liệu có thể gặp khó khăn<br>nếu ứng dụng bị xóa khỏi thiết bị do vô tình hoặc chủ ý, hoặc nếu dữ liệu ứng dụng bị mất."
+CacheClear_ConfirmTitle,Xác nhận xóa cache
+CacheClear_ClearingTitle,Đang xóa cache
+CacheClear_ResultTitle,Đã xóa cache
+CacheClear_ConfirmMassage,Xóa cache?<br>Bạn chắc chắn chứ?
+CacheClear_ClearingMassage,Đang xóa cache…<br>Vui lòng chờ đến khi hoàn tất.
+CacheClear_ResultMassage,Đã xóa cache.
+Tw_SelectLanguage_Button,Chọn ngôn ngữ
+Mission_Title,Nhiệm vụ
+Mission_MainTitle,Danh sách nhiệm vụ
+Mission_SubTitle,Nhiệm vụ
+Mission_Progress,{0}<size=-10>/{1}</size>
+Mission_TabMain,Tổng
+Mission_TabDaily,Hằng ngày
+Mission_TabLimited,Giới hạn thời gian
+Mission_MissionNotFound,Hiện không có nhiệm vụ khả dụng.
+Mission_MissionNotFoundDaily,Hiện không có<br>Nhiệm vụ hằng ngày.
+Mission_MissionNotFoundLimited,Hiện không có<br>Nhiệm vụ giới hạn thời gian.
+Mission_ChallengeButton_AcceptReward,Nhận
+Mission_ChallengeButton_Challenge,Thử thách
+Mission_ChallengeButton_Ornament,Đến Kho
+Mission_ChallengeButton_CardDetail,Đến Chi tiết thành viên
+Mission_ChallengeButton_CardDetail_NotHave,Chưa sở hữu thành viên
+Mission_ChallengeButton_CardReinforce,Đến Luyện tập
+Mission_ChallengeButton_CardReinforceSkill,Đến Luyện kỹ năng
+Mission_ChallengeButton_CardEvolve,Đến Thức tỉnh
+Mission_ChallengeButton_Costume,Đến Đổi trang phục
+Mission_ChallengeButton_DeckEdit,Đến Lập đội hình
+Mission_ChallengeButton_DeckTop,Đến trang Nhóm
+Mission_ChallengeButton_EventTop,Đến trang Sự kiện
+Mission_ChallengeButton_Friend,Đến Danh sách bạn bè
+Mission_ChallengeButton_GachaTop,Đến Scout
+Mission_ChallengeButton_MainStory,Đến Cốt truyện chính
+Mission_ChallengeButton_Migration,Chuyển dữ liệu
+Mission_ChallengeButton_MusicSelect,Đến Chọn bài hát
+Mission_ChallengeButton_Line,Thêm bạn
+Mission_ChallengeButton_LiveSelect,Đến Chọn Live
+Mission_ChallengeButton_Photo,Đến Danh sách thành viên
+Mission_ChallengeButton_Profile,Đến Hồ sơ
+Mission_ChallengeButton_Shop,Đến Cửa hàng
+Mission_ChallengeButton_SubStory,Đến Cốt truyện phụ
+Mission_ChallengeButton_TargetMission,Đến Nhiệm vụ mục tiêu
+Mission_ChallengeButton_Twitter,Theo dõi
+Mission_DetailDialog_NoTimeLimit,Không giới hạn thời gian
+Mission_CompleteMisssionGuide,* Vui lòng xem chi tiết để biết thêm.
+Friend_MyFriendTab,Đến Danh sách bạn bè
+Friend_RequestTab,Đã gửi yêu cầu
+Friend_PendingTab,Chờ duyệt
+Friend_FriendSearchTab,Tìm bạn
+Friend_LastLogin,Đăng nhập gần nhất
+Friend_RefineFavoriteFriendButton,Chỉ hiện bạn yêu thích
+Friend_DeleteButton,Xóa bạn
+Friend_RequestCancelButton,Hủy yêu cầu
+Friend_PendingButton,Chấp nhận
+Friend_RejectButton,Từ chối
+Friend_MyFriendEmpty,Bạn chưa có người bạn nào.
+Friend_RequestEmpty,Không có yêu cầu đang chờ.
+Friend_PendingEmpty,Không có người chơi chờ duyệt.
+Friend_FriendSearchEmpty,Không tìm thấy người chơi.
+Friend_SearchButton,Tìm bằng ID
+Friend_SortLastLoginButton,Đăng nhập gần nhất
+Friend_SortRankButton,Hạng
+Friend_IconLeaderTypeButton,Leader
+Friend_IconRecommendTypeButton,Yêu thích
+Friend_SearchDialogTitle,Tìm bằng ID
+Friend_SearchDialogMassage,Vui lòng nhập ID
+Friend_SearchDialogSearchButton,Tìm kiếm
+Friend_Secret,Riêng tư
+Friend_LastLoginMinutes,{0} phút trước
+Friend_LastLoginHour,{0} giờ trước
+Friend_LastLoginDay,{0} ngày trước
+Friend_LastLoginOverMonth,Hơn 31 ngày trước
+Friend_DialogTitle,Tìm bằng ID
+Friend_DialogMessage,Vui lòng nhập ID người chơi
+Friend_DialogLimitNum,Tối đa 12 ký tự
+Title_AppliVersion,Ver {0}
+Title_JasracApple,JASRAC License<br>No. 9014302035Y45112
+Title_JasracGoogle,JASRAC License<br>No. 9014302036Y45112
+Title_NexTone,NEXTONE
+Title_Company,© 2013 Project Love Live!<br>© 2017 Project Love Live! Sunshine!!<br>© 2022 Project Love Live! Nijigasaki High School Idol Club<br>© 2022 Project Love Live! Superstar!! © Bushiroad
+Title_UserId,ID: {0}
+Title_MenuTitle,Menu
+Title_MenuExternalSite,Trang web bên ngoài
+Title_MenuCacheClear,Xóa cache
+Title_MenuGameDataDelete,Xóa dữ liệu game
+NameInput_Name,Họ tên
+NameInput_Ok,OK
+NameInput_Title,Đơn đăng ký thẻ báo chí
+NameInput_Permit1,Gửi Ban điều hành Miracle Live
+NameInput_Petmit2,"Tôi cam kết tuân thủ các điều khoản trong hướng dẫn báo chí của Miracle Live,<br>và xin đăng ký quyền tác nghiệp."
+NameInput_Note1,* Tên người chơi có thể dài tối đa 10 ký tự.
+NameInput_Note2,* Tên này sẽ hiển thị với những người chơi khác trong game.
+NameInput_Note3,* Bạn có thể đổi tên người chơi sau.
+NameInput_ProfileNameInputTitle,Nhập tên người chơi
+NameInput_ProfileNameInputMessage,Vui lòng nhập tên người chơi
+NameInput_ProfileNameInputNote,* Tên người chơi tối đa 10 ký tự.<br>* Tên này sẽ hiển thị với những người chơi khác trong game.<br>* Bạn có thể đổi tên người chơi sau.
+Profile_Secret,Riêng tư
+Profile_SecretLong,Thông tin này sẽ được đặt thành riêng tư.
+Profile_DefaultComment,Rất vui được gặp bạn!
+Profile_RankTitle,<size=24>R</size>ANK
+Profile_ExpTitle,<size=24>E</size>xp
+Profile_CommentTitle,Bình luận
+Profile_RecommenderSelectButton,Chọn yêu thích
+Profile_TitleSelectButton,Chọn danh hiệu
+Profile_PublicSelectButton,Privacy
+Profile_CopyButton,Copy
+Profile_CopyMessage,ID copied
+Profile_PhotoButton,Hiện thành viên
+Profile_FriendRequestButton,Lời mời kết bạn
+Profile_FriendCanNotRequestButton,Không thể gửi lời mời
+Profile_FriendTitleListButton,Danh sách danh hiệu
+Profile_LastLoginTime,Đăng nhập gần nhất:
+Profile_OpenDialogTitle,Cài đặt hiển thị hồ sơ
+Profile_OpenDialogMainDeckParam,Tổng sức mạnh đội hình
+Profile_OpenDialogGroupRank,Hạng nhóm
+Profile_OpenDialogClearLiveNumber,Bài hát đã hoàn thành
+Profile_OpenDialogFullComboLiveNumber,Số bài FULL COMBO
+Profile_OpenDialogAllPerfectLiveNumber,Số bài ALL PERFECT
+Profile_OpenDialogHighScoreRate,Tỷ lệ điểm cao
+Profile_OpenDialogLastLoginDate,Thời gian đăng nhập gần nhất
+Profile_OpenDialogUserId,Player ID
+Profile_OpenDialogGuestMember,Thành viên khách
+Profile_OpenDialogCaution,Bỏ chọn mục này sẽ chuyển thành riêng tư.
+Profile_OpenDialogOpenButton,Public
+Profile_OpenDialogSecretButton,Riêng tư
+Profile_OpenDialogPendingButton,Accepting
+Profile_OpenDialogRejectButton,Từ chối
+Profile_RankDialogTitle,Chi tiết Rank
+Profile_RankMax,Rank của bạn đã đạt tối đa!
+Profile_CommentSettingDialogTitle,Cài đặt bình luận
+Profile_CommentSettingDialogMassage,Vui lòng nhập bình luận
+Profile_CommentSettingDialogLimitNum,Up to {0} characters
+Profile_HighScoreRateDialogTitle,Chi tiết tỷ lệ High Score
+Profile_HighScoreRateDialogTotalHighScore,Tổng tỷ lệ điểm cao
+Profile_HighScoreRateDialogValue,Tỷ lệ điểm cao
+Profile_HighScoreRateDialogEmpty,Không có dữ liệu chơi cho bài hát này.
+Profile_RankListScrollItemGem,Phần thưởng: Loveca {0}
+Profile_RankListScrollItemNone,Phần thưởng: Không có {0}
+Profile_ScoreTitle,Bài hát đã hoàn thành
+Profile_ClearMusicTitle,Bỏ chọn
+Profile_FullComboTitle,FULL COMBO
+Profile_ClimaxPerfectTitle,Climax <br> PERFECT
+Profile_AllPerfectTitle,ALL PERFECT
+Profile_TeacherPointTitle,Tỷ lệ điểm cao
+Profile_ScoreConfirm,Bài hát đã hoàn thành
+Profile_GuestMember,Thành viên khách
+Profile_GuestDetail,Thông tin Guest
+Profile_SettingMember,Đặt thành viên
+Profile_Share,Share
+Profile_ShareMessage,Cùng trở thành school idol với chúng mình nhé! ♪
+Profile_CardEmpty,Không có thành viên.
+Profile_Birthday,Sinh nhật
+Profile_NoBirthday,Chưa đặt
+Profile_BirthdaySettingDialogTitle,Cài đặt sinh nhật
+Profile_BirthdaySettingDialogMessage,Vui lòng nhập ngày sinh
+Profile_BirthdaySettingDialogNote,"* Sau khi đặt, ngày sinh không thể thay đổi.<br>* Bạn sẽ nhận được tin nhắn chat đặc biệt vào ngày sinh nhật.<br>* Không bắt buộc trùng với ngày sinh dùng cho giới hạn mua hàng."
+TitleList_TitleChangeDialogTitle,Xác nhận
+TitleList_TitleChangeDialogText,Đặt danh hiệu này
+TitleList_TitleNoDetailText,Không có mô tả danh hiệu.
+TitleList_TitleListTabNormal,Thường
+TitleList_TitleListTabEvent,Sự kiện
+TitleList_TitleListTabMember,Thành viên
+TitleList_TitleListTabMigration,Liên kết dữ liệu
+TitleList_NoMigrationMessage,Bạn không có danh hiệu Liên kết dữ liệu.
+TitleList_TitleListEmpty,No titles.
+Exchange_Tab_Main,Chính
+Exchange_Tab_Tea,Trà đen
+Exchange_ExpireDateLabel,Hạn trao đổi
+Exchange_ExchangeSelectMessageText,★ Vui lòng chọn Cửa hàng trao đổi ★
+Exchange_SealExchangeHeaderMainTitle,Trao đổi Recruitment Point
+Exchange_PickExchangeHeaderMainTitle,Đổi vật phẩm
+Exchange_TicketExchangeHeaderMainTitle,Trao đổi vé
+Exchange_SoldOutMessage,Đã đạt giới hạn trao đổi.
+Exchange_ExchangeLimitMessage,Không thể trao đổi; bạn đã đạt giới hạn sở hữu.
+Exchange_GetSeal,Nhận Recruitment Point
+Exchange_ShopResetMessage_Daily,Cập nhật hằng ngày lúc 0:00
+Exchange_ShopResetMessage_Weekly,Cập nhật mỗi {0}
+Exchange_ShopResetMessage_Monthly,Cập nhật vào ngày 1 hằng tháng
+Exchange_ResetDayDaily,Hôm nay
+Exchange_ResetDayWeekly,Tuần này
+Exchange_ResetDayMonthly,Tháng này
+Exchange_RemainCount,Còn {0}
+Exchange_ResultMesseage,Exchanged {1} {0}!
+Exchange_ResultCardMesseage,[{1}] Đã chiêu mộ {2} thành viên bằng {0}!
+Exchange_FilterDialogTitle,Lọc trao đổi
+Exchange_FilterDialogCategoryLabel,Lọc theo danh mục
+Exchange_FilterDialogSoldOutLabel,Lọc theo trạng thái nhận
+Exchange_FilterDialogCategoryAll,Tất cả
+Exchange_FilterDialogCategoryStamp,Stamp
+Exchange_FilterDialogCategoryPrimaryItem,Vật phẩm chính
+Exchange_FilterDialogCategoryPhotoSeal,Thành viên
+Exchange_FilterDialogCategoryTicket,Vé
+_FilterDialogDefaultButtonText,Đặt lại<br>mặc định
+Exchange_Name_Exchange,Đổi vật phẩm
+Exchange_Name_Purchase,Mua
+Exchange_Name_LevelUp,Tăng cấp
+Exchange_EmptyData,Không có vật phẩm để {0}.
+Exchange_AmountLabel,{0} Amount
+Exchange_AmountDialogTitle,Bạn muốn {0} bao nhiêu?
+Exchange_AmountDialogMessage,* Thành viên trùng sẽ trở thành Penlight.
+Exchange_ConfirmDialogTitle_Countable,Xác nhận số lượng {0}
+Exchange_ConfirmDialogTitle_Uncountable,{0}?
+Exchange_ResultDialogTitle,{0} Complete
+DeckEdit_RecommendDialogTitle,Đội hình đề xuất
+DeckEdit_RecommendPriorityType,Thuộc tính
+DeckEdit_RecommendPriorityGroup,Nhóm
+DeckEdit_RecommendPrioritySkill,Kỹ năng đặc biệt
+DeckEdit_RecommendTypeAll,Bất kỳ
+DeckEdit_RecommendGroupAll,Bất kỳ
+DeckEdit_RecommendGroupOther,Khác
+DeckEdit_RecommendTypeBonus,Type Bonus
+DeckEdit_RecommendCharacterBonus,Thưởng thành viên
+DeckEdit_RecommendEventBonus,Thưởng sự kiện
+DeckEdit_RecommendSkillAll,Bất kỳ
+DeckEdit_RecommendSkillScore,Tăng điểm
+DeckEdit_RecommendSkillScoreCondition,Tăng điểm có điều kiện
+DeckEdit_RecommendSkillRecovery,HP Restore
+DeckEdit_RecommendSkillEnhanced,Tăng phán định
+DeckEdit_RecommendSkillOther,Khác
+DeckEdit_RecommendCheckCenterFixed,Khóa vị trí Center
+DeckEdit_RecommendCheckBonusApply,Ưu tiên thành viên đã chọn
+DeckEdit_RecommendGroupSelectDialogTitle,Chọn nhóm
+DeckEdit_DefaultBandName,Đội hình {0}
+DeckEdit_TabName,Đội hình {0}
+DeckEdit_StatusPower,LP
+DeckEdit_StatusTotal,Tổng sức mạnh đội hình
+DeckEdit_StatusSoul,Smile
+DeckEdit_StatusTechnic,Pure
+DeckEdit_StatusAppeal,Cool
+DeckEdit_StatusOrnamentBouns,Vật phẩm
+DeckEdit_StatusEventBouns,Sự kiện
+DeckEdit_StatusTypetBouns,Thưởng thuộc tính
+DeckEdit_MainUnitSetButton,Cài đặt Main Unit
+DeckEdit_RecommendEditButton,Đội hình đề xuất
+DeckEdit_ResetButton,Đặt lại
+DeckEdit_OrnamentButton,Vật phẩm
+DeckEdit_TotalParamDetailButton,Chi tiết Tổng sức mạnh
+DeckEdit_EventNothing,Không có bonus<br>ngoài thời gian diễn ra sự kiện.
+DeckEdit_UnitNameDialogTitle,Tên Unit
+DeckEdit_UnitNameDialogMessage,Vui lòng nhập tên đội hình
+DeckEdit_UnitNameDialogLimitNum,Up to 8 characters
+DeckEdit_ClassmateButton,(tạm)
+DeckEdit_ClassmateTotalParam,(tạm)
+DeckEdit_PassiveSkillTotalParam,(tạm)
+DeckEdit_EventBonusMessage,Bonus Event Pt áp dụng theo tổng của tất cả thành viên đã chọn trong đội hình.
+DeckEdit_EventBonusEventPointUp_ChallengeLive,Điểm Sự kiện tăng {0}% trong Miracle Collection!
+DeckEdit_EventBonusTotalPointUp_ChallengeLive,Miracle Collection tăng<br>tổng sức mạnh của các Thành viên đã chọn
+DeckEdit_EventBonusEventPointUp_LiveTry,Điểm Sự kiện tăng {0}% trong Miracle Collection!
+DeckEdit_EventBonusTotalPointUp_LiveTry,Miracle Collection tăng<br>tổng sức mạnh của các Thành viên đã chọn
+DeckEdit_EventBonusTotalPointUp,Bonus thành viên (Tổng sức mạnh thành viên)
+DeckEdit_EventBonusEventPointUp,(Event Pt)
+DeckEdit_EventBonusNoRate,---
+DeckEdit_EventBonusRate,{0}% x {1}
+DeckEdit_EventBonusRateUp,UP!
+DeckEdit_EventBonusInvalidMessage1,Thưởng sự kiện
+DeckEdit_EventBonusInvalidMessage2,Không có thành viên phù hợp.
+DeckEdit_Passive,Kỹ năng bị động
+DeckEdit_LiveRole,(tạm)
+DeckEdit_SupportRole,(tạm)
+DeckEdit_SelectEventDialogTitle,Chọn sự kiện mục tiêu
+DeckEdit_SelectEventDialogText,Hiển thị thông tin bonus sự kiện<br>cho sự kiện đã chọn.
+DeckEdit_SelectEventDialogCaution,Không hiển thị sự kiện không có Event Bonus.
+DeckEdit_ClassmateDisp,Hiện tất cả thành viên
+DeckEdit_TotalParamDetailDialogTitle,Chi tiết Unit
+DeckEdit_CenterSkillRiseValue,Bonus Center Skill
+DeckEdit_EventBonusRiseValue,Tăng Event Bonus
+DeckEdit_UpperArrowValue,↑ {0}
+DeckEdit_SkillLvValue,Lv {0}
+DeckEdit_EventPt,Điểm sự kiện
+DeckEdit_IconBonus,Miracle Star
+DeckEdit_StatusTotalAttention,Đã bao gồm bonus từ Center Skill.
+DeckEdit_PositionEditMessage,Kéo thành viên để đổi vị trí.
+DeckEditCharaSelect_PhotoTotalParam,Tổng sức mạnh thành viên
+LiveMission_DialogTitle,Phần thưởng của {0}
+LiveMission_DialogScoreRank,Hạng điểm
+LiveMission_DialogComboCount,Số Combo
+LiveMission_DialogFullCombo,FULL COMBO
+LiveMission_DialogClearCount,Số lần hoàn thành
+ShopCommon_FreeGem,Loveca miễn phí
+ShopCommon_ChargeGem,Loveca trả phí
+ShopCommon_Price,Price
+GemShop_FundSettlement,Thông báo<br>Luật thanh toán
+GemShop_ServiceGuidelines,Hướng dẫn tiền tệ trong game
+GemShop_MedalGuidelines,Điều khoản sử dụng Loveca
+GemShop_SpecifiedCommercialTransactions,Thông báo<br>Luật thương mại
+GemShop_SpecifiedCommercialTransactions_DialogTitle,Thông báo theo Luật Giao dịch Thương mại Đặc định
+GemShop_FundSettlement_DialogTitle,Thông báo theo Luật Dịch vụ Thanh toán
+GemShop_SpecifiedCommercialTransactions_FundSettlement,Thông báo theo Luật Giao dịch Thương mại Quy định / Luật Dịch vụ Thanh toán
+GemShop_BuyComplete,Mua thành công!
+GemShop_BuyCompleteMessage,Purchased {1} {0}.
+GemShop_Confirm,Xác nhận
+GemShop_BuyStaminaMessage,Dùng {0} Loveca để hồi {1} LP?<br>Bạn có chắc không?
+GemShop_BuyStaminaCompleteTitle,Hồi LP
+GemShop_BuyStaminaCompleteMessage,Recovered {0} LP!
+GemShop_AgeConfirm,Xác nhận độ tuổi
+GemShop_AgeMessage,Vui lòng nhập ngày sinh để xác minh độ tuổi.
+GemShop_AgeNote,* Không thể thay đổi ngày sinh sau này.
+GemShop_AgeMaxMessage,* Dưới 16 tuổi: tối đa ¥5.000/tháng (đã gồm thuế)<br>* 16-17 tuổi: tối đa ¥10.000/tháng (đã gồm thuế)<br>* Từ 18 tuổi: không giới hạn
+GemShop_AgeNote1617,Ages 16-17:
+GemShop_AgeNote16,Under 16:
+GemShop_LimitOverMessage,Bạn đã đạt giới hạn chi tiêu nên không thể mua thêm trong tháng này.
+GemShop_LimitAlertOver,Tổng mua Loveca tháng này<br>đã vượt {0} yên.
+GemShop_LimitAlert,Giao dịch này sẽ khiến tổng mua<br>Loveca tháng này vượt {0} yên.
+GemShop_PurchaseConfirm,Purchase {0}?
+GemShop_AgeSelectedTitle,Xác nhận đăng ký độ tuổi
+GemShop_AgeSelectedContents,Ngày sinh hiển thị bên dưới có đúng không?
+GemShop_AgeSelectedConfirm,* Không thể thay đổi ngày sinh sau này.
+GemShop_AgeDecisionContents,Tôi đã xác nhận độ tuổi.
+GemShop_AgeDecisionContentsFormat,Đã xác nhận độ tuổi.
+GemShop_AgeDecisionLimitLabel,{0}: Tối đa ¥{1} mỗi tháng
+GemShop_AgeDecision,Thiết lập hoàn tất.
+GemShop_Monthly,Monthly
+GemShop_AlertMessage,Giao dịch này sẽ khiến chi tiêu tháng này vượt {0} yên. Vẫn tiếp tục?
+GemShopItem_LimitBuyAmount,Còn {0}
+GemShopItem_LimitDate,Đến {0}
+GemShopItem_Amount,{0}
+GemShopItem_LimitAmount,{0} more
+GemShopItem_GemAmount,{0} Loveka
+GemShopItem_Omake,<br><size=22><color=#F93981>+{0} Loveca miễn phí
+GemShopItem_Charge,Loveca trả phí x{0}
+GemShopItem_Free,Loveca miễn phí x{0}
+GemShopItem_Money,\ {0}
+GemShopItem_Increase,+{0} Bonus
+GemShopItem_Period,Thời gian bán
+GemShopItem_Season,{0} ~ {1}
+GemShopItem_TicketInfo,* Bạn sẽ không nhận Loveca vào ngày không đăng nhập.<br>* Vật phẩm ngoài Loveca sẽ được gửi vào Hộp quà.<br>* Loveca được cấp trực tiếp khi đăng nhập và cộng vào số đang có.<br>* Thưởng đăng nhập có thể nhận từ 0:00 ngày sau khi mua.
+GemShopItem_TicketBuyInfo,<color=#D73C55>Đã mua</color><br>Hết hạn: {0}
+GemShopItem_TicketRemainPresent,Quà mỗi ngày một lần<br><color=#D73C55>Còn {0}</color>
+GemShopItem_ChargeGemComfirm,Dùng {0} Loveca để mua {1}.<br>Vật phẩm này chỉ có thể mua bằng Loveca trả phí.
+GemShopItem_FreeGemComfirm,Dùng {0} Loveca để mua {1}.<br>Loveca miễn phí sẽ được dùng trước.
+GemShopItem_SubscriptionButton_MembersCard,Xem thẻ thành viên
+GemShopItem_SubscriptionButton_Buy,Mua
+GemShopItem_SubscriptionButton_Info,Chi tiết
+GemShopItem_Membership_CardNo,Member No.
+GemShopItem_Membership_CardStart,Ngày tham gia
+GemShopItem_Membership_CardChangeButton,Đổi<br>thiết kế
+GemShopItem_Membership_WallpaperTitle,Đổi thiết kế thẻ thành viên
+GemShopItem_Membership_WallpaperAlert,* Thay đổi chỉ áp dụng sau khi nhấn nút Xác nhận.
+GemShopItem_Membership_WallpaperSelected,Đang dùng
+GemShopItem_Membership_WallpaperUsing,Đang dùng
+GemShopItem_Membership_WallpaperDecide,Xác nhận
+GemShopItem_Membership_WallpaperNotice,Đã đổi thiết kế thẻ thành viên.
+GemShopItem_Membership_InfoTitle,Chi tiết
+GemShopItem_Membership_InfoTabSummary,Tổng quan
+GemShopItem_Membership_InfoTabLoginBonus,Thưởng đăng nhập
+GemShopItem_Membership_InfoTabMission,Thử thách
+GemShopItem_Membership_InfoSummaryTitle,Tổng quan MIRACLE Pass
+GemShopItem_Membership_InfoSummaryUnsubscribe,Hủy
+GemShopItem_Membership_InfoLoginBonusTitle,Thưởng đăng nhập đặc biệt cho MIRACLE Pass!
+GemShopItem_Membership_InfoLoginBonusDescription,Nhận khi có MIRACLE Pass! Đăng nhập 20 ngày để nhận tối đa 1.000 Loveca miễn phí!<br>* Có hiệu lực từ ngày sau khi đăng ký.
+GemShopItem_Membership_InfoLoginBonusDayCount,Days
+GemShopItem_Membership_InfoLoginBonusDayCountFormat,Ngày {0}
+GemShopItem_Membership_InfoLoginBonusGotItem,Vật phẩm nhận được
+GemShopItem_Membership_InfoLoginBonusStatus,Chỉ số
+GemShopItem_Membership_InfoLoginBonusClear,Đã nhận
+GemShopItem_Membership_InfoLoginBonusNotClear,Chưa đạt
+GemShopItem_Membership_InfoMissionTitle,Thử thách đặc biệt cho MIRACLE Pass!
+GemShopItem_Membership_InfoMissionDescription,Hoàn thành mọi thử thách để nhận tối đa 1.500 Loveca miễn phí!<br>* Vui lòng hoàn thành trước khi thời hạn kết thúc ít nhất 48 giờ.
+GemShopItem_Membership_InfoMissionClearCount,Số lần Clear bài hát
+GemShopItem_Membership_InfoMissionClearCountFormat,Clear {0} lần
+GemShopItem_Membership_InfoMissionGotItem,Vật phẩm nhận được
+GemShopItem_Membership_InfoMissionStatusProgress,In Progress
+GemShopItem_Membership_InfoMissionStatusClear,Bỏ chọn
+GemShopItem_Membership_InfoMissionStatusReceived,Đã nhận thưởng
+GemShopItem_Membership_InfoMissionButton,To Challenges
+ConfirmMedal_Gem,Kiểm tra số dư Loveca
+ConfirmMedal_Log,Chi tiết Loveca
+ConfirmMedal_ChargeGemReason,Purchased [{0}]
+DeckConfirm_LiveStartWarning,Bạn phải xếp đủ 9 thành viên vào Unit để bắt đầu Live.<br>Vui lòng thiết lập đội hình.
+DeckConfirm_StaminaUse,{0} used
+DeckConfirm_AutoBurstDialogTitle,Cài đặt tự dùng Skip Ticket
+DeckConfirm_LiveBurstDialogTitle,Cài đặt LP tiêu hao
+DeckConfirm_UseBurstDialogTitle,Cài đặt dùng Burst
+DeckConfirm_UseBurstDialogBurstSetting,Cài đặt Burst mặc định
+DeckConfirm_UseBurstDialogThisTimeBurst,Burst dùng lần này
+DeckConfirm_UseBurstDialogAutoDescription,Dùng Skip Ticket sẽ bắt đầu Skip Play.
+DeckConfirm_UseBurstDialogBurstWarning,* Skip Ticket hết hạn sớm nhất sẽ được dùng trước.<br>* Chỉ có thể dùng Skip Ticket cho bài hát và độ khó đã hoàn thành.
+DeckConfirm_UseBurstDialogAutoWarning,* Skip Ticket hết hạn sớm nhất sẽ được dùng trước.<br>* Chỉ có thể dùng Skip Ticket cho bài hát và độ khó đã hoàn thành.
+DeckConfirm_NoBurst,Chưa sở hữu
+DeckConfirm_CanNotUsedNoBurst,Không thể dùng (chưa sở hữu)
+DeckConfirm_CanNotUsedNoClear,Không thể dùng (bài hát chưa Clear)
+DeckConfirm_CanNotUsedNoClearShort,Chưa Clear nên không thể dùng
+DeckConfirm_LiveParam,Giá trị Live
+DeckConfirm_AutoParam,Giá trị Auto
+DeckConfirm_EventPointGet,Điểm sự kiện
+DeckConfirm_EventGachaPointGet,Recruit (Box) Pt nhận được
+DeckConfirm_ItemAndExpGet,Phần thưởng / EXP
+DeckConfirm_Magni,x
+DeckConfirm_StaminaBoostNotSelect,Đặt
+DeckConfirm_StaminaBoostSelect,Đặt
+DeckConfirm_StaminaBoostWarning,"* Nếu số đang có ít hơn mức cài đặt, toàn bộ số đang có sẽ được dùng."
+DeckConfirm_StaminaBoostAutoWarning,* Auto Play không ghi High Score hoặc phần thưởng nhiệm vụ.
+DeckConfirm_Note,"LP của bạn đang là 0,<br>nên không thể Skip.<br>Để hồi LP,<br>vui lòng chọn cách hồi."
+DeckConfirm_OptionButton,Options
+DeckConfirm_HealthyBoostButton,LP
+DeckConfirm_StartButton,Bắt đầu Live
+DeckConfirm_AutoOn,Auto: ON
+DeckConfirm_AutoOff,Auto: OFF
+DeckConfirm_Passive,Kỹ năng bị động
+DeckConfirm_LiveRole,Vai trò Live
+DeckConfirm_SupportRole,Vai trò hỗ trợ
+DeckConfirm_EventBonusTotalPointUp,Bonus thành viên     (Tổng sức mạnh thành viên)
+DeckConfirm_EventBonusEventPointUp,(Event Pt)
+DeckConfirm_EventBonusNoRate,---
+DeckConfirm_EventBonusRate,{0}%
+DeckConfirm_EventBonusRateUp,UP!
+DeckConfirm_EventBonusInvalidMessage1,Thưởng sự kiện
+DeckConfirm_EventBonusInvalidMessage2,Không có thành viên phù hợp.
+DeckConfirm_LiveBonusTypePointUp,Type Bonus     (Tổng sức mạnh thành viên)
+DeckConfirm_LiveBonusRate,{0}% x{1}
+DeckConfirm_LiveBonusRateUp,UP!
+DeckConfirm_EventCandyAmount,{0}/{1}
+DeckConfirm_LiveConditionButton,Điều kiện Live
+DeckConfirm_LiveConditionDialogTitle,Điều kiện Live
+DeckConfirm_LiveConditionDialogCondition,Điều kiện tham gia Live
+DeckConfirm_LiveConditionDialogRule,Luật Live
+DeckConfirm_LiveConditionDialogErrorMessage,Không thể tham gia vì<br><color=#ff0000>điều kiện tham gia Live</color> chưa được đáp ứng.
+Story_MainStoryFirstSeason,Mùa 1
+Story_MainStorySecondSeason,Mùa 2
+Story_SeasonChapterNumberFormat,#{0} - {1}
+Story_ChapterNumberFormat,#{0}
+Story_TitleWithChapterNumberFormat,"{0} Ep. {1} ""{2}"""
+Story_ReleaseTitleWithChapterNumberFormat,"{0}<br>Ep. {1} ""{2}"""
+Story_StoryTopHeaderMainTitle,Trang cốt truyện
+Story_StoryTopHeaderSubTitle,Cốt truyện
+Story_MainStoryListHeaderMainTitle,Chọn cốt truyện
+Story_MainStoryListHeaderSubTitle,Cốt truyện chính
+Story_SubStoryTopHeaderMainTitle,Chọn nhóm
+Story_SubStoryTopHeaderSubTitle,Cốt truyện phụ
+Story_SubStoryListHeaderMainTitle,Chọn cốt truyện
+Story_SubStoryListHeaderSubTitle,Cốt truyện phụ
+Story_EventStoryTopHeaderMainTitle,Chọn sự kiện
+Story_EventStoryTopHeaderSubTitle,Cốt truyện sự kiện
+Story_EventStoryListHeaderMainTitle,Chọn cốt truyện
+Story_EventStoryListHeaderSubTitle,Cốt truyện sự kiện
+Story_CardStoryTopHeaderMainTitle,Chọn thành viên
+Story_CardStoryTopHeaderSubTitle,Cốt truyện
+Story_CardStoryListHeaderMainTitle,Chọn cốt truyện
+Story_CardStoryListHeaderSubTitle,Cốt truyện
+StoryPart_NumberFormat,Ep. {0}
+StoryPart_TitleWithNumberFormat,Tập {0} “{1}”
+StoryPart_TitleWithNumberTranslucentFormat,"<color=#804B413C>Ep. {0} ""{1}""</color>"
+StoryPart_TitleListWithNumberFormat,Ep. {0}-{1}
+StoryPart_SeasonChapterNumberFormat,#{0}-{1}-{2}
+StoryPart_ChapterNumberFormat,#{0} - {1}
+StoryPart_TitleWithChapterNumberFormat,Tập {0} “{1}”
+StoryPart_RankReleaseDetailFormat,Đạt hạng {0}
+StoryPart_GroupRankReleaseDetailFormat,Đạt Tổng Group Rank {0}
+StoryPart_LiveReleaseDetailFormat,Clear {0} với<br>  điểm từ {1} trở lên
+StoryPart_MissionReleaseDetailFormat,"Hoàn thành nhiệm vụ ""{0}"""
+StoryPart_ReleaseInfo,Chơi game và tăng Rank!
+StoryPart_NotRelease,Đang khóa hoặc bạn chưa đọc cốt truyện trước.
+SubStory_GroupRankRewardDialogTitle,Phần thưởng Group Rank
+SubStory_GroupRankRewardDialogUntilRankUp,Đến Rank Up
+SubStory_GroupRankRewardDialogTotalExp,Tổng EXP
+SubStory_GroupRankRewardDialogRank,Hạng
+SubStory_GroupRankRewardDialogMax,MAX
+ConfirmMedal_DialogTitle,Số dư Loveca
+ConfirmMedal_ChargeMedal,Trả phí
+ConfirmMedal_FreeMedal,Miễn phí
+ConfirmMedal_TotalMedal,Tổng Loveca
+ConfirmMedal_Warning,* Loveca miễn phí được dùng trước.
+ConfirmMedal_UpdateHistory,Cập nhật
+ConfirmMedal_HistoryTitle,Chi tiết Loveca
+ConfirmMedal_UsedHistoryTitle,Lịch sử sử dụng
+ConfirmMedal_AcquiredHistoryTitle,Lịch sử nhận
+ConfirmMedal_HistoryDate,Ngày & giờ
+ConfirmMedal_HistoryReason,Purpose
+ConfirmMedal_HistoryNote,* Lịch sử Loveca hiển thị tối đa 3 tháng gần nhất.
+ConfirmMedal_HistoryFreeMedal,Miễn phí
+ConfirmMedal_HistoryChargeMedal,Trả phí
+Ornament_EffectValueFormat,<color=#D73C55>{0:0.##}%</color>
+Ornament_UnlockDetail_GroupLevelReward,Mở khóa khi {0} Group Rank đạt {1}.
+Ornament_UnlockDetail_StoryPartReward,Xem cốt truyện<br>{0}<br>để mở khóa.
+Ornament_UnlockDetail_MissionReward,Hoàn thành nhiệm vụ<br>{0}<br>để mở khóa.
+Ornament_PlaceButton,Place
+Ornament_CannnotPlace,Không thể đặt.
+Ornament_TalkUnlockLevel,Mở khóa ở Level <color=#D73C55>{0}</color>
+Ornament_TeaSetLevelUpConditionLabel,▼ Điều kiện tăng Level
+Ornament_ReplaceDialog_OrnamentType,★ {0} ★
+Ornament_EventEffectDetail,"{0} khi chơi ""{3}"" trong ""{2}""<br>({1} ngoài Live mục tiêu)"
+StaminaCharge_NoChargeItem,* Bạn không có LP Candy.
+StaminaCharge_RecoveryConfirmDialogTitle,Hồi LP
+StaminaCharge_RecoveryConfirmDialogMessage,Dùng vật phẩm đã chọn để hồi {0} LP?
+StaminaCharge_RecoveryConfirmDialogWarningNoItem,* Bạn không có vật phẩm hồi LP.
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit1,* Không thể hồi LP khi đang vượt LP tối đa.
+StaminaCharge_RecoveryConfirmDialogWarningOverLimit2,* LP trên 999 được hiển thị là 999+.
+StaminaCharge_Special_Commercial_Code,Thông báo theo Luật Giao dịch Thương mại Quy định / Luật Dịch vụ Thanh toán
+StaminaCharge_RecoveryFrequency,Recover {0}
+StaminaCharge_StaminaLabel,LP
+StampTab_DefaultStamp,Stamp cơ bản
+StampTab_RareStamp,Stamp giới hạn
+StampTab_HistoryStamp,History
+StampTab_FavoriteStamp,Yêu thích
+NotExistsStamp_DefaultStamp,Không có Stamp cơ bản!
+NotExistsStamp_RareStamp,Bạn không sở hữu Stamp giới hạn nào.
+NotExistsStamp_HistoryStamp,Không có lịch sử Stamp.
+NotExistsStamp_FavoriteStamp,Bạn chưa đặt Stamp yêu thích.
+NotExistsStamp_RareStampSub,Stamp giới hạn có thể nhận từ sự kiện và nhiều nguồn khác.
+NotExistsStamp_HistoryStampSub,Dùng Stamp sẽ lưu vào lịch sử.
+NotExistsStamp_FavoriteStampSub,Bạn có thể đặt Stamp yêu thích ở màn hình chọn Live.
+MemberIllustrateList_SelectCharaMessage,★ Chọn thành viên ★
+MemberCharaTop_CostumeChange,Đổi trang phục
+MemberCharaTop_Profile,Hồ sơ
+MemberCharaTop_AriaTalk,Mini-Story
+MemberCharaTop_Album,Album
+LiveSelect_UseStaminaBoost,Live at {0}
+LiveSelect_NoneStaminaBoost,Live at 0
+LiveSelect_Note,"Để hồi LP,<br>vui lòng chọn cách hồi."
+LiveSelect_Title,LP Check
+LiveSelect_SettingStaminaNum,LP tiêu hao
+LiveSelect_HasStaminaNum,Đang sở hữu
+LiveSelect_NoItem,Không có
+LiveSelect_PenaltyTitle,Tính năng bị hạn chế
+LiveSelect_PenaltyMessage,Đã phát hiện hành vi gây ảnh hưởng đến người chơi khác trong Co-op Live.<br>Một số tính năng của bạn tạm thời bị hạn chế.<br>Vui lòng chờ đến khi hạn chế được gỡ bỏ.
+LiveSelect_PenaltyUnlockTime,Đến khi gỡ hạn chế
+LiveSelect_Belonging,Items
+LiveSelect_Medal,Loveca
+LiveSelect_ConsumEventStamina,Miracle Star đã dùng: {0}
+LiveSelect_EventTerm,Thời gian sự kiện:
+LiveSelect_EventRankingAll,Overall
+LiveSelect_EventRankingGroup,By Group
+LiveSelect_EventRank,Hạng
+LiveSelect_HasEventCandy,Miracle Star đang có
+LiveSelect_HasEventPick,Đang sở hữu
+LiveSelect_HasEventTicket,Đang sở hữu
+LiveSelect_EventCurrencyCandy,cái
+LiveSelect_EventCurrencyPick,cái
+LiveSelect_EventCurrencyTicket,tickets
+LiveSelect_EventAcquisitionCandy,(Tạm) Có thể sử dụng!
+LiveSelect_EventAcquisitionPick,(Tạm) Có thể sử dụng!
+LiveSelect_EventAcquisitionTicket,(Tạm) Có thể sử dụng!
+LiveSelect_EventCandyInfo,Thu thập và chơi Event Live!
+LiveSelect_EventPickInfo,Thu thập (dummy) rồi đến Cửa hàng trao đổi!
+LiveSelect_EventTopPickInfo,Kiểm tra thẻ BINGO!
+LiveSelect_EventTicketInfo,Thu thập (dummy) rồi quay gacha!
+LiveSelect_EventTopTicketInfo,Kiểm tra Co-op Mission!
+LiveSelect_TeacherLive,(Dummy) Live
+LiveSelect_EventTermTitle,Thời gian sự kiện:
+LiveSelect_EventResultTermTitle,Thời gian công bố kết quả:
+LiveSelect_EventOpenLabel,Sự kiện đang diễn ra
+LiveSelect_EventCloseLabel,Sự kiện đã kết thúc
+LiveSelect_EventRemainDay,Còn {0} ngày đến khi sự kiện kết thúc
+LiveSelect_EventRemainTime,Còn {0}:{1:D2} đến khi sự kiện kết thúc
+LiveSelect_EventRankingAggregate,Đang tổng hợp xếp hạng...
+LiveSelect_Aggregate,Tallying...
+LiveSelect_NowRankingAgreegating,Xếp hạng hiện đang được tổng hợp.
+LiveSelect_EventRewardGetTime,Thời gian nhận thưởng: {0}
+LiveSelect_EventClose,Sự kiện đã kết thúc.
+LiveModeSelect_SoloLiveButton,Live Solo
+LiveModeSelect_MultiLiveButton,Live Co-op
+LiveModeSelect_MultiUnitSettings,Đội hình<br>Co-op
+Migration_TakeOver,Chuyển dữ liệu
+Migration_IssueInfo,Thiết lập chuyển dữ liệu bên dưới để mang dữ liệu sang khi đổi thiết bị.<br>Điều này cũng giúp bảo vệ dữ liệu nếu ứng dụng bị xóa.
+Migration_IssueInfoNote,* Hãy kiểm tra kỹ các bước trước khi chuyển dữ liệu.
+Migration_Details,Chi tiết chuyển dữ liệu
+Migration_IssueNote,"Khi chuyển giữa các hệ điều hành khác nhau, Loveca trả phí sẽ được chuyển thành Loveca miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Loveca trả phí được giữ nguyên.<br>Trước khi chuyển sang hệ điều hành hoặc tài khoản cửa hàng khác, vui lòng tự hủy MIRACLE Pass trước.<br>Việc đăng ký MIRACLE Pass nhiều lần hoặc trùng lặp sẽ không cấp quyền lợi trùng lặp."
+Migration_IssueNote2,"Chuyển dữ liệu sẽ xóa dữ liệu game trên thiết bị này và ghi đè bằng dữ liệu từ thiết bị nguồn.<br>Khi chuyển giữa các hệ điều hành khác nhau, Loveca trả phí sẽ được chuyển thành Loveca miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Loveca trả phí được giữ nguyên.<br>Trước khi chuyển sang hệ điều hành hoặc tài khoản cửa hàng khác, vui lòng tự hủy MIRACLE Pass trước.<br>Việc đăng ký MIRACLE Pass nhiều lần hoặc trùng lặp sẽ không cấp quyền lợi trùng lặp."
+Migration_Process,Chi tiết chuyển dữ liệu
+Migration_Setting,Cài đặt chuyển dữ liệu
+Migration_SettingsInfo,Vui lòng đặt mật khẩu cho việc chuyển dữ liệu.
+Migration_ID,Transfer ID
+Migration_Password,Password
+Migration_PasswordNote,* 8-32 ký tự chữ và số half-width
+Migration_DispPassword,Hiện mật khẩu khi nhập
+Migration_SettingsButton,Đặt
+Migration_Complete,Thiết lập chuyển dữ liệu hoàn tất
+Migration_CompleteInfo,"Chuẩn bị chuyển dữ liệu đã hoàn tất.<br>Sau khi cài ứng dụng trên thiết bị mới, vào 'Chuyển dữ liệu' trong menu góc trên bên phải màn hình tiêu đề<br>và nhập Transfer ID cùng mật khẩu."
+Migration_IDCopy,Đã sao chép!
+Migration_CompleteNote,"* Đây là thông tin quan trọng, tuyệt đối không chia sẻ với người khác.<br>* Hãy ghi chú hoặc chụp màn hình để lưu lại.<br>* Bạn có thể đổi mật khẩu sau."
+Migration_Migration,Thực hiện chuyển dữ liệu
+Migration_MigrationInfo,Vui lòng chọn phương thức chuyển dữ liệu đã thiết lập.
+Migration_MigrationInfo2,Nhập Transfer ID và mật khẩu.
+Migration_MigrationInfo3,Thiết lập chuyển dữ liệu bên dưới để mang dữ liệu sang khi đổi thiết bị.<br>Điều này cũng giúp bảo vệ dữ liệu nếu ứng dụng bị xóa.
+Migration_MigrationNote,"Chuyển dữ liệu sẽ xóa dữ liệu game trên thiết bị này và ghi đè bằng dữ liệu từ thiết bị nguồn.<br><color=#C12424>Khi chuyển giữa các hệ điều hành khác nhau, Loveca trả phí sẽ được chuyển thành Loveca miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Loveca trả phí được giữ nguyên.<br>Trước khi chuyển sang hệ điều hành hoặc tài khoản cửa hàng khác, vui lòng tự hủy đăng ký MIRACLE Pass trước.</color>"
+Migration_MigrationNote2,"Chuyển dữ liệu sẽ xóa dữ liệu game trên thiết bị này và ghi đè bằng dữ liệu từ thiết bị nguồn.<br><color=#C12424>Khi chuyển giữa các hệ điều hành khác nhau, Loveca trả phí sẽ được chuyển thành Loveca miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Loveca trả phí được giữ nguyên.<br>Trước khi chuyển sang hệ điều hành hoặc tài khoản cửa hàng khác, vui lòng tự hủy MIRACLE Pass trước.<br>Việc đăng ký MIRACLE Pass nhiều lần hoặc trùng lặp sẽ không cấp quyền lợi trùng lặp.</color>"
+Migration_MigrationNoteConfirm,"Chuyển dữ liệu sẽ xóa dữ liệu game trên thiết bị này và ghi đè bằng dữ liệu từ thiết bị nguồn.<br><color=#C12424>Khi chuyển giữa các hệ điều hành khác nhau, Loveca trả phí sẽ được chuyển thành Loveca miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Loveca trả phí được giữ nguyên.<br>Trước khi chuyển sang hệ điều hành hoặc tài khoản cửa hàng khác, vui lòng tự hủy MIRACLE Pass trước.<br>Việc đăng ký MIRACLE Pass nhiều lần hoặc trùng lặp sẽ không cấp quyền lợi trùng lặp.</color>"
+Migration_MigrationConfirm,Xác nhận chi tiết chuyển dữ liệu
+Migration_MigrationData,Dữ liệu game sẽ chuyển
+Migration_MigrationDeleteData,Dữ liệu trên thiết bị này
+Migration_UserID,User ID
+Migration_UserName,Tên người chơi
+Migration_Rank,Rank người chơi
+Migration_ChargeMedal,Loveca trả phí
+Migration_FreeMedal,Loveca miễn phí
+Migration_MigrationButton,Chuyển dữ liệu
+Migration_MigrationFinalConfirm,Xác nhận cuối
+Migration_MigrationFinalConfirmInfo,"Thực hiện chuyển dữ liệu sẽ xóa dữ liệu game trên thiết bị này,<br>và ghi đè bằng dữ liệu game từ thiết bị nguồn.<size=29><br><br><color=#C12424>Khi chuyển giữa các hệ điều hành khác nhau, Loveca trả phí sẽ được chuyển thành Loveca miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Loveca trả phí được giữ nguyên.<br>Trước khi chuyển sang hệ điều hành hoặc tài khoản cửa hàng khác, vui lòng tự hủy MIRACLE Pass trước.<br>Việc đăng ký MIRACLE Pass nhiều lần hoặc trùng lặp sẽ không cấp quyền lợi trùng lặp.</size></color>"
+Migration_MigrationFinalConfirmNote,<color=#C12424>Bạn có chắc muốn chuyển dữ liệu?</color>
+MemberList_DialogTitle,Đổi Favorite Member
+MemberList_DialogConfirm,Đổi Favorite Member?
+MemberList_ChangeButton,Có
+MemberList_PhotoBoxButton,Phòng chờ
+MemberList_TypeBonus,Thưởng thuộc tính
+MemberList_MemberBonus,Thưởng thành viên
+MemberList_TypeAndMemberBonus,Attribute / Member Bonus
+MemberList_FilteringButton,Bộ lọc
+MemberList_SortButton,Sắp xếp
+MemberList_ThumbnailSize,Kích thước thumbnail
+MemberList_Change,Thay đổi
+MemberList_Small,S
+MemberList_Big,L
+MemberList_SizeChangeDialogTitle,Đổi kích thước thumbnail
+MemberList_SizeChangeDialogMessage,Vui lòng chọn kích thước thumbnail.
+Option_ResetToDefaultButton,Đặt lại
+Option_LiveScreenPreview,Xem trước màn hình Live
+Option_Live_Title,Cài đặt Live
+Option_Live_ConfirmBeforeLive,Hiện xác nhận tùy chọn trước Live
+Option_Live_RhythmIconSpeed_Title,Tốc độ Rhythm Icon
+Option_Live_RhythmIconSize_Title,Kích thước Rhythm Icon
+Option_Live_LaneLength,Vị trí Rhythm Icon
+Option_Live_ComboPosition,Vị trí hiển thị COMBO
+Option_Live_InputResultPosition,Vị trí hiển thị phán định
+Option_Live_SkillEffectTextView,Hiện hiệu ứng Skill
+Option_Live_CenterIcon,Thu nhỏ Center Icon
+Option_Live_PositonCenter,Center
+Option_Live_PosiionUpper,Trang đầu
+Option_Live_BluetoothConnectionState_Title,Bluetooth ™
+Option_Live_BluetoothConnectionState_On,Connected
+Option_Live_BluetoothConnectionState_Off,Chưa kết nối
+Option_Live_TapTiming_Title,Điều chỉnh Timing
+Option_Live_TapTiming_Left_Title,Bên trái
+Option_Live_TapTiming_Right_Title,Bên phải
+Option_Live_TapTiming_Center_Title,Center Icon
+Option_Live_TapTiming_Left_Button,Căn trái
+Option_Live_TapTiming_Right_Button,Căn phải
+Option_Live_TapTiming_Normal_Title,Thường
+Option_Live_TapTiming_Bluetooth_Title,Khi kết nối qua Bluetooth™
+Option_Live_TapTiming_Button,Điều chỉnh Tap
+Option_Live_TapTiming_TestLive,Test Live
+Option_Live_LongPressLineDepth_Title,Độ mờ Hold Line
+Option_Live_SameTimePressLine_Title,Hiện đường Sync Tap
+Option_Live_SliderSameTimePressLine_Title,Hiện đường Swing Sync
+Option_Live_Skill_Effect_Title,Skill Cut-in
+Option_Live_TapTiming_Effect_Title,Hiển thị Timing
+Option_Live_RhythmIconMovePos_Title,Giảm tốc Rhythm Icon
+Option_Live_RhythmIconMovePos_Type1,Chậm ở cuối
+Option_Live_RhythmIconMovePos_Type2,Chậm ở đầu
+Option_Live_ComboUITransparent_Type3,Tốc độ cố định
+Option_Live_ComboTransparent,Độ mờ hiển thị Combo
+Option_Live_ComboSize,Kích thước hiển thị Combo
+Option_Live_InputResultTransparent,Độ mờ hiển thị phán định
+Option_Live_InputResultSize,Kích thước hiển thị phán định
+Option_Live_RhythmIconPos,Độ cao Rhythm Icon
+Option_Live_RhythmIconStartPos,Độ cao Center Icon
+Option_Live_FpsSetting,FPS Live
+Option_Live_Mirror_Title,Đảo gương bố cục note
+Option_Live_LaneEffect_Title,Hiệu ứng Lane
+Option_Live_FillsUpLivePosition_Title,Lấp vị trí trống
+Option_Live_Bluetooth_Caution,"Để kết nối thiết bị Bluetooth™,<br>vui lòng làm theo cài đặt trên thiết bị."
+Option_Live_Movie_Disp,Video Live
+Option_Live_Movie_Brightness,Độ sáng Video Live
+Option_Live_Movie_Caution,Mặc định là [ON].
+Option_LiveSkin_Title,Cài đặt Live Icon
+Option_LiveSkin_Lane_Title,Đường Tap của Lane
+Option_LiveSkin_LaneBrightness_Title,Độ sáng Lane
+Option_LiveSkin_TapEffect_Title,Hiệu ứng Tap
+Option_LiveSkin_RhythmIcon_Title,Thiết kế Note
+Option_LiveSkin_SE_Title,Âm thanh chạm
+Option_LiveSkin_SE_TapButton,Test âm Tap
+Option_LiveSkin_SE_FlickButton,Test âm Flick
+Option_LiveProduction_Title,Cài đặt âm lượng
+Option_LiveProduction_Production_Title,Hiệu ứng Live
+Option_LiveProduction_ActionMode_Title,Chế độ trình diễn
+Option_LiveProduction_ActionMode_Regular,Standard
+Option_LiveProduction_LiveEffect,Hiệu ứng Live
+Option_LiveProduction_ActionMode_Light,Light
+Option_LiveProduction_ActionMode_Full,Quality
+Option_LiveProduction_LiveMonitor,Live Monitor
+Option_LiveProduction_TapEffectSize,Kích thước hiệu ứng Tap
+Option_LiveProduction_MemberCutIn_Title,(tạm)
+Option_LiveProduction_ShowSkillEffect_Title,Hiện hiệu ứng Special Skill
+Option_LiveProduction_PlayClimaxMovie_Title,(Dummy) Hiệu ứng
+Option_LiveProduction_Volume_Title,Âm lượng Live
+Option_LiveProduction_Volume_Music,Music
+Option_LiveProduction_Volume_SE,SE
+Option_LiveProduction_Volume_Tap,Âm thanh chạm
+Option_LiveProduction_Volume_Voice,Giọng nói
+Option_Volume_Title,Cài đặt âm lượng
+Option_Volume_LiveSettings,Cài đặt âm lượng Live
+Option_Volume_MusicVolume,Âm lượng nhạc
+Option_Volume_SEVolume,Âm lượng hiệu ứng
+Option_Volume_OtherSettings,Cài đặt âm lượng khác
+Option_Volume_BGMVolume,Âm lượng BGM
+Option_System_Title,Cài đặt hệ thống
+Option_System_Volume_Title,Âm lượng hệ thống
+Option_System_Volume_BGM,Âm lượng nhạc
+Option_System_Volume_SE,Âm lượng hiệu ứng
+Option_System_Volume_Voice,Giọng nói
+Option_System_Download_Title,Tải xuống
+Option_System_Download_Button,Tải<br>trước
+Option_System_Download_LiveMember,Hiệu ứng thành viên trong Live
+Option_System_Notification_Title,Cài đặt thông báo
+Option_System_Notification_Stamina_Full,Hồi đầy
+Option_System_Notification_Midnight,Thông báo ban đêm
+Option_System_Notification_Detail,"Lưu ý: nếu thông báo bị tắt trong cài đặt thiết bị, ứng dụng không thể gửi thông báo.<br>Khung giờ ban đêm là 0:00-5:59."
+Option_System_Alert_Title,Cài đặt cảnh báo
+Option_System_Alert_UseTooMuch,Cảnh báo chi tiêu
+Option_System_Alert_Detail,* Sẽ hiện xác nhận nếu chi tiêu tháng vượt ¥100.000.
+Option_System_Others_Title,Cài đặt khác
+Option_System_FixScreenDirection,Khóa xoay màn hình
+Option_System_StaminaConfirm,Xác nhận LP thấp
+Option_System_AutoBurstConfirm,Cảnh báo Skip Ticket
+Option_System_BatteryConfirm,Cảnh báo pin
+Option_System_BluetoothConfirm,Kiểm tra Bluetooth™
+Option_System_HomeSceneMoviePlay,Video Màn hình chính
+Option_System_IgnoreGachaUrEffect,Không bao giờ bỏ qua hiệu ứng UR
+Option_System_Live2D_Character_Title,Thành viên hiển thị
+Option_System_Live2D_Character_UseRecommend,Thành viên yêu thích
+Option_System_Live2D_Character_UseDeck,Thành viên trong nhóm
+Option_System_Live2D_Character_Detail,* Thành viên hiển thị được cập nhật khi chuyển màn hình.
+Option_System_FpsToggle,FPS
+PresentBox_Scroll_AcquiredDateTimeLabel,Đã nhận
+PresentBox_Scroll_ReceivedDateTimeLabel,Claimed
+PresentBox_Scroll_ExpireDateTimeLabel,Expires
+PresentBox_Tab_Receivable,Pending
+PresentBox_Tab_Received,Đã nhận
+PresentBox_Title,Quà
+PresentBox_MainTitle,Danh sách quà
+PresentBox_SubTitle,Quà
+PresentBox_Receive,Claim
+PresentBox_AllReceive,Nhận tất cả
+PresentBox_EmptyReceivable,Không có quà để hiển thị.
+PresentBox_EmptyReceived,Không có quà để hiển thị.
+PrivateEnter_Title,Tìm Live
+PrivateEnter_ConfirmTitle,Xác nhận tham gia Live
+PrivateEnter_Message,* Vui lòng nhập Live ID gồm 6 chữ số.
+PrivateEnter_RoomID,Live ID
+PrivateEnter_EnterButton,Tham gia
+PrivateEnter_SearchButton,Tìm kiếm
+PrivateEnter_ConfirmRoom,Co-op Live {0}
+PrivateEnter_ConfirmEventRoom,Live sự kiện (Dummy)
+PrivateEnter_ConfirmRoomID,ROOMID {0}
+PrivateEnter_ConfirmJoinMessage,Đã tìm thấy Live khớp với Live ID.<br>Tham gia Live này?
+PrivateEnter_ConfirmJoinNotConditionMessage,Bạn chưa đáp ứng điều kiện tham gia Live này.<br><br>Điều kiện tham gia Live:<br>{0}
+PrivateEnter_ConfirmJoinNotTotalPowerMessage,Không thể tham gia vì Tổng sức mạnh chưa đủ.
+PrivateEnter_ConfirmUserName,Tên người chơi
+PrivateCreate_Title,Tạo Live
+PrivateCreate_RoomCompleteTitle,Đã tạo Live
+PrivateCreate_Message,Nhập tối đa {0} ký tự!
+PrivateCreate_RoomTypeTitle,Phần thưởng Live
+PrivateCreate_RoomTypeNormal,Thường
+PrivateCreate_RoomTypeSpecial,Hằng ngày
+PrivateCreate_RoomConditionTitle,Tên Live
+PrivateCreate_RoomConditionFree,Tự do
+PrivateCreate_RoomConditionBasic,Basic
+PrivateCreate_RoomConditionElite,Elite
+PrivateCreate_RoomConditionMaster,Master
+PrivateCreate_RoomIDTitle,Live ID
+PrivateCreate_CommentTitle,Bình luận ngắn
+PrivateCreate_CommentInput,* Vui lòng nhập tối đa 10 ký tự.
+PrivateCreate_IDCopyButton,Copy ID
+PrivateCreate_CreateButton,Tạo
+PrivateCreate_EnterButton,Tham gia
+PrivateCreate_RoomIdCopy,Đã sao chép Live ID.
+PrivateCreate_ConfirmMessage,Đã tạo Live.<br>Tham gia Live này?
+FriendInviteReceive_Title,Lời mời bạn
+FriendInviteReceive_Check,Đang kiểm tra lời mời từ bạn bè...
+FriendInviteReceive_NotMessage,Hiện không có lời mời Live phối hợp nào.<br>Bạn có thể tạo Live riêng và mời bạn bè.
+FriendInviteSend_Title,Lời mời bạn
+FriendInviteReceive_SubTitle,Bạn được một người bạn mời vào Co-op Live.<br>Vui lòng chọn Live muốn tham gia.
+FriendInviteSend_Message,Gửi lời mời đến tất cả bạn bè?
+FriendInviteSend_CheckMessage,Chỉ gửi cho Favorite Friend
+DeckTop_DeckEditTag,Đội hình<br>Unit
+DeckTop_CostumeTag,Đổi trang phục
+DeckTop_PracticeTag,Luyện tập
+DeckTop_SkillPracticeTag,Skill<br>Lesson
+DeckTop_TrainingTag,Awaken
+DeckTop_MemberListTag,Danh sách<br>thành viên
+DeckTop_ExchangeTag,Đổi vật phẩm
+DeckTop_CharacterIllustrateTag,Album thành viên
+DeckCharaSelect_LeaderChangeButton,Đặt Leader
+DeckCharaSelect_ParamNothing,---
+DeckCharaSelect_SubDeckNoSkill,Skill của thành viên Subunit sẽ không kích hoạt.
+SortDialog_Title,Sắp xếp thành viên
+SortDialog_FilteringTitle,Bộ lọc
+SortDialog_SortTitle,Sắp xếp
+SortDialog_DefaultButton,Xóa tất cả
+SortDialog_AllSelectButton,Chọn tất cả
+SortDialog_AllReleaseButton,Xóa tất cả
+SortDialog_LiveSkillWord,Kỹ năng đặc biệt
+SortDialog_LiveSkillScoreUp,Tăng điểm
+SortDialog_LiveSkillConditionalScoreUp,Tăng điểm<br>có điều kiện
+SortDialog_LiveSkillScoreUpAndLifeHeal,Hồi HP<br>kèm tăng điểm
+SortDialog_LiveSkillScoreUpAndResultUp,Tăng phán định<br>kèm tăng điểm
+SortDialog_LiveSkillPowerHeal,HP Recovery
+SortDialog_LiveSkillEnhance,Tăng phán định
+SortDialog_LiveSkillOther,Khác
+SortDialog_LiveSkillConditionalOnlyScoreUp,Tăng điểm theo<br>điều kiện cụ thể
+SortDialog_LiveSkillEnergyConditionalLifeHealScoreUp,Điều kiện HP<br>Tăng điểm hoặc hồi phục
+SortDialog_FilterGroup,Nhóm
+SortDialog_FilterType,Thuộc tính
+SortDialog_FilterAwakening,Thức tỉnh
+SortDialog_AwakeningAll,Tất cả
+SortDialog_Awakened,Đã Thức tỉnh
+SortDialog_Unawakened,Unawakened
+SortDialog_PassiveSkillWord,Kỹ năng bị động
+SortDialog_PassiveSkillEffectWord,Mục tiêu hiệu ứng
+SortDialog_PassiveSkillEffectPart,Vai trò nhạc cụ
+SortDialog_PassiveSkillEffectPartRole,Vai trò Part
+SortDialog_PassiveSkillEffectPartAndPartRole,Both
+SortDialog_PassiveSkillPartWord,◆ Part nhạc cụ mục tiêu ◆
+SortDialog_PassiveSkillSuitWord,◆ Attribute thành viên mục tiêu ◆
+SortDialog_PassiveSkillMatchBothWord,◆ Điều kiện kết hợp ◆
+SortDialog_PassiveSkillSubPartWord,◆ Other ◆
+SortDialog_PassiveSkillSubPartWordPowerUp,Tăng HP ban đầu
+SortDialog_EpisodeReadAll,Tất cả
+SortDialog_EpisodeReadNotEpisode,Cốt truyện chưa đọc
+SortDialog_EpisodeReadNotSpecialEpisode,Cốt truyện đặc biệt<br>chưa đọc
+SortDialog_SortAllStatus,Tổng sức mạnh
+SortDialog_SortSoul,Smile
+SortDialog_SortTechnic,Pure
+SortDialog_SortAppeal,Cool
+SortDialog_SortUnlock,Thứ tự nhận
+SortDialog_SortRarity,Độ hiếm
+SortDialog_SortLevel,Cấp
+SortDialog_SortSkillLevel,Level Special Skill
+SortDialog_SortSkill,Thứ tự Special Skill
+SortDialog_SortMember,Thành viên
+SortDialog_SortFavorite,Yêu thích
+SortDialog_SortHp,HP
+SortDialog_Kizuna,Bond
+SortDialog_EventPtBonus,Thưởng điểm sự kiện
+SortDialog_TypeAll,Tất cả mục tiêu
+SortDialog_PassiveSkillMatchBothAnd,Kích hoạt khi cả Part nhạc cụ và Attribute đều khớp.
+SortDialog_PassiveSkillMatchBothOr,Kích hoạt khi Part nhạc cụ hoặc Attribute khớp.
+CostumeSelectPortrait_Top,Chạm màn hình để<br>thoát chế độ toàn màn hình
+CostumeSelectPortrait_Selected,Đã chọn
+LocalNotification_Title,SIF2
+LocalNotification_Ticker,LP đã hồi đầy.
+LocalNotification_Message,LP đã hồi đầy.
+LocalNotification_Description,Notification
+LiveDownload_State_Downloading,Đang tải ...
+LiveDownload_State_Complete,Ready!
+LiveScene_Dialog_ContinueTitle,Tiếp tục Live
+LiveScene_Dialog_ContinueMessage,Dùng <color=#C12424>{0} Loveca</color> để hồi đầy HP và tiếp tục Live?
+LiveScene_Dialog_ContinueGemShortageTitle,Không đủ Loveca
+LiveScene_Dialog_ContinueGemShortageMessage,"Bạn không có đủ Loveca,<br>nên không thể tiếp tục Live."
+LiveScene_Dialog_FailureTitle,Live thất bại
+LiveScene_Dialog_FailureMessage,Bạn đã hết HP.<br><br>Dùng <color=#C12424>{0} Loveca</color> để<br>hồi đầy HP và tiếp tục.
+LiveScene_Dialog_FailureMessage_EventSpirit,Bạn đã hết HP.<br><br>Dùng <color=#C12424>{0} Loveca</color> để<br>hồi đầy HP và tiếp tục.
+LiveScene_Dialog_PauseTitle,Đã tạm dừng
+LiveScene_Dialog_PauseMessage,Kết thúc Live và quay lại chọn bài?<br><br><color=#C12424>*Thoát sẽ không tiêu thụ LP.</color>
+LiveScene_Dialog_PauseMessage_EventChallenge,Kết thúc Live và quay lại chọn bài?<br><br><color=#C12424>*Thoát sẽ không tiêu thụ Miracle Star.</color>
+LiveScene_Dialog_RetireConfirmTitle,Kết thúc Live
+LiveScene_Dialog_RetireConfirmMessage,Bạn sẽ không nhận phần thưởng nếu kết thúc Live.<br>Quay lại Live và tiếp tục chơi?<br><br><color=#C12424>*Thoát sẽ không tiêu thụ LP.</color>
+LiveScene_Dialog_RetireConfirmMessage_EventChallenge,Bạn sẽ không nhận phần thưởng nếu kết thúc Live.<br>Quay lại Live và tiếp tục chơi?<br><br><color=#C12424>*Thoát sẽ không tiêu thụ Miracle Star.</color>
+LiveScene_Dialog_SuspendButton,Kết thúc Live
+LiveScene_Dialog_CancelButton,To Pause
+LiveScene_Dialog_ReheasalRetryConfirmMessage,Kết thúc Live và bắt đầu lại từ đầu?
+LiveScene_Dialog_ReheasalRetireConfirmMessage,Kết thúc Live và quay lại chọn bài?
+LiveScene_MultiWaitOtherPlayerLoading,Các thành viên đang chuẩn bị...
+LiveScene_MultiWaitOtherPlayerPlaying,Các thành viên đang biểu diễn...
+LiveScene_MultiUserIntroduction_Vs,Live cùng người chơi này
+LiveScene_MultiUserIntroduction_EventHomework,Live cùng người chơi này
+LiveScene_SkillBoard_Trigger,Special Skill đã kích hoạt
+LiveScene_VoltageGaugeLv1,(Dummy) Lv 1
+LiveScene_VoltageGaugeLv2,(Dummy) Lv 2
+LiveScene_VoltageGaugeLv3,(Dummy) Lv 3
+LiveScene_VoltageGaugeLv4,(Dummy) Lv 4
+LiveScene_VoltageGaugeLvMax_ClimaxReady,CLIMAX Time đã sẵn sàng
+LiveScene_VoltageGaugeLvMax_ClimaxPlaying,CLIMAX Time đang hoạt động!!
+LiveScene_VoltageGaugeLvMax_ClimaxEnd,CLIMAX Time đã kết thúc
+LiveScene_VoltageGaugeLvMax_ClimaxPerfect,Climax Perfect!!
+LiveScene_AutoPlayComment,Đây là Auto Play nên High Score của bạn vẫn được tính.
+LiveScene_Dialog_RestartConfirmTitle,Bắt đầu lại
+LiveScene_Dialog_RestartConfirmMessage,Kết thúc Live và bắt đầu lại từ đầu?<br><br><color=#C12424>*Thoát sẽ không tiêu thụ LP.</color>
+LiveScene_Dialog_RestartConfirmMessage_EventSpirit,Kết thúc Live và bắt đầu lại từ đầu?<br><br><color=#C12424>*Thoát sẽ không tiêu thụ Miracle Star.</color><br><br>
+LiveScene_Dialog_ContinueSpiritShortageTitle,Không đủ Miracle Star
+LiveScene_Dialog_ContinueSpiritShortageMessage,Bạn không có đủ Miracle Star.<br><br>Bạn có thể nhận Miracle Star bằng cách<br>chơi các bài hát thường.<br><br>
+CooperationLive_RoomRestriction,Giới hạn Live
+CooperationLive_NormalRoom,Thường
+CooperationLive_SpecialRoom,Hằng ngày
+CooperationLive_EventRoom,Sự kiện
+Notice_DialogTitle,Đã thêm bài hát mới!
+Notice_DialogSchool,(Tạm)
+Notice_DialogWordsDefault,Lyrics:
+Notice_DialogCompositionDefault,Composition:
+Notice_DialogArrangerDefault,Arrangement:
+MusicDetail_DialogTitle,Chi tiết bài hát
+MusicDetail_RecievedLabel,Acquired
+MusicDetail_RemainLabel,Còn {0} lần
+MusicDetail_FirstLabel,Phần thưởng lần đầu
+MusicDetail_ClearReward,Phần thưởng Clear đảm bảo
+MusicDetail_RandomReward,Phần thưởng Clear ngẫu nhiên
+MusicDetail_DetailTab,Thông tin bài hát
+MusicDetail_RewardTab,Phần thưởng thành tích
+MusicDetail_Reference,Source: {0}
+MusicSelect_HighScore,High Score
+MusicSelect_MyRankingHighScore,High Score<br>của bạn (Dummy)
+MusicSelect_ClearRamp,Trạng thái Clear
+MusicSelect_TeacherPoint,Tỷ lệ điểm cao
+MusicSelect_TeacherPointSum,Tổng tỷ lệ điểm cao
+MusicSelect_CategoryButton,Thể loại
+MusicSelect_SortButton,Bộ lọc
+MusicSelect_ClearBonusButton,Phần thưởng thành tích
+MusicSelect_RandomButton,Auto-Select
+MusicSelect_SortApplyDataBar,Applied
+MusicSelect_ObtainTypeShopMessage,Mua từ Music Shop
+MusicSelect_ObtainTypeShopButton,Đến Music Shop
+MusicSelect_ObtainTypeMissionMessage,"Hoàn thành nhiệm vụ<br>""{0}""<br>"
+MusicSelect_ObtainTypeMissionButton,To Missions
+MusicSelect_ObtainTypeStoryMessage,"Phần thưởng khi xem<br>Main Story ""{0}""<br>"
+MusicSelect_ObtainTypeStoryButton,Đến Cốt truyện
+MusicSelect_ObtainTypePlayerRankMessage,Đạt hạng {0}
+MusicSelect_ObtainTypeNoneMessage,Chưa đặt điều kiện mở khóa.
+MusicSelect_ObtainTypeNoneButton,Undefined
+MusicSelect_UnlockTitle,Điều kiện mở khóa
+MusicSelect_SortDialogTitle,Sắp xếp
+MusicSelect_RefineDialogTitle,Bộ lọc
+MusicSelect_FilterCategoryTitle,Thể loại
+MusicSelect_FilterOtherTitle,Khác
+MusicSelect_SortTitle,Thứ tự sắp xếp
+MusicSelect_FilterCategoryAll,Tất cả
+MusicSelect_FilterCategoryCharacterSong,(Tạm)
+MusicSelect_FilterCategoryCoupling,(Tạm)
+MusicSelect_FilterCategorySongWithinPlay,(Tạm)
+MusicSelect_FilterCategoryOther,Khác
+MusicSelect_FilteRefineNone,Không có
+MusicSelect_FilterRefineFavorite,Yêu thích
+MusicSelect_FilterRefineNotClear,Chưa hoàn thành
+MusicSelect_FilterRefineNotScoreSS,Chưa đạt Score Rank SS
+MusicSelect_FilterRefineNotFullCombo,Chưa Full Combo
+MusicSelect_FilterRefineNotAllPerfect,Chưa đạt ALL PERFECT
+MusicSelect_SortDefault,Mặc định
+MusicSelect_SortMusicName,Theo tên bài hát
+MusicSelect_SortReleaseTime,Theo ngày phát hành
+MusicSelect_SortMusicLevel,By Level
+MusicSelect_SortHighScore,Theo High Score
+MusicSelect_Ranking,Ranking
+MusicSelect_AllTab,Tất cả
+MusicSelect_NoClearRate,-:-%
+MusicRanking_Score,Điểm
+MusicRanking_Rank,Hạng
+MusicRecommend_RecommendList,Danh sách đề xuất
+MusicRecommend_RecommendListCancel,Bỏ đề xuất
+MusicRecommend_UseThisList,Dùng danh sách này
+MusicFilterAutoSort_DialogTitle,Tự động chọn bài hát
+MusicFilterAutoSort_Random,Ngẫu nhiên
+MusicFilterAutoSort_NonPlay,Bài hát chưa chơi
+MusicFilterAutoSort_RecentPlay,Bài hát chơi gần đây
+MusicFilterAutoSort_RecentRelease,Bài hát phát hành gần đây
+MusicGoal_DialogTitle,Mục tiêu bài hát
+MusicGoal_ScoreLabel,Score |
+MusicGoal_HighScore,Điểm cao
+MusicGoal_ComboLabel,Combo |
+MusicGoal_Combo,Combo
+MusicGoal_MaxCombo,Combo tối đa
+MusicGoal_FullComboLabel,FULL COMBO |
+MusicGoal_ClearLabel,Clear |
+MusicGoal_ClearCount,Số lần hoàn thành
+MusicGoal_Count,x
+MusicGoal_Achievement,Đã đạt
+MusicGoal_AchievementRate,Tỷ lệ Clear<br>của tất cả người chơi
+MusicGoal_HighOrder,Trang đầu
+MusicGoal_UnPlayed,Chưa chơi
+CooperationLive_TotalPower,Tổng sức mạnh Main Unit:
+CooperationLive_NormaType,Thường
+CooperationLive_SpecialType,Hằng ngày
+CooperationLive_StampSettingButton,Cài đặt Stamp
+CooperationLive_PrivateButton,Riêng tư
+CooperationLive_FriendsInviteButton,Mời bạn bè
+CooperationLive_DeckEditButton,Unit
+CooperationLive_MatchingDialogTitle,Matching...
+CooperationLive_MatchingDialogMessage,Đang tìm Live...
+CooperationLive_CreateRoomDialogTitle,Đang tạo Live
+CooperationLive_CreateRoomDialogMessage,Đang tạo Live...
+CooperationLive_MatchingDialogAnnotation,*Có thể mất một lúc khi đông người.
+CooperationLive_PrivateSelectDialogTitle,Live riêng
+CooperationLive_PrivateSelectDialogEnterMessage,Nhập Live ID<br>để tham gia.
+CooperationLive_PrivateSelectDialogEnterButton,Tham gia
+CooperationLive_PrivateSelectDialogCreateMessage,Đặt điều kiện<br>để tạo Live.
+CooperationLive_PrivateSelectDialogCreateButton,Tạo
+CooperationLive_RoomTypeRewardInfo,{0} Up!
+CooperationLive_RoomTypeRewardWeekMonday,Chỉ Thứ Hai
+CooperationLive_RoomTypeRewardWeekTuesday,Chỉ Thứ Ba
+CooperationLive_RoomTypeRewardWeekWednesday,Chỉ Thứ Tư
+CooperationLive_RoomTypeRewardWeekThursday,Chỉ Thứ Năm
+CooperationLive_RoomTypeRewardWeekFriday,Chỉ Thứ Sáu
+CooperationLive_RoomTypeRewardWeekSaturday,Chỉ Thứ Bảy
+CooperationLive_RoomTypeRewardWeekSunday,Chỉ Chủ Nhật
+FriendInviteItem_RoomCreater,Tên người chơi
+FriendInviteItem_RoomType,Attribute Live
+FriendInviteItem_RoomCondition,Giới hạn Live
+FriendInviteItem_RoomComment,Bình luận
+FriendInviteItem_RoomName,Tên Live
+FriendInviteItem_RoomReward,Phần thưởng Live
+FriendInviteItem_RoomSessionID,Live ID
+FriendInviteItem_JoinButton,Tham gia
+LiveMatching_PrivateRoomTitle,ID:
+LiveMatching_RoomConditionTitle,Tên Live:
+LiveMatching_RoomTypeInfoTitle,Phần thưởng Live:
+LiveMatching_PlayerTitle,{0} p
+LiveMatching_Support,Hỗ trợ
+LiveMatching_WaitMessage,Đang ghép... Vui lòng chờ các thành viên tham gia.
+LiveMatching_WaitMessageInfo,* Live có thể bắt đầu với ít nhất 2 người chơi.
+LiveMatching_RoomTypeNormal,Thường
+LiveMatching_RoomTypeEvent,Hằng ngày
+LiveMatching_MatchedMessage,Đã đủ thành viên! Đang chuyển sang chọn bài.
+LiveMatching_RoomOpenButton,Mở Live
+LiveMatching_InviteFriendButton,Mời bạn bè
+LiveMatching_DecideButton,Xác nhận thành viên
+MatchingPlayer_Wait,Recruiting...
+LoginBonus_HoldingPeriod,Thời gian:
+LoginBouns_Season,{0} {1} ~ {2} {3}
+LoginBouns_Days,Ngày {0}
+LoginBouns_EventBonusValue, +{0}
+MultiConfirm_LevelLabel,Cấp bài hát
+MultiConfirm_OptionButton,Cài đặt
+MultiConfirm_HealthyBoostButton,LP Settings
+MultiConfirm_StartButton,Ready
+MultiConfirm_Waiting,Waiting
+CooperationLiveInfo_Title,Phần thưởng Live
+CooperationLiveInfo_Message1,"Trong Live ""Daily"", bạn dễ nhận<br>phần thưởng theo từng ngày hơn.<br>* Live ""Normal"" cho phần thưởng tiêu chuẩn."
+CooperationLiveInfo_Message2,T2 {0}<br>T3 {1}<br>T4 {2}<br>T5 {3}<br>T6 {4}<br>T7 {5}<br>CN {6}
+CooperationLiveInfo_Message3,*Số lượng rơi được điều chỉnh với vật phẩm<br>không thuộc bonus phần thưởng.
+CooperationLiveInfo_dailyEffect,Tăng tỷ lệ {0}!
+Stamp_FavoriteTitle,Yêu thích
+Stamp_RemoveButton,Xóa
+Stamp_ResetButton,Đặt lại
+Profile_RankFriend,Số bạn tối đa {0} → {1}
+Profile_RankReward,{0} x{1}
+GachaTop_PickUpPhotoDetailTitle,Chi tiết thành viên
+GachaTop_PhotoDetailTitle,Chi tiết thành viên
+Ornament_OrnamentListTitle,Danh sách vật phẩm
+OrnamentShop_OrnamentReplaceTitle,Thay vật phẩm đang đặt?
+GachaTop_PickUpPhotoDetailButton,Chi tiết thành viên
+GachaTop_InfoDetailButton,Chi tiết Scout
+GachaTop_ExchangeButton,Đổi vật phẩm
+Notice_GroupExpNoticeWindowTitle,Hạng nhóm
+Button_Download,Tải xuống
+Mission_AcceptAllButtonText,Nhận tất cả
+MusicDecision_MusicLevelArea,{0} ~ {1}
+MusicDecision_RandomMusicTitle,Ngẫu nhiên
+MusicDecision_RandomMusicLevel,? ?
+MusicDecision_LiveLevelReselectButton,Re-select
+MusicDecision_ShuffleMessage,Đang chọn ngẫu nhiên bài hát...
+MusicDecision_DifficultySelectMessage,Vui lòng chọn độ khó để chơi.
+EventTop_ScoreRanking,BXH tổng điểm
+EventTop_GroupScoreRanking,BXH điểm nhóm
+EventTop_Season,Đến {0}
+EventTop_UntilRewardPoint,{0} pts to go
+EventTop_NextEventPoint,P to go
+EventTop_NextEventHomeworkPoint,còn lại
+EventTop_TotalEventPoint,Tổng điểm sự kiện
+EventTop_HasHomeworkPoint,Co-op Mission đã hoàn thành:
+EventTop_HasStamina,Miracle Star đang có
+EventTop_HasBadge,Pick đang có:
+EventTop_HasMedal,Loveca đang có:
+EventTop_HasTicket,Gacha Ticket đang có:
+EventTop_NextStory,★Cốt truyện tiếp theo
+EventTop_NextReward,★Phần thưởng tiếp theo
+EventTop_NowHomework,★Mục tiêu hiện tại
+EventTop_AllGetReward,Đã nhận tất cả
+EventTop_AllGetStory,Đã mở khóa tất cả
+EventTop_ExchangeButton,Đổi vật phẩm
+EventTop_BingoButton,Bingo
+EventTop_BoxGachaButton,Scout (Box)
+EventTop_ChangeHomeworkButton,Đổi mục tiêu
+EventTop_HomeworkMusicLevel,Độ khó bài hát
+EventTop_HomeworkMusicLevelValue,or higher
+EventTop_CloseExchangeShopTerm,Trao đổi mở đến {0}.
+EventTop_CloseBoxGachaTerm,(Dummy) mở đến {0}.
+EventTop_StoryButtonNextPoint,P to go
+EventTop_StoryButtonNextPointHomework,còn lại
+EventTop_TermTitle,Thời gian sự kiện:
+EventTop_ResultTermTitle,Thời gian công bố kết quả:
+EventTop_EmotionalMemberSelectTermTitle,[Thời gian chọn thành viên]
+EventTop_EmotionalBandSelectTermTitle,[Thời gian chọn nhóm]
+EventTop_Multi_HelpterBonus,Phần thưởng hỗ trợ
+EventTop_Multi_TodayHelpterCount,Hỗ trợ hôm nay
+EventTop_Multi_AlreadyPlayedHelper,Bạn đã dùng hết lượt hỗ trợ hôm nay.
+EventTop_Multi_UnitSettings,Đội hình<br>riêng sự kiện
+EventTop_Multi_Live,Live cùng nhau
+EventTop_Multi_LiveEx,Live cùng nhau!
+EventTop_Multi_FreeMatching,Ghép tự do
+EventTop_Multi_FreeMatching_Info,Chơi thoải mái với những người chơi khác!
+EventTop_Multi_PrivateMatching,Ghép riêng
+EventTop_Multi_PrivateMatching_Info,Mời bạn bè cùng chơi!
+EventTop_Multi_Join,Tham gia
+EventTop_Multi_HelperJoin,Tham gia hỗ trợ
+EventTop_Multi_HelperCondition,Clear độ khó {0} trở lên với {1}p {2} trở lên để tham gia hỗ trợ.
+EventTop_Multi_Room,Phòng
+EventTop_Multi_Room2,Phòng
+EventTop_Multi_RoomCreate,Tạo
+EventTop_Multi_RoomJoin,Tham gia
+EventTop_Multi_HelperToday,Hôm nay
+EventTop_Multi_HelperCount,{0}/{1}
+EventTop_Multi_MatchingTitle,Chọn độ khó
+EventTop_Multi_MatchingTitleHelper,Tham gia với vai trò hỗ trợ
+EventTop_Multi_RoomCreateDialog_Info,Vui lòng chọn độ khó.
+EventTop_Multi_RoomCreateDialog_Info2,"* Có thể chọn nhiều độ khó.<br>* Nếu chọn nhiều hơn một, độ khó sẽ được chọn ngẫu nhiên khi ghép."
+EventTop_Multi_RoomCreateDialog_Info3,Vui lòng chọn một độ khó.
+EventTop_Multi_RoomCreateDialog_Info4,* Bạn có thể chơi Live ở độ khó đã chọn.
+EventTop_Multi_RoomCreateDialog_Error,Chưa chọn độ khó.
+EventTop_Multi_RoomCreateDialog_Start,Bắt đầu ghép
+EventTop_Multi_RoomSearchDialog_Info,Vui lòng nhập Room ID.
+EventTop_Multi_RoomSearch_NotFindRoom,Room ID không hợp lệ hoặc phòng đã đầy.
+EventTop_Multi_PenaltyInfo,"Do nhiều lần ngắt kết nối hoặc gian lận,<br>quyền chơi Live của sự kiện này tạm thời bị hạn chế."
+EventTop_Multi_RemainPenalty,Đến khi hạn chế được gỡ
+EventTop_Multi_Confirmation,Xác nhận
+EventTop_Multi_NotEnoughPower,Chỉ số của bạn chưa đủ điều kiện hỗ trợ.
+EventLive__Multi_PointPenalty,Event Pt nhận được giảm một nửa
+EventLive__Multi_NotSelectedLevel,Chưa chọn độ khó.
+EventLive__Multi_Matching,Matching ({0}/{1})
+EventLive__Multi_JoiningRoom,Đang tham gia Room
+EventLive__Multi_FailedToJoinRoom,Không thể tham gia Room.
+EventLive__Multi_NotFoundRoom,Room ID không hợp lệ hoặc phòng đã đầy.
+EventLive__Multi_CreatingRoom,Đang tạo Room
+EventLive__Multi_FailedToCreateRoom,Tạo Room thất bại. Vui lòng chờ một lúc rồi thử lại.
+EventLive__Multi_NotFoundHelperRoom,Không có Room nào để tham gia với vai trò Assist.
+EventLive__Multi_ConnectingToMatchingServer,Đang kết nối matching server
+EventResult_Multi_Helper,Assist
+EventResult_Multi_Disconnected,Mất kết nối.
+EventResult_Multi_ConfirmingResult,Đang kiểm tra kết quả Live...
+EventResult_Multi_LeaveRoom,Leaving...
+EventResult_Multi_Retry,Chơi lại
+EventMusicSelect_HighScore,High Score<br>sự kiện
+EventMusicSelect_ScoreRanking,Xếp hạng điểm
+EventMusicSelect_StaminaUseDialogTitle,Xác nhận dùng Miracle Star
+EventMusicSelect_StaminaUseDialogMessage,Dùng Miracle Star x{0} để bắt đầu Live?<br>*Không tiêu thụ LP.
+EventMusicSelect_StaminaUseDialogHasStamina,Miracle Star x{0}
+EventMusicSelect_StaminaConfirmCheck,Không hỏi lại việc dùng Miracle Star cho đến khi sự kiện kết thúc.
+EventStory_NextEventPoint,Điểm sự kiện
+EventStory_NextEventHomework,Tổng mục tiêu đã hoàn thành
+EventStory_ReleaseInfoEventPoint,Thu thập Event Pt trong Live!
+EventStory_ReleaseInfoEventHomework,Chơi sự kiện và Clear mục tiêu!
+EventStory_EndReleaseStory,Sự kiện đã kết thúc.<br>Cốt truyện này sẽ mở khóa vào {0}.
+EventRanking_TabScoreRanking,Xếp hạng điểm bài hát
+EventRanking_TabGroupScoreRanking,BXH điểm nhóm
+EventRanking_TabPointRanking,BXH điểm sự kiện
+EventRanking_TabEmotionalRanking,Top 100
+EventRanking_TotalScore,Tổng điểm
+EventRanking_ScoreRanking,Xếp hạng tổng điểm
+EventRanking_ChangeButton,Chuyển
+EventRanking_InfoMessage,Kết quả chơi đến {0} sẽ được tính.
+EventRanking_TopRanking,Người chơi hàng đầu
+EventRanking_YourRanking,You
+EventRanking_ScoreRankingTitle,Điểm bài hát
+EventRanking_PointRankingTitle,Tổng điểm sự kiện
+EventRanking_EmotionalRankingBandSelectTitle,Chọn nhóm
+EventRanking_EmotionalRankingMemberSelectTitle,Chọn thành viên
+EventRanking_LookEmotionalRankingOtherBands,Xem nhóm khác
+EventRanking_LookEmotionalRankingOtherMembers,Xem thành viên khác
+EventReward_TotalEventPointReward,Phần thưởng Tổng Event Pt
+EventReward_ScoreRankingReward,BXH tổng điểm
+EventReward_GroupScoreRankingReward,BXH điểm nhóm
+EventReward_MusicScoreRankingReward,Xếp hạng<br>điểm bài hát sự kiện
+EventReward_EventPointRankingReward,Xếp hạng<br>Event Pt
+EventReward_EmotionalRankingReward,Xếp hạng<br>Top Fan
+EventReward_TotalEventPoint,Tổng điểm sự kiện
+EventReward_YourRank,Hạng của bạn
+EventReward_RankingButton,Xem xếp hạng
+EventReward_EmotionalRankingJoinText,Supporting {0}
+EventReward_RankingFromTo,Rank {0}-{1}
+EventReward_RankingFromToEnd,Rank {0}+
+EventReward_RankingInfoMessage,Phần thưởng xếp hạng được trao sau khi sự kiện kết thúc.
+EventReward_BingoReward,Bingo
+EventReward_BingoSheetLineReward,[Sheet {0}] Phần thưởng {1} Line
+EventReward_BingoSheetCompleteReward,[Sheet {0}] Phần thưởng hoàn thành
+EventReward_BingoAllSheetCompleteReward,Phần thưởng hoàn thành tất cả Sheet
+EventReward_RankingRewardDialogTitle,Danh sách phần thưởng
+EventReward_EventPointInfo,* Tổng Event Pt có giới hạn.<br>* Giới hạn có thể tăng cùng với phần thưởng.
+EventResult_BaseEventPoint,Event Pt cơ bản
+EventResult_ScoreBonus,Thưởng điểm
+EventResult_EventBonus,Thưởng sự kiện
+EventResult_ClearBonus,Bonus Clear
+EventResult_GetEventPoint,Điểm sự kiện nhận được
+EventResult_GetStamina,Vật phẩm sự kiện nhận được
+EventResult_GetBadge,Đã nhận (Dummy)
+EventResult_GetMedal,Loveca nhận được
+EventResult_TotalEventPoint,Tổng điểm sự kiện
+EventResult_TotalStamina,Tổng vật phẩm sự kiện
+EventResult_TotalBadge,Tổng (Dummy)
+EventResult_TotalMedal,Tổng Loveca
+EventResult_NextStory,Cốt truyện tiếp theo
+EventResult_NextReward,Phần thưởng tiếp theo
+EventResult_CompleteReward,Đã nhận tất cả phần thưởng!
+EventResult_EventStaminaBoostValue,{0}x
+EventResult_MemberBonus,Thành viên Event Bonus
+EventResult_MemberBonusInfoMessage,Lưu ý: Member Bonus
+EventResult_StaminaInfoMessage,Lưu ý: Candy
+EventResult_NextPoint,còn lại
+EventResult_RewardDialogTitleClearCell,Phần thưởng Clear ô BINGO
+EventResult_RewardDialogTitleBingo,Phần thưởng BINGO
+EventResult_RewardDialogSheetClear,Phần thưởng Clear Sheet
+EventResult_RewardDialogAllSheetComplete,Phần thưởng hoàn thành
+EventResult_RewardDialogInfoClearCell,Phần thưởng khi Clear một ô BINGO.
+EventResult_RewardDialogInfoBingo,Phần thưởng khi đạt BINGO.
+EventResult_RewardDialogInfoSheetClear,Phần thưởng khi Clear một Sheet.
+EventResult_RewardDialogInfoAllSheetComplete,Phần thưởng khi hoàn thành.
+EventResult_BaseTicket,Scout Ticket
+EventResult_GetTicket,Scout Ticket nhận được
+EventResult_TotalTicket,Tổng Scout Ticket
+EventResult_ClearHomweork,Mục tiêu đã Clear lần này
+EventResult_TotalHomework,Tổng mục tiêu đã hoàn thành
+EventResult_NextHomeworkPoint,Mục tiêu đã Clear
+EventResult_ReStartConfirmTitle,Chơi lại
+EventResult_ReStartConfirmSpiritMessage,Dùng {0} Miracle Star để<br>chơi lại Live?
+EventResult_ReStartConfirmSpiritAutoMessage,Dùng {0} Miracle Star và {1} Auto Ticket để<br>chơi lại Live?
+EventResult_ReStartConfirmAutoMessage,Dùng {0} Auto Ticket để<br>chơi lại Live?
+EventBingoSheet_Title,BINGO Sheet ({0}/{1})
+EventBingoSheet_TotalOpend,Cleared
+EventBingoSheet_TotalOpendValue,<color=#d73c55>{0}</color>/{1}
+EventBingoSheet_TotalSheet,Sheets
+EventBingoSheet_TotalSheetValue,<color=#d73c55>{0}</color>/{1}
+EventBingoSheet_TotalSheetValueCurrent,<color=#d73c55>{0}</color>/{1}
+EventBingoSheet_BingoClearScore,Clear {1} lần với điểm từ <color=#d73c55>{0}</color> trở lên
+EventBingoSheet_BingoClearLife,Clear {1} lần với POWER từ <color=#d73c55>{0}</color> trở lên
+EventBingoSheet_BingoClearJudge,Clear {1} lần với GREAT trở xuống không quá <color=#d73c55>{0}</color>
+EventBingoSheet_BingoClearCombo,Clear {1} lần với MAX Combo từ <color=#d73c55>{0}</color> trở lên
+EventBingoSheet_BingoClearFullCombo,Clear {0} lần với FULL COMBO
+EventBingoSheet_BingoClearMultiScoreRank,Clear Co-op Live với Rank <color=#d73c55>{0}</color> trở lên {1} lần
+EventBingoSheet_BingoClearDeckCharacter,Lập đội hình có <color=#d73c55>{0}</color> và Clear {1} lần
+EventBingoSheet_BingoClearDeckType,Lập đội hình có ít nhất {1} thành viên Attribute <color=#d73c55>{0}</color> và Clear {2} lần
+EventBingoSheet_BingoClearMusicName,Tên bài hát: {0}
+EventBingoSheet_BingoClearEventMusicName,Tên bài hát: Ranking Live {0}
+EventBingoSheet_BingoClearMusicLevel,Level: {0}
+EventBingoSheet_BingoClearMusicLevelValue,{0} trở lên
+EventBingoSheet_BingoRewardButton,Phần thưởng
+EventBingoSheet_BingoRewardDialogTitle,Danh sách phần thưởng
+EventBingoSheet_BingoSheetCompleteRewardNumber,Sheet {0}
+EventMemberBonus_TipsTitle,Về Event Bonus
+BirthdayScene_PlayButtonNameText,Xem lời chúc mừng
+BirthdayScene_AreaButtonNameText,Khu sinh nhật
+EventHomework_HomeworkConfirmButton,Kiểm tra mục tiêu
+EventHomework_MissionNormalText,Nhiệm vụ Normal
+EventHomework_MissionRareText,Nhiệm vụ Rare
+EventHomework_MissionSuperRareText,Nhiệm vụ Super Rare
+EventHomework_LotteryDialogTitle,Rút Co-op Mission
+EventHomework_LotteryDialogRareMissionText,Ví dụ Rare Mission
+EventHomework_LotteryDialogRareMissionInfoText,"* Co-op Mission có ba Rarity: Normal, Rare và Super Rare.<br>Rarity càng cao thì phần thưởng càng tốt."
+EventHomework_LotteryDialogLotteryButtonText,Draw
+EventHomework_MissionChangeDialogTitle,Đổi Co-op Mission
+EventHomework_MissionChangeDialogChangeMessage,"Đổi Co-op Mission hiện tại?<br>* Sau khi đổi, bạn không thể đổi lại cho đến khi chơi một Live."
+EventHomework_MissionChangeDialogUnChangeMessage,"Thực hiện Co-op Mission hiện tại!<br>* Sau khi chơi một Live, bạn sẽ có thể đổi Co-op Mission."
+EventHomework_GetMissionDialogTitle,Đã nhận Co-op Mission
+EventHomework_GetMissionDialogMessage,* Đặt làm Co-op Mission hiện tại
+EventHomework_MissionDetailDialogTitle,Nhiệm vụ Co-op
+EventHomeworkBoxGacha_Title,(Tạm)
+EventHomeworkBoxGacha_NowBox,(Dummy) Box {0}
+EventHomeworkBoxGacha_Remaining,Remaining {0}/{1}
+EventHomeworkBoxGacha_NextBoxButton,Lượt rút tiếp theo
+EventHomeworkBoxGacha_PlayBoxGacha,Draw {0}
+EventHomeworkBoxGacha_UsedTicket,X {0}
+EventHomeworkBoxGacha_HasTicket,Ticket đang có
+EventHomeworkBoxGacha_BoxInfoButton,(Dummy) Nội dung
+EventHomeworkBoxGachaInfo_Title,(Dummy) Nội dung (Box {0})
+EventHomeworkBoxGachaInfo_Page,{0}/{1}
+EventHomeworkBoxGachaResult_Title,Đã nhận vật phẩm!
+EventHomeworkBoxGachaResult_Message,* Bạn có thể nhận từ Hộp quà.
+EventHomeworkRoomSelect_RoomTitleEvent,{0} Live
+EventHomeworkRoomSelect_RoomTitleEveryone,Sự kiện (Dummy)
+EventHomeworkRoomSelect_RankingTarget,Được tính High Score Ranking
+EventHomeworkRoomSelect_RankingExcluded,Không được tính High Score Ranking
+EventHomeworkRoomSelect_RankingExcludedInfo,Không được tính vào xếp hạng.
+EventHomeworkRoomSelect_EventHighScore,High Score sự kiện
+EventHomeworkRoomSelect_EventGroupRanking,Xếp hạng Group High Score
+EventHomeworkMatching_HomeworkMusicLevel,Độ khó bài hát
+EventHomeworkMatching_MusicLevel,{0} trở lên
+EventHomeworkMatching_HomeworkInfo,Chi tiết mục tiêu
+EventHomeworkMatching_Reward,Phần thưởng
+EventHomeworkLiveResult_HomeworkResult,Kết quả mục tiêu
+EventHomeworkLiveResult_HomeworkResultReward,Phần thưởng nhận được
+EventHomeworkLiveResult_RewardBonus,Reward x{0}!
+EventHomeworkLiveResult_RewardBonusValue,X {0}
+EventHomeworkLiveResult_MyClear,Bạn đã đạt
+EventHomeworkLiveResult_OtherClear,Người khác đã đạt
+EventHomeworkLiveResult_NoClear,Chưa đạt
+EventHomeworkLiveResultNewHomework_Title,Mục tiêu mới!
+EventHomeworkLiveResult_MusicLevel,Độ khó bài hát: {0}
+EventHomeworkLiveResult_Homework,Goal: {0}
+EventHomeworkLiveResult_Reward,Vật phẩm thưởng
+EventBonus_PointUpBonus,Bonus tăng Point
+EventBonus_TotalPowerBonus,Bonus tăng Tổng sức mạnh
+EventBonus_PickUpMemberBonus,Bonus thành viên Pick Up
+EventBonus_PointUpTotal,Tổng tăng Point
+EventBonus_PowerUpTotal,Tổng tăng sức mạnh
+EventBonus_PowerUpAddValue,(Tổng sức mạnh +{0})
+EventBonus_BonusPercentUp,{0}% Up
+EventBonus_PowerUpTotalValue,+{0} Up
+EventBonus_BonusCaution,"・Bonus tăng Tổng sức mạnh không kích hoạt trong Live.<br>・Nếu một thành viên đủ điều kiện nhận nhiều bonus, chỉ bonus có giá trị hiệu ứng cao nhất được kích hoạt.<br>・Nếu Unit có nhiều thành viên sở hữu bonus ""Member+"", một thành viên có hiệu ứng Tổng sức mạnh cao nhất và một thành viên có hiệu ứng Event Pt cao nhất có thể kích hoạt bonus riêng.<br>　<color=#C12424>※</color>Với bonus Tổng sức mạnh ""Member+"", chỉ thành viên có kết quả Tổng sức mạnh × giá trị hiệu ứng ""Member+"" cao nhất được kích hoạt.<br>　<color=#C12424>※</color>Với bonus Event Pt ""Member+"", chỉ thành viên có mức tăng Event Pt cao nhất được kích hoạt.<br>　<color=#C12424>※</color>Bonus Tổng sức mạnh và Event Pt ""Member Bonus+"" có thể được kích hoạt bởi hai thành viên khác nhau.<br>　<color=#C12424>※</color>Thành viên có bonus ""Member+"" nhưng không được kích hoạt vẫn có thể kích hoạt một bonus khác.<br>・""Member Bonus"" và ""Member Bonus+"" có thể kích hoạt đồng thời."
+EventIncentive_CheckTicketTitle,Kiểm tra Lottery Ticket
+EventIncentive_CheckTicketMessage,Cảm ơn bạn đã tham gia sự kiện!<br>Bạn có muốn kiểm tra Ticket không?<br><br>{0}　　　{1}
+EventIncentive_CheckTicketWarning,<color=#C12424>※Lottery Ticket không thể chia nhỏ hoặc dùng một phần.<br>※Lottery Ticket chưa dùng khi thời gian sự kiện kết thúc sẽ bị xóa.</color>
+EventIncentive_LostTitle,Kết quả Lottery
+EventIncentive_LostMessage,Phần thưởng an ủi đã được gửi vào Hộp quà.<br>Hy vọng bạn sẽ tiếp tục tham gia lần tới.
+EventIncentive_LostGoToPresentBoxScene,Đến Hộp quà
+EventIncentive_ApplicationTitle,Thông tin cần thiết để đăng ký
+EventIncentive_ApplicationId,ID:
+EventIncentive_ApplicationPassword,Password:
+EventIncentive_ApplicationUrlTitle,URL đăng ký:
+EventIncentive_ApplicationNote,※Ghi chú đăng ký (sẽ bổ sung sau)
+EventIncentive_IdCopy,Đã sao chép!
+EventIncentive_PasswordCopy,Đã sao chép!
+EventIncentive_TermTitle,Điều khoản sử dụng sự kiện
+EventEmotionalSetting_SelectBand,Chọn nhóm để tham gia xếp hạng.
+EventEmotionalSetting_ChangeBand,Chọn nhóm muốn đổi.
+EventEmotionalSetting_SelectMember,Chọn thành viên để tham gia xếp hạng.
+EventEmotionalSetting_ChangeMember,Chọn thành viên muốn đổi.
+LimitedLive_Name_1101001,Tên Limited Live 1
+LimitedLive_Name_1101002,Tên Limited Live 2
+LimitedLive_Name_1301001,Tên Limited Live 3
+LimitedLive_Name_1401001,Tên Limited Live 4
+LimitedLive_Name_1501001,Tên Limited Live 5
+LimitedLive_Name_1502001,Tên Limited Live 6
+LimitedLive_Name_1601001,Tên Limited Live 7
+LimitedLive_Name_1801001,Tên Limited Live 8
+LimitedLive_Name_1802001,Tên Limited Live 9
+LimitedLive_Name_1803001,Tên Limited Live 10
+LimitedLive_Name_1804001,Tên Limited Live 11
+LimitedLive_Name_1805001,Tên Limited Live 12
+LimitedLive_Name_1806001,Tên Limited Live 13
+LimitedLive_Name_1807001,Tên Limited Live 14
+LimitedLive_Name_1808001,Tên Limited Live 15
+LimitedLive_Name_1892001,Tên Limited Live 16
+LimitedLive_Name_1893001,Tên Limited Live 17
+LimitedLive_Name_1894001,Tên Limited Live 18
+LimitedLive_Name_1895001,Tên Limited Live 19
+LimitedLive_Name_1896001,Tên Limited Live 20
+LimitedLive_Name_1701001,Tên Limited Live 21
+LimitedLive_BonusEffect_1101001,Tăng phần thưởng Clear!
+LimitedLive_Period,Period: {0} ~ {1}
+LimitedLive_FreePlayLabel,Chơi tự do
+LimitedLive_TicketLabel,Ticket đang có
+LimitedLive_FreePlayCountLabel,Còn lại
+LimitedLive_FreePlayCountValue,Còn {0}
+LimitedLive_TicketAmountValue,x{0}
+LimitedLive_LiveIsChosen,Đã chọn bài hát
+LimitedLive_DetailDialog_RuleSection,◆Rules
+LimitedLive_DetailDialog_RuleSection_ResetDaily,{0}/day
+LimitedLive_DetailDialog_RuleSection_ResetWeekly,{0}/week
+LimitedLive_DetailDialog_RuleSection_Rule_1,Đây là Live có cơ hội nhận {0}.<br>Có thể chơi {1}.<br>※Bạn cũng có thể chơi bằng Meal Ticket.<br>Phần thưởng tăng ở Hit Song.
+LimitedLive_DetailDialog_RuleSection_Rule_2,Có thể chơi {1}.<br>※Bạn cũng có thể chơi bằng Meal Ticket.<br>Phần thưởng tăng ở Hit Song.
+LimitedLive_DetailDialog_RewardSection,◆Reward
+LimitedLive_DetailDialog_BonusLiveSection,◆Hit Song<br>　{0}
+LimitedLive_DetailDialog_PeriodSection,◆Period<br>　{0} ~ {1}
+LimitedLive_UnlockDialog_NotEnouchTicketDaily,<color=#D73C55>Bạn không có đủ Meal Ticket.</color><br>※Free Play khả dụng sau 4:00 sáng ngày hôm sau.
+LimitedLive_UnlockDialog_NotEnouchTicketWeekly,<color=#D73C55>Bạn không có đủ Meal Ticket.</color><br>※Free Play khả dụng sau 4:00 sáng Thứ Hai.
+LiveCondition_Label,Điều kiện tham gia Live
+LiveCondition_CompareType_EQ,exactly
+LiveCondition_CompareType_GE,or more
+LiveCondition_CompareType_LE,or less
+LiveCondition_Detail_Character,(Tạm) Đặt {1} {0} vào đội hình {2}
+LiveCondition_Detail_Group,(Tạm) Đặt {1} {0} vào đội hình {2}
+LiveCondition_Detail_CardType,(Tạm) Đặt {1} {0} vào đội hình {2}
+LiveCondition_Detail_DeckRole,(Tạm) Đặt {1} {0} vào đội hình {2}
+LiveCondition_Detail_Card,(Tạm thời) Đặt {0} vào đội hình
+LiveCondition_Detail_UserRank,(Tạm thời) User Rank {0}{1}
+LiveCondition_Detail_Title,"(Tạm thời) Đặt danh hiệu ""{0}"""
+LiveCondition_Detail_Item,"(Tạm thời) Dùng vật phẩm ""{0}"""
+LiveCondition_CannotCreateMultiPlayRoomSinceNotSatisfy,Không thể tạo Room: bạn chưa đáp ứng điều kiện.
+LiveRule_Label,Luật Live
+LiveRule_Notes_Judgement_EQ,(Tạm thời) Mọi phán định ngoài {0} đều là MISS
+LiveRule_Notes_Judgement_GE,(Tạm thời) {0} trở xuống là MISS
+BeginnerMission_BingoTitle,Nhiệm vụ người mới ({0}/{1})
+BeginnerMission_BingoSheetClear,Phần thưởng Clear BINGO {0}
+BeginnerMission_BingoLineClear,Phần thưởng Clear Line
+BeginnerMission_BingoNotStarted,Vẫn còn Sheet chưa hoàn thành.
+BeginnerMission_BingoMissionDetailTitle,Chi tiết nhiệm vụ
+BeginnerMission_BingoMissionReward,Phần thưởng Clear
+BeginnerMission_BingoMissionChallenge,Thử thách
+BeginnerMission_BingoMissionAcheved,Tiến độ
+BeginnerMission_BingoMissionOverview,Tổng quan nhiệm vụ
+BeginnerMission_BingoMissionItemOverview,Tổng quan
+BeginnerMission_BingoMissionRewardItemNum,X {0}
+TeacherLiveTop_NowMission,Mission hiện tại
+TeacherLiveTop_EndEvent,Sự kiện này đã kết thúc.
+TeacherLiveTop_ExchangeButton,Đổi vật phẩm
+TeacherLiveTop_LiveButton,Đến Live
+TeacherLiveTop_InfoButton,Info
+TeacherLiveTop_LiveCondition,Có điều kiện Live
+TeacherLiveTop_LiveRule,Luật Live
+TeacherLiveTop_RemainingMission,Mission còn lại: <color=#D73C55>{0}</color>/{1}
+TeacherLiveTop_RemainingMissionValue,{0}/{1}
+TeacherLiveTop_GoGoTime,(Tạm)
+TeacherLiveTop_GoGoTimeRemainingCount,{0} times
+TeacherLiveTop_ExchangeTerm,Trao đổi mở đến {0}
+TeacherLiveTop_LiveConditionDialogTitle,Điều kiện Live
+TeacherLiveTop_LiveConditionDialogCondition,Điều kiện tham gia Live
+TeacherLiveTop_LiveConditionDialogRule,Luật Live
+TeacherLiveLiveResult_GoGoTime,Văn bản Dummy
+TeacherLiveLiveResult_MissionClearTitle,(Dummy) Hoàn thành Mission!
+TeacherLiveLiveResult_CurrentMission,(Dummy) Mission hiện tại
+TeacherLiveLiveResult_NextMission,(Dummy) Mission tiếp theo
+TeacherLiveLiveResult_RemainingMission,(Dummy) Mission còn lại: {0}/{1}
+CharacterEpisodeLevel_TotalTabName,Tổng
+CharacterEpisodeLevel_TotalEpisodeStar,(Tổng Story Star ★×{0})
+CharacterEpisodeLevel_RemainingExp,★ {0}
+ItemList_Tab_Enhancement,Vật phẩm Training
+ItemList_Tab_Boost,Hồi LP
+ItemList_Tab_Ticket,Tickets
+ItemList_Tab_Stamp,Sticker
+ItemList_Tab_Other,Khác
+ItemList_Empty,Bạn không có vật phẩm phù hợp.
+ItemList_LimitDate,Đến {0}
+MusicVideo_Conform_title,Xác nhận phát MV
+MusicVideo_Conform_Message,{0}<br>Phát Music Video này?<br>Không thể nhận phần thưởng Live trong MV Mode.
+MusicVideo_Conform_Supplement,Không hiện cửa sổ này nữa.
+MusicShop_Title,Cửa hàng nhạc
+MusicShop_Exchange,Đổi vật phẩm
+MusicShop_Replaced,Exchanged
+MusicShop_Lack,Không đủ nguyên liệu
+MusicShop_ExchangeListEmpty,Không có bài hát nào để trao đổi.
+MusicShop_DetailTitle,Chi tiết bài hát
+MusicShop_ExchangeTitle,Trao đổi bài hát
+MusicShop_RequiredValue,Required
+MusicShop_ExchangeMessage,Đổi lấy {0}?
+MusicShop_ExchangeResultTitle,Trao đổi bài hát hoàn tất
+Announcement_DialogTitle,Notice
+RankUp_UserRankUpDialogTitle,Rank Up!
+RankUp_BandRankUpDialogTitle,Tăng Group Rank
+RankUp_BandRank,Hạng nhóm
+RankUp_TotalBandRank,Tổng Group Rank
+RankUp_DeckPower,Sức mạnh Deck +
+RankUp_LpRecoverText,Recovered {0} LP.
+RankUp_LpMaxUpText,LP tối đa đã tăng!
+Shop_ResetDaily,(Cập nhật hằng ngày lúc 0:00)
+Shop_ResetWeekly,(Cập nhật Thứ Hai lúc 0:00)
+Shop_Monthly,(Cập nhật ngày 1 lúc 0:00)
+Shop_BuyRemain,Remaining: {0}
+Shop_BuyLimit,Đến {0}
+Shop_AllBuy,Purchased
+Shop_ItemDetaiTitle,Chi tiết vật phẩm
+Shop_AllItemDetaiTitle,Phần thưởng bán hết
+Shop_AllItemCompleteTitle,Nhận phần thưởng bán hết
+MovieCollection_TabMovieTypeShort,Video ngắn
+MovieCollection_TabMovieTypeLong,Video dài
+MovieCollection_TabMovieTypeSpPhoto,Ảnh SP
+MovieCollection_HomeSettings,Đặt làm Home
+MovieCollection_EmptyMovie,No videos.
+MovieCollection_EmptySpPhoto,No SP Photos.
+MovieCollection_DetailTitle,Chi tiết video
+MovieCollection_DetailHomeSettings,Đặt làm Background Home
+MovieCollection_DetailHomeSettingsMessage,Video background Home phải được bật trong màn hình Tùy chọn.
+MovieCollection_RefineBandTitle,Nhóm
+MovieCollection_RefineBandOther,Khác
+MovieCollection_RefineMemberTitle,Thành viên
+MovieCollection_RefineGetCategoryTitle,Danh mục nguồn
+MovieCollection_RefineGetCategoryEvent,Sự kiện
+MovieCollection_RefineGetCategoryCard,Thành viên
+MovieCollection_RefineGetCategoryStory,Cốt truyện
+MovieCollection_RefineGetCategoryEtc,Khác
+LiveResult_FriendApplyButton,Lời mời kết bạn
+LiveResult_FriendStatusRequest,Đã gửi lời mời kết bạn
+LiveResult_FriendStatusFriend,Bạn bè
+LiveResult_ScoreDetailButton,Chi tiết điểm
+LiveResult_ScoreDetailTitle,Chi tiết điểm
+LiveResult_SessionSelectButton,Đến Chọn Live
+LiveResult_HomeButton,Về Trang chủ
+LiveResult_MusicSelectButton,Đến Chọn bài hát
+LiveResult_RestartButton,Chơi lại<br>bài này
+LiveResult_GuestSelectButton,Bắt đầu Live<br>bài này
+LiveResult_RecommendLiveTitle,Đề xuất cho bạn
+LiveResult_BackMusicSelectTitle,Chơi bài khác
+LiveResult_BackMusicSelectButton,Quay lại chọn bài
+LiveResult_RestartDialogTitle,Xác nhận chơi lại
+LiveResult_RestartDialog_EventPtRewardGotAll,Đã nhận toàn bộ<br>phần thưởng Event Pt
+LiveResult_RestartDialog_EventPtRewardTitle,Phần thưởng điểm sự kiện
+LiveResult_RestartDialog_EventScoreRank,Hạng điểm sự kiện
+LiveResult_RestartDialog_EventTotalPtRank,Hạng tổng Event Pt
+LiveResult_LiveClear,LIVE CLEAR!!
+LiveResult_LiveClear2,LIVE CLEAR!!
+LiveResult_TapScreen,Chạm màn hình
+LiveResult_Score,Điểm
+LiveResult_Combo,Combo
+LiveResult_HighScore,Điểm cao
+LiveResult_NewReacord,KỶ LỤC MỚI!!
+LiveResult_PerfectCount,Số PERFECT
+LiveResult_Perfect,Perfect
+LiveResult_Great,Great
+LiveResult_Good,Good
+LiveResult_Bad,BAD
+LiveResult_Miss,Miss
+LiveResult_Normal,Thường
+LiveResult_SyncTap,Nhấn đồng thời
+LiveResult_LongTap,Hold
+LiveResult_Swing,Swing
+LiveResult_GetExp,EXP nhận được
+LiveResult_NextRank,Đến Rank tiếp theo
+LiveResult_GetGold,Gold
+LiveResult_GetFriendPoint,Bond nhận được
+LiveResult_GetFriendPointWindow,Thông tin Bond
+LiveResult_TotalScore,Tổng điểm
+GuestSelect_Title,Chọn Guest
+BandEnrich_ItemEmpty,Bạn không có Group Boost Item.
+BandEnrich_All,Tất cả
+BandEnrich_X,μ's
+BandEnrich_L,Aqours
+BandEnrich_G,Nijigasaki
+GemShort_NeedChargeGemLabel,Loveca trả phí cần thiết
+GemShort_HaveChargeGemLabel,Loveca trả phí đang có
+GemShort_NeedGemLabel,Loveca cần thiết
+GemShort_HaveGemLabel,Loveca đang có
+CollectionChara_Profile,Hồ sơ
+CollectionChara_CardList,Danh sách Card
+StorySort_TitleBand,Nhóm
+StorySort_TitleStory,Cốt truyện
+StorySort_StoryRead,Read
+StorySort_StoryUnread,Unread
+StoryList_EmptyText,Không có cốt truyện để xem.
+MemberList_EmptyText,Không có thành viên phù hợp.
+CollectionReleaseConfirm_DialogTitle,Xác nhận mở khóa Collection
+CollectionReleaseConfirm_Conditions,Điều kiện mở khóa: Số lần Thức tỉnh cần thiết {0}/{1}
+CollectionReleaseConfirm_Reward,Phần thưởng mở khóa
+CollectionReleaseReward_DialogTitle,Đã mở khóa Collection
+CollectionReleaseReward_SpPhotoReleaseMessage,SP Photo đã được mở khóa!<br>Bạn có thể xem SP Photo trong Chi tiết thành viên hoặc SP Photo Collection.
+CollectionReleaseReward_MovieReleaseMessage,"Video ""{0}"" đã được mở khóa.<br>Bạn có thể xem trong Chi tiết thành viên hoặc Movie Collection."
+CollectionReleaseReward_GetReward,Bạn đã nhận {0} làm phần thưởng mở khóa.
+CollectionReleaseReward_CardInfoButton,Đến Chi tiết thành viên
+CollectionReleaseReward_CollectionButton,Đến Chi tiết Collection
+GachaLotteryExchangeItemConfirm_Title,Chuyển đổi Scout Point
+GachaLotteryExchangeItemConfirm_Info,Scout Point đã hết hạn được chuyển thành Skill Book (Medium).
+Migration_TopTitle,Chuyển dữ liệu / Liên kết tài khoản
+Migration_SnsLink,Liên kết tài khoản
+Migration_EnableSnsLink,* Tài khoản có thể liên kết
+Migration_SelectSnsLink,Vui lòng chọn tài khoản để liên kết.
+Migration_Twitter,Liên kết với Twitter
+Migration_Apple,Đăng nhập bằng Apple
+Migration_Google,Đăng nhập bằng Google
+Migration_SignIn,Chưa đặt
+Migration_SignOut,Đã liên kết
+Migration_CompleteSnsLink,Đã liên kết tài khoản
+Migration_CompleteSnsSignOut,Hủy liên kết tài khoản
+Migration_SnsLinkMessage,"Đã liên kết dữ liệu.<br>Sau khi cài ứng dụng trên thiết bị mới,<br>vào [MENU] > [Chuyển dữ liệu] ở màn hình tiêu đề để liên kết tài khoản."
+Migration_SignOutMessage,Đã hủy liên kết dữ liệu.
+Migration_TakeOverButton,Chuyển đổi
+RewardDetailDialog_CanBeAcquired,Số lượng có thể nhận
+RewardDetailDialog_Acquired,Số lượng đã nhận
+RewardDetailDialog_Possession,Đang sở hữu
+MusicSelect_NoData,Không tìm thấy bài hát phù hợp.
+MusicSelect_NoDataAndResetFilter,Không tìm thấy bài hát nên bộ lọc đã được đặt lại.
+MusicSelect_ResetFilterToSelectData,Bộ lọc đã được đặt lại để chọn bài hát chỉ định.
+MusicSelect_FilterAttribute,Thuộc tính
+MusicSelect_FilterAttributeSmile,Smile
+MusicSelect_FilterAttributePure,Pure
+MusicSelect_FilterAttributeCool,Cool
+MusicSelect_FilterSelect,Condition
+MusicSelect_FilterGroup,Nhóm / Bài hát
+MusicSelect_FilterNotClear,Chưa Clear
+MusicSelect_FilterScoreS,Chưa đạt Score S
+MusicSelect_FilterComboS,Chưa đạt Combo S
+MusicSelect_FilterClearS,Chưa đạt Clear S
+MusicSelect_FilterCampaign1,Campaign
+MusicSelect_FilterCampaign2,Target
+MusicSelect_FilterUndo,Xóa tất cả
+MusicSelect_ButtonApply,Áp dụng
+MusicSelect_RehearsalButton,Rehearsal
+MusicSelect_LiveButton,Live
+MusicSelect_NoDifficulty,Bài hát đã chọn không có độ khó MASTER nên sẽ chọn bài khác.
+MusicSelect_NoAnyDifficulty,Bài hát đã chọn không có độ khó {0} nên sẽ chọn bài khác.
+HomePreset_ClearPresetButton,Đặt lại Home Screen Custom {0} về chưa thiết lập?
+PresentBox_Attention,"* Có thể lưu tối đa 100.000 quà. Nếu vượt giới hạn, quà cũ nhất sẽ bị xóa trước. Quà quá hạn nhận cũng tự động bị xóa. Có thể nhận tối đa 100 quà mỗi lần."
+PresentBox_Filter,Bộ lọc
+PresentBox_Filter_Title,Bộ lọc
+PresentBox_Filter_Button_AllSelect,Tất cả
+PresentBox_Filter_Button_AllRelease,Bỏ chọn
+PresentBox_Filter_Type_Title,Loại quà
+PresentBox_Filter_Type_Member,Thành viên
+PresentBox_Filter_Type_Gem,Loveka
+PresentBox_Filter_Type_Gold,Gold
+PresentBox_Filter_Type_Ticket,Vé Scout
+PresentBox_Filter_Type_Recovery,Hồi LP
+PresentBox_Filter_Type_Other,Khác
+PresentBox_Filter_ExpireTime_Title,Deadline
+PresentBox_Filter_ExpireTime_Limit,Có thời hạn
+PresentBox_Filter_ExpireTime_NoLimit,No Expiry
+HomePreset_Set_Label,Set {0}
+HomePreset_Multiple_Set_Label,Nhiều bộ
+PresentBox_History_Attention,"* Có thể lưu tối đa 30 mục. Nếu vượt giới hạn, mục cũ nhất sẽ bị xóa trước. Lịch sử nhận cũng tự động bị xóa sau 30 ngày."
+BeginnerMission_BingoLine,{0} -line
+Mission_Filter,Bộ lọc
+Mission_Filter_Title,Bộ lọc
+Mission_Filter_Button_AllSelect,Tất cả
+Mission_Filter_Button_AllRelease,Bỏ chọn
+Mission_Filter_Content_Title_Reward,Phần thưởng
+Mission_Filter_Reward_Member,Thành viên
+Mission_Filter_Reward_Gem,Loveca
+Mission_Filter_Reward_Gold,Gold
+Mission_Filter_Reward_Ticket,Vé Scout
+Mission_Filter_Reward_Recovery,Vật phẩm hồi LP
+Mission_Filter_Reward_Exp,Vật phẩm Lesson
+Mission_Filter_Reward_SkillExp,Vật phẩm Skill Lesson
+Mission_Filter_Reward_Evolve,Vật phẩm Thức tỉnh
+Mission_Filter_Reward_Title,Danh hiệu
+Mission_Filter_Reward_Other,Khác
+Mission_Achievement,Tiến độ
+HomePreset_Edit_Dialog_Text,Lưu thay đổi Home Screen Custom?
+GachaTop_Invitation_Bonus_Detail,Chi tiết Recruit Point
+GachaTop_Invitation_Bonus,<size=29>Recruit<br><size=23>Point
+Adv_Log_NameSuffix_Telop,[Caption]
+EventTop_Button_Tips_Rule,Rules
+EventTop_Button_Tips_Bonus,Chi tiết Bonus
+EventTop_Button_Reward,Chi tiết phần thưởng
+EventTop_Button_Story,Cốt truyện<br>sự kiện
+EventTop_Button_Ranking,Xem xếp hạng
+EventTop_Button_Exchange,Đổi vật phẩm
+EventTop_Button_Favorite,Kiểm tra (Tạm)
+EventTop_Button_ToEvent,Bài hát sự kiện
+EventTop_Button_ToGeneral,Bài hát thường
+EventTop_Favorite_Ranking,Thành viên được chọn nhiều nhất
+EventTop_Point_Total,Tổng điểm sự kiện
+EventTop_Point_Next_Story,Đến cốt truyện tiếp theo
+EventTop_Term_Title,<size=20>Thời gian mở</size> {0}<size=20> đến</size>
+EventTop_Point,{0} pt
+EventTop_Rank,Hạng {0}
+Tutorial_Group_Muse,"- Nhóm school idol của Học viện Otonokizaka, hoạt động quanh khu Akihabara, Tokyo.<br>- Tên nhóm bắt nguồn từ Muses, chín nữ thần của âm nhạc.<br>- Hướng tới chiến thắng tại Love Live!"
+Tutorial_Group_Aqours,"- Nhóm school idol của Trường nữ sinh Uranohoshi, hoạt động quanh Numazu, Shizuoka.<br>- Được thành lập để mang sức sống trở lại cho ngôi trường.<br>- Hướng tới chiến thắng tại Love Live!"
+Tutorial_Group_Nijigaku,"- Các school idol của Học viện Nijigasaki, hoạt động quanh Odaiba, Tokyo.<br>- Mỗi người trân trọng cá tính riêng và hoạt động như một solo school idol.<br>- Thay vì Love Live!, mỗi người đều hướng tới trở thành school idol số một."
+Tutorial_Group_Liella,"- Nhóm school idol của Trường nữ sinh Yuigaoka, hoạt động quanh Harajuku, Tokyo.<br>- Yuigaoka là một ngôi trường mới và câu lạc bộ được thành lập ngay năm đầu mở trường.<br>- Một trong những nhóm đáng chú ý tại Love Live!"
+Tutorial_Group_SelectButton,Chọn nhóm này
+Tutorial_Member_SelectButton,Chọn thành viên này
+Tutorial_Recommend_Lesson,Nâng Level thành viên bằng Lesson!
+Tutorial_Recommend_Gacha,Nhận vật phẩm Training qua Item Scouting!
+Tutorial_Recommend_Live,"Trước tiên, hãy thử một Live!"
+EventRanking_Tab_MySelf,My Ranking
+EventRanking_Tab_Rank,Hạng {0}
+EventRanking_Tab_TotalPoint,BXH điểm sự kiện
+EventRanking_Tab_Score,Xếp hạng điểm bài hát sự kiện
+EventRanking_Tab_Favorite,BXH lựa chọn hàng đầu
+EventBonus_Tab_Point,Thưởng điểm sự kiện
+EventBonus_Tab_Item,Bonus Miracle Star
+EventBonus_MultiTab_Score,Thưởng điểm
+EventBonus_MultiTab_Item,Thưởng vật phẩm đăng nhập
+EventBonus_Button_Disclaimer,Disclaimer
+EventBonus_Point_Value,+{0}%
+EventBonus_Item_Value,+{0}
+EventBonus_Empty_List,Không có dữ liệu.
+EventTop_Button_ToGeneral_Msg,Nhận Miracle Star!
+EventTop_Button_Favorite_Ranking,BXH lựa chọn hàng đầu
+EventTop_Button_Mission,Missions
+EventTop_Point_Next_Reward,Đến phần thưởng tiếp theo
+EventTop_Point_Ranking,BXH điểm sự kiện
+EventBonus_Title,Chi tiết Bonus
+EventRanking_Ranking_Not_Exists,Không có xếp hạng.
+GemShop_Footer_Special_Commercial_Code,Luật thương mại /<br>Luật dịch vụ thanh toán
+GemShop_Footer_Precautions_Regarding_Use,Lưu ý<br>sử dụng
+EventRanking_Unaggregated,Dữ liệu xếp hạng<br>chưa được tổng hợp.
+EventReward_EmotionalMemberUnselected,Không thể hiển thị vì bạn chưa chọn Top Pick Member.
+EventReward_RequiredPoint,Required Pt
+LpBoost_LP_Count,LP Owned
+LpBoost_LP_Default_Amount,LP cơ bản tiêu thụ
+LpBoost_LP_Discount,LP Discount!
+LpBoost_Min,Min
+LpBoost_EventPt,Điểm sự kiện
+LpBoost_Get,Earn
+LpBoost_GetReward,Phần thưởng nhận được
+LpBoost_UseLpMessage,Số lượng và loại phần thưởng thay đổi theo lượng LP bạn tiêu thụ.
+LpBoost_UseLpSetting,Cài đặt LP tiêu hao
+LpBoost_Count,Đang sở hữu
+LpBoost_UseCount,Chi phí
+LpBoost_Default,Base
+LpBoost_GetRewardMessage,số lượng phần thưởng nhận được thay đổi tương ứng
+LpBoost_Use,Spend
+LpBoost_UseLp,LP tiêu hao
+LpBoost_Setting,Cài đặt
+LpBoost_UseLPMessageShort,Phần thưởng tăng theo lượng LP bạn tiêu thụ.
+Skip_Message,"*Phần thưởng Clear của tất cả lượt Skip được trao cùng lúc.<br>*Khi Skip, High Score của bạn được dùng làm điểm kết quả Live."
+Skip_Ticket_Count,Skip Ticket đang có
+Skip_Ticket_UseCount,Đặt số lần Skip
+Skip_Confirm,Xác nhận Skip
+Skip_Lock_Message,Clear độ khó đã chọn để mở khóa chức năng Skip.
+Skip_Not_Enough_Ticket,Bạn không có Skip Ticket.
+LoginBouns_RewardAmountBonus,(+{0})
+EventTop_Button_ToGeneral_2,Đến Live
+EventTop_Button_ToGeneral_2_Msg,Nhận Event Pt!
+EventTipsDialog_Tips_Title,Cách chơi sự kiện
+EventTop_Aggregate,Đang tổng hợp xếp hạng
+EventTop_EventClose,Sự kiện đã kết thúc.
+BeginnerMission_Bingo,Bingo
+TakeOver_DialogTitle,Liên kết dữ liệu chơi
+TakeOver_DialogUserId,Love Live! School Idol Festival User ID
+TakeOver_DialogPassword,Mật khẩu Play Data Link
+TakeOver_DialogPasswordSample,Enter
+TakeOver_DialogAccept,Liên kết dữ liệu chơi
+TakeOver_DialogDescription,Nhập Love Live! School Idol Festival User ID và mật khẩu Play Data Link<br>để xem Album Love Live! School Idol Festival.
+TakeOver_DialogAttension,* Không thể xem nếu chưa thiết lập Play Data Linking trong Love Live! School Idol Festival.<br>* Lưu ý rằng Play Data Linking và nhận bonus liên kết đều chỉ thực hiện được một lần.
+TakeOver_DialogUserError,Vui lòng nhập Love Live! School Idol Festival User ID.
+TakeOver_DialogPasswaordError,Vui lòng nhập mật khẩu Play Data Link.
+TakeOver_DialogDone,"Play Data Linking đã hoàn tất và ""Memories Album"" hiện có thể xem.<br>Vui lòng nhận bonus Play Data Linking từ Hộp quà."
+BeginnerMission_BingoPlayableBalloonTips,Mở khóa sau khi Clear BINGO {0}
+Mission_ChallengeButton_Chat,Đến Trò chuyện
+Mission_ChallengeButton_Home,Về Trang chủ
+Common_Remain,Còn lại
+Mission_Attention_Daily,Daily Goal được làm mới mỗi ngày lúc 0:00.
+Mission_Attention_ExpireTime,Có hiệu lực đến {0}.
+Mission_Attention_Subscription,* Tiến độ MIRACLE Pass Goal được tính sau khi đăng ký.
+Mission_HeaderTabTotal,Tổng sự kiện
+Mission_HeaderTabDaily,Hằng ngày
+HomePreset_DropDownItem_Obtain,Theo thời gian nhận
+HomePreset_DropDownItem_Rare,Độ hiếm
+HomePreset_DropDownItem_Anime,Có Animation
+HomePreset_DropDownItem_Favorite,Yêu thích
+Event_CategoryName_1,Miracle Collection
+Event_CategoryName_2,Chuyến tham quan tự do
+Event_CategoryName_3,Co-op Live
+Event_CategoryName_4,Star Event
+Event_Favorite_Button_Home,Về Màn hình chính
+Event_Favorite_Button_Decide,Xác nhận
+Event_Favorite_Title,Chọn thành viên yêu thích!
+Event_Favorite_Tips,Top Pick là gì?
+Event_Favorite_Confirm_Title,Xác nhận
+Event_Favorite_Confirm_Desc,"Đặt Top Pick Member<br>thành {0}?<br><br><color=#C70F01>* Sau khi đặt, không thể thay đổi cho đến khi sự kiện kết thúc.</color>"
+EventBonus_PointBonus_Desc,Event Pt Bonus có hiệu lực khi đưa thành viên được chọn vào đội hình!<br>Nhận nhiều Event Pt hơn khi Clear Live!
+EventBonus_PointBonus_Attention,* Event Pt Bonus áp dụng tổng giá trị của tất cả thành viên được chọn trong đội hình.
+EventBonus_ItemBonus_Desc,"Khi có thành viên được chọn trong danh sách, bạn sẽ nhận thêm Miracle Star từ Login Bonus!"
+EventBonus_ItemBonus_Attention,* Miracle Star Bonus áp dụng tổng giá trị của tất cả thành viên được chọn trong danh sách.<br>* Miracle Star Bonus chỉ áp dụng vào ngày Login Bonus có Miracle Star.
+EventBonus_ScoreBonus_Desc,Score Bonus có hiệu lực khi đưa thành viên được chọn vào đội hình!<br>Nhận điểm cao hơn khi Clear Live!
+EventBonus_ScoreBonus_Attention,* Score Bonus áp dụng tổng giá trị của tất cả thành viên được chọn trong đội hình.
+EventBonus_ItemBonusMulti_Desc,"Khi có thành viên được chọn trong danh sách, bạn sẽ nhận thêm vật phẩm từ Login Bonus!"
+EventBonus_ItemBonusBonusMulti_Attention,* Login Item Bonus áp dụng tổng giá trị của tất cả thành viên được chọn trong danh sách.<br>* Login Item Bonus không áp dụng cho Gold.
+EventBonus_BeforeEvolve,Trước Thức tỉnh
+EventBonus_AfterEvolve,Sau Thức tỉnh
+EventBonus_HaveCard,Đã nhận
+MusicSelect_CanNotFocusMusic,Không tìm thấy bài hát phù hợp với bộ lọc tìm kiếm hiện tại.
+Common_ContinueSpiritShortageShortMessage,Bạn không có đủ Miracle Star.
+EventReward_Category_EventPoint,Tổng điểm sự kiện
+EventReward_Category_EventScore,Điểm
+EventRanking_Category_EventPoint,Tổng điểm sự kiện
+EventRanking_Category_EventScore,Điểm
+Common_Consumption,Chi phí
+Common_Setting,Cài đặt
+PresentBox_ReceivableItemCount,{0}/<size=-10>{1}</size>
+HomePreset_Edit_EmptyPresetText,Chưa thiết lập Home Screen Custom.
+Header_Lp_TextTag,{0}/<size=25>{1}
+Adv_Button_Skip,Bỏ qua
+Adv_Button_Auto,Auto
+Adv_Button_Fast,Tua nhanh
+Adv_Button_Log,Log
+Adv_Button_Deactive,Ẩn
+Adv_Button_MovieSkip,Bỏ qua
+Adv_Button_MoviePlay,Play
+Adv_Button_MovieStop,Pause
+Adv_Button_MoviePrevStep,Quay lại
+Adv_Button_MovieNextStep,Tiếp theo
+Adv_Button_MovieDeactive,Ẩn
+Header_Lp_Text,L <size=21> p
+StoryPart_NotLiveClearGroupMusicCount,Mở khóa sau khi chơi bài hát của {0} thêm {1} lần trong Live.
+StoryPart_NotLiveClearMusicCount,Mở khóa sau khi Clear {0} thêm {1} lần.
+Common_SeriesName_1,Love Live!
+Common_SeriesName_2,Love Live! Sunshine!!
+Common_SeriesName_3,Love Live! Nijigasaki High School Idol Club
+Common_SeriesName_4,Love Live! Superstar!!
+Common_SeriesName_5,Love Live! Hasunosora Girls' High School Idol Club
+StoryPart_NotRelease_EventStory,Bạn không có đủ Event Pt.
+Common_NoCapture,Không được phép chụp màn hình này.
+Common_EventCloseMessage,Hiện không có sự kiện nào.
+LiveResult_BonusText,Bonus +{0} <size=-3>%</size>
+HomePreset_Title_HomeCustomEdit,Chỉnh sửa Home Custom
+HomePreset_Title_Preview,Preview
+HomePreset_Title_BackgroundSelection,Chọn Background
+HomePreset_Title_ForegroundSelection,Chọn Foreground
+HomePreset_Title_MemberChange,Thay đổi
+HomePreset_HomeCustom,Tùy chỉnh Home
+HomePreset_Save_HomeCustom,Đã lưu Home Custom.
+HomePreset_PhotoWarning,Không thể áp dụng background và hiệu ứng trong cài đặt Photo.
+TermsOfService_Credit,Ghi công
+TermsOfService_Button_InformationNotation,Hiển thị thông tin
+TermsOfService_Button_Performance,Achievements
+TermsOfService_Button_StoneConfirmation,Xem Loveca
+SubMenu_Button_Profile,Hồ sơ
+SubMenu_Button_Friend,Bạn bè
+SubMenu_Button_ItemList,Danh sách vật phẩm
+SubMenu_Button_Exchange,Đổi vật phẩm
+SubMenu_Button_Album,Album
+SubMenu_Button_OnePanelComic,Truyện 1 khung
+SubMenu_Button_MemoryAlbum,Memory Album
+SubMenu_Button_DataTransfer,Chuyển dữ liệu
+SubMenu_Button_SerialCode,Mã serial
+SubMenu_Button_LocationCampaign,Quà<br>đi chơi
+SubMenu_Button_MusicLibrary,Music Library
+GemShopItem_SubscriptionButton_Restore,Restore
+LiveResult_GetFriendPointSameMemberFormation,Thành viên này đã có trong đội hình.
+EventTop_RewardGotAll,Đã nhận toàn bộ<br>phần thưởng Event Point.
+EventTop_StoryAllReleased,Đã mở khóa toàn bộ cốt truyện.
+HomePreset_Cant_Clear_Last1,Không thể xóa preset khi chỉ còn một preset.
+EventTop_NotSetFavorite,Thành viên yêu thích: Chưa đặt
+StoryPart_NotRelease_ReadPrevious,Bạn chưa đọc cốt truyện trước.
+SerialCode_InputDialogTitle,Mã serial
+SerialCode_InputDialogText,Nhập serial code.
+SerialCode_InputEmptyText,Mã serial
+SerialCode_InputDialogAttentionText,* Vật phẩm nhận được sẽ gửi vào Hộp quà.<br> * Mỗi phần thưởng serial code chỉ có thể nhận một lần trên mỗi tài khoản.
+SerialCode_ConfirmDialogTitle,Xác nhận
+SerialCode_ConfirmDialogText,Nhận phần thưởng cho [{0}]?
+SerialCode_SuccessMessage,Vui lòng nhận vật phẩm thưởng từ Hộp quà.
+SerialCode_ErrorMessageAlreadyUsed,Serial code này đã được sử dụng.
+SerialCode_ErrorMessageNotUse,Serial code bạn nhập không hợp lệ.
+SerialCode_ErrorMessageNotAvailable,Bạn đã nhận đủ số lần tối đa của phần thưởng chiến dịch này.
+SerialCode_ErrorMessageNotEnter,Hiện chưa thể vào. Bạn có thể thử lại sau {0}.
+SerialCode_InputButtonText,Nhập<br>Serial Code
+SerialCode_ConfirmButtonText,Xác nhận<br>Serial Code
+SerialCode_DisplayButtonText,Hiện<br>Serial Code
+SerialCode_CopyMessage,Đã sao chép mã serial.
+SerialCode_NoCampaign,Hiện không có chiến dịch nào.
+SerialCode_DisplayDialogTitle,Hiện Serial Code
+SerialCode_DisplayDialogAttentionText,* Mỗi tài khoản chỉ có thể phát hành một serial code.
+SerialCode_DisplayDialogText,Đây là serial code của {0}.
+SerialCode_FailedToCreateSerialCode,Không thể lấy serial code. Vui lòng chờ một lúc rồi thử lại.
+SerialCode_NoAllocatableCode,Không thể cấp serial code. Vui lòng liên hệ hỗ trợ.
+Common_EventPointDetail,{0}'s {1}
+EventTop_Multi_RoomIdCopy,Đã sao chép Room ID.
+SerialCode_ErrorMessageExpired,Serial code bạn nhập đã hết hạn.
+SerialCode_ErrorMessageRankOutOfRange,"Bạn chưa đạt Player Rank yêu cầu của serial code này,<br>nên không thể sử dụng."
+LocationInformation_Message,Đến địa điểm chỉ định trước khi hết thời gian để nhận phần thưởng!
+LocationInformation_Success,Đã lấy thông tin vị trí thành công! Vui lòng nhận phần thưởng từ Hộp quà.
+LocationInformation_ConfirmDialogTitle,Xác nhận chiến dịch
+LocationInformation_ConfirmDialogMessage,"Gửi vị trí để nhận phần thưởng. Bạn có chắc không?<br>* Vì an toàn, vui lòng không gửi khi đang di chuyển."
+LocationInformation_ConfirmDialogGetReward,Phần thưởng
+LocationInformation_ConfirmDialogGetLocation,Lấy vị trí
+LocationInformation_NoCampaign,Hiện không có Outing Present nào.
+Common_OnlySecond,Sec
+MultiMatching_CannotMatching,Ghép thất bại. Đang quay lại màn hình sự kiện.
+MultiMatching_Synchronization,Đang đồng bộ với người chơi khác...
+MultiMatching_MemberDecited,Đội đã được xác định!
+MultiMatching_LeaveByTimeLimit,Rời phòng do hết thời gian.
+DeckEdit_Score,Điểm
+MultiMatching_RecruitMembers,Đang tuyển lại thành viên.
+MultiMatching_WaitMembersOnResult,Đang chờ thành viên ở màn hình Kết quả Live.
+MultiDeck_DefaultDeckName,Collab Live
+MultiMatching_WaitingAnotherMembers,Đang chờ người chơi khác.
+MultiMatching_LiveWillStartSoon,Live sắp bắt đầu.
+MultiMatching_SongRequestLabel,Bài hát đã chọn
+MultiMatching_DecideSongRequest,Chọn bài này
+MultiMatching_NoSongCandidate,Không thể chọn bài này.
+MultiMatching_SongPickSecondsSuffix,giây
+MultiMatching_SongPickChosenLabel,Chosen
+MultiMatching_SongPickWaiting,Đang chờ người chơi khác...
+MultiMatching_SongPickClosed,Đã hết thời gian chọn bài.
+MultiRestart_LeaveButton,Leave
+MultiResult_HighScoreNotUpdated,HIGH SCORE không được cập nhật<br>trong Co-op Live
+SSAlignment_SubMenuButtonText,Liên kết SIFAS
+SSAlignment_SubMenuButtonTextAlreadyCompleted,Đã liên kết
+SSAlignment_DialogTitle,Liên kết SIFAS
+SSAlignment_DialogTextPlayerId,SIFAS Player ID
+SSAlignment_DialogTextPassword,Mật khẩu liên kết
+SSAlignment_DialogTextInfo,Nhập Player ID và mật khẩu liên kết được phát hành trong SIFAS<br>để nhận phần thưởng.
+SSAlignment_DialogTextAttension,* Không thể dùng nếu chưa thiết lập liên kết SIF2 trong SIFAS.
+SSAlignment_MessageSuccess,Liên kết với SIFAS đã hoàn tất.<br>Vui lòng nhận phần thưởng từ Hộp quà.
+SSAlignment_ErrorMessageLock,Hiện chưa thể vào. Bạn có thể thử lại sau {0}.
+SSAlignment_ErrorMessageInput,Vui lòng kiểm tra SIFAS Player ID và mật khẩu liên kết đã nhập.
+Dialog_TitleConfirm,Xác nhận
+Event_EndMessage,Sự kiện đã kết thúc.
+Common_Search,Tìm kiếm
+Common_SearchPlaceholder,Nhập từ khóa
+MusicLibrary_SearchPlaceholder,"Có thể tìm theo tên bài hát, nhạc sĩ, tác giả lời hoặc người phối khí."
+MusicLibrary_SearchWordsEmpty,Vui lòng nhập từ khóa tìm kiếm.
+MusicLibrary_Live,Chơi Live với bài hát này!
+MusicLibrary_SortDefault,Mặc định
+MusicLibrary_SortMusicName,Theo tên bài hát
+MusicLibrary_SortReleaseTime,Theo ngày phát hành
+MusicLibrary_MusicCount,{0}/<size=-5>{1}</size>
+MusicLibrary_MusicEmpty,Không tìm thấy bài hát phù hợp.
+MusicLibrary_Button_MusicDetail,Chi tiết
+MusicLibrary_Button_Live,Live
+Multi_CannotSendStamp,Hiện không thể dùng Stamp.
+MusicLibrary_ReleaseDate,Ngày phát hành: {0}
+Common_Refresh,Refresh
+SortDialog_SortRecommendedGuest,Guest được đề xuất
+MusicSelect_ChangeDifficulty,"Không có {0}, nên đã chọn {1}."
+Practice_CantUseItem,Không có vật phẩm nào để dùng cho Auto-Play.
+MusicSelect_NotFullCombo,Chưa Full Combo
+RankUpDialog_LpMax,LP tối đa của bạn đã đạt giới hạn.
+StarEvent_TabGroupStarLevelRanking,Xếp hạng Star Lv
+StarEvent_TabGroupStarLevelReward,Chi tiết phần thưởng Star Lv
+StarEvent_TabGroupStarPointReward,Chi tiết phần thưởng Tổng Event Pt
+StarEvent_Get,Get!
+StarEvent_Share,1 lần chia sẻ/ngày
+StarEvent_Assist,Star Assist
+StarEvent_ChangeMusic,Đổi bài hát
+StarEvent_ChangeMusicFirstPrice,Lần đầu miễn phí
+StarEvent_SkippableStarMission,Skip sẽ Clear điểm mục tiêu!
+StarEvent_Skippable,Skip OK
+StarEvent_MusicClearText,Chọn một bài hát và đạt điểm mục tiêu trong Live!
+StarEvent_PlayCount,Số lượt chơi bài hôm nay: {0}/{1}
+StarEvent_SkillPercentUp,Điểm <color=#F93981>+{0}%</color>
+StarEvent_GotAllStarPointReward,Đã nhận toàn bộ phần thưởng Event Pt.
+StarEvent_NonPoint,--- pt
+StarEvent_NextStarPointReward,Đến phần thưởng Tổng Event Pt tiếp theo
+StarEvent_GotAllStarLevelReward,Đã nhận toàn bộ phần thưởng Star Lv.
+StarEvent_NextStarLevelReward,Phần thưởng Star Lv tiếp theo
+StarEvent_Total,Tổng
+StarEvent_StarLevel,Star Lv
+StarEvent_BeforeLevel,Star Lv<br>trước
+StarEvent_ClearCount,<size=36>{0}</size>/{1}
+StarEvent_StarLevelReward,Phần thưởng Star Lv
+StarEvent_StarPointReward,Phần thưởng Tổng Event Pt
+StarEvent_StarLevelRewardDialogTitle,Phần thưởng Star Lv đã được gửi vào Hộp quà!
+StarEvent_ChangeMusicMessage,"Đổi ""{0}""<br>sang bài hát khác?"
+StarEvent_ChangeMusicButton,Đổi sang bài hát khác
+StarEvent_StarAssistTitle,Xác nhận Star Assist
+StarEvent_StarAssistInfo,Dùng 1 Star Assist Ticket để chơi Live này?<br>Dùng Star Assist Ticket sẽ áp dụng các hiệu ứng sau trong Live.
+StarEvent_StarAssistBuffInfo,・Member Training Bonus [+{0}%]<br>* Member Training Bonus tăng khi bạn nâng thành viên vượt một Level nhất định.<br>・Bất tử trong Live—HP không giảm.<br>・Judgment Boost tối đa luôn hoạt động (chuyển phán định đến BAD thành PERFECT).<br>・Tỷ lệ kích hoạt Skill +20%<br>・Hiệu ứng Score Bonus của thành viên đã chọn được nhân đôi.
+StarEvent_StarAssistAmount,Star Assist Ticket đang có
+StarEvent_StarAssistButton,Live với Star Assist
+StarEvent_ShareMessage,#SIF2 Star Challenge Event đang diễn ra! #MyStarLv
+Event_PointRewardLoop,Sau đó nhận mỗi {0} pt
+StarEvent_LevelRewardLoop,Nhận sau mỗi Star Lv tiếp theo
+EventBonus_StarTab_Score,Thưởng điểm
+EventBonus_StarTab_Item,Thưởng vật phẩm đăng nhập
+EventBonus_ItemBonusStar_Desc,"Khi có thành viên được chọn trong Danh sách thành viên, bạn sẽ nhận thêm vật phẩm từ Login Bonus!"
+EventBonus_ItemBonusBonusStar_Attention,* Login Item Bonus áp dụng tổng giá trị của tất cả thành viên được chọn trong Danh sách thành viên.<br>* Login Item Bonus chỉ áp dụng vào ngày Login Bonus có Star Assist Ticket.
+StarEvent_PlayBonus_AllGot,Bạn đã nhận toàn bộ phần thưởng hôm nay.
+StarEvent_Remain_point,{0} pt to go
+EventBonus_StarScoreBonus_Attention,* Score Bonus áp dụng tổng giá trị của tất cả thành viên được chọn trong Danh sách thành viên.
+EventBonus_StarScoreBonus_Desc,"Khi có thành viên được chọn trong Danh sách thành viên,<br>bạn sẽ nhận điểm cao hơn khi Clear bài hát sự kiện!"
+Theater_DialogTitle,Daily Theater
+GemShop_ClosedGemShopMessage,Hiện không thể mua Loveca.
+GameClose_Payback,Refund
+GameClose_Inquiry,Inquiry
+GameClose_InformationNote,Thông tin
+GameClose_UserId,ID
+GameClose_PaybackCode,Mã hoàn tiền
+GameClose_PaidGem,Loveca trả phí
+GameClose_Button_Information,Thông tin
+GameClose_Button_Album,Album
+GameClose_Button_TitleList,Titles
+GameClose_Payback_CopyMessage,"Đã sao chép ID, mã hoàn tiền và số dư Loveca trả phí."
+GameClose_Payback_CopyText,ID {0}<br>Mã hoàn tiền {1}<br>Loveca trả phí {2}
+Auto_01abf2e45264,Indoor
+Auto_02724107c812,Áp dụng Event Bonus vào Tổng sức mạnh
+Auto_02b919ddcdf4,Quay lại
+Auto_03274bad099f,Reward UP!
+Auto_0328cfbe3899,Owned<br>
+Auto_033c8131ffca,Yêu cầu<br>kết bạn
+Auto_038bc41a7c6c,Demo
+Auto_03dd9696f109,Star Assist đang hoạt động
+Auto_05db19bd7579,MASTER<br>
+Auto_0a462ba1ee08,Stamp dùng gần đây
+Auto_0b9c90355fa7,Tên Note
+Auto_0cae74dd2ee6,Soul
+Auto_0ce873d68a35,5x
+Auto_0eb944667807,Thời gian hoàn tiền
+Auto_0f7fa8f9a3bd,OK<br>
+Auto_0f9511a417ab,Điểm Live giả lập
+Auto_1075010ff27d,Chi tiêu tháng này
+Auto_109f7d11a0d6,Điểm sự kiện
+Auto_123209ff77c4,Top Pick!
+Auto_12b2b7105fb3,Chính
+Auto_12d470debc6c,More
+Auto_1559210b6441,Điều kiện khác
+Auto_1592365cb790,Consume<br>
+Auto_1744ba8fe835,Chạm để nhập
+Auto_1798815611ff,Danh sách sự kiện
+Auto_17c2e91f339d,Star Assist đang hoạt động
+Auto_19682bdb9185,Init
+Auto_19d41bf40aad,Điểm trao đổi
+Auto_1aa6e8ca6610,Cấp
+Auto_1ada75706b1c,Google Play
+Auto_1b51bb0ac522,Tổng sức mạnh thành viên
+Auto_1d0659501e10,Không có vật phẩm nào để mua.
+Auto_1d3921b31495,Ngày 1
+Auto_1d97f9dcc3d6,Xác nhận tải xuống
+Auto_1db118371c67,Tổng
+Auto_1e5dd6092929,To Top
+Auto_1ebe6a8e14e1,Special Skill ON
+Auto_204ca2888aa0,Gacha sự kiện
+Auto_20946a364888,Quay lại Màn hình tiêu đề
+Auto_20b77e71a816,TẤT CẢ<br>KHÔNG LỖI
+Auto_21125a762c34,BẬT
+Auto_2184ff8e15c8,Room đã bị giải tán.
+Auto_252e0f7141ed,Đã Clear nhiệm vụ!
+Auto_25f4e117dab6,Áp dụng
+Auto_264ccbd4abf8,"* Nếu chơi mà chưa đồng ý,<br>bạn có thể bị hạn chế tham gia quay thưởng hoặc đăng ký phần thưởng.<br>"
+Auto_2850206c3c5a,Giới hạn mua theo độ tuổi
+Auto_2a626ea9baf4,Tổng Score Bonus
+Auto_2c42bdbb8ded,1/4/2024 (Thứ Hai) 00:00 – 17/6/2024 (Thứ Hai) 14:59
+Auto_2cff4f6ba8c2,Tên Card (Tối đa 20 ký tự)
+Auto_3050c748c4fa,Xóa dữ liệu
+Auto_3091c8446f8d,Giọng nói
+Auto_309200e20a10,Có video
+Auto_33906a7dfdec,Open
+Auto_35d0f5fbca4b,Authentication
+Auto_36680a92670b,Combo tối đa
+Auto_387d7a59dbaa,On
+Auto_38bfb0d36aee,Dung lượng tải  9999.99MB
+Auto_3a3662973891,SLOW
+Auto_3b45ef3e2d04,Thoát mà không lưu
+Auto_3cb25413e47f,Chọn bài hát sự kiện
+Auto_3d919fa4840b,Readjust
+Auto_3da474537ac3,Bỏ qua
+Auto_408090253cc2,Sắp xếp
+Auto_41a07ce577b3,Chọn số lượng trao đổi
+Auto_42672f9a37d1,Thành viên đã chọn
+Auto_42f76867ad2d,Có Episode
+Auto_42f9f3c2d790,Đổi danh hiệu
+Auto_4315bc5cce32,Round 1:
+Auto_441030094524,Âm lượng
+Auto_44e681a374ac,Interrupt
+Auto_45bec89c0f50,Xóa
+Auto_4693ee8bed24,Complete
+Auto_482939397cb5,Next Tone<br>ID012345678<br>ID012345678
+Auto_5064a0f4ba98,Tải dữ liệu
+Auto_506f8b799c18,Hiệu ứng Appeal bắt buộc
+Auto_5291c399b506,Chỉ Ticket
+Auto_536a08d31bbb,FAST
+Auto_54ac68559d08,BONUS
+Auto_576770016382,Lần hồi tiếp theo
+Auto_587eac1112fa,Quay lại
+Auto_58a89456cac6,Đặt nhiều mục
+Auto_5b4f82050b5f,Ngày/giờ kết thúc
+Auto_5bfa6380e816,Streak Bonus
+Auto_5c9f61d441b4,Japanese<br>
+Auto_5db23947a6dc,Event ID
+Auto_5e9276d98d7e,Extra
+Auto_61f9b95b94af,"Khi Skip, High Score của bạn<br>được dùng làm điểm Kết quả."
+Auto_622b0710d2c1,Aaaaaiiiiiuuuuuu<br>Eeeeeee
+Auto_6287420f60b0,<size=/32>Recruit</size>Bonus
+Auto_633a7785dc75,Xác nhận
+Auto_63651cf6d9f8,Live<i>!</i>
+Auto_649df08a448e,English
+Auto_64f71689e86e,Lưu
+Auto_65f101b159a1,Cách nhận
+Auto_660f91b2b864,Danh sách thành viên<br>
+Auto_66fba5a6fa14,Lưu cài đặt
+Auto_6740ed068754,Live Burst
+Auto_67a0c5e93888,Đặt lại kết quả phán định.
+Auto_6a72085653e4,Tất cả
+Auto_6a9178a4932f,CLIMAX %
+Auto_6b268944e92c,Xác nhận đổi
+Auto_6b30feafd1f3,Thưởng điểm
+Auto_6d9a18833a5a,"* Ngay cả khi chọn Hủy, bạn vẫn có thể tải từng tập riêng lẻ.<br><br>* Sau này bạn cũng có thể tải tất cả cùng lúc từ phần cốt truyện.<br>* Vì dung lượng dữ liệu lớn, vui lòng tải khi kết nối mạng ổn định.<br><br>* Khuyến nghị tải qua Wi-Fi."
+Auto_6dd5a42a94c0,Setting<br>
+Auto_6e444147a521,Tải tất cả video cùng lúc.
+Auto_6e6a6f2086bb,Khác
+Auto_719ea396ad92,Bỏ chọn
+Auto_71afae920481,LP Off
+Auto_74c545d169bf,Required {0}
+Auto_7548ab52c3d1,Power
+Auto_77c6a8345db8,Interrupt<br>Message<br>
+Auto_77dfd2135f4d,Hủy
+Auto_77f505b6262c,Aaaaaiiiiiuuuuuu<br>Eeeeeee<br>
+Auto_788a0043ef72,Playback Prefab Selection
+Auto_7c76cd4f10f6,Lọc nhân vật
+Auto_7cb690cac947,Play Bonus
+Auto_7d8bbc065980,Tổng Event Point Bonus
+Auto_7ed45871a39c,Owned: 99
+Auto_7ef4a9de5c25,Hủy
+Auto_7f450bbd899c,Use 3
+Auto_80212d3591fe,Artificial
+Auto_8223fef77e91,Lọc Band
+Auto_8293da245b3b,Lọc Rarity
+Auto_845ae4bff63e,Điểm sự kiện nhận được
+Auto_848e23d86457,Sức mạnh còn lại
+Auto_85932094d554,Phần thưởng điểm sự kiện
+Auto_88b79a43a5a2,Ticket<size=28>Recruit
+Auto_89c6e6591da2,Đội hình
+Auto_8ac8a8695f8c,Điều kiện mở khóa trang phục<br>Điều kiện mở khóa trang phục
+Auto_8b587a7dbf54,Tổng Band Rank
+Auto_8fb2690daca7,Đóng
+Auto_8fc78aae68c7,Band Rank
+Auto_8fe39d4e10b7,Ascend<br>
+Auto_9241dc943583,/Use
+Auto_9273914e5109,Đặt lại<br>mặc định
+Auto_959f794269e3,Photo
+Auto_98205d57bde6,X JAPAN
+Auto_98cb7f8b4243,Skip liên tiếp
+Auto_9d2900c40ab7,Smile for You
+Auto_9ebddc6b6669,LUNA SEA
+Auto_9f783ad4a18c,Live Skin
+Auto_a1477059aa3b,Đặt Guest
+Auto_a1dea8028b01,Vol.
+Auto_a328a2d80d00,Discard
+Auto_a338c21bfd26,Star Lv Up!
+Auto_a3c686e711e4,Category
+Auto_a4911f7f372a,Âm lượng giọng nói
+Auto_a8dc0179d0a8,Giới hạn mua
+Auto_a9a279c07f10,Exchanges
+Auto_aa3fa7dd256b,"Để tham gia sự kiện,<br>bạn phải đồng ý với Điều khoản sử dụng.<br><br>Vui lòng đọc và nhấn “Đồng ý.”"
+Auto_ac35bd4adf50,"""Love Live! School Idol Festival 2 MIRACLE LIVE!""<br><br>đã kết thúc dịch vụ vào thời gian bên dưới.<br><br>Yêu cầu hoàn tiền cho số dư tiền tệ trả phí trong game ""Loveca trả phí"" chưa sử dụng sẽ được tiếp nhận trong ứng dụng từ ngày bên dưới.<br>"
+Auto_ac7c161425e5,LP tiêu hao
+Auto_acca96a91aa4,Đã khóa
+Auto_ad4d9cc1b087,Outdoor
+Auto_ad50489054dd,Off
+Auto_add22ce29a3d,LP Restored
+Auto_b07900dc57ed,pt
+Auto_b0e4ee23c952,Scout
+Auto_b13d33a52865,Background
+Auto_b2f2b09e6e2d,Đang có {0}
+Auto_b31d5ea85dff,3rd Try:
+Auto_b68eb2cb5bf1,Ngày hết hạn
+Auto_b6e09f881f83,Điểm cá nhân
+Auto_b6e3f5c3b4f2,A New Destiny...
+Auto_b72306f4e35d,THƯỜNG<br>
+Auto_b8143777066d,2nd Try:
+Auto_b8571eaa5763,Tap!
+Auto_b8a4ee600c4a,Năm
+Auto_b9fa67abcaf9,Chọn
+Auto_bc811258ae9f,PT
+Auto_bd89f983989e,Xác nhận khôi phục
+Auto_bf22940fda0d,Xác nhận số lượng trao đổi
+Auto_bf62b8f395bb,Kết quả điều chỉnh Timing
+Auto_c25f358874d1,Đến Free Live
+Auto_c28c25bf8e62,Chi tiết vật phẩm
+Auto_c401efeb943c,Rank Up
+Auto_c7eb0f35af72,Center
+Auto_c7f325f13f16,Undo
+Auto_c998d2ee5b08,Cấp
+Auto_cc5ea3852219,Chạm Rhythm Icon theo đúng nhịp.
+Auto_cd131363eae4,GLAY
+Auto_cde3eb972d17,Resume
+Auto_d00d84c15d3a,Live Burst<br>
+Auto_d47b6f2a9df1,<size=26>HIỆN TẠI</size><size=24> </size><br>STEP
+Auto_d54d12f95c41,Name
+Auto_d5ab84b435fb,Grade
+Auto_d63f619942b9,Natural
+Auto_d6b401a4b2ac,NHIỆM VỤ<br>HOÀN THÀNH!
+Auto_d8cb03e33092,Appeal
+Auto_d8ec9e35d2f2,Tên thành viên
+Auto_db66ad7b9586,4th Try:
+Auto_dcae5862b56f,COMBO
+Auto_dd48a1149548,Hạng
+Auto_df50ec2cd8cb,Vật phẩm đang có
+Auto_df6861322391,Tên Card (Tối đa 10 ký tự)
+Auto_df6e6c5f5960,Tổng điểm Multi
+Auto_e0491d31d0f7,Đến Multi Live
+Auto_e11c09011cad,Cảm ơn bạn đã luôn ủng hộ.<br>
+Auto_e4d2bab524b4,"""Love Live! School Idol Festival 2 MIRACLE LIVE!""<br>đã kết thúc dịch vụ vào ngày 31 tháng 3 năm 2024.<br><br>Nếu bạn muốn hoàn tiền số dư tiền tệ trả phí trong game ""Loveca trả phí"" chưa sử dụng,<br>vui lòng sao chép thông tin hiển thị bên dưới và liên hệ qua biểu mẫu ""Hoàn tiền"".<br>Xin cảm ơn."
+Auto_e7a1f2b591d7,* Loveca được dùng từ phần miễn phí trước.
+Auto_e7ae8d0559ec,Medal đang có
+Auto_e7e170510efe,31/3/2024 (Chủ Nhật) 15:00
+Auto_eab6741c0f59,Text
+Auto_eb1a2d429c58,Execute
+Auto_ebb93d3b53a4,Effects
+Auto_ebcf18c786af,Technic
+Auto_ec828e93801a,Level<br>
+Auto_ed28cf13bde2,Trang chủ
+Auto_edcb599b9885,Xem trước<br><br>Card preset
+Auto_edee9402d198,Tiếp theo
+Auto_ee3c38fe094f,Kết quả Timing
+Auto_ef3619115ff6,Điểm cần thiết
+Auto_efd565d40ade,Bật/tắt phát lặp
+Auto_f0d441f3dfff,Tên trang phục
+Auto_f12ab05bb974,Desc.<br>
+Auto_f22f0eb3fa2b,Band yêu thích
+Auto_f4cb18567198,Thêm một Card.<br>
+Auto_f5ecb4b9a22d,Văn bản<br>Văn bản<br>Văn bản<br>Văn bản
+Auto_fe212fc5ce20,Bỏ qua
+Auto_fff655d2974f,TRUNG TÂM<br>
+Auto_003c9447ae9b,HeaderButton
+Auto_00b165f88921,'#Voice'
+Auto_024500726b03,dist
+Auto_029ebd875fdb,Văn bản<br>Văn bản
+Auto_044adfd9ed9d,STEP 4
+Auto_04b455ccba55,Trao đổi giới hạn thời gian
+Auto_057d38b205d3,Tiêu đề nhóm
+Auto_05bf2aac7949,"Khi chuyển dữ liệu, dữ liệu game trên thiết bị này sẽ bị<br>xóa và ghi đè bằng dữ liệu game nguồn.<br>Khi chuyển giữa các hệ điều hành khác nhau, Medal trả phí được chuyển thành Medal miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Medal trả phí được giữ nguyên.<br>"
+Auto_079bf11eeff3,Ver 0.0.1
+Auto_07a05e260d6b,Tên Center Skill
+Auto_07ddf136db16,'Age 16-17: '
+Auto_09ec0c5b620d,TextTextText
+Auto_0c6ca3b6cc0a,Eponym
+Auto_0cb8722f43db,LP recovered by 99
+Auto_0d57f9526844,Không có dữ liệu chơi cho bài hát này.<br>Hãy chơi một vài bài!
+Auto_0e68b6445410,Không có vật phẩm nào để trao đổi
+Auto_0e8f4f23a65a,Clear BINGO 1 & 2 để mở khóa
+Auto_0f04165846d6,Selection
+Auto_0f16b706d0e6,*8-32 ký tự chữ và số
+Auto_11412d0e8910,Tỷ lệ Slot đặc biệt
+Auto_121def961f9a,Transfer ID<br>
+Auto_13e47abd10a7,Dùng Spirit x100 để bắt đầu Live?<br>*Không tiêu thụ Live Burst
+Auto_13fd30e09401,Đặt lại hằng tuần vào X
+Auto_146927317e55,Phần thưởng<br>Event Pt
+Auto_14bf1f14b527,Dùng 〇〇 Gold để đổi ngẫu nhiên<br>「〇〇〇〇〇〇〇〇〇〇 (tên bài hát)」 sang bài khác?
+Auto_163d2f0d102b,"¥5,000(JPY)"
+Auto_1703cc1d1ab7,Thiết lập một trong các tùy chọn bên dưới để chuyển dữ liệu khi đổi thiết bị.<br>Điều này cũng giúp bảo vệ dữ liệu nếu ứng dụng bị xóa.
+Auto_171264a7eb78,Yuki aaaaaaaaaa
+Auto_1738ae542173,Văn bảnVăn bảnVăn bản aaa
+Auto_17a21f8751b1,Honoka aaaa
+Auto_18ce79396792,Apprentice Manager aaaaaa
+Auto_193f0038f792,Dùng 3000 Loveca để Scout 11 lần?<br><color=#C70F01><size=30>Bạn không có đủ Loveca trả phí. Mua thêm?</color></size>
+Auto_1996a5682af1,Thông báo kết thúc dịch vụ<br>
+Auto_1a355bfca80b,Mua bằng 000 Medal (trả phí).<br>Bạn có chắc không?
+Auto_1ba4c95c1b7e,"A coupling track from μ's 4th single. Memorable for Maki Nishikino's solo singing and playing in the music room in the TV anime, as well as the chorus scene at graduation. Many versions exist, but in the original Ver. be sure to pay attention to the bassline.<br>A coupling track from μ's 4th single. Memorable for Maki Nishikino's solo singing and playing in the music room in the TV anime, as well as the chorus scene at graduation. Many versions exist, but in the original Ver. be sure to pay attention to the bassline.<br>A coupling track from μ's 4th single. Memorable for Maki Nishikino's solo singing and playing in the music room in the TV anime, as well as the chorus scene at graduation. Many versions exist, but in the original Ver. be sure to pay attention to the bassline."
+Auto_1be7423211a5,Tên vật phẩm aaaaaaaaa<br>
+Auto_1e0e1976379b,9999999 min
+Auto_1e17ebb75b4d,Loveca x100<br><size=22><color=#F93981>Bonus Loveca x100
+Auto_1e531d5608ba,(Paid)100
+Auto_1fd729e61328,Thiết lập chuyển dữ liệu hoàn tất<br>
+Auto_21461c8ad16a,Serial code cho Tên chiến dịchTên chiến dịch
+Auto_217db72fc82b,Level Skill
+Auto_2187f31d0823,Tỷ lệ kích hoạt Skill <color=#F93981>+0.6</color>
+Auto_21a6013d6db7,"Name1, Name2"
+Auto_231660b3e9aa,Yuki aaaaaaaaaaa
+Auto_2359a6bc9f8e,Until 2999/12/31 23:59
+Auto_2372659b2fa8,Character1 : Text1<br>Character1 : Text1
+Auto_23c425468cfa,Thưởng đăng nhập
+Auto_23d692f07a3f,Parent
+Auto_24331d4b3c4b,EXPERT 10
+Auto_24ef5199c19f,Download…
+Auto_265c145b1c11,Cài đặt tiêu thụ Auto Burst
+Auto_28578faf0062,Văn bản mới
+Auto_2910ca68352e,"“Love Live! School Idol Festival 2 MIRACLE LIVE!” <br>đã kết thúc dịch vụ vào Chủ Nhật, ngày 31 tháng 3 năm 2024.<br><br>■Thời gian hoàn tiền: Thứ Hai, 1/4/2024 00:00 - Thứ Hai, 17/6/2024 14:59<br><br>Xin chân thành cảm ơn sự ủng hộ của bạn."
+Auto_2991fd24eff8,COOL
+Auto_2a9e2a96f3a5,*Ngày sinh không thể thay đổi sau này.
+Auto_2ae6850cf007,EXPERT Lv11
+Auto_2db52bd8d99d,Số lượt chơi hôm nay: 1/10
+Auto_2e84ab497270,Tên Card tối đa 30 ký tựTên Card tối đa 30 ký tựTên Card tối đa 30 ký tự
+Auto_30629014ffdf,Rank 1000000
+Auto_327896c958c6,Emi Nitta
+Auto_32cca4a1edcd,Expert Lv11
+Auto_32f04a55794f,Lặp: Tắt
+Auto_349584413283,Tên người chơi (tối đa 10 ký tự)
+Auto_3500bbd544a3,・Member Training Bonus<br>・Bất tử trong Live; HP không giảm<br>・Judgment Boost tối đa luôn hoạt động (chuyển phán định đến BAD thành PERFECT)<br>・Tỷ lệ kích hoạt Skill +20%<br>・Hiệu ứng Score Bonus của thành viên đã chọn được nhân đôi<br>*Member Training Bonus tăng khi bạn nâng thành viên vượt một Level nhất định.
+Auto_354fd93c17f2,Tiêu đề cốt truyệnTiêu đề cốt truyệnTiêu đề cốt truyện
+Auto_3588a5b623b0,STEP 7
+Auto_360cb694c2ae,N sec
+Auto_36fc221e2e45,Lyrics: Aki Hata  Composition: Ryota Kojima  Arrangement: Mane Kuge
+Auto_3770af0c5c4e,1000pt
+Auto_37900575e30d,SpeedRate = 1
+Auto_383617f9c339,'#Title'
+Auto_38bf4ac9d31b,123456789pt
+Auto_38d63311e93b,PURE
+Auto_393d0282bf7d,Bạn đã nhận các vật phẩm sau<br>
+Auto_399acfa696ba,Tên Unit6789012345
+Auto_3ae3222a8a7c,ID 999999999999999
+Auto_3b18e8e33250,Âm lượng
+Auto_3bdd53e3c81d,SMILE
+Auto_3c153c60bc73,Tên vật phẩm / Card
+Auto_3cab1d5076f2,"Khi chuyển giữa các hệ điều hành khác nhau, Gem trả phí được chuyển thành Gem miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Gem trả phí được giữ nguyên."
+Auto_3db8f0a8cb0d,'<size=50>11</size>x Scout'
+Auto_3e252f2489fa,\u30BB\u30EA\u30D5\u304C\u5165\u308A\u307E\u3059\u3002<br>\u30BB\u30EA\u30D5\u304C\u5165\u308A\u307E\u3059\u3002<br>\u30BB\u30EA\u30D5\u304C\u5165\u308A\u307E\u3059\u3002
+Auto_3f5567240d61,Type O
+Auto_3fed241ef790,Sự kiện tích lũy
+Auto_4002d1a146fa,"Xem 3 tập đời thường của các school idol μ's, Aqours, Nijigasaki & Liella! 〇〇〇〇〇〇〇〇〇〇〇〇"
+Auto_40e01c24654a,Nijigasaki High School Idol Club
+Auto_414ee4134bd7,"Khi có thành viên được chọn trong danh sách,<br>bạn sẽ nhận thêm Miracle Star từ Login Bonus!"
+Auto_41b187f87bd2,157cm
+Auto_432849e0e729,Tên nhân vật
+Auto_434ea13d1c5f,Aaaaaaaaa
+Auto_439bd1f70732,Giữ lại phần triển khai khung văn bản để phòng khi cần
+Auto_451416850ad2,Bluetooth Mode
+Auto_458a25f3bc2b,aaaaaaaaaaaaaaaaaaaaaaaaaa<br>12345678901234567890123456<br>26 ký tự x 3 dòng
+Auto_45a309dcbdfa,aaaaaaaaaaaaaaaaaaaaaaaaaa<br>12345678901234567890123456<br>26 ký tự x 3<br>
+Auto_463938856430,Transfer ID:
+Auto_463dc0e2645f,Lyrics: Test<br>Composition/Arrangement: test
+Auto_47b4753f220d,Danh hiệu
+Auto_486a5b286b90,Clear tất cả Daily Mission.<br>Clear tất cả Daily Mission.
+Auto_4ac93a41ce71,Composition: -
+Auto_4b8ea9b1a845,"・No refunds.<br>・The MIRACLE Pass includes a 1-month trial period from the date you subscribe.<br>　After the trial ends, you will be charged through your Store every month until you cancel,<br>　and the term renews automatically.<br>　If you wish to end use after the trial only without renewing,<br>　please cancel by two days before the trial end date.<br>・The term lasts 1 month from the date of purchase or automatic renewal.<br>・The term renews automatically every month.<br>・Automatic renewal incurs a monthly charge of 980 yen.<br>・Unless you stop the MIRACLE Pass's automatic renewal, the term renews automatically.<br>・Renewal processing may be delayed on the renewal day.<br>　If the benefits are temporarily inactive, please wait a while and try reloading.<br>・To cancel, stop automatic renewal at least 48 hours before the term ends.<br>・Even if you cancel partway, you can receive the benefits for the rest of the term.<br>・The MIRACLE Pass is valid only on the app account in use when you subscribe.<br>・Please note you cannot subscribe again<br>　until the term ends on your pre-transfer app account.<br>・Also, if you create a new app account by deleting the app, etc.,<br>　the MIRACLE Pass cannot be carried over.<br>・If multiple/duplicate subscriptions are made to the same MIRACLE Pass,<br>　you cannot receive duplicate benefits.<br>・After the term ends, it may take a little time for the benefits to actually become invalid.<br>・Please note that even if you delete the app,<br>　automatic renewal continues unless you cancel.<br>・When changing devices across different OSes, or transferring to a different account on the same OS,<br>　the MIRACLE Pass benefits also carry over within the term.<br>　So those newly subscribing should cancel on their previously used platform (or<br>　account) before subscribing.<br>　You cannot subscribe again until the term ends<br>　on your previously used platform (or account).<br><br>■How to check the term and how to cancel (stop automatic renewal)<br>You can cancel the MIRACLE Pass with the steps below.<br>After cancellation, it becomes invalid once the term ends.<br>*Operations may differ depending on your OS version or device. Please understand in advance.<br><br>1. Tap the “Cancel” button shown at the bottom of this screen<br>2. Tap the “≡” icon at the top left > Subscriptions, in order<br>3. If you wish to cancel, tap the product<br>4. Tap “Cancel subscription” and complete the cancellation"
+Auto_4ca3fbc3f316,Photo Sticker
+Auto_4de912463d5b,*Loveca miễn phí được dùng trước
+Auto_4e8e36e11ba0,JASRAC License<br>No. 123456789ABCDEFG
+Auto_4f3f313eb655,Bokura no LIVE Kimi to no LIFE
+Auto_4f62ed577823,"Khi chuyển giữa các hệ điều hành khác nhau, Gem trả phí được chuyển thành Gem miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Gem trả phí được giữ nguyên."
+Auto_513968cec3d1,Until 2023/06/30
+Auto_522175083f0b,Xóa cache
+Auto_526b4090303d,*Đây là thông tin quan trọng; không chia sẻ với người khác<br>*Hãy ghi chú hoặc chụp màn hình<br>*Bạn cũng có thể đổi mật khẩu sau<br>
+Auto_5472f4068cb1,"Marina Horiuchi (as Rurika Tsubaki), Nanami Asai (as Yuzuha Sumeragi), Anne Julia (as Yukino Hojo), Rina Koyama (as Hikaru Amakusa), Minami Sato (as Maya Mikasa)"
+Auto_55ee85cd4dcc,Họ  Tên
+Auto_560dd21d26a8,Vui lòng nhập Transfer ID và mật khẩu<br>
+Auto_567ad1eee4be,「Tên phần thưởng」
+Auto_56809f756f76,Nhận quyền lợi ◯◯◯◯◯. Bạn có chắc không?<br>
+Auto_572b0f9c1d1b,TextTextTextTextTextTextTextTextTextText
+Auto_572e68ce60da,Earn 10 pt
+Auto_57859cb7238a,Tên nhân vật
+Auto_586b09d35825,Qty: 9999999
+Auto_58c3db41d9fc,Cài đặt video Gacha đã chọn
+Auto_58f52a673e60,Tên vật phẩm / Card trên 30 ký tự full-width#########
+Auto_595596e10b8b,Không có Card nào có thể Limit Break.
+Auto_5a6b54f04f20,9999999pt
+Auto_5aa7dabc547e,"(26 ký tự mỗi dòng, tối đa 2 dòng)"
+Auto_5b0e14341d79,Honoka Kosaka
+Auto_5d7171891b9e,Tiêu đề cốt truyệnTiêu đề cốt truyện
+Auto_5e2c3623f817,"Pin thiết bị sắp hết<br>Pin còn lại: <color=""red""> 7 %</color><br>Khi thiết bị báo mức pin,<br>Live có thể bị gián đoạn<br>Khuyến nghị sạc thiết bị"
+Auto_5e63c03e564f,Dừng xem MV và<br>quay lại màn hình chọn bài?
+Auto_5e88baf24aea,Hoàn tất xóa cache
+Auto_5f21648a666a,Còn 999 ngày
+Auto_6114d553d8a5,*Login Bonus boost áp dụng tổng giá trị của tất cả thành viên được chọn trong danh sách<br>*Login Bonus boost áp dụng vào ngày Login Bonus có Miracle Star
+Auto_62933bba4c77,Nguồn: hogehoge
+Auto_62b3c4231032,SỐ LẦN CLEAR<br>
+Auto_6311b5d2d37d,Lv.000
+Auto_64e02dbe9ba6,STEP 1
+Auto_669d4fab42d5,Còn 9999 (đặt lại mỗi Thứ Hai lúc 0:00)
+Auto_67c008e4fd30,Tên hiển thị
+Auto_67dbec9cc4e4,"Max ¥10,000"
+Auto_6842c74c4d51,Child
+Auto_6b3f6985eb92,Little Demon No. 1
+Auto_6bfa25be446d,Sports Drink
+Auto_6d17169b8845,Đã mở cốt truyện
+Auto_6eee3369a6c0,XXXXX XXXXX XXXXX
+Auto_6f9b9af3cd6e,message
+Auto_6fc69aae7ef1,20XX/99/99 99:99
+Auto_6fd05cc842c9,<color=#ff5500><size=28>Mỗi ngày một lần</color></size><br>Đặt lại hằng ngày lúc 0:00
+Auto_709a23220f2c,họ và tên
+Auto_7123fcc9c635,Usage345678901234567890123456789
+Auto_7171d9cb0cf3,Tên vật phẩm
+Auto_71cd10385774,*Đạt Limit Break tối đa để mở khóa video
+Auto_71fd4dacfad1,August 1
+Auto_737f138ed948,Đã dùng<br>hôm nay
+Auto_75e1496591d4,\u898B\u51FA\u3057
+Auto_76fb59ce183d,Mô tả vật phẩm mô tả vật phẩm mô tả vật phẩm ◯<br>Mô tả vật phẩm mô tả vật phẩm mô tả vật phẩm ◯
+Auto_773a03413bdc,Tên vật phẩm trên 20 ký tự#########
+Auto_78f1b4350a83,Until 2021/12/31 12:00
+Auto_794145f030ff,Button
+Auto_7a5db5a1f223,2nd Year
+Auto_7bf2e2580045,Chương hồi tưởng
+Auto_7c1698e461f9,#Tên thành viên (tối đa 10 ký tự)
+Auto_7c54bd6c4a3f,Thông số của<br>Tên Card đã tăng.
+Auto_7dee13bf0dd8,YOSHIKI
+Auto_7f2b15f3359a,Còn 16 ngày
+Auto_7f91240a914e,"Tên vật phẩm trao đổi, tối đa 16 ký tự"
+Auto_82434dcead71,Option B
+Auto_827ada3af78a,"Khi chuyển dữ liệu, dữ liệu game trên thiết bị này sẽ bị xóa và<br>ghi đè bằng dữ liệu game nguồn.<br><br><color=#c70f01>Khi chuyển giữa các hệ điều hành khác nhau, Gem trả phí được chuyển thành Gem miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Gem trả phí được giữ nguyên.</color>"
+Auto_8449eea355c4,Mô tả Center Skill<br>Mô tả Center Skill
+Auto_860981a8b394,TitleTitleTitleTitl
+Auto_87c522a79361,Mô tả Skill<br>Mô tả Skill<br>Mô tả Skill
+Auto_8957ed473795,Arrangement: -
+Auto_8b0bbe5fa2a0,*Ngày sinh không thể thay đổi sau này
+Auto_8bdd1e8256dd,Normal1
+Auto_8c3c5dc7add8,Bạn có chắc muốn chuyển dữ liệu?<br>
+Auto_8d1308cd282c,Karin Asaka
+Auto_8d54688f884e,HashTag
+Auto_8d7f5abed4eb,Đã xóa cache thành công.<br>
+Auto_8ec81c9e6bba,Bạn không có danh hiệu nào đã nhận.
+Auto_8ecd1842d6d5,Kiểm tra mức pin
+Auto_8eee6c561bb2,"Khi chuyển giữa các hệ điều hành khác nhau, Gem trả phí được chuyển thành Gem miễn phí.<br>Khi chuyển trong cùng hệ điều hành, Gem trả phí được giữ nguyên.<br>"
+Auto_8f7124fb70a8,Hoàn thành hướng dẫn! Làm tốt lắm<br>Đang quay lại màn hình tiêu đề
+Auto_91152b56f991,layer<br>
+Auto_920d74d2ff09,Ngày 1
+Auto_920f67831677,Nhiệm vụ đặc biệt
+Auto_940387049ad0,"・Một nhóm school idol của Trường nữ sinh Yuigaoka, hoạt động chủ yếu quanh Harajuku, Tokyo.<br>aaaaaaaaaaaaaaaaaaaaaa<br>aaaaaaaaaaaaaaaaaaaaaa"
+Auto_94e6b092259d,Đang xóa cache.<br>Vui lòng chờ một lúc.
+Auto_953670412850,"Đã chuyển sang Bluetooth Mode do kết nối tai nghe Bluetooth<br>Trong Bluetooth Mode, âm Tap có thể bị trễ khi chơi Live<br>*Điều chỉnh phán định Bluetooth sẽ được áp dụng"
+Auto_957c2a10d823,Tên Unit tối đa 16 ký tự
+Auto_965fb2ddf63d,Nhận
+Auto_97855c87fb9b,STEP 6
+Auto_9850ea73a3e8,TextTextTextTextText
+Auto_98997bef6406,Confirm<br>
+Auto_99122787e954,Tin nhắnTin nhắnTin nhắnTin nhắn●●<br>Tin nhắnTin nhắnTin nhắnTin nhắn<br>22 ký tự<br>4 dòng
+Auto_99940a7d6018,00<size=-3>x</size>
+Auto_9a5e7fc5a514,Dakara Bokura wa Narasunda!
+Auto_9bc6fb8cccfc,"*Có thể lưu tối đa 30 mục. Nếu vượt giới hạn, lịch sử cũ nhất sẽ bị xóa trước. Lịch sử nhận cũng tự động bị xóa sau 100 ngày."
+Auto_9d3cadaec013,"Khi chuyển giữa các hệ điều hành khác nhau, Gem trả phí được chuyển thành Gem miễn phí<br>Khi chuyển trong cùng hệ điều hành, Gem trả phí được giữ nguyên"
+Auto_9d81b6cadd5c,Khu vực hiển thị EXP
+Auto_9d86b9378453,Rank 99999
+Auto_9daaa404b4c3,Tên vật phẩm / Card trên 30 ký tự#############
+Auto_a0685b910206,Serch
+Auto_a08046709963,Composition: Aburazemi<br>Lyrics: Higurashi<br>Arrangement: Minminzemi
+Auto_a0d95c9b62e6,TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTex
+Auto_a0ec88460069,Ngày phát hành bài hát: 8888/88/88
+Auto_a1a8a57f247c,Live Burst đã hồi 10.<br>Giới hạn bạn bè tăng  5 → 10
+Auto_a45ad5596a9e,Họ   Tên
+Auto_a50b3e2b4507,"Tên vật phẩm, tối đa 12 ký tự full-width"
+Auto_a65f3a8a2407,Chỉ trong 72 giờ
+Auto_a69be1e057ef,1st Year
+Auto_a6a31e215fdd,Điểm sự kiện
+Auto_a7726b3f99f0,"aaaaa (21 ký tự mỗi dòng, tối đa 2 dòng)"
+Auto_a78153e9f407,ABCD EFGH IJKL MNOP
+Auto_a808eee2241b,\u30AB\u30FC\u30C9\u540D\u6700\u5927\u4E09\u5341\u6587\u5B57\u30AB\u30FC\u30C9\u540D\u6700\u5927\u4E09\u5341\u6587\u5B57\u30AB\u30FC\u30C9\u540D\u6700\u5927\u4E09\u5341\u6587\u5B57\u3092\u7372\u5F97\u3057\u307E\u3057\u305F<br>\u203B\u7372\u5F97\u3057\u305F\u30E1\u30F3\u30D0\u30FC\u306F\u76F4\u63A5\u4ED8\u4E0E\u3055\u308C\u307E\u3059
+Auto_a94d5d0c7027,Tên Ticket
+Auto_aa1168393020,Vui lòng nhập ngày sinh để xác minh độ tuổi.
+Auto_ac34920d91ed,Phần thưởng • EXP
+Auto_ac6c98656ccc,LAWSON
+Auto_acb992ab8026,Không có
+Auto_ad9ec245bacb,EXPERT <size=26>Lv1</size>
+Auto_adf974909200,Chi tiêu tháng này sẽ vượt 100.000. Tiếp tục mua?
+Auto_afa7944cae4b,21 ký tự mỗi dòng<br>Tối đa 2 dòng
+Auto_b067846ca702,Until 2099/12/31 00:00
+Auto_b1181d44cd51,Mô tả vật phẩm Mô tả vật phẩm Mô tả vật phẩm
+Auto_b2ad896a1cb2,STEP 2
+Auto_b3361a468f26,Đến 30/11/2021 13:59
+Auto_b4ae1b9654fd,Nội dung hội thoại ở đây.<br>Nội dung hội thoại ở đây.<br>Nội dung hội thoại ở đây.
+Auto_b528c11750d0,Tặng quà
+Auto_b5414c090b1d,*Event Pt Bonus không cộng dồn; chỉ hiệu ứng cao nhất trong số các thành viên được áp dụng.   
+Auto_b59e287feb4c,99 left
+Auto_b78072c47e29,Mô tả Center Skill<br>Mô tả Center Skill<br>Mô tả Center Skill
+Auto_b7dfc9785b79,Unfinished Dream! (Tsubakizaki Girls' High Ver.)
+Auto_b803c31897b9,Đã xóa cache.<br>
+Auto_b8be7f2cb5de,Scout<br>Văn bản
+Auto_b95b73ebd08b,162cm
+Auto_ba5dc2cc4de4,Nijigasaki High School Idol Club Selection
+Auto_baed348504d9,(Free)-1000
+Auto_bc40521e5705,Tiêu đề cốt truyện
+Auto_bccc54ef43f6,Đã nhận Favorite Member
+Auto_be3bffb9fcbf,Lv 99
+Auto_be60bc27fbf7,<size=50>10</size> Scout
+Auto_bef81964e6fa,Đã Clear thử Level 1
+Auto_bf4c732a9812,Event Pt Bonus kích hoạt khi bạn xếp thành viên được chọn vào đội hình!<br>Tăng Event Pt nhận được khi Clear Live! 
+Auto_bf91f3a572ba,"*Auto Burst được dùng từ loại sắp hết hạn trước<br>*Auto Burst chỉ dùng được cho bài hát đã Clear<br>*Live Burst và Auto Burst không thể dùng cùng lúc<br><color=#D73C55>*Bạn vẫn có thể chơi khi không có Burst dùng được, nhưng phần thưởng, EXP và Event Pt sẽ là x1</color><br>"
+Auto_c1fa719d598a,Xác nhận dùng Spirit
+Auto_c3a4f560ab26,Tin nhắn tin nhắn tin nhắn tin nhắn<br>Tin nhắn tin nhắn tin nhắn tin nhắn
+Auto_c4a400246fd1,Chọn tài khoản SNS để liên kết
+Auto_c4c9a1fdfc9e,Nhập nội dung hiển thị<br>Nhập nội dung hiển thị<br>
+Auto_c6d374d72d7f,LIVE with a smile! (Nijigasaki High School Idol Club Ver.)
+Auto_c6de9c87f72e,Lv 9/9
+Auto_c76d98f6d9fb,"""Loại cốt truyện #○○""<br>và ○○ ""Phần cốt truyện..."" đã được mở khóa!"
+Auto_c892f3e56f53,Mua Premium Pack?
+Auto_c9fac4d62211,Đạt tổng điểm của bất kỳ một Attribute nào trong đội hình từ 29000 trở lên
+Auto_ca61133f09ff,Số lượt chơi bài hôm nay: 1/5
+Auto_ca635e2d27c2,asdfasdfgasdgf
+Auto_ca7ddec2aa05,"Live Burst còn lại thấp hơn mức đã đặt.<br>Chơi mà không hồi Live Burst,<br>chỉ dùng số đang có?<br>"
+Auto_cad73579d948,Until 2022/12/12 12:12
+Auto_caeac8b0e507,Tên bài hát
+Auto_cb3ba916e5a5,Tăng Band Rank
+Auto_cc5e60312e77,Thiết lập một trong các tùy chọn bên dưới để chuyển dữ liệu khi đổi thiết bị.<br>Điều này cũng giúp bảo vệ dữ liệu nếu ứng dụng bị xóa.
+Auto_cd292cafcb22,"Tên Card đã nhận, tối đa ba mươi ký tự<br>*Thành viên nhận được sẽ được cấp trực tiếp"
+Auto_cefaf311b26d,Đã phát hiện hành vi gây ảnh hưởng đến người chơi khác trong multiplayer<br>Tính năng này tạm thời bị hạn chế<br>Vui lòng chờ đến khi hạn chế được gỡ
+Auto_cff4d31a542a,Còn 9999 trong tháng này
+Auto_d109f177e1ca,*Miracle Star Bonus không cộng dồn; chỉ hiệu ứng cao nhất trong danh sách thành viên được áp dụng<br>*Chỉ những ngày có Login Bonus Miracle Star được tăng
+Auto_d13b8de51614,Dùng vật phẩm đã chọn để hồi 999 LP?
+Auto_d26e16005b9b,Tên Unit 67890123456
+Auto_d3956f3f07bd,Center Skill là gì?<br>blah<br>blah
+Auto_d49438232a89,Ưu tiên Point Boost
+Auto_d49d030a4c41,\u304A\u6C17\u306B\u5165\u308A\u30E1\u30F3\u30D0\u30FC\u7372\u5F97
+Auto_d514ddda1f2b,Nijigasaki High School Idol Club<br>
+Auto_d5e65e858e9f,JASRAC\u8A31\u8AFE<br>\u7B2C123456789ABCDEFG\u53F7
+Auto_d68606f69a20,TotalExp：
+Auto_d7d50bd43ec5,123456 76gHH JGFDD
+Auto_d7d921bdbb52,Region
+Auto_d95c4718456b,Tên chiến dịch ○○○○○○○○○○○○○○○○
+Auto_da4223df6db9,Bạn đã nhận các vật phẩm bên dưới Bạn đã nhận các vật phẩm bên dưới<br>
+Auto_daf84f7c7d22,Nửa đầu
+Auto_dc7f77b4ccfc,Loop
+Auto_e0bf83c834c3,--- <size=30>hạng</size>
+Auto_e11359efb14c,ROSIER
+Auto_e148ce3a95d1,Cài đặt dùng Burst
+Auto_e1c8e6e7609b,"Thiết lập chuyển dữ liệu đã hoàn tất.<br>Sau khi cài ứng dụng trên thiết bị mới,<br>vào [MENU] > [Chuyển dữ liệu] ở màn hình tiêu đề<br>và nhập Transfer ID cùng mật khẩu<br>"
+Auto_e1dfd8068c2c,Đã tạm dừng
+Auto_e2c1a45b20e9,Episode No.
+Auto_e2c3fd94c0d0,«<size=100>Юг<size=80>» «<size=100>Кото<size=80>» аааааа
+Auto_e2dd1dd4eff5,"Tiêu đề truyện một khung, giới hạn ký tự aaaaa 24"
+Auto_e41a824f0330,"aaaaa (18 ký tự mỗi dòng, tối đa 2 dòng)"
+Auto_e4fed19cc108,Dùng 1000 Gem để mua bộ vật phẩm.<br>Vật phẩm này chỉ có thể mua bằng Gem trả phí
+Auto_e681a79dd251,Mô tả danh hiệu aaaaaaaaaaaaaaaaaaaa<br>Mô tả danh hiệu aaaaaaaaaaaaaaaaaaaa<br>
+Auto_e6a58fc3b7ed,STEP 5
+Auto_e734b3d49dce,Lyrics: Takahiro Yamada<br>Composition: Takahiro Yamada<br>Arrangement: Takahiro Yamada
+Auto_e760d2bb643b,Xóa cache.<br>Bạn có chắc không?
+Auto_e8a8b7c6038e,Loveca cần để mua
+Auto_eb2d423b05fd,Scout Point [Tên vật phẩm]
+Auto_eca4f8397ade,Rank<br>
+Auto_ed19e903d580,Tên Skill
+Auto_ee1a9acc0e95,Không có lịch sử sử dụng để hiển thị
+Auto_ee4c907f5db2,fps
+Auto_eedc6a01343e,Until 2020/1/1 17:00
+Auto_ef900ac4aaaa,Tên nghệ sĩ
+Auto_f082d04a8efb,Vienna Margaré
+Auto_f08c587b54a5,Văn bản văn bản văn bản văn bản văn bản<br>Văn bản văn bản văn bản văn bản văn bản<br>Văn bản văn bản văn bản văn bản văn bản<br>Văn bản văn bản văn bản văn bản văn bản<br>Văn bản văn bản văn bản văn bản văn bản<br>Văn bản văn bản văn bản văn bản văn bản<br>Văn bản văn bản văn bản văn bản văn bản<br>Văn bản văn bản văn bản văn bản văn bản<br>
+Auto_f1399a500121,STEP 3<br>
+Auto_f23c1a3a61ab,"Nico Yazawa (CV: Sora Tokui), Rin Hoshizora (CV: Riho Iida), Hanayo Koizumi (CV: Yurika Kubo)"
+Auto_f265c8f36b84,«<size=100>Юг<size=80>» <size=100>Ко<size=80>тори»
+Auto_f65f17e85292,Option A
+Auto_f660160beb91,'#Message'
+Auto_f66750e6a4d9,Chính sách quyền riêng tư<br>
+Auto_f6f99b4fccd5,Heading
+Auto_fa4421e93912,"Wings of My Heart, Fly to You!"
+Auto_fc02722f2e79,Parameter Up
+Auto_fe1465b2f630,'Thao tác này sẽ xóa cache.
+Auto_ff511e92f6a2,Tốc độ Marker = 6
+Auto_3deeeac74475,Văn bản mới_Văn bản mới<br>Văn bản mới_Văn bản mới
+Auto_316076ac0fd6,HONOKA KOSAKA
+Auto_e33d9b3310c8,Hobby:
+Auto_c3328c39b0e2,Text
+Auto_b31a6165ed15,Joined
+Auto_e08da1d02602,Trạng thái lựa chọn
+Auto_e59d7bc19c8f,Event Pt Bonus chỉ được áp dụng bởi thành viên có hiệu ứng cao nhất trong Unit.
+Auto_56284117f22b,Chi tiết<br>Unit
+Auto_229ac5ad1902,'ID:'
+Auto_8f6f274bdbc6,Rất vui được gặp bạn. Giới hạn<br>30 ký tự full-width
+Auto_d1eb1a8c785c,Đăng nhập gần nhất: 1 giờ trước
+Auto_07ec0ce76690,Chỉ hiện<br>Favorite Friend
+Auto_e6a697ba40c2,Danh sách bạn bè
+Auto_ec7ae06b0999,Xóa
+Auto_d7831e09e2fa,Từ chối lời mời kết bạn
+Auto_9aebaee878f6,<size=32>STEP</size> hiện tại
+Auto_ffdb97c8a723,Cool Empress ○○○○
+Auto_861285cde494,"Cool P +12%, và các thành viên Honoka & Hanayo nhận thêm 9% Cool<br>P.<br>"
+Auto_43965186bda1,"Cool P +12%, và các thành viên Honoka & Hanayo<br>nhận thêm 9% Cool<br>P.<br>"
+Auto_82002e2fa49d,"Cool P +12%, và các thành viên Honoka & Hanayo<br>nhận thêm 9% Cool<br><br>P.<br>"
+Auto_8f430c44afa1,Once More!!
+Auto_8697160f7a00,HIGH SCORE không được cập nhật<br>khi dùng Star Assist
+Auto_1b92a8c61f66,MAX COMBO không được cập nhật<br>khi dùng Star Assist
+Auto_119dada8743d,HIGH SCORE không được cập nhật<br>trong sự kiện này
+Auto_23a202742edc,Tokyo Garden Theater
+Auto_71e7b499f129,Landmark Name ○○○○○○○○
+Auto_6ef2337620d1,Honoka Kosaka
+Auto_bca3582437f0,'Trạng thái đã nhận      '
+Auto_5e09801739ed,Không có Card phù hợp
+Auto_d0ce5c42a59a,CharacterName
+Auto_5d58d93e8bf4,Còn 10 ngày
+Auto_472aa5aec506,aaaaaaaaaaaaaaaaa
+Auto_11fcfa6991cb,-aaaaaaaa
+Auto_7cf81d1c765b,Xác nhận thành viên
+Auto_e9f1544100ba,Nhập tên ○○○○
+Auto_1af14d2a65f8,Room ID:
+Auto_6a26632920e1,Tổng Combo
+Auto_3b73e212eeee,"Composition: Ayumu Nakamura, Hiroto Kikuchi<br>Arrangement: Ayumu Nakamura, Hiroto Kikuchi<br>Vocals: Chika Takami (CV. Anju Inami), Mari Ohara (CV. Aina Suzuki), Dia Kurosawa (CV. Arisa Komiya)<br>Kanan Matsuura (CV. Nanaka Suwa), Yoshiko Tsushima (CV. Aika Kobayashi)"
+Auto_fe933ad251ac,Chạm để nhập tên
+Auto_4d395aee4ce0,Còn 99 ngày
+Auto_29f72241b091,Phần thưởng nhận được và Event Pt thay đổi theo số lượng
+Auto_2e4df52b54d0,Chọn LP tiêu thụ
+Auto_5521e368d87e,Warning
+Auto_7e5716db83d2,"Đã phát hiện hành vi gây ảnh hưởng đến người chơi khác.<br>Kết quả Live này sẽ bị vô hiệu.<br><br>Nếu hành vi này bị phát hiện nhiều lần,<br>quyền chơi sẽ bị hạn chế trong một khoảng thời gian."
+Auto_58b0ee43d2aa,Chơi một Live khác với cùng người chơi<br>ở cùng độ khó?
+Auto_40d132e9c3cd,Rời Room riêng?
+Auto_ef20caea634e,Host đã ngắt kết nối.<br>Đang quay lại màn hình chính sự kiện.
+Auto_425e7dea4998,Chưa đủ người tham gia.<br><br>Bạn có thể nhận ít Event Pt hơn so với<br>khi chơi đủ 4 người.<br><br>Bắt đầu Live với số người hiện tại?
+Auto_2dd929a3304a,Bạn đã dùng hết lượt hỗ trợ hôm nay.<br>Đang quay lại màn hình chính sự kiện.
+Auto_daa15114aa23,Chưa thiết lập Unit riêng cho sự kiện.<br>Đang chuyển đến màn hình thiết lập Unit.
+Auto_377325e4d88d,"Do nhiều lần ngắt kết nối hoặc gian lận,<br>quyền chơi Live trong sự kiện này tạm thời bị hạn chế."
+Auto_e958b7cc8644,Đang tìm Room...
+Auto_77a19778ce42,New
+Auto_d55be023c2b2,Có
+Auto_f1671898c65b,Rin Hoshizora
+Auto_31eecb3ddc6d,Language
+Auto_b0a4b7078dce,Settings<br>
+SelectLanguage_ConfirmTitle,Đổi ngôn ngữ
+SelectLanguage_ConfirmMessage,Ứng dụng sẽ khởi động lại để áp dụng ngôn ngữ mới. Tiếp tục?
+Auto_343a26d4817b,Đề xuất
+Auto_217643d3311e,Đội hình tự động
+Auto_5712f746e026,Rearrange
+Auto_c47bf7602f86,Đặt làm<br>Main
+Auto_17d151209dcb,Use
+Auto_eb321ace03b3,Tên người chơi
+Custom_Option_Live3d_Title,Cài đặt 3D Live
+Custom_Option_Live3d_Info,Bật/tắt 3D Live và chọn chế độ chất lượng.<br>Thay đổi áp dụng từ Live tiếp theo.
+Custom_Option_Live3d_Enable,Phát 3D Live
+Custom_Option_Live3d_Quality,Chế độ chất lượng
+Custom_Sifas_Live3d_Toggle,3D Live
+Custom_Sifas_3dMv_Cycle,Chuyển
+Custom_Option_Keyboard_Title,Cài đặt bàn phím
+Custom_Option_Keyboard_Info,Chọn một lane rồi nhấn phím hoặc nút (Esc để hủy)
+Custom_Option_Keyboard_Lane,Lane {0}
+Custom_Option_Keyboard_Listening,Lane {0} - nhấn phím hoặc nút… (Esc để hủy)
+Custom_Option_Keyboard_Waiting,[ Đang chờ nhập ]
+Custom_Option_Keyboard_None,Không có
+Custom_Option_Keyboard_Back,Quay lại / Tạm dừng
+Custom_Option_Keyboard_BackListening,Nút Quay lại/Tạm dừng - nhấn phím hoặc nút
+Custom_Option_Download_Title,Cài đặt tải xuống
+Custom_Option_Download_Info,Tải trước bài hát để loại bỏ thời gian chờ khi bắt đầu Live
+Custom_Option_Download_Used,Đã dùng: {0} ({1} có thể xóa)
+Custom_Option_Download_UsedNone,Used: —
+Custom_Option_Download_Calculating,Đã dùng: đang tính…
+Custom_Option_Download_Deleting,Đã dùng: đang xóa…
+Custom_Option_Download_AllSongs,Tải tất cả bài hát
+Custom_Option_Download_AllMv,Tải tất cả 3D MV
+Custom_Option_Download_ClearCache,Xóa cache
+Custom_Option_Visual_Title,Cài đặt hình ảnh
+Custom_Option_Visual_Info,Chọn mức chất lượng hoặc điều chỉnh từng mục riêng.<br>Thay đổi áp dụng từ Live tiếp theo.
+Custom_Option_Visual_Preset,Presets
+Custom_Option_Visual_Custom,Custom
+Custom_Option_Visual_CustomInfo,Đang dùng cài đặt tùy chỉnh (áp dụng từ Live tiếp theo)
+Custom_Option_Visual_GroupDisplay,Display
+Custom_Option_Visual_GroupLighting,Lighting
+Custom_Option_Visual_GroupStage,Stage
+Custom_Option_Visual_GroupEffect,Effects
+Custom_Option_Visual_GroupPhysics,Physics
+Custom_Option_Visual_Resolution,Resolution
+Custom_Option_Visual_Fps,Tốc độ khung hình
+Custom_Option_Visual_Aa,Anti-Aliasing
+Custom_Option_Visual_BaseLight,Ánh sáng cơ bản
+Custom_Option_Visual_Ambient,Ánh sáng môi trường
+Custom_Option_Visual_RimLight,Ánh sáng viền
+Custom_Option_Visual_SpotLight,Spotlights
+Custom_Option_Visual_Emissive,Emissive
+Custom_Option_Visual_Display,Màn hình sân khấu
+Custom_Option_Visual_StageFx,Hiệu ứng sân khấu
+Custom_Option_Visual_Audience,Audience
+Custom_Option_Visual_Cubemap,Reflections
+Custom_Option_Visual_PostEffect,Post-Effects
+Custom_Option_Visual_SwingBone,Vật lý chuyển động
+Custom_Option_Keyboard_TabTitle,Bàn phím
+Custom_Option_Download_TabTitle,Downloads
+Custom_Option_Visual_TabTitle,Visuals
+Custom_Option_Download_StoryMovies,Tải video cốt truyện
+Custom_Option_Download_CardArt,Tải toàn bộ ảnh Card
+Custom_Sifas_MvDeck_Header,MV Formation
+Custom_Sifas_MvDeck_Entry,Costumes
+Custom_Sifas_MvDeck_UseDefault,Dùng đội hình mặc định
+Custom_Sifas_MvDeck_UseDeck,Dùng Deck của tôi
+Custom_Sifas_MvDeck_Reset,Đặt lại
+Custom_Sifas_MvDeck_Save,Lưu
+Custom_Sifas_MvDeck_PickMember,Chọn thành viên
+Custom_Sifas_MvDeck_PickSuit,Chọn trang phục
+Custom_Sifas_MvDeck_DefaultSuit,Trang phục mặc định
+Custom_Sifas_MvDeck_RinaBoard,Tháo bảng Rina-chan
+Custom_Sifas_MvDeck_InFormation,(in formation)
+Custom_Sifas_MvDeck_PickGroup,Chọn nhóm
+Custom_Sifas_MvDeck_Back,Quay lại
+Custom_Sifas_MvDeck_CustomGroup,Custom
+Custom_Sifas_MvDeck_Import,Import
+Custom_Sifas_MvDeck_DeleteMode,Chế độ xóa
+Custom_Sifas_MvDeck_DeleteModeExit,Thoát chế độ xóa
+Custom_Sifas_MvDeck_DeletePrefix,Delete: 
+Custom_Sifas_MvDeck_ImportDone,Nhập hoàn tất
+Custom_Sifas_MvDeck_ImportFailed,Nhập thất bại
+Custom_Sifas_MvDeck_ImportDropHint,Đặt file model ZIP vào thư mục Import
+Custom_Sifas_MvDeck_ImportBatch,Nhập hàng loạt từ thư mục
+Custom_Sifas_MvDeck_ImportBatchResult,Kết quả nhập hàng loạt
+Custom_Sifas_MvDeck_ImportBatchKept,(file nguồn không bị xóa)
+Custom_Sifas_MvDeck_ImportUnsupported,Nền tảng này hiện chưa hỗ trợ chọn file
+Custom_Sifas_MvDeck_ImportStageDonor,Đang tải model nguồn...
+Custom_Sifas_MvDeck_ImportStageConform,Đang chuyển đổi model...
+Custom_Sifas_MvDeck_ImportStageBake,Đang tạo texture...
+Custom_Sifas_MvDeck_ImportStageRegister,Registering...
+Custom_Sifas_MvDeck_ImportErrDonor,Model nguồn chưa được tải (hãy tải một 3D Live trước)
+Custom_Sifas_MvDeck_ImportErrVerify,Không thể tạo model (xem player log)
+Custom_Option_Live_Sif1SwipeMode,Chế độ Swipe SIF1
+Custom_CardDetail_FriendshipPlaceholder,Friendship??? Chưa được triển khai
+Custom_CardDetail_EvolveTentative,(Tạm thời) Thức tỉnh: {0}
+Custom_CardDetail_TitlePlaceholder,Danh hiệu! Chưa được triển khai
+Custom_CardDetail_SchoolYear,Năm {0}
+Custom_PurchaseAlert_UnitTenThousand,0000
+Custom_PurchaseAlert_UnitThousand,000
+Custom_PurchaseAlert_LimitMessage,Chi tiêu tháng này sẽ vượt {0} yên. Bạn có muốn tiếp tục mua không?
+Custom_SerialCode_Copied,Đã sao chép mã serial.
+Custom_SystemDialog_ErrorTitle,Lỗi
+Custom_SystemDialog_ErrorMessage,Đã xảy ra lỗi
+Custom_ServerConfig_Title,Cài đặt server
+Custom_ServerConfig_ApiUrl,URL API Server
+Custom_ServerConfig_CdnUrl,URL Asset CDN Server
+Custom_ServerConfig_ResetToDefault,Khôi phục mặc định
+Custom_ServerConfig_Save,Lưu
+Custom_ServerConfig_UsingCustom,Đang dùng cài đặt tùy chỉnh
+Custom_ServerConfig_Saved,Đã lưu. Có hiệu lực khi quay lại màn hình tiêu đề.
+Custom_ServerConfig_ConfirmChangeTitle,Xác nhận đổi server
+Custom_ServerConfig_ConfirmChangeMessage,Đổi server sẽ xóa TOÀN BỘ dữ liệu tài khoản cục bộ của server hiện tại trên thiết bị này (save và thông tin xác thực).<br>Asset đã tải vẫn được giữ.<br><br>Tiếp tục?
+Custom_ServerConfig_ConfirmResetMessage,"Khôi phục cài đặt mặc định sẽ đổi server, vì vậy TOÀN BỘ dữ liệu tài khoản cục bộ của server hiện tại trên thiết bị này (save và thông tin xác thực) sẽ bị xóa.<br>Asset đã tải vẫn được giữ.<br><br>Tiếp tục?"
+Custom_ServerConfig_SaveCancelled,Đã hủy lưu.
+Custom_ServerConfig_ClearingAccount,Đang xóa dữ liệu tài khoản...
+Custom_ServerConfig_ChangedTitle,Đã đổi server
+Custom_ServerConfig_ChangedRestartMessage,Đã lưu cài đặt và xóa dữ liệu tài khoản.<br>Vui lòng khởi động lại ứng dụng.
+Custom_ServerConfig_ResetDone,Đã khôi phục mặc định tích hợp.
+Custom_ServerConfig_ResetCancelled,Đã hủy khôi phục.
+Custom_ServerConfig_Placeholder,(empty)
+Custom_Gacha_BonusSuffix, + Bonus!
+Custom_Common_ErrorCode,Mã lỗi: {0}
+Custom_Common_None,Không có
+Custom_Exchange_TypeNone,Unspecified
+Custom_Exchange_TypePhotoSticker,Photo Sticker
+Custom_Exchange_TypePick,Pick
+Custom_Exchange_TypeTicket,Vé
+Custom_Notification_ChannelDescription,Notifications
+Custom_Login_TransferTitle,Chuyển thiết bị
+Custom_Login_TransferConfirmMessage,Có vẻ thiết bị của bạn đã thay đổi. Tiếp tục chuyển dữ liệu trên thiết bị này?
+Custom_Login_TransferFailedMessage,Chuyển dữ liệu thất bại. Vui lòng dùng mã chuyển dữ liệu.
+Custom_Reward_StaminaName,Phần thưởng Stamina
+Custom_Adventure_TabMain,Chính
+Custom_Adventure_TabSub,Sub
+Custom_Adventure_TabEvent,Sự kiện
+Custom_Adventure_TabTutorial,Tutorial
+Custom_PassContents_FreeGems,Gem miễn phí
+Custom_Sifas_MvDeck_ImportBatchHeader,Imported {0} / {1}
+Custom_SpineViewer_Empty,EMPTY
+Arcade_Input_Info,Chọn một dòng rồi nhấn phím hoặc nút (Esc để hủy)
+Arcade_Input_ListeningKey,{0} - nhấn một phím… (Esc để hủy)
+Arcade_Input_ListeningPad,{0} - nhấn một nút gamepad… (Esc để hủy)
+Arcade_Input_ListeningNoEscape,{0} - nhấn một phím
+Arcade_Input_SlotKeyboard,Bàn phím
+Arcade_Input_SlotGamepad,Tay cầm
+Arcade_Input_Decision,Xác nhận
+Arcade_Input_Cancel,Hủy / Quay lại / Tạm dừng
+Arcade_Input_Select,Chọn
+Arcade_Input_Test,Kiểm tra
+Arcade_Input_Service,Dịch vụ
+Arcade_Input_Coin,Xu
+Arcade_Hud_Credit,LƯỢT {0}
+Arcade_Hud_FreePlay,CHƠI MIỄN PHÍ
+Arcade_Monitor_TestMode,CHẾ ĐỘ KIỂM TRA
+Arcade_Monitor_TestPattern,MẪU KIỂM TRA
+Arcade_Title_MenuEntry,Chế độ Arcade
+Arcade_Enter_NameTitle,Tên máy
+Arcade_Enter_NameMessage,Nhập tên cho máy Arcade này.
+Arcade_Enter_NameNote,Tên này sẽ hiển thị trong danh sách máy của server.
+Arcade_Enter_NamePlaceholder,Tên máy
+Arcade_Enter_DefaultName,Máy Arcade
+Arcade_Enter_ErrorDisabled,Server này không hỗ trợ chế độ Arcade.
+Arcade_Enter_ErrorRegister,Không thể đăng ký máy Arcade này.
+Arcade_TestMode_Title,CHẾ ĐỘ KIỂM TRA
+Arcade_TestMode_Back,Quay lại
+Arcade_TestMode_TabSystem,Hệ thống
+Arcade_TestMode_TabCredits,Ghi công
+Arcade_TestMode_TabInput,Điều khiển
+Arcade_TestMode_TabMonitor,Màn hình
+Arcade_TestMode_SystemHeader,Thông tin hệ thống
+Arcade_TestMode_ClientVersion,Phiên bản client
+Arcade_TestMode_AssetVersion,Phiên bản asset
+Arcade_TestMode_MachineName,Tên máy
+Arcade_TestMode_MachineId,ID máy
+Arcade_TestMode_ServerIdentifier,Server
+Arcade_TestMode_RegisteredAt,Đã đăng ký
+Arcade_TestMode_Credits,Ghi công
+Arcade_TestMode_ServiceCredits,Lượt dịch vụ
+Arcade_TestMode_ServerSettings,Cài đặt server
+Arcade_TestMode_BookkeepingHeader,Thống kê vận hành
+Arcade_TestMode_TotalCoins,Tổng số xu
+Arcade_TestMode_TotalService,Lượt dịch vụ đã cấp
+Arcade_TestMode_Plays,Lượt chơi
+Arcade_TestMode_Songs,Bài hát đã chơi
+Arcade_TestMode_Aborts,Lượt hủy
+Arcade_TestMode_SinceReset,Tính từ
+Arcade_TestMode_LastReset,Lần đặt lại gần nhất
+Arcade_TestMode_ResetBookkeeping,Đặt lại thống kê
+Arcade_TestMode_ExitArcade,Thoát chế độ Arcade
+Arcade_TestMode_CreditsHeader,Cài đặt lượt chơi
+Arcade_TestMode_FreePlay,Chơi tự do
+Arcade_TestMode_CoinsPerCredit,Xu cho mỗi lượt
+Arcade_TestMode_CreditsPerPlay,Lượt cho mỗi lần chơi
+Arcade_TestMode_SongsPerCredit,Bài hát cho mỗi lượt
+Arcade_TestMode_ShowCreditHud,Hiện bộ đếm lượt
+Arcade_TestMode_InputHeader,Cài đặt điều khiển
+Arcade_TestMode_InputConfig,Gán nút
+Arcade_TestMode_InputTestLanes,Nút nhịp điệu
+Arcade_TestMode_InputTestActions,Nút điều khiển
+Arcade_TestMode_ActionDecision,DEC
+Arcade_TestMode_ActionCancel,CAN
+Arcade_TestMode_ActionSelect,SEL
+Arcade_TestMode_ActionTest,TST
+Arcade_TestMode_ActionService,SVC
+Arcade_TestMode_ActionCoin,COIN
+Arcade_TestMode_MonitorHeader,Cài đặt màn hình
+Arcade_TestMode_SubMonitorEnabled,Dùng màn hình thứ hai
+Arcade_TestMode_DisplayIndex,Chỉ số màn hình
+Arcade_TestMode_DisplayIndexNote,Thay đổi chỉ số màn hình có hiệu lực sau khi khởi động lại.
+Arcade_TestMode_TestPattern,Hiện mẫu kiểm tra
+Arcade_TestMode_NoSecondDisplay,Không phát hiện màn hình thứ hai
+Arcade_TestMode_SecondDisplayReady,Màn hình thứ hai đang hoạt động
+Arcade_Session_GetReady,CHUẨN BỊ
+Arcade_Session_Songs,Lượt này chơi được {0} bài hát
+Arcade_Session_Connecting,Đang kết nối...
+Arcade_Session_ErrorDisabled,Server không thể bắt đầu phiên chơi.
+Arcade_Session_NotCleared,CHƯA CLEAR
+Arcade_Session_Thanks,CẢM ƠN BẠN ĐÃ CHƠI
+Arcade_Session_SeeYouAgain,Hẹn gặp lại
+Arcade_Confirm_TimerRemaining,Còn lại
+Arcade_Confirm_TimerSuffix,giây
+Arcade_Monitor_GetReady,CHUẨN BỊ
+Arcade_Monitor_SongCount,BÀI HÁT {0}/{1}
+Arcade_Monitor_Level,Lv.{0}
+Arcade_Monitor_Result,KẾT QUẢ
+Arcade_Select_SongLabel,BÀI HÁT
+Arcade_Select_Locked,Bài hát này chưa được mở khóa.
+Arcade_Select_LevelCapped,Máy này chỉ hỗ trợ tối đa {0}.
+Arcade_Attract_InsertCoin,BỎ XU
+Arcade_Attract_PressStart,NHẤN XÁC NHẬN
+Arcade_TestMode_TabGame,Trò chơi
+Arcade_TestMode_TabSound,Âm thanh
+Arcade_TestMode_TabContent,Nội dung
+Arcade_TestMode_TabBookkeeping,Thống kê vận hành
+Arcade_TestMode_SessionState,Trạng thái phiên
+Arcade_TestMode_SessionIdle,Chờ
+Arcade_TestMode_InputLocks,Khóa điều khiển
+Arcade_TestMode_EditMachineName,Đổi tên máy
+Arcade_TestMode_GameHeader,Cài đặt trò chơi
+Arcade_TestMode_DifficultyCap,Giới hạn độ khó
+Arcade_TestMode_SelectTimeout,Thời gian chọn bài (giây)
+Arcade_TestMode_DeckTimeout,Thời gian xác nhận đội hình (giây)
+Arcade_TestMode_ResultTimeout,Tự chuyển màn kết quả (giây)
+Arcade_TestMode_ClosingTimeout,Thời gian màn kết thúc (giây)
+Arcade_TestMode_DialogTimeout,Giới hạn hộp thoại khi chờ (giây)
+Arcade_TestMode_AttractHeader,Cài đặt màn hình chờ
+Arcade_TestMode_TitleCardSeconds,Thời gian thẻ tiêu đề (giây)
+Arcade_TestMode_DemoSelectSeconds,Thời gian chọn bài demo (giây)
+Arcade_TestMode_DemoClipSeconds,Thời lượng Demo Live (giây)
+Arcade_TestMode_DemoSongsHeader,Bài hát demo
+Arcade_TestMode_SoundHeader,Cài đặt âm thanh
+Arcade_TestMode_BgmVolume,Âm lượng BGM
+Arcade_TestMode_SeVolume,Âm lượng hiệu ứng
+Arcade_TestMode_VoiceVolume,Âm lượng giọng nói
+Arcade_TestMode_AttractVolume,Âm lượng màn hình chờ (%)
+Arcade_TestMode_AttractVolumeNote,Giảm BGM xuống tỷ lệ này khi màn hình chờ chạy. Áp dụng từ vòng chờ tiếp theo.
+Arcade_TestMode_SeTest,Kiểm tra SE
+Arcade_TestMode_ContentHeader,Nội dung
+Arcade_TestMode_PrefetchState,Tải trước trong nền
+Arcade_TestMode_PrefetchRunning,ĐANG CHẠY   chờ {0} / đang tải {1} / xong {2} / lỗi {3}
+Arcade_TestMode_PrefetchIdle,ĐANG CHỜ   chờ {0} / đang tải {1} / xong {2} / lỗi {3}
+Arcade_TestMode_PrefetchNote,Asset mới được tải trong nền ở mỗi phiên chơi.
+Arcade_TestMode_DownloadAll,Tải toàn bộ ngay
+Arcade_TestMode_DownloadAllNote,Tải tất cả hạng mục. Máy sẽ quay về màn hình chờ sau khi hoàn tất.
+Arcade_TestMode_ClearCache,Xóa cache
+Arcade_TestMode_ClearCacheNote,Xóa các file đã tải rồi tự động khởi động lại máy.
+Arcade_TestMode_PlayHourHeader,Theo giờ
+Arcade_TestMode_HourLabel,{0}:00
+Arcade_TestMode_PlayWeekDayHeader,Theo thứ trong tuần
+Arcade_TestMode_WeekDay0,Chủ nhật
+Arcade_TestMode_WeekDay1,Thứ hai
+Arcade_TestMode_WeekDay2,Thứ ba
+Arcade_TestMode_WeekDay3,Thứ tư
+Arcade_TestMode_WeekDay4,Thứ năm
+Arcade_TestMode_WeekDay5,Thứ sáu
+Arcade_TestMode_WeekDay6,Thứ bảy
+Arcade_Input_SlotHeaderIo,MÁY ARCADE
+Arcade_Input_IoNote,Các nút trên bo I/O của máy. ENTER là nút xác nhận trên bảng dịch vụ.
+Arcade_Input_ListeningIo,{0} - nhấn một nút trên máy… (Esc để hủy)
+Arcade_Card_ButtonNewPlayer,NGƯỜI CHƠI MỚI
+Arcade_Card_ButtonTakeOver,CHUYỂN DỮ LIỆU
+Arcade_TestMode_TabLed,LED
+Arcade_TestMode_BoardHeader,Bo I/O
+Arcade_TestMode_BoardLink,Kết nối
+Arcade_TestMode_BoardLinkIdle,không có
+Arcade_TestMode_BoardLinkOpening,đang mở
+Arcade_TestMode_BoardLinkRunning,đang chạy
+Arcade_TestMode_BoardLinkDeviceLost,mất kết nối thiết bị
+Arcade_TestMode_BoardLinkVersionRefused,phiên bản bị từ chối
+Arcade_TestMode_BoardReconnects,kết nối lại {0}
+Arcade_TestMode_BoardId,Thiết bị
+Arcade_TestMode_BoardRaw,Byte đầu vào
+Arcade_TestMode_BoardDoors,Công tắc cửa và nút ENTER trên bảng dịch vụ. Đèn cửa sáng nghĩa là ĐANG MỞ.
+Arcade_TestMode_BoardCoin,Bộ đếm xu
+Arcade_TestMode_BoardCoinValues,đếm {0}   yêu cầu {1}   xác nhận {2}
+Arcade_TestMode_BoardCoinFault,LỖI
+Arcade_TestMode_BoardReader,Đèn đầu đọc thẻ
+Arcade_TestMode_BoardScan,Quét thẻ
+Arcade_TestMode_BoardCard,Trạng thái thẻ
+Arcade_TestMode_BoardCardId,ID thẻ
+Arcade_TestMode_BoardCardUid,UID thẻ
+Arcade_TestMode_CardStateNone,không có thẻ
+Arcade_TestMode_CardStateWaiting,đang chờ thẻ
+Arcade_TestMode_CardStateDetecting,đang nhận diện
+Arcade_TestMode_CardStateOk,đọc thành công
+Arcade_TestMode_CardStateWrongType,loại thẻ không được hỗ trợ
+Arcade_TestMode_CardStateAbsent,không có thẻ hoặc đã hủy
+Arcade_TestMode_CardStateReaderError,lỗi đầu đọc
+Arcade_TestMode_CardScanTest,Kiểm tra quét thẻ
+Arcade_TestMode_CardReaderTest,Kiểm tra đèn đầu đọc thẻ
+Arcade_TestMode_StateOn,BẬT
+Arcade_TestMode_StateOff,TẮT
+Arcade_TestMode_EmulatorPath,DLL giả lập
+Arcade_TestMode_EmulatorPathNone,(chưa đặt)
+Arcade_TestMode_EmulatorPathEdit,Đặt đường dẫn DLL giả lập
+Arcade_TestMode_EmulatorPathNote,Nạp lớp giả lập winusb.dll thay cho bo mạch để kiểm tra trên bàn. Để trống để xóa. Áp dụng khi đóng Chế độ kiểm tra.
+Arcade_TestMode_LedHeader,Kiểm tra LED
+Arcade_TestMode_LedAll,Bật tất cả đầu ra
+Arcade_TestMode_LedRed,Trụ màu đỏ
+Arcade_TestMode_LedGreen,Trụ màu xanh lá
+Arcade_TestMode_LedBlue,Trụ màu xanh dương
+Arcade_TestMode_LedPillar0,Trụ 1 màu trắng
+Arcade_TestMode_LedPillar1,Trụ 2 màu trắng
+Arcade_TestMode_LedPillar2,Trụ 3 màu trắng
+Arcade_TestMode_LedLamps,Tất cả đèn nút
+Arcade_TestMode_LedLamp,Đèn
+Arcade_TestMode_LedLampConfirm,XÁC NHẬN
+Arcade_TestMode_LedBrightness,Độ sáng đèn
+Arcade_TestMode_LedBrightnessOff,TẮT
+Arcade_TestMode_LedBrightnessDim,0x20
+Arcade_TestMode_LedBrightnessFull,0xFF
+Arcade_TestMode_LedPillarColor,Màu trụ
+Arcade_TestMode_LedCoinCoil,Cuộn nhận xu
+Arcade_TestMode_LedOut,Byte đầu ra
+Arcade_TestMode_LedDescAll,Bật sáng tối đa tất cả trụ và toàn bộ đèn nút.
+Arcade_TestMode_LedDescRed,Đặt cả ba trụ thành màu đỏ.
+Arcade_TestMode_LedDescGreen,Đặt cả ba trụ thành màu xanh lá.
+Arcade_TestMode_LedDescBlue,Đặt cả ba trụ thành màu xanh dương.
+Arcade_TestMode_LedDescPillar0,Bật trụ 1 màu trắng. Ba hàng trụ được kết hợp.
+Arcade_TestMode_LedDescPillar1,Bật trụ 2 màu trắng. Ba hàng trụ được kết hợp.
+Arcade_TestMode_LedDescPillar2,Bật trụ 3 màu trắng. Ba hàng trụ được kết hợp.
+Arcade_TestMode_LedDescLamps,Bật sáng tối đa chín đèn nút và đèn xác nhận.
+Arcade_TestMode_LedDescLamp,Chọn đèn mà hàng độ sáng sẽ ép mức. Số 10 là đèn xác nhận.
+Arcade_TestMode_LedDescBrightness,Ép đèn đã chọn về một trong ba mức sáng của bo mạch. TẮT sẽ để các hàng phía trên điều khiển.
+Arcade_TestMode_LedDescPillarColor,Màu trụ riêng của máy. Được dùng ở màn vào và trong suốt một lượt chơi.
+Arcade_TestMode_LedDescCoinCoil,Ép cuộn nhận xu hoạt động khi trang này đang mở.
+Arcade_TestMode_MaxCredits,Giới hạn lượt
+Arcade_TestMode_DemoBandsNote,Demo màn hình chờ chọn bài từ các nhóm đang bật.
+Arcade_TestMode_DemoIncludeCustomSongs,Bao gồm bài hát custom
+Arcade_Attract_NesicaUnavailable,Hiện không thể sử dụng NESiCA
+Arcade_Attract_NesicaTap,Chạm thẻ NESiCA của bạn
+Arcade_TestMode_DoorLeft,DR1
+Arcade_TestMode_DoorRight,DR2
+Arcade_TestMode_Enter,ENT
+Arcade_TestMode_WinUsbModule,Đã nạp winusb.dll
+Arcade_TestMode_WinUsbModuleNone,(chưa được nạp)
+Arcade_TestMode_WinUsbOpenerFound,Đã tìm thấy UsbioEmu_OpenBoard
+Arcade_TestMode_WinUsbOpenerMissing,không có export UsbioEmu_OpenBoard
+Arcade_TestMode_ShowAttractBanner,Hiện banner NESiCA
+Arcade_TestMode_DemoRequire3dLive,Demo chỉ dừng ở bài có 3D Live
+Arcade_TestMode_DemoRequire3dLiveNote,Bật để phần chọn bài demo chỉ dừng ở những bài có 3D Live.
+Arcade_Input_Reset,Đặt lại (giữ 1 giây)
+Arcade_Input_ResetChord,TEST+SERVICE
+Arcade_TestMode_AccountHeader,Khóa tài khoản
+Arcade_TestMode_LockedAccount,Tài khoản đã khóa
+Arcade_TestMode_NotLocked,Chưa khóa
+Arcade_TestMode_LockPending,Chờ lượt chơi đầu tiên
+Arcade_TestMode_LockedAccountFormat,{0}  (thẻ ...{1})
+Arcade_TestMode_LockAccount,Khóa theo tài khoản...
+Arcade_TestMode_UnlockAccount,Bỏ khóa tài khoản
+Arcade_Session_ErrorOwnerGone,Tài khoản mà thiết bị này đã khóa theo không còn tồn tại.<br>Khóa tài khoản đã được gỡ bỏ.
+Arcade_TestMode_DemoWashPercent,Độ phủ Demo Live (%)
