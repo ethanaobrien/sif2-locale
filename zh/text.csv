@@ -1987,6 +1987,23 @@ GachaLotteryExchangeItemConfirm_Info,已将过期的“招募点数”转换为�
 Migration_TopTitle,数据迁移与账号关联
 Migration_SnsLink,账号关联
 Migration_EnableSnsLink,可关联账户
+Migration_NesicaLink,NESiCA Cards
+Migration_NesicaDialogTitle,NESiCA Cards
+Migration_NesicaSelect,A linked NESiCA plays as this account at a cabinet, and can be tapped in place of the transfer ID.
+Migration_NesicaNoCards,No NESiCA is linked to this account yet.
+Migration_NesicaMore,and {0} more (see the account page)
+Migration_NesicaUnlink,Unlink
+Migration_NesicaTapToLink,Tap a NESiCA
+Migration_NesicaWaiting,Hold your NESiCA against the back of the phone.
+Migration_NesicaNfcOff,NFC is turned off. Turn it on in the system settings, then try again.
+Migration_NesicaNote,Anyone holding a linked card and your transfer password can move this account. Unlink a lost card here.
+Migration_NesicaLinkFailed,The card could not be linked. Please try again.
+Migration_NesicaLinked,NESiCA Linked
+Migration_NesicaLinkedMessage,This NESiCA now plays as this account.
+Migration_NesicaReboundMessage,This NESiCA was linked to another account. It now plays as this one.
+Migration_NesicaUnlinked,NESiCA Unlinked
+Migration_NesicaUnlinkedMessage,This NESiCA no longer plays as this account.
+Migration_NesicaTap,Tap NESiCA
 Migration_SelectSnsLink,选择要关联的账号
 Migration_Twitter,与 Twitter 关联
 Migration_Apple,使用Apple账号登录
@@ -3254,8 +3271,6 @@ Arcade_TestMode_WeekDay6,Saturday
 Arcade_Input_SlotHeaderIo,CABINET
 Arcade_Input_IoNote,Cabinet I/O board buttons. ENTER is the service-panel decide button.
 Arcade_Input_ListeningIo,{0} - press a cabinet button… (Esc to cancel)
-Arcade_Card_ButtonNewPlayer,NEW PLAYER
-Arcade_Card_ButtonTakeOver,TRANSFER DATA
 Arcade_TestMode_TabLed,LED
 Arcade_TestMode_BoardHeader,I/O Board
 Arcade_TestMode_BoardLink,Link
@@ -3276,6 +3291,13 @@ Arcade_TestMode_BoardScan,Card Scan
 Arcade_TestMode_BoardCard,Card Status
 Arcade_TestMode_BoardCardId,Card ID
 Arcade_TestMode_BoardCardUid,Card UID
+Arcade_TestMode_NfcLink,NFC reader
+Arcade_TestMode_NfcLinkUnsupported,not on this device
+Arcade_TestMode_NfcLinkDisabled,off in system settings
+Arcade_TestMode_NfcLinkRunning,ready
+Arcade_TestMode_NfcLinkIdle,not started
+Arcade_TestMode_NfcCard,NFC card
+Arcade_TestMode_NfcTag,NFC tag
 Arcade_TestMode_CardStateNone,no card
 Arcade_TestMode_CardStateWaiting,waiting for card
 Arcade_TestMode_CardStateDetecting,detecting
@@ -3326,6 +3348,7 @@ Arcade_TestMode_DemoBandsNote,The attract demo draws from the groups switched on
 Arcade_TestMode_DemoIncludeCustomSongs,Include Custom Songs
 Arcade_Attract_NesicaUnavailable,NESiCA cannot be used right now
 Arcade_Attract_NesicaTap,Tap your NESiCA card
+Arcade_Attract_NesicaInsertCoin,Insert a coin to use your NESiCA
 Arcade_TestMode_DoorLeft,DR1
 Arcade_TestMode_DoorRight,DR2
 Arcade_TestMode_Enter,ENT
@@ -3341,7 +3364,6 @@ Arcade_Input_ResetChord,TEST+SERVICE
 Arcade_TestMode_AccountHeader,Account Lock
 Arcade_TestMode_LockedAccount,Locked Account
 Arcade_TestMode_NotLocked,Not locked
-Arcade_TestMode_LockPending,Pending first credit
 Arcade_TestMode_LockedAccountFormat,{0}  (card ...{1})
 Arcade_TestMode_LockAccount,Lock to Account...
 Arcade_TestMode_UnlockAccount,Unlock Account

@@ -2039,6 +2039,23 @@ GachaLotteryExchangeItemConfirm_Info,期限切れの「勧誘ポイント」が�
 Migration_TopTitle,データ引き継ぎ・アカウント連携
 Migration_SnsLink,アカウント連携
 Migration_EnableSnsLink,※連携可能アカウント
+Migration_NesicaLink,NESiCAカード
+Migration_NesicaDialogTitle,NESiCAカード
+Migration_NesicaSelect,登録したNESiCAは筐体でこのアカウントとしてプレイでき、引き継ぎIDの代わりにタッチできます。
+Migration_NesicaNoCards,このアカウントに登録されているNESiCAはありません。
+Migration_NesicaMore,ほか{0}枚（アカウントページを参照）
+Migration_NesicaUnlink,登録解除
+Migration_NesicaTapToLink,NESiCAをタッチ
+Migration_NesicaWaiting,NESiCAを本体の背面にかざしてください。
+Migration_NesicaNfcOff,NFCがオフになっています。システム設定でオンにしてからお試しください。
+Migration_NesicaNote,登録したカードと引き継ぎパスワードがあれば、このアカウントを引き継げます。カードを紛失した場合はここで登録解除してください。
+Migration_NesicaLinkFailed,カードを登録できませんでした。もう一度お試しください。
+Migration_NesicaLinked,NESiCAを登録しました
+Migration_NesicaLinkedMessage,このNESiCAはこのアカウントとしてプレイできます。
+Migration_NesicaReboundMessage,このNESiCAは別のアカウントに登録されていましたが、このアカウントに変更されました。
+Migration_NesicaUnlinked,登録を解除しました
+Migration_NesicaUnlinkedMessage,このNESiCAはこのアカウントから登録解除されました。
+Migration_NesicaTap,NESiCAをタッチ
 Migration_EnableSnsLink_iOS,Twitter/Apple
 Migration_EnableSnsLink_Android,Twitter/Google
 Migration_SelectSnsLink,連携するアカウントを選択してください
@@ -3314,8 +3331,6 @@ Arcade_TestMode_WeekDay6,土曜日
 Arcade_Input_SlotHeaderIo,キャビネット
 Arcade_Input_IoNote,キャビネット基板のボタンです。ENTERボタンはサービスパネル側の決定ボタンです。
 Arcade_Input_ListeningIo,{0} のキャビネットのボタンを押してください…Escでキャンセル
-Arcade_Card_ButtonNewPlayer,新規プレイヤー
-Arcade_Card_ButtonTakeOver,データ引き継ぎ
 Arcade_TestMode_TabLed,LED
 Arcade_TestMode_BoardHeader,I/Oボード
 Arcade_TestMode_BoardLink,接続
@@ -3336,6 +3351,13 @@ Arcade_TestMode_BoardScan,カード読み取り中
 Arcade_TestMode_BoardCard,カード状態
 Arcade_TestMode_BoardCardId,カードID
 Arcade_TestMode_BoardCardUid,カードUID
+Arcade_TestMode_NfcLink,NFCリーダー
+Arcade_TestMode_NfcLinkUnsupported,この端末にはありません
+Arcade_TestMode_NfcLinkDisabled,システム設定でオフ
+Arcade_TestMode_NfcLinkRunning,準備完了
+Arcade_TestMode_NfcLinkIdle,未起動
+Arcade_TestMode_NfcCard,NFCカード
+Arcade_TestMode_NfcTag,NFCタグ
 Arcade_TestMode_CardStateNone,カードなし
 Arcade_TestMode_CardStateWaiting,カード待ち
 Arcade_TestMode_CardStateDetecting,検出中
@@ -3386,6 +3408,7 @@ Arcade_TestMode_DemoBandsNote,アトラクトのデモはオンにしたグル�
 Arcade_TestMode_DemoIncludeCustomSongs,カスタム楽曲を含める
 Arcade_Attract_NesicaUnavailable,ただいまNESiCAを使用することはできません
 Arcade_Attract_NesicaTap,NESiCAをタッチしてください
+Arcade_Attract_NesicaInsertCoin,NESiCAを使うにはコインを入れてください
 Arcade_TestMode_DoorLeft,DR1
 Arcade_TestMode_DoorRight,DR2
 Arcade_TestMode_Enter,ENT
@@ -3401,7 +3424,6 @@ Arcade_Input_ResetChord,TEST+SERVICE
 Arcade_TestMode_AccountHeader,アカウントロック
 Arcade_TestMode_LockedAccount,ロック中のアカウント
 Arcade_TestMode_NotLocked,ロックなし
-Arcade_TestMode_LockPending,初回クレジットで登録
 Arcade_TestMode_LockedAccountFormat,{0}（カード末尾 {1}）
 Arcade_TestMode_LockAccount,アカウントにロック…
 Arcade_TestMode_UnlockAccount,ロックを解除

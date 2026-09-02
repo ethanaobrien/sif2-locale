@@ -654,14 +654,12 @@ mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,Reset Bookkeeping
 mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,Set the counted coins and plays back to zero.<br>Credits and the machine registration are not changed.<br><br>Continue?
 mst.dialog.Arcade_Session_Failed._title,Cannot Start Session
 mst.dialog.Arcade_Session_Failed._message,{0}<br><br>Your credit has been returned.
+mst.dialog.Arcade_Card_Unlinked._title,NESiCA Not Linked
+mst.dialog.Arcade_Card_Unlinked._message,This card is not linked to an account.<br>Link it at {0} from the app or a browser.<br><br>Playing as a guest.
 mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,Download All Content
 mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,Downloads every asset category.<br>This takes time and bandwidth. The cabinet returns to the attract screen when it is done.<br><br>Continue?
 mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,Final Confirmation
 mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,The counted data cannot be recovered.<br>Really reset it?
-mst.dialog.Arcade_Card_NewCard._title,A New Card
-mst.dialog.Arcade_Card_NewCard._message,This card has not been used here before.<br>Choose NEW PLAYER to start a new account on it.<br>Choose TRANSFER DATA to move the account you already play on your phone onto this card.
-mst.dialog.Arcade_Card_BindFailed._title,Transfer Failed
-mst.dialog.Arcade_Card_BindFailed._message,No account matches that transfer code and password.<br>Check them and try again.
 mst.dialog.Arcade_TestMode_UnlockConfirm._title,Unlock Account
 mst.dialog.Arcade_TestMode_UnlockConfirm._message,"Remove this device's account lock.<br>From the next credit on, Decision plays as the guest. The card binding on the server is kept.<br><br>Continue?"
 mst.dialog.Arcade_TestMode_UnlockReconfirm._title,Final Confirmation

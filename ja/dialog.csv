@@ -661,14 +661,12 @@ mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._title,ブックキーピン�
 mst.dialog.Arcade_TestMode_ResetBookkeepingConfirm._message,集計中のコイン数・プレイ回数をすべて0に戻します。<br>クレジットと筐体登録は変更されません。<br><br>よろしいですか？
 mst.dialog.Arcade_Session_Failed._title,セッションを開始できません
 mst.dialog.Arcade_Session_Failed._message,{0}<br><br>クレジットは返却されました。
+mst.dialog.Arcade_Card_Unlinked._title,NESiCAが登録されていません
+mst.dialog.Arcade_Card_Unlinked._message,このカードはアカウントに登録されていません。<br>アプリまたはブラウザで {0} から登録してください。<br><br>ゲストとしてプレイします。
 mst.dialog.Arcade_TestMode_DownloadAllConfirm._title,全コンテンツのダウンロード
 mst.dialog.Arcade_TestMode_DownloadAllConfirm._message,全カテゴリのアセットをダウンロードします。<br>通信量と時間がかかります。完了すると筐体はアトラクト画面に戻ります。<br><br>よろしいですか？
 mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._title,最終確認
 mst.dialog.Arcade_TestMode_ResetBookkeepingReconfirm._message,集計データは元に戻せません。<br>本当にリセットしますか？
-mst.dialog.Arcade_Card_NewCard._title,はじめてのカードです
-mst.dialog.Arcade_Card_NewCard._message,このカードはまだ登録されていません。<br>新しく遊びはじめる場合は「新規プレイヤー」を選んでください。<br>スマートフォンで遊んでいるデータをこのカードに引き継ぐ場合は「データ引き継ぎ」を選んでください。
-mst.dialog.Arcade_Card_BindFailed._title,引き継げませんでした
-mst.dialog.Arcade_Card_BindFailed._message,引き継ぎIDとパスワードが一致するアカウントが見つかりませんでした。<br>入力内容をご確認のうえ もう一度お試しください。
 mst.dialog.Arcade_TestMode_UnlockConfirm._title,アカウントロックの解除
 mst.dialog.Arcade_TestMode_UnlockConfirm._message,この端末のアカウントロックを解除します。<br>次のクレジットからは決定ボタンでゲストとしてプレイします。サーバー側のカード登録は残ります。<br><br>よろしいですか？
 mst.dialog.Arcade_TestMode_UnlockReconfirm._title,最終確認
