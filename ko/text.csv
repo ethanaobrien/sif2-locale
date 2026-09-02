@@ -3035,6 +3035,7 @@ Custom_Option_Visual_GroupEffect,효과
 Custom_Option_Visual_GroupPhysics,물리 효과
 Custom_Option_Visual_Resolution,해상도
 Custom_Option_Visual_Fps,프레임 속도
+Custom_Option_Visual_SifacLives,SIFAC Arcade 3D Lives
 Custom_Option_Visual_Aa,앤티앨리어싱
 Custom_Option_Visual_BaseLight,기본 조명
 Custom_Option_Visual_Ambient,앰비언트 라이트
@@ -3358,6 +3359,8 @@ Arcade_TestMode_WinUsbOpenerMissing,no UsbioEmu_OpenBoard export
 Arcade_TestMode_ShowAttractBanner,Show NESiCA Banner
 Arcade_TestMode_DemoRequire3dLive,Demo Lands on 3D Lives Only
 Arcade_TestMode_DemoRequire3dLiveNote,Switch on to have the demo song select stop only on songs with a 3D live.
+Arcade_TestMode_SifacLives,SIFAC Arcade 3D Lives
+Arcade_TestMode_SifacLivesNote,Switch on to offer the SIFAC arcade 3D lives. They are far heavier than the SIFAS lives; leave off on weak hardware.
 Arcade_Input_Reset,Reset (hold 1 s)
 Arcade_Input_ResetChord,TEST+SERVICE
 Arcade_TestMode_AccountHeader,Account Lock
