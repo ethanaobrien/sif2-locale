@@ -1,0 +1,88 @@
+_key,_text
+mst.scene_title.DeckTop._mainTitle,Lập đội hình
+mst.scene_title.DeckEdit._mainTitle,Lập đội hình
+mst.scene_title.DeckCharaSelect._mainTitle,Chọn thành viên
+mst.scene_title.Classmate._mainTitle,Danh sách thành viên
+mst.scene_title.CostumeCharaList._mainTitle,Đổi trang phục
+mst.scene_title.Practice._mainTitle,Luyện tập
+mst.scene_title.SkillPractice._mainTitle,Luyện kỹ năng
+mst.scene_title.Training._mainTitle,Thức tỉnh
+mst.scene_title.MemberList._mainTitle,Danh sách thành viên
+mst.scene_title.WaitingMemberList._mainTitle,Phòng chờ
+mst.scene_title.CardDetail._mainTitle,Chi tiết thành viên
+mst.scene_title.MemberIllustrateList._mainTitle,Album
+mst.scene_title.MemberCharaTop._mainTitle,Chi tiết thành viên
+mst.scene_title.AreaTalkList._mainTitle,Tạm
+mst.scene_title.Album._mainTitle,Tạm
+mst.scene_title.MovieCollection._mainTitle,Bộ sưu tập
+mst.scene_title.CardAlbum._mainTitle,Album thẻ
+mst.scene_title.DeckConfirm._mainTitle,Chuẩn bị Live!
+mst.scene_title.Profile._mainTitle,Hồ sơ
+mst.scene_title.RecommendList._mainTitle,Chọn yêu thích
+mst.scene_title.Friend._mainTitle,Danh sách bạn bè
+mst.scene_title.LiveSelect._mainTitle,Chọn Live
+mst.scene_title.MusicSelect._mainTitle,Chọn bài hát
+mst.scene_title.CooperationLive._mainTitle,Chọn phiên
+mst.scene_title.CooperationLiveMatching._mainTitle,Ghép trận
+mst.scene_title.MultiMusicSelect._mainTitle,Chọn bài hát
+mst.scene_title.MusicDecision._mainTitle,Xáo bài hát
+mst.scene_title.MusicDifficulty._mainTitle,Chọn độ khó
+mst.scene_title.MultiConfirm._mainTitle,Xác nhận cuối
+mst.scene_title.StampSetting._mainTitle,Cài đặt yêu thích
+mst.scene_title.Warehouse._mainTitle,Vật phẩm phòng
+mst.scene_title.TitleListSelect._mainTitle,Chọn danh hiệu
+mst.scene_title.TitleListView._mainTitle,Danh sách danh hiệu
+mst.scene_title.SealExchange._mainTitle,Đổi vật phẩm
+mst.scene_title.BadgeExchange._mainTitle,Đổi vật phẩm
+mst.scene_title.EventTop._mainTitle,Sự kiện
+mst.scene_title.EventStoryTop._mainTitle,Trang cốt truyện sự kiện
+mst.scene_title.EventStory._mainTitle,Chọn sự kiện
+mst.scene_title.EventScoreRanking._mainTitle,Xếp hạng sự kiện
+mst.scene_title.EventReward._mainTitle,Phần thưởng sự kiện
+mst.scene_title.ItemList._mainTitle,Danh sách vật phẩm
+mst.scene_title.ExchangeTop._mainTitle,Đổi vật phẩm
+mst.scene_title.EventMusicSelect._mainTitle,Chọn bài hát
+mst.scene_title.EventChallengeLiveMusicSelect._mainTitle,Chọn bài hát
+mst.scene_title.EventLiveTryMusicSelect._mainTitle,Chọn bài hát
+mst.scene_title.EventDeckConfirm._mainTitle,Chuẩn bị đội
+mst.scene_title.EventChallengeLiveDeckConfirm._mainTitle,Chuẩn bị đội
+mst.scene_title.EventLiveTryDeckConfirm._mainTitle,Chuẩn bị đội
+mst.scene_title.ExchangeItemList._mainTitle,Đổi vật phẩm
+mst.scene_title.BirthdayTop._mainTitle,Sinh nhật
+mst.scene_title.MapScene._mainTitle,Chọn khu vực
+mst.scene_title.MultiLiveEventCooperationLive._mainTitle,Chọn phòng
+mst.scene_title.MultiLiveEventCooperationLiveMatching._mainTitle,Ghép trận
+mst.scene_title.MultiLiveEventMultiMusicSelect._mainTitle,Chọn bài hát
+mst.scene_title.MultiLiveEventMusicDecision._mainTitle,Xáo bài hát
+mst.scene_title.MultiLiveEventMusicDifficulty._mainTitle,Chọn độ khó
+mst.scene_title.MultiLiveEventMultiConfirm._mainTitle,Xác nhận cuối
+mst.scene_title.LimitedLiveTop._mainTitle,Live sự kiện
+mst.scene_title.LimitedLiveLottery._mainTitle,Xáo bài hát
+mst.scene_title.TeacherLiveMusicSelect._mainTitle,Chọn bài hát
+mst.scene_title.TeacherLiveDeckConfirm._mainTitle,Chuẩn bị đội
+mst.scene_title.TeacherLiveTop._mainTitle,Chọn Live
+mst.scene_title.CharacterEpisodeLevel._mainTitle,Xem tập
+mst.scene_title.BoxGardenTop._mainTitle,Phòng tùy chỉnh
+mst.scene_title.GachaTop._mainTitle,Scout
+mst.scene_title.GachaResult._mainTitle,Kết quả Scout
+mst.scene_title.BandEnrichTop._mainTitle,Trang cường hóa nhóm
+mst.scene_title.BandEnrich._mainTitle,Cường hóa nhóm
+mst.scene_title.StoryTop._mainTitle,Trang cốt truyện
+mst.scene_title.StoryMainTop._mainTitle,Cốt truyện
+mst.scene_title.StoryCardMemberTop._mainTitle,Chọn thành viên
+mst.scene_title.StoryCardEpisodeTop._mainTitle,Chọn tập
+mst.scene_title.Shop._mainTitle,Cửa hàng
+mst.scene_title.BeginnerMission._mainTitle,Nhiệm vụ tân thủ
+mst.scene_title.GuestSelect._mainTitle,Chọn khách
+mst.scene_title.MusicRanking._mainTitle,Xếp hạng bài hát
+mst.scene_title.MusicRecommend._mainTitle,Đề xuất
+mst.scene_title.ComicList._mainTitle,Truyện tranh
+mst.scene_title.PresentBox._mainTitle,Hộp quà
+mst.scene_title.Mission._mainTitle,Nhiệm vụ
+mst.scene_title.ProfileMemberSelect._mainTitle,Sửa hồ sơ
+mst.scene_title.FriendGestDetail._mainTitle,Chi tiết khách
+mst.scene_title.FriendGestMemberSelect._mainTitle,Sửa khách
+mst.scene_title.LocationInformation._mainTitle,Quà tại địa điểm
+mst.scene_title.MusicLibrary._mainTitle,Thư viện bài hát
+mst.scene_title.SerialCodeDisplay._mainTitle,Kiểm tra mã serial
+mst.scene_title.StarEventRanking._mainTitle,Xếp hạng Star Level
