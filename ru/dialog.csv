@@ -291,6 +291,10 @@ mst.dialog.Migration_RetryPassword._title,Ошибка ввода
 mst.dialog.Migration_RetryPassword._message,Идентификатор или<br>пароль для переноса данных неверны.
 mst.dialog.Migration_InputPasswordError._title,Ошибка ввода
 mst.dialog.Migration_InputPasswordError._message,"Допустимая длина пароля — от 8 до 32 символов, только латинские буквы и цифры.<br>"
+mst.dialog.Migration_NesicaTap._title,Tap NESiCA
+mst.dialog.Migration_NesicaTap._message,Hold your NESiCA against the back of the phone.
+mst.dialog.Migration_NesicaNfcOff._title,NFC Is Off
+mst.dialog.Migration_NesicaNfcOff._message,NFC is turned off.<br>Turn it on in the system settings and try again.
 mst.dialog.Error_Maintenance._title,Тех. работы
 mst.dialog.Error_Maintenance._message,"{0} <br> <br> Обратите внимание, что время проведения технического обслуживания может быть изменено без предварительного уведомления. <br> <br> Пожалуйста, ознакомьтесь с последней информацией на официальном сайте. <br> <br> <u> <link={1}> <color=blue> Официальный сайт: </color> </link> </u>"
 mst.dialog.Error_ResultCodeMaintenance._title,Тех. работы

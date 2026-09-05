@@ -291,6 +291,10 @@ mst.dialog.Migration_RetryPassword._title,Invoerfout
 mst.dialog.Migration_RetryPassword._message,Overdrachtscode of <br>wachtwoord is onjuist
 mst.dialog.Migration_InputPasswordError._title,Invoerfout
 mst.dialog.Migration_InputPasswordError._message,"Het wachtwoord moet bestaan uit<br>8 tot 32 tekens, alleen letters en cijfers."
+mst.dialog.Migration_NesicaTap._title,Tap NESiCA
+mst.dialog.Migration_NesicaTap._message,Hold your NESiCA against the back of the phone.
+mst.dialog.Migration_NesicaNfcOff._title,NFC Is Off
+mst.dialog.Migration_NesicaNfcOff._message,NFC is turned off.<br>Turn it on in the system settings and try again.
 mst.dialog.Error_Maintenance._title,Onderhoud aan de gang
 mst.dialog.Error_Maintenance._message,"De onderhoudsperiode kan zonder voorafgaande kennisgeving worden gewijzigd, dus houd hier rekening mee. {0} <br> <br> Raadpleeg de officiële website voor de meest recente informatie. <br> <br> <br> <br> <u> <link={1}> <color=blue> Officiële website </color> </link> </u>"
 mst.dialog.Error_ResultCodeMaintenance._title,Onderhoud aan de gang

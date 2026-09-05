@@ -291,6 +291,10 @@ mst.dialog.Migration_RetryPassword._title,Erro de entrada
 mst.dialog.Migration_RetryPassword._message,ID de transferência ou <br>senha incorretos.
 mst.dialog.Migration_InputPasswordError._title,Erro de entrada
 mst.dialog.Migration_InputPasswordError._message,A senha que você pode definir deve ter entre 8 e 32 caracteres alfanuméricos.<br>
+mst.dialog.Migration_NesicaTap._title,Tap NESiCA
+mst.dialog.Migration_NesicaTap._message,Hold your NESiCA against the back of the phone.
+mst.dialog.Migration_NesicaNfcOff._title,NFC Is Off
+mst.dialog.Migration_NesicaNfcOff._message,NFC is turned off.<br>Turn it on in the system settings and try again.
 mst.dialog.Error_Maintenance._title,Em manutenção
 mst.dialog.Error_Maintenance._message,"O período de manutenção pode ser alterado sem aviso prévio, por favor tenha isso em mente {0}. <br>. <br>. Para obter as informações mais recentes, consulte o site oficial <br>. <br>. <br>. <br>. <u>. <link={1}>. <color=blue>. Site oficial </color>. </link>. </u>."
 mst.dialog.Error_ResultCodeMaintenance._title,Em manutenção

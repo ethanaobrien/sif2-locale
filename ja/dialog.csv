@@ -295,6 +295,10 @@ mst.dialog.Migration_RetryPassword._title,入力エラー
 mst.dialog.Migration_RetryPassword._message,引き継ぎIDもしくは<br>パスワードが正しくありません
 mst.dialog.Migration_InputPasswordError._title,入力エラー
 mst.dialog.Migration_InputPasswordError._message,設定可能なパスワードは<br>8文字から32文字の半角英数字になります
+mst.dialog.Migration_NesicaTap._title,NESiCAをタッチ
+mst.dialog.Migration_NesicaTap._message,NESiCAをスマートフォンの背面にかざしてください。
+mst.dialog.Migration_NesicaNfcOff._title,NFCがオフです
+mst.dialog.Migration_NesicaNfcOff._message,NFCがオフになっています。<br>端末の設定でオンにしてから、もう一度お試しください。
 mst.dialog.Error_Maintenance._title,メンテナンス中
 mst.dialog.Error_Maintenance._message,{0}<br><br>※メンテナンス期間は、予告なく変更される場合が御座います予めご了承ください<br><br>※最新情報は公式サイトをご確認ください<br><br><u><link={1}><color=blue>公式サイト</color></link></u>
 mst.dialog.Error_ResultCodeMaintenance._title,メンテナンス中

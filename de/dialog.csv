@@ -291,6 +291,10 @@ mst.dialog.Migration_RetryPassword._title,Eingabefehler
 mst.dialog.Migration_RetryPassword._message,Übertragungs-ID oder<br>Passwort sind falsch.
 mst.dialog.Migration_InputPasswordError._title,Eingabefehler
 mst.dialog.Migration_InputPasswordError._message,Das Passwort muss zwischen 8 und 32 Zeichen lang sein und darf nur aus halbschriftlichen Buchstaben und Zahlen bestehen.<br>
+mst.dialog.Migration_NesicaTap._title,Tap NESiCA
+mst.dialog.Migration_NesicaTap._message,Hold your NESiCA against the back of the phone.
+mst.dialog.Migration_NesicaNfcOff._title,NFC Is Off
+mst.dialog.Migration_NesicaNfcOff._message,NFC is turned off.<br>Turn it on in the system settings and try again.
 mst.dialog.Error_Maintenance._title,Wartung läuft
 mst.dialog.Error_Maintenance._message,"Die Wartungsdauer kann sich ohne vorherige Ankündigung ändern, bitte beachten Sie dies. {0} Die aktuellsten Informationen finden Sie auf der offiziellen Webseite. <br> <br> <br> <br> <br> <br> <u> <link={1}> <color=blue> Offizielle Webseite </color> </link> </u>"
 mst.dialog.Error_ResultCodeMaintenance._title,Wartung läuft

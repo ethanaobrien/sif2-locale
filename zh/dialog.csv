@@ -291,6 +291,10 @@ mst.dialog.Migration_RetryPassword._title,输入错误
 mst.dialog.Migration_RetryPassword._message,迁移ID或密码不正确。<br>
 mst.dialog.Migration_InputPasswordError._title,输入错误
 mst.dialog.Migration_InputPasswordError._message,可设置的密码为<br>8到32个字符的半角英数字。
+mst.dialog.Migration_NesicaTap._title,Tap NESiCA
+mst.dialog.Migration_NesicaTap._message,Hold your NESiCA against the back of the phone.
+mst.dialog.Migration_NesicaNfcOff._title,NFC Is Off
+mst.dialog.Migration_NesicaNfcOff._message,NFC is turned off.<br>Turn it on in the system settings and try again.
 mst.dialog.Error_Maintenance._title,维护中
 mst.dialog.Error_Maintenance._message,{0}<br><br>请注意，维护期间可能会在没有事先通知的情况下进行更改。<br><br>请查看官方网站以获取最新信息。<br><br><u><link={1}><color=blue>官方网站</color></link></u>
 mst.dialog.Error_ResultCodeMaintenance._title,维护中

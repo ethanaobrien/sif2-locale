@@ -2031,13 +2031,13 @@ Migration_SnsLink,Account Linking
 Migration_EnableSnsLink,* Linkable Accounts
 Migration_NesicaLink,NESiCA Cards
 Migration_NesicaDialogTitle,NESiCA Cards
-Migration_NesicaSelect,A linked NESiCA plays as this account at a cabinet, and can be tapped in place of the transfer ID.
+Migration_NesicaSelect,"A linked NESiCA plays as this account at a cabinet, and can be tapped in place of the transfer ID."
 Migration_NesicaNoCards,No NESiCA is linked to this account yet.
 Migration_NesicaMore,and {0} more (see the account page)
 Migration_NesicaUnlink,Unlink
 Migration_NesicaTapToLink,Tap a NESiCA
 Migration_NesicaWaiting,Hold your NESiCA against the back of the phone.
-Migration_NesicaNfcOff,NFC is turned off. Turn it on in the system settings, then try again.
+Migration_NesicaNfcOff,"NFC is turned off. Turn it on in the system settings, then try again."
 Migration_NesicaNote,Anyone holding a linked card and your transfer password can move this account. Unlink a lost card here.
 Migration_NesicaLinkFailed,The card could not be linked. Please try again.
 Migration_NesicaLinked,NESiCA Linked
@@ -3051,7 +3051,7 @@ Auto_17d151209dcb,Use
 Auto_eb321ace03b3,Player Name
 Custom_Option_Live3d_Title,3D Live Settings
 Custom_Option_Live3d_Info,Turn 3D lives on or off and choose the quality mode.<br>Changes apply from the next live.
-Custom_Option_Live3d_Enable,3D Live Playback
+Custom_Option_Live3d_Enable,Enable SIFAS 3DMVs
 Custom_Option_Live3d_Quality,Quality Mode
 Custom_Sifas_Live3d_Toggle,3D Live
 Custom_Sifas_3dMv_Cycle,Switch
@@ -3072,9 +3072,9 @@ Custom_Option_Download_Deleting,Used: deleting…
 Custom_Option_Download_AllSongs,Download All Songs
 Custom_Option_Download_AllMv,Download All 3D MVs
 Custom_Option_Download_ClearCache,Clear Cache
-Custom_Option_Visual_Title,Visual Settings
-Custom_Option_Visual_Info,Choose a quality preset or adjust each item individually.<br>Changes apply from the next live.
-Custom_Option_Visual_Preset,Presets
+Custom_Option_Visual_Title,3DMV Settings
+Custom_Option_Visual_Info,Enable each 3DMV provider below. The graphics quality controls apply only to SIFAS 3DMVs.<br>Changes apply from the next live.
+Custom_Option_Visual_Preset,SIFAS Graphics Quality
 Custom_Option_Visual_Custom,Custom
 Custom_Option_Visual_CustomInfo,Using custom settings (applies from the next live)
 Custom_Option_Visual_GroupDisplay,Display
@@ -3084,7 +3084,7 @@ Custom_Option_Visual_GroupEffect,Effects
 Custom_Option_Visual_GroupPhysics,Physics
 Custom_Option_Visual_Resolution,Resolution
 Custom_Option_Visual_Fps,Frame Rate
-Custom_Option_Visual_SifacLives,SIFAC Arcade 3D Lives
+Custom_Option_Visual_SifacLives,Enable SIFAC 3DMVs
 Custom_Option_Visual_Aa,Anti-Aliasing
 Custom_Option_Visual_BaseLight,Base Light
 Custom_Option_Visual_Ambient,Ambient Light
@@ -3099,7 +3099,7 @@ Custom_Option_Visual_PostEffect,Post-Effects
 Custom_Option_Visual_SwingBone,Swing Physics
 Custom_Option_Keyboard_TabTitle,Keyboard
 Custom_Option_Download_TabTitle,Downloads
-Custom_Option_Visual_TabTitle,Visuals
+Custom_Option_Visual_TabTitle,3DMVs
 Custom_Option_Download_StoryMovies,Download Story Movies
 Custom_Option_Download_CardArt,Download All Card Art
 Custom_Sifas_MvDeck_Header,MV Formation
@@ -3270,7 +3270,7 @@ Arcade_Select_SongLabel,SONG
 Arcade_Select_Locked,This song is not unlocked yet.
 Arcade_Select_LevelCapped,This machine only goes up to {0}.
 Arcade_Attract_InsertCoin,INSERT COIN
-Arcade_Attract_PressStart,PRESS DECISION
+Arcade_Attract_PressStart,TAP SCREEN OR PRESS DECISION
 Arcade_TestMode_TabGame,Game
 Arcade_TestMode_TabSound,Sound
 Arcade_TestMode_TabContent,Content
@@ -3410,6 +3410,8 @@ Arcade_TestMode_DemoRequire3dLive,Demo Lands on 3D Lives Only
 Arcade_TestMode_DemoRequire3dLiveNote,Switch on to have the demo song select stop only on songs with a 3D live.
 Arcade_TestMode_SifacLives,SIFAC Arcade 3D Lives
 Arcade_TestMode_SifacLivesNote,Switch on to offer the SIFAC arcade 3D lives. They are far heavier than the SIFAS lives; leave off on weak hardware.
+Arcade_TestMode_CustomSongs,Custom Songs
+Arcade_TestMode_CustomSongsNote,Switch on to offer the server's custom songs to players and to download their files. While the cabinet idles it checks the catalog every 30 minutes and reboots on the title card when songs were added or changed.
 Arcade_Input_Reset,Reset (hold 1 s)
 Arcade_Input_ResetChord,TEST+SERVICE
 Arcade_TestMode_AccountHeader,Account Lock

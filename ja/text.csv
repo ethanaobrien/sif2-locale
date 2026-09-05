@@ -3063,7 +3063,7 @@ Auto_17d151209dcb,使用する
 Auto_eb321ace03b3,プレイヤー名
 Custom_Option_Live3d_Title,3Dライブ設定
 Custom_Option_Live3d_Info,3DライブのON/OFFと品質モードを設定します<br>変更は次のライブから適用されます
-Custom_Option_Live3d_Enable,3Dライブ再生
+Custom_Option_Live3d_Enable,SIFAS 3Dライブを有効化
 Custom_Option_Live3d_Quality,品質設定
 Custom_Sifas_Live3d_Toggle,3Dライブ
 Custom_Sifas_3dMv_Cycle,切替
@@ -3084,9 +3084,9 @@ Custom_Option_Download_Deleting,使用容量: 削除中…
 Custom_Option_Download_AllSongs,全楽曲をダウンロード
 Custom_Option_Download_AllMv,全3Dライブをダウンロード
 Custom_Option_Download_ClearCache,キャッシュを削除
-Custom_Option_Visual_Title,映像設定
-Custom_Option_Visual_Info,映像品質のプリセットを選ぶか、各項目を個別に調整できます<br>変更は次のライブから適用されます
-Custom_Option_Visual_Preset,プリセット
+Custom_Option_Visual_Title,3DMV設定
+Custom_Option_Visual_Info,下で各3DMVプロバイダーを有効にできます。映像品質設定はSIFAS 3DMVのみに適用されます。<br>変更は次のライブから適用されます
+Custom_Option_Visual_Preset,SIFAS映像品質
 Custom_Option_Visual_Custom,カスタム
 Custom_Option_Visual_CustomInfo,カスタム設定を使用中です（次のライブから適用）
 Custom_Option_Visual_GroupDisplay,表示
@@ -3096,7 +3096,7 @@ Custom_Option_Visual_GroupEffect,エフェクト
 Custom_Option_Visual_GroupPhysics,物理
 Custom_Option_Visual_Resolution,解像度
 Custom_Option_Visual_Fps,フレームレート
-Custom_Option_Visual_SifacLives,SIFAC アーケード3Dライブ
+Custom_Option_Visual_SifacLives,SIFAC 3Dライブを有効化
 Custom_Option_Visual_Aa,アンチエイリアス
 Custom_Option_Visual_BaseLight,ベースライト
 Custom_Option_Visual_Ambient,アンビエントライト
@@ -3111,7 +3111,7 @@ Custom_Option_Visual_PostEffect,ポストエフェクト
 Custom_Option_Visual_SwingBone,揺れもの
 Custom_Option_Keyboard_TabTitle,キーボード設定
 Custom_Option_Download_TabTitle,ダウンロード設定
-Custom_Option_Visual_TabTitle,映像設定
+Custom_Option_Visual_TabTitle,3DMV
 Custom_Option_Download_StoryMovies,全ストーリームービーをダウンロード
 Custom_Option_Download_CardArt,全カードイラストをダウンロード
 Custom_Sifas_MvDeck_Header,MV編成設定
@@ -3282,7 +3282,7 @@ Arcade_Select_SongLabel,SONG
 Arcade_Select_Locked,この楽曲はまだ解放されていません。
 Arcade_Select_LevelCapped,この筐体では{0}までしか選べません。
 Arcade_Attract_InsertCoin,コインを入れてください
-Arcade_Attract_PressStart,決定ボタンを押してください
+Arcade_Attract_PressStart,画面をタップまたは決定ボタンを押してください
 Arcade_TestMode_TabGame,ゲーム
 Arcade_TestMode_TabSound,サウンド
 Arcade_TestMode_TabContent,コンテンツ
@@ -3422,6 +3422,8 @@ Arcade_TestMode_DemoRequire3dLive,デモは3Dライブの楽曲のみ
 Arcade_TestMode_DemoRequire3dLiveNote,オンにするとデモ楽曲選択は3Dライブのある楽曲で止まります。
 Arcade_TestMode_SifacLives,SIFAC アーケード3Dライブ
 Arcade_TestMode_SifacLivesNote,オンにするとSIFACのアーケード3Dライブを選べるようになります。SIFASの3Dライブよりはるかに重いため、性能の低い機器ではオフのままにしてください。
+Arcade_TestMode_CustomSongs,カスタム楽曲
+Arcade_TestMode_CustomSongsNote,オンにするとサーバーのカスタム楽曲をプレイヤーに提供し、ファイルをダウンロードします。待機中は30分ごとにカタログを確認し、楽曲が追加・変更されていればタイトル画面で再起動して反映します。
 Arcade_Input_Reset,リセット（1秒長押し）
 Arcade_Input_ResetChord,TEST+SERVICE
 Arcade_TestMode_AccountHeader,アカウントロック
